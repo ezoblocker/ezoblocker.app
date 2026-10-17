@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 327,898 | Updated: 2026-10-17
+# Domains: 327,894 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -47969,7 +47969,6 @@
 0.0.0.0 bigwinscasinofr.shop
 0.0.0.0 bigwinscasinow.com
 0.0.0.0 bigwinshark.com
-0.0.0.0 bigwinslotsph.top
 0.0.0.0 bigwinspirit.com
 0.0.0.0 bigworldcasino.com
 0.0.0.0 bihan-automobile-slot77-gacor.pages.dev
@@ -178596,7 +178595,6 @@
 0.0.0.0 luckyslotsgo.com
 0.0.0.0 luckyslotsgr.click
 0.0.0.0 luckyslotsgr.com
-0.0.0.0 luckyslotsid.top
 0.0.0.0 luckyslotsjili.com
 0.0.0.0 luckyslotsjl.com
 0.0.0.0 luckyslotslink.com
@@ -239468,6 +239466,7 @@
 0.0.0.0 rainbet-casino.gr
 0.0.0.0 rainbet-casino.lv
 0.0.0.0 rainbet-casino.org.pl
+0.0.0.0 rainbet-casino.pro
 0.0.0.0 rainbet-casino.ro
 0.0.0.0 rainbet-casino.sk
 0.0.0.0 rainbet-casino1.co
@@ -247890,7 +247889,6 @@
 0.0.0.0 rokokbetking.live
 0.0.0.0 rokokbetslot88.com
 0.0.0.0 rokokbetstar.pages.dev
-0.0.0.0 rokokbetsweet.com
 0.0.0.0 rokokfunbet.com
 0.0.0.0 rokokslotonline.com
 0.0.0.0 rokscasinoonline.online
@@ -267312,7 +267310,6 @@
 0.0.0.0 slotshub.me
 0.0.0.0 slotshub.nl
 0.0.0.0 slotshub.pl
-0.0.0.0 slotshub.pro
 0.0.0.0 slotshub1.gr
 0.0.0.0 slotshub13.app
 0.0.0.0 slotshub13.com
@@ -295596,7 +295593,6 @@
 0.0.0.0 turborollcasino.co.uk
 0.0.0.0 turborushcasinob.com
 0.0.0.0 turboslotsapp.com
-0.0.0.0 turbostakes.com
 0.0.0.0 turbosven-casino-com.pages.dev
 0.0.0.0 turbosven-casino.de
 0.0.0.0 turbosvencasino-com-18843b.pages.dev

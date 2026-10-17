@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 14,665 | Updated: 2026-10-17
+# Domains: 14,663 | Updated: 2026-10-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -4962,7 +4962,6 @@
 0.0.0.0 inside-logn---trzor-en.pages.dev
 0.0.0.0 inside-logn-trzor-en.pages.dev
 0.0.0.0 inside-logn-trzor-ex.pages.dev
-0.0.0.0 insightenterprisells.com
 0.0.0.0 insta-customer-service.pages.dev
 0.0.0.0 insta-io-trezor.pages.dev
 0.0.0.0 insta-login-front.pages.dev
@@ -9844,7 +9843,6 @@
 0.0.0.0 piggy-bank-bqw.pages.dev
 0.0.0.0 pin-ledger-wallet.pages.dev
 0.0.0.0 piraeus-green-banking.ph
-0.0.0.0 plasticbells.com
 0.0.0.0 play-compte-refund.com.ph
 0.0.0.0 play.dewi11-viral.cc
 0.0.0.0 playstation-gift-card-for-roblox.pages.dev
