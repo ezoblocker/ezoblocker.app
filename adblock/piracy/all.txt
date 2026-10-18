@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 1,056 | Updated: 2026-10-18
+! Domains: 1,076 | Updated: 2026-10-18
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,6 +13,8 @@
 ||123putlockers.me^
 ||1337x.com.im^
 ||1kuttymovies.pro^
+||1madrasrockers.boats^
+||1tamilblasters.my^
 ||2fmovies.net^
 ||4kiptvireland.irish^
 ||6stream.net^
@@ -156,6 +158,7 @@
 ||crackstreams.guru^
 ||crackstreams.in^
 ||crackstreams.mx^
+||crackstreams.si^
 ||crackstreamsmax.site^
 ||cricfree.beer^
 ||cricketworld.com^
@@ -163,6 +166,7 @@
 ||crictime.com^
 ||crictime.is^
 ||cuevana-2y9h.pages.dev^
+||cuevana-3.surf^
 ||cuevana-7ap5.pages.dev^
 ||cuevana-e0a9.pages.dev^
 ||cuevana-gx65.pages.dev^
@@ -181,6 +185,7 @@
 ||cuevana3-79g.pages.dev^
 ||cuevana3-99kc.pages.dev^
 ||cuevana3-9ns.pages.dev^
+||cuevana3-a2r0.pages.dev^
 ||cuevana3-an8.pages.dev^
 ||cuevana3-d7s5.pages.dev^
 ||cuevana3-eklf.pages.dev^
@@ -189,10 +194,12 @@
 ||cuevana3-i8my.pages.dev^
 ||cuevana3-idyx.pages.dev^
 ||cuevana3-ioqy.pages.dev^
+||cuevana3-jezu.pages.dev^
 ||cuevana3-k1lh.pages.dev^
 ||cuevana3-k6m3.pages.dev^
 ||cuevana3-mfwc.pages.dev^
 ||cuevana3-mlrt.pages.dev^
+||cuevana3-n8su.pages.dev^
 ||cuevana3-ovas.pages.dev^
 ||cuevana3-resq.pages.dev^
 ||cuevana3-rg8.pages.dev^
@@ -314,6 +321,7 @@
 ||footybites.click^
 ||franceiptvpremium.net^
 ||freemoviesfull.best^
+||freemoviestreams5.pages.dev^
 ||freeshot.ch^
 ||freeshot.it^
 ||freesport.com^
@@ -375,6 +383,7 @@
 ||gogoanime.party^
 ||gogoanimes.dk^
 ||gogoanimes.watch^
+||gomovies-online.cam^
 ||gomoviesfull.com^
 ||gomovieshd.today^
 |google-play.en.softmany.com^
@@ -390,6 +399,7 @@
 |hdfilm-izle.website.org^
 ||hdfilmcehennemi.nl^
 ||hdfilmcehennemi.one^
+||hdfilmcehennemi3.com^
 ||hdfilmcehennemi4.co^
 ||hdfilmizle.live^
 ||hdfilmizle.to^
@@ -474,6 +484,7 @@
 ||justintvturkiyehd.co^
 ||justintvturkiyesh.vip^
 |katei.labo.jp^
+||kickass-anime.com^
 ||kickzone.click^
 ||kickzone.in^
 ||kingsmanga.net^
@@ -596,6 +607,7 @@
 |mobile.coivl.net^
 ||monoschinos2.net^
 |mooreok.govbuilt.com^
+||motchill.com.de^
 ||motchillia.uk^
 ||motchillk.now^
 ||motphimchill.cam^
@@ -613,6 +625,7 @@
 ||movierulz.beauty^
 ||movierulz.casa^
 ||movierulz.center^
+||movierulzhub.com^
 ||movierulzpk.pro^
 ||movies2watch.icu^
 ||moviesflixzip.xyz^
@@ -627,6 +640,7 @@
 ||myflixer--v2.pages.dev^
 ||myflixer.com.co^
 ||myflixer.news^
+||myflixerto.org^
 ||myiptvtelewizja.com^
 ||mynetnaija.ng^
 ||myvipbox.com^
@@ -679,6 +693,7 @@
 ||pelisflix-5uof.pages.dev^
 ||pelisflix-9u53.pages.dev^
 ||pelisflix-bmm5.pages.dev^
+||pelisflix-cyik.pages.dev^
 ||pelisflix-ea0l.pages.dev^
 ||pelisflix-em35.pages.dev^
 ||pelisflix-gj11.pages.dev^
@@ -720,6 +735,7 @@
 ||pepelisplus-xd21.pages.dev^
 ||pezzottoiptv.com^
 ||phimmoi.cat^
+||phimmoi.cv^
 |phimmoi.doraflixvn.com^
 ||phimmoic.nl^
 ||phimmoic.ws^
@@ -746,6 +762,7 @@
 ||pirlotv.shop^
 ||pirlotv.win^
 ||pirlotv1.live^
+||pirlotvenvivo.click^
 ||pirlotvv.org^
 |pixpretty.tenorshare.ai^
 ||planete-warez.net^
@@ -960,6 +977,7 @@
 ||v2-sportsurge.life^
 |vegamovies.gt.tc^
 ||vegasportsnetwork.com^
+||vercuevana.uk^
 ||verdeportesenvivo.com^
 |video.fanstream.jp^
 |video.mediaio.net^
@@ -994,6 +1012,7 @@
 ||watchseries-yowo.pages.dev^
 ||watchseries.net^
 ||watchseriesfree.watch^
+||watchseriesnet.net^
 |web.greekiptv.com^
 |web.iptvsolutions.nl^
 |web.topcinema.io^
@@ -1054,6 +1073,7 @@
 ||yallashoot-yacine.com^
 ||yallashoot.id^
 ||yallashoot09.live^
+||yallashootplus.live^
 ||yallashoott.pro^
 ||yesmovies-to.pages.dev^
 |yozm.wishket.com^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, ct
-# Domains: 238 | Updated: 2026-10-18
+# Domains: 258 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,8 @@
 0.0.0.0 123-hdmovie.com
 0.0.0.0 123gomovies.com
 0.0.0.0 123mangaraw.org
+0.0.0.0 1madrasrockers.boats
+0.0.0.0 1tamilblasters.my
 0.0.0.0 abonnement-iptvsmarterspro.app
 0.0.0.0 animeloads.cyou
 0.0.0.0 arabseed.ltd
@@ -29,7 +31,9 @@
 0.0.0.0 cinecalidad-xexj.pages.dev
 0.0.0.0 cinecalidad-ykut.pages.dev
 0.0.0.0 cpasbientv.cv
+0.0.0.0 crackstreams.si
 0.0.0.0 cuevana-2y9h.pages.dev
+0.0.0.0 cuevana-3.surf
 0.0.0.0 cuevana-7ap5.pages.dev
 0.0.0.0 cuevana-e0a9.pages.dev
 0.0.0.0 cuevana-gx65.pages.dev
@@ -48,6 +52,7 @@
 0.0.0.0 cuevana3-79g.pages.dev
 0.0.0.0 cuevana3-99kc.pages.dev
 0.0.0.0 cuevana3-9ns.pages.dev
+0.0.0.0 cuevana3-a2r0.pages.dev
 0.0.0.0 cuevana3-an8.pages.dev
 0.0.0.0 cuevana3-d7s5.pages.dev
 0.0.0.0 cuevana3-eklf.pages.dev
@@ -56,10 +61,12 @@
 0.0.0.0 cuevana3-i8my.pages.dev
 0.0.0.0 cuevana3-idyx.pages.dev
 0.0.0.0 cuevana3-ioqy.pages.dev
+0.0.0.0 cuevana3-jezu.pages.dev
 0.0.0.0 cuevana3-k1lh.pages.dev
 0.0.0.0 cuevana3-k6m3.pages.dev
 0.0.0.0 cuevana3-mfwc.pages.dev
 0.0.0.0 cuevana3-mlrt.pages.dev
+0.0.0.0 cuevana3-n8su.pages.dev
 0.0.0.0 cuevana3-ovas.pages.dev
 0.0.0.0 cuevana3-resq.pages.dev
 0.0.0.0 cuevana3-rg8.pages.dev
@@ -88,6 +95,7 @@
 0.0.0.0 fmoviesz.news
 0.0.0.0 franceiptvpremium.net
 0.0.0.0 freemoviesfull.best
+0.0.0.0 freemoviestreams5.pages.dev
 0.0.0.0 futbolgratis.com.mx
 0.0.0.0 futbollibrehd-tv.com
 0.0.0.0 futbollibretv.ink
@@ -98,6 +106,8 @@
 0.0.0.0 gipnozis-hdrezka.org
 0.0.0.0 gogoanime-v3.pages.dev
 0.0.0.0 gogoanime.party
+0.0.0.0 gomovies-online.cam
+0.0.0.0 hdfilmcehennemi3.com
 0.0.0.0 iptv-smarters-subscription.com
 0.0.0.0 iptvbrasil.com.br
 0.0.0.0 iptvcanada8k.ca
@@ -108,6 +118,7 @@
 0.0.0.0 iptvsmartersproplaylist.shop
 0.0.0.0 irelandiptv.online
 0.0.0.0 jkanimes-lat.pages.dev
+0.0.0.0 kickass-anime.com
 0.0.0.0 kinokiste-38t3.pages.dev
 0.0.0.0 koraonline.club
 0.0.0.0 kuttymovies.ai.in
@@ -117,6 +128,7 @@
 0.0.0.0 lordfilmstv.click
 0.0.0.0 magistvfutbol.com
 0.0.0.0 mangaraw.top
+0.0.0.0 motchill.com.de
 0.0.0.0 motchillia.uk
 0.0.0.0 motchillk.now
 0.0.0.0 motphimchill.cam
@@ -125,10 +137,12 @@
 0.0.0.0 motphimchill.run
 0.0.0.0 movie-cinema-server-fr.pages.dev
 0.0.0.0 movierulz.beauty
+0.0.0.0 movierulzhub.com
 0.0.0.0 movies2watch.icu
 0.0.0.0 movieshd-v3.pages.dev
 0.0.0.0 myflixer--v2.pages.dev
 0.0.0.0 myflixer.news
+0.0.0.0 myflixerto.org
 0.0.0.0 myiptvtelewizja.com
 0.0.0.0 mywatchseries.pages.dev
 0.0.0.0 nontonfilm.hair
@@ -142,6 +156,7 @@
 0.0.0.0 pelisflix-5uof.pages.dev
 0.0.0.0 pelisflix-9u53.pages.dev
 0.0.0.0 pelisflix-bmm5.pages.dev
+0.0.0.0 pelisflix-cyik.pages.dev
 0.0.0.0 pelisflix-ea0l.pages.dev
 0.0.0.0 pelisflix-em35.pages.dev
 0.0.0.0 pelisflix-gj11.pages.dev
@@ -168,10 +183,12 @@
 0.0.0.0 pepelisplus-k0vb.pages.dev
 0.0.0.0 pepelisplus-uhek.pages.dev
 0.0.0.0 pepelisplus-xd21.pages.dev
+0.0.0.0 phimmoi.cv
 0.0.0.0 phimmoinet.pro
 0.0.0.0 phimmotchill.fun
 0.0.0.0 phimvietsub.club
 0.0.0.0 pirataria.digital
+0.0.0.0 pirlotvenvivo.click
 0.0.0.0 putlocker-du55.pages.dev
 0.0.0.0 putlocker-jmrb.pages.dev
 0.0.0.0 putlocker-k0u0.pages.dev
@@ -208,6 +225,7 @@
 0.0.0.0 torrentleech.pages.dev
 0.0.0.0 totalsportek-cyou.pages.dev
 0.0.0.0 v2-sportsurge.life
+0.0.0.0 vercuevana.uk
 0.0.0.0 verdeportesenvivo.com
 0.0.0.0 watchmovies.info
 0.0.0.0 watchmoviesonlinehere.com
@@ -217,6 +235,7 @@
 0.0.0.0 watchseries-mko1.pages.dev
 0.0.0.0 watchseries-mkqw.pages.dev
 0.0.0.0 watchseries-yowo.pages.dev
+0.0.0.0 watchseriesnet.net
 0.0.0.0 ww1--kissanime.pages.dev
 0.0.0.0 www-cpasbien.cc
 0.0.0.0 xemsocolive.com
@@ -238,6 +257,7 @@
 0.0.0.0 yallashoot-w11.pages.dev
 0.0.0.0 yallashoot-yacine.com
 0.0.0.0 yallashoot09.live
+0.0.0.0 yallashootplus.live
 0.0.0.0 yallashoott.pro
 0.0.0.0 yesmovies-to.pages.dev
 0.0.0.0 zalukaj-plus.pl

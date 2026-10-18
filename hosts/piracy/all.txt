@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,056 | Updated: 2026-10-18
+# Domains: 1,076 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,6 +13,8 @@
 0.0.0.0 123putlockers.me
 0.0.0.0 1337x.com.im
 0.0.0.0 1kuttymovies.pro
+0.0.0.0 1madrasrockers.boats
+0.0.0.0 1tamilblasters.my
 0.0.0.0 2fmovies.net
 0.0.0.0 4kiptvireland.irish
 0.0.0.0 6stream.net
@@ -156,6 +158,7 @@
 0.0.0.0 crackstreams.guru
 0.0.0.0 crackstreams.in
 0.0.0.0 crackstreams.mx
+0.0.0.0 crackstreams.si
 0.0.0.0 crackstreamsmax.site
 0.0.0.0 cricfree.beer
 0.0.0.0 cricketworld.com
@@ -163,6 +166,7 @@
 0.0.0.0 crictime.com
 0.0.0.0 crictime.is
 0.0.0.0 cuevana-2y9h.pages.dev
+0.0.0.0 cuevana-3.surf
 0.0.0.0 cuevana-7ap5.pages.dev
 0.0.0.0 cuevana-e0a9.pages.dev
 0.0.0.0 cuevana-gx65.pages.dev
@@ -181,6 +185,7 @@
 0.0.0.0 cuevana3-79g.pages.dev
 0.0.0.0 cuevana3-99kc.pages.dev
 0.0.0.0 cuevana3-9ns.pages.dev
+0.0.0.0 cuevana3-a2r0.pages.dev
 0.0.0.0 cuevana3-an8.pages.dev
 0.0.0.0 cuevana3-d7s5.pages.dev
 0.0.0.0 cuevana3-eklf.pages.dev
@@ -189,10 +194,12 @@
 0.0.0.0 cuevana3-i8my.pages.dev
 0.0.0.0 cuevana3-idyx.pages.dev
 0.0.0.0 cuevana3-ioqy.pages.dev
+0.0.0.0 cuevana3-jezu.pages.dev
 0.0.0.0 cuevana3-k1lh.pages.dev
 0.0.0.0 cuevana3-k6m3.pages.dev
 0.0.0.0 cuevana3-mfwc.pages.dev
 0.0.0.0 cuevana3-mlrt.pages.dev
+0.0.0.0 cuevana3-n8su.pages.dev
 0.0.0.0 cuevana3-ovas.pages.dev
 0.0.0.0 cuevana3-resq.pages.dev
 0.0.0.0 cuevana3-rg8.pages.dev
@@ -314,6 +321,7 @@
 0.0.0.0 footybites.click
 0.0.0.0 franceiptvpremium.net
 0.0.0.0 freemoviesfull.best
+0.0.0.0 freemoviestreams5.pages.dev
 0.0.0.0 freeshot.ch
 0.0.0.0 freeshot.it
 0.0.0.0 freesport.com
@@ -375,6 +383,7 @@
 0.0.0.0 gogoanime.party
 0.0.0.0 gogoanimes.dk
 0.0.0.0 gogoanimes.watch
+0.0.0.0 gomovies-online.cam
 0.0.0.0 gomoviesfull.com
 0.0.0.0 gomovieshd.today
 0.0.0.0 google-play.en.softmany.com
@@ -390,6 +399,7 @@
 0.0.0.0 hdfilm-izle.website.org
 0.0.0.0 hdfilmcehennemi.nl
 0.0.0.0 hdfilmcehennemi.one
+0.0.0.0 hdfilmcehennemi3.com
 0.0.0.0 hdfilmcehennemi4.co
 0.0.0.0 hdfilmizle.live
 0.0.0.0 hdfilmizle.to
@@ -474,6 +484,7 @@
 0.0.0.0 justintvturkiyehd.co
 0.0.0.0 justintvturkiyesh.vip
 0.0.0.0 katei.labo.jp
+0.0.0.0 kickass-anime.com
 0.0.0.0 kickzone.click
 0.0.0.0 kickzone.in
 0.0.0.0 kingsmanga.net
@@ -596,6 +607,7 @@
 0.0.0.0 mobile.coivl.net
 0.0.0.0 monoschinos2.net
 0.0.0.0 mooreok.govbuilt.com
+0.0.0.0 motchill.com.de
 0.0.0.0 motchillia.uk
 0.0.0.0 motchillk.now
 0.0.0.0 motphimchill.cam
@@ -613,6 +625,7 @@
 0.0.0.0 movierulz.beauty
 0.0.0.0 movierulz.casa
 0.0.0.0 movierulz.center
+0.0.0.0 movierulzhub.com
 0.0.0.0 movierulzpk.pro
 0.0.0.0 movies2watch.icu
 0.0.0.0 moviesflixzip.xyz
@@ -627,6 +640,7 @@
 0.0.0.0 myflixer--v2.pages.dev
 0.0.0.0 myflixer.com.co
 0.0.0.0 myflixer.news
+0.0.0.0 myflixerto.org
 0.0.0.0 myiptvtelewizja.com
 0.0.0.0 mynetnaija.ng
 0.0.0.0 myvipbox.com
@@ -679,6 +693,7 @@
 0.0.0.0 pelisflix-5uof.pages.dev
 0.0.0.0 pelisflix-9u53.pages.dev
 0.0.0.0 pelisflix-bmm5.pages.dev
+0.0.0.0 pelisflix-cyik.pages.dev
 0.0.0.0 pelisflix-ea0l.pages.dev
 0.0.0.0 pelisflix-em35.pages.dev
 0.0.0.0 pelisflix-gj11.pages.dev
@@ -720,6 +735,7 @@
 0.0.0.0 pepelisplus-xd21.pages.dev
 0.0.0.0 pezzottoiptv.com
 0.0.0.0 phimmoi.cat
+0.0.0.0 phimmoi.cv
 0.0.0.0 phimmoi.doraflixvn.com
 0.0.0.0 phimmoic.nl
 0.0.0.0 phimmoic.ws
@@ -746,6 +762,7 @@
 0.0.0.0 pirlotv.shop
 0.0.0.0 pirlotv.win
 0.0.0.0 pirlotv1.live
+0.0.0.0 pirlotvenvivo.click
 0.0.0.0 pirlotvv.org
 0.0.0.0 pixpretty.tenorshare.ai
 0.0.0.0 planete-warez.net
@@ -960,6 +977,7 @@
 0.0.0.0 v2-sportsurge.life
 0.0.0.0 vegamovies.gt.tc
 0.0.0.0 vegasportsnetwork.com
+0.0.0.0 vercuevana.uk
 0.0.0.0 verdeportesenvivo.com
 0.0.0.0 video.fanstream.jp
 0.0.0.0 video.mediaio.net
@@ -994,6 +1012,7 @@
 0.0.0.0 watchseries-yowo.pages.dev
 0.0.0.0 watchseries.net
 0.0.0.0 watchseriesfree.watch
+0.0.0.0 watchseriesnet.net
 0.0.0.0 web.greekiptv.com
 0.0.0.0 web.iptvsolutions.nl
 0.0.0.0 web.topcinema.io
@@ -1054,6 +1073,7 @@
 0.0.0.0 yallashoot-yacine.com
 0.0.0.0 yallashoot.id
 0.0.0.0 yallashoot09.live
+0.0.0.0 yallashootplus.live
 0.0.0.0 yallashoott.pro
 0.0.0.0 yesmovies-to.pages.dev
 0.0.0.0 yozm.wishket.com

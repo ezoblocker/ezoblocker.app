@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Security
-! Domains: 14,652 | Updated: 2026-10-18
+! Domains: 14,775 | Updated: 2026-10-18
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 ||086543lbc-hari-padala-davao-city-del-sur-quezon-avenue.ph^
 ||086543verification-team-urgent-urgent-urgent-urgent-ph.ph^
 ||086550310facebook-account-verification-critical-update.ph^
+||0977053verification-accounts-secureservers-appleeid-com.ph^
 ||0arc-mabar88.pages.dev^
 ||0instagram-login-secure-status-lock-status.com.ph^
 ||0join-chat-whatsapp-mee-6b9.pages.dev^
@@ -147,6 +148,7 @@
 ||acces--uphold--logn.pages.dev^
 ||acces-irron-crypto-wallet.pages.dev^
 ||acces-metamssk--logn.pages.dev^
+||acces-trzor--logn-uss.pages.dev^
 ||acces-uphold-walet-suport.pages.dev^
 ||access-aave-wallet.pages.dev^
 ||access-abraxs-wallet.pages.dev^
@@ -176,6 +178,7 @@
 ||access-ledgger-live-wallet-eng.pages.dev^
 ||access-ledgr-wallet.pages.dev^
 ||access-ledgrlive-login.pages.dev^
+||access-lgin--trzor.pages.dev^
 ||access-liive-ledgr-wallet.pages.dev^
 ||access-live-ledger-wallet-en.pages.dev^
 ||access-liveledgr-auths.pages.dev^
@@ -246,6 +249,7 @@
 ||account-coinbase-pro-login-eng.pages.dev^
 ||account-coinbase-pro-login.pages.dev^
 ||account-coinbase-pro.pages.dev^
+||account-coinbase-sighin.pages.dev^
 ||account-coinbasepr-login.pages.dev^
 ||account-coinbse-en-us.pages.dev^
 ||account-docusign-net.pages.dev^
@@ -293,6 +297,7 @@
 ||account-wallet-trezoor.pages.dev^
 |account.almara.online^
 |account.almari-studio.shop^
+|account.alnima.store^
 |account.anses-and-co.com^
 |account.bdonline.shop^
 |account.bys-insta-store-113706.com^
@@ -732,6 +737,7 @@
 |alert.garant.ida.kraft-group.com^
 ||alertaciudadanatultitlan.mx^
 ||alertadetran.pages.dev^
+||alerts-subito.help^
 |alerts.online.chaseonlinealerts.theuba.com.br^
 ||alibaba-applesupport-konstantinlind.ph^
 ||alibaba-applesupport.ph^
@@ -813,6 +819,7 @@
 ||app--itrustcapital-login-auth.pages.dev^
 ||app--logiin--upholdd.pages.dev^
 ||app--net--coins-io-lgin.pages.dev^
+||app--netcoin-login.pages.dev^
 ||app--trustcapital-auths.pages.dev^
 ||app-account-ledgrlive.pages.dev^
 ||app-bdo-secure-online-verification.pages.dev^
@@ -848,6 +855,7 @@
 ||app-mtamsk-logn.pages.dev^
 ||app-netcoiins-sso-web.pages.dev^
 ||app-netcoin-logi.pages.dev^
+||app-netcoin-login.pages.dev^
 ||app-netcoins-login.pages.dev^
 ||app-nettcoins-login.pages.dev^
 ||app-purchase-refund-itunes.store^
@@ -1598,6 +1606,7 @@
 ||blockchainswallet.pages.dev^
 ||blockchainwallet.pages.dev^
 ||blocket-confirmation.shop^
+||blocketbetalning.help^
 ||blocketbetalning.online^
 ||blockf-en-helps.pages.dev^
 ||blockfi---login.pages.dev^
@@ -1610,6 +1619,7 @@
 ||blockfi-en-login.pages.dev^
 ||blockfi-lgin.pages.dev^
 ||blockfi-logen-support.pages.dev^
+||blockfi-loggin-us.pages.dev^
 ||blockfi-logiin-en.pages.dev^
 ||blockfi-logiin-eng.pages.dev^
 ||blockfi-logiin-io-us.pages.dev^
@@ -1639,6 +1649,7 @@
 ||blockfii-en-login.pages.dev^
 ||blockfii-lgin.pages.dev^
 ||blockfii-logi.wasmer.app^
+||blockfii-logiin-engs.pages.dev^
 ||blockfii-logiin-ooooathhhhh.pages.dev^
 ||blockfiilogiin-io-us.pages.dev^
 ||blockfilogiin-io-us.pages.dev^
@@ -1687,10 +1698,12 @@
 ||bridge-support-trezor.pages.dev^
 ||bridge-treezor-official-app.pages.dev^
 ||bridge-treezor-support-99l.pages.dev^
+||bridge-treezor-support-app.pages.dev^
 ||bridge-treezor-support.pages.dev^
 ||bridge-trezor-secure.pages.dev^
 ||bridge-trezor-suport-app.pages.dev^
 ||bridge-trezor-support.pages.dev^
+||bridge-trezzor-suport.pages.dev^
 ||bridge-trzor-sso.pages.dev^
 ||bridgei-support-trzorr.pages.dev^
 ||brimo-festival-hadiah.pages.dev^
@@ -1804,6 +1817,7 @@
 ||cancel-amazon-prime-tv-subscription.pages.dev^
 ||cancel-binance.app^
 ||cancel-disney-plus-tv-subscription.pages.dev^
+||cancel-firstbnk.pages.dev^
 ||cancel-firstnationalbnk.pages.dev^
 ||cancel-firstsouthern-access.pages.dev^
 ||cancel-fmsbnk-access.pages.dev^
@@ -1887,6 +1901,7 @@
 ||chef-pal-wallet-login.pages.dev^
 ||chinabank-malabon-city-metro-manila-potrero.com.ph^
 ||chinabank-manila-metro-ermita.com.ph^
+||chrome-coinbase-wallet-extension.pages.dev^
 ||chrome-metask-io-login.pages.dev^
 ||cibc-online-signin.com^
 ||cibeg-tum-cibeg.ph^
@@ -1978,6 +1993,7 @@
 ||cloud-blockfi-logi.pages.dev^
 ||cloud-coinbasepr-login.pages.dev^
 ||cloud-coinbse-logn.pages.dev^
+||cloud-coinbse-sign.pages.dev^
 ||cloud-exodus-wallet.pages.dev^
 ||cloud-i-trustcapital-sign.pages.dev^
 ||cloud-i-trustcapitl-login.pages.dev^
@@ -2283,6 +2299,7 @@
 ||coinbase-support-ip2.pages.dev^
 ||coinbase-support-line.net.ph^
 ||coinbase-support-log.pages.dev^
+||coinbase-us--wallet-extension.pages.dev^
 ||coinbase-us-en-login.pages.dev^
 ||coinbase-us-wallet-extension-en.pages.dev^
 ||coinbase-us-wallet-extension.pages.dev^
@@ -2354,6 +2371,7 @@
 ||coinbasepro-login-run.pages.dev^
 ||coinbasepro-login-us.pages.dev^
 ||coinbasepro-logn-en-us.pages.dev^
+||coinbasepro-logn-learn.pages.dev^
 ||coinbasepro-logn.pages.dev^
 ||coinbasepro-main--login.pages.dev^
 ||coinbasesignincom.pages.dev^
@@ -2375,6 +2393,7 @@
 ||coinbse-logi.pages.dev^
 ||coinbse-login-cdn.pages.dev^
 ||coinbse-login-pro.pages.dev^
+||coinbse-login-us.pages.dev^
 ||coinbse-logn.pages.dev^
 ||coinbse-pro--login.pages.dev^
 ||coinbse-pro-com-login.pages.dev^
@@ -2420,6 +2439,7 @@
 ||com-ndax-logins.pages.dev^
 ||com-ndaxx-logn.pages.dev^
 |com-page-signin-verify-appleid-section.centennialwireless.com^
+||com-strt-leddger-eng-support.pages.dev^
 ||com-uphold-auths.pages.dev^
 ||com-wallet-ledger.pages.dev^
 |comcast.utlook.com^
@@ -2440,6 +2460,7 @@
 ||con-firstbnk-online.pages.dev^
 ||conbase-login-pro.pages.dev^
 ||conbase-pro-login.pages.dev^
+||conbase-pro-logn.pages.dev^
 ||conbase-proo-login.pages.dev^
 ||conbasepro-lgn-secure.pages.dev^
 |concours.organon-office-test.org^
@@ -2990,6 +3011,7 @@
 ||en-ledgrlive-auths.pages.dev^
 ||en-ledgrlive-helps.pages.dev^
 ||en-ledgrlive-logon.pages.dev^
+||en-ledgrlive-wallet.pages.dev^
 ||en-legior-live-logn.pages.dev^
 ||en-live-ledger-helps.pages.dev^
 ||en-live-ledgger-loggin.pages.dev^
@@ -3066,6 +3088,7 @@
 ||en-trzor-wallet-login.pages.dev^
 ||en-trzor-wllt-lgin.pages.dev^
 ||en-ttrezor-wallet.pages.dev^
+||en-uphodl-login.pages.dev^
 ||en-uphold-com-logn.pages.dev^
 ||en-uphold-logn.pages.dev^
 ||en-uphold-support.pages.dev^
@@ -3158,6 +3181,7 @@
 ||eng-wallet-ledger.pages.dev^
 ||eng-wallet-trezor.pages.dev^
 ||eng-wallet-upphold.pages.dev^
+||eng-wallett-upphold.pages.dev^
 ||eng-web-ndax-logn.pages.dev^
 ||enggg--coo-logiin-upholdd.pages.dev^
 ||engie-be-xptkv.icu^
@@ -3232,6 +3256,7 @@
 ||exodus----web3wallet.pages.dev^
 ||exodus---wallet-io.pages.dev^
 ||exodus---wallet.pages.dev^
+||exodus---web3-wallet.pages.dev^
 ||exodus---web3wallet.pages.dev^
 ||exodus--e-web3wallet.pages.dev^
 ||exodus--u--web3wallet.pages.dev^
@@ -3302,6 +3327,7 @@
 ||exodus-wallet-enou.pages.dev^
 ||exodus-wallet-ens.pages.dev^
 ||exodus-wallet-ensi.pages.dev^
+||exodus-wallet-enst.pages.dev^
 ||exodus-wallet-era.pages.dev^
 ||exodus-wallet-ern.pages.dev^
 ||exodus-wallet-erni.pages.dev^
@@ -3762,6 +3788,7 @@
 ||faq-robinhood-logiin-io-us.pages.dev^
 ||faq-robinhood-login-io-us.pages.dev^
 ||faq-robinhood-login-us.pages.dev^
+||faq-robinhood-logins.pages.dev^
 ||faq-robinhood-logn.pages.dev^
 ||faq-sso-trzor-io-help.pages.dev^
 ||faq-support-ledger-live-app.pages.dev^
@@ -3807,6 +3834,7 @@
 ||faq-trezorwallet-cdn.pages.dev^
 ||faq-trezorwallet-us.pages.dev^
 ||faq-trrezor-wallet.pages.dev^
+||faq-trzor-login.pages.dev^
 ||faq-trzor-wallet.pages.dev^
 ||faq-uphold-logn.pages.dev^
 ||faq-uphold-wallet-en-us.pages.dev^
@@ -3818,6 +3846,7 @@
 ||faq-us-trezor-wallet-web.pages.dev^
 ||faq-wallet-exodus.pages.dev^
 ||faq-wallet-ledegrlive-cdn.pages.dev^
+||faq-wallet-ledger.pages.dev^
 ||faq-wallet-ledgerlive-us.pages.dev^
 ||faq-wallet-trezoor-en-us.pages.dev^
 ||faq-wallet-trezoor-us.pages.dev^
@@ -4242,6 +4271,7 @@
 ||guide-coinbase-login.pages.dev^
 ||guide-coinbasepro-login-en.pages.dev^
 ||guide-coinbasepro-login.pages.dev^
+||guide-coinbse-login.pages.dev^
 ||guide-leddger-login-cdn.pages.dev^
 ||guide-leddger-wallet-cdn.pages.dev^
 ||guide-ledegrlive-wallet.pages.dev^
@@ -4357,6 +4387,7 @@
 ||help-en-biitmert-logn.pages.dev^
 ||help-en-kucion-secure.pages.dev^
 ||help-en-trezor-wallet.pages.dev^
+||help-exodus-web3-wallet.pages.dev^
 ||help-exodus-web3wallet.pages.dev^
 ||help-faq-trezor-wallet.pages.dev^
 ||help-gemini-logn-app.pages.dev^
@@ -4389,6 +4420,7 @@
 ||help-login-trezor-cdn.pages.dev^
 ||help-login-trezor-cdnn.pages.dev^
 ||help-login-trezor.pages.dev^
+||help-login-trezorr.pages.dev^
 ||help-logn-coinbase.pages.dev^
 ||help-logn-en-trezr.pages.dev^
 ||help-logn-secure-ledgr.pages.dev^
@@ -4524,6 +4556,7 @@
 ||helps-live-u-eng.pages.dev^
 ||helps-live-un.pages.dev^
 ||helps-live-us.pages.dev^
+||helps-liveing-ledger.pages.dev^
 ||helps-logi-ledger.pages.dev^
 ||helps-logni-ledger.pages.dev^
 ||helps-metamask-docs.pages.dev^
@@ -4557,6 +4590,7 @@
 ||home--login-trezor-cdnn.pages.dev^
 ||home--mtamask-login.pages.dev^
 ||home--mtamask-logn.pages.dev^
+||home--opensea-login.pages.dev^
 ||home--trezor-login-eng.pages.dev^
 ||home--uphoold-login-us.pages.dev^
 ||home-auths-desktop-ledgrcom.pages.dev^
@@ -4583,6 +4617,7 @@
 ||home-exodus--wallet.pages.dev^
 ||home-exodus-wallet-io.pages.dev^
 ||home-exodus-wallet.pages.dev^
+||home-extension-coinbase-wallet.pages.dev^
 ||home-faq-ledgerlive-en-auths.pages.dev^
 ||home-faqs-trezor-io-login.pages.dev^
 ||home-faqs-trezor-io-logn.pages.dev^
@@ -4770,6 +4805,7 @@
 ||hrd-in-logn-trezor.pages.dev^
 ||hrd-in-logn-trezr-ng-live.pages.dev^
 ||hrdware-wallet-trezrr.pages.dev^
+||hsbc-id-verification.pages.dev^
 ||hsbc-savings-bank-las-pinas-city-metro-manila-branch.ph^
 ||hub-coinbase-pro-login.pages.dev^
 ||hub-ledgrlive-auths-x.pages.dev^
@@ -4813,11 +4849,13 @@
 ||icloud-content-support.ph^
 ||icloud-en-us.info^
 ||icloud-find-logins.com^
+||icloud-findmyphone-online.ph^
 ||icloud-gift-card.pages.dev^
 ||icloud-gift.ru^
 ||icloud-intl-locked.ph^
 ||icloud-iphone-di.ph^
 ||icloud-keychain-account-login.pages.dev^
+||icloud-keychain-cancel-subscripition.pages.dev^
 ||icloud-keychain-customer-care-phone-number.pages.dev^
 ||icloud-keychain-customer-service.pages.dev^
 ||icloud-keychain-customer-support-number.pages.dev^
@@ -4887,6 +4925,7 @@
 ||imtokenwallet.pages.dev^
 ||in-afcu0sign-in0page.pages.dev^
 ||in-coinbsepro-login.pages.dev^
+||inc-coinbase-wallet-extension.pages.dev^
 ||income-easy-join-us5555541.pages.dev^
 ||incometax-applesupport-ovo.ph^
 ||incometax-opensea-turkishairline.ph^
@@ -4930,6 +4969,7 @@
 ||ing-bank-private-banking.com.ph^
 ||ing-bank-private-banking.ph^
 ||ing-ledgr-live-logn.pages.dev^
+||ing-support-bridge.pages.dev^
 ||ingbank-alert.ph^
 ||ingbank-bireysel.ph^
 ||ingbank-kargo.ph^
@@ -4950,6 +4990,7 @@
 ||inside-logn---trzor-en.pages.dev^
 ||inside-logn-trzor-en.pages.dev^
 ||inside-logn-trzor-ex.pages.dev^
+||inside-logn-trzor.pages.dev^
 ||insightenterprisells.com^
 ||insta-customer-service.pages.dev^
 ||insta-io-trezor.pages.dev^
@@ -5228,6 +5269,7 @@
 ||io-trzor-hardware-wallet.pages.dev^
 ||io-trzor-support.pages.dev^
 ||io-trzor-wallet.pages.dev^
+||io-upholdd-login-en.pages.dev^
 ||io-upholld-login.pages.dev^
 ||io-us-ledgercom-wallet.pages.dev^
 ||io-wallet-exodus.pages.dev^
@@ -5259,6 +5301,7 @@
 ||irs-support-team.pages.dev^
 ||isbank-compte-signin.ph^
 ||isecure-metamask.pages.dev^
+||issue-login-netcoins.pages.dev^
 ||isupport-apple.info^
 ||isupport-help.info^
 ||item-whatapp.hl.cn^
@@ -5324,6 +5367,7 @@
 ||itrustcapital-login-run.pages.dev^
 ||itrustcapital-login-s.pages.dev^
 ||itrustcapital-login-seb.pages.dev^
+||itrustcapital-login-sso.pages.dev^
 ||itrustcapital-login-support.pages.dev^
 ||itrustcapital-login-web-ett.pages.dev^
 ||itrustcapital-login-web.pages.dev^
@@ -5557,6 +5601,7 @@
 ||kleinanzeigen-akzeptieren-7358567.info^
 ||kleinanzeigen-akzeptieren-okt.info^
 ||kleinanzeigen-akzeptiert-oct.info^
+||kleinanzeigen-alert.info^
 ||kleinanzeigen-confirm-com.pages.dev^
 ||kleinanzeigen-confirm.com^
 ||kleinanzeigen-confirm.shop^
@@ -5576,6 +5621,7 @@
 ||kleinanzeigen-order.click^
 ||kleinanzeigen-order.info^
 ||kleinanzeigen-pay-oct.info^
+||kleinanzeigen-payment113.info^
 ||kleinanzeigen-payment251.info^
 ||kleinanzeigen-promo-click.pages.dev^
 ||kleinanzeigen-promo.click^
@@ -5920,6 +5966,7 @@
 ||learn-robinnhood-signin.pages.dev^
 ||learn-secure-coinbasepro.pages.dev^
 ||learn-trezor-login-en.pages.dev^
+||learn-trezor-login.pages.dev^
 ||learn-trezor-logn-sso.pages.dev^
 ||learn-trezor-wallet-6pw.pages.dev^
 ||learn-trezor-wallet-web-us.pages.dev^
@@ -6170,6 +6217,7 @@
 ||ledger-live-wallet-auth.pages.dev^
 ||ledger-live-wallet-awsd.pages.dev^
 ||ledger-live-wallet-cdn.pages.dev^
+||ledger-live-wallet-com.pages.dev^
 ||ledger-live-wallet-come.pages.dev^
 ||ledger-live-wallet-connect.pages.dev^
 ||ledger-live-wallet-downlod.pages.dev^
@@ -6371,6 +6419,7 @@
 ||ledgerlive-wallet--en-us.pages.dev^
 ||ledgerlive-wallet-cloud.pages.dev^
 ||ledgerlive-wallet-docs.pages.dev^
+||ledgerlive-wallet-en-us.pages.dev^
 ||ledgerlive-wallet-en.pages.dev^
 ||ledgerlive-wallet-eng.pages.dev^
 ||ledgerlive-wallet-ent.pages.dev^
@@ -6452,11 +6501,13 @@
 ||ledgerr-login-learn.wasmer.app^
 ||ledgerr-login-start.pages.dev^
 ||ledgerr-login-web.pages.dev^
+||ledgerr-walet-logon.pages.dev^
 ||ledgerr-wallet-en-os.pages.dev^
 ||ledgerr-wallet-log.pages.dev^
 ||ledgerr-wallet-login.pages.dev^
 ||ledgerrlive-login-engs.pages.dev^
 ||ledgers-live-support.pages.dev^
+||ledgger--com--official.pages.dev^
 ||ledgger--com-official.pages.dev^
 ||ledgger--live--login.pages.dev^
 ||ledgger--logn-sso.pages.dev^
@@ -6504,6 +6555,7 @@
 ||ledgre-en-helps.pages.dev^
 ||ledgre-en-login.pages.dev^
 ||ledgre-eng-login.pages.dev^
+||ledgre-io-login.pages.dev^
 ||ledgre-live-login-auth.pages.dev^
 ||ledgre-live-login.pages.dev^
 ||ledgre-live-logins.pages.dev^
@@ -6584,6 +6636,7 @@
 ||legder-live-login-swts.pages.dev^
 ||legder-live-wallet-come.pages.dev^
 ||legder-livve-login-en.pages.dev^
+||legder-login-connect.wasmer.app^
 ||legder-login-docu.pages.dev^
 ||legder-login-en.wasmer.app^
 ||legder-login-io.wasmer.app^
@@ -6922,6 +6975,7 @@
 ||login--robinhod.pages.dev^
 ||login--robinhood-fed.pages.dev^
 ||login--robinhood-sso.pages.dev^
+||login--robinhood-us.pages.dev^
 ||login--robinhood-web.pages.dev^
 ||login--robinhood.pages.dev^
 ||login--trezor-en-us.pages.dev^
@@ -6939,6 +6993,7 @@
 ||login-blockfi-fqa.pages.dev^
 ||login-blockfi-how.pages.dev^
 ||login-blockfi-pages.pages.dev^
+||login-blockfii-en.pages.dev^
 ||login-blockfii-io.pages.dev^
 ||login-blockfii-ott.pages.dev^
 ||login-blockfii-portal.pages.dev^
@@ -7239,6 +7294,7 @@
 ||logn-coinbase-pro.pages.dev^
 ||logn-coinbase-x.pages.dev^
 ||logn-coinbse-pro.pages.dev^
+||logn-coinnbase-support.pages.dev^
 ||logn-e-trezrr-hit.pages.dev^
 ||logn-e-trezrr.pages.dev^
 ||logn-en-coinbase.pages.dev^
@@ -7302,6 +7358,7 @@
 ||logn-metamsk-io.pages.dev^
 ||logn-metamskio.pages.dev^
 ||logn-metmask-io.pages.dev^
+||logn-mtamsk-secure.pages.dev^
 ||logn-ndaxx-io.pages.dev^
 ||logn-net-coins.pages.dev^
 ||logn-netcions.pages.dev^
@@ -7349,6 +7406,7 @@
 ||logn-trzor-dcos.pages.dev^
 ||logn-trzor-dcs.pages.dev^
 ||logn-trzor-en.pages.dev^
+||logn-trzor-io.pages.dev^
 ||logn-trzor-wallet.pages.dev^
 ||logn-trzor.pages.dev^
 ||logn-ttrezr.pages.dev^
@@ -8306,6 +8364,7 @@
 ||meta-support-vaultid.pages.dev^
 ||meta-support-vector.pages.dev^
 ||meta-support-verification.pages.dev^
+||meta-support-verificationid.pages.dev^
 ||meta-support-verifier.pages.dev^
 ||meta-support-verifierhub.pages.dev^
 ||meta-support-verifierid-3pc.pages.dev^
@@ -8456,6 +8515,7 @@
 ||metamask-io-logn.pages.dev^
 ||metamask-io-secure-us.pages.dev^
 ||metamask-lgin-dev.pages.dev^
+||metamask-lgin.pages.dev^
 ||metamask-loggin.pages.dev^
 ||metamask-logi-n.pages.dev^
 ||metamask-logi.pages.dev^
@@ -8527,6 +8587,7 @@
 ||metamask-logn-com.pages.dev^
 ||metamask-logn-doc.pages.dev^
 ||metamask-logn-en.pages.dev^
+||metamask-logn-help.pages.dev^
 ||metamask-logn-io-anp.pages.dev^
 ||metamask-logn-io.pages.dev^
 ||metamask-logn-sso.pages.dev^
@@ -8626,6 +8687,7 @@
 ||metamsk-logins.pages.dev^
 ||metamsk-logn-ai.pages.dev^
 ||metamsk-logn-us.wasmer.app^
+||metamsk-logn.pages.dev^
 ||metamsk-sso-doc.pages.dev^
 ||metamsk-sso-docs.pages.dev^
 ||metamsk-user-login.pages.dev^
@@ -8859,13 +8921,16 @@
 ||ndax-ndx-logn.pages.dev^
 ||ndax-sso-logn.pages.dev^
 ||ndax-web3-logn.pages.dev^
+||ndaxx--login.pages.dev^
 ||ndaxx-en-logiin.pages.dev^
 ||ndaxx-en-support.pages.dev^
 ||ndaxx-io-loggi.pages.dev^
 ||ndaxx-io-login.pages.dev^
 ||ndaxx-io-logn-app.pages.dev^
+||ndaxx-io-web-logiin.pages.dev^
 ||ndaxx-io-web-login.pages.dev^
 ||ndaxx-ledgr-login.pages.dev^
+||ndaxx-loggin-auths.pages.dev^
 ||ndaxx-logi-io.pages.dev^
 ||ndaxx-logiin-auth-us.pages.dev^
 ||ndaxx-logiin-web-io.pages.dev^
@@ -8906,6 +8971,7 @@
 ||net-trzor--io-nav-logn.pages.dev^
 ||net-trzor-io-nav-logn.pages.dev^
 ||net-trzor-login.pages.dev^
+||net-upholld-logn.pages.dev^
 ||netcoiins--logiin--oooath.pages.dev^
 ||netcoiins-logins.pages.dev^
 ||netcoin--loggin.pages.dev^
@@ -8961,6 +9027,7 @@
 ||netcoinns-com-x-autth.pages.dev^
 ||netcoinns-login-portal-com.pages.dev^
 ||netcoinns-logn.pages.dev^
+||netcoins---login--us.pages.dev^
 ||netcoins---login.pages.dev^
 ||netcoins--login--a.pages.dev^
 ||netcoins--login-aap.pages.dev^
@@ -9087,6 +9154,7 @@
 ||new-trezorio-start-support.pages.dev^
 ||new-trzor-io--logn.pages.dev^
 ||new-update-trezor-wallet.pages.dev^
+||new-wallet-ledger.pages.dev^
 ||newbancotrustcapital.com^
 |newlogin-alert.advanced-coinbase.workers.dev^
 ||newpage-secure-metamask.pages.dev^
@@ -9299,6 +9367,7 @@
 ||nt-coins-logi.pages.dev^
 ||ntcoins-join-en.pages.dev^
 ||ntcoins-join-eo.pages.dev^
+||ntcoins-join-lagi.pages.dev^
 ||ntcoins-join-logai.pages.dev^
 ||ntcoins-join-logi.pages.dev^
 ||ntcoins-join-logo.pages.dev^
@@ -9336,6 +9405,7 @@
 ||official-airfrance-advisor.pages.dev^
 ||official-airfrance-help.pages.dev^
 ||official-airfrance-helpcenterhub.pages.dev^
+||official-airfrance-helpcenterinfo.pages.dev^
 ||official-airfrance-helpcentersite.pages.dev^
 ||official-airfrance-helpcentersites.pages.dev^
 ||official-airfrance-helpconnect.pages.dev^
@@ -9472,6 +9542,7 @@
 ||official-trezor-usa.pages.dev^
 ||official-trezor-walet.pages.dev^
 ||official-trezor-wallet-in.pages.dev^
+||official-trezor-wallet.pages.dev^
 ||official-trezorr-guidde.pages.dev^
 ||official-trezro-start-io.pages.dev^
 ||official-trezrr-en-us-learn.pages.dev^
@@ -9501,6 +9572,7 @@
 ||omon-target-locked-new.pages.dev^
 ||on-netcoins-login.pages.dev^
 ||on-trezor-login.pages.dev^
+||on-trezoro-logon.pages.dev^
 |onedrive-account-onboarding-view.document-view-388196375813.eu.cc^
 ||onedrive-cloud-online.pages.dev^
 ||onedrive-payment-specification.pages.dev^
@@ -9647,6 +9719,7 @@
 ||outdooutcome.com^
 ||outlook-acct-bo.pages.dev^
 |outlook-officce.coml-support.workers.dev^
+|outlook.signin.localh.site^
 ||overeni-bazos.shop^
 |overheid.cimonline.eu^
 ||overview-ledgerliv-login.pages.dev^
@@ -9882,6 +9955,7 @@
 ||portal-ledger-live-wallet-auth.pages.dev^
 ||portal-ledger-live-wallet-en-us.pages.dev^
 ||portal-ledger-live-wallet-us.pages.dev^
+||portal-ledger-live-wallet.pages.dev^
 ||portal-ledger-support.pages.dev^
 ||portal-live-helps.pages.dev^
 ||portal-login-coiinbase.pages.dev^
@@ -10180,6 +10254,7 @@
 ||robinhod-logon-us.pages.dev^
 ||robinhod-sso-login.pages.dev^
 ||robinhod-x-logn.pages.dev^
+||robinhoo-en-login.pages.dev^
 ||robinhood---login-a.pages.dev^
 ||robinhood---login-ap.pages.dev^
 ||robinhood---login.pages.dev^
@@ -10201,6 +10276,7 @@
 ||robinhood--login-start.pages.dev^
 ||robinhood--login-us.pages.dev^
 ||robinhood--login.pages.dev^
+||robinhood--logins-us-3et.pages.dev^
 ||robinhood--logins-us.pages.dev^
 ||robinhood-account-login.pages.dev^
 ||robinhood-account-ssp.pages.dev^
@@ -10226,6 +10302,7 @@
 ||robinhood-helps.pages.dev^
 ||robinhood-hook-upgrade.pages.dev^
 ||robinhood-io-login.pages.dev^
+||robinhood-io-logins.pages.dev^
 ||robinhood-loggin.pages.dev^
 ||robinhood-logi-account.pages.dev^
 ||robinhood-logi-en.pages.dev^
@@ -10341,6 +10418,7 @@
 ||robinhood-support-us.pages.dev^
 ||robinhood-support.pages.dev^
 ||robinhood-us-login.pages.dev^
+||robinhood-us-logins.pages.dev^
 ||robinhood-usa-login.pages.dev^
 ||robinhood-w-support.pages.dev^
 ||robinhood-web-login.pages.dev^
@@ -10353,6 +10431,7 @@
 ||robinhoodrefundra.org^
 ||robinhoodsignin.pages.dev^
 ||robinhoodsupport.pages.dev^
+||robinhoodwalletsupport-8ry.pages.dev^
 ||robinhoood-login---coo-enn.pages.dev^
 ||robinsons-bank-caloocan-city-metro-manila.ph^
 ||roblox-0-robux-headless-method-2026.pages.dev^
@@ -10412,6 +10491,7 @@
 ||roblox-servicecanada-bcsautopaints.com.ph^
 ||roblox-star-codes-that-give-you-robux.pages.dev^
 ||roblox-studio-free-robux.pages.dev^
+||roblox-support-email-contact.pages.dev^
 ||roblox-top-up-gcash.pages.dev^
 ||roblox-toy-codes-generator-no-human-verification.pages.dev^
 ||roblox-unlimited-robux-100-working.pages.dev^
@@ -10476,6 +10556,7 @@
 ||safe-pal-wallet.pages.dev^
 ||safe-trezor-login-io.pages.dev^
 ||safe-trezor-wallet--faq.pages.dev^
+||safe-trezor-wallet-loging.pages.dev^
 ||safe-wallet-pal.pages.dev^
 ||safe-wallet-trezor-org.pages.dev^
 ||safeandeasy-login-ldgerlive.pages.dev^
@@ -10554,6 +10635,7 @@
 ||secure-coinbase-com.pages.dev^
 ||secure-coinbase-comm.pages.dev^
 ||secure-coinbase-exten.pages.dev^
+||secure-coinbase-io-extensio.pages.dev^
 ||secure-coinbase-learn-bd4.pages.dev^
 ||secure-coinbase-learn.pages.dev^
 ||secure-coinbase-log.pages.dev^
@@ -10697,11 +10779,13 @@
 ||secure-ledgrcom-io.pages.dev^
 ||secure-ledgrcom-start.pages.dev^
 ||secure-ledgre-aap-ns.pages.dev^
+||secure-ledgre-download.pages.dev^
 ||secure-ledgre-help.pages.dev^
 ||secure-ledgre-helps.pages.dev^
 ||secure-ledgre-live.pages.dev^
 ||secure-ledgre-login.pages.dev^
 ||secure-ledgrlive-doc.pages.dev^
+||secure-ledgrlive-en.pages.dev^
 ||secure-ledgrlive-engg.pages.dev^
 ||secure-ledgrlive-learn-app.pages.dev^
 ||secure-legercom-en.pages.dev^
@@ -10729,7 +10813,9 @@
 ||secure-metamask-feq.pages.dev^
 ||secure-metamask-learn-app.pages.dev^
 ||secure-metamask-lo.pages.dev^
+||secure-metamask-login.pages.dev^
 ||secure-metamask-org.pages.dev^
+||secure-metamask-page.pages.dev^
 ||secure-metamask-us.pages.dev^
 ||secure-metamask-x.pages.dev^
 ||secure-metamaskio-logn.pages.dev^
@@ -10985,6 +11071,7 @@
 ||shop-ledger-hd-wallet.pages.dev^
 ||shop-ledger-wallet.pages.dev^
 ||shop-live-wallet.pages.dev^
+||shopee-claim-voucher.my.id^
 ||shopee-join.com^
 |shopee.sg-buyerlogin-manage-account-secureshop.signin-access-manage.kumpulpro.com^
 ||shopeeishigaki-shizuoka-jp.ph^
@@ -11049,6 +11136,7 @@
 ||signin-cloud-coinbase.pages.dev^
 ||signin-coiinbase-en.pages.dev^
 ||signin-coinbase-com.pages.dev^
+||signin-coinbase-us.pages.dev^
 ||signin-freedom-mobile5g.net^
 |signin-help-recovery-am-azon.netcomstructure.com^
 ||signin-pages-coinbse.pages.dev^
@@ -11128,6 +11216,7 @@
 ||sso--robinhood-auths.pages.dev^
 ||sso--trezor--secure.pages.dev^
 ||sso--trezor-secure.pages.dev^
+||sso--uphold-com-x-auuth.pages.dev^
 ||sso-acesso-gov.pages.dev^
 ||sso-bitbuy-get.pages.dev^
 ||sso-bitbuy-login.pages.dev^
@@ -11440,6 +11529,7 @@
 ||sso-trezrio-strt-tool.pages.dev^
 ||sso-trezrio-strt-web.pages.dev^
 ||sso-trezrio-suite.pages.dev^
+||sso-trezro-home.pages.dev^
 ||sso-trezrr-en-io.pages.dev^
 ||sso-trezrr-en-us.pages.dev^
 ||sso-trezrr-en-web.pages.dev^
@@ -11559,14 +11649,17 @@
 ||start-nett-coins-logi.pages.dev^
 ||start-opensea-wallet.pages.dev^
 ||start-rbinhood-login.pages.dev^
+||start-robinhod-login.pages.dev^
 ||start-support-trezor.pages.dev^
 ||start-terzor-sso.pages.dev^
 ||start-tre-xor-wallet-login.pages.dev^
 ||start-trezor-auths.pages.dev^
+||start-trezor-start-official.pages.dev^
 ||start-trezor-wallet.pages.dev^
 ||start-trezor-wallett.pages.dev^
 ||start-trezorr-auths.pages.dev^
 ||start-trezorr-wallet.pages.dev^
+||start-trezrr-login-com.pages.dev^
 ||start-trezrr-login-zy-eng.pages.dev^
 ||start-trezrr-official.pages.dev^
 ||start-trezzor-wallet.pages.dev^
@@ -11634,6 +11727,7 @@
 ||subito-verifica-auto.cfd^
 ||subito-verifica-pronto.cfd^
 ||subito-verifica.cfd^
+||subitoconfermare.cfd^
 ||subitoconfermas.eu.cc^
 ||subitoverify.shop^
 ||sucursaliphone.lat^
@@ -11994,6 +12088,7 @@
 ||support-ledger-helps.pages.dev^
 ||support-ledger-io.pages.dev^
 ||support-ledger-ion.pages.dev^
+||support-ledger-ios.pages.dev^
 ||support-ledger-legger.pages.dev^
 ||support-ledger-liv.pages.dev^
 ||support-ledger-live-7oe.pages.dev^
@@ -12122,6 +12217,7 @@
 ||support-ledgre-helps.pages.dev^
 ||support-ledgre-live.pages.dev^
 ||support-ledgre-login.pages.dev^
+||support-ledgre-strt--io.pages.dev^
 ||support-ledgre-web.pages.dev^
 ||support-ledgree-live.pages.dev^
 ||support-ledgrelive--wallet-us.pages.dev^
@@ -12227,6 +12323,7 @@
 ||support-metamask-welcome.pages.dev^
 ||support-metamaskhelps.pages.dev^
 ||support-metamaskio-cdn.pages.dev^
+||support-metamaskio.pages.dev^
 ||support-metamsak-web.pages.dev^
 ||support-metamsk-io-start.pages.dev^
 ||support-metamsk-wallet.pages.dev^
@@ -12244,6 +12341,7 @@
 ||support-ndax-com-cdn.pages.dev^
 ||support-ndax-en-logn.pages.dev^
 ||support-ndax-eng.pages.dev^
+||support-ndax-enlogin.pages.dev^
 ||support-ndax-io-docs.pages.dev^
 ||support-ndax-io-sso.pages.dev^
 ||support-ndax-io.pages.dev^
@@ -12442,6 +12540,7 @@
 ||support-uphold-auth.pages.dev^
 ||support-uphold-cdn-app.pages.dev^
 ||support-uphold-cdn-us.pages.dev^
+||support-uphold-com-auth.pages.dev^
 ||support-uphold-com-cd.pages.dev^
 ||support-uphold-com-eng.pages.dev^
 ||support-uphold-com-hc-en.pages.dev^
@@ -12466,6 +12565,7 @@
 ||support-uphold-logon.pages.dev^
 ||support-uphold-wallet-us.pages.dev^
 ||support-uphold-wallets.pages.dev^
+||support-uphold-x-com.pages.dev^
 ||support-upholdd--x--sso.pages.dev^
 ||support-upholdd-logi.pages.dev^
 ||support-upholdd.pages.dev^
@@ -12560,6 +12660,7 @@
 ||telekom-billing-invoice-agent.pages.dev^
 ||telekom-invoice-checker-it.pages.dev^
 ||telekom-online-zugang.info^
+||telenor-mne-jxsul.icu^
 ||telepassmailer.it^
 ||telia-playstation.ph^
 ||telkomrewards.co.za^
@@ -12678,6 +12779,7 @@
 ||trezoor-wallet-login-en-us.pages.dev^
 ||trezoor-wallet-us.pages.dev^
 ||trezoor-wallet.pages.dev^
+||trezor----hardware-wallet.pages.dev^
 ||trezor----login.pages.dev^
 ||trezor----wallet--a.pages.dev^
 ||trezor---hardwar-wallet.pages.dev^
@@ -12696,6 +12798,7 @@
 ||trezor---wallet.pages.dev^
 ||trezor--bridge--secure.pages.dev^
 ||trezor--hardware---wallet.pages.dev^
+||trezor--hardware--wallet-us.pages.dev^
 ||trezor--hardware--wallet.pages.dev^
 ||trezor--hardwware--wallet.pages.dev^
 ||trezor--home-login.pages.dev^
@@ -12727,8 +12830,10 @@
 ||trezor--wallet--faq.pages.dev^
 ||trezor--wallet--get.pages.dev^
 ||trezor--wallet--info.pages.dev^
+||trezor--wallet--io.pages.dev^
 ||trezor--wallet--login-app.pages.dev^
 ||trezor--wallet--login-us.pages.dev^
+||trezor--wallet--login.pages.dev^
 ||trezor--wallet--run.pages.dev^
 ||trezor--wallet--us.pages.dev^
 ||trezor--wallet--web-bhf.pages.dev^
@@ -12829,6 +12934,7 @@
 ||trezor-hardwaree-wallet.pages.dev^
 ||trezor-hardwere--wallet-run.pages.dev^
 ||trezor-hardwere-wallet--ask.pages.dev^
+||trezor-hardwere-wallet-com.pages.dev^
 ||trezor-hardwere-wallet-doc.pages.dev^
 ||trezor-hardwere-wallet-eng.pages.dev^
 ||trezor-hardwere-wallet-people.pages.dev^
@@ -12872,6 +12978,7 @@
 ||trezor-io-start-secure.pages.dev^
 ||trezor-io-start-sso.pages.dev^
 ||trezor-io-start-wallet.pages.dev^
+||trezor-io-strt-sso.pages.dev^
 ||trezor-io-strt-suport-auth.pages.dev^
 ||trezor-io-suite-trezor.pages.dev^
 ||trezor-io-support.pages.dev^
@@ -12879,6 +12986,7 @@
 ||trezor-io-trezor-suite-us.pages.dev^
 ||trezor-io-trezor-suite.pages.dev^
 ||trezor-io-trezor.pages.dev^
+||trezor-io-us-logn.pages.dev^
 ||trezor-io-wallet-eob.pages.dev^
 ||trezor-io-wallet.pages.dev^
 ||trezor-io-wallett.pages.dev^
@@ -12931,6 +13039,7 @@
 ||trezor-login-eqs.pages.dev^
 ||trezor-login-es.pages.dev^
 ||trezor-login-fq.pages.dev^
+||trezor-login-get-eng.pages.dev^
 ||trezor-login-guide.pages.dev^
 ||trezor-login-hd-cfw.pages.dev^
 ||trezor-login-hd.pages.dev^
@@ -12946,8 +13055,10 @@
 ||trezor-login-io-us.pages.dev^
 ||trezor-login-io.pages.dev^
 ||trezor-login-jhnj.pages.dev^
+||trezor-login-learn.pages.dev^
 ||trezor-login-op.pages.dev^
 ||trezor-login-org-us.pages.dev^
+||trezor-login-overview.pages.dev^
 ||trezor-login-portal.pages.dev^
 ||trezor-login-ppt-us.pages.dev^
 ||trezor-login-sa-us.pages.dev^
@@ -13073,6 +13184,7 @@
 ||trezor-wallet-auth.pages.dev^
 ||trezor-wallet-auths.pages.dev^
 ||trezor-wallet-begin.pages.dev^
+||trezor-wallet-bjv.pages.dev^
 ||trezor-wallet-cdn-io.pages.dev^
 ||trezor-wallet-cdn-us.pages.dev^
 ||trezor-wallet-cdn.pages.dev^
@@ -13295,6 +13407,7 @@
 ||trezzor-loggin-en.pages.dev^
 ||trezzor-logi.pages.dev^
 ||trezzor-login-get-start-us.pages.dev^
+||trezzor-logn-io-us.pages.dev^
 ||trezzor-logn-io.pages.dev^
 ||trezzor-logn.pages.dev^
 ||trezzor-suite-support.pages.dev^
@@ -13334,6 +13447,7 @@
 ||trust-wallet-alpha.pages.dev^
 ||trust-wallet-buy-crypto.pages.dev^
 ||trust-wallet-eni.pages.dev^
+||trustcapital-auths.pages.dev^
 ||trustcapital-logi.pages.dev^
 ||trustcapital-login-i.pages.dev^
 ||trustcapital-logn.pages.dev^
@@ -13374,6 +13488,7 @@
 ||trzor-io-wallet.pages.dev^
 ||trzor-join.pages.dev^
 ||trzor-login-app.pages.dev^
+||trzor-login-desk.pages.dev^
 ||trzor-login-en-us.pages.dev^
 ||trzor-login-en.pages.dev^
 ||trzor-login-eng.pages.dev^
@@ -13571,6 +13686,7 @@
 ||uphold-wallet--us-eng.pages.dev^
 ||uphold-wallet-9uu.pages.dev^
 ||uphold-wallet-auth.pages.dev^
+||uphold-wallet-cdn-en.pages.dev^
 ||uphold-wallet-cdn.pages.dev^
 ||uphold-wallet-co.pages.dev^
 ||uphold-wallet-com.pages.dev^
@@ -13648,6 +13764,7 @@
 ||upphold-logn-en.pages.dev^
 ||upphold-logn-eng.pages.dev^
 ||upphold-logn-ens.pages.dev^
+||upphold-logn.pages.dev^
 ||upphold-wallet-suport.pages.dev^
 ||upphold-wallet.pages.dev^
 ||ups-sui-wallet-extension.pages.dev^
@@ -13749,6 +13866,7 @@
 ||us-upphold-acount-auth.pages.dev^
 ||us-wallet-ledger.pages.dev^
 ||us-wallet-trezor-auth.pages.dev^
+||us-walmart-gift-card-1000-yesno-soi.pages.dev^
 ||us-web-blockfi-us-logiin.pages.dev^
 ||us-web-trezzor-logon.pages.dev^
 ||usa-coinbase-live-helpcenter.pages.dev^
@@ -13786,6 +13904,7 @@
 ||utie-netcoins-login.pages.dev^
 ||utis-netcoins-login.pages.dev^
 ||uuphold-logon-cdn.pages.dev^
+||vault-trezro-secure.pages.dev^
 ||vehicle-tax-govuk.online^
 ||venmo-24x7-customer-care.pages.dev^
 ||venmo-24x7-customer-service-help-center.pages.dev^
@@ -14086,6 +14205,7 @@
 ||wallet-metamsk-io-us.pages.dev^
 ||wallet-metamsk-io.pages.dev^
 ||wallet-metamsk.pages.dev^
+||wallet-metamskio-guide.pages.dev^
 ||wallet-metamskio-help.pages.dev^
 ||wallet-metamskio.pages.dev^
 ||wallet-mettamsk-io.pages.dev^
@@ -14457,6 +14577,7 @@
 ||wetransfer-download-online-project374534.pages.dev^
 ||wetransfer-order-specifications-drawings-pdf.pages.dev^
 ||whatsaap-join.pages.dev^
+||whatsap-gruop-dattingclara.pages.dev^
 ||whatsap-privat.pages.dev^
 ||whatsapp-for-join.pages.dev^
 ||whatsapp-for18-join-8ba.pages.dev^
@@ -14485,6 +14606,7 @@
 ||willhaben-at-id.cfd^
 ||willhaben-at-post.info^
 ||window--download-live-wallet.pages.dev^
+||wise-bank.xyz^
 ||wise-support.online^
 ||with--logn-terzor-io-eng.pages.dev^
 ||with-logn-terzor-io-eng.pages.dev^
@@ -14531,6 +14653,7 @@
 ||www-com-robinhood-secure.pages.dev^
 ||www-dana-grtis-ambil10-20jt-silahkanambil.pages.dev^
 ||www-danaa-ambil10-20jt-grtistunguapalagi.pages.dev^
+||www-danaid-grtis-ambil10-20jt-silahkanambil.pages.dev^
 ||www-icloud-alert.com.ph^
 ||www-icloud-alert.net.ph^
 ||www-icloud-alert.org.ph^
