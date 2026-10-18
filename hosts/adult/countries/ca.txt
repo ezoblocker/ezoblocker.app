@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Canada (ca)
-# Domains: 33 | Updated: 2026-10-18
+# Domains: 34 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ca.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@
 0.0.0.0 boutiquetoietmoi.ca
 0.0.0.0 canadiantubeflies.com
 0.0.0.0 comeasyouare.com
+0.0.0.0 dreamydesire.com
 0.0.0.0 erosetcompagnie.com
 0.0.0.0 erotikamontreal.com
 0.0.0.0 extasyshops.ca

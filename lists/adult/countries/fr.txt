@@ -6,7 +6,6 @@
 # App: https://ezoblocker.app
 *.avenue-privee.com
 *.babylonloveshop.com
-*.beurette.land
 *.bodyhouse.fr
 *.boutique-erotique.fr
 *.boystore.com
@@ -39,4 +38,5 @@ chat.europnet.org
 *.sexshop.cm
 *.sexyavenue.com
 *.sinful.fr
+*.sopigalle.com
 *.universpharmacie.fr

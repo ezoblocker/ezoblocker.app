@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, South Africa (za)
-! Domains: 22 | Updated: 2026-10-18
+! Domains: 24 | Updated: 2026-10-18
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/za.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -24,5 +24,7 @@
 ||ph1xbet.ph^
 ||playabets.co.ke^
 ||readysetbet.co.za^
+|siat.maceio.al.gov.br^
 ||sunbet.co.bw^
+||topbettingapps.in^
 ||wanejobets.co.za^

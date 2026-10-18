@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, Ireland (ie)
-! Domains: 25 | Updated: 2026-10-18
+! Domains: 26 | Updated: 2026-10-18
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/countries/ie.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 ||9anime.me.uk^
 ||9anime.or.at^
 ||9animes.ro^
+||9animetvs.pro^
 ||bestiptv-ireland.irish^
 ||bestiptvireland.net^
 ||bestiptvireland.store^

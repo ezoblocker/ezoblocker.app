@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Adult, India (in)
-# Domains: 37 | Updated: 2026-10-18
+# Domains: 40 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/in.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 adultproductsindia.com
 0.0.0.0 adultscare.com
+0.0.0.0 adultsextoysindia.com
 0.0.0.0 adulttoys-india.com
 0.0.0.0 delighttoys.in
 0.0.0.0 desihoes.com
@@ -26,12 +27,14 @@
 0.0.0.0 itspleazure.com
 0.0.0.0 kaamastra.com
 0.0.0.0 kamasutra.com
+0.0.0.0 leezus.com
 0.0.0.0 localamateurporn.com
 0.0.0.0 lovedepot.com
 0.0.0.0 mymuse.in
 0.0.0.0 mysextoysindia.com
 0.0.0.0 naughtynights.in
 0.0.0.0 newdesimms.com
+0.0.0.0 onlinefuntoys.com
 0.0.0.0 privypleasures.com
 0.0.0.0 pronhouse.space
 0.0.0.0 secretkink.com

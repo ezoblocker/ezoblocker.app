@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Dating, Japan (jp)
-# Domains: 38 | Updated: 2026-10-18
+# Domains: 39 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 bumpmatch.jetboy.jp
 0.0.0.0 chat.romi.ai
 0.0.0.0 chatlady.rei35.com
 0.0.0.0 chatpia.jp

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, United States (us)
-# Domains: 42 | Updated: 2026-10-18
+# Domains: 46 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -18,11 +18,13 @@
 0.0.0.0 baton-rouge.bonepage.com
 0.0.0.0 bedpage.cc
 0.0.0.0 bedpage.com
+0.0.0.0 callgirlsnearyou.com
 0.0.0.0 chatville.com
 0.0.0.0 chicago.bonepage.com
 0.0.0.0 cougarlife.com
 0.0.0.0 cougarlife.dating
 0.0.0.0 emeraldchat.com
+0.0.0.0 escortlistingsnearme.com
 0.0.0.0 fargo-moorhead.bonepage.com
 0.0.0.0 fargo.myescort.network
 0.0.0.0 ft-myers-sw-florida.bonepage.com
@@ -30,6 +32,7 @@
 0.0.0.0 hillsboro-il.virtalog.ru
 0.0.0.0 listcrawler.app
 0.0.0.0 listcrawler.eu
+0.0.0.0 massachusetts.bonepage.com
 0.0.0.0 orange-county.bonepage.com
 0.0.0.0 portland-me.bonepage.com
 0.0.0.0 randomvideochat.me
@@ -43,6 +46,7 @@
 0.0.0.0 tryst.group
 0.0.0.0 tryst.link
 0.0.0.0 trystagency.com
+0.0.0.0 usasexguide.nl
 0.0.0.0 westcoastswingers.com
 0.0.0.0 wichita.myescort.network
 0.0.0.0 yesbackpage.com

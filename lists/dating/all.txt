@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,040 | Updated: 2026-10-18
+# Domains: 1,049 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -102,6 +102,7 @@ brazil.escortface.com
 *.bumble.com
 *.bumble.com.tr
 *.bumble.shop
+bumpmatch.jetboy.jp
 *.busohbet.com
 *.buyuksohbet.com
 cagayandeoroph.assortlist.com
@@ -109,6 +110,7 @@ calgary.5escorts.ca
 calgary.bonepage.com
 *.callescort.org
 callgirls.xcanto.com
+*.callgirlsnearyou.com
 *.cambodiancupid.com
 *.camchat.today
 *.camgo.com
@@ -326,6 +328,7 @@ escortathens.webnode.gr
 *.escortforum.cz
 *.escortforumit.xxx
 *.escorthub.org
+*.escortlistingsnearme.com
 *.escortmanila.com
 *.escortnews.be
 *.escortnews.com
@@ -514,6 +517,7 @@ kazan1.5intim.com
 *.kenyancupid.com
 *.khaleejchat.co
 *.khaleejchat.com
+kibana.compactorstore.com
 *.kiev-intimcity.nl
 kiev.moygorod.ua
 kilkenny.level-web.ru
@@ -581,6 +585,7 @@ marikinaph.assortlist.com
 *.marrieddatinguk.com
 marseille.sanslendemain.net
 *.masajistasunicas.com
+massachusetts.bonepage.com
 *.massagedubaiescorts.com
 *.match.com
 *.matchmarry.com
@@ -653,6 +658,7 @@ newbridge.level-web.ru
 *.nikahplus.com
 nove.tapky.info
 ntu.ff.or.kr
+ogloszenia.dziennikzwiazkowy.com
 *.okcupid.com
 old.coacha.com
 *.om-konkatsu.com
@@ -849,6 +855,7 @@ simplymarry-matrimonial-app.apk.cafe
 *.skokka.com
 *.skokka.com.au
 *.skokka.com.co
+*.skokka.com.pe
 *.skokka.pt
 *.skout.com
 *.slixa.com
@@ -946,6 +953,7 @@ syracuse.bonepage.com
 *.tinderprofile.ai
 tolyatti.artmetall26.ru
 tolyatti.sexysluts24.com
+*.top6partnersuche.de
 *.topescort.com
 *.topescortitalia.it
 *.topescortnews.eu
@@ -984,6 +992,7 @@ uppsala.boj.se
 uppsala.hjarnkoll.se
 urdu.chat.org.in
 us.ondate.com
+*.usasexguide.nl
 valenzuelaph.assortlist.com
 vancouver.bonepage.com
 vard.skane.se

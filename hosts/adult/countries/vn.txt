@@ -1,15 +1,18 @@
 # Title: EZOBLOCKER Adult, Vietnam (vn)
-# Domains: 75 | Updated: 2026-10-18
+# Domains: 79 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 baocaosu249.com
 0.0.0.0 baocaosuhanoi.vn
 0.0.0.0 baocaosuhp.com
 0.0.0.0 chuyentinhvn.webflow.io
 0.0.0.0 cliphot3x.blog
+0.0.0.0 cliphot69.cloud
 0.0.0.0 cliphotviet.pics
 0.0.0.0 cliphotvn.net
+0.0.0.0 cliphotvnz.beauty
 0.0.0.0 cliphotvnz.cyou
 0.0.0.0 clipphot69.xyz
 0.0.0.0 cumshopsextoy.com
@@ -35,12 +38,11 @@
 0.0.0.0 nuhoangkhoaicam.vn
 0.0.0.0 oichin.net
 0.0.0.0 phim18vn.top
+0.0.0.0 phimnhe.tv
 0.0.0.0 phimnong.net
-0.0.0.0 phimsexcafe.com
 0.0.0.0 phimsexhaychon.com
 0.0.0.0 phimsexhaynon.com
 0.0.0.0 phimsexhayxinh.com
-0.0.0.0 phimsexvietchon.com
 0.0.0.0 phimsexvietsubx.blog
 0.0.0.0 rungrung.vn
 0.0.0.0 s1.sexheo.blog
@@ -76,6 +78,8 @@
 0.0.0.0 vintoy.vn
 0.0.0.0 vnsextop1.pro
 0.0.0.0 vntoy.vn
+0.0.0.0 xamvn18.blog
 0.0.0.0 xtoyvietnam.com
 0.0.0.0 xxvn.link
+0.0.0.0 zesyxr0fyd-amphtml.kristigaskola.lv
 0.0.0.0 zohup.net

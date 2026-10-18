@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 140 | Updated: 2026-10-18
+# Domains: 143 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -129,6 +129,8 @@ ultrasurf.jp.softmany.com
 *.unblock-websites.com
 *.unblockd.info
 *.unblockedgames66.gitlab.io
+*.unblockedgames88.gitlab.io
+*.unblockgamegplus.github.io
 *.unblockvideos.com
 unblockyoutube.enic.pk
 *.unblockyoutube.video
@@ -140,6 +142,7 @@ vpngate.4d.workers.dev
 *.websiteunblocker.io
 *.websiteunblocker.net
 wiki5.ispadmin.eu
+windscribe.valuecom.com
 *.yasaksiteleregiris.org
 yozm.wishket.com
 *.zapret.vercel.app

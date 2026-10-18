@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Spain (es)
-# Domains: 37 | Updated: 2026-10-18
+# Domains: 39 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/es.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -31,6 +31,7 @@
 0.0.0.0 pelisplus.living
 0.0.0.0 pelisplus.one
 0.0.0.0 pelisplus4k.online
+0.0.0.0 pelisplush.net
 0.0.0.0 pelisplusvip.com
 0.0.0.0 pirlotv.bar
 0.0.0.0 pirlotv.dog
@@ -40,4 +41,5 @@
 0.0.0.0 repelis24.bz
 0.0.0.0 repelis24.nz
 0.0.0.0 repelis24.shop
+0.0.0.0 repelis24.watch
 0.0.0.0 repeliss.live

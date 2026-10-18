@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Australia (au)
-# Domains: 19 | Updated: 2026-10-18
+# Domains: 20 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/countries/au.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -21,5 +21,6 @@ perth.5escorts.com
 *.redhotpie.me
 *.scarletblue.com.au
 *.skokka.com.au
+*.skokka.com.pe
 vermont.bonepage.com
 wollongong.bonepage.com

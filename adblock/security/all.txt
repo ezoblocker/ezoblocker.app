@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Security
-! Domains: 14,775 | Updated: 2026-10-18
+! Domains: 14,773 | Updated: 2026-10-18
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -996,7 +996,6 @@
 ||appleidinformations.ph^
 ||appleidlocked-verify.org.ph^
 ||appleidsupport.com^
-||applepay-confirm.com^
 ||applepay-verification-prod.pages.dev^
 ||applepay-verification.pages.dev^
 ||applepayconfirm.com^
@@ -2444,6 +2443,7 @@
 ||com-wallet-ledger.pages.dev^
 |comcast.utlook.com^
 ||commbank-applesupport-nus.com.ph^
+||commbankchatsupport.com^
 ||commerzbank-active-applesupport.ph^
 ||commerzbank-americanexpress.ph^
 ||community-support-help-contact-81m.pages.dev^
@@ -2648,7 +2648,6 @@
 ||customer-support-system-customer-help-unit.pages.dev^
 ||customer-support-system-faq-help-center.pages.dev^
 ||customer-support-system-feedback-help-desk.pages.dev^
-||cuz-bank-bsi.com^
 ||cyrpto-uphld-login.pages.dev^
 ||daftar-dana-bantuan.pages.dev^
 ||daftarpaket-cara-registrasi-kartu-indosat.pages.dev^
@@ -14557,7 +14556,6 @@
 ||welcome-trezor-wallet.pages.dev^
 ||welcome-uphold-logins-x.pages.dev^
 ||welcome-uphold-logins.pages.dev^
-||wellsfargo-secure-login.beauty^
 |wellsfargo.com-verification.collegwp1.mariagharaibeh.com^
 |wellsfargochecking2.authorizecenter.workers.dev^
 ||wellsfargologon.com^

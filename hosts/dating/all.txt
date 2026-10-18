@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,040 | Updated: 2026-10-18
+# Domains: 1,049 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -102,6 +102,7 @@
 0.0.0.0 bumble.com
 0.0.0.0 bumble.com.tr
 0.0.0.0 bumble.shop
+0.0.0.0 bumpmatch.jetboy.jp
 0.0.0.0 busohbet.com
 0.0.0.0 buyuksohbet.com
 0.0.0.0 cagayandeoroph.assortlist.com
@@ -109,6 +110,7 @@
 0.0.0.0 calgary.bonepage.com
 0.0.0.0 callescort.org
 0.0.0.0 callgirls.xcanto.com
+0.0.0.0 callgirlsnearyou.com
 0.0.0.0 cambodiancupid.com
 0.0.0.0 camchat.today
 0.0.0.0 camgo.com
@@ -326,6 +328,7 @@
 0.0.0.0 escortforum.cz
 0.0.0.0 escortforumit.xxx
 0.0.0.0 escorthub.org
+0.0.0.0 escortlistingsnearme.com
 0.0.0.0 escortmanila.com
 0.0.0.0 escortnews.be
 0.0.0.0 escortnews.com
@@ -514,6 +517,7 @@
 0.0.0.0 kenyancupid.com
 0.0.0.0 khaleejchat.co
 0.0.0.0 khaleejchat.com
+0.0.0.0 kibana.compactorstore.com
 0.0.0.0 kiev-intimcity.nl
 0.0.0.0 kiev.moygorod.ua
 0.0.0.0 kilkenny.level-web.ru
@@ -581,6 +585,7 @@
 0.0.0.0 marrieddatinguk.com
 0.0.0.0 marseille.sanslendemain.net
 0.0.0.0 masajistasunicas.com
+0.0.0.0 massachusetts.bonepage.com
 0.0.0.0 massagedubaiescorts.com
 0.0.0.0 match.com
 0.0.0.0 matchmarry.com
@@ -653,6 +658,7 @@
 0.0.0.0 nikahplus.com
 0.0.0.0 nove.tapky.info
 0.0.0.0 ntu.ff.or.kr
+0.0.0.0 ogloszenia.dziennikzwiazkowy.com
 0.0.0.0 okcupid.com
 0.0.0.0 old.coacha.com
 0.0.0.0 om-konkatsu.com
@@ -849,6 +855,7 @@
 0.0.0.0 skokka.com
 0.0.0.0 skokka.com.au
 0.0.0.0 skokka.com.co
+0.0.0.0 skokka.com.pe
 0.0.0.0 skokka.pt
 0.0.0.0 skout.com
 0.0.0.0 slixa.com
@@ -946,6 +953,7 @@
 0.0.0.0 tinderprofile.ai
 0.0.0.0 tolyatti.artmetall26.ru
 0.0.0.0 tolyatti.sexysluts24.com
+0.0.0.0 top6partnersuche.de
 0.0.0.0 topescort.com
 0.0.0.0 topescortitalia.it
 0.0.0.0 topescortnews.eu
@@ -984,6 +992,7 @@
 0.0.0.0 uppsala.hjarnkoll.se
 0.0.0.0 urdu.chat.org.in
 0.0.0.0 us.ondate.com
+0.0.0.0 usasexguide.nl
 0.0.0.0 valenzuelaph.assortlist.com
 0.0.0.0 vancouver.bonepage.com
 0.0.0.0 vard.skane.se

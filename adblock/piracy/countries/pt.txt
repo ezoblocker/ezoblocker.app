@@ -1,10 +1,11 @@
 ! Title: EZOBLOCKER Piracy, Portugal (pt)
-! Domains: 11 | Updated: 2026-10-18
+! Domains: 12 | Updated: 2026-10-18
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/countries/pt.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||assistindofilmesonline.com^
+||boraverfilmes.top^
 ||btuga.pt^
 ||futemax.at^
 |iptv-portugal.youcan.store^

@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Piracy, Czechia (cz)
-# Domains: 6 | Updated: 2026-10-18
+# Domains: 7 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/cz.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 bombuj.si
 0.0.0.0 hellspy.to
+0.0.0.0 katalog.toplinks.cz
 0.0.0.0 sportlive24.tv
 0.0.0.0 sportonline.cz
 0.0.0.0 warcenter.cz

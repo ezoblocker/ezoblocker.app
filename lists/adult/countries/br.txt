@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Brazil (br)
-# Domains: 27 | Updated: 2026-10-18
+# Domains: 29 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/br.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -21,6 +21,7 @@ br.promocodie.com
 *.gemaonlinestore.com
 *.goodvibres.com.br
 *.gruposdeputaria.net
+*.libidi.com.br
 *.linksgrupos.com
 *.lojadoprazer.com.br
 *.lojalibb.com.br
@@ -30,4 +31,5 @@ br.promocodie.com
 *.sweetmysterysexshop.com.br
 villagecenterfl.govbuilt.com
 *.vitrinedaputaria.com
+*.volupiasexshop.com.br
 *.yessir.com.br

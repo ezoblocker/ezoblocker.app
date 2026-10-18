@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Vietnam (vn)
-# Domains: 52 | Updated: 2026-10-18
+# Domains: 53 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -47,6 +47,7 @@
 0.0.0.0 xoilac3.cc
 0.0.0.0 xoilac5.top
 0.0.0.0 xoilaclivettbds.tv
+0.0.0.0 xoilaclivettbdu.tv
 0.0.0.0 xoilactvbm.cc
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net

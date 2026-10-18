@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, South Korea (kr)
-! Domains: 12 | Updated: 2026-10-18
+! Domains: 13 | Updated: 2026-10-18
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/kr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 |masjib-toto-saiteu-yoh.userconnect.co.kr^
 ||mtcheck.net^
 ||oncaplus.com^
+||pilseungbet.com^
 ||reverdia.com^
 ||sureman.net^
 ||thekingplus.com^

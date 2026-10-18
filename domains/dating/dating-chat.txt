@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 358 | Updated: 2026-10-18
+# Domains: 360 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -36,6 +36,7 @@ bizimmekan.name
 blindid.app
 br.papinho.com
 bumble.com
+bumpmatch.jetboy.jp
 busohbet.com
 buyuksohbet.com
 camchat.today
@@ -182,6 +183,7 @@ karachichatroom.net
 kariyerpanel.com
 khaleejchat.co
 khaleejchat.com
+kibana.compactorstore.com
 knuddels.de
 kolaychat.org
 kolaysohbet.com

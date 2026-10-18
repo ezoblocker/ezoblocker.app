@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 289 | Updated: 2026-10-18
+# Domains: 305 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,6 +22,7 @@ browse.tonton.com.my
 *.buffstreams.ch
 *.buffstreams24.org
 *.buffstreamsapp.com
+*.buffstreamz.fun
 *.cakhia4.org
 *.cakhia6tv.tv
 *.cakhiatv.college
@@ -52,9 +53,11 @@ dev-forms-engine-api.brisbane.qld.gov.au
 filmora.wondershare.kr
 *.firstrows.net
 *.firstrowsports.be
+*.footybite.boats
 *.footybite.com.co
 *.footybite.cyou
 *.footybite.dev
+*.footybite.football
 *.footybite.forum
 *.footybite.im
 *.footybite.live
@@ -79,9 +82,11 @@ french.visitkorea.or.kr
 *.futbollibretvhd.co
 *.futbolyconsolas.es
 *.futemax.at
+*.futemax.gay
 *.futemax.haus
 *.futemax.hiphop
 *.futemax.med
+*.futemax.ventures
 geoikp.operandum-project.eu
 getlive.pcb.com.pk
 *.hesgoal.co.uk
@@ -92,6 +97,7 @@ getlive.pcb.com.pk
 *.hesgoalhd.com
 *.hesgoals.nl
 *.hesgoals.rest
+*.hesgoaltv.biz
 *.icc-cricket.com
 info.rugbypass.tv
 *.isportsurge.ws
@@ -115,6 +121,7 @@ kooora.misrlinks.com
 *.koora4ever.net
 *.koora4live.today
 *.koora4stream.site
+*.koora4u.club
 *.koora4uyt.blogspot.com
 *.kooraforus.blogspot.com
 *.kooralive-koora.live
@@ -135,6 +142,9 @@ live.pcb.com.pk
 *.livehd7.quest
 *.livehd71.live
 *.livehd71.top
+*.livehd73.com
+*.livehd7live.site
+*.livehd7pro.xyz
 *.livekoora.com
 *.livekoora.today
 *.livescore.co.kr
@@ -182,9 +192,11 @@ pirlotv-futbol-en-vivo-directo.apps112.com
 *.rojadirecta.cash
 *.rojadirecta.cloud
 *.rojadirecta.com.co
+*.rojadirectaes.cloud
 *.rojadirectafullhd.net
 *.rojadirectafulltv.org
 *.rojadirectas.cc
+*.rojadirectatv.city
 *.rojadirectatvmas.org
 s1s.designq.kr
 saas.spochak.com
@@ -244,6 +256,7 @@ t.matec.kr
 *.taraftarium24soturkiye.org
 *.taraftarium24turkiyetv.net
 *.tarjetaroja.love
+*.tarjetaroja.ltd
 *.tarjetaroja.mba
 *.tarjetaroja.run
 *.tarjetarojadirecta.biz
@@ -251,6 +264,8 @@ t.matec.kr
 *.tarjetarojaonline.info
 *.tarjetarojaonline.pro
 *.tarjetarojatv.mobi
+*.tarjetarojatvhd.live
+*.tarjetarojatvonline.site
 *.totalsportek1.is
 *.totalsporteki.fit
 *.totalsportekl.is
@@ -278,6 +293,7 @@ welcome.blasttv.ph
 *.xoilac3.cc
 *.xoilac5.top
 *.xoilaclivettbds.tv
+*.xoilaclivettbdu.tv
 *.xoilactvbm.cc
 *.xoilacvn.app
 *.xoilacvn.net

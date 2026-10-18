@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass, United States (us)
-# Domains: 4 | Updated: 2026-10-18
+# Domains: 6 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/bypass/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,4 +7,6 @@
 0.0.0.0 psiphon.sooftware.com
 0.0.0.0 unblockd.info
 0.0.0.0 unblockedgames66.gitlab.io
+0.0.0.0 unblockedgames88.gitlab.io
+0.0.0.0 unblockgamegplus.github.io
 0.0.0.0 unblockvideos.com

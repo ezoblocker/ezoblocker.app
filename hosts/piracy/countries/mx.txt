@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Mexico (mx)
-# Domains: 26 | Updated: 2026-10-18
+# Domains: 30 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/mx.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -26,7 +26,11 @@
 0.0.0.0 repelisplus.fit
 0.0.0.0 rojadirecta.cash
 0.0.0.0 rojadirecta.cloud
+0.0.0.0 rojadirectaes.cloud
 0.0.0.0 rojadirectafullhd.net
+0.0.0.0 rojadirectatv.city
 0.0.0.0 rojadirectatvmas.org
+0.0.0.0 tarjetaroja.ltd
 0.0.0.0 tarjetaroja.run
 0.0.0.0 tarjetarojadirecta.es
+0.0.0.0 tarjetarojatvhd.live

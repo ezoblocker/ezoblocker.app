@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Saudi Arabia (sa)
-# Domains: 20 | Updated: 2026-10-18
+# Domains: 24 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/sa.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 egybesstt.baby
 0.0.0.0 egybesstt.lol
 0.0.0.0 faselhd.beer
+0.0.0.0 faselhd.energy
 0.0.0.0 faselhd.ws
 0.0.0.0 koora4ever.net
 0.0.0.0 kooralivematch.club
@@ -19,6 +20,9 @@
 0.0.0.0 livehd7.quest
 0.0.0.0 livehd71.live
 0.0.0.0 livehd71.top
+0.0.0.0 livehd73.com
+0.0.0.0 livehd7live.site
+0.0.0.0 livehd7pro.xyz
 0.0.0.0 ostoralivehd7.com
 0.0.0.0 w.cimacub.com
 0.0.0.0 web.topcinema.io

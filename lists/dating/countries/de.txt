@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Germany (de)
-# Domains: 24 | Updated: 2026-10-18
+# Domains: 26 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/countries/de.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,7 @@
 *.joyclub.com
 *.joyclub.de
 *.kaufmich.com
+kibana.compactorstore.com
 *.knuddels.de
 *.lablue.de
 *.lovescout24.de
@@ -28,3 +29,4 @@ mobil.l-mag.de
 *.singleboersen-vergleich.de
 *.spinchat.com
 *.sugardaddy.de
+*.top6partnersuche.de

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 14,775 | Updated: 2026-10-18
+# Domains: 14,773 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -996,7 +996,6 @@
 0.0.0.0 appleidinformations.ph
 0.0.0.0 appleidlocked-verify.org.ph
 0.0.0.0 appleidsupport.com
-0.0.0.0 applepay-confirm.com
 0.0.0.0 applepay-verification-prod.pages.dev
 0.0.0.0 applepay-verification.pages.dev
 0.0.0.0 applepayconfirm.com
@@ -2444,6 +2443,7 @@
 0.0.0.0 com-wallet-ledger.pages.dev
 0.0.0.0 comcast.utlook.com
 0.0.0.0 commbank-applesupport-nus.com.ph
+0.0.0.0 commbankchatsupport.com
 0.0.0.0 commerzbank-active-applesupport.ph
 0.0.0.0 commerzbank-americanexpress.ph
 0.0.0.0 community-support-help-contact-81m.pages.dev
@@ -2648,7 +2648,6 @@
 0.0.0.0 customer-support-system-customer-help-unit.pages.dev
 0.0.0.0 customer-support-system-faq-help-center.pages.dev
 0.0.0.0 customer-support-system-feedback-help-desk.pages.dev
-0.0.0.0 cuz-bank-bsi.com
 0.0.0.0 cyrpto-uphld-login.pages.dev
 0.0.0.0 daftar-dana-bantuan.pages.dev
 0.0.0.0 daftarpaket-cara-registrasi-kartu-indosat.pages.dev
@@ -14557,7 +14556,6 @@
 0.0.0.0 welcome-trezor-wallet.pages.dev
 0.0.0.0 welcome-uphold-logins-x.pages.dev
 0.0.0.0 welcome-uphold-logins.pages.dev
-0.0.0.0 wellsfargo-secure-login.beauty
 0.0.0.0 wellsfargo.com-verification.collegwp1.mariagharaibeh.com
 0.0.0.0 wellsfargochecking2.authorizecenter.workers.dev
 0.0.0.0 wellsfargologon.com

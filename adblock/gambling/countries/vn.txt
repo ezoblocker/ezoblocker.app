@@ -1,11 +1,12 @@
 ! Title: EZOBLOCKER Gambling, Vietnam (vn)
-! Domains: 14 | Updated: 2026-10-18
+! Domains: 15 | Updated: 2026-10-18
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/vn.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||8ion.io^
 ||bluechiptech.io^
+||conettel.co^
 ||flyflock.io^
 ||frees.bz^
 ||fun88.ceo^
