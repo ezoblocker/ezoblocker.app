@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, ct
-! Domains: 326,940 | Updated: 2026-10-17
+! Domains: 326,939 | Updated: 2026-10-18
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -37222,7 +37222,6 @@
 ||betasus.wine^
 ||betasus16636.com^
 ||betasus1835.com^
-||betasus1852.com^
 ||betasus3256.com^
 ||betasusa-giris.icu^
 ||betasusbahis.com^

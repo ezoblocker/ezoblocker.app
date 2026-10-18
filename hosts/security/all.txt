@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 14,663 | Updated: 2026-10-17
+# Domains: 14,652 | Updated: 2026-10-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1449,7 +1449,6 @@
 0.0.0.0 bdo-onlinebanking.pages.dev
 0.0.0.0 bdo-support.cc
 0.0.0.0 bdv-enlinea-credsea.pages.dev
-0.0.0.0 beachvibesnow.com
 0.0.0.0 beauty-makeup-tips-4-u.xyz
 0.0.0.0 began--logn-treezor.pages.dev
 0.0.0.0 began-auth-uphold-wallet.pages.dev
@@ -2630,13 +2629,6 @@
 0.0.0.0 customer-support-system-feedback-help-desk.pages.dev
 0.0.0.0 cuz-bank-bsi.com
 0.0.0.0 cyrpto-uphld-login.pages.dev
-0.0.0.0 d147nolwbekx2b.cloudfront.net
-0.0.0.0 d19oo8r6k9oumb.cloudfront.net
-0.0.0.0 d1fzw0miu1r9rc.cloudfront.net
-0.0.0.0 d1x4e580sn23dn.cloudfront.net
-0.0.0.0 d23625plpxg1yn.cloudfront.net
-0.0.0.0 d2f4zpg1mgzwov.cloudfront.net
-0.0.0.0 d39619tdxn6mhj.cloudfront.net
 0.0.0.0 daftar-dana-bantuan.pages.dev
 0.0.0.0 daftarpaket-cara-registrasi-kartu-indosat.pages.dev
 0.0.0.0 damonbux-com-roblox-robux.pages.dev
@@ -2691,7 +2683,6 @@
 0.0.0.0 davivienda-labanquepostale.ph
 0.0.0.0 daviviendadenlinea.me
 0.0.0.0 daviviendaenlinea.my
-0.0.0.0 dcv2rnj2ograe.cloudfront.net
 0.0.0.0 debloquer-icloud.com
 0.0.0.0 debloquer-icloud.net
 0.0.0.0 default-blockf-logi.pages.dev
@@ -3172,7 +3163,6 @@
 0.0.0.0 engie-be-xptkv.icu
 0.0.0.0 engie-remboursement.info
 0.0.0.0 enhenced-web-cloud-live-loggin.pages.dev
-0.0.0.0 enjoymultiplecats.com
 0.0.0.0 enn-trezor-wallet.pages.dev
 0.0.0.0 ens-metamask-sso.pages.dev
 0.0.0.0 ens-sign-in-web-coiinbase-access.pages.dev
@@ -4175,7 +4165,6 @@
 0.0.0.0 gift-card-roblox-rewards.pages.dev
 0.0.0.0 gift-free-internet.pages.dev
 0.0.0.0 gift-free-sex-with-me-and-my-friend.pages.dev
-0.0.0.0 globaldatapoints.com
 0.0.0.0 glovo-ma-yqvkp.icu
 0.0.0.0 glovoapp-applesupport.com.ph
 0.0.0.0 gls.parcel-status.info
@@ -4818,7 +4807,6 @@
 0.0.0.0 iao-online-kraton.pages.dev
 0.0.0.0 iban-elster.de
 0.0.0.0 ice-mints.sky99idn.uk
-0.0.0.0 icecreamtester.com
 0.0.0.0 icloud-activation-lock.com
 0.0.0.0 icloud-caseid.support
 0.0.0.0 icloud-content-sale.ph
@@ -4962,6 +4950,7 @@
 0.0.0.0 inside-logn---trzor-en.pages.dev
 0.0.0.0 inside-logn-trzor-en.pages.dev
 0.0.0.0 inside-logn-trzor-ex.pages.dev
+0.0.0.0 insightenterprisells.com
 0.0.0.0 insta-customer-service.pages.dev
 0.0.0.0 insta-io-trezor.pages.dev
 0.0.0.0 insta-login-front.pages.dev
@@ -9839,10 +9828,10 @@
 0.0.0.0 phonepe-appstore.in
 0.0.0.0 phonepe-reward-4-you.live
 0.0.0.0 phonepe-reward.live
-0.0.0.0 pickarest.com
 0.0.0.0 piggy-bank-bqw.pages.dev
 0.0.0.0 pin-ledger-wallet.pages.dev
 0.0.0.0 piraeus-green-banking.ph
+0.0.0.0 plasticbells.com
 0.0.0.0 play-compte-refund.com.ph
 0.0.0.0 play.dewi11-viral.cc
 0.0.0.0 playstation-gift-card-for-roblox.pages.dev

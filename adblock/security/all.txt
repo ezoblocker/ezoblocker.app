@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Security
-! Domains: 14,663 | Updated: 2026-10-17
+! Domains: 14,652 | Updated: 2026-10-18
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1449,7 +1449,6 @@
 ||bdo-onlinebanking.pages.dev^
 ||bdo-support.cc^
 ||bdv-enlinea-credsea.pages.dev^
-||beachvibesnow.com^
 ||beauty-makeup-tips-4-u.xyz^
 ||began--logn-treezor.pages.dev^
 ||began-auth-uphold-wallet.pages.dev^
@@ -2630,13 +2629,6 @@
 ||customer-support-system-feedback-help-desk.pages.dev^
 ||cuz-bank-bsi.com^
 ||cyrpto-uphld-login.pages.dev^
-|d147nolwbekx2b.cloudfront.net^
-|d19oo8r6k9oumb.cloudfront.net^
-|d1fzw0miu1r9rc.cloudfront.net^
-|d1x4e580sn23dn.cloudfront.net^
-|d23625plpxg1yn.cloudfront.net^
-|d2f4zpg1mgzwov.cloudfront.net^
-|d39619tdxn6mhj.cloudfront.net^
 ||daftar-dana-bantuan.pages.dev^
 ||daftarpaket-cara-registrasi-kartu-indosat.pages.dev^
 ||damonbux-com-roblox-robux.pages.dev^
@@ -2691,7 +2683,6 @@
 ||davivienda-labanquepostale.ph^
 ||daviviendadenlinea.me^
 ||daviviendaenlinea.my^
-|dcv2rnj2ograe.cloudfront.net^
 ||debloquer-icloud.com^
 ||debloquer-icloud.net^
 ||default-blockf-logi.pages.dev^
@@ -3172,7 +3163,6 @@
 ||engie-be-xptkv.icu^
 ||engie-remboursement.info^
 ||enhenced-web-cloud-live-loggin.pages.dev^
-||enjoymultiplecats.com^
 ||enn-trezor-wallet.pages.dev^
 ||ens-metamask-sso.pages.dev^
 ||ens-sign-in-web-coiinbase-access.pages.dev^
@@ -4175,7 +4165,6 @@
 ||gift-card-roblox-rewards.pages.dev^
 ||gift-free-internet.pages.dev^
 ||gift-free-sex-with-me-and-my-friend.pages.dev^
-||globaldatapoints.com^
 ||glovo-ma-yqvkp.icu^
 ||glovoapp-applesupport.com.ph^
 |gls.parcel-status.info^
@@ -4818,7 +4807,6 @@
 ||iao-online-kraton.pages.dev^
 ||iban-elster.de^
 |ice-mints.sky99idn.uk^
-||icecreamtester.com^
 ||icloud-activation-lock.com^
 ||icloud-caseid.support^
 ||icloud-content-sale.ph^
@@ -4962,6 +4950,7 @@
 ||inside-logn---trzor-en.pages.dev^
 ||inside-logn-trzor-en.pages.dev^
 ||inside-logn-trzor-ex.pages.dev^
+||insightenterprisells.com^
 ||insta-customer-service.pages.dev^
 ||insta-io-trezor.pages.dev^
 ||insta-login-front.pages.dev^
@@ -9839,10 +9828,10 @@
 ||phonepe-appstore.in^
 ||phonepe-reward-4-you.live^
 ||phonepe-reward.live^
-||pickarest.com^
 ||piggy-bank-bqw.pages.dev^
 ||pin-ledger-wallet.pages.dev^
 ||piraeus-green-banking.ph^
+||plasticbells.com^
 ||play-compte-refund.com.ph^
 |play.dewi11-viral.cc^
 ||playstation-gift-card-for-roblox.pages.dev^
