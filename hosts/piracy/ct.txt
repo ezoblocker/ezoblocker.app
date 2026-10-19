@@ -1,18 +1,21 @@
 # Title: EZOBLOCKER Piracy, ct
-# Domains: 258 | Updated: 2026-10-19
+# Domains: 285 | Updated: 2026-10-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 037hdmovie.io
 0.0.0.0 123-hdmovie.com
 0.0.0.0 123gomovies.com
 0.0.0.0 123mangaraw.org
 0.0.0.0 1madrasrockers.boats
 0.0.0.0 1tamilblasters.my
+0.0.0.0 1tamilmv.mba
 0.0.0.0 abonnement-iptvsmarterspro.app
 0.0.0.0 animeloads.cyou
 0.0.0.0 arabseed.ltd
 0.0.0.0 besteiptvabonnement.com
+0.0.0.0 bestiptvireland.shop
 0.0.0.0 cinecalidad-0f9b.pages.dev
 0.0.0.0 cinecalidad-2j3b.pages.dev
 0.0.0.0 cinecalidad-33um.pages.dev
@@ -34,6 +37,7 @@
 0.0.0.0 crackstreams.si
 0.0.0.0 cuevana-2y9h.pages.dev
 0.0.0.0 cuevana-3.surf
+0.0.0.0 cuevana-5q6y.pages.dev
 0.0.0.0 cuevana-7ap5.pages.dev
 0.0.0.0 cuevana-e0a9.pages.dev
 0.0.0.0 cuevana-gx65.pages.dev
@@ -44,6 +48,8 @@
 0.0.0.0 cuevana-z5yl.pages.dev
 0.0.0.0 cuevana3-06kz.pages.dev
 0.0.0.0 cuevana3-1g9s.pages.dev
+0.0.0.0 cuevana3-39it.pages.dev
+0.0.0.0 cuevana3-4gut.pages.dev
 0.0.0.0 cuevana3-4h0b.pages.dev
 0.0.0.0 cuevana3-4kij.pages.dev
 0.0.0.0 cuevana3-4pla.pages.dev
@@ -55,6 +61,7 @@
 0.0.0.0 cuevana3-a2r0.pages.dev
 0.0.0.0 cuevana3-an8.pages.dev
 0.0.0.0 cuevana3-d7s5.pages.dev
+0.0.0.0 cuevana3-dnl1.pages.dev
 0.0.0.0 cuevana3-eklf.pages.dev
 0.0.0.0 cuevana3-grv3.pages.dev
 0.0.0.0 cuevana3-hi0n.pages.dev
@@ -67,6 +74,7 @@
 0.0.0.0 cuevana3-mfwc.pages.dev
 0.0.0.0 cuevana3-mlrt.pages.dev
 0.0.0.0 cuevana3-n8su.pages.dev
+0.0.0.0 cuevana3-og4j.pages.dev
 0.0.0.0 cuevana3-ovas.pages.dev
 0.0.0.0 cuevana3-resq.pages.dev
 0.0.0.0 cuevana3-rg8.pages.dev
@@ -76,15 +84,20 @@
 0.0.0.0 cuevana3-t9qx.pages.dev
 0.0.0.0 cuevana3-uugr.pages.dev
 0.0.0.0 cuevana3-vy3.pages.dev
+0.0.0.0 cuevana3-w3si.pages.dev
 0.0.0.0 cuevana3-yeaf.pages.dev
 0.0.0.0 cuevana3-yscy.pages.dev
 0.0.0.0 cuevana3-ziow.pages.dev
 0.0.0.0 cuevana3-zqrb.pages.dev
 0.0.0.0 cuevana8.li
 0.0.0.0 cuevana8.net
+0.0.0.0 cuevanacc.xyz
+0.0.0.0 doseriesonline.com
+0.0.0.0 dreamfilm.com.ua
 0.0.0.0 el-koraonline.one
 0.0.0.0 filmapik.rodeo
 0.0.0.0 filmestorrents.biz
+0.0.0.0 filmoflix-gfl.pages.dev
 0.0.0.0 filmoflix-ofpk.pages.dev
 0.0.0.0 filmoflix.xyz
 0.0.0.0 flixfoxmovie.org
@@ -96,6 +109,7 @@
 0.0.0.0 franceiptvpremium.net
 0.0.0.0 freemoviesfull.best
 0.0.0.0 freemoviestreams5.pages.dev
+0.0.0.0 futbolenvivo.co
 0.0.0.0 futbolgratis.com.mx
 0.0.0.0 futbollibrehd-tv.com
 0.0.0.0 futbollibretv.ink
@@ -106,6 +120,7 @@
 0.0.0.0 gipnozis-hdrezka.org
 0.0.0.0 gogoanime-v3.pages.dev
 0.0.0.0 gogoanime.party
+0.0.0.0 gogoanimee.my
 0.0.0.0 gomovies-online.cam
 0.0.0.0 hdfilmcehennemi3.com
 0.0.0.0 iptv-smarters-subscription.com
@@ -120,12 +135,14 @@
 0.0.0.0 jkanimes-lat.pages.dev
 0.0.0.0 kickass-anime.com
 0.0.0.0 kinokiste-38t3.pages.dev
+0.0.0.0 kisscartoon.biz
 0.0.0.0 koraonline.club
 0.0.0.0 kuttymovies.ai.in
 0.0.0.0 livekora360.com
 0.0.0.0 lk21.sa.com
 0.0.0.0 lordfilm-top-kino.top
 0.0.0.0 lordfilmstv.click
+0.0.0.0 lordfilmstv.one
 0.0.0.0 magistvfutbol.com
 0.0.0.0 mangaraw.top
 0.0.0.0 motchill.com.de
@@ -161,6 +178,7 @@
 0.0.0.0 pelisflix-em35.pages.dev
 0.0.0.0 pelisflix-gj11.pages.dev
 0.0.0.0 pelisflix-k4bi.pages.dev
+0.0.0.0 pelisflix-n9u3.pages.dev
 0.0.0.0 pelisflix-nsbs.pages.dev
 0.0.0.0 pelisflix-q9ja.pages.dev
 0.0.0.0 pelisflix-qk6u.pages.dev
@@ -177,6 +195,7 @@
 0.0.0.0 pelispedia-7fkx.pages.dev
 0.0.0.0 pelispedia-c9cr.pages.dev
 0.0.0.0 pelispedia-hu2x.pages.dev
+0.0.0.0 pelispedia-la5b.pages.dev
 0.0.0.0 pelispedia.homes
 0.0.0.0 pepelisplus-3za4.pages.dev
 0.0.0.0 pepelisplus-g7hj.pages.dev
@@ -194,6 +213,8 @@
 0.0.0.0 putlocker-k0u0.pages.dev
 0.0.0.0 putlocker-lxyy.pages.dev
 0.0.0.0 real-couchtuner.com
+0.0.0.0 repelis24-sd4e.pages.dev
+0.0.0.0 serialeon.live
 0.0.0.0 series-subthai.xyz
 0.0.0.0 smartiptvabo.com
 0.0.0.0 socolive-affcup2026a.live
@@ -206,6 +227,7 @@
 0.0.0.0 socolivefb.com
 0.0.0.0 socoliveh.ac
 0.0.0.0 socolivejj.io
+0.0.0.0 socolivekj.cc
 0.0.0.0 socolivetvg.cc
 0.0.0.0 socolivevd.cc
 0.0.0.0 socolivevg.cc
@@ -220,6 +242,7 @@
 0.0.0.0 sportsurge-i01.pages.dev
 0.0.0.0 ssrmovies.icu
 0.0.0.0 supertorrentz.ru
+0.0.0.0 tarjetarojatv-8d6.pages.dev
 0.0.0.0 themoviesflix.dev
 0.0.0.0 thoiivietsub.pages.dev
 0.0.0.0 torrentleech.pages.dev
@@ -236,8 +259,12 @@
 0.0.0.0 watchseries-mkqw.pages.dev
 0.0.0.0 watchseries-yowo.pages.dev
 0.0.0.0 watchseriesnet.net
+0.0.0.0 wemycima.club
+0.0.0.0 ww-fmovies.com
 0.0.0.0 ww1--kissanime.pages.dev
+0.0.0.0 ww1-yggtorrent.me
 0.0.0.0 www-cpasbien.cc
+0.0.0.0 xembongdaxoilac.ink
 0.0.0.0 xemsocolive.com
 0.0.0.0 xo-movie.com
 0.0.0.0 yalla-koora.club

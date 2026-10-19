@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,107 | Updated: 2026-10-19
+# Domains: 1,134 | Updated: 2026-10-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 037hdmovie.io
 0.0.0.0 123-hdmovie.com
 0.0.0.0 123gomovies.com
 0.0.0.0 123mangaraw.org
@@ -15,6 +16,7 @@
 0.0.0.0 1kuttymovies.pro
 0.0.0.0 1madrasrockers.boats
 0.0.0.0 1tamilblasters.my
+0.0.0.0 1tamilmv.mba
 0.0.0.0 2fmovies.net
 0.0.0.0 4kiptvireland.irish
 0.0.0.0 6stream.net
@@ -101,6 +103,7 @@
 0.0.0.0 besteiptvabonnement.com
 0.0.0.0 bestiptv-ireland.irish
 0.0.0.0 bestiptvireland.net
+0.0.0.0 bestiptvireland.shop
 0.0.0.0 bestiptvireland.store
 0.0.0.0 betteranime.com
 0.0.0.0 betteranime.io
@@ -172,6 +175,7 @@
 0.0.0.0 crictime.is
 0.0.0.0 cuevana-2y9h.pages.dev
 0.0.0.0 cuevana-3.surf
+0.0.0.0 cuevana-5q6y.pages.dev
 0.0.0.0 cuevana-7ap5.pages.dev
 0.0.0.0 cuevana-e0a9.pages.dev
 0.0.0.0 cuevana-gx65.pages.dev
@@ -182,6 +186,8 @@
 0.0.0.0 cuevana-z5yl.pages.dev
 0.0.0.0 cuevana3-06kz.pages.dev
 0.0.0.0 cuevana3-1g9s.pages.dev
+0.0.0.0 cuevana3-39it.pages.dev
+0.0.0.0 cuevana3-4gut.pages.dev
 0.0.0.0 cuevana3-4h0b.pages.dev
 0.0.0.0 cuevana3-4kij.pages.dev
 0.0.0.0 cuevana3-4pla.pages.dev
@@ -193,6 +199,7 @@
 0.0.0.0 cuevana3-a2r0.pages.dev
 0.0.0.0 cuevana3-an8.pages.dev
 0.0.0.0 cuevana3-d7s5.pages.dev
+0.0.0.0 cuevana3-dnl1.pages.dev
 0.0.0.0 cuevana3-eklf.pages.dev
 0.0.0.0 cuevana3-grv3.pages.dev
 0.0.0.0 cuevana3-hi0n.pages.dev
@@ -205,6 +212,7 @@
 0.0.0.0 cuevana3-mfwc.pages.dev
 0.0.0.0 cuevana3-mlrt.pages.dev
 0.0.0.0 cuevana3-n8su.pages.dev
+0.0.0.0 cuevana3-og4j.pages.dev
 0.0.0.0 cuevana3-ovas.pages.dev
 0.0.0.0 cuevana3-resq.pages.dev
 0.0.0.0 cuevana3-rg8.pages.dev
@@ -214,6 +222,7 @@
 0.0.0.0 cuevana3-t9qx.pages.dev
 0.0.0.0 cuevana3-uugr.pages.dev
 0.0.0.0 cuevana3-vy3.pages.dev
+0.0.0.0 cuevana3-w3si.pages.dev
 0.0.0.0 cuevana3-yeaf.pages.dev
 0.0.0.0 cuevana3-yscy.pages.dev
 0.0.0.0 cuevana3-ziow.pages.dev
@@ -224,6 +233,7 @@
 0.0.0.0 cuevana8.li
 0.0.0.0 cuevana8.net
 0.0.0.0 cuevanaa1.pro
+0.0.0.0 cuevanacc.xyz
 0.0.0.0 cuevanaserie.pro
 0.0.0.0 cuevanatv.vip
 0.0.0.0 cuevanaz.biz
@@ -261,8 +271,10 @@
 0.0.0.0 dontorrent.club
 0.0.0.0 doonung2u.blogspot.com
 0.0.0.0 doonungfree.com
+0.0.0.0 doseriesonline.com
 0.0.0.0 dovik.ferit.hr
 0.0.0.0 drakorid.co
+0.0.0.0 dreamfilm.com.ua
 0.0.0.0 egybesstt.baby
 0.0.0.0 egybesstt.lol
 0.0.0.0 egybest-real.bitbucket.io
@@ -296,6 +308,7 @@
 0.0.0.0 filmizle.ink
 0.0.0.0 filmizledim.com
 0.0.0.0 filmmakinesi.to
+0.0.0.0 filmoflix-gfl.pages.dev
 0.0.0.0 filmoflix-ofpk.pages.dev
 0.0.0.0 filmoflix.xyz
 0.0.0.0 filmora.wondershare.kr
@@ -348,6 +361,7 @@
 0.0.0.0 fullprogramlarindir.cc
 0.0.0.0 fullprogramlarindir.net
 0.0.0.0 fullprogramlarindir.tr
+0.0.0.0 futbolenvivo.co
 0.0.0.0 futbolenvivocolombia.com
 0.0.0.0 futbolete.com
 0.0.0.0 futbolgratis.com.mx
@@ -393,6 +407,7 @@
 0.0.0.0 gogoanime.co.ke
 0.0.0.0 gogoanime.or.at
 0.0.0.0 gogoanime.party
+0.0.0.0 gogoanimee.my
 0.0.0.0 gogoanimes.dk
 0.0.0.0 gogoanimes.watch
 0.0.0.0 gogoanimez.online
@@ -522,6 +537,7 @@
 0.0.0.0 kissanime.com.cv
 0.0.0.0 kissanime.quest
 0.0.0.0 kissanimetv.lol
+0.0.0.0 kisscartoon.biz
 0.0.0.0 kmanga.kodansha.com
 0.0.0.0 kooora.com
 0.0.0.0 kooora.misrlinks.com
@@ -591,6 +607,7 @@
 0.0.0.0 lordfilms.pub
 0.0.0.0 lordfilms.pw
 0.0.0.0 lordfilmstv.click
+0.0.0.0 lordfilmstv.one
 0.0.0.0 m.acestream.net
 0.0.0.0 m.goalddlive.com
 0.0.0.0 m.kino-sokol.pl
@@ -720,6 +737,7 @@
 0.0.0.0 pelisflix-em35.pages.dev
 0.0.0.0 pelisflix-gj11.pages.dev
 0.0.0.0 pelisflix-k4bi.pages.dev
+0.0.0.0 pelisflix-n9u3.pages.dev
 0.0.0.0 pelisflix-nsbs.pages.dev
 0.0.0.0 pelisflix-q9ja.pages.dev
 0.0.0.0 pelisflix-qk6u.pages.dev
@@ -736,6 +754,7 @@
 0.0.0.0 pelispedia-7fkx.pages.dev
 0.0.0.0 pelispedia-c9cr.pages.dev
 0.0.0.0 pelispedia-hu2x.pages.dev
+0.0.0.0 pelispedia-la5b.pages.dev
 0.0.0.0 pelispedia.homes
 0.0.0.0 pelispedia.mov
 0.0.0.0 pelisplus.garden
@@ -821,6 +840,7 @@
 0.0.0.0 redecanaishd.qpon
 0.0.0.0 redecanaishd1.online
 0.0.0.0 repelis.mom
+0.0.0.0 repelis24-sd4e.pages.dev
 0.0.0.0 repelis24.bz
 0.0.0.0 repelis24.nz
 0.0.0.0 repelis24.shop
@@ -850,6 +870,7 @@
 0.0.0.0 samehadaku.li
 0.0.0.0 scoreman123.com
 0.0.0.0 selcuksportshd.is
+0.0.0.0 serialeon.live
 0.0.0.0 series-subthai.xyz
 0.0.0.0 seriestreaming.live
 0.0.0.0 sflix.org
@@ -887,6 +908,7 @@
 0.0.0.0 socoliveh.ac
 0.0.0.0 socolivei.cc
 0.0.0.0 socolivejj.io
+0.0.0.0 socolivekj.cc
 0.0.0.0 socolivetvg.cc
 0.0.0.0 socolivetvz.top
 0.0.0.0 socolivev.co
@@ -959,6 +981,7 @@
 0.0.0.0 tarjetarojadirecta.es
 0.0.0.0 tarjetarojaonline.info
 0.0.0.0 tarjetarojaonline.pro
+0.0.0.0 tarjetarojatv-8d6.pages.dev
 0.0.0.0 tarjetarojatv.mobi
 0.0.0.0 tarjetarojatvhd.live
 0.0.0.0 tarjetarojatvonline.site
@@ -1050,12 +1073,15 @@
 0.0.0.0 webteizle.info
 0.0.0.0 webteizle3.xyz
 0.0.0.0 welcome.blasttv.ph
+0.0.0.0 wemycima.club
 0.0.0.0 wiflix.al
 0.0.0.0 wolfmax4k.net
 0.0.0.0 worldfree4u.events
 0.0.0.0 worldfree4u.forum
+0.0.0.0 ww-fmovies.com
 0.0.0.0 ww.sledujfilmy.io
 0.0.0.0 ww1--kissanime.pages.dev
+0.0.0.0 ww1-yggtorrent.me
 0.0.0.0 ww1.animefenix.vip
 0.0.0.0 ww1.hindimovies.to
 0.0.0.0 ww1.pelis24.blog
@@ -1063,6 +1089,7 @@
 0.0.0.0 www-mangadex.org
 0.0.0.0 www.kino.nowytarg.pl
 0.0.0.0 www.tosho3704.tokyo-bousai.or.jp
+0.0.0.0 xembongdaxoilac.ink
 0.0.0.0 xemsocolive.com
 0.0.0.0 xo-movie.com
 0.0.0.0 xoilac1.help
