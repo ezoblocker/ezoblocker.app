@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 143 | Updated: 2026-10-19
+# Domains: 144 | Updated: 2026-10-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -91,6 +91,7 @@ psiphon.kr.softmany.com
 psiphon.sooftware.com
 *.psiphon2.net
 *.px6.net
+*.shadowsocks-links.com
 *.shadowsocks.au
 *.shadowsocks.com
 *.shadowsocks.nz

@@ -1,11 +1,10 @@
 # Title: EZOBLOCKER Piracy, United States (us)
-# Domains: 23 | Updated: 2026-10-19
+# Domains: 21 | Updated: 2026-10-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 123movieputlockers.com
-0.0.0.0 123moviestub.cc
 0.0.0.0 123putlockers.me
 0.0.0.0 9anime.com.lv
 0.0.0.0 animepahe.ch
@@ -24,6 +23,5 @@
 0.0.0.0 nflbites.today
 0.0.0.0 piratebayproxylist.github.io
 0.0.0.0 projectfreetvm.lol
-0.0.0.0 putlockerfree2.com
 0.0.0.0 viprow.pro
 0.0.0.0 warez-bb.website

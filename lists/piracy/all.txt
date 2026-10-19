@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,134 | Updated: 2026-10-19
+# Domains: 1,129 | Updated: 2026-10-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,7 +10,6 @@
 *.123mangaraw.org
 *.123movieputlockers.com
 *.123moviesflix.me
-*.123moviestub.cc
 *.123putlockers.me
 *.1337x.com.im
 *.1kuttymovies.pro
@@ -267,7 +266,6 @@ directory.acci.gr
 *.diziyou.vip
 dnsrepo.noc.org
 *.dontorrent.blog
-*.dontorrent.channel
 *.dontorrent.club
 *.doonung2u.blogspot.com
 *.doonungfree.com
@@ -412,7 +410,6 @@ getlive.pcb.com.pk
 *.gogoanimes.watch
 *.gogoanimez.online
 *.gomovies-online.cam
-*.gomoviesfull.com
 *.gomovieshd.today
 google-play.en.softmany.com
 *.grantorrent.foo
@@ -678,7 +675,6 @@ mooreok.govbuilt.com
 *.myflixer--v2.pages.dev
 *.myflixer.com.co
 *.myflixer.news
-*.myflixerr.top
 *.myflixerto.org
 *.myiptvtelewizja.com
 *.mynetnaija.ng
@@ -825,7 +821,6 @@ produtor.adagri.ce.gov.br
 *.putlocker-jmrb.pages.dev
 *.putlocker-k0u0.pages.dev
 *.putlocker-lxyy.pages.dev
-*.putlockerfree2.com
 *.quicksportstv.com
 *.rapidgators.net
 *.rarbg.bg

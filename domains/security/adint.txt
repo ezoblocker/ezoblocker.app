@@ -1,18 +1,8 @@
 # Title: EZOBLOCKER Security, adint
-# Domains: 12 | Updated: 2026-10-19
+# Domains: 2 | Updated: 2026-10-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/security/adint.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 archer.westeurope.cloudapp.azure.com
 bd-mainserver.herokuapp.com
-fearevolve.com
-infoanalytics.live
-insightenterprisells.com
-jobmarcher.com
-keyadapter.com
-outdooutcome.com
-plasticbells.com
-sharethere.net
-sincereaccertain.com
-suggestutterly.com

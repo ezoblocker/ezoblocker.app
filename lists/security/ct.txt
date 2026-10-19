@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 14,956 | Updated: 2026-10-19
+# Domains: 14,947 | Updated: 2026-10-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -692,6 +692,7 @@ admin.acesso-bancoctt-digital.billing-verification.click
 *.airbnb-businessinquiries-policy.org.ph
 airbnb-face-verification.codewithsachintha.com
 *.airbnb-login-signup-page.pages.dev
+*.airbnb-login5617.live
 *.airbnb-order.shop
 airbnb-verification-email.fanduelsportsnetworj.com
 *.airdrop-checker-walletconnect.pages.dev
@@ -1348,7 +1349,6 @@ authentik-admin.bank.stanic.io
 *.auths-uphold-logincom.pages.dev
 *.auths-uphold.pages.dev
 *.auto-login-ledgeer.pages.dev
-autodiscover.official-blockchain-wallets.events-gift.com
 *.autth-ledger-com.pages.dev
 *.autth-uphold-x-com.pages.dev
 *.auuth-lesdger-livve-access-us-en.pages.dev
@@ -1562,7 +1562,6 @@ billing.mybank.su
 *.binance-fund-recovery.pages.dev
 *.binance-recovery.pages.dev
 *.binance-reward.shop
-*.binance-signin.com
 *.binance-the-world-s-most-trusted-cryptocurrency-exchange-t.pages.dev
 *.binance-us-verify.com
 *.binance-verify-us.com
@@ -2625,9 +2624,6 @@ costco.promo-offer.today
 *.coupang-applesupport.ph
 *.cox-account-sign-in.pages.dev
 cpanel.fedex-delivery-tracking.aiianc.com
-cpanel.official-blockchain-wallets.events-gift.com
-cpcalendars.official-blockchain-wallets.events-gift.com
-cpcontacts.official-blockchain-wallets.events-gift.com
 *.cra-interac-claim.ph
 *.crd-metamsk-login.pages.dev
 *.cre-ate-robinhod-login.pages.dev
@@ -3746,6 +3742,7 @@ espace-client.espace-client.www.cetelem-atlantic.com
 *.facebookuserreward.pages.dev
 *.faceit-approve.pro
 *.faceit-verify-account.com
+*.faceit-verify.xyz
 *.faq---ledgerlive-en-auths.pages.dev
 *.faq--coinnbase-wallet-extension.pages.dev
 *.faq--trezor-login-en-us.pages.dev
@@ -7605,13 +7602,13 @@ mail-graph-microsoft-com.proxy.aauth.dev
 *.mail-mofept-gov-pk-verification2lerserverupdate84jhbhjgbhc.pages.dev
 mail.acesso-bancoctt-digital.billing-verification.click
 mail.fedex-delivery-tracking.aiianc.com
-mail.official-blockchain-wallets.events-gift.com
 mail.suivi-colis-colissimo.parfums33ml.online
 maile-sec-logn.piyiba5715.workers.dev
 *.maile-yah0-rrmpt.workers.dev
 *.main-live-wallet-ledger.pages.dev
 *.main-logn-trezrr.pages.dev
 *.mainnet-ethereum-blockchain.pages.dev
+*.makro-gift-card.co.za
 *.makro-tracking.com
 mall.200wallet.vip
 *.manage--kucoinn-logon.pages.dev
@@ -9558,7 +9555,6 @@ office.poluchit-prava-7f4t.ru
 *.official-app-trzor.pages.dev
 *.official-apps-trezor-suite.pages.dev
 *.official-apps-trezzor-suites.pages.dev
-official-blockchain-wallets.events-gift.com
 *.official-blockfii-en-us.pages.dev
 *.official-call-airfrance-now.pages.dev
 *.official-coinbase--en-ext.pages.dev
@@ -14489,7 +14485,6 @@ wallet-google-com.300723.xyz
 *.wallet-x-ledgerliv.pages.dev
 *.wallet-x-ledgerlive.pages.dev
 wallet.btech-k8xw2r.xyz
-wallet.ooffice365.com
 *.walletconnect-dapps.pages.dev
 *.walletconnectdappsfix.pages.dev
 *.walletconnectrecovery-71g.pages.dev
@@ -14669,13 +14664,11 @@ web-login.omobile.cfd
 *.web3-wallet-crypto.com
 *.web3-wallet-exdous.pages.dev
 *.webapp-signin-caixa.com
-webdisk.official-blockchain-wallets.events-gift.com
 *.webmail-eastlink-ii.pages.dev
 webmail-login.unicredit-onlineplatform.com
 webmail.acesso-bancoctt-digital.billing-verification.click
 webmail.apple.com-support.update-account.ptveracruz.org
 webmail.fedex-delivery-tracking.aiianc.com
-webmail.official-blockchain-wallets.events-gift.com
 *.webmoney-online-credits.ru
 *.webpage-helps-live.pages.dev
 *.webpage-logn-trezrr.pages.dev
@@ -14786,7 +14779,6 @@ wildberrie.jumia-vip.shop
 *.willhaben-at-id.cfd
 *.willhaben-at-post.info
 *.window--download-live-wallet.pages.dev
-*.wise-bank.xyz
 *.wise-support.online
 *.with--logn-terzor-io-eng.pages.dev
 *.with-logn-terzor-io-eng.pages.dev
@@ -14882,7 +14874,6 @@ www.magyar.posta.tracking-delivery.pinkstripes.org
 www.mastercard.ayabank.us
 www.metro-liquidators.metro-liquidators.site
 www.netflix.verification.ijwmpq1zbvdk.afriharvest.co.za
-www.official-blockchain-wallets.events-gift.com
 www.opensea.io.verification.comercialbuza.cl
 www.paypai-security.service-online-david.com
 www.paypal-confirm-your-account.trainkook.com

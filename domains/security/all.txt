@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 14,968 | Updated: 2026-10-19
+# Domains: 14,949 | Updated: 2026-10-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -692,6 +692,7 @@ airbnb-booking-app.pages.dev
 airbnb-businessinquiries-policy.org.ph
 airbnb-face-verification.codewithsachintha.com
 airbnb-login-signup-page.pages.dev
+airbnb-login5617.live
 airbnb-order.shop
 airbnb-verification-email.fanduelsportsnetworj.com
 airdrop-checker-walletconnect.pages.dev
@@ -1349,7 +1350,6 @@ auths-uphold-login.pages.dev
 auths-uphold-logincom.pages.dev
 auths-uphold.pages.dev
 auto-login-ledgeer.pages.dev
-autodiscover.official-blockchain-wallets.events-gift.com
 autth-ledger-com.pages.dev
 autth-uphold-x-com.pages.dev
 auuth-lesdger-livve-access-us-en.pages.dev
@@ -1564,7 +1564,6 @@ binance-ethereum.pages.dev
 binance-fund-recovery.pages.dev
 binance-recovery.pages.dev
 binance-reward.shop
-binance-signin.com
 binance-the-world-s-most-trusted-cryptocurrency-exchange-t.pages.dev
 binance-us-verify.com
 binance-verify-us.com
@@ -2627,9 +2626,6 @@ coupang-applesupport.com.ph
 coupang-applesupport.ph
 cox-account-sign-in.pages.dev
 cpanel.fedex-delivery-tracking.aiianc.com
-cpanel.official-blockchain-wallets.events-gift.com
-cpcalendars.official-blockchain-wallets.events-gift.com
-cpcontacts.official-blockchain-wallets.events-gift.com
 cra-interac-claim.ph
 crd-metamsk-login.pages.dev
 cre-ate-robinhod-login.pages.dev
@@ -3748,6 +3744,7 @@ facebooklogindirect-confirm-new-google.com.ph
 facebookuserreward.pages.dev
 faceit-approve.pro
 faceit-verify-account.com
+faceit-verify.xyz
 faq---ledgerlive-en-auths.pages.dev
 faq--coinnbase-wallet-extension.pages.dev
 faq--trezor-login-en-us.pages.dev
@@ -3929,7 +3926,6 @@ fb-24x7-support-help-centre.pages.dev
 fb-log-acccount-center-helps-meta-verifyesxzxz.pages.dev
 fb-log-acccount-center-helps-meta-verifyxx.pages.dev
 fbservice-24x7-support-help-centre.pages.dev
-fearevolve.com
 fed-exodus-wallet.pages.dev
 fed-kucoin--login.pages.dev
 fed-robinhood-logn.pages.dev
@@ -5084,7 +5080,6 @@ info-trezrr-wallet.pages.dev
 info-trstcapital-login.pages.dev
 info-wallet-ledger.pages.dev
 info-wallet-uphold.pages.dev
-infoanalytics.live
 infoo--logiin--trezorrr.pages.dev
 infoo--logiin--trezrr.pages.dev
 inform-coinbase-sso.pages.dev
@@ -5116,7 +5111,6 @@ inside-logn---trzor-en.pages.dev
 inside-logn-trzor-en.pages.dev
 inside-logn-trzor-ex.pages.dev
 inside-logn-trzor.pages.dev
-insightenterprisells.com
 insta-customer-service.pages.dev
 insta-io-trezor.pages.dev
 insta-login-front.pages.dev
@@ -5578,7 +5572,6 @@ java288-login-mudah-fleksibel.pages.dev
 jenius128jenius-cemerlang.pages.dev
 jepor987-x-samsung-indonesia-mobile-tv-home-appliances.pages.dev
 jijian-bill-admin.pages.dev
-jobmarcher.com
 join--ledgrcom.pages.dev
 join-chat-whatsapp-my1.pages.dev
 join-chat-whatsapp.pages.dev
@@ -5699,7 +5692,6 @@ keep-secure-loggin-uphold-en.pages.dev
 ketos-reward-nft-meta-airdrop-4.cloudflare1602.workers.dev
 ketos-reward-nft-meta-airdrop-5.cloudflare1602.workers.dev
 ketos-reward-nft-meta-airdrop-6.cloudflare1602.workers.dev
-keyadapter.com
 keyless-wallet-bybit.org
 kfv-29m-kleinanzeigen.info
 kilat77-google-verified.pages.dev
@@ -7612,13 +7604,13 @@ mail-graph-microsoft-com.proxy.aauth.dev
 mail-mofept-gov-pk-verification2lerserverupdate84jhbhjgbhc.pages.dev
 mail.acesso-bancoctt-digital.billing-verification.click
 mail.fedex-delivery-tracking.aiianc.com
-mail.official-blockchain-wallets.events-gift.com
 mail.suivi-colis-colissimo.parfums33ml.online
 maile-sec-logn.piyiba5715.workers.dev
 maile-yah0-rrmpt.workers.dev
 main-live-wallet-ledger.pages.dev
 main-logn-trezrr.pages.dev
 mainnet-ethereum-blockchain.pages.dev
+makro-gift-card.co.za
 makro-tracking.com
 mall.200wallet.vip
 manage--kucoinn-logon.pages.dev
@@ -9565,7 +9557,6 @@ official-app-suites-trrezor.pages.dev
 official-app-trzor.pages.dev
 official-apps-trezor-suite.pages.dev
 official-apps-trezzor-suites.pages.dev
-official-blockchain-wallets.events-gift.com
 official-blockfii-en-us.pages.dev
 official-call-airfrance-now.pages.dev
 official-coinbase--en-ext.pages.dev
@@ -9866,7 +9857,6 @@ ourtime.variable-authh.workers.dev
 ourtime.zip-confirm.workers.dev
 out-access-cdxx-logins.pages.dev
 out-fi--block-access-en-logiin.pages.dev
-outdooutcome.com
 outlook-acct-bo.pages.dev
 outlook-officce.coml-support.workers.dev
 outlook.signin.localh.site
@@ -10058,7 +10048,6 @@ phonepe-reward.live
 piggy-bank-bqw.pages.dev
 pin-ledger-wallet.pages.dev
 piraeus-green-banking.ph
-plasticbells.com
 play-compte-refund.com.ph
 play.dewi11-viral.cc
 playstation-gift-card-for-roblox.pages.dev
@@ -11238,7 +11227,6 @@ sharepoint.sa-sharepoint.com
 sharepoint.sharepoint-e13.workers.dev
 sharepoint009183.sharepoint0o393283.workers.dev
 sharepointsupport.com
-sharethere.net
 shinhan-bank.pages.dev
 shipmenticloud.ph
 shop-ledger-hd-wallet.pages.dev
@@ -11333,7 +11321,6 @@ signinvodacomph.ph
 signup-metamsk-login.pages.dev
 simit-por-placa.online
 sin-login-telmex.com.mx
-sincereaccertain.com
 sing-coinbsae-secure.pages.dev
 site-metamsk-logon-in.pages.dev
 site-robinhod-support.pages.dev
@@ -11910,7 +11897,6 @@ subitoconfermas.eu.cc
 subitoverify.shop
 sucursaliphone.lat
 suess-coinbase-secure.pages.dev
-suggestutterly.com
 suiite-trezorr-secure.pages.dev
 suipport-metamask-login.pages.dev
 suit-trzor-online.pages.dev
@@ -14501,7 +14487,6 @@ wallet-uuphold-en.pages.dev
 wallet-x-ledgerliv.pages.dev
 wallet-x-ledgerlive.pages.dev
 wallet.btech-k8xw2r.xyz
-wallet.ooffice365.com
 walletconnect-dapps.pages.dev
 walletconnectdappsfix.pages.dev
 walletconnectrecovery-71g.pages.dev
@@ -14681,13 +14666,11 @@ web3-meta-mask-wallet-detector.pages.dev
 web3-wallet-crypto.com
 web3-wallet-exdous.pages.dev
 webapp-signin-caixa.com
-webdisk.official-blockchain-wallets.events-gift.com
 webmail-eastlink-ii.pages.dev
 webmail-login.unicredit-onlineplatform.com
 webmail.acesso-bancoctt-digital.billing-verification.click
 webmail.apple.com-support.update-account.ptveracruz.org
 webmail.fedex-delivery-tracking.aiianc.com
-webmail.official-blockchain-wallets.events-gift.com
 webmoney-online-credits.ru
 webpage-helps-live.pages.dev
 webpage-logn-trezrr.pages.dev
@@ -14798,7 +14781,6 @@ will-roblox-give-free-robux-on-your-birthday.pages.dev
 willhaben-at-id.cfd
 willhaben-at-post.info
 window--download-live-wallet.pages.dev
-wise-bank.xyz
 wise-support.online
 with--logn-terzor-io-eng.pages.dev
 with-logn-terzor-io-eng.pages.dev
@@ -14894,7 +14876,6 @@ www.magyar.posta.tracking-delivery.pinkstripes.org
 www.mastercard.ayabank.us
 www.metro-liquidators.metro-liquidators.site
 www.netflix.verification.ijwmpq1zbvdk.afriharvest.co.za
-www.official-blockchain-wallets.events-gift.com
 www.opensea.io.verification.comercialbuza.cl
 www.paypai-security.service-online-david.com
 www.paypal-confirm-your-account.trainkook.com

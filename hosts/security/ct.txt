@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 14,956 | Updated: 2026-10-19
+# Domains: 14,947 | Updated: 2026-10-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -692,6 +692,7 @@
 0.0.0.0 airbnb-businessinquiries-policy.org.ph
 0.0.0.0 airbnb-face-verification.codewithsachintha.com
 0.0.0.0 airbnb-login-signup-page.pages.dev
+0.0.0.0 airbnb-login5617.live
 0.0.0.0 airbnb-order.shop
 0.0.0.0 airbnb-verification-email.fanduelsportsnetworj.com
 0.0.0.0 airdrop-checker-walletconnect.pages.dev
@@ -1348,7 +1349,6 @@
 0.0.0.0 auths-uphold-logincom.pages.dev
 0.0.0.0 auths-uphold.pages.dev
 0.0.0.0 auto-login-ledgeer.pages.dev
-0.0.0.0 autodiscover.official-blockchain-wallets.events-gift.com
 0.0.0.0 autth-ledger-com.pages.dev
 0.0.0.0 autth-uphold-x-com.pages.dev
 0.0.0.0 auuth-lesdger-livve-access-us-en.pages.dev
@@ -1562,7 +1562,6 @@
 0.0.0.0 binance-fund-recovery.pages.dev
 0.0.0.0 binance-recovery.pages.dev
 0.0.0.0 binance-reward.shop
-0.0.0.0 binance-signin.com
 0.0.0.0 binance-the-world-s-most-trusted-cryptocurrency-exchange-t.pages.dev
 0.0.0.0 binance-us-verify.com
 0.0.0.0 binance-verify-us.com
@@ -2625,9 +2624,6 @@
 0.0.0.0 coupang-applesupport.ph
 0.0.0.0 cox-account-sign-in.pages.dev
 0.0.0.0 cpanel.fedex-delivery-tracking.aiianc.com
-0.0.0.0 cpanel.official-blockchain-wallets.events-gift.com
-0.0.0.0 cpcalendars.official-blockchain-wallets.events-gift.com
-0.0.0.0 cpcontacts.official-blockchain-wallets.events-gift.com
 0.0.0.0 cra-interac-claim.ph
 0.0.0.0 crd-metamsk-login.pages.dev
 0.0.0.0 cre-ate-robinhod-login.pages.dev
@@ -3746,6 +3742,7 @@
 0.0.0.0 facebookuserreward.pages.dev
 0.0.0.0 faceit-approve.pro
 0.0.0.0 faceit-verify-account.com
+0.0.0.0 faceit-verify.xyz
 0.0.0.0 faq---ledgerlive-en-auths.pages.dev
 0.0.0.0 faq--coinnbase-wallet-extension.pages.dev
 0.0.0.0 faq--trezor-login-en-us.pages.dev
@@ -7605,13 +7602,13 @@
 0.0.0.0 mail-mofept-gov-pk-verification2lerserverupdate84jhbhjgbhc.pages.dev
 0.0.0.0 mail.acesso-bancoctt-digital.billing-verification.click
 0.0.0.0 mail.fedex-delivery-tracking.aiianc.com
-0.0.0.0 mail.official-blockchain-wallets.events-gift.com
 0.0.0.0 mail.suivi-colis-colissimo.parfums33ml.online
 0.0.0.0 maile-sec-logn.piyiba5715.workers.dev
 0.0.0.0 maile-yah0-rrmpt.workers.dev
 0.0.0.0 main-live-wallet-ledger.pages.dev
 0.0.0.0 main-logn-trezrr.pages.dev
 0.0.0.0 mainnet-ethereum-blockchain.pages.dev
+0.0.0.0 makro-gift-card.co.za
 0.0.0.0 makro-tracking.com
 0.0.0.0 mall.200wallet.vip
 0.0.0.0 manage--kucoinn-logon.pages.dev
@@ -9558,7 +9555,6 @@
 0.0.0.0 official-app-trzor.pages.dev
 0.0.0.0 official-apps-trezor-suite.pages.dev
 0.0.0.0 official-apps-trezzor-suites.pages.dev
-0.0.0.0 official-blockchain-wallets.events-gift.com
 0.0.0.0 official-blockfii-en-us.pages.dev
 0.0.0.0 official-call-airfrance-now.pages.dev
 0.0.0.0 official-coinbase--en-ext.pages.dev
@@ -14489,7 +14485,6 @@
 0.0.0.0 wallet-x-ledgerliv.pages.dev
 0.0.0.0 wallet-x-ledgerlive.pages.dev
 0.0.0.0 wallet.btech-k8xw2r.xyz
-0.0.0.0 wallet.ooffice365.com
 0.0.0.0 walletconnect-dapps.pages.dev
 0.0.0.0 walletconnectdappsfix.pages.dev
 0.0.0.0 walletconnectrecovery-71g.pages.dev
@@ -14669,13 +14664,11 @@
 0.0.0.0 web3-wallet-crypto.com
 0.0.0.0 web3-wallet-exdous.pages.dev
 0.0.0.0 webapp-signin-caixa.com
-0.0.0.0 webdisk.official-blockchain-wallets.events-gift.com
 0.0.0.0 webmail-eastlink-ii.pages.dev
 0.0.0.0 webmail-login.unicredit-onlineplatform.com
 0.0.0.0 webmail.acesso-bancoctt-digital.billing-verification.click
 0.0.0.0 webmail.apple.com-support.update-account.ptveracruz.org
 0.0.0.0 webmail.fedex-delivery-tracking.aiianc.com
-0.0.0.0 webmail.official-blockchain-wallets.events-gift.com
 0.0.0.0 webmoney-online-credits.ru
 0.0.0.0 webpage-helps-live.pages.dev
 0.0.0.0 webpage-logn-trezrr.pages.dev
@@ -14786,7 +14779,6 @@
 0.0.0.0 willhaben-at-id.cfd
 0.0.0.0 willhaben-at-post.info
 0.0.0.0 window--download-live-wallet.pages.dev
-0.0.0.0 wise-bank.xyz
 0.0.0.0 wise-support.online
 0.0.0.0 with--logn-terzor-io-eng.pages.dev
 0.0.0.0 with-logn-terzor-io-eng.pages.dev
@@ -14882,7 +14874,6 @@
 0.0.0.0 www.mastercard.ayabank.us
 0.0.0.0 www.metro-liquidators.metro-liquidators.site
 0.0.0.0 www.netflix.verification.ijwmpq1zbvdk.afriharvest.co.za
-0.0.0.0 www.official-blockchain-wallets.events-gift.com
 0.0.0.0 www.opensea.io.verification.comercialbuza.cl
 0.0.0.0 www.paypai-security.service-online-david.com
 0.0.0.0 www.paypal-confirm-your-account.trainkook.com
