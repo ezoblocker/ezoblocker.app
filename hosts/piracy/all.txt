@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,129 | Updated: 2026-10-20
+# Domains: 1,151 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -53,6 +53,7 @@
 0.0.0.0 animefire.apkcafe.pt
 0.0.0.0 animeflv.ar
 0.0.0.0 animeflv.ba
+0.0.0.0 animeflv.buzz
 0.0.0.0 animeflv.chatovod.com
 0.0.0.0 animeflv.my
 0.0.0.0 animeflv.one
@@ -147,6 +148,7 @@
 0.0.0.0 cinecalidad-abf9.pages.dev
 0.0.0.0 cinecalidad-b3nk.pages.dev
 0.0.0.0 cinecalidad-cojv.pages.dev
+0.0.0.0 cinecalidad-cz96.pages.dev
 0.0.0.0 cinecalidad-es26.pages.dev
 0.0.0.0 cinecalidad-iyz0.pages.dev
 0.0.0.0 cinecalidad-mf0t.pages.dev
@@ -176,6 +178,7 @@
 0.0.0.0 cuevana-3.surf
 0.0.0.0 cuevana-5q6y.pages.dev
 0.0.0.0 cuevana-7ap5.pages.dev
+0.0.0.0 cuevana-com.pages.dev
 0.0.0.0 cuevana-e0a9.pages.dev
 0.0.0.0 cuevana-gx65.pages.dev
 0.0.0.0 cuevana-juh5.pages.dev
@@ -206,6 +209,7 @@
 0.0.0.0 cuevana3-idyx.pages.dev
 0.0.0.0 cuevana3-ioqy.pages.dev
 0.0.0.0 cuevana3-jezu.pages.dev
+0.0.0.0 cuevana3-jxd.pages.dev
 0.0.0.0 cuevana3-k1lh.pages.dev
 0.0.0.0 cuevana3-k6m3.pages.dev
 0.0.0.0 cuevana3-mfwc.pages.dev
@@ -213,16 +217,20 @@
 0.0.0.0 cuevana3-n8su.pages.dev
 0.0.0.0 cuevana3-og4j.pages.dev
 0.0.0.0 cuevana3-ovas.pages.dev
+0.0.0.0 cuevana3-p7r.pages.dev
 0.0.0.0 cuevana3-resq.pages.dev
 0.0.0.0 cuevana3-rg8.pages.dev
+0.0.0.0 cuevana3-rixh.pages.dev
 0.0.0.0 cuevana3-rnsa.pages.dev
 0.0.0.0 cuevana3-s2o.pages.dev
 0.0.0.0 cuevana3-s8z2.pages.dev
 0.0.0.0 cuevana3-t9qx.pages.dev
 0.0.0.0 cuevana3-uugr.pages.dev
+0.0.0.0 cuevana3-vb80.pages.dev
 0.0.0.0 cuevana3-vy3.pages.dev
 0.0.0.0 cuevana3-w3si.pages.dev
 0.0.0.0 cuevana3-yeaf.pages.dev
+0.0.0.0 cuevana3-yin.pages.dev
 0.0.0.0 cuevana3-yscy.pages.dev
 0.0.0.0 cuevana3-ziow.pages.dev
 0.0.0.0 cuevana3-zqrb.pages.dev
@@ -320,6 +328,7 @@
 0.0.0.0 fishing.adcomm.kr
 0.0.0.0 flixfoxmovie.org
 0.0.0.0 flixmovie.online
+0.0.0.0 flixmovie.xyz
 0.0.0.0 fmovies-free.to
 0.0.0.0 fmovies.supplies
 0.0.0.0 fmovies11.com
@@ -363,6 +372,7 @@
 0.0.0.0 futbolenvivocolombia.com
 0.0.0.0 futbolete.com
 0.0.0.0 futbolgratis.com.mx
+0.0.0.0 futbollibre.com.mx
 0.0.0.0 futbollibre.kim
 0.0.0.0 futbollibreenvivo.net
 0.0.0.0 futbollibrefullhd.org
@@ -533,6 +543,7 @@
 0.0.0.0 kissanime-offcial.cyou
 0.0.0.0 kissanime.com.cv
 0.0.0.0 kissanime.quest
+0.0.0.0 kissanimes.cv
 0.0.0.0 kissanimetv.lol
 0.0.0.0 kisscartoon.biz
 0.0.0.0 kmanga.kodansha.com
@@ -548,6 +559,7 @@
 0.0.0.0 koora4uyt.blogspot.com
 0.0.0.0 kooraforus.blogspot.com
 0.0.0.0 kooralive-koora.live
+0.0.0.0 kooralive.one
 0.0.0.0 kooralivematch.club
 0.0.0.0 koorashootnews.com
 0.0.0.0 kooratop.live
@@ -559,6 +571,7 @@
 0.0.0.0 koraonline.quest
 0.0.0.0 korefilmizle.vip
 0.0.0.0 kuttymovies.ai.in
+0.0.0.0 kuttymovies.com
 0.0.0.0 kuttymovies.im
 0.0.0.0 kuttymovies.vip
 0.0.0.0 kuttymovies.win
@@ -609,6 +622,7 @@
 0.0.0.0 m.goalddlive.com
 0.0.0.0 m.kino-sokol.pl
 0.0.0.0 magistvfutbol.com
+0.0.0.0 magistvgratis.com
 0.0.0.0 mangadex.dev
 0.0.0.0 mangadex.live
 0.0.0.0 mangadex.net
@@ -670,6 +684,7 @@
 0.0.0.0 muayded789.com
 0.0.0.0 multicanaisbr.com
 0.0.0.0 multicanaishdtv.com.br
+0.0.0.0 multicanaisprime.com.br
 0.0.0.0 mycima-official.bitbucket.io
 0.0.0.0 mycima.watch
 0.0.0.0 myflixer--v2.pages.dev
@@ -751,6 +766,7 @@
 0.0.0.0 pelispedia-c9cr.pages.dev
 0.0.0.0 pelispedia-hu2x.pages.dev
 0.0.0.0 pelispedia-la5b.pages.dev
+0.0.0.0 pelispedia.hair
 0.0.0.0 pelispedia.homes
 0.0.0.0 pelispedia.mov
 0.0.0.0 pelisplus.garden
@@ -811,12 +827,14 @@
 0.0.0.0 premierleague.com
 0.0.0.0 primewire-offcial.cyou
 0.0.0.0 primewire.gy
+0.0.0.0 primewire.space
 0.0.0.0 primewires.org
 0.0.0.0 produtor.adagri.ce.gov.br
 0.0.0.0 proiptvcanada.ca
 0.0.0.0 projectfreetv-official.lol
 0.0.0.0 projectfreetvm.lol
 0.0.0.0 pusatfilm.id
+0.0.0.0 putlocker-8pu4.pages.dev
 0.0.0.0 putlocker-du55.pages.dev
 0.0.0.0 putlocker-jmrb.pages.dev
 0.0.0.0 putlocker-k0u0.pages.dev
@@ -841,6 +859,7 @@
 0.0.0.0 repelis24.shop
 0.0.0.0 repelis24.watch
 0.0.0.0 repelisplus.fit
+0.0.0.0 repelisplus.forum
 0.0.0.0 repelisplus.lat
 0.0.0.0 repelisplus.pics
 0.0.0.0 repelisplus24.cam
@@ -850,6 +869,7 @@
 0.0.0.0 rojadirecta.cash
 0.0.0.0 rojadirecta.cloud
 0.0.0.0 rojadirecta.com.co
+0.0.0.0 rojadirecta.si
 0.0.0.0 rojadirectaes.cloud
 0.0.0.0 rojadirectafullhd.net
 0.0.0.0 rojadirectafulltv.org
@@ -898,6 +918,7 @@
 0.0.0.0 socolive58.cc
 0.0.0.0 socolive74.tv
 0.0.0.0 socolive75.tv
+0.0.0.0 socolive82.ac
 0.0.0.0 socolivef.cc
 0.0.0.0 socolivefb.com
 0.0.0.0 socoliveh.ac
@@ -1005,6 +1026,7 @@
 0.0.0.0 trdiziizle.tv
 0.0.0.0 tributario.piracicaba.sp.gov.br
 0.0.0.0 tructiep90phuttv.club
+0.0.0.0 tructiepbongda47.com
 0.0.0.0 ttbd-socolive.pro
 0.0.0.0 tugaiptv.com
 0.0.0.0 tugaiptvbest.net

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,129 | Updated: 2026-10-20
+# Domains: 1,151 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -53,6 +53,7 @@ anime4you.01.ma
 animefire.apkcafe.pt
 animeflv.ar
 animeflv.ba
+animeflv.buzz
 animeflv.chatovod.com
 animeflv.my
 animeflv.one
@@ -147,6 +148,7 @@ cinecalidad-9eyp.pages.dev
 cinecalidad-abf9.pages.dev
 cinecalidad-b3nk.pages.dev
 cinecalidad-cojv.pages.dev
+cinecalidad-cz96.pages.dev
 cinecalidad-es26.pages.dev
 cinecalidad-iyz0.pages.dev
 cinecalidad-mf0t.pages.dev
@@ -176,6 +178,7 @@ cuevana-2y9h.pages.dev
 cuevana-3.surf
 cuevana-5q6y.pages.dev
 cuevana-7ap5.pages.dev
+cuevana-com.pages.dev
 cuevana-e0a9.pages.dev
 cuevana-gx65.pages.dev
 cuevana-juh5.pages.dev
@@ -206,6 +209,7 @@ cuevana3-i8my.pages.dev
 cuevana3-idyx.pages.dev
 cuevana3-ioqy.pages.dev
 cuevana3-jezu.pages.dev
+cuevana3-jxd.pages.dev
 cuevana3-k1lh.pages.dev
 cuevana3-k6m3.pages.dev
 cuevana3-mfwc.pages.dev
@@ -213,16 +217,20 @@ cuevana3-mlrt.pages.dev
 cuevana3-n8su.pages.dev
 cuevana3-og4j.pages.dev
 cuevana3-ovas.pages.dev
+cuevana3-p7r.pages.dev
 cuevana3-resq.pages.dev
 cuevana3-rg8.pages.dev
+cuevana3-rixh.pages.dev
 cuevana3-rnsa.pages.dev
 cuevana3-s2o.pages.dev
 cuevana3-s8z2.pages.dev
 cuevana3-t9qx.pages.dev
 cuevana3-uugr.pages.dev
+cuevana3-vb80.pages.dev
 cuevana3-vy3.pages.dev
 cuevana3-w3si.pages.dev
 cuevana3-yeaf.pages.dev
+cuevana3-yin.pages.dev
 cuevana3-yscy.pages.dev
 cuevana3-ziow.pages.dev
 cuevana3-zqrb.pages.dev
@@ -320,6 +328,7 @@ firstrowsports.be
 fishing.adcomm.kr
 flixfoxmovie.org
 flixmovie.online
+flixmovie.xyz
 fmovies-free.to
 fmovies.supplies
 fmovies11.com
@@ -363,6 +372,7 @@ futbolenvivo.co
 futbolenvivocolombia.com
 futbolete.com
 futbolgratis.com.mx
+futbollibre.com.mx
 futbollibre.kim
 futbollibreenvivo.net
 futbollibrefullhd.org
@@ -533,6 +543,7 @@ kinozal.me
 kissanime-offcial.cyou
 kissanime.com.cv
 kissanime.quest
+kissanimes.cv
 kissanimetv.lol
 kisscartoon.biz
 kmanga.kodansha.com
@@ -548,6 +559,7 @@ koora4u.club
 koora4uyt.blogspot.com
 kooraforus.blogspot.com
 kooralive-koora.live
+kooralive.one
 kooralivematch.club
 koorashootnews.com
 kooratop.live
@@ -559,6 +571,7 @@ koraonline.club
 koraonline.quest
 korefilmizle.vip
 kuttymovies.ai.in
+kuttymovies.com
 kuttymovies.im
 kuttymovies.vip
 kuttymovies.win
@@ -609,6 +622,7 @@ m.acestream.net
 m.goalddlive.com
 m.kino-sokol.pl
 magistvfutbol.com
+magistvgratis.com
 mangadex.dev
 mangadex.live
 mangadex.net
@@ -670,6 +684,7 @@ mp3indirdur.pro
 muayded789.com
 multicanaisbr.com
 multicanaishdtv.com.br
+multicanaisprime.com.br
 mycima-official.bitbucket.io
 mycima.watch
 myflixer--v2.pages.dev
@@ -751,6 +766,7 @@ pelispedia-7fkx.pages.dev
 pelispedia-c9cr.pages.dev
 pelispedia-hu2x.pages.dev
 pelispedia-la5b.pages.dev
+pelispedia.hair
 pelispedia.homes
 pelispedia.mov
 pelisplus.garden
@@ -811,12 +827,14 @@ poseidonhd2.co
 premierleague.com
 primewire-offcial.cyou
 primewire.gy
+primewire.space
 primewires.org
 produtor.adagri.ce.gov.br
 proiptvcanada.ca
 projectfreetv-official.lol
 projectfreetvm.lol
 pusatfilm.id
+putlocker-8pu4.pages.dev
 putlocker-du55.pages.dev
 putlocker-jmrb.pages.dev
 putlocker-k0u0.pages.dev
@@ -841,6 +859,7 @@ repelis24.nz
 repelis24.shop
 repelis24.watch
 repelisplus.fit
+repelisplus.forum
 repelisplus.lat
 repelisplus.pics
 repelisplus24.cam
@@ -850,6 +869,7 @@ rojadirect.best
 rojadirecta.cash
 rojadirecta.cloud
 rojadirecta.com.co
+rojadirecta.si
 rojadirectaes.cloud
 rojadirectafullhd.net
 rojadirectafulltv.org
@@ -898,6 +918,7 @@ socolive57.ac
 socolive58.cc
 socolive74.tv
 socolive75.tv
+socolive82.ac
 socolivef.cc
 socolivefb.com
 socoliveh.ac
@@ -1005,6 +1026,7 @@ tour.gra.uk.com
 trdiziizle.tv
 tributario.piracicaba.sp.gov.br
 tructiep90phuttv.club
+tructiepbongda47.com
 ttbd-socolive.pro
 tugaiptv.com
 tugaiptvbest.net

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 666 | Updated: 2026-10-20
+# Domains: 668 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -197,6 +197,7 @@ gateway.tracklabs.com.br
 gator.uba.ap-southeast-1.volces.com
 gcdsdk.af-sdk.net
 getclicky.com
+gnetworks.xyz
 goatcounter.com
 gtm.quarx.uk
 hb-fwfou.donlgx.net
@@ -379,6 +380,7 @@ smartproxy.dataunlocker.com
 snap.licdn.com
 soureicdn.com
 sp-trk.com
+sst.ibos.agency
 sstsimprosys.com
 st-tammany-health-domain.oursprivacy.com
 staex.aida.de

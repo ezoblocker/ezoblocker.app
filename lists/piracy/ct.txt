@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, ct
-# Domains: 285 | Updated: 2026-10-20
+# Domains: 307 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,6 +12,7 @@
 *.1tamilblasters.my
 *.1tamilmv.mba
 *.abonnement-iptvsmarterspro.app
+*.animeflv.buzz
 *.animeloads.cyou
 *.arabseed.ltd
 *.besteiptvabonnement.com
@@ -25,6 +26,7 @@
 *.cinecalidad-abf9.pages.dev
 *.cinecalidad-b3nk.pages.dev
 *.cinecalidad-cojv.pages.dev
+*.cinecalidad-cz96.pages.dev
 *.cinecalidad-es26.pages.dev
 *.cinecalidad-iyz0.pages.dev
 *.cinecalidad-mf0t.pages.dev
@@ -39,6 +41,7 @@
 *.cuevana-3.surf
 *.cuevana-5q6y.pages.dev
 *.cuevana-7ap5.pages.dev
+*.cuevana-com.pages.dev
 *.cuevana-e0a9.pages.dev
 *.cuevana-gx65.pages.dev
 *.cuevana-juh5.pages.dev
@@ -69,6 +72,7 @@
 *.cuevana3-idyx.pages.dev
 *.cuevana3-ioqy.pages.dev
 *.cuevana3-jezu.pages.dev
+*.cuevana3-jxd.pages.dev
 *.cuevana3-k1lh.pages.dev
 *.cuevana3-k6m3.pages.dev
 *.cuevana3-mfwc.pages.dev
@@ -76,16 +80,20 @@
 *.cuevana3-n8su.pages.dev
 *.cuevana3-og4j.pages.dev
 *.cuevana3-ovas.pages.dev
+*.cuevana3-p7r.pages.dev
 *.cuevana3-resq.pages.dev
 *.cuevana3-rg8.pages.dev
+*.cuevana3-rixh.pages.dev
 *.cuevana3-rnsa.pages.dev
 *.cuevana3-s2o.pages.dev
 *.cuevana3-s8z2.pages.dev
 *.cuevana3-t9qx.pages.dev
 *.cuevana3-uugr.pages.dev
+*.cuevana3-vb80.pages.dev
 *.cuevana3-vy3.pages.dev
 *.cuevana3-w3si.pages.dev
 *.cuevana3-yeaf.pages.dev
+*.cuevana3-yin.pages.dev
 *.cuevana3-yscy.pages.dev
 *.cuevana3-ziow.pages.dev
 *.cuevana3-zqrb.pages.dev
@@ -102,6 +110,7 @@
 *.filmoflix.xyz
 *.flixfoxmovie.org
 *.flixmovie.online
+*.flixmovie.xyz
 *.fmovies-free.to
 *.fmovies.supplies
 *.fmovies11.com
@@ -111,6 +120,7 @@
 *.freemoviestreams5.pages.dev
 *.futbolenvivo.co
 *.futbolgratis.com.mx
+*.futbollibre.com.mx
 *.futbollibrehd-tv.com
 *.futbollibretv.ink
 *.futbollibretv.to
@@ -135,15 +145,19 @@
 *.jkanimes-lat.pages.dev
 *.kickass-anime.com
 *.kinokiste-38t3.pages.dev
+*.kissanimes.cv
 *.kisscartoon.biz
+*.kooralive.one
 *.koraonline.club
 *.kuttymovies.ai.in
+*.kuttymovies.com
 *.livekora360.com
 *.lk21.sa.com
 *.lordfilm-top-kino.top
 *.lordfilmstv.click
 *.lordfilmstv.one
 *.magistvfutbol.com
+*.magistvgratis.com
 *.mangaraw.top
 *.motchill.com.de
 *.motchillia.uk
@@ -157,6 +171,7 @@
 *.movierulzhub.com
 *.movies2watch.icu
 *.movieshd-v3.pages.dev
+*.multicanaisprime.com.br
 *.myflixer--v2.pages.dev
 *.myflixer.news
 *.myflixerto.org
@@ -196,6 +211,7 @@
 *.pelispedia-c9cr.pages.dev
 *.pelispedia-hu2x.pages.dev
 *.pelispedia-la5b.pages.dev
+*.pelispedia.hair
 *.pelispedia.homes
 *.pepelisplus-3za4.pages.dev
 *.pepelisplus-g7hj.pages.dev
@@ -208,12 +224,16 @@
 *.phimvietsub.club
 *.pirataria.digital
 *.pirlotvenvivo.click
+*.primewire.space
+*.putlocker-8pu4.pages.dev
 *.putlocker-du55.pages.dev
 *.putlocker-jmrb.pages.dev
 *.putlocker-k0u0.pages.dev
 *.putlocker-lxyy.pages.dev
 *.real-couchtuner.com
 *.repelis24-sd4e.pages.dev
+*.repelisplus.forum
+*.rojadirecta.si
 *.serialeon.live
 *.series-subthai.xyz
 *.smartiptvabo.com
@@ -224,6 +244,7 @@
 *.socolive18.com
 *.socolive57.ac
 *.socolive58.cc
+*.socolive82.ac
 *.socolivefb.com
 *.socoliveh.ac
 *.socolivejj.io
@@ -247,6 +268,7 @@
 *.thoiivietsub.pages.dev
 *.torrentleech.pages.dev
 *.totalsportek-cyou.pages.dev
+*.tructiepbongda47.com
 *.v2-sportsurge.life
 *.vercuevana.uk
 *.verdeportesenvivo.com
