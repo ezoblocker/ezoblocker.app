@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 362,422 | Updated: 2026-10-20
+# Domains: 362,396 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -15932,7 +15932,6 @@
 0.0.0.0 8livecasinobet.com
 0.0.0.0 8llcasino.com.br
 0.0.0.0 8mbets-bd1.com
-0.0.0.0 8mbets-jit.com
 0.0.0.0 8mbets.bid
 0.0.0.0 8mbets.biz
 0.0.0.0 8mbets.im
@@ -36621,7 +36620,6 @@
 0.0.0.0 beef-casino-uk.com
 0.0.0.0 beef-casino-white2.top
 0.0.0.0 beef-casino.app
-0.0.0.0 beef-casino.bond
 0.0.0.0 beef-casino.casino
 0.0.0.0 beef-casino.ltd
 0.0.0.0 beef-casino.net.lv
@@ -45546,7 +45544,6 @@
 0.0.0.0 betnroll-casino.cfd
 0.0.0.0 betnroll-casino.com
 0.0.0.0 betnroll-casino.net
-0.0.0.0 betnroll-casino.website
 0.0.0.0 betnrollcasino.com
 0.0.0.0 betnrollcasino.net
 0.0.0.0 betnuvo-casino.co.uk
@@ -45567,7 +45564,6 @@
 0.0.0.0 betoffice.forum
 0.0.0.0 betoffice.fr
 0.0.0.0 betoffice.im
-0.0.0.0 betoffice.info
 0.0.0.0 betoffice.mobi
 0.0.0.0 betoffice.onl
 0.0.0.0 betoffice.plus
@@ -64750,7 +64746,6 @@
 0.0.0.0 cascadescasinonorthbay.com
 0.0.0.0 cascadescasinoonline.com
 0.0.0.0 cascading-reels-slots-uae.com
-0.0.0.0 cascaispokerclub.com
 0.0.0.0 cascinasegrino.it
 0.0.0.0 casdepcasino.co.nz
 0.0.0.0 casdepcasino.de
@@ -72651,7 +72646,6 @@
 0.0.0.0 casino-non-aams-noncasinoaams-it.pages.dev
 0.0.0.0 casino-non-aams-online.it
 0.0.0.0 casino-non-aams-paypal-it.pages.dev
-0.0.0.0 casino-non-aams-paypal.it
 0.0.0.0 casino-non-aams-paysafecard.it
 0.0.0.0 casino-non-aams-prelievo-immediato-it.pages.dev
 0.0.0.0 casino-non-aams-prelievo-immediato.it
@@ -73418,7 +73412,6 @@
 0.0.0.0 casino-payments-apac.pages.dev
 0.0.0.0 casino-paypal.at
 0.0.0.0 casino-paypal.com
-0.0.0.0 casino-paypal.fr
 0.0.0.0 casino-paysafe.com
 0.0.0.0 casino-paysafe.de
 0.0.0.0 casino-paysafecard-online.org
@@ -78026,7 +78019,6 @@
 0.0.0.0 casino888-jit.net
 0.0.0.0 casino888-portugal.top
 0.0.0.0 casino888-pt.top
-0.0.0.0 casino888-win.com
 0.0.0.0 casino888.best
 0.0.0.0 casino888.biz
 0.0.0.0 casino888.blog
@@ -81253,7 +81245,6 @@
 0.0.0.0 casinocashed-net.pages.dev
 0.0.0.0 casinocashed-online.com
 0.0.0.0 casinocashed.at
-0.0.0.0 casinocashed.ca
 0.0.0.0 casinocashed.de
 0.0.0.0 casinocashedch.com
 0.0.0.0 casinocashedonline.com
@@ -98355,7 +98346,6 @@
 0.0.0.0 casinoslot-giris.com
 0.0.0.0 casinoslot-monster-co-uk-245.pages.dev
 0.0.0.0 casinoslot-monster.co.uk
-0.0.0.0 casinoslot-play.com
 0.0.0.0 casinoslot.best
 0.0.0.0 casinoslot.ca
 0.0.0.0 casinoslot.casino
@@ -108764,7 +108754,6 @@
 0.0.0.0 champion-casino-cz.eu.com
 0.0.0.0 champion-casino-ftp.top
 0.0.0.0 champion-casino-igs.top
-0.0.0.0 champion-casino-pza.buzz
 0.0.0.0 champion-casino-rus.casino
 0.0.0.0 champion-casino-spp.top
 0.0.0.0 champion-casino-tlj.top
@@ -110964,7 +110953,6 @@
 0.0.0.0 cleobetra-play.com
 0.0.0.0 cleobetra-pt.com
 0.0.0.0 cleobetra-rs-50093.pages.dev
-0.0.0.0 cleobetra-slots.com
 0.0.0.0 cleobetra-spielen.com
 0.0.0.0 cleobetra-spielen.de
 0.0.0.0 cleobetra-vip-au-com.pages.dev
@@ -121077,7 +121065,6 @@
 0.0.0.0 demoslotresmi.online
 0.0.0.0 demoslotrupiah-top.pages.dev
 0.0.0.0 demoslotrupiah.jp.net
-0.0.0.0 demoslots-jit.com
 0.0.0.0 demoslots.best
 0.0.0.0 demoslots.co.za
 0.0.0.0 demoslots.com
@@ -139582,13 +139569,10 @@
 0.0.0.0 freeslotgames.io
 0.0.0.0 freeslotgames.live
 0.0.0.0 freeslotgames.uk
-0.0.0.0 freeslots-app.com
 0.0.0.0 freeslots-blog.net
 0.0.0.0 freeslots-hall.com
-0.0.0.0 freeslots-khelo.com
 0.0.0.0 freeslots-machines.com
 0.0.0.0 freeslots-online.com
-0.0.0.0 freeslots-vip.com
 0.0.0.0 freeslots.at
 0.0.0.0 freeslots.biz
 0.0.0.0 freeslots.com.ua
@@ -182420,7 +182404,6 @@
 0.0.0.0 kometa-casino-dg2.ru
 0.0.0.0 kometa-casino-he2.ru
 0.0.0.0 kometa-casino-hl8.ru
-0.0.0.0 kometa-casino-jaq.buzz
 0.0.0.0 kometa-casino-kmt1.online
 0.0.0.0 kometa-casino-ld3.ru
 0.0.0.0 kometa-casino-mirror.ru
@@ -190633,7 +190616,6 @@
 0.0.0.0 lionbetcasinoportugal.com
 0.0.0.0 lionbonuses.com
 0.0.0.0 lionbonuses.it
-0.0.0.0 lioncasino.best
 0.0.0.0 lioncasino.biz
 0.0.0.0 lioncasino.co.nz
 0.0.0.0 lioncasino.com.es
@@ -197330,7 +197312,6 @@
 0.0.0.0 luckyslots-us-org-3212.pages.dev
 0.0.0.0 luckyslots-us.org
 0.0.0.0 luckyslots.com.br
-0.0.0.0 luckyslots.cv
 0.0.0.0 luckyslots.im
 0.0.0.0 luckyslots.plus
 0.0.0.0 luckyslots.pro
@@ -244178,7 +244159,6 @@
 0.0.0.0 pavilion88casino.co.uk
 0.0.0.0 pawai77-slotsapphire.pages.dev
 0.0.0.0 pawangslotgacor.com
-0.0.0.0 pawbetscasino.com
 0.0.0.0 pawnbet-casino.ca
 0.0.0.0 pawnbetcasino.com.pl
 0.0.0.0 pawnbetcasino.gr
@@ -244401,8 +244381,6 @@
 0.0.0.0 payoutsonlinecasino.com
 0.0.0.0 payoutz-casino.com
 0.0.0.0 payoutzcasino-se.com
-0.0.0.0 paypal-casino-cz.cz
-0.0.0.0 paypal-casino-liste.de
 0.0.0.0 paypal-casino-poland.pl
 0.0.0.0 paypal-casino-uden-rofus.com
 0.0.0.0 paypal-casino-utan-svensk-licens.com
@@ -244417,7 +244395,6 @@
 0.0.0.0 paypalcasino.co.nz
 0.0.0.0 paypalcasino.fi
 0.0.0.0 paypalcasino.gr
-0.0.0.0 paypalcasino.io
 0.0.0.0 paypalcasino.org
 0.0.0.0 paypalcasinoalternativen.com.de
 0.0.0.0 paypalcasinobonuses.co.uk
@@ -256474,7 +256451,6 @@
 0.0.0.0 pokerace99-regised31.pages.dev
 0.0.0.0 pokerace99-vip.pages.dev
 0.0.0.0 pokerace99.app
-0.0.0.0 pokerace99.best
 0.0.0.0 pokerace99.bet
 0.0.0.0 pokerace99.io
 0.0.0.0 pokerace99.pages.dev
@@ -326612,6 +326588,7 @@
 0.0.0.0 tumbetcasino.de
 0.0.0.0 tumbetgirisadresimiz.com
 0.0.0.0 tumbetresmicc.com
+0.0.0.0 tumbets2033.cam
 0.0.0.0 tumblecasino.com
 0.0.0.0 tumcashbahissiteleri1.com
 0.0.0.0 tumcasino.com
@@ -331816,7 +331793,6 @@
 0.0.0.0 vavada-casino-90ls.buzz
 0.0.0.0 vavada-casino-90ru.buzz
 0.0.0.0 vavada-casino-9cho.buzz
-0.0.0.0 vavada-casino-ahk.buzz
 0.0.0.0 vavada-casino-bonus.org
 0.0.0.0 vavada-casino-ca.com
 0.0.0.0 vavada-casino-com-pl.pages.dev
@@ -346876,7 +346852,6 @@
 0.0.0.0 whp057.ru
 0.0.0.0 whtotosite.pages.dev
 0.0.0.0 why-casino-win.top
-0.0.0.0 why-casino.cfd
 0.0.0.0 why-casino.city
 0.0.0.0 why-casino.co
 0.0.0.0 why-casino.top
@@ -355191,7 +355166,6 @@
 0.0.0.0 wolf-winner-casino-1-ink-9669d091.pages.dev
 0.0.0.0 wolf-winner-casino-ink-4d601611.pages.dev
 0.0.0.0 wolf-winner-casino-official-au-com.pages.dev
-0.0.0.0 wolf-winner-casino.app
 0.0.0.0 wolf-winner-casino.bet
 0.0.0.0 wolf-winner-casino.com
 0.0.0.0 wolf-winner-casino.ink
