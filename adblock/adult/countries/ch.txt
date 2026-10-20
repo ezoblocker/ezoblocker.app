@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Switzerland (ch)
-! Domains: 40 | Updated: 2026-10-20
+! Domains: 41 | Updated: 2026-10-20
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/ch.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -34,6 +34,7 @@
 ||porno-movies.ch^
 ||prelovedcharlies.com^
 |prinz-eisenherz.buchkatalog.de^
+|pub1ssfun.planventabar.blog^
 ||redvelvet.ch^
 ||s-world.at^
 |schweiz.inserate.gratis^

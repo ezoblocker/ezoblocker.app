@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,115 | Updated: 2026-10-20
+# Domains: 1,126 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -46,6 +46,7 @@
 0.0.0.0 adultworld.co.za
 0.0.0.0 adultworld.com.au
 0.0.0.0 adultworldx.com
+0.0.0.0 adultzoneca.com
 0.0.0.0 ae.gulf-5hop.com
 0.0.0.0 afroditebutiken.se
 0.0.0.0 agorshop.com
@@ -189,6 +190,7 @@
 0.0.0.0 danichou.de
 0.0.0.0 danishblue.com.au
 0.0.0.0 daraztoy.com.pk
+0.0.0.0 darquepath.com.au
 0.0.0.0 ddurazno.com
 0.0.0.0 deardesire.co.za
 0.0.0.0 deboutonnees.com
@@ -304,6 +306,7 @@
 0.0.0.0 farmamia.net
 0.0.0.0 farmamix.com.ar
 0.0.0.0 fashionboutix.ch
+0.0.0.0 fashionloversboutique.com
 0.0.0.0 fashionwalker.com
 0.0.0.0 femorasexshop.com
 0.0.0.0 ferramentas.pt
@@ -353,6 +356,7 @@
 0.0.0.0 hotpowers.jp
 0.0.0.0 hotsexshop.com.br
 0.0.0.0 houseerotic.com
+0.0.0.0 houseofcandy.in
 0.0.0.0 hulyahalat.com
 0.0.0.0 hushcanada.com
 0.0.0.0 hustlerhollywood.com
@@ -594,6 +598,7 @@
 0.0.0.0 morethanlove.se
 0.0.0.0 mrlove.ch
 0.0.0.0 mrtoy.com
+0.0.0.0 ms-online.co.jp
 0.0.0.0 mshop.se
 0.0.0.0 msk.ros-spravka.ru
 0.0.0.0 mundoerotico.es
@@ -630,6 +635,7 @@
 0.0.0.0 noroz.pk
 0.0.0.0 notino.be
 0.0.0.0 novum-erotik.de
+0.0.0.0 ntlingerie.com
 0.0.0.0 nuhoangkhoaicam.vn
 0.0.0.0 o-diaries.com
 0.0.0.0 obchodumotyla.cz
@@ -651,6 +657,7 @@
 0.0.0.0 ophelialingerie.ie
 0.0.0.0 oppsystore.com
 0.0.0.0 orchidtoys.com
+0.0.0.0 orderonline.rouses.com
 0.0.0.0 orion-store.de
 0.0.0.0 orionsexshop.com.co
 0.0.0.0 orionversand.ch
@@ -663,8 +670,10 @@
 0.0.0.0 pabo.nl
 0.0.0.0 pantynova.com
 0.0.0.0 papyonshop.com
+0.0.0.0 parisloversboutique.com
 0.0.0.0 parlamourshop.com
 0.0.0.0 pasensaciones.com
+0.0.0.0 pasiune.ro
 0.0.0.0 passagedudesir.com
 0.0.0.0 passionerad.se
 0.0.0.0 passionerat.se
@@ -738,6 +747,7 @@
 0.0.0.0 regalatelo.cl
 0.0.0.0 regulation.co.uk
 0.0.0.0 resolver.co.uk
+0.0.0.0 ripcurl.com
 0.0.0.0 rocks-off.com
 0.0.0.0 rojocherry.com
 0.0.0.0 romanticdepot.com
@@ -982,6 +992,7 @@
 0.0.0.0 styleplanet.com
 0.0.0.0 superlove.ro
 0.0.0.0 susurrosintimos.es
+0.0.0.0 svakom.com
 0.0.0.0 sweetiesexshop.com.ua
 0.0.0.0 sweetmysterysexshop.com.br
 0.0.0.0 taboo.se
@@ -1013,6 +1024,7 @@
 0.0.0.0 thenairastore.com
 0.0.0.0 thepleasurechest.com
 0.0.0.0 thevibeadultshop.com.au
+0.0.0.0 thistleandspire.com
 0.0.0.0 thornandfeather.ca
 0.0.0.0 tiendacereza.com
 0.0.0.0 tiendaerotica.cl
@@ -1085,7 +1097,6 @@
 0.0.0.0 webac-vibro.com
 0.0.0.0 welcomelover.com
 0.0.0.0 wellnessae.com
-0.0.0.0 wetforher.com
 0.0.0.0 wham.mx
 0.0.0.0 whitesmoke.gr
 0.0.0.0 whittard.com

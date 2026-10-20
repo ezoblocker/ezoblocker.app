@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 305 | Updated: 2026-10-20
+# Domains: 308 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,6 +17,7 @@ agespisa.sead.pi.gov.br
 *.alkkoora.live
 api.sap.ce.gov.br
 *.ballzaa.com
+*.bestfreestreaming.org
 *.bola365.today
 browse.tonton.com.my
 *.buffstreams.ch
@@ -222,6 +223,7 @@ sport.sky.ch
 *.sportonline.cz
 sportsclub.sports.or.kr
 *.sportshub.com
+*.sportsstream.us
 *.sportstream-365.com
 *.sportstream.hu
 *.sportstream.se
@@ -253,6 +255,7 @@ t.matec.kr
 *.taraftarium24-zeustv95.live
 *.taraftarium24.sx
 *.taraftarium24bjk20.com
+*.taraftarium24bjk23.com
 *.taraftarium24soturkiye.org
 *.taraftarium24turkiyetv.net
 *.tarjetaroja.love

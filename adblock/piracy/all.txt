@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 1,151 | Updated: 2026-10-20
+! Domains: 1,164 | Updated: 2026-10-20
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -90,6 +90,7 @@
 |as.akwam.tube^
 ||assistindofilmesonline.com^
 ||aussieiptv.com^
+|avanshin.apk.cafe^
 ||b9dm.org^
 ||b9good.co^
 ||b9good.org^
@@ -101,6 +102,7 @@
 ||baskino.website^
 ||beoutq.tv^
 ||besteiptvabonnement.com^
+||bestfreestreaming.org^
 ||bestiptv-ireland.irish^
 ||bestiptvireland.net^
 ||bestiptvireland.shop^
@@ -137,6 +139,7 @@
 ||cima4u.app^
 ||cima4u.college^
 |cimaclub.ct.ws^
+||cimaclubb.cam^
 ||cimaclubsite.blogspot.com^
 ||cine-calidad.mom^
 ||cinecalidad-0f9b.pages.dev^
@@ -258,6 +261,7 @@
 ||divxtotal.lol^
 ||dixmax.es^
 ||dixmax.net^
+||dixmaxpro.com^
 ||diziasya.com^
 ||dizibox.com.tr^
 ||dizibox.live^
@@ -298,6 +302,7 @@
 ||eurostreaming-nuovo-indirizzo.com^
 ||eyasflix.com^
 ||famemma.tv^
+|farmacia.vilhena.ro.gov.br^
 ||faselhd.beer^
 ||faselhd.energy^
 ||faselhd.ws^
@@ -541,6 +546,7 @@
 ||kinokrads.com^
 ||kinozal.me^
 ||kissanime-offcial.cyou^
+||kissanime.ax^
 ||kissanime.com.cv^
 ||kissanime.quest^
 ||kissanimes.cv^
@@ -822,6 +828,7 @@
 ||planete-warez.net^
 |player.wholesale-iptv.nl^
 ||plusfilmizle.com^
+||pobreflixmovie.my^
 |portaleducacional.unisanta.br^
 ||poseidonhd2.co^
 ||premierleague.com^
@@ -848,6 +855,7 @@
 |rebahinfilm.myr.id^
 ||rebahinxxi3.mom^
 ||redecanais.in^
+||redecanais.solutions^
 ||redecanaishd.gay^
 ||redecanaishd.help^
 ||redecanaishd.qpon^
@@ -950,6 +958,7 @@
 ||sportonline.cz^
 |sportsclub.sports.or.kr^
 ||sportshub.com^
+||sportsstream.us^
 ||sportstream-365.com^
 ||sportstream.hu^
 ||sportstream.se^
@@ -973,6 +982,7 @@
 |suisse.moniptv.ch^
 |sukebei.nyaa.mom^
 ||superfilmizle.org^
+||superflix51.lol^
 ||supersportbet.com^
 ||supersportschools.com^
 ||supertorrentz.ru^
@@ -987,6 +997,7 @@
 ||taraftarium24-zeustv95.live^
 ||taraftarium24.sx^
 ||taraftarium24bjk20.com^
+||taraftarium24bjk23.com^
 ||taraftarium24soturkiye.org^
 ||taraftarium24turkiyetv.net^
 ||tarjetaroja.love^
@@ -1001,6 +1012,7 @@
 ||tarjetarojatv.mobi^
 ||tarjetarojatvhd.live^
 ||tarjetarojatvonline.site^
+|task.joby.com^
 ||themoviesflix.dev^
 ||thenaijaprey.org^
 ||thenetnaija.com.ng^
@@ -1072,6 +1084,7 @@
 ||warez-bb.website^
 ||wareztuga.io^
 |watch.onesoccer.ca^
+||watchmovierulz.rip^
 ||watchmovies.info^
 ||watchmoviesonlinehere.com^
 ||watchseries-3q89.pages.dev^

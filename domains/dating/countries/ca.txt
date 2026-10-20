@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Canada (ca)
-# Domains: 31 | Updated: 2026-10-20
+# Domains: 32 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/dating/countries/ca.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,6 +16,7 @@ chathub.net
 chathub1.com
 chathubapp.com
 chatib.us
+echathub.online
 edmonton.bonepage.com
 halifax.5escorts.ca
 kitchener.bonepage.com

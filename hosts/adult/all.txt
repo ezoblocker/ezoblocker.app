@@ -1,9 +1,11 @@
 # Title: EZOBLOCKER Adult
-# Domains: 1,870 | Updated: 2026-10-20
+# Domains: 1,956 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 0hfagy5-css-import.run-transport.re
+0.0.0.0 0jilqa.kurt-mechanik.ch
 0.0.0.0 1001noites.com
 0.0.0.0 112sexshop.com
 0.0.0.0 11hentai.com
@@ -15,8 +17,10 @@
 0.0.0.0 18plus.com.ua
 0.0.0.0 18porn.ai
 0.0.0.0 1a-erotikshops.de
-0.0.0.0 1zyexknr4k-amphtml.terresaintezarlor.re
 0.0.0.0 31keyifliseyirler32.shop
+0.0.0.0 31keyifliseyirler37.shop
+0.0.0.0 31vqkticx13.click
+0.0.0.0 31vqkticx14.click
 0.0.0.0 31vqkticx7.cfd
 0.0.0.0 31vqkticx7.click
 0.0.0.0 4love.ro
@@ -30,18 +34,22 @@
 0.0.0.0 51heiliaowangw.cc
 0.0.0.0 66seks-hikayeleri.yeahh.com
 0.0.0.0 69shop.cz
+0.0.0.0 6hmw45sfkvpb-script-js.run-transport.re
 0.0.0.0 6navi.ch
 0.0.0.0 7heiliao.com
+0.0.0.0 7vipremium.com
 0.0.0.0 8989usagiya.co.jp
 0.0.0.0 91gaoqingheiliao-4ddd444.click
 0.0.0.0 aaaa.in.ua
 0.0.0.0 aagmaal.video
+0.0.0.0 abuse.fit
 0.0.0.0 academy.sormas.org
 0.0.0.0 adamandeva.shop
 0.0.0.0 adamandevefranchise.com
 0.0.0.0 adamevehouston.com
 0.0.0.0 adamevestores.com
 0.0.0.0 adamtoys.com.my
+0.0.0.0 adanaceyhanescort.xyz
 0.0.0.0 adult-superstore.com
 0.0.0.0 adultcamadvice.com
 0.0.0.0 adultcamreviewer.com
@@ -70,6 +78,7 @@
 0.0.0.0 adultworld.co.za
 0.0.0.0 adultworld.com.au
 0.0.0.0 adultworldx.com
+0.0.0.0 adultzoneca.com
 0.0.0.0 aduzav.com
 0.0.0.0 ae.gulf-5hop.com
 0.0.0.0 afroditebutiken.se
@@ -90,6 +99,7 @@
 0.0.0.0 alpornx.cam
 0.0.0.0 alte-frau-gratis-gratis-potnos.pages.dev
 0.0.0.0 alte-schlampen-gratis-porno-reifen-frauen.pages.dev
+0.0.0.0 altyazilihubxt7.lat
 0.0.0.0 altyzhub30.site
 0.0.0.0 amanthy.com
 0.0.0.0 americasexshop.com.ar
@@ -110,13 +120,16 @@
 0.0.0.0 amurchik.ua
 0.0.0.0 anesidora.net
 0.0.0.0 ankaraerotikshop.info
+0.0.0.0 ankaragrand.com
 0.0.0.0 ankarasexshop.net
+0.0.0.0 ankaraxxescort.com
 0.0.0.0 annmarie.pl
 0.0.0.0 annsummers.com
 0.0.0.0 anoeses.com
 0.0.0.0 anonimshop.com
 0.0.0.0 antalyamood.com
 0.0.0.0 antalyasexshop.com
+0.0.0.0 anzen1.net
 0.0.0.0 aphroditi.gr
 0.0.0.0 app.catchtable.co.kr
 0.0.0.0 arabicporn.net
@@ -124,8 +137,10 @@
 0.0.0.0 arabsexcams.com
 0.0.0.0 arabsexmovies.net
 0.0.0.0 arabx77.com
+0.0.0.0 archeoconero.it
 0.0.0.0 armonishop.com
 0.0.0.0 arsiv-vip2.xyz
+0.0.0.0 artvinescortbulucu.xyz
 0.0.0.0 arzumshop.com.tr
 0.0.0.0 ascpp.site
 0.0.0.0 asexshop.gr
@@ -141,7 +156,6 @@
 0.0.0.0 atasehirescort8.uno
 0.0.0.0 atasehirescortlari.com
 0.0.0.0 atesliseksizle.online
-0.0.0.0 atubex.com
 0.0.0.0 au7iemeciel.com
 0.0.0.0 aussieamateurs.com.au
 0.0.0.0 aussiebabes.net.au
@@ -178,7 +192,9 @@
 0.0.0.0 bayanur.com
 0.0.0.0 bboutique.co
 0.0.0.0 bdesired.nl
+0.0.0.0 beddua.org
 0.0.0.0 bednerdz.com
+0.0.0.0 behcetdayispecial.com
 0.0.0.0 belemsexshop.com.br
 0.0.0.0 belgeler.net
 0.0.0.0 bellebras.com.br
@@ -193,7 +209,10 @@
 0.0.0.0 bestpornsites.cc
 0.0.0.0 bestturks24.com
 0.0.0.0 bestturks25.com
+0.0.0.0 bestturks29.com
+0.0.0.0 bestturks31.com
 0.0.0.0 bestturksgiris.com
+0.0.0.0 bestturksgiris1.com
 0.0.0.0 bestvibe.pk
 0.0.0.0 betwaymoney.co.uk
 0.0.0.0 beus.com.br
@@ -255,6 +274,7 @@
 0.0.0.0 bronx.nl
 0.0.0.0 brothercho.com
 0.0.0.0 bunnyroom.co.kr
+0.0.0.0 bursaelite.com
 0.0.0.0 busty-osaka-estama.com
 0.0.0.0 buttman.com.ar
 0.0.0.0 buttplug.io
@@ -277,7 +297,9 @@
 0.0.0.0 cchic-style.com
 0.0.0.0 centrumerotyki.com.pl
 0.0.0.0 cerotabu.co
+0.0.0.0 certification.ntop.com
 0.0.0.0 ceske-kurvicky.cz
+0.0.0.0 cesmeescortred.xyz
 0.0.0.0 chakueromamire.com
 0.0.0.0 chambersoflove.se
 0.0.0.0 channel.beep-shop.com
@@ -326,10 +348,13 @@
 0.0.0.0 condombazaar.com
 0.0.0.0 condonesmix.com
 0.0.0.0 control.pt
+0.0.0.0 coomer.org.uk
+0.0.0.0 coomer.tv
 0.0.0.0 coomersu1.com
 0.0.0.0 coquinefr.com
 0.0.0.0 corner69.hr
 0.0.0.0 corse.mx
+0.0.0.0 corumescortred.xyz
 0.0.0.0 cosettes.co.za
 0.0.0.0 couplestoythailand.family.blog
 0.0.0.0 cranesonlyfans.com
@@ -345,11 +370,13 @@
 0.0.0.0 czechtantra.com
 0.0.0.0 czerningasse29.at
 0.0.0.0 daddylittlesecret.com
+0.0.0.0 dahahizli160.live
 0.0.0.0 dallasnovelty.com
 0.0.0.0 dame.com
 0.0.0.0 danichou.de
 0.0.0.0 danishblue.com.au
 0.0.0.0 daraztoy.com.pk
+0.0.0.0 darquepath.com.au
 0.0.0.0 ddurazno.com
 0.0.0.0 deardesire.co.za
 0.0.0.0 deboutonnees.com
@@ -358,13 +385,11 @@
 0.0.0.0 denizlipen.com
 0.0.0.0 depaarsekeizerin.nl
 0.0.0.0 desifap.net
-0.0.0.0 desifuck.net
 0.0.0.0 desihoes.com
 0.0.0.0 desimms.co.in
 0.0.0.0 desimms.com
 0.0.0.0 desimms.in
 0.0.0.0 desimmsvideo.com
-0.0.0.0 desipornfilm.com
 0.0.0.0 desipussy.org
 0.0.0.0 desirel.at
 0.0.0.0 desirel.be
@@ -372,13 +397,13 @@
 0.0.0.0 desirel.ie
 0.0.0.0 desirel.ro
 0.0.0.0 desirel.se
-0.0.0.0 desisexvids.com
 0.0.0.0 desiviral.cc
 0.0.0.0 desixxn.com
 0.0.0.0 deutscheamateure24.com
 0.0.0.0 deutscheonlyfansmodels.de
 0.0.0.0 deutschepornos.tv
 0.0.0.0 dialogistanbul.com
+0.0.0.0 dicrotin.link
 0.0.0.0 dildoking.de
 0.0.0.0 discreetlife.ca
 0.0.0.0 distribuidorasexshop.com.br
@@ -392,6 +417,7 @@
 0.0.0.0 dochoitinhduc4u.com
 0.0.0.0 dochoitinhducxtoy.com
 0.0.0.0 doeda.baby
+0.0.0.0 doeda.buzz
 0.0.0.0 doeda104.click
 0.0.0.0 doeda3.baby
 0.0.0.0 doeda4.baby
@@ -416,6 +442,7 @@
 0.0.0.0 dreamsptystore.com
 0.0.0.0 dreamydesire.com
 0.0.0.0 drloves.vn
+0.0.0.0 drov.fr
 0.0.0.0 dubaiplasticfun.com
 0.0.0.0 dulcegatita.com.co
 0.0.0.0 dulceshop.cl
@@ -449,6 +476,7 @@
 0.0.0.0 epoptavka.cz
 0.0.0.0 ero315.com
 0.0.0.0 erocraves.com
+0.0.0.0 erofilm.co
 0.0.0.0 erolaif.ru
 0.0.0.0 eromanga-attack2000.net
 0.0.0.0 eromanga-wktk.pages.dev
@@ -516,10 +544,17 @@
 0.0.0.0 escortsdates.com
 0.0.0.0 escortsecret.com
 0.0.0.0 escortsexibiza.com
+0.0.0.0 escortshello.online
+0.0.0.0 escortsinpakistan.online
+0.0.0.0 escortsites.org
+0.0.0.0 escortstacey.com
 0.0.0.0 escortsultanbeyli.com
+0.0.0.0 escortws.com
 0.0.0.0 esenyurtcicekevi.com
 0.0.0.0 esenyurtrehber.com
 0.0.0.0 eshop.prokultura.sk
+0.0.0.0 eskortadresi.com
+0.0.0.0 eskortpro2.world
 0.0.0.0 especiales.soho.co
 0.0.0.0 espicopink.pk
 0.0.0.0 eufory.de
@@ -542,7 +577,9 @@
 0.0.0.0 farmamia.net
 0.0.0.0 farmamix.com.ar
 0.0.0.0 fashionboutix.ch
+0.0.0.0 fashionloversboutique.com
 0.0.0.0 fashionwalker.com
+0.0.0.0 fcampmodels.online
 0.0.0.0 femdomth.com
 0.0.0.0 femorasexshop.com
 0.0.0.0 ferramentas.pt
@@ -571,7 +608,6 @@
 0.0.0.0 freakyfun.in
 0.0.0.0 freebody.co.kr
 0.0.0.0 freefans.de
-0.0.0.0 freehindipornvideos.com
 0.0.0.0 freelezbianpornvideos.com
 0.0.0.0 freesexvedioes.com
 0.0.0.0 freshporno.bet
@@ -585,7 +621,6 @@
 0.0.0.0 fuxporno.com
 0.0.0.0 gall.com.br
 0.0.0.0 gamerotika.de
-0.0.0.0 gaymasti.com
 0.0.0.0 gayout.com
 0.0.0.0 gaysohbet.life
 0.0.0.0 gaystore.fr
@@ -614,6 +649,7 @@
 0.0.0.0 hackerpornfest.com
 0.0.0.0 haijiao999.com
 0.0.0.0 hamstube.com
+0.0.0.0 hangngon.blog
 0.0.0.0 hanime-3d7.pages.dev
 0.0.0.0 hanime-dl.pages.dev
 0.0.0.0 hanime-v3.pages.dev
@@ -624,6 +660,7 @@
 0.0.0.0 hanimetv-dgq.pages.dev
 0.0.0.0 harmonystore.co.uk
 0.0.0.0 hdabla.one
+0.0.0.0 hdabla76.click
 0.0.0.0 heiliao-21.com
 0.0.0.0 heiliao-25.com
 0.0.0.0 heiliao26.pages.dev
@@ -660,16 +697,15 @@
 0.0.0.0 herrin-anastasia.org
 0.0.0.0 high-tide.com.au
 0.0.0.0 himmelriket.se
-0.0.0.0 hindibfxxx.com
 0.0.0.0 hindixxx2.club
 0.0.0.0 homemadeblackporn.com
 0.0.0.0 honeybirdette.com
 0.0.0.0 hopnato.cz
-0.0.0.0 hornyindianporn.com
 0.0.0.0 hotfrog.ie
 0.0.0.0 hotpowers.jp
 0.0.0.0 hotsexshop.com.br
 0.0.0.0 houseerotic.com
+0.0.0.0 houseofcandy.in
 0.0.0.0 htvc.com.vn
 0.0.0.0 hulyahalat.com
 0.0.0.0 hushcanada.com
@@ -677,6 +713,9 @@
 0.0.0.0 hypnoze.fr
 0.0.0.0 i.clipviet.blog
 0.0.0.0 ideedudesir.fr
+0.0.0.0 ifsatube46.lat
+0.0.0.0 ifsatube69.lat
+0.0.0.0 ifsavideolari.com
 0.0.0.0 igume.com
 0.0.0.0 iloveboutique.com.au
 0.0.0.0 iltempiodellamore.com
@@ -688,10 +727,7 @@
 0.0.0.0 imeldax39.click
 0.0.0.0 imuschi.com
 0.0.0.0 indianfemdom.com
-0.0.0.0 indianpornempire.com
-0.0.0.0 indianpornsites.net
 0.0.0.0 indiansexmovie.org
-0.0.0.0 indiansexyxxx.com
 0.0.0.0 indobokep.in.net
 0.0.0.0 indoteknik.com
 0.0.0.0 inserotik.ch
@@ -725,6 +761,7 @@
 0.0.0.0 istanbulshe.net
 0.0.0.0 istanbulviva.com
 0.0.0.0 istinyeescortax.site
+0.0.0.0 isvicresohbet.gen.tr
 0.0.0.0 itsnormal.com
 0.0.0.0 itspleasure.in
 0.0.0.0 itspleazure.com
@@ -781,7 +818,9 @@
 0.0.0.0 kazanova.shop
 0.0.0.0 kazanova.su
 0.0.0.0 kazanova.ua
+0.0.0.0 kemenagtimortengahselatan.com
 0.0.0.0 kemono.cv
+0.0.0.0 kemono.games
 0.0.0.0 khocliphot.com
 0.0.0.0 kibana.compactorstore.com
 0.0.0.0 kidsister.ca
@@ -961,6 +1000,7 @@
 0.0.0.0 maheirqx54.click
 0.0.0.0 maheirqx65.cfd
 0.0.0.0 maheirqx66.cfd
+0.0.0.0 maheirqx66.click
 0.0.0.0 maheirqx66.cyou
 0.0.0.0 mahnsextoy.com
 0.0.0.0 mahremdukkani.com
@@ -1037,6 +1077,7 @@
 0.0.0.0 mozaka.com
 0.0.0.0 mrlove.ch
 0.0.0.0 mrtoy.com
+0.0.0.0 ms-online.co.jp
 0.0.0.0 mshop.se
 0.0.0.0 msk.ros-spravka.ru
 0.0.0.0 mundoerotico.es
@@ -1076,6 +1117,7 @@
 0.0.0.0 nazira1.wtf
 0.0.0.0 nederporn.tv
 0.0.0.0 netu.ro
+0.0.0.0 new-pron.online
 0.0.0.0 newcumshots.com
 0.0.0.0 newdesimms.com
 0.0.0.0 newfinearts.com
@@ -1083,10 +1125,12 @@
 0.0.0.0 ngentottantetobrut-28r.pages.dev
 0.0.0.0 nicennaughty.co.uk
 0.0.0.0 nichehentaiplace.com
+0.0.0.0 nigdeescortred.xyz
 0.0.0.0 nigeriasexchat.com
 0.0.0.0 nightmall.co.kr
 0.0.0.0 nightmall.linkstory.co.kr
 0.0.0.0 nikkidarling.biz
+0.0.0.0 nikmatindo.online
 0.0.0.0 noktashop.com.tr
 0.0.0.0 nollyporn.com
 0.0.0.0 nonsurgical-penis-enlargement.com
@@ -1095,6 +1139,7 @@
 0.0.0.0 notino.be
 0.0.0.0 novum-erotik.de
 0.0.0.0 nrwrza.villageplett.co.za
+0.0.0.0 ntlingerie.com
 0.0.0.0 nuhoangkhoaicam.vn
 0.0.0.0 nuttenkartei.de
 0.0.0.0 nylonfetisch.com
@@ -1132,10 +1177,10 @@
 0.0.0.0 onlysense.nl
 0.0.0.0 ontopoflove.nl
 0.0.0.0 ooh.enbrevubca.blog
-0.0.0.0 op1t659y8.terresaintezarlor.re
 0.0.0.0 ophelialingerie.ie
 0.0.0.0 oppsystore.com
 0.0.0.0 orchidtoys.com
+0.0.0.0 orderonline.rouses.com
 0.0.0.0 orient-herrin-kader.de
 0.0.0.0 orion-store.de
 0.0.0.0 orionsexshop.com.co
@@ -1147,13 +1192,16 @@
 0.0.0.0 ovejanegraboutique.cl
 0.0.0.0 pabo.be
 0.0.0.0 pabo.nl
+0.0.0.0 pamonopri.blog
 0.0.0.0 pandalive.co.kr
 0.0.0.0 pantynova.com
 0.0.0.0 papelerias.com.es
 0.0.0.0 papimlor.site
 0.0.0.0 papyonshop.com
+0.0.0.0 parisloversboutique.com
 0.0.0.0 parlamourshop.com
 0.0.0.0 pasensaciones.com
+0.0.0.0 pasiune.ro
 0.0.0.0 passagedudesir.com
 0.0.0.0 passionerad.se
 0.0.0.0 passionerat.se
@@ -1187,7 +1235,6 @@
 0.0.0.0 pinayflix.es
 0.0.0.0 pinayflix.gl
 0.0.0.0 pinayflix.id
-0.0.0.0 pinayot.org
 0.0.0.0 pinkboxb2b.com
 0.0.0.0 pinkboxshop.com
 0.0.0.0 pinkbunny.ph
@@ -1235,10 +1282,16 @@
 0.0.0.0 porno.chat
 0.0.0.0 porno.surf
 0.0.0.0 porno365.plus
+0.0.0.0 porno80cj.site
+0.0.0.0 porno80cl.site
 0.0.0.0 porno80zr.org
 0.0.0.0 porno900.click
 0.0.0.0 pornobanka.com
 0.0.0.0 pornocolombiano.net
+0.0.0.0 pornocu15.online
+0.0.0.0 pornocudayi60.com
+0.0.0.0 pornocudayi64.com
+0.0.0.0 pornocukkk.com
 0.0.0.0 pornohdit.com
 0.0.0.0 pornohodl.xyz
 0.0.0.0 pornoizle.cam
@@ -1255,6 +1308,7 @@
 0.0.0.0 pornoseks.world
 0.0.0.0 pornotoys.com
 0.0.0.0 pornoturkce5.online
+0.0.0.0 pornozaz86.online
 0.0.0.0 pornsites.love
 0.0.0.0 pornstaravatars.com
 0.0.0.0 pornvideo.cloud
@@ -1280,6 +1334,7 @@
 0.0.0.0 proxy.gd
 0.0.0.0 prproxy.pro
 0.0.0.0 ptlojas.net
+0.0.0.0 pub1ssfun.planventabar.blog
 0.0.0.0 puissante.co
 0.0.0.0 puntosexshop.com.ar
 0.0.0.0 purasporno.com
@@ -1312,6 +1367,7 @@
 0.0.0.0 regulation.co.uk
 0.0.0.0 reinesexdates69.com
 0.0.0.0 resolver.co.uk
+0.0.0.0 ripcurl.com
 0.0.0.0 rocks-off.com
 0.0.0.0 rojocherry.com
 0.0.0.0 romanticdepot.com
@@ -1332,7 +1388,9 @@
 0.0.0.0 saleone.pk
 0.0.0.0 salexo.de
 0.0.0.0 salvajesexstore.com
+0.0.0.0 samsun.website
 0.0.0.0 samsunsens.com
+0.0.0.0 santasheaven.ch
 0.0.0.0 satisfyer.com
 0.0.0.0 saudiporn.com
 0.0.0.0 sauvage.com.ar
@@ -1398,6 +1456,7 @@
 0.0.0.0 sexcenter.tienda
 0.0.0.0 sexchatroom.be
 0.0.0.0 sexchatroom.de
+0.0.0.0 sexcindy2.best
 0.0.0.0 sexcordobashop.com.ar
 0.0.0.0 sexdolls-france.com
 0.0.0.0 sexfilmleriizlevip.com
@@ -1513,9 +1572,11 @@
 0.0.0.0 sexuallifestyle.co.uk
 0.0.0.0 sexuhlala.com.br
 0.0.0.0 sexviet247.blog
+0.0.0.0 sexviet64.com
 0.0.0.0 sexviet88.co.uk
 0.0.0.0 sexvietdam.blog
 0.0.0.0 sexvnn-tv.blog
+0.0.0.0 sexvoorgeld.nl
 0.0.0.0 sexwell.bg
 0.0.0.0 sexxxhdpornofilm.com
 0.0.0.0 sexy-shop-emmen.nl
@@ -1533,7 +1594,6 @@
 0.0.0.0 sexyshopqeros.it
 0.0.0.0 sexyshopticino.ch
 0.0.0.0 sexystyle.ru
-0.0.0.0 sexyvideoindian.com
 0.0.0.0 sexywawa.com
 0.0.0.0 sexyworld.gr
 0.0.0.0 sexzadarmo.pl
@@ -1572,6 +1632,7 @@
 0.0.0.0 siamtenga.com
 0.0.0.0 siao69.net
 0.0.0.0 simontok.lifestyle
+0.0.0.0 simpcity.cfd
 0.0.0.0 simplypleasure.com
 0.0.0.0 sineros.de
 0.0.0.0 sinful.at
@@ -1624,6 +1685,7 @@
 0.0.0.0 stay-on.co
 0.0.0.0 stop.or.jp
 0.0.0.0 stopi.pk
+0.0.0.0 stouteschatten.com
 0.0.0.0 stoutprivehuis.com
 0.0.0.0 strapony.cz
 0.0.0.0 streamfab.dvdfab.tw
@@ -1635,6 +1697,7 @@
 0.0.0.0 styleplanet.com
 0.0.0.0 superlove.ro
 0.0.0.0 susurrosintimos.es
+0.0.0.0 svakom.com
 0.0.0.0 svensk-porr.com
 0.0.0.0 sweetiesexshop.com.ua
 0.0.0.0 sweetmysterysexshop.com.br
@@ -1658,6 +1721,7 @@
 0.0.0.0 tenga.my
 0.0.0.0 terbiyesizzler.com
 0.0.0.0 teresamyceliaonlyfans.pages.dev
+0.0.0.0 terresaintezarlor.re
 0.0.0.0 tesstesst.nl
 0.0.0.0 thaisextoy.com
 0.0.0.0 thatsassything.com
@@ -1680,6 +1744,7 @@
 0.0.0.0 thepornhomie.com
 0.0.0.0 theprive.pl
 0.0.0.0 thevibeadultshop.com.au
+0.0.0.0 thistleandspire.com
 0.0.0.0 thornandfeather.ca
 0.0.0.0 tiendacereza.com
 0.0.0.0 tiendaerotica.cl
@@ -1719,18 +1784,32 @@
 0.0.0.0 tudeseosexshop.com
 0.0.0.0 tuerotica.com
 0.0.0.0 tulipan.pl
+0.0.0.0 turk-ifsa23.com
 0.0.0.0 turkceerotikfilmcx.cfd
+0.0.0.0 turkcepornoaltyazi.shop
+0.0.0.0 turkcepornohane.com
 0.0.0.0 turkhub150.cfd
 0.0.0.0 turkifsa.blog
 0.0.0.0 turkifsa.cc
+0.0.0.0 turkifsa34.lat
+0.0.0.0 turkifsa7.best
 0.0.0.0 turkifsa73.com
 0.0.0.0 turkifsa93.com
+0.0.0.0 turkifsa98.com
+0.0.0.0 turkifsa99.com
+0.0.0.0 turkifsaalemi.link
 0.0.0.0 turkifsaarsivivip.xyz
 0.0.0.0 turkifsaclub211.sbs
+0.0.0.0 turkifsaclub218.sbs
+0.0.0.0 turkifsago18.site
+0.0.0.0 turkifsago19.site
 0.0.0.0 turkifsahane.com
 0.0.0.0 turkifsami.net
+0.0.0.0 turkifsatube.dad
 0.0.0.0 turkifsatube20.xyz
 0.0.0.0 turkifsatube24.xyz
+0.0.0.0 turkifsatube26.xyz
+0.0.0.0 turktelegramifsalar.com
 0.0.0.0 turkzzers.net
 0.0.0.0 tutkusexshop.net
 0.0.0.0 twinkleonlyfans.com
@@ -1772,6 +1851,7 @@
 0.0.0.0 vidioporno.cc
 0.0.0.0 vidsgal.com
 0.0.0.0 viet69.be
+0.0.0.0 viet69z.blog
 0.0.0.0 vietnam-xvideos.com
 0.0.0.0 villagecenterfl.govbuilt.com
 0.0.0.0 vintoy.vn
@@ -1793,6 +1873,7 @@
 0.0.0.0 vuxen.dk
 0.0.0.0 vuxen.se
 0.0.0.0 vuxenkul.se
+0.0.0.0 wanda.best
 0.0.0.0 wanghongheiliao-45.pages.dev
 0.0.0.0 we-vibe.com
 0.0.0.0 web-x-cam.nl
@@ -1806,7 +1887,6 @@
 0.0.0.0 webxcams.nl
 0.0.0.0 welcomelover.com
 0.0.0.0 wellnessae.com
-0.0.0.0 wetforher.com
 0.0.0.0 wham.mx
 0.0.0.0 whitesmoke.gr
 0.0.0.0 whittard.com
@@ -1824,6 +1904,7 @@
 0.0.0.0 x-alarab.com
 0.0.0.0 xamvn18.blog
 0.0.0.0 xanadushop.co.za
+0.0.0.0 xemsexvnonline.net
 0.0.0.0 xhamster2.in
 0.0.0.0 xiaoyuanheiliao.pages.dev
 0.0.0.0 xl-shop.com
@@ -1836,6 +1917,8 @@
 0.0.0.0 xn--l3caaaa6a6c9c4c0h4c.com
 0.0.0.0 xn--l3caq6a3c9fe6c.net
 0.0.0.0 xn--o39an5bf2p1yd8xin3lwgv.com
+0.0.0.0 xnhauz.com
+0.0.0.0 xnovix.com
 0.0.0.0 xnxx-arabe.com
 0.0.0.0 xnxx-bokep.pages.dev
 0.0.0.0 xoxostore.pk
@@ -1854,10 +1937,10 @@
 0.0.0.0 xxvn.link
 0.0.0.0 xxxhindi.shop
 0.0.0.0 xxxhindi2.site
-0.0.0.0 xxxvasna.com
 0.0.0.0 xxxvideo.org.im
 0.0.0.0 yadongkorea.app
 0.0.0.0 yasakelmam.com
+0.0.0.0 yavasgir168.live
 0.0.0.0 yessir.com.br
 0.0.0.0 yetiskin.org
 0.0.0.0 yetiskinsohbet.com.tr
@@ -1866,10 +1949,13 @@
 0.0.0.0 youjizz-france.com
 0.0.0.0 yourobsession.pl
 0.0.0.0 yoxo.it
+0.0.0.0 z.clipviet.blog
 0.0.0.0 zesyxr0fyd-amphtml.kristigaskola.lv
 0.0.0.0 zetasexshop.com
 0.0.0.0 zevkdolu36.com
 0.0.0.0 zevkdolu39.com
+0.0.0.0 zevkdolu40.com
+0.0.0.0 zevkdolu42.com
 0.0.0.0 zohup.net
 0.0.0.0 zolta.pl
 0.0.0.0 zonaerotica.com.co

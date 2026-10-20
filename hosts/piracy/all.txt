@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,151 | Updated: 2026-10-20
+# Domains: 1,164 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -90,6 +90,7 @@
 0.0.0.0 as.akwam.tube
 0.0.0.0 assistindofilmesonline.com
 0.0.0.0 aussieiptv.com
+0.0.0.0 avanshin.apk.cafe
 0.0.0.0 b9dm.org
 0.0.0.0 b9good.co
 0.0.0.0 b9good.org
@@ -101,6 +102,7 @@
 0.0.0.0 baskino.website
 0.0.0.0 beoutq.tv
 0.0.0.0 besteiptvabonnement.com
+0.0.0.0 bestfreestreaming.org
 0.0.0.0 bestiptv-ireland.irish
 0.0.0.0 bestiptvireland.net
 0.0.0.0 bestiptvireland.shop
@@ -137,6 +139,7 @@
 0.0.0.0 cima4u.app
 0.0.0.0 cima4u.college
 0.0.0.0 cimaclub.ct.ws
+0.0.0.0 cimaclubb.cam
 0.0.0.0 cimaclubsite.blogspot.com
 0.0.0.0 cine-calidad.mom
 0.0.0.0 cinecalidad-0f9b.pages.dev
@@ -258,6 +261,7 @@
 0.0.0.0 divxtotal.lol
 0.0.0.0 dixmax.es
 0.0.0.0 dixmax.net
+0.0.0.0 dixmaxpro.com
 0.0.0.0 diziasya.com
 0.0.0.0 dizibox.com.tr
 0.0.0.0 dizibox.live
@@ -298,6 +302,7 @@
 0.0.0.0 eurostreaming-nuovo-indirizzo.com
 0.0.0.0 eyasflix.com
 0.0.0.0 famemma.tv
+0.0.0.0 farmacia.vilhena.ro.gov.br
 0.0.0.0 faselhd.beer
 0.0.0.0 faselhd.energy
 0.0.0.0 faselhd.ws
@@ -541,6 +546,7 @@
 0.0.0.0 kinokrads.com
 0.0.0.0 kinozal.me
 0.0.0.0 kissanime-offcial.cyou
+0.0.0.0 kissanime.ax
 0.0.0.0 kissanime.com.cv
 0.0.0.0 kissanime.quest
 0.0.0.0 kissanimes.cv
@@ -822,6 +828,7 @@
 0.0.0.0 planete-warez.net
 0.0.0.0 player.wholesale-iptv.nl
 0.0.0.0 plusfilmizle.com
+0.0.0.0 pobreflixmovie.my
 0.0.0.0 portaleducacional.unisanta.br
 0.0.0.0 poseidonhd2.co
 0.0.0.0 premierleague.com
@@ -848,6 +855,7 @@
 0.0.0.0 rebahinfilm.myr.id
 0.0.0.0 rebahinxxi3.mom
 0.0.0.0 redecanais.in
+0.0.0.0 redecanais.solutions
 0.0.0.0 redecanaishd.gay
 0.0.0.0 redecanaishd.help
 0.0.0.0 redecanaishd.qpon
@@ -950,6 +958,7 @@
 0.0.0.0 sportonline.cz
 0.0.0.0 sportsclub.sports.or.kr
 0.0.0.0 sportshub.com
+0.0.0.0 sportsstream.us
 0.0.0.0 sportstream-365.com
 0.0.0.0 sportstream.hu
 0.0.0.0 sportstream.se
@@ -973,6 +982,7 @@
 0.0.0.0 suisse.moniptv.ch
 0.0.0.0 sukebei.nyaa.mom
 0.0.0.0 superfilmizle.org
+0.0.0.0 superflix51.lol
 0.0.0.0 supersportbet.com
 0.0.0.0 supersportschools.com
 0.0.0.0 supertorrentz.ru
@@ -987,6 +997,7 @@
 0.0.0.0 taraftarium24-zeustv95.live
 0.0.0.0 taraftarium24.sx
 0.0.0.0 taraftarium24bjk20.com
+0.0.0.0 taraftarium24bjk23.com
 0.0.0.0 taraftarium24soturkiye.org
 0.0.0.0 taraftarium24turkiyetv.net
 0.0.0.0 tarjetaroja.love
@@ -1001,6 +1012,7 @@
 0.0.0.0 tarjetarojatv.mobi
 0.0.0.0 tarjetarojatvhd.live
 0.0.0.0 tarjetarojatvonline.site
+0.0.0.0 task.joby.com
 0.0.0.0 themoviesflix.dev
 0.0.0.0 thenaijaprey.org
 0.0.0.0 thenetnaija.com.ng
@@ -1072,6 +1084,7 @@
 0.0.0.0 warez-bb.website
 0.0.0.0 wareztuga.io
 0.0.0.0 watch.onesoccer.ca
+0.0.0.0 watchmovierulz.rip
 0.0.0.0 watchmovies.info
 0.0.0.0 watchmoviesonlinehere.com
 0.0.0.0 watchseries-3q89.pages.dev

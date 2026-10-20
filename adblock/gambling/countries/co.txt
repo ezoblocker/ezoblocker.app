@@ -1,10 +1,11 @@
 ! Title: EZOBLOCKER Gambling, Colombia (co)
-! Domains: 4 | Updated: 2026-10-20
+! Domains: 5 | Updated: 2026-10-20
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/co.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||apuestasenlineachile.cl^
 ||betwinner.com.co^
+||bonos-de-bienvenida.cl^
 ||mostbets.com.co^
 ||repagalia.co^

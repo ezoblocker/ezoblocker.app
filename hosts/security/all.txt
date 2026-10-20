@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 15,089 | Updated: 2026-10-20
+# Domains: 15,082 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -698,7 +698,6 @@
 0.0.0.0 airbnb-businessinquiries-policy.org.ph
 0.0.0.0 airbnb-face-verification.codewithsachintha.com
 0.0.0.0 airbnb-login-signup-page.pages.dev
-0.0.0.0 airbnb-login5617.live
 0.0.0.0 airbnb-order.shop
 0.0.0.0 airbnb-verification-email.fanduelsportsnetworj.com
 0.0.0.0 airdrop-checker-walletconnect.pages.dev
@@ -1566,7 +1565,6 @@
 0.0.0.0 bestbuy-movistar-cainiao.ph
 0.0.0.0 bestbuyrewardzone.eu.org
 0.0.0.0 betaal-verzoek-ing.ph
-0.0.0.0 betalingsgaranti.com
 0.0.0.0 betgarantiadres.com
 0.0.0.0 billing-problem-7b0f.att-billint.workers.dev
 0.0.0.0 billing.mybank.su
@@ -3784,7 +3782,6 @@
 0.0.0.0 facebookuserreward.pages.dev
 0.0.0.0 faceit-approve.pro
 0.0.0.0 faceit-verify-account.com
-0.0.0.0 faceit-verify.xyz
 0.0.0.0 faq---ledgerlive-en-auths.pages.dev
 0.0.0.0 faq--coinnbase-wallet-extension.pages.dev
 0.0.0.0 faq--trezor-login-en-us.pages.dev
@@ -5102,7 +5099,6 @@
 0.0.0.0 incometax-applesupport-ovo.ph
 0.0.0.0 incometax-opensea-turkishairline.ph
 0.0.0.0 indeed-davivienda-alibaba.ph
-0.0.0.0 indiapost-scotiabank.ph
 0.0.0.0 indicadores-de-exito.shop
 0.0.0.0 info--ledger-wallet.pages.dev
 0.0.0.0 info-banca-sicurezza-bancaria-ingdirect.ph
@@ -6809,7 +6805,6 @@
 0.0.0.0 leedger-web-loggin.pages.dev
 0.0.0.0 leedzer-live-en-logn.pages.dev
 0.0.0.0 leedzer-live-wallet.pages.dev
-0.0.0.0 legalzoom-adyen-applesupport.ph
 0.0.0.0 legar-live-wallet.pages.dev
 0.0.0.0 legder-dekstop-official.wasmer.app
 0.0.0.0 legder-dekstop-suport.wasmer.app
@@ -10001,7 +9996,6 @@
 0.0.0.0 pancakeswapclaim.pages.dev
 0.0.0.0 panjar77-link-login-mudah.pages.dev
 0.0.0.0 parcel-ingbank.ph
-0.0.0.0 parcel-mondialrelay.com
 0.0.0.0 paris88klik.online
 0.0.0.0 parkplus-challan-challan-flow.pages.dev
 0.0.0.0 parlay-viral-ais777net.pages.dev
@@ -10730,7 +10724,6 @@
 0.0.0.0 roblox-reward-claim.vertexhosting.xyz
 0.0.0.0 roblox-reward-hub.pages.dev
 0.0.0.0 roblox-reward.club
-0.0.0.0 roblox-reward.com
 0.0.0.0 roblox-robux-6bq.pages.dev
 0.0.0.0 roblox-robux-code.pages.dev
 0.0.0.0 roblox-robux-site.pages.dev

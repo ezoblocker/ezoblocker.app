@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, adult shops
-! Domains: 1,115 | Updated: 2026-10-20
+! Domains: 1,126 | Updated: 2026-10-20
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/adult-shop.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -46,6 +46,7 @@
 ||adultworld.co.za^
 ||adultworld.com.au^
 ||adultworldx.com^
+||adultzoneca.com^
 |ae.gulf-5hop.com^
 ||afroditebutiken.se^
 ||agorshop.com^
@@ -189,6 +190,7 @@
 ||danichou.de^
 ||danishblue.com.au^
 ||daraztoy.com.pk^
+||darquepath.com.au^
 ||ddurazno.com^
 ||deardesire.co.za^
 ||deboutonnees.com^
@@ -304,6 +306,7 @@
 ||farmamia.net^
 ||farmamix.com.ar^
 ||fashionboutix.ch^
+||fashionloversboutique.com^
 ||fashionwalker.com^
 ||femorasexshop.com^
 ||ferramentas.pt^
@@ -353,6 +356,7 @@
 ||hotpowers.jp^
 ||hotsexshop.com.br^
 ||houseerotic.com^
+||houseofcandy.in^
 ||hulyahalat.com^
 ||hushcanada.com^
 ||hustlerhollywood.com^
@@ -594,6 +598,7 @@
 ||morethanlove.se^
 ||mrlove.ch^
 ||mrtoy.com^
+||ms-online.co.jp^
 ||mshop.se^
 |msk.ros-spravka.ru^
 ||mundoerotico.es^
@@ -630,6 +635,7 @@
 ||noroz.pk^
 ||notino.be^
 ||novum-erotik.de^
+||ntlingerie.com^
 ||nuhoangkhoaicam.vn^
 ||o-diaries.com^
 ||obchodumotyla.cz^
@@ -651,6 +657,7 @@
 ||ophelialingerie.ie^
 ||oppsystore.com^
 ||orchidtoys.com^
+|orderonline.rouses.com^
 ||orion-store.de^
 ||orionsexshop.com.co^
 ||orionversand.ch^
@@ -663,8 +670,10 @@
 ||pabo.nl^
 ||pantynova.com^
 ||papyonshop.com^
+||parisloversboutique.com^
 ||parlamourshop.com^
 ||pasensaciones.com^
+||pasiune.ro^
 ||passagedudesir.com^
 ||passionerad.se^
 ||passionerat.se^
@@ -738,6 +747,7 @@
 ||regalatelo.cl^
 ||regulation.co.uk^
 ||resolver.co.uk^
+||ripcurl.com^
 ||rocks-off.com^
 ||rojocherry.com^
 ||romanticdepot.com^
@@ -982,6 +992,7 @@
 ||styleplanet.com^
 ||superlove.ro^
 ||susurrosintimos.es^
+||svakom.com^
 ||sweetiesexshop.com.ua^
 ||sweetmysterysexshop.com.br^
 ||taboo.se^
@@ -1013,6 +1024,7 @@
 ||thenairastore.com^
 ||thepleasurechest.com^
 ||thevibeadultshop.com.au^
+||thistleandspire.com^
 ||thornandfeather.ca^
 ||tiendacereza.com^
 ||tiendaerotica.cl^
@@ -1085,7 +1097,6 @@
 ||webac-vibro.com^
 ||welcomelover.com^
 ||wellnessae.com^
-||wetforher.com^
 ||wham.mx^
 ||whitesmoke.gr^
 ||whittard.com^

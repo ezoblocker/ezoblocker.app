@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 15,089 | Updated: 2026-10-20
+# Domains: 15,082 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -698,7 +698,6 @@ airbnb-booking-app.pages.dev
 airbnb-businessinquiries-policy.org.ph
 airbnb-face-verification.codewithsachintha.com
 airbnb-login-signup-page.pages.dev
-airbnb-login5617.live
 airbnb-order.shop
 airbnb-verification-email.fanduelsportsnetworj.com
 airdrop-checker-walletconnect.pages.dev
@@ -1566,7 +1565,6 @@ bestbuy-jumia.ph
 bestbuy-movistar-cainiao.ph
 bestbuyrewardzone.eu.org
 betaal-verzoek-ing.ph
-betalingsgaranti.com
 betgarantiadres.com
 billing-problem-7b0f.att-billint.workers.dev
 billing.mybank.su
@@ -3784,7 +3782,6 @@ facebooklogindirect-confirm-new-google.com.ph
 facebookuserreward.pages.dev
 faceit-approve.pro
 faceit-verify-account.com
-faceit-verify.xyz
 faq---ledgerlive-en-auths.pages.dev
 faq--coinnbase-wallet-extension.pages.dev
 faq--trezor-login-en-us.pages.dev
@@ -5102,7 +5099,6 @@ income-easy-join-us5555541.pages.dev
 incometax-applesupport-ovo.ph
 incometax-opensea-turkishairline.ph
 indeed-davivienda-alibaba.ph
-indiapost-scotiabank.ph
 indicadores-de-exito.shop
 info--ledger-wallet.pages.dev
 info-banca-sicurezza-bancaria-ingdirect.ph
@@ -6809,7 +6805,6 @@ leedger-login-usa.pages.dev
 leedger-web-loggin.pages.dev
 leedzer-live-en-logn.pages.dev
 leedzer-live-wallet.pages.dev
-legalzoom-adyen-applesupport.ph
 legar-live-wallet.pages.dev
 legder-dekstop-official.wasmer.app
 legder-dekstop-suport.wasmer.app
@@ -10001,7 +9996,6 @@ pancakeswap-finance-swap-home.cc
 pancakeswapclaim.pages.dev
 panjar77-link-login-mudah.pages.dev
 parcel-ingbank.ph
-parcel-mondialrelay.com
 paris88klik.online
 parkplus-challan-challan-flow.pages.dev
 parlay-viral-ais777net.pages.dev
@@ -10730,7 +10724,6 @@ roblox-redeem-gift-card-code-free-robux.pages.dev
 roblox-reward-claim.vertexhosting.xyz
 roblox-reward-hub.pages.dev
 roblox-reward.club
-roblox-reward.com
 roblox-robux-6bq.pages.dev
 roblox-robux-code.pages.dev
 roblox-robux-site.pages.dev

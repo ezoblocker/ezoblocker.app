@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Australia (au)
-# Domains: 34 | Updated: 2026-10-20
+# Domains: 38 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/au.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -15,10 +15,12 @@
 0.0.0.0 cloudblvd.com.au
 0.0.0.0 clubx.com.au
 0.0.0.0 danishblue.com.au
+0.0.0.0 darquepath.com.au
 0.0.0.0 dollsdownunder.com
 0.0.0.0 edelsa.com.pe
 0.0.0.0 erosadultboutique.com
 0.0.0.0 fairyloot.com
+0.0.0.0 fashionloversboutique.com
 0.0.0.0 high-tide.com.au
 0.0.0.0 iloveboutique.com.au
 0.0.0.0 itsnormal.com
@@ -27,6 +29,7 @@
 0.0.0.0 loveaffairboutique.com.au
 0.0.0.0 lovehoney.com.au
 0.0.0.0 nikkidarling.biz
+0.0.0.0 parisloversboutique.com
 0.0.0.0 passionfruitshop.com.au
 0.0.0.0 pleasurechest.com.au
 0.0.0.0 randyfox.com.au
@@ -34,6 +37,7 @@
 0.0.0.0 sexyland.com.au
 0.0.0.0 smokenmirror.co.uk
 0.0.0.0 thehotspot.com.au
+0.0.0.0 thistleandspire.com
 0.0.0.0 victoriassecret.com.au
 0.0.0.0 vushstimulation.com
 0.0.0.0 wildsecrets.com.au

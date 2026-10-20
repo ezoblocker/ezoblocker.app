@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,049 | Updated: 2026-10-20
+# Domains: 1,059 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -81,12 +81,14 @@ benoni.art-granatis.ru
 *.betrouwbaredatingsites.nl
 *.bharatmatrimony.com
 *.bharatmatrimony.in
+birmingham.bonepage.com
 birmingham.chaosads.co.uk
 *.bizimmekan.name
 *.blackcupid.com
 *.blackpeoplemeet.com
 *.blindid.app
 bloemfontein.escortlist.co.za
+blogun.unilady.hu
 bogor.putrispa.com
 *.boldhookups.com
 *.bookgaigoi3.cloud
@@ -278,6 +280,7 @@ dubai.escort-modern.vip
 *.dubaiescortstars.com
 east-london.dfs05.ru
 ec.diatrend.com
+*.echathub.online
 *.ecift.com
 econatura-relax-chile.ueniweb.com
 edmonton.bonepage.com
@@ -310,6 +313,7 @@ erotik.markt.ch
 *.escort-directory.eu
 *.escort-directory.nl
 *.escort-ireland.com
+*.escort-side.dk
 *.escort-ua.com
 *.escort.club
 *.escort.com.ua
@@ -341,6 +345,7 @@ escortathens.webnode.gr
 *.escortservice-brugge.vip
 *.escortservice-helmond.nl
 *.escortsireland.eu
+*.escortsites.org
 *.escortsnearby.com
 *.escortutrecht.nl
 *.esohbet.net
@@ -360,6 +365,7 @@ escortathens.webnode.gr
 *.evlilikportali.com
 *.evliliksayfasi.com
 *.evliliksayfasi.net
+evpers.primariatm.ro
 *.eylulsohbet.net
 f5oob2a6yj592gqy.e-creditreform.si
 *.faceflow.com
@@ -948,15 +954,18 @@ syracuse.bonepage.com
 *.thaitalkai.com
 *.thaitalkforex.com
 *.thescortdirectory.com
+*.timbanquanhe.com
 *.timbanvn.com
 *.tinder.com
 *.tinderprofile.ai
 tolyatti.artmetall26.ru
 tolyatti.sexysluts24.com
+*.top6partnersuche.at
 *.top6partnersuche.de
 *.topescort.com
 *.topescortitalia.it
 *.topescortnews.eu
+townsville.5escorts.com
 toyohashi.merst.com
 *.trchat.com
 *.trende.com.tr
@@ -966,6 +975,7 @@ toyohashi.merst.com
 *.tryst.group
 *.tryst.link
 *.trystagency.com
+*.trystidpath.my.id
 *.tube-arabe.org
 *.turkchat.com
 *.turkchat.tc

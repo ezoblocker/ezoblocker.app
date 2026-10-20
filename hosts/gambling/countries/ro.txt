@@ -1,11 +1,13 @@
 # Title: EZOBLOCKER Gambling, Romania (ro)
-# Domains: 5 | Updated: 2026-10-20
+# Domains: 7 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/ro.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 cdcadf.sejus.df.gov.br
 0.0.0.0 frank-casino.ro
+0.0.0.0 mister-7.ro
 0.0.0.0 ruralweb.fecam.org.br
 0.0.0.0 stanleybet.be
 0.0.0.0 stanleybet.com.cy
+0.0.0.0 superpont.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 360 | Updated: 2026-10-20
+# Domains: 363 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -34,6 +34,7 @@
 0.0.0.0 bazoocam.social
 0.0.0.0 bizimmekan.name
 0.0.0.0 blindid.app
+0.0.0.0 blogun.unilady.hu
 0.0.0.0 br.papinho.com
 0.0.0.0 bumble.com
 0.0.0.0 bumpmatch.jetboy.jp
@@ -130,6 +131,7 @@
 0.0.0.0 djdongdoes.djsch.kr
 0.0.0.0 dostichatroom.com
 0.0.0.0 dostyeri.org
+0.0.0.0 echathub.online
 0.0.0.0 elchatcam.com
 0.0.0.0 elchatea.com
 0.0.0.0 elitask.com
@@ -307,6 +309,7 @@
 0.0.0.0 sohbetyeri.com.tr
 0.0.0.0 sohbetyeri.net
 0.0.0.0 spinchat.com
+0.0.0.0 staging.elkford.ca
 0.0.0.0 stnnsh.ivocaruso.it
 0.0.0.0 strangercam.com
 0.0.0.0 strangerchat.live

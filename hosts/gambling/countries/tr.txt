@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 182 | Updated: 2026-10-20
+# Domains: 189 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,6 +17,7 @@
 0.0.0.0 atlasbetbahis.com
 0.0.0.0 atlasbetku.cam
 0.0.0.0 atlasbonus.me
+0.0.0.0 auf-gelsenkirchen.de
 0.0.0.0 australia-bigbassbonanza.com
 0.0.0.0 bahisbonusu.com
 0.0.0.0 bahsegelgir.org
@@ -49,18 +50,20 @@
 0.0.0.0 betturkey.ws
 0.0.0.0 betturkeygir.com
 0.0.0.0 betwoongiris.org
-0.0.0.0 betwoonguncelgiris.org
 0.0.0.0 bonusambari.com
 0.0.0.0 bonusametist.com
 0.0.0.0 bonusgadar.com
 0.0.0.0 bonuskiyisi.com
 0.0.0.0 bonuskoyde.com
+0.0.0.0 bonuskultur.com
 0.0.0.0 bonuslideri11.com
 0.0.0.0 bonusrehberi.org
 0.0.0.0 bonussokagi.com
 0.0.0.0 bonussultani.com
 0.0.0.0 canlibahiskazan.org
 0.0.0.0 canlicasino.im
+0.0.0.0 casibom-yeniadres.vip
+0.0.0.0 casibomgiriss.vip
 0.0.0.0 casinobonuscodes.nl
 0.0.0.0 casinomaxigir1.com
 0.0.0.0 celtabet.com.tr
@@ -102,7 +105,10 @@
 0.0.0.0 m.wi.borderlandsbrewing.com
 0.0.0.0 m.ws.christostogo.com
 0.0.0.0 maltcasino.cc
+0.0.0.0 marsbahis-bery.vip
+0.0.0.0 marsbahis-hippo.vip
 0.0.0.0 marsbahis-nico.vip
+0.0.0.0 marsbahis-relax.vip
 0.0.0.0 marsbahis01.com
 0.0.0.0 matadorbet.com
 0.0.0.0 matadorbet.net
@@ -164,6 +170,7 @@
 0.0.0.0 tawsom.net
 0.0.0.0 tempobetde.com
 0.0.0.0 theallergyfreewife.com
+0.0.0.0 tr-marsbahis-2025.vip
 0.0.0.0 trbet908.com
 0.0.0.0 trbet972.com
 0.0.0.0 trbetr.com

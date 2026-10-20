@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,049 | Updated: 2026-10-20
+# Domains: 1,059 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -81,12 +81,14 @@
 0.0.0.0 betrouwbaredatingsites.nl
 0.0.0.0 bharatmatrimony.com
 0.0.0.0 bharatmatrimony.in
+0.0.0.0 birmingham.bonepage.com
 0.0.0.0 birmingham.chaosads.co.uk
 0.0.0.0 bizimmekan.name
 0.0.0.0 blackcupid.com
 0.0.0.0 blackpeoplemeet.com
 0.0.0.0 blindid.app
 0.0.0.0 bloemfontein.escortlist.co.za
+0.0.0.0 blogun.unilady.hu
 0.0.0.0 bogor.putrispa.com
 0.0.0.0 boldhookups.com
 0.0.0.0 bookgaigoi3.cloud
@@ -278,6 +280,7 @@
 0.0.0.0 dubaiescortstars.com
 0.0.0.0 east-london.dfs05.ru
 0.0.0.0 ec.diatrend.com
+0.0.0.0 echathub.online
 0.0.0.0 ecift.com
 0.0.0.0 econatura-relax-chile.ueniweb.com
 0.0.0.0 edmonton.bonepage.com
@@ -310,6 +313,7 @@
 0.0.0.0 escort-directory.eu
 0.0.0.0 escort-directory.nl
 0.0.0.0 escort-ireland.com
+0.0.0.0 escort-side.dk
 0.0.0.0 escort-ua.com
 0.0.0.0 escort.club
 0.0.0.0 escort.com.ua
@@ -341,6 +345,7 @@
 0.0.0.0 escortservice-brugge.vip
 0.0.0.0 escortservice-helmond.nl
 0.0.0.0 escortsireland.eu
+0.0.0.0 escortsites.org
 0.0.0.0 escortsnearby.com
 0.0.0.0 escortutrecht.nl
 0.0.0.0 esohbet.net
@@ -360,6 +365,7 @@
 0.0.0.0 evlilikportali.com
 0.0.0.0 evliliksayfasi.com
 0.0.0.0 evliliksayfasi.net
+0.0.0.0 evpers.primariatm.ro
 0.0.0.0 eylulsohbet.net
 0.0.0.0 f5oob2a6yj592gqy.e-creditreform.si
 0.0.0.0 faceflow.com
@@ -948,15 +954,18 @@
 0.0.0.0 thaitalkai.com
 0.0.0.0 thaitalkforex.com
 0.0.0.0 thescortdirectory.com
+0.0.0.0 timbanquanhe.com
 0.0.0.0 timbanvn.com
 0.0.0.0 tinder.com
 0.0.0.0 tinderprofile.ai
 0.0.0.0 tolyatti.artmetall26.ru
 0.0.0.0 tolyatti.sexysluts24.com
+0.0.0.0 top6partnersuche.at
 0.0.0.0 top6partnersuche.de
 0.0.0.0 topescort.com
 0.0.0.0 topescortitalia.it
 0.0.0.0 topescortnews.eu
+0.0.0.0 townsville.5escorts.com
 0.0.0.0 toyohashi.merst.com
 0.0.0.0 trchat.com
 0.0.0.0 trende.com.tr
@@ -966,6 +975,7 @@
 0.0.0.0 tryst.group
 0.0.0.0 tryst.link
 0.0.0.0 trystagency.com
+0.0.0.0 trystidpath.my.id
 0.0.0.0 tube-arabe.org
 0.0.0.0 turkchat.com
 0.0.0.0 turkchat.tc

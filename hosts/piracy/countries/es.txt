@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Spain (es)
-# Domains: 39 | Updated: 2026-10-20
+# Domains: 40 | Updated: 2026-10-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/es.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,6 +13,7 @@
 0.0.0.0 descargardixmax.com
 0.0.0.0 dixmax.es
 0.0.0.0 dixmax.net
+0.0.0.0 dixmaxpro.com
 0.0.0.0 dontorrent.blog
 0.0.0.0 elitetorrent.org
 0.0.0.0 elitetorrent.world

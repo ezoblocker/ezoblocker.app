@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Vietnam (vn)
-! Domains: 79 | Updated: 2026-10-20
+! Domains: 86 | Updated: 2026-10-20
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/vn.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,6 +22,7 @@
 ||drloves.vn^
 ||foxietoy.com^
 ||gunshop.vn^
+||hangngon.blog^
 ||htvc.com.vn^
 |i.clipviet.blog^
 ||javhdvn.org^
@@ -46,6 +47,7 @@
 ||phimsexvietsubx.blog^
 ||rungrung.vn^
 |s1.sexheo.blog^
+||santasheaven.ch^
 ||setishop.com^
 ||sexhayvc.tv^
 ||sexhotviet.com^
@@ -54,6 +56,7 @@
 ||sextoyeu.com^
 ||sextoyin.com^
 ||sexviet247.blog^
+||sexviet64.com^
 ||sexviet88.co.uk^
 ||sexvietdam.blog^
 ||sexvnn-tv.blog^
@@ -75,11 +78,15 @@
 ||sphimsex.net^
 ||trungdochoi.com^
 ||viet69.be^
+||viet69z.blog^
 ||vintoy.vn^
 ||vnsextop1.pro^
 ||vntoy.vn^
 ||xamvn18.blog^
+||xemsexvnonline.net^
+||xnhauz.com^
 ||xtoyvietnam.com^
 ||xxvn.link^
+|z.clipviet.blog^
 |zesyxr0fyd-amphtml.kristigaskola.lv^
 ||zohup.net^

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, United States (us)
-! Domains: 31 | Updated: 2026-10-20
+! Domains: 35 | Updated: 2026-10-20
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/us.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,12 +14,15 @@
 ||camsodagear.com^
 ||cindies.com^
 ||cirillas.com^
+||coomer.org.uk^
+||coomer.tv^
 ||coomersu1.com^
 ||cupidscloset.com^
 ||dallasnovelty.com^
 ||doxxes.love^
 ||hustlerhollywood.com^
 ||kemono.cv^
+||kemono.games^
 |kibana.compactorstore.com^
 ||ladykonfidential.com^
 ||lionsden.com^
@@ -33,5 +36,6 @@
 ||pureromance.com^
 ||rainbowstation.nyc^
 ||romantix.com^
+||simpcity.cfd^
 ||thepleasurechest.com^
 ||useprivly.com^
