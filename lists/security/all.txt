@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 15,228 | Updated: 2026-10-21
+# Domains: 15,227 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -5150,7 +5150,6 @@ identity-approval.xfinity-bill.workers.dev
 *.incometax-applesupport-ovo.ph
 *.incometax-opensea-turkishairline.ph
 *.indeed-davivienda-alibaba.ph
-*.indiapost-scotiabank.ph
 *.indicadores-de-exito.shop
 *.info--ledger-wallet.pages.dev
 *.info-banca-sicurezza-bancaria-ingdirect.ph
