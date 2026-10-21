@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, ct
-# Domains: 307 | Updated: 2026-10-21
+# Domains: 323 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -27,11 +27,13 @@
 0.0.0.0 cinecalidad-b3nk.pages.dev
 0.0.0.0 cinecalidad-cojv.pages.dev
 0.0.0.0 cinecalidad-cz96.pages.dev
+0.0.0.0 cinecalidad-doz6.pages.dev
 0.0.0.0 cinecalidad-es26.pages.dev
 0.0.0.0 cinecalidad-iyz0.pages.dev
 0.0.0.0 cinecalidad-mf0t.pages.dev
 0.0.0.0 cinecalidad-nvtw.pages.dev
 0.0.0.0 cinecalidad-p9qc.pages.dev
+0.0.0.0 cinecalidad-t6kt.pages.dev
 0.0.0.0 cinecalidad-u0wv.pages.dev
 0.0.0.0 cinecalidad-xexj.pages.dev
 0.0.0.0 cinecalidad-ykut.pages.dev
@@ -51,12 +53,14 @@
 0.0.0.0 cuevana-z5yl.pages.dev
 0.0.0.0 cuevana3-06kz.pages.dev
 0.0.0.0 cuevana3-1g9s.pages.dev
+0.0.0.0 cuevana3-2u0v.pages.dev
 0.0.0.0 cuevana3-39it.pages.dev
 0.0.0.0 cuevana3-4gut.pages.dev
 0.0.0.0 cuevana3-4h0b.pages.dev
 0.0.0.0 cuevana3-4kij.pages.dev
 0.0.0.0 cuevana3-4pla.pages.dev
 0.0.0.0 cuevana3-54a.pages.dev
+0.0.0.0 cuevana3-6eak.pages.dev
 0.0.0.0 cuevana3-6vev.pages.dev
 0.0.0.0 cuevana3-79g.pages.dev
 0.0.0.0 cuevana3-99kc.pages.dev
@@ -88,6 +92,7 @@
 0.0.0.0 cuevana3-s2o.pages.dev
 0.0.0.0 cuevana3-s8z2.pages.dev
 0.0.0.0 cuevana3-t9qx.pages.dev
+0.0.0.0 cuevana3-u9s.pages.dev
 0.0.0.0 cuevana3-uugr.pages.dev
 0.0.0.0 cuevana3-vb80.pages.dev
 0.0.0.0 cuevana3-vy3.pages.dev
@@ -95,6 +100,7 @@
 0.0.0.0 cuevana3-yeaf.pages.dev
 0.0.0.0 cuevana3-yin.pages.dev
 0.0.0.0 cuevana3-yscy.pages.dev
+0.0.0.0 cuevana3-zg9.pages.dev
 0.0.0.0 cuevana3-ziow.pages.dev
 0.0.0.0 cuevana3-zqrb.pages.dev
 0.0.0.0 cuevana8.li
@@ -102,11 +108,14 @@
 0.0.0.0 cuevanacc.xyz
 0.0.0.0 doseriesonline.com
 0.0.0.0 dreamfilm.com.ua
+0.0.0.0 duanimeonline.com
 0.0.0.0 el-koraonline.one
 0.0.0.0 filmapik.rodeo
 0.0.0.0 filmestorrents.biz
+0.0.0.0 filmoflix-35w8.pages.dev
 0.0.0.0 filmoflix-gfl.pages.dev
 0.0.0.0 filmoflix-ofpk.pages.dev
+0.0.0.0 filmoflix-q68p.pages.dev
 0.0.0.0 filmoflix.xyz
 0.0.0.0 flixfoxmovie.org
 0.0.0.0 flixmovie.online
@@ -162,6 +171,7 @@
 0.0.0.0 motchill.com.de
 0.0.0.0 motchillia.uk
 0.0.0.0 motchillk.now
+0.0.0.0 motchillr.sh
 0.0.0.0 motphimchill.cam
 0.0.0.0 motphimchill.cc
 0.0.0.0 motphimchill.plus
@@ -181,6 +191,7 @@
 0.0.0.0 noonootv47.store
 0.0.0.0 noonootv4k.shop
 0.0.0.0 noonootvs10.store
+0.0.0.0 onlinefilmykeshlednuti.live
 0.0.0.0 paraveronline.me
 0.0.0.0 pelisflix-26m7.pages.dev
 0.0.0.0 pelisflix-2o5.pages.dev
@@ -211,6 +222,7 @@
 0.0.0.0 pelispedia-c9cr.pages.dev
 0.0.0.0 pelispedia-hu2x.pages.dev
 0.0.0.0 pelispedia-la5b.pages.dev
+0.0.0.0 pelispedia-zk24.pages.dev
 0.0.0.0 pelispedia.hair
 0.0.0.0 pelispedia.homes
 0.0.0.0 pepelisplus-3za4.pages.dev
@@ -258,6 +270,7 @@
 0.0.0.0 socoliveze.cc
 0.0.0.0 socolivezg.cc
 0.0.0.0 socolivezl.cc
+0.0.0.0 socolivezp.cc
 0.0.0.0 solarmovie-official.site
 0.0.0.0 solarmovie.free
 0.0.0.0 sportsurge-i01.pages.dev
@@ -270,6 +283,7 @@
 0.0.0.0 totalsportek-cyou.pages.dev
 0.0.0.0 tructiepbongda47.com
 0.0.0.0 v2-sportsurge.life
+0.0.0.0 v3-totalsportek-lol.pages.dev
 0.0.0.0 vercuevana.uk
 0.0.0.0 verdeportesenvivo.com
 0.0.0.0 watchmovies.info
@@ -305,9 +319,11 @@
 0.0.0.0 yallakorastar.pro
 0.0.0.0 yallashoot-w11.pages.dev
 0.0.0.0 yallashoot-yacine.com
+0.0.0.0 yallashoot.it.com
 0.0.0.0 yallashoot09.live
 0.0.0.0 yallashootplus.live
 0.0.0.0 yallashoott.pro
+0.0.0.0 yesmovies-it9.pages.dev
 0.0.0.0 yesmovies-to.pages.dev
 0.0.0.0 zalukaj-plus.pl
 0.0.0.0 zone-telechargement.monster

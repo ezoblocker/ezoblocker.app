@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 156 | Updated: 2026-10-21
+# Domains: 158 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -50,6 +50,7 @@ custom.plausible.io
 customer.etracker.com
 data.tagual.com
 dnsdelegation.io
+domain.vibetrack.com
 e.truedata.co
 edgetag.io
 emtag.net
@@ -71,6 +72,7 @@ hosting.jitsu.com
 iocnt.net
 jtracs.com
 kib.hu
+kueez.website
 madgicx.ai
 mr-in.com
 mtra.in

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, ct
-! Domains: 307 | Updated: 2026-10-21
+! Domains: 323 | Updated: 2026-10-21
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -27,11 +27,13 @@
 ||cinecalidad-b3nk.pages.dev^
 ||cinecalidad-cojv.pages.dev^
 ||cinecalidad-cz96.pages.dev^
+||cinecalidad-doz6.pages.dev^
 ||cinecalidad-es26.pages.dev^
 ||cinecalidad-iyz0.pages.dev^
 ||cinecalidad-mf0t.pages.dev^
 ||cinecalidad-nvtw.pages.dev^
 ||cinecalidad-p9qc.pages.dev^
+||cinecalidad-t6kt.pages.dev^
 ||cinecalidad-u0wv.pages.dev^
 ||cinecalidad-xexj.pages.dev^
 ||cinecalidad-ykut.pages.dev^
@@ -51,12 +53,14 @@
 ||cuevana-z5yl.pages.dev^
 ||cuevana3-06kz.pages.dev^
 ||cuevana3-1g9s.pages.dev^
+||cuevana3-2u0v.pages.dev^
 ||cuevana3-39it.pages.dev^
 ||cuevana3-4gut.pages.dev^
 ||cuevana3-4h0b.pages.dev^
 ||cuevana3-4kij.pages.dev^
 ||cuevana3-4pla.pages.dev^
 ||cuevana3-54a.pages.dev^
+||cuevana3-6eak.pages.dev^
 ||cuevana3-6vev.pages.dev^
 ||cuevana3-79g.pages.dev^
 ||cuevana3-99kc.pages.dev^
@@ -88,6 +92,7 @@
 ||cuevana3-s2o.pages.dev^
 ||cuevana3-s8z2.pages.dev^
 ||cuevana3-t9qx.pages.dev^
+||cuevana3-u9s.pages.dev^
 ||cuevana3-uugr.pages.dev^
 ||cuevana3-vb80.pages.dev^
 ||cuevana3-vy3.pages.dev^
@@ -95,6 +100,7 @@
 ||cuevana3-yeaf.pages.dev^
 ||cuevana3-yin.pages.dev^
 ||cuevana3-yscy.pages.dev^
+||cuevana3-zg9.pages.dev^
 ||cuevana3-ziow.pages.dev^
 ||cuevana3-zqrb.pages.dev^
 ||cuevana8.li^
@@ -102,11 +108,14 @@
 ||cuevanacc.xyz^
 ||doseriesonline.com^
 ||dreamfilm.com.ua^
+||duanimeonline.com^
 ||el-koraonline.one^
 ||filmapik.rodeo^
 ||filmestorrents.biz^
+||filmoflix-35w8.pages.dev^
 ||filmoflix-gfl.pages.dev^
 ||filmoflix-ofpk.pages.dev^
+||filmoflix-q68p.pages.dev^
 ||filmoflix.xyz^
 ||flixfoxmovie.org^
 ||flixmovie.online^
@@ -162,6 +171,7 @@
 ||motchill.com.de^
 ||motchillia.uk^
 ||motchillk.now^
+||motchillr.sh^
 ||motphimchill.cam^
 ||motphimchill.cc^
 ||motphimchill.plus^
@@ -181,6 +191,7 @@
 ||noonootv47.store^
 ||noonootv4k.shop^
 ||noonootvs10.store^
+||onlinefilmykeshlednuti.live^
 ||paraveronline.me^
 ||pelisflix-26m7.pages.dev^
 ||pelisflix-2o5.pages.dev^
@@ -211,6 +222,7 @@
 ||pelispedia-c9cr.pages.dev^
 ||pelispedia-hu2x.pages.dev^
 ||pelispedia-la5b.pages.dev^
+||pelispedia-zk24.pages.dev^
 ||pelispedia.hair^
 ||pelispedia.homes^
 ||pepelisplus-3za4.pages.dev^
@@ -258,6 +270,7 @@
 ||socoliveze.cc^
 ||socolivezg.cc^
 ||socolivezl.cc^
+||socolivezp.cc^
 ||solarmovie-official.site^
 ||solarmovie.free^
 ||sportsurge-i01.pages.dev^
@@ -270,6 +283,7 @@
 ||totalsportek-cyou.pages.dev^
 ||tructiepbongda47.com^
 ||v2-sportsurge.life^
+||v3-totalsportek-lol.pages.dev^
 ||vercuevana.uk^
 ||verdeportesenvivo.com^
 ||watchmovies.info^
@@ -305,9 +319,11 @@
 ||yallakorastar.pro^
 ||yallashoot-w11.pages.dev^
 ||yallashoot-yacine.com^
+||yallashoot.it.com^
 ||yallashoot09.live^
 ||yallashootplus.live^
 ||yallashoott.pro^
+||yesmovies-it9.pages.dev^
 ||yesmovies-to.pages.dev^
 ||zalukaj-plus.pl^
 ||zone-telechargement.monster^

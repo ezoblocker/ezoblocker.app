@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 668 | Updated: 2026-10-21
+# Domains: 670 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -163,6 +163,7 @@ discover-tech.io
 discovertech-alb-100966113.us-east-1.elb.amazonaws.com
 discovertech.us.auth0.com
 dnsdelegation.io
+domain.vibetrack.com
 dot.dm-io.com
 dot.visitordatainc.com
 e.truedata.co
@@ -214,6 +215,7 @@ js.retailor.media
 jtracs.com
 kib.hu
 koalametrics.com
+kueez.website
 launches.af-sdk.net
 m.exactag.com
 madgicx.ai
