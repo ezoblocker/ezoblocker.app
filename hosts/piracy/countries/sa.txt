@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Piracy, Saudi Arabia (sa)
-# Domains: 25 | Updated: 2026-10-21
+# Domains: 27 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/sa.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 anime4up.rest
+0.0.0.0 beinsports.satellite-tv.tv
 0.0.0.0 beoutq.tv
 0.0.0.0 cimaclub.ct.ws
 0.0.0.0 cimaclubb.cam
@@ -24,6 +25,7 @@
 0.0.0.0 livehd73.com
 0.0.0.0 livehd7live.site
 0.0.0.0 livehd7pro.xyz
+0.0.0.0 mxhomy556.nettoyagereunion.re
 0.0.0.0 ostoralivehd7.com
 0.0.0.0 w.cimacub.com
 0.0.0.0 web.topcinema.io

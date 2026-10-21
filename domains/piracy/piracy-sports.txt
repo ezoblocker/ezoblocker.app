@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 308 | Updated: 2026-10-21
+# Domains: 313 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,6 +17,7 @@ agespisa.sead.pi.gov.br
 alkkoora.live
 api.sap.ce.gov.br
 ballzaa.com
+beinsports.satellite-tv.tv
 bestfreestreaming.org
 bola365.today
 browse.tonton.com.my
@@ -48,6 +49,7 @@ daddylive.pk
 dekoora.store
 dev-forms-engine-api.brisbane.qld.gov.au
 direttagoal.it
+edu.gebbs.com
 elbotola.com
 eliteboxing.com.ph
 famemma.tv
@@ -74,6 +76,7 @@ freeshot.it
 freesport.com
 freesportscap.com
 french.visitkorea.or.kr
+futbol-libre.cam
 futbolenvivocolombia.com
 futbolete.com
 futbollibre.kim
@@ -255,7 +258,6 @@ taraftarium24-zeustv18.live
 taraftarium24-zeustv95.live
 taraftarium24.sx
 taraftarium24bjk20.com
-taraftarium24bjk23.com
 taraftarium24soturkiye.org
 taraftarium24turkiyetv.net
 tarjetaroja.love
@@ -277,6 +279,7 @@ totalsportsindex.com
 tour.gra.uk.com
 tructiep90phuttv.club
 ttbd-socolive.pro
+tufutbollibre.online
 tv.makeevka.com
 tv.sfl.ch
 v2-sportsurge.buzz
@@ -295,6 +298,7 @@ welcome.blasttv.ph
 xoilac1.help
 xoilac3.cc
 xoilac5.top
+xoilaclivettbdad.tv
 xoilaclivettbds.tv
 xoilaclivettbdu.tv
 xoilactvbm.cc
@@ -302,6 +306,7 @@ xoilacvn.app
 xoilacvn.net
 xoilacxbk.tv
 xoilacxbm.tv
+xoilacxbn.tv
 xoilacxbr.tv
 xoilacxbt.tv
 xoilacxxm.cc

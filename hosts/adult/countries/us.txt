@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, United States (us)
-# Domains: 35 | Updated: 2026-10-21
+# Domains: 37 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 bboutique.co
 0.0.0.0 blueboutique.com
 0.0.0.0 camerinsite.com
+0.0.0.0 camsflow.com
 0.0.0.0 camsodagear.com
 0.0.0.0 cindies.com
 0.0.0.0 cirillas.com
@@ -37,5 +38,6 @@
 0.0.0.0 rainbowstation.nyc
 0.0.0.0 romantix.com
 0.0.0.0 simpcity.cfd
+0.0.0.0 spicyranked.com
 0.0.0.0 thepleasurechest.com
 0.0.0.0 useprivly.com

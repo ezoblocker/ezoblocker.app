@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Brazil (br)
-# Domains: 46 | Updated: 2026-10-21
+# Domains: 47 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/br.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 0.0.0.0 agespisa.sead.pi.gov.br
 0.0.0.0 aguaevida.sead.pi.gov.br
 0.0.0.0 animefire.apkcafe.pt
+0.0.0.0 animesonline.cloud
 0.0.0.0 animesonline.io
 0.0.0.0 animesonlinecc.to
 0.0.0.0 api.sap.ce.gov.br

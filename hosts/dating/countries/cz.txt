@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Czechia (cz)
-# Domains: 23 | Updated: 2026-10-21
+# Domains: 25 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/cz.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,6 +22,8 @@
 0.0.0.0 eurogirlsescort.cz
 0.0.0.0 f5oob2a6yj592gqy.e-creditreform.si
 0.0.0.0 livechat.sex-czech.cz
+0.0.0.0 london-escort-agency.co.uk
+0.0.0.0 londonescortguide.com
 0.0.0.0 m.flirtkontakt.cz
 0.0.0.0 nove.tapky.info
 0.0.0.0 recenze.tapky.info

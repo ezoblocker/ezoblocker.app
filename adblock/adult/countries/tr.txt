@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Türkiye (tr)
-! Domains: 252 | Updated: 2026-10-21
+! Domains: 255 | Updated: 2026-10-21
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -27,6 +27,7 @@
 ||ankaragrand.com^
 ||ankarasexshop.net^
 ||ankaraxxescort.com^
+||antalyagirls.com^
 ||antalyamood.com^
 ||antalyasexshop.com^
 ||archeoconero.it^
@@ -85,6 +86,7 @@
 ||erotikshopankara.org^
 ||erox.com.tr^
 ||escburda.com^
+||escortbayanlar.com^
 ||escortbursam.com^
 ||escortizmirkiz.info^
 ||escortnews.com^
@@ -142,6 +144,7 @@
 ||lovelysins.com^
 ||loversstores.com^
 ||lucky-bull.hr^
+|lynlll.rtbtbbpprornrrnrrrnr.sbs^
 ||maheirqx31.click^
 ||maheirqx66.click^
 ||mahremdukkani.com^

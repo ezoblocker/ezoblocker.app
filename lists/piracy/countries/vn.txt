@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Vietnam (vn)
-# Domains: 53 | Updated: 2026-10-21
+# Domains: 56 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,7 @@
 *.cakhiatv.fit
 *.cakhiatvc.group
 *.cakhiaxs.tv
+edu.gebbs.com
 jobboard.simplifaster.com
 *.lichphimmoi.com
 mobile.coivl.net
@@ -46,6 +47,7 @@ phutu.forumvi.com
 *.xoilac1.help
 *.xoilac3.cc
 *.xoilac5.top
+*.xoilaclivettbdad.tv
 *.xoilaclivettbds.tv
 *.xoilaclivettbdu.tv
 *.xoilactvbm.cc
@@ -53,6 +55,7 @@ phutu.forumvi.com
 *.xoilacvn.net
 *.xoilacxbk.tv
 *.xoilacxbm.tv
+*.xoilacxbn.tv
 *.xoilacxbr.tv
 *.xoilacxbt.tv
 *.xoilacxxm.cc

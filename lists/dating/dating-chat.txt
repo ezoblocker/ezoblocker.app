@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 363 | Updated: 2026-10-21
+# Domains: 364 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.321chat.com
+6e1ksudjredns.chicecini.blog
 ab.211.ca
 ai.updf.com
 akordy.kytary.cz

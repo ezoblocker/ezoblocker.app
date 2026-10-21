@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Bypass, Türkiye (tr)
-! Domains: 9 | Updated: 2026-10-21
+! Domains: 8 | Updated: 2026-10-21
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/bypass/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,5 @@
 ||ktunneli.com^
 ||proxycoupons.com^
 ||proxynet.io^
-||smartproxy.ai^
 ||unblock-websites.com^
 ||yasaksiteleregiris.org^

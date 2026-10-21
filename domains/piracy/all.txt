@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,180 | Updated: 2026-10-21
+# Domains: 1,190 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -55,6 +55,7 @@ animeflv.ar
 animeflv.ba
 animeflv.buzz
 animeflv.chatovod.com
+animeflv.gr
 animeflv.my
 animeflv.one
 animeflv.or.at
@@ -62,6 +63,7 @@ animeloads.cyou
 animepahe.ch
 animepahe.net
 animepahe.ng
+animesonline.cloud
 animesonline.io
 animesonlinecc.to
 animesub.info
@@ -100,6 +102,7 @@ baskino.fm
 baskino.inc
 baskino.my
 baskino.website
+beinsports.satellite-tv.tv
 beoutq.tv
 besteiptvabonnement.com
 bestfreestreaming.org
@@ -273,12 +276,16 @@ dizibox.com.tr
 dizibox.live
 dizibox.now
 diziboxizle.com
+dizifilmizle.to
 dizigom.cv
 dizigom.icu
 dizigom.li
 diziizle.click
 diziizle.wiki
 dizilab.to
+dizipal1821.com
+dizipalorijinal18.com
+dizipalorjinal16.com
 diziyou.info
 diziyou.one
 diziyou.vip
@@ -292,6 +299,7 @@ dovik.ferit.hr
 drakorid.co
 dreamfilm.com.ua
 duanimeonline.com
+edu.gebbs.com
 egybesstt.baby
 egybesstt.lol
 egybest-real.bitbucket.io
@@ -344,7 +352,6 @@ flixfoxmovie.org
 flixmovie.online
 flixmovie.xyz
 fmovies-free.to
-fmovies.supplies
 fmovies11.com
 fmoviesz.news
 fmoviezs.top
@@ -382,6 +389,7 @@ fullprogramindir.club
 fullprogramlarindir.cc
 fullprogramlarindir.net
 fullprogramlarindir.tr
+futbol-libre.cam
 futbolenvivo.co
 futbolenvivocolombia.com
 futbolete.com
@@ -701,6 +709,7 @@ muayded789.com
 multicanaisbr.com
 multicanaishdtv.com.br
 multicanaisprime.com.br
+mxhomy556.nettoyagereunion.re
 mycima-official.bitbucket.io
 mycima.watch
 myflixer--v2.pages.dev
@@ -1010,7 +1019,6 @@ taraftarium24-zeustv18.live
 taraftarium24-zeustv95.live
 taraftarium24.sx
 taraftarium24bjk20.com
-taraftarium24bjk23.com
 taraftarium24soturkiye.org
 taraftarium24turkiyetv.net
 tarjetaroja.love
@@ -1053,6 +1061,7 @@ tributario.piracicaba.sp.gov.br
 tructiep90phuttv.club
 tructiepbongda47.com
 ttbd-socolive.pro
+tufutbollibre.online
 tugaiptv.com
 tugaiptvbest.net
 tv.makeevka.com
@@ -1098,7 +1107,6 @@ warcenter.cz
 warez-bb.website
 wareztuga.io
 watch.onesoccer.ca
-watchmovierulz.rip
 watchmovies.info
 watchmoviesonlinehere.com
 watchseries-3q89.pages.dev
@@ -1139,6 +1147,7 @@ xo-movie.com
 xoilac1.help
 xoilac3.cc
 xoilac5.top
+xoilaclivettbdad.tv
 xoilaclivettbds.tv
 xoilaclivettbdu.tv
 xoilactvbm.cc
@@ -1146,6 +1155,7 @@ xoilacvn.app
 xoilacvn.net
 xoilacxbk.tv
 xoilacxbm.tv
+xoilacxbn.tv
 xoilacxbr.tv
 xoilacxbt.tv
 xoilacxxm.cc

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Germany (de)
-# Domains: 27 | Updated: 2026-10-21
+# Domains: 28 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/de.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -25,6 +25,7 @@
 0.0.0.0 parship.de
 0.0.0.0 partnersucheplus.de
 0.0.0.0 seitensprung-fibel.de
+0.0.0.0 singleboerse.at
 0.0.0.0 singleboersen-aktuell.de
 0.0.0.0 singleboersen-vergleich.de
 0.0.0.0 spinchat.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Canada (ca)
-# Domains: 32 | Updated: 2026-10-21
+# Domains: 35 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/ca.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -32,7 +32,10 @@
 0.0.0.0 staging.elkford.ca
 0.0.0.0 strangercam.com
 0.0.0.0 talkwithstranger.com
+0.0.0.0 toronto.bonepage.com
 0.0.0.0 vancouver.bonepage.com
 0.0.0.0 victoria-bc.bonepage.com
+0.0.0.0 windsor.bonepage.com
 0.0.0.0 winnipeg.5escorts.ca
+0.0.0.0 winnipeg.bonepage.com
 0.0.0.0 wireclub.com

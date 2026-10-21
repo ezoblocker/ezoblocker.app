@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Gambling, Canada (ca)
-# Domains: 7 | Updated: 2026-10-21
+# Domains: 9 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/ca.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 casinoargentreelcanada.com
 0.0.0.0 comeon.pl
 0.0.0.0 comeoncasino.com
 0.0.0.0 coolbet.co
@@ -11,3 +12,4 @@
 0.0.0.0 lebonparisportif.com
 0.0.0.0 leovegas.co.uk
 0.0.0.0 leovegasaffiliates.com
+0.0.0.0 mejorcasinoonlineenvivo.com

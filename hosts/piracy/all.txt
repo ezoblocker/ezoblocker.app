@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,180 | Updated: 2026-10-21
+# Domains: 1,190 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -55,6 +55,7 @@
 0.0.0.0 animeflv.ba
 0.0.0.0 animeflv.buzz
 0.0.0.0 animeflv.chatovod.com
+0.0.0.0 animeflv.gr
 0.0.0.0 animeflv.my
 0.0.0.0 animeflv.one
 0.0.0.0 animeflv.or.at
@@ -62,6 +63,7 @@
 0.0.0.0 animepahe.ch
 0.0.0.0 animepahe.net
 0.0.0.0 animepahe.ng
+0.0.0.0 animesonline.cloud
 0.0.0.0 animesonline.io
 0.0.0.0 animesonlinecc.to
 0.0.0.0 animesub.info
@@ -100,6 +102,7 @@
 0.0.0.0 baskino.inc
 0.0.0.0 baskino.my
 0.0.0.0 baskino.website
+0.0.0.0 beinsports.satellite-tv.tv
 0.0.0.0 beoutq.tv
 0.0.0.0 besteiptvabonnement.com
 0.0.0.0 bestfreestreaming.org
@@ -273,12 +276,16 @@
 0.0.0.0 dizibox.live
 0.0.0.0 dizibox.now
 0.0.0.0 diziboxizle.com
+0.0.0.0 dizifilmizle.to
 0.0.0.0 dizigom.cv
 0.0.0.0 dizigom.icu
 0.0.0.0 dizigom.li
 0.0.0.0 diziizle.click
 0.0.0.0 diziizle.wiki
 0.0.0.0 dizilab.to
+0.0.0.0 dizipal1821.com
+0.0.0.0 dizipalorijinal18.com
+0.0.0.0 dizipalorjinal16.com
 0.0.0.0 diziyou.info
 0.0.0.0 diziyou.one
 0.0.0.0 diziyou.vip
@@ -292,6 +299,7 @@
 0.0.0.0 drakorid.co
 0.0.0.0 dreamfilm.com.ua
 0.0.0.0 duanimeonline.com
+0.0.0.0 edu.gebbs.com
 0.0.0.0 egybesstt.baby
 0.0.0.0 egybesstt.lol
 0.0.0.0 egybest-real.bitbucket.io
@@ -344,7 +352,6 @@
 0.0.0.0 flixmovie.online
 0.0.0.0 flixmovie.xyz
 0.0.0.0 fmovies-free.to
-0.0.0.0 fmovies.supplies
 0.0.0.0 fmovies11.com
 0.0.0.0 fmoviesz.news
 0.0.0.0 fmoviezs.top
@@ -382,6 +389,7 @@
 0.0.0.0 fullprogramlarindir.cc
 0.0.0.0 fullprogramlarindir.net
 0.0.0.0 fullprogramlarindir.tr
+0.0.0.0 futbol-libre.cam
 0.0.0.0 futbolenvivo.co
 0.0.0.0 futbolenvivocolombia.com
 0.0.0.0 futbolete.com
@@ -701,6 +709,7 @@
 0.0.0.0 multicanaisbr.com
 0.0.0.0 multicanaishdtv.com.br
 0.0.0.0 multicanaisprime.com.br
+0.0.0.0 mxhomy556.nettoyagereunion.re
 0.0.0.0 mycima-official.bitbucket.io
 0.0.0.0 mycima.watch
 0.0.0.0 myflixer--v2.pages.dev
@@ -1010,7 +1019,6 @@
 0.0.0.0 taraftarium24-zeustv95.live
 0.0.0.0 taraftarium24.sx
 0.0.0.0 taraftarium24bjk20.com
-0.0.0.0 taraftarium24bjk23.com
 0.0.0.0 taraftarium24soturkiye.org
 0.0.0.0 taraftarium24turkiyetv.net
 0.0.0.0 tarjetaroja.love
@@ -1053,6 +1061,7 @@
 0.0.0.0 tructiep90phuttv.club
 0.0.0.0 tructiepbongda47.com
 0.0.0.0 ttbd-socolive.pro
+0.0.0.0 tufutbollibre.online
 0.0.0.0 tugaiptv.com
 0.0.0.0 tugaiptvbest.net
 0.0.0.0 tv.makeevka.com
@@ -1098,7 +1107,6 @@
 0.0.0.0 warez-bb.website
 0.0.0.0 wareztuga.io
 0.0.0.0 watch.onesoccer.ca
-0.0.0.0 watchmovierulz.rip
 0.0.0.0 watchmovies.info
 0.0.0.0 watchmoviesonlinehere.com
 0.0.0.0 watchseries-3q89.pages.dev
@@ -1139,6 +1147,7 @@
 0.0.0.0 xoilac1.help
 0.0.0.0 xoilac3.cc
 0.0.0.0 xoilac5.top
+0.0.0.0 xoilaclivettbdad.tv
 0.0.0.0 xoilaclivettbds.tv
 0.0.0.0 xoilaclivettbdu.tv
 0.0.0.0 xoilactvbm.cc
@@ -1146,6 +1155,7 @@
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv
 0.0.0.0 xoilacxbm.tv
+0.0.0.0 xoilacxbn.tv
 0.0.0.0 xoilacxbr.tv
 0.0.0.0 xoilacxbt.tv
 0.0.0.0 xoilacxxm.cc

@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Piracy, Spain (es)
-# Domains: 40 | Updated: 2026-10-21
+# Domains: 41 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/es.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 acestreamid.com
 0.0.0.0 animeflv.ba
+0.0.0.0 animeflv.gr
 0.0.0.0 animeflv.or.at
 0.0.0.0 animeyt.cc
 0.0.0.0 comprariptv.com

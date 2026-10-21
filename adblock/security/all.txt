@@ -313,6 +313,7 @@
 |account.bys-insta-store-67796.com^
 |account.bys-insta-store-76319.com^
 |account.ccustoms.shop^
+|account.com-microsoft-onedrive.ca^
 |account.deutsche-whiskys.shop^
 |account.deutsche-zentral-akademie.com^
 |account.elektr-de.shop^
@@ -700,6 +701,7 @@
 ||airbnb-businessinquiries-policy.org.ph^
 |airbnb-face-verification.codewithsachintha.com^
 ||airbnb-login-signup-page.pages.dev^
+||airbnb-login5617.live^
 ||airbnb-order.shop^
 |airbnb-verification-email.fanduelsportsnetworj.com^
 ||airdrop-checker-walletconnect.pages.dev^
@@ -1598,6 +1600,7 @@
 |binance.wallet-account.com.eds1.com^
 ||binancetrwallet.sbs^
 ||binancewallet-frontend.pages.dev^
+||binancewallet.app^
 ||binancewallet.pages.dev^
 ||bing-trezorwallet.pages.dev^
 ||bio-apples-helps.pages.dev^
@@ -2346,7 +2349,6 @@
 |coinbase-request-verification.fanduelsprtsnetwork.com^
 ||coinbase-restore-support.pages.dev^
 ||coinbase-secure-en.pages.dev^
-||coinbase-security-auth-verify-desk-60.net.ph^
 ||coinbase-security-regulation.pages.dev^
 ||coinbase-security-verify-auth-desk-60.net.ph^
 ||coinbase-service-help.pages.dev^
@@ -2375,7 +2377,6 @@
 ||coinbase-us-wallet-extension-en.pages.dev^
 ||coinbase-us-wallet-extension.pages.dev^
 ||coinbase-verify-5lj.pages.dev^
-||coinbase-verify-auth-security-desk.net.ph^
 ||coinbase-verify-security-auth-desk-36.net.ph^
 ||coinbase-vs-coinbase-pro.pages.dev^
 ||coinbase-wallet---extension.pages.dev^
@@ -2849,7 +2850,6 @@
 ||digital-wallet-crypto.com^
 ||digitale-online-verwerking.com^
 ||dijitalmobilislemleriniz-ziraatbireyselweb.sbs^
-||dijitalweb-ziraatbireysel.sbs^
 ||dinamic-ourtime.workers.dev^
 ||direct-ledgrlive-helps.pages.dev^
 ||direct-ledgrlive-login.pages.dev^
@@ -3735,7 +3735,6 @@
 ||facebook-recovery-account58-tw.ph^
 ||facebook-recovery-account70-tw.ph^
 ||facebook-scam-alert-password.ph^
-||facebook-security-login-im-account-recovery.ph^
 ||facebook-security-login-im-wizards-watch-alert.ph^
 ||facebook-security-password-change-support.ph^
 ||facebook-security-password-recovery.ph^
@@ -3816,6 +3815,7 @@
 ||facebookuserreward.pages.dev^
 ||faceit-approve.pro^
 ||faceit-verify-account.com^
+||faceit-verify.xyz^
 ||faq---ledgerlive-en-auths.pages.dev^
 ||faq--coinnbase-wallet-extension.pages.dev^
 ||faq--trezor-login-en-us.pages.dev^
@@ -4496,11 +4496,9 @@
 ||help-blockfi-login-sso.pages.dev^
 ||help-blockfi-login.pages.dev^
 ||help-center-coinbase-prime-business-pro-diamond-support.com.ph^
-||help-center-coinbase-prime-business-pro-support-pro-crystal.com.ph^
 ||help-center-coinbase-prime-pro-bank.com.ph^
 ||help-center-coinbase-prime-pro-commerce-support-pro-prime.com.ph^
 ||help-center-coinbase-prime-pro-commerce-support-pro.com.ph^
-||help-center-coinbase-prime-pro-support-business-prime.com.ph^
 ||help-center-coinbase-prime-support-pro-desk.com.ph^
 ||help-center-google-support.com.ph^
 ||help-center-walmart-vendor-associate-register-secure.com.ph^
@@ -5152,6 +5150,7 @@
 ||incometax-applesupport-ovo.ph^
 ||incometax-opensea-turkishairline.ph^
 ||indeed-davivienda-alibaba.ph^
+||indiapost-scotiabank.ph^
 ||indicadores-de-exito.shop^
 ||info--ledger-wallet.pages.dev^
 ||info-banca-sicurezza-bancaria-ingdirect.ph^
@@ -5347,7 +5346,6 @@
 ||instagram-recover.pages.dev^
 ||instagram-recovery-expert-access.ph^
 ||instagram-recovery-help.ph^
-||instagram-recovery-helpdesk-main.ph^
 ||instagram-reset-recovery.ph^
 ||instagram-secure-access.ph^
 ||instagram-security-login-im-problem.ph^
@@ -6875,6 +6873,7 @@
 ||leedger-web-loggin.pages.dev^
 ||leedzer-live-en-logn.pages.dev^
 ||leedzer-live-wallet.pages.dev^
+||legalzoom-adyen-applesupport.ph^
 ||legar-live-wallet.pages.dev^
 ||legder-dekstop-official.wasmer.app^
 ||legder-dekstop-suport.wasmer.app^
@@ -10335,6 +10334,7 @@
 ||postfinance-britishairways-swisscom.ph^
 |ppaypal.com-support.workers.dev^
 |ppl.service-confirmation.account.webscr-login.cgi-bin-webscr-cmd-login-up.9a1.com^
+||premiumcitibank.com^
 ||premiumpayback756.pages.dev^
 ||premiumvideos.pages.dev^
 ||premiumwhatsapp.pages.dev^
@@ -10547,7 +10547,6 @@
 ||revolut-bank-de.com^
 ||revolut-web-verify.ph^
 ||revolutonlinebanking.co.uk^
-||revolutsupport.net^
 ||revolutsupport.pages.dev^
 ||reward-bendigo.vip^
 ||reward-from-phonepe.live^
@@ -12066,6 +12065,7 @@
 ||starts-en-ledgecom-auths.pages.dev^
 ||startup-ruhbinhood-access-en-logiin.pages.dev^
 ||statement-viewonce-givesusquotes-sharepoint.pages.dev^
+|static-login.com-microsoft-onedrive.ca^
 ||statusbestellung--kleinanzeigen.rest^
 ||stax-live-wallet.pages.dev^
 ||stc-bank-nfc-vo.pages.dev^

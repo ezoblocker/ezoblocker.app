@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 308 | Updated: 2026-10-21
+# Domains: 313 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,6 +17,7 @@
 0.0.0.0 alkkoora.live
 0.0.0.0 api.sap.ce.gov.br
 0.0.0.0 ballzaa.com
+0.0.0.0 beinsports.satellite-tv.tv
 0.0.0.0 bestfreestreaming.org
 0.0.0.0 bola365.today
 0.0.0.0 browse.tonton.com.my
@@ -48,6 +49,7 @@
 0.0.0.0 dekoora.store
 0.0.0.0 dev-forms-engine-api.brisbane.qld.gov.au
 0.0.0.0 direttagoal.it
+0.0.0.0 edu.gebbs.com
 0.0.0.0 elbotola.com
 0.0.0.0 eliteboxing.com.ph
 0.0.0.0 famemma.tv
@@ -74,6 +76,7 @@
 0.0.0.0 freesport.com
 0.0.0.0 freesportscap.com
 0.0.0.0 french.visitkorea.or.kr
+0.0.0.0 futbol-libre.cam
 0.0.0.0 futbolenvivocolombia.com
 0.0.0.0 futbolete.com
 0.0.0.0 futbollibre.kim
@@ -255,7 +258,6 @@
 0.0.0.0 taraftarium24-zeustv95.live
 0.0.0.0 taraftarium24.sx
 0.0.0.0 taraftarium24bjk20.com
-0.0.0.0 taraftarium24bjk23.com
 0.0.0.0 taraftarium24soturkiye.org
 0.0.0.0 taraftarium24turkiyetv.net
 0.0.0.0 tarjetaroja.love
@@ -277,6 +279,7 @@
 0.0.0.0 tour.gra.uk.com
 0.0.0.0 tructiep90phuttv.club
 0.0.0.0 ttbd-socolive.pro
+0.0.0.0 tufutbollibre.online
 0.0.0.0 tv.makeevka.com
 0.0.0.0 tv.sfl.ch
 0.0.0.0 v2-sportsurge.buzz
@@ -295,6 +298,7 @@
 0.0.0.0 xoilac1.help
 0.0.0.0 xoilac3.cc
 0.0.0.0 xoilac5.top
+0.0.0.0 xoilaclivettbdad.tv
 0.0.0.0 xoilaclivettbds.tv
 0.0.0.0 xoilaclivettbdu.tv
 0.0.0.0 xoilactvbm.cc
@@ -302,6 +306,7 @@
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv
 0.0.0.0 xoilacxbm.tv
+0.0.0.0 xoilacxbn.tv
 0.0.0.0 xoilacxbr.tv
 0.0.0.0 xoilacxbt.tv
 0.0.0.0 xoilacxxm.cc

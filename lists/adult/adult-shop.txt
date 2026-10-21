@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,126 | Updated: 2026-10-21
+# Domains: 1,138 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 *.123sexo.cl
 *.18plus.com.ua
 *.1a-erotikshops.de
+*.1advd.ch
 *.4love.ro
 *.4playessentials.co.za
 *.50nuances.ca
@@ -134,6 +135,7 @@ ae.gulf-5hop.com
 *.boutiquetoietmoi.ca
 *.boystore.com
 br.promocodie.com
+*.brigademondaine.fr
 *.brinquedossexuais.pt
 *.bronx.nl
 *.brothercho.com
@@ -164,6 +166,7 @@ channel.beep-shop.com
 *.clonezonedirect.co.uk
 *.cloudblvd.com.au
 *.cloudclimax.co.uk
+*.club-echangiste.eu
 *.clubx.com.au
 *.cocolamar.be
 *.codicesconto.com
@@ -193,6 +196,7 @@ couplestoythailand.family.blog
 *.darquepath.com.au
 *.ddurazno.com
 *.deardesire.co.za
+*.debordsetdesrives.fr
 *.deboutonnees.com
 *.deeplove.cz
 *.delighttoys.in
@@ -305,6 +309,7 @@ couplestoythailand.family.blog
 *.fantezie.ro
 *.farmamia.net
 *.farmamix.com.ar
+*.fascinations.net
 *.fashionboutix.ch
 *.fashionloversboutique.com
 *.fashionwalker.com
@@ -334,6 +339,7 @@ frutoproibido.pai.pt
 *.gaystore.fr
 *.geilstore.com
 *.gemaonlinestore.com
+*.gigo.com.co
 *.ginza-soleil.com
 *.ginza-soleil.jp
 *.girlsgetoff.com
@@ -593,6 +599,7 @@ market.regroup.gr
 *.modernlove.pl
 *.moira.cl
 *.monprince.ca
+*.monsterpub.com
 *.moodsexshop.co.uk
 *.moodtime.co.za
 *.morethanlove.se
@@ -602,12 +609,15 @@ market.regroup.gr
 *.mshop.se
 msk.ros-spravka.ru
 *.mundoerotico.es
+*.musiccognition.science
+*.mygiddi.com
 *.myloveyou.co.kr
 *.mymuse.in
 *.myprivatesexshop.ro
 *.mysecretcase.com
 *.mysensualsecrets.com
 *.mysex.com.ua
+*.mysex.in.ua
 *.mysexshop.co.za
 *.mysexshop.eu
 *.mysexshop.pt
@@ -812,6 +822,7 @@ rosetoyshop.bentoweb.com
 *.sexbutiker.se
 *.sexcenter.tienda
 *.sexcordobashop.com.ar
+*.sexgood.com.ua
 *.sexicekshop.cz
 *.sexlab.ro
 *.sexleksak.se
@@ -1012,6 +1023,7 @@ shhhsexshop.kyte.site
 *.thatsassything.com
 *.thatspersonal.com
 *.thatssofetch.com
+*.thebadpeach.com
 *.thebodyshop.ng
 *.thecandyshop.com
 *.thefemalestore.com.ng

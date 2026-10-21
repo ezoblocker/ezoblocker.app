@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, India (in)
-! Domains: 31 | Updated: 2026-10-21
+! Domains: 30 | Updated: 2026-10-21
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/countries/in.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -34,4 +34,3 @@
 |new.touchcric.com^
 |task.joby.com^
 |vegamovies.gt.tc^
-||watchmovierulz.rip^

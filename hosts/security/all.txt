@@ -313,6 +313,7 @@
 0.0.0.0 account.bys-insta-store-67796.com
 0.0.0.0 account.bys-insta-store-76319.com
 0.0.0.0 account.ccustoms.shop
+0.0.0.0 account.com-microsoft-onedrive.ca
 0.0.0.0 account.deutsche-whiskys.shop
 0.0.0.0 account.deutsche-zentral-akademie.com
 0.0.0.0 account.elektr-de.shop
@@ -700,6 +701,7 @@
 0.0.0.0 airbnb-businessinquiries-policy.org.ph
 0.0.0.0 airbnb-face-verification.codewithsachintha.com
 0.0.0.0 airbnb-login-signup-page.pages.dev
+0.0.0.0 airbnb-login5617.live
 0.0.0.0 airbnb-order.shop
 0.0.0.0 airbnb-verification-email.fanduelsportsnetworj.com
 0.0.0.0 airdrop-checker-walletconnect.pages.dev
@@ -1598,6 +1600,7 @@
 0.0.0.0 binance.wallet-account.com.eds1.com
 0.0.0.0 binancetrwallet.sbs
 0.0.0.0 binancewallet-frontend.pages.dev
+0.0.0.0 binancewallet.app
 0.0.0.0 binancewallet.pages.dev
 0.0.0.0 bing-trezorwallet.pages.dev
 0.0.0.0 bio-apples-helps.pages.dev
@@ -2346,7 +2349,6 @@
 0.0.0.0 coinbase-request-verification.fanduelsprtsnetwork.com
 0.0.0.0 coinbase-restore-support.pages.dev
 0.0.0.0 coinbase-secure-en.pages.dev
-0.0.0.0 coinbase-security-auth-verify-desk-60.net.ph
 0.0.0.0 coinbase-security-regulation.pages.dev
 0.0.0.0 coinbase-security-verify-auth-desk-60.net.ph
 0.0.0.0 coinbase-service-help.pages.dev
@@ -2375,7 +2377,6 @@
 0.0.0.0 coinbase-us-wallet-extension-en.pages.dev
 0.0.0.0 coinbase-us-wallet-extension.pages.dev
 0.0.0.0 coinbase-verify-5lj.pages.dev
-0.0.0.0 coinbase-verify-auth-security-desk.net.ph
 0.0.0.0 coinbase-verify-security-auth-desk-36.net.ph
 0.0.0.0 coinbase-vs-coinbase-pro.pages.dev
 0.0.0.0 coinbase-wallet---extension.pages.dev
@@ -2849,7 +2850,6 @@
 0.0.0.0 digital-wallet-crypto.com
 0.0.0.0 digitale-online-verwerking.com
 0.0.0.0 dijitalmobilislemleriniz-ziraatbireyselweb.sbs
-0.0.0.0 dijitalweb-ziraatbireysel.sbs
 0.0.0.0 dinamic-ourtime.workers.dev
 0.0.0.0 direct-ledgrlive-helps.pages.dev
 0.0.0.0 direct-ledgrlive-login.pages.dev
@@ -3735,7 +3735,6 @@
 0.0.0.0 facebook-recovery-account58-tw.ph
 0.0.0.0 facebook-recovery-account70-tw.ph
 0.0.0.0 facebook-scam-alert-password.ph
-0.0.0.0 facebook-security-login-im-account-recovery.ph
 0.0.0.0 facebook-security-login-im-wizards-watch-alert.ph
 0.0.0.0 facebook-security-password-change-support.ph
 0.0.0.0 facebook-security-password-recovery.ph
@@ -3816,6 +3815,7 @@
 0.0.0.0 facebookuserreward.pages.dev
 0.0.0.0 faceit-approve.pro
 0.0.0.0 faceit-verify-account.com
+0.0.0.0 faceit-verify.xyz
 0.0.0.0 faq---ledgerlive-en-auths.pages.dev
 0.0.0.0 faq--coinnbase-wallet-extension.pages.dev
 0.0.0.0 faq--trezor-login-en-us.pages.dev
@@ -4496,11 +4496,9 @@
 0.0.0.0 help-blockfi-login-sso.pages.dev
 0.0.0.0 help-blockfi-login.pages.dev
 0.0.0.0 help-center-coinbase-prime-business-pro-diamond-support.com.ph
-0.0.0.0 help-center-coinbase-prime-business-pro-support-pro-crystal.com.ph
 0.0.0.0 help-center-coinbase-prime-pro-bank.com.ph
 0.0.0.0 help-center-coinbase-prime-pro-commerce-support-pro-prime.com.ph
 0.0.0.0 help-center-coinbase-prime-pro-commerce-support-pro.com.ph
-0.0.0.0 help-center-coinbase-prime-pro-support-business-prime.com.ph
 0.0.0.0 help-center-coinbase-prime-support-pro-desk.com.ph
 0.0.0.0 help-center-google-support.com.ph
 0.0.0.0 help-center-walmart-vendor-associate-register-secure.com.ph
@@ -5152,6 +5150,7 @@
 0.0.0.0 incometax-applesupport-ovo.ph
 0.0.0.0 incometax-opensea-turkishairline.ph
 0.0.0.0 indeed-davivienda-alibaba.ph
+0.0.0.0 indiapost-scotiabank.ph
 0.0.0.0 indicadores-de-exito.shop
 0.0.0.0 info--ledger-wallet.pages.dev
 0.0.0.0 info-banca-sicurezza-bancaria-ingdirect.ph
@@ -5347,7 +5346,6 @@
 0.0.0.0 instagram-recover.pages.dev
 0.0.0.0 instagram-recovery-expert-access.ph
 0.0.0.0 instagram-recovery-help.ph
-0.0.0.0 instagram-recovery-helpdesk-main.ph
 0.0.0.0 instagram-reset-recovery.ph
 0.0.0.0 instagram-secure-access.ph
 0.0.0.0 instagram-security-login-im-problem.ph
@@ -6875,6 +6873,7 @@
 0.0.0.0 leedger-web-loggin.pages.dev
 0.0.0.0 leedzer-live-en-logn.pages.dev
 0.0.0.0 leedzer-live-wallet.pages.dev
+0.0.0.0 legalzoom-adyen-applesupport.ph
 0.0.0.0 legar-live-wallet.pages.dev
 0.0.0.0 legder-dekstop-official.wasmer.app
 0.0.0.0 legder-dekstop-suport.wasmer.app
@@ -10335,6 +10334,7 @@
 0.0.0.0 postfinance-britishairways-swisscom.ph
 0.0.0.0 ppaypal.com-support.workers.dev
 0.0.0.0 ppl.service-confirmation.account.webscr-login.cgi-bin-webscr-cmd-login-up.9a1.com
+0.0.0.0 premiumcitibank.com
 0.0.0.0 premiumpayback756.pages.dev
 0.0.0.0 premiumvideos.pages.dev
 0.0.0.0 premiumwhatsapp.pages.dev
@@ -10547,7 +10547,6 @@
 0.0.0.0 revolut-bank-de.com
 0.0.0.0 revolut-web-verify.ph
 0.0.0.0 revolutonlinebanking.co.uk
-0.0.0.0 revolutsupport.net
 0.0.0.0 revolutsupport.pages.dev
 0.0.0.0 reward-bendigo.vip
 0.0.0.0 reward-from-phonepe.live
@@ -12066,6 +12065,7 @@
 0.0.0.0 starts-en-ledgecom-auths.pages.dev
 0.0.0.0 startup-ruhbinhood-access-en-logiin.pages.dev
 0.0.0.0 statement-viewonce-givesusquotes-sharepoint.pages.dev
+0.0.0.0 static-login.com-microsoft-onedrive.ca
 0.0.0.0 statusbestellung--kleinanzeigen.rest
 0.0.0.0 stax-live-wallet.pages.dev
 0.0.0.0 stc-bank-nfc-vo.pages.dev

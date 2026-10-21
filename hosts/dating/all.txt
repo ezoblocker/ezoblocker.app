@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,059 | Updated: 2026-10-21
+# Domains: 1,075 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 0.0.0.0 1escorts.net
 0.0.0.0 2backpage.com
 0.0.0.0 321chat.com
+0.0.0.0 6e1ksudjredns.chicecini.blog
 0.0.0.0 ab.211.ca
 0.0.0.0 acheckerviet.bio
 0.0.0.0 adultforum.co.nz
@@ -92,6 +93,7 @@
 0.0.0.0 bogor.putrispa.com
 0.0.0.0 boldhookups.com
 0.0.0.0 bookgaigoi3.cloud
+0.0.0.0 bookgaigoi4.cloud
 0.0.0.0 booking.appointy.com
 0.0.0.0 botosani.escortes.ro
 0.0.0.0 br.papinho.com
@@ -215,6 +217,7 @@
 0.0.0.0 clonmel.level-web.ru
 0.0.0.0 clover.co
 0.0.0.0 cluj-napoca.escortes.ro
+0.0.0.0 cluj.abcescorte.com
 0.0.0.0 cname.minical.io
 0.0.0.0 coffeemeetsbagel.com
 0.0.0.0 colombiancupid.com
@@ -469,6 +472,7 @@
 0.0.0.0 hotgirlsescortsmallorca.com
 0.0.0.0 hub.xcanto.com
 0.0.0.0 i.streetgirls69.com
+0.0.0.0 iasi.abcescorte.com
 0.0.0.0 iasi.escortepubli.com
 0.0.0.0 ie.xtonight.com
 0.0.0.0 in.loquovip.com
@@ -480,6 +484,7 @@
 0.0.0.0 indiancupid.com
 0.0.0.0 indiaskokka.com
 0.0.0.0 indonesiancupid.com
+0.0.0.0 internationalcupid.com
 0.0.0.0 internationalsexguide.nl
 0.0.0.0 interracialcupid.com
 0.0.0.0 intim-dnepr.net
@@ -556,7 +561,9 @@
 0.0.0.0 locanto.ie
 0.0.0.0 locanto.org
 0.0.0.0 login-sugarbook.rivernotebook.com
+0.0.0.0 london-escort-agency.co.uk
 0.0.0.0 london-ont.bonepage.com
+0.0.0.0 londonescortguide.com
 0.0.0.0 loveplanet.ru
 0.0.0.0 lovescout24.de
 0.0.0.0 lovoo.com
@@ -685,6 +692,7 @@
 0.0.0.0 ometv.chat
 0.0.0.0 omezy.io
 0.0.0.0 omiai-jp.com
+0.0.0.0 omiya.love-life.jp
 0.0.0.0 onlinechatcity.com
 0.0.0.0 onlineedistrict.amtron.in
 0.0.0.0 opa.chat-room.gr
@@ -853,6 +861,7 @@
 0.0.0.0 simplymarry-matrimonial-app.apk.cafe
 0.0.0.0 sindonews.com
 0.0.0.0 singaporelovelinks.com
+0.0.0.0 singleboerse.at
 0.0.0.0 singleboersen-aktuell.de
 0.0.0.0 singleboersen-vergleich.de
 0.0.0.0 siyahinci.net
@@ -891,6 +900,7 @@
 0.0.0.0 sohbetx.net
 0.0.0.0 sohbetyeri.com.tr
 0.0.0.0 sohbetyeri.net
+0.0.0.0 south-carolina.bonepage.com
 0.0.0.0 southafricancupid.com
 0.0.0.0 soyle.net
 0.0.0.0 spinchat.com
@@ -953,6 +963,7 @@
 0.0.0.0 thairoom.ca
 0.0.0.0 thaitalkai.com
 0.0.0.0 thaitalkforex.com
+0.0.0.0 theeroticreview.com
 0.0.0.0 thescortdirectory.com
 0.0.0.0 timbanquanhe.com
 0.0.0.0 timbanvn.com
@@ -965,6 +976,7 @@
 0.0.0.0 topescort.com
 0.0.0.0 topescortitalia.it
 0.0.0.0 topescortnews.eu
+0.0.0.0 toronto.bonepage.com
 0.0.0.0 townsville.5escorts.com
 0.0.0.0 toyohashi.merst.com
 0.0.0.0 trchat.com
@@ -1034,7 +1046,9 @@
 0.0.0.0 whatsyourprice.com
 0.0.0.0 wichita.myescort.network
 0.0.0.0 wikisexguide.com
+0.0.0.0 windsor.bonepage.com
 0.0.0.0 winnipeg.5escorts.ca
+0.0.0.0 winnipeg.bonepage.com
 0.0.0.0 wireclub.com
 0.0.0.0 witness.blackmountaininstitute.org
 0.0.0.0 wollongong.bonepage.com
@@ -1050,6 +1064,7 @@
 0.0.0.0 www.ogloszenia.nowy-sacz.pl
 0.0.0.0 www.sa.locanto.asia
 0.0.0.0 xn----34565-9300ah52c8i5a4tlhzd8z3bgen.mamap.co.kr
+0.0.0.0 xn--escort-kbenhavn-dub.dk
 0.0.0.0 yazgulu.net
 0.0.0.0 yesbackpage.com
 0.0.0.0 yoasobi-heaven.com
@@ -1058,6 +1073,7 @@
 0.0.0.0 za.xtonight.com
 0.0.0.0 zap.struckd.com
 0.0.0.0 zaporojskiy-chat.fosite.ru
+0.0.0.0 zcheckerviet.com
 0.0.0.0 zcheckerviet.vip
 0.0.0.0 znakomstva.ru
 0.0.0.0 znamost.cz

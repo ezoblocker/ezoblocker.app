@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Japan (jp)
-# Domains: 26 | Updated: 2026-10-21
+# Domains: 29 | Updated: 2026-10-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -23,10 +23,13 @@
 0.0.0.0 lovemate.com
 0.0.0.0 lovepiececlub-shop.com
 0.0.0.0 mammothcoffee.com
+0.0.0.0 monsterpub.com
 0.0.0.0 ms-online.co.jp
 0.0.0.0 mzakka.com
+0.0.0.0 picmo.jp
 0.0.0.0 pinktokyo.co.jp
 0.0.0.0 sm003.com
 0.0.0.0 stop.or.jp
+0.0.0.0 thebadpeach.com
 0.0.0.0 usagi-shop.com
 0.0.0.0 usagi-ya.co.jp
