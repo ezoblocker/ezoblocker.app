@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Japan (jp)
-# Domains: 29 | Updated: 2026-10-22
+# Domains: 30 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/adult/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -26,6 +26,7 @@ mammothcoffee.com
 monsterpub.com
 ms-online.co.jp
 mzakka.com
+otona.howcollect.jp
 picmo.jp
 pinktokyo.co.jp
 sm003.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Türkiye (tr)
-# Domains: 95 | Updated: 2026-10-22
+# Domains: 94 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -18,8 +18,6 @@
 *.dizigom.li
 *.diziizle.click
 *.dizilab.to
-*.dizipal1821.com
-*.dizipalorijinal18.com
 *.dizipalorjinal16.com
 *.diziyou.info
 *.diziyou.one
@@ -67,6 +65,7 @@ hdfilm-izle.website.org
 *.mp3indirdur.com.tr
 *.mp3indirdur.pro
 *.netspor.co
+*.netsporhd10.cc
 *.netsportv34.pro
 *.oyunindir.cafe
 *.oyunindir.club

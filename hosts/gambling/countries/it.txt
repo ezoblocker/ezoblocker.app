@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Italy (it)
-# Domains: 23 | Updated: 2026-10-22
+# Domains: 24 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/it.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -15,6 +15,7 @@
 0.0.0.0 mommynotesblogs.com
 0.0.0.0 mondevert.it
 0.0.0.0 mostbet-lk.co
+0.0.0.0 mostbetcasinoit.com
 0.0.0.0 mostbookie.com
 0.0.0.0 oracledodona.it
 0.0.0.0 pinupdatabase.com

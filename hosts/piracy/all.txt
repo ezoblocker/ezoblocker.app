@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 874 | Updated: 2026-10-22
+# Domains: 878 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -181,8 +181,6 @@
 0.0.0.0 diziizle.click
 0.0.0.0 diziizle.wiki
 0.0.0.0 dizilab.to
-0.0.0.0 dizipal1821.com
-0.0.0.0 dizipalorijinal18.com
 0.0.0.0 dizipalorjinal16.com
 0.0.0.0 diziyou.info
 0.0.0.0 diziyou.one
@@ -435,6 +433,7 @@
 0.0.0.0 kooraforus.blogspot.com
 0.0.0.0 kooralive-koora.live
 0.0.0.0 kooralivematch.club
+0.0.0.0 kooramatch.club
 0.0.0.0 koorashootnews.com
 0.0.0.0 kooratop.live
 0.0.0.0 kooratv.club
@@ -485,6 +484,7 @@
 0.0.0.0 lordfilm.fi
 0.0.0.0 lordfilms.pub
 0.0.0.0 lordfilms.pw
+0.0.0.0 m.8513.co.kr
 0.0.0.0 m.acestream.net
 0.0.0.0 m.goalddlive.com
 0.0.0.0 m.kino-sokol.pl
@@ -549,6 +549,7 @@
 0.0.0.0 neizlemeliyiz.cc
 0.0.0.0 netnaija.top
 0.0.0.0 netspor.co
+0.0.0.0 netsporhd10.cc
 0.0.0.0 netsportv34.pro
 0.0.0.0 new.touchcric.com
 0.0.0.0 newtoki.work
@@ -568,6 +569,7 @@
 0.0.0.0 ostoralivehd7.com
 0.0.0.0 otakudesu.blog
 0.0.0.0 otakudesu.io
+0.0.0.0 otakudesu.pw
 0.0.0.0 otakushinden.com
 0.0.0.0 oxtorrent.art
 0.0.0.0 oxtorrent.site
@@ -641,6 +643,7 @@
 0.0.0.0 rawdevart.art
 0.0.0.0 rbdflix.com
 0.0.0.0 rebahinfilm.myr.id
+0.0.0.0 rebahingg.com
 0.0.0.0 rebahinxxi3.mom
 0.0.0.0 redecanais.in
 0.0.0.0 redecanais.solutions
@@ -725,6 +728,7 @@
 0.0.0.0 sportstream.us
 0.0.0.0 sportstream365.com.w3snoop.com
 0.0.0.0 sportstribal.tv
+0.0.0.0 staging.elkford.ca
 0.0.0.0 start.sportdigital.de
 0.0.0.0 streamcode.fit
 0.0.0.0 streameast.to

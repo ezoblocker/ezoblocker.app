@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Adult, South Korea (kr)
-# Domains: 40 | Updated: 2026-10-22
+# Domains: 44 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/kr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 10000w.co.kr
 0.0.0.0 app.catchtable.co.kr
 0.0.0.0 av19urls.com
 0.0.0.0 bananamall.co.kr
@@ -15,6 +16,7 @@
 0.0.0.0 conanddom.com
 0.0.0.0 freebody.co.kr
 0.0.0.0 joynjoy.com
+0.0.0.0 juicycat.kr
 0.0.0.0 jupian.co.kr
 0.0.0.0 juso.one
 0.0.0.0 k386fzx.kiwanisturnhout.be
@@ -29,11 +31,13 @@
 0.0.0.0 nightmall.linkstory.co.kr
 0.0.0.0 onadb.net
 0.0.0.0 pandalive.co.kr
+0.0.0.0 pbtoy.co.kr
 0.0.0.0 pinkboxb2b.com
 0.0.0.0 pinkboxshop.com
 0.0.0.0 pleasist.com
 0.0.0.0 redctn.co.kr
 0.0.0.0 sensbody.co.kr
+0.0.0.0 senstoy.co.kr
 0.0.0.0 sexypet.co.kr
 0.0.0.0 showdang.co.kr
 0.0.0.0 shyman.co.kr

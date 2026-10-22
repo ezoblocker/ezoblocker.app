@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, South Africa (za)
-# Domains: 34 | Updated: 2026-10-22
+# Domains: 37 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,8 +12,10 @@
 0.0.0.0 albonishop.com
 0.0.0.0 cosettes.co.za
 0.0.0.0 deardesire.co.za
+0.0.0.0 eroticmzansi.com
 0.0.0.0 erotikshop.com.tr
 0.0.0.0 houseofcandy.in
+0.0.0.0 kinkaroundme.com
 0.0.0.0 ladyjane.co.za
 0.0.0.0 little-secret.co.za
 0.0.0.0 lizzybliss.co.za
@@ -36,5 +38,6 @@
 0.0.0.0 streamfab.dvdfab.tw
 0.0.0.0 takeapeek.com.au
 0.0.0.0 thecandyshop.com
+0.0.0.0 toendi.com
 0.0.0.0 v-unique.co.za
 0.0.0.0 xanadushop.co.za

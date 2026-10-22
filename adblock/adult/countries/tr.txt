@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Türkiye (tr)
-! Domains: 255 | Updated: 2026-10-22
+! Domains: 264 | Updated: 2026-10-22
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -27,7 +27,6 @@
 ||ankaragrand.com^
 ||ankarasexshop.net^
 ||ankaraxxescort.com^
-||antalyagirls.com^
 ||antalyamood.com^
 ||antalyasexshop.com^
 ||archeoconero.it^
@@ -49,9 +48,11 @@
 ||bestturksgiris.com^
 ||bestturksgiris1.com^
 ||beylikduzuescort.com^
+||beylikduzuescortkadin.com^
 ||bitkiselshop.com.tr^
 ||bodrumangels.com^
 ||bodrumescorttr.com^
+||bodrumtr.com^
 ||bursaelite.com^
 ||canlisex.org^
 ||canlisexsohbethatti.net^
@@ -67,6 +68,7 @@
 ||corumescortred.xyz^
 ||dahahizli160.live^
 ||dame.com^
+||denizliescortbayansitesi.com^
 ||dialogistanbul.com^
 ||discreetlife.ca^
 ||diyarbakirescortkuz.xyz^
@@ -109,11 +111,13 @@
 ||gizliyanim.com^
 ||hdabla.one^
 ||hdabla76.click^
+||hderotik4.blog^
 ||hentaiadam.com^
 ||honeybirdette.com^
 ||hulyahalat.com^
 ||ifsatube46.lat^
 ||ifsatube69.lat^
+||ifsaturk.com^
 ||ifsavideolari.com^
 ||imeldax31.cfd^
 ||iposvnn.com^
@@ -140,6 +144,7 @@
 ||kusadasiindeks.com^
 ||lcwaikiki.de^
 ||linfini.co^
+||loleporno.wtf^
 ||lolitashop.com.tr^
 ||lovelysins.com^
 ||loversstores.com^
@@ -170,6 +175,7 @@
 ||papimlor.site^
 ||papyonshop.com^
 ||pendikseksshop.com^
+||pompatube45.pw^
 ||porno80cj.site^
 ||porno80cl.site^
 ||porno900.click^
@@ -178,10 +184,12 @@
 ||pornocudayi64.com^
 ||pornocukkk.com^
 ||pornoizlehane.com^
+||pornovadi5.cyou^
 ||pornozaz86.online^
 ||positive-vibrations.hr^
 ||pureloveshop.com.tr^
 ||rainvipxescort.net^
+||reit-hentai.com^
 ||rocks-off.com^
 ||romp.toys^
 ||saklikeyf.com^
@@ -246,6 +254,7 @@
 ||vetusti.com^
 ||violetboutique.net^
 ||viperotikfilm2.skin^
+||viperotikfilm4.skin^
 ||vipsa.com^
 ||wanda.best^
 |wvw.betim-guncelgiris.live^

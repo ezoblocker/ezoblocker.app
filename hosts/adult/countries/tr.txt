@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 255 | Updated: 2026-10-22
+# Domains: 264 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -27,7 +27,6 @@
 0.0.0.0 ankaragrand.com
 0.0.0.0 ankarasexshop.net
 0.0.0.0 ankaraxxescort.com
-0.0.0.0 antalyagirls.com
 0.0.0.0 antalyamood.com
 0.0.0.0 antalyasexshop.com
 0.0.0.0 archeoconero.it
@@ -49,9 +48,11 @@
 0.0.0.0 bestturksgiris.com
 0.0.0.0 bestturksgiris1.com
 0.0.0.0 beylikduzuescort.com
+0.0.0.0 beylikduzuescortkadin.com
 0.0.0.0 bitkiselshop.com.tr
 0.0.0.0 bodrumangels.com
 0.0.0.0 bodrumescorttr.com
+0.0.0.0 bodrumtr.com
 0.0.0.0 bursaelite.com
 0.0.0.0 canlisex.org
 0.0.0.0 canlisexsohbethatti.net
@@ -67,6 +68,7 @@
 0.0.0.0 corumescortred.xyz
 0.0.0.0 dahahizli160.live
 0.0.0.0 dame.com
+0.0.0.0 denizliescortbayansitesi.com
 0.0.0.0 dialogistanbul.com
 0.0.0.0 discreetlife.ca
 0.0.0.0 diyarbakirescortkuz.xyz
@@ -109,11 +111,13 @@
 0.0.0.0 gizliyanim.com
 0.0.0.0 hdabla.one
 0.0.0.0 hdabla76.click
+0.0.0.0 hderotik4.blog
 0.0.0.0 hentaiadam.com
 0.0.0.0 honeybirdette.com
 0.0.0.0 hulyahalat.com
 0.0.0.0 ifsatube46.lat
 0.0.0.0 ifsatube69.lat
+0.0.0.0 ifsaturk.com
 0.0.0.0 ifsavideolari.com
 0.0.0.0 imeldax31.cfd
 0.0.0.0 iposvnn.com
@@ -140,6 +144,7 @@
 0.0.0.0 kusadasiindeks.com
 0.0.0.0 lcwaikiki.de
 0.0.0.0 linfini.co
+0.0.0.0 loleporno.wtf
 0.0.0.0 lolitashop.com.tr
 0.0.0.0 lovelysins.com
 0.0.0.0 loversstores.com
@@ -170,6 +175,7 @@
 0.0.0.0 papimlor.site
 0.0.0.0 papyonshop.com
 0.0.0.0 pendikseksshop.com
+0.0.0.0 pompatube45.pw
 0.0.0.0 porno80cj.site
 0.0.0.0 porno80cl.site
 0.0.0.0 porno900.click
@@ -178,10 +184,12 @@
 0.0.0.0 pornocudayi64.com
 0.0.0.0 pornocukkk.com
 0.0.0.0 pornoizlehane.com
+0.0.0.0 pornovadi5.cyou
 0.0.0.0 pornozaz86.online
 0.0.0.0 positive-vibrations.hr
 0.0.0.0 pureloveshop.com.tr
 0.0.0.0 rainvipxescort.net
+0.0.0.0 reit-hentai.com
 0.0.0.0 rocks-off.com
 0.0.0.0 romp.toys
 0.0.0.0 saklikeyf.com
@@ -246,6 +254,7 @@
 0.0.0.0 vetusti.com
 0.0.0.0 violetboutique.net
 0.0.0.0 viperotikfilm2.skin
+0.0.0.0 viperotikfilm4.skin
 0.0.0.0 vipsa.com
 0.0.0.0 wanda.best
 0.0.0.0 wvw.betim-guncelgiris.live

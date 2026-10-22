@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 15,336 | Updated: 2026-10-22
+# Domains: 15,327 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1468,7 +1468,6 @@ bankofamerica-login-system-check.ph
 bankofamerica-login-verify-id20.ph
 bankofamerica-login-verify-id27.ph
 bankofamerica-login-verify-id39.ph
-bankofamerica-login.info
 bankofamerica-secure-backup-claim-account.ph
 bankofamerica-secure-card.ph
 bankofamerica-secure-validation.ph
@@ -2985,7 +2984,6 @@ docusign-secure-document-access-portal.pages.dev
 docusign-tdbank.com.ph
 docusign-via-docusign1.pages.dev
 docusignverif.pages.dev
-docusignverify.cyou
 dogs-listing-deposit-to-exchange-walletconnect.pages.dev
 domaindirect-paypaldetails-applesupport.ph
 domin-metamask-logi.pages.dev
@@ -3664,7 +3662,6 @@ facebook--status-account-locked-unblock-now-link.ph
 facebook--status-account-lockedout-error-check-blocked-delete.ph
 facebook--status-account-lockedout-support2.ph
 facebook--status-account-timeout-warning.ph
-facebook--status-account-warning-issued.ph
 facebook--verification-request.ph
 facebook-account-locked.com.ph
 facebook-account-login-secure-alert-portal.com.ph
@@ -3681,7 +3678,6 @@ facebook-account-verify-login-check-confirm.com.ph
 facebook-account-verify-login-update-support.com.ph
 facebook-admin-alert.ph
 facebook-adminverification-support.ph
-facebook-appeal-portal-recovery.ph
 facebook-banking-xdb.ph
 facebook-banking-zzd.ph
 facebook-case-appeal-forums.ph
@@ -3692,14 +3688,12 @@ facebook-com-group-support-4849505152.ph
 facebook-com-user-verification7878.pages.dev
 facebook-commeta-verification-profile.pages.dev
 facebook-confirm-account.ph
-facebook-confirm-user.ph
 facebook-content-review-support--id10007332141174620543224.pages.dev
 facebook-content-review-support-id100095467290362239664734.pages.dev
 facebook-costumizable-blocked.ph
 facebook-costumizable-warning-26.ph
 facebook-costumizable-warning-30.ph
 facebook-countdown-claim-now.ph
-facebook-countdown-claim-quickly.ph
 facebook-countdown-gift-now.ph
 facebook-countdown-reward-now.ph
 facebook-customer-support-webinar-lo.ph
@@ -4518,6 +4512,7 @@ hardwere-wallet-trzor.pages.dev
 hasil-gov-my.shop
 haven-google-signin-test-20261010.pages.dev
 hdfcbanknetbanking.com
+hdfcbanksmartstatement.com
 hdfcbanksupports.com
 hello-exodus-wallet.pages.dev
 hello-world-green-fog-4a56.app-home365desk-actie-acerdata.workers.dev
@@ -5085,7 +5080,6 @@ hulu-customer-support.pages.dev
 hulu-tv-sign-in.pages.dev
 hulu-tv-sign-up.pages.dev
 hyperswaps-vote-upcoming-rewards-date-treasury-pool-reward.pages.dev
-hyundai-commerzbank.ph
 i-rustcapital-auths.pages.dev
 i-sign-in-trustcapital.pages.dev
 i-signin-trustcapital.pages.dev
@@ -7141,7 +7135,6 @@ lledgerlivewallet-36d.pages.dev
 lledgerlivewallet.pages.dev
 lledgrewallet.pages.dev
 lloyds-secure-update-details.iscafunerals.co.uk
-lloyds.support-uk.online
 lnfo-icloud.support
 lo-metamask-login-web.pages.dev
 load-metamsk-logns.pages.dev
@@ -10192,7 +10185,6 @@ paypai-kundenservice.com
 paypai-security.service-online-david.com
 paypal-account-info.ph
 paypal-accounts-support.ph
-paypal-banking.com.ph
 paypal-banking.org.ph
 paypal-ca-postescanada.viewclaimstatus.info
 paypal-caseid24521.fanduelspottsnetwork.com
@@ -10227,7 +10219,6 @@ paypal-service-verification-required.fanduelsortsnetwork.com
 paypal-submit-verification.fanduelsportsmetwork.com
 paypal-submit.verify-account.mmidubai.com
 paypal-update-info-card-support.ph
-paypal-upgrade.ws
 paypal-verification-accounts.fanduelsporsnetwork.com
 paypal-verification-activity.fanduelportsnetwork.com
 paypal-verified-accounts-hub.pages.dev
@@ -10944,6 +10935,7 @@ roobinhood-login-us.pages.dev
 ros-gibdd-shtraf.ru
 rosy-iphone-login.pages.dev
 royalmail-redelivery.com
+royalmail-redelivery.icu
 rrobinhood-logiin.pages.dev
 rule-robnhood-sign-in.pages.dev
 run-coinbase-login.pages.dev
@@ -14490,7 +14482,6 @@ verify-secure-mobile-banking-bdo.pages.dev
 verify-start-trezrio.pages.dev
 verify.investec-id.live
 verify.usbank-online.workers.dev
-verifypaypal303.com
 verizn-online-help.pages.dev
 verizon-email-login-account.pages.dev
 verizon-email-login-aol.pages.dev

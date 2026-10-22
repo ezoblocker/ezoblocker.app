@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, PK (pk)
-# Domains: 6 | Updated: 2026-10-22
+# Domains: 7 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/pk.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 0.0.0.0 22bet.pk
 0.0.0.0 22betpakistan.com
 0.0.0.0 bonustiime.com
+0.0.0.0 flashyflashy.com
 0.0.0.0 melbet-pk.net
 0.0.0.0 melbetpk.net
 0.0.0.0 mostbetonline.pk

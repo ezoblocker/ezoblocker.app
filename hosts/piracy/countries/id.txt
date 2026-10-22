@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Indonesia (id)
-# Domains: 25 | Updated: 2026-10-22
+# Domains: 27 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/id.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -21,8 +21,10 @@
 0.0.0.0 oploverz.site
 0.0.0.0 otakudesu.blog
 0.0.0.0 otakudesu.io
+0.0.0.0 otakudesu.pw
 0.0.0.0 pusatfilm.id
 0.0.0.0 rebahinfilm.myr.id
+0.0.0.0 rebahingg.com
 0.0.0.0 rebahinxxi3.mom
 0.0.0.0 samehadaku.care
 0.0.0.0 samehadaku.io

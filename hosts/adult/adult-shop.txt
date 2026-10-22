@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,138 | Updated: 2026-10-22
+# Domains: 1,152 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 10000w.co.kr
 0.0.0.0 1001noites.com
 0.0.0.0 112sexshop.com
 0.0.0.0 123sexo.cl
@@ -100,6 +101,7 @@
 0.0.0.0 baocaosu249.com
 0.0.0.0 baocaosuhanoi.vn
 0.0.0.0 baocaosuhp.com
+0.0.0.0 bast-i-test.se
 0.0.0.0 baumwollseil.de
 0.0.0.0 bboutique.co
 0.0.0.0 bdesired.nl
@@ -192,6 +194,7 @@
 0.0.0.0 dame.com
 0.0.0.0 danichou.de
 0.0.0.0 danishblue.com.au
+0.0.0.0 darazcod.com.pk
 0.0.0.0 daraztoy.com.pk
 0.0.0.0 darquepath.com.au
 0.0.0.0 ddurazno.com
@@ -242,6 +245,7 @@
 0.0.0.0 easytoys.pk
 0.0.0.0 easytoys.pl
 0.0.0.0 easytoys.uk
+0.0.0.0 ebaytoy.pk
 0.0.0.0 eclipsiasexshop.com
 0.0.0.0 edd24.de
 0.0.0.0 edelsa.com.pe
@@ -404,6 +408,7 @@
 0.0.0.0 joyn.ch
 0.0.0.0 joynjoy.com
 0.0.0.0 juguetessexualescolombia.com
+0.0.0.0 juicycat.kr
 0.0.0.0 jungfrauplus.de
 0.0.0.0 jungfrauplus.gutscheine7.de
 0.0.0.0 jupian.co.kr
@@ -420,6 +425,7 @@
 0.0.0.0 kazanova.ua
 0.0.0.0 kibana.compactorstore.com
 0.0.0.0 kidsister.ca
+0.0.0.0 kinkaroundme.com
 0.0.0.0 kinkly.com
 0.0.0.0 kinklyapp.com
 0.0.0.0 kinkysexshop.gr
@@ -450,6 +456,7 @@
 0.0.0.0 lavel.com.ua
 0.0.0.0 lcwaikiki.de
 0.0.0.0 leezus.com
+0.0.0.0 lejournalintime.com
 0.0.0.0 lelo.com.pk
 0.0.0.0 lescapricesdalice.fr
 0.0.0.0 lesfoliesducoeur.com
@@ -510,6 +517,7 @@
 0.0.0.0 lovemarket.net
 0.0.0.0 lovemate.com
 0.0.0.0 lovenest.pk
+0.0.0.0 lovenjoy.co.in
 0.0.0.0 lovepiececlub-shop.com
 0.0.0.0 lovers.rs
 0.0.0.0 loversshop.com.au
@@ -590,6 +598,7 @@
 0.0.0.0 miloxshop.gr
 0.0.0.0 mimixtoy.com
 0.0.0.0 mince.nl
+0.0.0.0 mintim.ru
 0.0.0.0 miranda.nl
 0.0.0.0 missclassy.pk
 0.0.0.0 missfantasia.ie
@@ -673,6 +682,7 @@
 0.0.0.0 orionversand.ch
 0.0.0.0 oscarshop.net
 0.0.0.0 other-nature.de
+0.0.0.0 otona.howcollect.jp
 0.0.0.0 ousadias.pt
 0.0.0.0 outonthestreet.ca
 0.0.0.0 ovejanegraboutique.cl
@@ -690,6 +700,7 @@
 0.0.0.0 passionfruit.gr
 0.0.0.0 passionfruitshop.com.au
 0.0.0.0 patxi.es
+0.0.0.0 pbtoy.co.kr
 0.0.0.0 peitschenhandel.de
 0.0.0.0 pendikseksshop.com
 0.0.0.0 pepemio.com
@@ -763,6 +774,7 @@
 0.0.0.0 romanticdepot.com
 0.0.0.0 romantix.com
 0.0.0.0 romp.toys
+0.0.0.0 rosetoys.pk
 0.0.0.0 rosetoyshop.bentoweb.com
 0.0.0.0 ruedesplaisirs.com
 0.0.0.0 rungrung.vn
@@ -809,6 +821,7 @@
 0.0.0.0 sensdessusdessous.be
 0.0.0.0 senserotikshop.com
 0.0.0.0 sensotikashop.com
+0.0.0.0 senstoy.co.kr
 0.0.0.0 sensu.pl
 0.0.0.0 sensuality.mx
 0.0.0.0 sensualsecrets.com.co
@@ -1045,6 +1058,7 @@
 0.0.0.0 tiendavenus.com
 0.0.0.0 tipli.ro
 0.0.0.0 tochka-lubvi.ru
+0.0.0.0 toendi.com
 0.0.0.0 tomrockets.com
 0.0.0.0 tops.co.th
 0.0.0.0 totallyadult.com.au

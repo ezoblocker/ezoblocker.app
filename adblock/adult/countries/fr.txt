@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, France (fr)
-! Domains: 36 | Updated: 2026-10-22
+! Domains: 39 | Updated: 2026-10-22
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/fr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -28,10 +28,12 @@
 ||meilleurduporno.com^
 ||meilleurs.fr^
 ||passagedudesir.com^
+||plan-cul-fr.fr^
 ||plancul-gratuit.fr^
 ||poulpeo.com^
 ||poupee-sexuelle.fr^
 ||puissante.co^
+||rencontre-une-lesbienne.com^
 ||ruedesplaisirs.com^
 ||senea.fr^
 ||senkys.com^
@@ -40,3 +42,4 @@
 ||sinful.fr^
 ||sopigalle.com^
 ||universpharmacie.fr^
+||vivasexe.com^

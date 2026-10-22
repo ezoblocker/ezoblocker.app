@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 313 | Updated: 2026-10-22
+# Domains: 315 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -130,6 +130,7 @@ koora4uyt.blogspot.com
 kooraforus.blogspot.com
 kooralive-koora.live
 kooralivematch.club
+kooramatch.club
 koorashootnews.com
 kooratop.live
 kooratv.club
@@ -173,6 +174,7 @@ multicanaishdtv.com.br
 myvipbox.com
 nbabite.net
 netspor.co
+netsporhd10.cc
 netsportv34.pro
 new.touchcric.com
 nflbite.is

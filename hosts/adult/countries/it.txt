@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Italy (it)
-# Domains: 24 | Updated: 2026-10-22
+# Domains: 25 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/it.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 codicesconto.com
 0.0.0.0 divertity.com
 0.0.0.0 farmamia.net
+0.0.0.0 godofporn.com
 0.0.0.0 hackerpornfest.com
 0.0.0.0 iltempiodellamore.com
 0.0.0.0 justmary.com

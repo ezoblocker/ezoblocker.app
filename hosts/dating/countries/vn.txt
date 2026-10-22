@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Vietnam (vn)
-# Domains: 25 | Updated: 2026-10-22
+# Domains: 26 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 0.0.0.0 bookgaigoi3.cloud
 0.0.0.0 bookgaigoi4.cloud
 0.0.0.0 checkerviet.cc
+0.0.0.0 choigaigoi2.vip
 0.0.0.0 ehenho.com
 0.0.0.0 gaigoi.date
 0.0.0.0 gaigoihaiphong.xyz

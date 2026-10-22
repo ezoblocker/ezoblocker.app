@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Thailand (th)
-# Domains: 19 | Updated: 2026-10-22
+# Domains: 20 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/countries/th.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,4 +22,5 @@ sbfplay.spa.infratest.lrworld.com
 *.ufa365.solutions
 ufabet888-login.app.anabb.org.br
 *.ufabet888.com
+*.unseabet.pink
 *.zlotxo88.net

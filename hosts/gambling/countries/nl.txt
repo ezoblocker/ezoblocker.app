@@ -1,11 +1,15 @@
 # Title: EZOBLOCKER Gambling, Netherlands (nl)
-# Domains: 16 | Updated: 2026-10-22
+# Domains: 20 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/nl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 711sports.be
+0.0.0.0 casinozondercruksportaal.com
+0.0.0.0 casinozondercrukstest.com
+0.0.0.0 casinozondercrukswereld.com
 0.0.0.0 catcasino.nl
+0.0.0.0 intikkertje.nl
 0.0.0.0 kentkgame.cc
 0.0.0.0 legzo.net.lv
 0.0.0.0 luckywv.com

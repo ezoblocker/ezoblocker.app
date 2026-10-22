@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Bypass
-! Domains: 143 | Updated: 2026-10-22
+! Domains: 146 | Updated: 2026-10-22
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/bypass/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -62,6 +62,7 @@
 ||lightningproxies.net^
 |maturita.cermat.cz^
 ||momoproxy.com^
+|msk.ezak.cz^
 ||muaproxyvietnam.com^
 ||naijaproxy.com^
 ||novada.com^
@@ -145,5 +146,7 @@
 |windscribe.valuecom.com^
 ||yasaksiteleregiris.org^
 |yozm.wishket.com^
+|zakazky.eagri.cz^
+|zakazky.usti.cz^
 ||zapret.vercel.app^
 |zend2.rwiki.jp^

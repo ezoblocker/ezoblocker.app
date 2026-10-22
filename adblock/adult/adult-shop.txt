@@ -1,9 +1,10 @@
 ! Title: EZOBLOCKER Adult, adult shops
-! Domains: 1,138 | Updated: 2026-10-22
+! Domains: 1,152 | Updated: 2026-10-22
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/adult-shop.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+||10000w.co.kr^
 ||1001noites.com^
 ||112sexshop.com^
 ||123sexo.cl^
@@ -100,6 +101,7 @@
 ||baocaosu249.com^
 ||baocaosuhanoi.vn^
 ||baocaosuhp.com^
+||bast-i-test.se^
 ||baumwollseil.de^
 ||bboutique.co^
 ||bdesired.nl^
@@ -192,6 +194,7 @@
 ||dame.com^
 ||danichou.de^
 ||danishblue.com.au^
+||darazcod.com.pk^
 ||daraztoy.com.pk^
 ||darquepath.com.au^
 ||ddurazno.com^
@@ -242,6 +245,7 @@
 ||easytoys.pk^
 ||easytoys.pl^
 ||easytoys.uk^
+||ebaytoy.pk^
 ||eclipsiasexshop.com^
 ||edd24.de^
 ||edelsa.com.pe^
@@ -404,6 +408,7 @@
 ||joyn.ch^
 ||joynjoy.com^
 ||juguetessexualescolombia.com^
+||juicycat.kr^
 ||jungfrauplus.de^
 |jungfrauplus.gutscheine7.de^
 ||jupian.co.kr^
@@ -420,6 +425,7 @@
 ||kazanova.ua^
 |kibana.compactorstore.com^
 ||kidsister.ca^
+||kinkaroundme.com^
 ||kinkly.com^
 ||kinklyapp.com^
 ||kinkysexshop.gr^
@@ -450,6 +456,7 @@
 ||lavel.com.ua^
 ||lcwaikiki.de^
 ||leezus.com^
+||lejournalintime.com^
 ||lelo.com.pk^
 ||lescapricesdalice.fr^
 ||lesfoliesducoeur.com^
@@ -510,6 +517,7 @@
 ||lovemarket.net^
 ||lovemate.com^
 ||lovenest.pk^
+||lovenjoy.co.in^
 ||lovepiececlub-shop.com^
 ||lovers.rs^
 ||loversshop.com.au^
@@ -590,6 +598,7 @@
 ||miloxshop.gr^
 ||mimixtoy.com^
 ||mince.nl^
+||mintim.ru^
 ||miranda.nl^
 ||missclassy.pk^
 ||missfantasia.ie^
@@ -673,6 +682,7 @@
 ||orionversand.ch^
 ||oscarshop.net^
 ||other-nature.de^
+|otona.howcollect.jp^
 ||ousadias.pt^
 ||outonthestreet.ca^
 ||ovejanegraboutique.cl^
@@ -690,6 +700,7 @@
 ||passionfruit.gr^
 ||passionfruitshop.com.au^
 ||patxi.es^
+||pbtoy.co.kr^
 ||peitschenhandel.de^
 ||pendikseksshop.com^
 ||pepemio.com^
@@ -763,6 +774,7 @@
 ||romanticdepot.com^
 ||romantix.com^
 ||romp.toys^
+||rosetoys.pk^
 |rosetoyshop.bentoweb.com^
 ||ruedesplaisirs.com^
 ||rungrung.vn^
@@ -809,6 +821,7 @@
 ||sensdessusdessous.be^
 ||senserotikshop.com^
 ||sensotikashop.com^
+||senstoy.co.kr^
 ||sensu.pl^
 ||sensuality.mx^
 ||sensualsecrets.com.co^
@@ -1045,6 +1058,7 @@
 ||tiendavenus.com^
 ||tipli.ro^
 ||tochka-lubvi.ru^
+||toendi.com^
 ||tomrockets.com^
 ||tops.co.th^
 ||totallyadult.com.au^

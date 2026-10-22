@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 15,336 | Updated: 2026-10-22
+# Domains: 15,327 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1468,7 +1468,6 @@
 0.0.0.0 bankofamerica-login-verify-id20.ph
 0.0.0.0 bankofamerica-login-verify-id27.ph
 0.0.0.0 bankofamerica-login-verify-id39.ph
-0.0.0.0 bankofamerica-login.info
 0.0.0.0 bankofamerica-secure-backup-claim-account.ph
 0.0.0.0 bankofamerica-secure-card.ph
 0.0.0.0 bankofamerica-secure-validation.ph
@@ -2985,7 +2984,6 @@
 0.0.0.0 docusign-tdbank.com.ph
 0.0.0.0 docusign-via-docusign1.pages.dev
 0.0.0.0 docusignverif.pages.dev
-0.0.0.0 docusignverify.cyou
 0.0.0.0 dogs-listing-deposit-to-exchange-walletconnect.pages.dev
 0.0.0.0 domaindirect-paypaldetails-applesupport.ph
 0.0.0.0 domin-metamask-logi.pages.dev
@@ -3664,7 +3662,6 @@
 0.0.0.0 facebook--status-account-lockedout-error-check-blocked-delete.ph
 0.0.0.0 facebook--status-account-lockedout-support2.ph
 0.0.0.0 facebook--status-account-timeout-warning.ph
-0.0.0.0 facebook--status-account-warning-issued.ph
 0.0.0.0 facebook--verification-request.ph
 0.0.0.0 facebook-account-locked.com.ph
 0.0.0.0 facebook-account-login-secure-alert-portal.com.ph
@@ -3681,7 +3678,6 @@
 0.0.0.0 facebook-account-verify-login-update-support.com.ph
 0.0.0.0 facebook-admin-alert.ph
 0.0.0.0 facebook-adminverification-support.ph
-0.0.0.0 facebook-appeal-portal-recovery.ph
 0.0.0.0 facebook-banking-xdb.ph
 0.0.0.0 facebook-banking-zzd.ph
 0.0.0.0 facebook-case-appeal-forums.ph
@@ -3692,14 +3688,12 @@
 0.0.0.0 facebook-com-user-verification7878.pages.dev
 0.0.0.0 facebook-commeta-verification-profile.pages.dev
 0.0.0.0 facebook-confirm-account.ph
-0.0.0.0 facebook-confirm-user.ph
 0.0.0.0 facebook-content-review-support--id10007332141174620543224.pages.dev
 0.0.0.0 facebook-content-review-support-id100095467290362239664734.pages.dev
 0.0.0.0 facebook-costumizable-blocked.ph
 0.0.0.0 facebook-costumizable-warning-26.ph
 0.0.0.0 facebook-costumizable-warning-30.ph
 0.0.0.0 facebook-countdown-claim-now.ph
-0.0.0.0 facebook-countdown-claim-quickly.ph
 0.0.0.0 facebook-countdown-gift-now.ph
 0.0.0.0 facebook-countdown-reward-now.ph
 0.0.0.0 facebook-customer-support-webinar-lo.ph
@@ -4518,6 +4512,7 @@
 0.0.0.0 hasil-gov-my.shop
 0.0.0.0 haven-google-signin-test-20261010.pages.dev
 0.0.0.0 hdfcbanknetbanking.com
+0.0.0.0 hdfcbanksmartstatement.com
 0.0.0.0 hdfcbanksupports.com
 0.0.0.0 hello-exodus-wallet.pages.dev
 0.0.0.0 hello-world-green-fog-4a56.app-home365desk-actie-acerdata.workers.dev
@@ -5085,7 +5080,6 @@
 0.0.0.0 hulu-tv-sign-in.pages.dev
 0.0.0.0 hulu-tv-sign-up.pages.dev
 0.0.0.0 hyperswaps-vote-upcoming-rewards-date-treasury-pool-reward.pages.dev
-0.0.0.0 hyundai-commerzbank.ph
 0.0.0.0 i-rustcapital-auths.pages.dev
 0.0.0.0 i-sign-in-trustcapital.pages.dev
 0.0.0.0 i-signin-trustcapital.pages.dev
@@ -7141,7 +7135,6 @@
 0.0.0.0 lledgerlivewallet.pages.dev
 0.0.0.0 lledgrewallet.pages.dev
 0.0.0.0 lloyds-secure-update-details.iscafunerals.co.uk
-0.0.0.0 lloyds.support-uk.online
 0.0.0.0 lnfo-icloud.support
 0.0.0.0 lo-metamask-login-web.pages.dev
 0.0.0.0 load-metamsk-logns.pages.dev
@@ -10192,7 +10185,6 @@
 0.0.0.0 paypai-security.service-online-david.com
 0.0.0.0 paypal-account-info.ph
 0.0.0.0 paypal-accounts-support.ph
-0.0.0.0 paypal-banking.com.ph
 0.0.0.0 paypal-banking.org.ph
 0.0.0.0 paypal-ca-postescanada.viewclaimstatus.info
 0.0.0.0 paypal-caseid24521.fanduelspottsnetwork.com
@@ -10227,7 +10219,6 @@
 0.0.0.0 paypal-submit-verification.fanduelsportsmetwork.com
 0.0.0.0 paypal-submit.verify-account.mmidubai.com
 0.0.0.0 paypal-update-info-card-support.ph
-0.0.0.0 paypal-upgrade.ws
 0.0.0.0 paypal-verification-accounts.fanduelsporsnetwork.com
 0.0.0.0 paypal-verification-activity.fanduelportsnetwork.com
 0.0.0.0 paypal-verified-accounts-hub.pages.dev
@@ -10944,6 +10935,7 @@
 0.0.0.0 ros-gibdd-shtraf.ru
 0.0.0.0 rosy-iphone-login.pages.dev
 0.0.0.0 royalmail-redelivery.com
+0.0.0.0 royalmail-redelivery.icu
 0.0.0.0 rrobinhood-logiin.pages.dev
 0.0.0.0 rule-robnhood-sign-in.pages.dev
 0.0.0.0 run-coinbase-login.pages.dev
@@ -14490,7 +14482,6 @@
 0.0.0.0 verify-start-trezrio.pages.dev
 0.0.0.0 verify.investec-id.live
 0.0.0.0 verify.usbank-online.workers.dev
-0.0.0.0 verifypaypal303.com
 0.0.0.0 verizn-online-help.pages.dev
 0.0.0.0 verizon-email-login-account.pages.dev
 0.0.0.0 verizon-email-login-aol.pages.dev

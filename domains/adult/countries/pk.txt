@@ -1,13 +1,15 @@
 # Title: EZOBLOCKER Adult, PK (pk)
-# Domains: 39 | Updated: 2026-10-22
+# Domains: 42 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/adult/countries/pk.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 bestvibe.pk
 condombazaar.com
+darazcod.com.pk
 daraztoy.com.pk
 easytoys.pk
+ebaytoy.pk
 elegantyou.com.pk
 espicopink.pk
 fetch.com.cy
@@ -30,6 +32,7 @@ missclassy.pk
 noroz.pk
 officialtoys.pk
 prproxy.pro
+rosetoys.pk
 saleone.pk
 sex-live.eu
 sextoypk.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,079 | Updated: 2026-10-22
+# Domains: 1,086 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -97,6 +97,7 @@
 0.0.0.0 booking.appointy.com
 0.0.0.0 botosani.escortes.ro
 0.0.0.0 br.papinho.com
+0.0.0.0 braila.abcescorte.com
 0.0.0.0 braila.escorte66.com
 0.0.0.0 braila.escortela.net
 0.0.0.0 bray.kubuchet.ru
@@ -207,6 +208,7 @@
 0.0.0.0 chernigov.sexysluts24.com
 0.0.0.0 chicago.bonepage.com
 0.0.0.0 chinalovecupid.com
+0.0.0.0 choigaigoi2.vip
 0.0.0.0 christiancupid.com
 0.0.0.0 christianmingle.com
 0.0.0.0 ciddiask.net
@@ -214,6 +216,7 @@
 0.0.0.0 citas-lesbianas.es
 0.0.0.0 cityheaven.net
 0.0.0.0 citysex.ru
+0.0.0.0 cl.loquovip.com
 0.0.0.0 cl.tablago.com
 0.0.0.0 clonmel.level-web.ru
 0.0.0.0 clover.co
@@ -239,6 +242,7 @@
 0.0.0.0 dalechatea.me
 0.0.0.0 dardasha.com
 0.0.0.0 dardasha.net
+0.0.0.0 datings.1st-attractive.com
 0.0.0.0 datingseitenosterreich.at
 0.0.0.0 datingsitekiezen.nl
 0.0.0.0 deai.app-liv.jp
@@ -415,8 +419,10 @@
 0.0.0.0 gaito.uk
 0.0.0.0 gaito16.fit
 0.0.0.0 gaito18.fit
+0.0.0.0 galati.abcescorte.com
 0.0.0.0 galati.escortela.net
 0.0.0.0 gb.banana-chat.com
+0.0.0.0 gbtcoyo.oncucamo.blog
 0.0.0.0 gelchat.net
 0.0.0.0 gemidos.tv
 0.0.0.0 gemidos69.com
@@ -754,6 +760,7 @@
 0.0.0.0 portaleducacional.unisanta.br
 0.0.0.0 portland-me.bonepage.com
 0.0.0.0 portlaoise.superiorcleanerssc.com
+0.0.0.0 prahova.abcescorte.com
 0.0.0.0 prahova.escortepubli.com
 0.0.0.0 prepagos.com
 0.0.0.0 pretoriaescorts.co.za

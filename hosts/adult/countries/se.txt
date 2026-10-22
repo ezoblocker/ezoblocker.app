@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Sweden (se)
-# Domains: 33 | Updated: 2026-10-22
+# Domains: 34 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/se.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 0.0.0.0 afroditebutiken.se
 0.0.0.0 amorina.se
 0.0.0.0 amorina3.se
+0.0.0.0 bast-i-test.se
 0.0.0.0 blup.se
 0.0.0.0 blushme.se
 0.0.0.0 chambersoflove.se

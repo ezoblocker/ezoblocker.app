@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 874 | Updated: 2026-10-22
+! Domains: 878 | Updated: 2026-10-22
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -181,8 +181,6 @@
 ||diziizle.click^
 ||diziizle.wiki^
 ||dizilab.to^
-||dizipal1821.com^
-||dizipalorijinal18.com^
 ||dizipalorjinal16.com^
 ||diziyou.info^
 ||diziyou.one^
@@ -435,6 +433,7 @@
 ||kooraforus.blogspot.com^
 ||kooralive-koora.live^
 ||kooralivematch.club^
+||kooramatch.club^
 ||koorashootnews.com^
 ||kooratop.live^
 ||kooratv.club^
@@ -485,6 +484,7 @@
 ||lordfilm.fi^
 ||lordfilms.pub^
 ||lordfilms.pw^
+|m.8513.co.kr^
 |m.acestream.net^
 |m.goalddlive.com^
 |m.kino-sokol.pl^
@@ -549,6 +549,7 @@
 ||neizlemeliyiz.cc^
 ||netnaija.top^
 ||netspor.co^
+||netsporhd10.cc^
 ||netsportv34.pro^
 |new.touchcric.com^
 ||newtoki.work^
@@ -568,6 +569,7 @@
 ||ostoralivehd7.com^
 ||otakudesu.blog^
 ||otakudesu.io^
+||otakudesu.pw^
 ||otakushinden.com^
 ||oxtorrent.art^
 ||oxtorrent.site^
@@ -641,6 +643,7 @@
 ||rawdevart.art^
 ||rbdflix.com^
 |rebahinfilm.myr.id^
+||rebahingg.com^
 ||rebahinxxi3.mom^
 ||redecanais.in^
 ||redecanais.solutions^
@@ -725,6 +728,7 @@
 ||sportstream.us^
 |sportstream365.com.w3snoop.com^
 ||sportstribal.tv^
+|staging.elkford.ca^
 |start.sportdigital.de^
 ||streamcode.fit^
 ||streameast.to^

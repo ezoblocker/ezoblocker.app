@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Adult, Germany (de)
-# Domains: 58 | Updated: 2026-10-22
+# Domains: 60 | Updated: 2026-10-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/de.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 1a-erotikshops.de
 0.0.0.0 anoeses.com
+0.0.0.0 apornstories.com
 0.0.0.0 askari-jagd.at
 0.0.0.0 baumwollseil.de
 0.0.0.0 beste-onlyfans-models.de
@@ -48,6 +49,7 @@
 0.0.0.0 schwarzer-reiter.com
 0.0.0.0 sex-versand.com
 0.0.0.0 sexcam-hub.net
+0.0.0.0 sexchat-gutscheine.com
 0.0.0.0 sexchatroom.de
 0.0.0.0 sexshopberlin.com
 0.0.0.0 sinful.de
