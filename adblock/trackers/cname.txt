@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Trackers, cname
-! Domains: 158 | Updated: 2026-10-22
+! Domains: 159 | Updated: 2026-10-22
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/trackers/cname.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -115,6 +115,7 @@
 ||smartproxy.dataunlocker.com^
 ||soureicdn.com^
 ||sst.ibos.agency^
+||sst.metrito.com^
 ||sstsimprosys.com^
 ||st-tammany-health-domain.oursprivacy.com^
 ||stape.ai^
