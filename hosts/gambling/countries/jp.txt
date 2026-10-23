@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Japan (jp)
-# Domains: 30 | Updated: 2026-10-23
+# Domains: 31 | Updated: 2026-10-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,6 +22,7 @@
 0.0.0.0 japan-101.com
 0.0.0.0 joycasino-blog.com
 0.0.0.0 k8casino.info
+0.0.0.0 kajinojapan10.com
 0.0.0.0 keichannosato.com
 0.0.0.0 minnano-casino.com
 0.0.0.0 mystino-japan77.com

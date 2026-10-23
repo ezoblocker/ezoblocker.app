@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 364 | Updated: 2026-10-23
+# Domains: 366 | Updated: 2026-10-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -48,6 +48,7 @@ bumpmatch.jetboy.jp
 *.camsurf.com
 *.camsurf.tv
 career.hyperconnect.com
+cca.mhcc.com
 *.cennetim.com
 chat.europnet.org
 *.chat.gen.tr
@@ -100,6 +101,7 @@ chatroom.j471n.in
 *.chatroom.nl
 *.chatroom2000.de
 *.chatroomcorner.com
+*.chatroomguide.jp
 *.chatrooms.com.pk
 *.chatrooms.global
 *.chatrooms.pk

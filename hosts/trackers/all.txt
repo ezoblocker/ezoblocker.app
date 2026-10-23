@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 671 | Updated: 2026-10-23
+# Domains: 674 | Updated: 2026-10-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -55,6 +55,7 @@
 0.0.0.0 adtracking.geouniq.com
 0.0.0.0 adtrackingdev.d2dsuite.com
 0.0.0.0 adtrackingqa.d2dsuite.com
+0.0.0.0 advalo.com
 0.0.0.0 advalo.in
 0.0.0.0 af.enercity.de
 0.0.0.0 ahdmw.com
@@ -115,6 +116,7 @@
 0.0.0.0 brello-domain.oursprivacy.com
 0.0.0.0 buusjcvujpo-pwt.donlgx.net
 0.0.0.0 ca.alketech.eu
+0.0.0.0 capialmap.com
 0.0.0.0 capig.datah04.com
 0.0.0.0 capig.taggrs.cloud
 0.0.0.0 capig.usehardal.com
@@ -122,6 +124,7 @@
 0.0.0.0 cdn-settings.af-sdk.net
 0.0.0.0 cdn.adtriba.com
 0.0.0.0 cdn.exactag.com
+0.0.0.0 cdn.kawaitrack.com
 0.0.0.0 cdn.lamp.avct.cloud
 0.0.0.0 cdn.visits.dqapis.com
 0.0.0.0 cdp.cloud.unity3d.com

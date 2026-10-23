@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Russia (ru)
-# Domains: 78 | Updated: 2026-10-23
+# Domains: 85 | Updated: 2026-10-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/ru.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,9 +11,11 @@
 0.0.0.0 chatroulette.ru
 0.0.0.0 chelyabinsk1.5intim.com
 0.0.0.0 citysex.ru
+0.0.0.0 dosug-omsk.com
 0.0.0.0 dosug-omsk.net
 0.0.0.0 dosug.relax-kzn.top
 0.0.0.0 dosug777-go.com
+0.0.0.0 dosugbar110.com
 0.0.0.0 dosugbar34.org
 0.0.0.0 dosugbar72.com
 0.0.0.0 dosugbarchl.com
@@ -44,8 +46,10 @@
 0.0.0.0 kazan.artmetall26.ru
 0.0.0.0 kazan1.5intim.com
 0.0.0.0 krasnodarindividualki.com
+0.0.0.0 kry.pack-yo-bag.ru
 0.0.0.0 loveplanet.ru
 0.0.0.0 m.intimatlas.cz
+0.0.0.0 m.intimstory.com
 0.0.0.0 mamba.ru
 0.0.0.0 mob.badanga.org
 0.0.0.0 perm.5intim.com
@@ -59,6 +63,7 @@
 0.0.0.0 prostitutkinovosibirsk.ru
 0.0.0.0 prostitutkirostovaget.com
 0.0.0.0 prostitutkisamary.me
+0.0.0.0 prostitutkisamarykiss.com
 0.0.0.0 prostitutkivlg.com
 0.0.0.0 prostitutkivoronezh.com
 0.0.0.0 putana74.net
@@ -81,4 +86,6 @@
 0.0.0.0 tyumen.sexysluts24.com
 0.0.0.0 ufa.art-septik.ru
 0.0.0.0 videochatru.com
+0.0.0.0 volgograd-individualki-xes.click
+0.0.0.0 xxx-prostitutki.com
 0.0.0.0 znakomstva.ru

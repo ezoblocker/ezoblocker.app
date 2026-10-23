@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 626 | Updated: 2026-10-23
+# Domains: 623 | Updated: 2026-10-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -300,7 +300,6 @@
 0.0.0.0 gadsme.gg
 0.0.0.0 gateway-b.offerwall.unity3d.com
 0.0.0.0 gateway.prod.anzu-us.com
-0.0.0.0 gbid.mediagotechnology.com
 0.0.0.0 gdl.bytegle.site
 0.0.0.0 gexperiments1.com
 0.0.0.0 gexperiments2.com
@@ -312,7 +311,6 @@
 0.0.0.0 ghb.hb.streamkey.net
 0.0.0.0 ghb.pgamssp.com
 0.0.0.0 gmediation.com
-0.0.0.0 go.mediagotechnology.com
 0.0.0.0 goldplayer.prod.gbadtech.io
 0.0.0.0 googletagservices.com
 0.0.0.0 growone.sg
@@ -535,7 +533,6 @@
 0.0.0.0 static.bettergroup.fr
 0.0.0.0 static.go2perseo.com
 0.0.0.0 static.highvibes.media
-0.0.0.0 static.mediagotechnology.com
 0.0.0.0 static.recod3suite.com
 0.0.0.0 static.retailspotads.com
 0.0.0.0 static2.creative-serving.org

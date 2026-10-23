@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Indonesia (id)
-# Domains: 25 | Updated: 2026-10-23
+# Domains: 26 | Updated: 2026-10-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/id.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -19,6 +19,7 @@
 0.0.0.0 liga88core.com
 0.0.0.0 linksitusbola.com
 0.0.0.0 liveateastgategardens.com
+0.0.0.0 livingwaterservice.com
 0.0.0.0 maxbet.club
 0.0.0.0 mpo88-amanah.com
 0.0.0.0 nailsocietyspaashburn.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, ad exchange endpoints from Prebid.js / Prebid Server adapters
-# Domains: 283 | Updated: 2026-10-23
+# Domains: 280 | Updated: 2026-10-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/prebid.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -117,13 +117,11 @@
 0.0.0.0 ferio.bid
 0.0.0.0 fran.frvr.com
 0.0.0.0 g.ezoic.net
-0.0.0.0 gbid.mediagotechnology.com
 0.0.0.0 ghb.app.copper6.com
 0.0.0.0 ghb.bidder.jmgads.com
 0.0.0.0 ghb.console.indicue.com
 0.0.0.0 ghb.hb.streamkey.net
 0.0.0.0 ghb.pgamssp.com
-0.0.0.0 go.mediagotechnology.com
 0.0.0.0 goldplayer.prod.gbadtech.io
 0.0.0.0 gum.aidemsrv.com
 0.0.0.0 harrenmedia.pbsadverxo.com
@@ -234,7 +232,6 @@
 0.0.0.0 ssp.dauup.com
 0.0.0.0 ssp.disqus.com
 0.0.0.0 stackup-prebid.attekmi.co
-0.0.0.0 static.mediagotechnology.com
 0.0.0.0 sync-ssp.adsmovil.com
 0.0.0.0 sync.adipolo.live
 0.0.0.0 sync.apester.com

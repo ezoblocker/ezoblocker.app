@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 878 | Updated: 2026-10-23
+# Domains: 880 | Updated: 2026-10-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -181,7 +181,6 @@ directory.acci.gr
 *.diziizle.click
 *.diziizle.wiki
 *.dizilab.to
-*.dizipalorjinal16.com
 *.diziyou.info
 *.diziyou.one
 *.diziyou.vip
@@ -371,6 +370,7 @@ iptv-portugal.youcan.store
 *.iptvportugal.com.pt
 *.iptvsmarter.irish
 *.iptvukservice.com
+*.irishiptv.info
 *.irishiptv.irish
 *.isaimini.beauty
 *.isaimini.doctor
@@ -776,6 +776,7 @@ task.joby.com
 *.thenetnaija.com.ng
 *.thenetnaija.ng
 *.tirexo.al
+*.today-yalla-shoot.com
 *.toonitalia.space
 *.topflix.com.br
 *.topflix.ia.br
@@ -856,6 +857,7 @@ ww1.pelis24.blog
 *.www-mangadex.org
 www.kino.nowytarg.pl
 www.tosho3704.tokyo-bousai.or.jp
+www2.gema.org
 *.xoilac1.help
 *.xoilac3.cc
 *.xoilac5.top

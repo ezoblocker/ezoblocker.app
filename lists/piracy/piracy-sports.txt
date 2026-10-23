@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 315 | Updated: 2026-10-23
+# Domains: 316 | Updated: 2026-10-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -273,6 +273,7 @@ t.matec.kr
 *.tarjetarojatv.mobi
 *.tarjetarojatvhd.live
 *.tarjetarojatvonline.site
+*.today-yalla-shoot.com
 *.totalsportek1.is
 *.totalsporteki.fit
 *.totalsportekl.is

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, South Africa (za)
-# Domains: 37 | Updated: 2026-10-23
+# Domains: 36 | Updated: 2026-10-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -29,7 +29,6 @@
 0.0.0.0 mirror.kumi.systems
 0.0.0.0 moodtime.co.za
 0.0.0.0 mysexshop.co.za
-0.0.0.0 mzansiporn.mobi
 0.0.0.0 nyobarings.com
 0.0.0.0 oliviagrey.co.za
 0.0.0.0 onenightonly.co.za

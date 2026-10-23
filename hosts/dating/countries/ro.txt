@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Dating, Romania (ro)
-# Domains: 21 | Updated: 2026-10-23
+# Domains: 22 | Updated: 2026-10-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/ro.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 botosani.abcescorte.com
 0.0.0.0 botosani.escortes.ro
 0.0.0.0 braila.abcescorte.com
 0.0.0.0 braila.escorte66.com

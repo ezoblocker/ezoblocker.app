@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,152 | Updated: 2026-10-23
+# Domains: 1,161 | Updated: 2026-10-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -73,7 +73,6 @@
 0.0.0.0 annsummers.com
 0.0.0.0 anoeses.com
 0.0.0.0 anonimshop.com
-0.0.0.0 antalyasexshop.com
 0.0.0.0 aphroditi.gr
 0.0.0.0 armonishop.com
 0.0.0.0 arzumshop.com.tr
@@ -173,12 +172,14 @@
 0.0.0.0 cocolamar.be
 0.0.0.0 codicesconto.com
 0.0.0.0 comeasyouare.com
+0.0.0.0 comic.sumikko.info
 0.0.0.0 comparar.net
 0.0.0.0 conanddom.com
 0.0.0.0 concordelove.fr
 0.0.0.0 condom69.net
 0.0.0.0 condombazaar.com
 0.0.0.0 condonesmix.com
+0.0.0.0 connect-shokai.jp
 0.0.0.0 control.pt
 0.0.0.0 corner69.hr
 0.0.0.0 corse.mx
@@ -341,6 +342,7 @@
 0.0.0.0 gall.com.br
 0.0.0.0 gayout.com
 0.0.0.0 gaystore.fr
+0.0.0.0 gecekutusu.com
 0.0.0.0 geilstore.com
 0.0.0.0 gemaonlinestore.com
 0.0.0.0 gigo.com.co
@@ -371,6 +373,7 @@
 0.0.0.0 hushcanada.com
 0.0.0.0 hustlerhollywood.com
 0.0.0.0 hypnoze.fr
+0.0.0.0 icgiyimist.com
 0.0.0.0 ideedudesir.fr
 0.0.0.0 iloveboutique.com.au
 0.0.0.0 iltempiodellamore.com
@@ -397,6 +400,7 @@
 0.0.0.0 itspleasure.in
 0.0.0.0 itspleazure.com
 0.0.0.0 jaloo.es
+0.0.0.0 jamisonmeats.com
 0.0.0.0 japijane.cl
 0.0.0.0 javtoys.com
 0.0.0.0 jenylove.cl
@@ -602,6 +606,7 @@
 0.0.0.0 miranda.nl
 0.0.0.0 missclassy.pk
 0.0.0.0 missfantasia.ie
+0.0.0.0 missmary.com
 0.0.0.0 misssteel.nl
 0.0.0.0 mistercock.pt
 0.0.0.0 mixsextoy.com
@@ -673,6 +678,7 @@
 0.0.0.0 onlinefuntoys.com
 0.0.0.0 onlinesexshop.se
 0.0.0.0 ontopoflove.nl
+0.0.0.0 onyxsolar.es
 0.0.0.0 ophelialingerie.ie
 0.0.0.0 oppsystore.com
 0.0.0.0 orchidtoys.com
@@ -734,6 +740,7 @@
 0.0.0.0 pocztakubkowa.pl
 0.0.0.0 polunichka.ua
 0.0.0.0 ponchik.com.ua
+0.0.0.0 popup-ireland.com
 0.0.0.0 portoxxi.com
 0.0.0.0 positive-vibrations.hr
 0.0.0.0 poulpeo.com
@@ -1011,6 +1018,7 @@
 0.0.0.0 spicerack.market
 0.0.0.0 stagshop.com
 0.0.0.0 stay-on.co
+0.0.0.0 steeltoyz.com
 0.0.0.0 stopi.pk
 0.0.0.0 stripmag.ru
 0.0.0.0 styleplanet.com
@@ -1091,6 +1099,7 @@
 0.0.0.0 untamed.love
 0.0.0.0 usagi-shop.com
 0.0.0.0 usagi-ya.co.jp
+0.0.0.0 uskudarshop.com
 0.0.0.0 v-unique.co.za
 0.0.0.0 valdodubra.com
 0.0.0.0 valledelplacer.cl

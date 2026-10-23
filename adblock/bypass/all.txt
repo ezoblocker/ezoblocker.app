@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Bypass
-! Domains: 146 | Updated: 2026-10-23
+! Domains: 147 | Updated: 2026-10-23
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/bypass/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -115,6 +115,7 @@
 ||snapvpn.net^
 ||softether.jp^
 ||softether.org^
+|staging.elkford.ca^
 ||swissvpn.co^
 |talk.getindico.io^
 ||torprojectstatus.org^

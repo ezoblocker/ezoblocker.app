@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 159 | Updated: 2026-10-23
+# Domains: 162 | Updated: 2026-10-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 0.0.0.0 207.net
 0.0.0.0 250analytics.com
 0.0.0.0 activitystream.com
+0.0.0.0 advalo.com
 0.0.0.0 advalo.in
 0.0.0.0 alma-domain.oursprivacy.com
 0.0.0.0 analytics.usehardal.com
@@ -29,10 +30,12 @@
 0.0.0.0 birchub.events
 0.0.0.0 birchub.us
 0.0.0.0 brello-domain.oursprivacy.com
+0.0.0.0 capialmap.com
 0.0.0.0 capig.datah04.com
 0.0.0.0 capig.taggrs.cloud
 0.0.0.0 capig.usehardal.com
 0.0.0.0 capisearchlaboratory.com
+0.0.0.0 cdn.kawaitrack.com
 0.0.0.0 cerebro.services
 0.0.0.0 cm4l4nnzk0007nbvfvact8d7p-signal.usehardal.com
 0.0.0.0 cm4setzmy00096kyek6qmxkba-signal.usehardal.com

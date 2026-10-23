@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Ireland (ie)
-# Domains: 27 | Updated: 2026-10-23
+# Domains: 28 | Updated: 2026-10-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/ie.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -23,6 +23,7 @@
 0.0.0.0 iptvireland.io
 0.0.0.0 iptvirelandpro.irish
 0.0.0.0 iptvsmarter.irish
+0.0.0.0 irishiptv.info
 0.0.0.0 irishiptv.irish
 0.0.0.0 mangakakalot.to
 0.0.0.0 smartiptv.irish
