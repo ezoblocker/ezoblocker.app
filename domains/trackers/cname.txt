@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 162 | Updated: 2026-10-24
+# Domains: 171 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,6 +12,8 @@ advalo.com
 advalo.in
 alma-domain.oursprivacy.com
 analytics.usehardal.com
+apachedigital.io
+api.easytracker.digital
 app-whitelabel.usermaven.com
 at-o.net
 attntags.com
@@ -47,9 +49,11 @@ cname.adsu.ai
 cname.jitsu.com
 cname.trackgo.io
 cname.truemetrics.eu
+cnci.tech
 connect.bonicbd.com
 corewell-health-domain.oursprivacy.com
 custom.plausible.io
+custom.withcabin.com
 customer.etracker.com
 data.tagual.com
 dnsdelegation.io
@@ -70,16 +74,20 @@ getclicky.com
 gnetworks.xyz
 goatcounter.com
 gtm.quarx.uk
+hard.al
 hitbox.com
 hosting.jitsu.com
+innocraft.cloud
 iocnt.net
 jtracs.com
 kib.hu
 kueez.website
 madgicx.ai
+metrics.brandnamic.tech
 mr-in.com
 mtra.in
 mytrackgo.com
+net.brandnamic.tech
 oghub.io
 opsone-analytics.ch
 out.seline.com
@@ -160,6 +168,7 @@ us.sgtm.space
 usercentrics-sst.io
 usercentrics.io
 utiq-aws.net
+web-tracking.eu
 webtrekk.net
 whitelabel.usermaven.com
 wizaly.com

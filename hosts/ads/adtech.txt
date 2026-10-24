@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, adtech
-# Domains: 306 | Updated: 2026-10-24
+# Domains: 310 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/adtech.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,11 +16,11 @@
 0.0.0.0 adcentricagency.com
 0.0.0.0 adcentricsolutions.com
 0.0.0.0 adctrl.com
+0.0.0.0 adloader.aidemsrv.com
 0.0.0.0 adplugg.io
 0.0.0.0 ads-cdn-3p.digitalturbine.com
 0.0.0.0 ads-cdn.digitalturbine.com
 0.0.0.0 ads-sys.com
-0.0.0.0 ads.adsrv.as
 0.0.0.0 ads.adswag.ai
 0.0.0.0 ads.innovativeadserver.com
 0.0.0.0 ads.metroparent.com
@@ -31,10 +31,12 @@
 0.0.0.0 ads.thechannelstore.tv
 0.0.0.0 ads.use.madsense.io
 0.0.0.0 ads2.innovativeadserver.com
+0.0.0.0 adserver.axelspringer.ad
 0.0.0.0 adserver.helpoid.ai
 0.0.0.0 adservermedia4.com
 0.0.0.0 adservermedia5.com
 0.0.0.0 adservice.google.com.cy
+0.0.0.0 adsrv.as
 0.0.0.0 adstudio-cdn.asklocala.com
 0.0.0.0 adtech-host2.com
 0.0.0.0 adtech-host3.com
@@ -173,6 +175,7 @@
 0.0.0.0 grxchange.gr
 0.0.0.0 gtarget.info
 0.0.0.0 hcurvecdn.com
+0.0.0.0 hermes.aidemsrv.com
 0.0.0.0 hubdsp.com
 0.0.0.0 hueserver.com
 0.0.0.0 hyj.mobi
@@ -305,6 +308,7 @@
 0.0.0.0 vondos04.com
 0.0.0.0 vondos05.com
 0.0.0.0 vondosadsrv.com
+0.0.0.0 warp90.com
 0.0.0.0 webmedia.chicos.com
 0.0.0.0 webmedia.johnvarvatos.com
 0.0.0.0 www.mnetads.net

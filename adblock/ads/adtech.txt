@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Ads, adtech
-! Domains: 306 | Updated: 2026-10-24
+! Domains: 310 | Updated: 2026-10-24
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/ads/adtech.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,11 +16,11 @@
 ||adcentricagency.com^
 ||adcentricsolutions.com^
 ||adctrl.com^
+||adloader.aidemsrv.com^
 ||adplugg.io^
 ||ads-cdn-3p.digitalturbine.com^
 ||ads-cdn.digitalturbine.com^
 ||ads-sys.com^
-||ads.adsrv.as^
 ||ads.adswag.ai^
 ||ads.innovativeadserver.com^
 ||ads.metroparent.com^
@@ -31,10 +31,12 @@
 ||ads.thechannelstore.tv^
 ||ads.use.madsense.io^
 ||ads2.innovativeadserver.com^
+||adserver.axelspringer.ad^
 ||adserver.helpoid.ai^
 ||adservermedia4.com^
 ||adservermedia5.com^
 ||adservice.google.com.cy^
+||adsrv.as^
 ||adstudio-cdn.asklocala.com^
 ||adtech-host2.com^
 ||adtech-host3.com^
@@ -173,6 +175,7 @@
 ||grxchange.gr^
 ||gtarget.info^
 ||hcurvecdn.com^
+||hermes.aidemsrv.com^
 ||hubdsp.com^
 ||hueserver.com^
 ||hyj.mobi^
@@ -305,6 +308,7 @@
 ||vondos04.com^
 ||vondos05.com^
 ||vondosadsrv.com^
+||warp90.com^
 ||webmedia.chicos.com^
 ||webmedia.johnvarvatos.com^
 ||www.mnetads.net^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 880 | Updated: 2026-10-24
+# Domains: 881 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -124,6 +124,7 @@
 0.0.0.0 ccuevana.today
 0.0.0.0 cepi.cb.ce.gov.br
 0.0.0.0 cgboard.raysworld.ch
+0.0.0.0 chauder.biz
 0.0.0.0 chunga.inpiad.co.kr
 0.0.0.0 cima4u-offcial.cyou
 0.0.0.0 cima4u.app

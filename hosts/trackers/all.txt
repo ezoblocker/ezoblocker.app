@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 674 | Updated: 2026-10-24
+# Domains: 687 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -67,7 +67,9 @@
 0.0.0.0 analytics.mobileacademy.com
 0.0.0.0 analytics.rezonence.com
 0.0.0.0 analytics.usehardal.com
+0.0.0.0 apachedigital.io
 0.0.0.0 api.assertcom.de
+0.0.0.0 api.easytracker.digital
 0.0.0.0 api.edkt.io
 0.0.0.0 api.segment.io
 0.0.0.0 api.webgains.io
@@ -140,6 +142,7 @@
 0.0.0.0 cname.jitsu.com
 0.0.0.0 cname.trackgo.io
 0.0.0.0 cname.truemetrics.eu
+0.0.0.0 cnci.tech
 0.0.0.0 collect.saas.castbox.fm
 0.0.0.0 collector.pbimetrics.com
 0.0.0.0 commander1.com
@@ -155,6 +158,7 @@
 0.0.0.0 corewell-health-domain.oursprivacy.com
 0.0.0.0 cptrack.de
 0.0.0.0 custom.plausible.io
+0.0.0.0 custom.withcabin.com
 0.0.0.0 customer.etracker.com
 0.0.0.0 d1fcoizt7mje85.cloudfront.net
 0.0.0.0 d2epnp0vokbtl7.cloudfront.net
@@ -204,6 +208,7 @@
 0.0.0.0 gnetworks.xyz
 0.0.0.0 goatcounter.com
 0.0.0.0 gtm.quarx.uk
+0.0.0.0 hard.al
 0.0.0.0 hb-fwfou.donlgx.net
 0.0.0.0 hitbox.com
 0.0.0.0 hosting.jitsu.com
@@ -211,11 +216,13 @@
 0.0.0.0 impptk.com
 0.0.0.0 inapps.af-sdk.net
 0.0.0.0 inistrack.net
+0.0.0.0 innocraft.cloud
 0.0.0.0 intelos.io
 0.0.0.0 iocnt.net
 0.0.0.0 jajsy.pareci.net
 0.0.0.0 js.retailor.media
 0.0.0.0 jtracs.com
+0.0.0.0 kcc0.com
 0.0.0.0 kib.hu
 0.0.0.0 koalametrics.com
 0.0.0.0 kueez.website
@@ -225,6 +232,7 @@
 0.0.0.0 marketing.net.brillen.at
 0.0.0.0 marketing.net.steiner-vision.de
 0.0.0.0 mbyid.com
+0.0.0.0 measure.flowbymisgroup.com
 0.0.0.0 media.mytaxprepoffice.com
 0.0.0.0 media.tumi.com
 0.0.0.0 media.tumi.de
@@ -232,6 +240,7 @@
 0.0.0.0 media.vikingrivercruises.com
 0.0.0.0 media01.eu
 0.0.0.0 mediamonitoring.in
+0.0.0.0 metrics.brandnamic.tech
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 metrics.skoiy.xyz
 0.0.0.0 mmtro.com
@@ -245,6 +254,7 @@
 0.0.0.0 mytrackgo.com
 0.0.0.0 myweb3id.io
 0.0.0.0 neory-tm.net
+0.0.0.0 net.brandnamic.tech
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 now-tracking.com
 0.0.0.0 nt.vc
@@ -522,6 +532,7 @@
 0.0.0.0 tracker.dataseat.com
 0.0.0.0 tracker.mdspinc.com
 0.0.0.0 tracker.platform.jobster.com
+0.0.0.0 tracker.secure-hotel-booking.com
 0.0.0.0 tracking-useast.tmbid.com
 0.0.0.0 tracking.lbtvreport.com
 0.0.0.0 tracking.smartmeanalytics.com
@@ -547,6 +558,7 @@
 0.0.0.0 trck.carbonify.de
 0.0.0.0 trck.checkdomain.de
 0.0.0.0 trck.cyberport.at
+0.0.0.0 trck.demomarkt.de
 0.0.0.0 trck.deutsche-bank.de
 0.0.0.0 trck.dogado.de
 0.0.0.0 trck.e-wie-einfach.de
@@ -664,6 +676,7 @@
 0.0.0.0 verify.locsci.io
 0.0.0.0 veritonicmetrics.com
 0.0.0.0 volasim.com
+0.0.0.0 web-tracking.eu
 0.0.0.0 weborama.nl
 0.0.0.0 webtrekk.net
 0.0.0.0 whitelabel.usermaven.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 162 | Updated: 2026-10-24
+# Domains: 171 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,6 +12,8 @@
 0.0.0.0 advalo.in
 0.0.0.0 alma-domain.oursprivacy.com
 0.0.0.0 analytics.usehardal.com
+0.0.0.0 apachedigital.io
+0.0.0.0 api.easytracker.digital
 0.0.0.0 app-whitelabel.usermaven.com
 0.0.0.0 at-o.net
 0.0.0.0 attntags.com
@@ -47,9 +49,11 @@
 0.0.0.0 cname.jitsu.com
 0.0.0.0 cname.trackgo.io
 0.0.0.0 cname.truemetrics.eu
+0.0.0.0 cnci.tech
 0.0.0.0 connect.bonicbd.com
 0.0.0.0 corewell-health-domain.oursprivacy.com
 0.0.0.0 custom.plausible.io
+0.0.0.0 custom.withcabin.com
 0.0.0.0 customer.etracker.com
 0.0.0.0 data.tagual.com
 0.0.0.0 dnsdelegation.io
@@ -70,16 +74,20 @@
 0.0.0.0 gnetworks.xyz
 0.0.0.0 goatcounter.com
 0.0.0.0 gtm.quarx.uk
+0.0.0.0 hard.al
 0.0.0.0 hitbox.com
 0.0.0.0 hosting.jitsu.com
+0.0.0.0 innocraft.cloud
 0.0.0.0 iocnt.net
 0.0.0.0 jtracs.com
 0.0.0.0 kib.hu
 0.0.0.0 kueez.website
 0.0.0.0 madgicx.ai
+0.0.0.0 metrics.brandnamic.tech
 0.0.0.0 mr-in.com
 0.0.0.0 mtra.in
 0.0.0.0 mytrackgo.com
+0.0.0.0 net.brandnamic.tech
 0.0.0.0 oghub.io
 0.0.0.0 opsone-analytics.ch
 0.0.0.0 out.seline.com
@@ -160,6 +168,7 @@
 0.0.0.0 usercentrics-sst.io
 0.0.0.0 usercentrics.io
 0.0.0.0 utiq-aws.net
+0.0.0.0 web-tracking.eu
 0.0.0.0 webtrekk.net
 0.0.0.0 whitelabel.usermaven.com
 0.0.0.0 wizaly.com

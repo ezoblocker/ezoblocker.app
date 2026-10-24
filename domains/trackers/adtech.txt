@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, adtech
-# Domains: 452 | Updated: 2026-10-24
+# Domains: 456 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/trackers/adtech.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -111,11 +111,13 @@ img.odbot.co.uk
 impptk.com
 inistrack.net
 js.retailor.media
+kcc0.com
 koalametrics.com
 m.exactag.com
 marketing.net.brillen.at
 marketing.net.steiner-vision.de
 mbyid.com
+measure.flowbymisgroup.com
 media.mytaxprepoffice.com
 media.tumi.com
 media.tumi.de
@@ -318,6 +320,7 @@ track.subserohost.com
 tracker.dataseat.com
 tracker.mdspinc.com
 tracker.platform.jobster.com
+tracker.secure-hotel-booking.com
 tracking.lbtvreport.com
 tracking.smartmeanalytics.com
 trackingintegral.com
@@ -340,6 +343,7 @@ trck.bvbonlineshop.com
 trck.carbonify.de
 trck.checkdomain.de
 trck.cyberport.at
+trck.demomarkt.de
 trck.deutsche-bank.de
 trck.dogado.de
 trck.e-wie-einfach.de

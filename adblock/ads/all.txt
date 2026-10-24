@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Ads
-! Domains: 623 | Updated: 2026-10-24
+! Domains: 627 | Updated: 2026-10-24
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/ads/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -28,6 +28,7 @@
 ||adctrl.com^
 |addigi-prebid.attekmi.co^
 |adinify-prebid.attekmi.co^
+||adloader.aidemsrv.com^
 |adlywise-prebid.attekmi.co^
 |adm.vidyome.com^
 |adn-srv.reckoner-api.com^
@@ -53,7 +54,6 @@
 |ads-pbs.scotty.orangeclickmedia.com^
 |ads-sg.momagic.com^
 ||ads-sys.com^
-||ads.adsrv.as^
 ||ads.adswag.ai^
 |ads.avct.cloud^
 |ads.biddertmz.com^
@@ -71,10 +71,12 @@
 |ads.thenexusengine.com^
 ||ads.use.madsense.io^
 ||ads2.innovativeadserver.com^
+||adserver.axelspringer.ad^
 ||adserver.helpoid.ai^
 ||adservermedia4.com^
 ||adservermedia5.com^
 ||adservice.google.com.cy^
+||adsrv.as^
 ||adstudio-cdn.asklocala.com^
 ||adsurge.com^
 ||adtech-host2.com^
@@ -326,6 +328,7 @@
 |hb.stngo.com^
 |hb.sweetgum.io^
 ||hcurvecdn.com^
+||hermes.aidemsrv.com^
 |hmidssp.com^
 ||hubdsp.com^
 ||hueserver.com^
@@ -615,6 +618,7 @@
 ||vondosadsrv.com^
 ||voodoo-adn.com^
 |vpb-server.jwplayer.com^
+||warp90.com^
 |web-rtb.anyrtb.com^
 |web.hb.ad.cpe.dotomi.com^
 ||webmedia.chicos.com^
