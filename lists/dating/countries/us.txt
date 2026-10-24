@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, United States (us)
-# Domains: 49 | Updated: 2026-10-24
+# Domains: 52 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -29,6 +29,7 @@ fargo-moorhead.bonepage.com
 fargo.myescort.network
 ft-myers-sw-florida.bonepage.com
 *.fundmysugarbaby.com
+green-bay.bonepage.com
 hillsboro-il.virtalog.ru
 kibana.compactorstore.com
 *.listcrawler.app
@@ -39,6 +40,7 @@ portland-me.bonepage.com
 *.randomvideochat.me
 *.rubmaps.ch
 *.slixa.com
+springfield.bonepage.com
 *.starbackpage.com
 *.sugardaddy.com
 *.swingersclublist.com
@@ -50,6 +52,7 @@ syracuse.bonepage.com
 *.trystagency.com
 *.trystidpath.my.id
 *.usasexguide.nl
+ventura-county.bonepage.com
 *.westcoastswingers.com
 wichita.myescort.network
 *.yesbackpage.com

@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Adult, Belgium (be)
-# Domains: 26 | Updated: 2026-10-24
+# Domains: 27 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/be.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 ballsonline.co.uk
 0.0.0.0 boozyshop.be
+0.0.0.0 boozyshop.nl
 0.0.0.0 charnel-club.be
 0.0.0.0 cocolamar.be
 0.0.0.0 desirel.be

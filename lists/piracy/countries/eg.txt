@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Egypt (eg)
-# Domains: 31 | Updated: 2026-10-24
+# Domains: 33 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/countries/eg.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -15,6 +15,7 @@ as.akwam.tube
 *.cima4u.college
 *.dekoora.store
 *.egybest.co.in
+*.fankoora.biz
 *.kooora4live.quest
 *.kooora4live.website
 *.kooora4lives.one
@@ -24,6 +25,7 @@ as.akwam.tube
 *.koora4uyt.blogspot.com
 *.kooraforus.blogspot.com
 *.kooralive-koora.live
+*.kooralive07.com
 *.kooramatch.club
 *.koorashootnews.com
 *.kooratop.live

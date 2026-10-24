@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 39,266 | Updated: 2026-10-24
+# Domains: 39,248 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -2778,7 +2778,6 @@
 0.0.0.0 b-what-sapp.com.cn
 0.0.0.0 b-whats-app.hl.cn
 0.0.0.0 b-whats-app.sh.cn
-0.0.0.0 b.stats.paypal.auth-security-verify.com
 0.0.0.0 b22whatsappsex.pages.dev
 0.0.0.0 b7whatsappsex.pages.dev
 0.0.0.0 b8whatsappsex.pages.dev
@@ -4104,10 +4103,8 @@
 0.0.0.0 c-w-hatsapp.com.cn
 0.0.0.0 c-wh-atsapp.com.cn
 0.0.0.0 c-wha-tsapp.com.cn
-0.0.0.0 c.paypal.auth-security-verify.com
 0.0.0.0 c1mypersonal-whatsappnumber.pages.dev
 0.0.0.0 c22whatsappsex.pages.dev
-0.0.0.0 c6.paypal.auth-security-verify.com
 0.0.0.0 ca-vous-credit-agricole-anjou-maine.ph
 0.0.0.0 cachegrid.ru
 0.0.0.0 caixa-applesupport.com.ph
@@ -5387,7 +5384,6 @@
 0.0.0.0 coinbase-pro-security-update.net.ph
 0.0.0.0 coinbase-pro-service-policy.net.ph
 0.0.0.0 coinbase-pro-service-security-check.net.ph
-0.0.0.0 coinbase-pro-service-verify-identity.net.ph
 0.0.0.0 coinbase-pro-service-verify.net.ph
 0.0.0.0 coinbase-pro-sign.pages.dev
 0.0.0.0 coinbase-pro-sing.pages.dev
@@ -5439,7 +5435,6 @@
 0.0.0.0 coinbase-starten.pages.dev
 0.0.0.0 coinbase-support-as0.pages.dev
 0.0.0.0 coinbase-support-ip2.pages.dev
-0.0.0.0 coinbase-support-line.net.ph
 0.0.0.0 coinbase-support-log.pages.dev
 0.0.0.0 coinbase-sync.pages.dev
 0.0.0.0 coinbase-us--wallet-extension.pages.dev
@@ -10214,7 +10209,6 @@
 0.0.0.0 facebookuserreward.pages.dev
 0.0.0.0 faceboook-reels938y487u.pages.dev
 0.0.0.0 faceboook.sarani.online
-0.0.0.0 faceit-approve.pro
 0.0.0.0 faceit-verify-account.com
 0.0.0.0 faceit-verify.xyz
 0.0.0.0 facelessonroblox.pages.dev
@@ -12836,7 +12830,6 @@
 0.0.0.0 hme-trzor-io.pages.dev
 0.0.0.0 hn-whatapp.com.cn
 0.0.0.0 hn-whatssapp.com.cn
-0.0.0.0 hnd.stats.paypal.auth-security-verify.com
 0.0.0.0 ho-metreazor-suit.pages.dev
 0.0.0.0 hohe-suites-trezrs-io.pages.dev
 0.0.0.0 hokibonus-login-mudah.pages.dev
@@ -14603,7 +14596,6 @@
 0.0.0.0 instagramcopyrightverificationteamzonewormzrc.ph
 0.0.0.0 instagramlikes.pages.dev
 0.0.0.0 instagramlogin-68z.pages.dev
-0.0.0.0 instagramrecoverypasswordj5n13kjln5k134bni1hkb321kn2ijnw.com
 0.0.0.0 instagramreward.ph
 0.0.0.0 instagramsetting-businesssuport.pages.dev
 0.0.0.0 instagramsupport.email
@@ -25976,7 +25968,6 @@
 0.0.0.0 paypal-mod-apk.pages.dev
 0.0.0.0 paypal-mtnoba07hxvuamk.pages.dev
 0.0.0.0 paypal-online-payment-confirmation.fanduelsportsnework.com
-0.0.0.0 paypal-online.shop
 0.0.0.0 paypal-payment-130-usd-checkout.pages.dev
 0.0.0.0 paypal-payment-130-usd.pages.dev
 0.0.0.0 paypal-payment-checkout-110-usd.pages.dev
@@ -26005,7 +25996,6 @@
 0.0.0.0 paypal-verified-accounts-hub.pages.dev
 0.0.0.0 paypal-webview.pages.dev
 0.0.0.0 paypal-wgbxxd8pjdfvry2.pages.dev
-0.0.0.0 paypal.auth-security-verify.com
 0.0.0.0 paypal.com-confirm-review-verification.yourhorizon.com
 0.0.0.0 paypal.com-confirm-your-paypal-account.trainkook.com
 0.0.0.0 paypal.com-en.cgi-bin-dispatch.confirm-account.binaryvm.com
@@ -27590,7 +27580,6 @@
 0.0.0.0 roxhiroblox.pages.dev
 0.0.0.0 royal-trzor.pages.dev
 0.0.0.0 royalmail-redelivery.com
-0.0.0.0 royalmail-redelivery.icu
 0.0.0.0 rrezr-hrdwre-en.pages.dev
 0.0.0.0 rrobinhood-logiin.pages.dev
 0.0.0.0 rst-wemixit.com
@@ -28606,7 +28595,6 @@
 0.0.0.0 sign-trustcapitl-us.pages.dev
 0.0.0.0 sign-uphold-login.pages.dev
 0.0.0.0 signed-appleid.ph
-0.0.0.0 signin-apple-id.com
 0.0.0.0 signin-appleid.com
 0.0.0.0 signin-appleid.support
 0.0.0.0 signin-check.atmail.com
@@ -32373,7 +32361,6 @@
 0.0.0.0 t-rezor-wallet-login.pages.dev
 0.0.0.0 t-rezor-wallet.pages.dev
 0.0.0.0 t-trezorsuite.pages.dev
-0.0.0.0 t.paypal.auth-security-verify.com
 0.0.0.0 tab-coin-bse-io.pages.dev
 0.0.0.0 tab-trezar-official.pages.dev
 0.0.0.0 tag-logn-live-ledgr.pages.dev
@@ -32487,7 +32474,6 @@
 0.0.0.0 telcelrewards.net
 0.0.0.0 telcoins-bank-com.pages.dev
 0.0.0.0 tele-grann.click
-0.0.0.0 teleghtnin.work
 0.0.0.0 teleghtprw.beer
 0.0.0.0 teleghtprw.luxe
 0.0.0.0 teleglaz.pages.dev
@@ -32575,7 +32561,6 @@
 0.0.0.0 test-start-trzor.pages.dev
 0.0.0.0 teste-cielo-pagamento.pages.dev
 0.0.0.0 tevehyzel.top
-0.0.0.0 texequicks.club
 0.0.0.0 texolura-janorive.pages.dev
 0.0.0.0 tezor--wallet.pages.dev
 0.0.0.0 tezor-bridge-app.pages.dev
@@ -32712,7 +32697,6 @@
 0.0.0.0 tobi2whatsapp.pages.dev
 0.0.0.0 today-trezr-en-lo-web.pages.dev
 0.0.0.0 today-trezr-en.pages.dev
-0.0.0.0 tokanim-cdn52-hk32.lol
 0.0.0.0 tokemim-cdn52-hk52.xyz
 0.0.0.0 token-blockdag.pages.dev
 0.0.0.0 token-im.co
@@ -36663,7 +36647,6 @@
 0.0.0.0 us05web-zoom-us.pages.dev
 0.0.0.0 us05web-zoom-us78764773743887.pages.dev
 0.0.0.0 us06trymicrosoft.pages.dev
-0.0.0.0 us155webzoom.live
 0.0.0.0 usa-bridge-trezor-io.pages.dev
 0.0.0.0 usa-coinbase-live-helpcenter.pages.dev
 0.0.0.0 usa-coinbase-login.pages.dev
@@ -38986,7 +38969,6 @@
 0.0.0.0 www.paypal-helpcenter.boutiquemane.com
 0.0.0.0 www.paypal-security-center.com.christchapel.org.ng
 0.0.0.0 www.paypal-tracking-pvt-app.theprimecoders.com
-0.0.0.0 www.paypal.auth-security-verify.com
 0.0.0.0 www.paypal.com-confirm-your-paypal-account.trainkook.com
 0.0.0.0 www.paypal.confirmation.account.okulus.webd.pl
 0.0.0.0 www.paypal.item-illo.click

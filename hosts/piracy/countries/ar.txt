@@ -1,14 +1,16 @@
 # Title: EZOBLOCKER Piracy, Argentina (ar)
-# Domains: 9 | Updated: 2026-10-24
+# Domains: 11 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/ar.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 cine-calidad.mom
+0.0.0.0 cinecalidadonline.xyz
 0.0.0.0 compucalitv.lol
 0.0.0.0 compucalitv.tv
 0.0.0.0 pelispedia.mov
 0.0.0.0 repelisplus.lat
+0.0.0.0 repelisplus.li
 0.0.0.0 repelisplus.pics
 0.0.0.0 repelisplus24.cam
 0.0.0.0 repelispluss.lat

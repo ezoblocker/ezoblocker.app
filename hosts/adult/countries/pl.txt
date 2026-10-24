@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Poland (pl)
-# Domains: 50 | Updated: 2026-10-24
+# Domains: 54 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/pl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 0.0.0.0 centrumerotyki.com.pl
 0.0.0.0 e-marilyn.pl
 0.0.0.0 easytoys.pl
+0.0.0.0 erot.pl
 0.0.0.0 erotic-med.pl
 0.0.0.0 eroticpassion.pl
 0.0.0.0 eroticpoint.pl
@@ -18,6 +19,8 @@
 0.0.0.0 greatstuffy.com
 0.0.0.0 intimiti.pl
 0.0.0.0 intymnosc.pl
+0.0.0.0 intymnosc24.pl
+0.0.0.0 kinkystore.pl
 0.0.0.0 lilaw.pl
 0.0.0.0 lovingjoy.com
 0.0.0.0 lovita.pl
@@ -50,6 +53,7 @@
 0.0.0.0 sklepeuforia.pl
 0.0.0.0 theprive.pl
 0.0.0.0 tulipan.pl
+0.0.0.0 unikat-comp.pl
 0.0.0.0 venus.net.pl
 0.0.0.0 wibratorylogopedyczne.pl
 0.0.0.0 yourobsession.pl

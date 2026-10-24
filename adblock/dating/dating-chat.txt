@@ -1,12 +1,14 @@
 ! Title: EZOBLOCKER Dating, chat rooms and random video chat
-! Domains: 366 | Updated: 2026-10-24
+! Domains: 372 | Updated: 2026-10-24
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/dating-chat.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||321chat.com^
+|5y9nv9ytfw.troupedespatarins.fr^
 |6e1ksudjredns.chicecini.blog^
 |ab.211.ca^
+|actv.avmspa.it^
 |ai.updf.com^
 |akordy.kytary.cz^
 ||alemortam.net^
@@ -20,6 +22,7 @@
 ||arabchat.mobi^
 ||arabchatting.com^
 |argentina.zonacitas.com^
+||askaichat.app^
 ||askalemi.net^
 |au.banana-chat.com^
 ||azarlive.com^
@@ -82,6 +85,7 @@
 ||chathub1.com^
 ||chathubapp.com^
 ||chatib.us^
+||chatikfm.ru^
 ||chatindonesia.com^
 ||chatindonesia.org^
 ||chatinireland.com^
@@ -324,6 +328,7 @@
 ||svenskacams.se^
 |swipr-make-snapchat-friends.softonic.nl^
 ||swisschat.org^
+|taay.soniadalka.pl^
 ||talk2stranger.com^
 ||talkrand.com^
 ||talkwithstranger.co.uk^
@@ -366,6 +371,7 @@
 |www.chatting.chatkaro.in^
 |www.chis.regionstockholm.se^
 ||yazgulu.net^
+|yb9buvbt.nettoyagereunion.re^
 |yozm.wishket.com^
 |zap.struckd.com^
 |zaporojskiy-chat.fosite.ru^

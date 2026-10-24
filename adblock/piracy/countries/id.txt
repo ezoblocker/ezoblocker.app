@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, Indonesia (id)
-! Domains: 29 | Updated: 2026-10-24
+! Domains: 31 | Updated: 2026-10-24
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/countries/id.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,8 @@
 |jateng.bulat.co.id^
 ||layarkaca21.monster^
 ||layarkaca21bank.com^
+||layarkaca21sweet.com^
+|leisure.harianjogja.com^
 ||livebola.com^
 ||livebola.net^
 |llsflwjo.riverpeak.lat^

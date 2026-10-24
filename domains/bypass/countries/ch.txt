@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Bypass, Switzerland (ch)
-# Domains: 4 | Updated: 2026-10-24
+# Domains: 5 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/bypass/countries/ch.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 swissvpn.co
+tracker.prohacking77.me
 ultrasurf-vpn.pages.dev
 ultrasurf.fr.softmany.com
 vpn.g-l.ch

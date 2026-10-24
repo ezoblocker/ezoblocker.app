@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 39,264 | Updated: 2026-10-24
+# Domains: 39,246 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -2777,7 +2777,6 @@ aws.poluchit-prava-7f4t.ru
 *.b-what-sapp.com.cn
 *.b-whats-app.hl.cn
 *.b-whats-app.sh.cn
-b.stats.paypal.auth-security-verify.com
 *.b22whatsappsex.pages.dev
 *.b7whatsappsex.pages.dev
 *.b8whatsappsex.pages.dev
@@ -4102,10 +4101,8 @@ bnp-paribas.banca-digitalmx.com
 *.c-w-hatsapp.com.cn
 *.c-wh-atsapp.com.cn
 *.c-wha-tsapp.com.cn
-c.paypal.auth-security-verify.com
 *.c1mypersonal-whatsappnumber.pages.dev
 *.c22whatsappsex.pages.dev
-c6.paypal.auth-security-verify.com
 *.ca-vous-credit-agricole-anjou-maine.ph
 *.cachegrid.ru
 *.caixa-applesupport.com.ph
@@ -5385,7 +5382,6 @@ coinbase-password-recover.fanduelspoetsnetwork.com
 *.coinbase-pro-security-update.net.ph
 *.coinbase-pro-service-policy.net.ph
 *.coinbase-pro-service-security-check.net.ph
-*.coinbase-pro-service-verify-identity.net.ph
 *.coinbase-pro-service-verify.net.ph
 *.coinbase-pro-sign.pages.dev
 *.coinbase-pro-sing.pages.dev
@@ -5437,7 +5433,6 @@ coinbase-request-verification.fanduelsprtsnetwork.com
 *.coinbase-starten.pages.dev
 *.coinbase-support-as0.pages.dev
 *.coinbase-support-ip2.pages.dev
-*.coinbase-support-line.net.ph
 *.coinbase-support-log.pages.dev
 *.coinbase-sync.pages.dev
 *.coinbase-us--wallet-extension.pages.dev
@@ -10212,7 +10207,6 @@ exchangeoutlookonline-common-auth-kmsi.sugarbeam.org
 *.facebookuserreward.pages.dev
 *.faceboook-reels938y487u.pages.dev
 faceboook.sarani.online
-*.faceit-approve.pro
 *.faceit-verify-account.com
 *.faceit-verify.xyz
 *.facelessonroblox.pages.dev
@@ -12834,7 +12828,6 @@ hjhjhj.hjkkjjk.workers.dev
 *.hme-trzor-io.pages.dev
 *.hn-whatapp.com.cn
 *.hn-whatssapp.com.cn
-hnd.stats.paypal.auth-security-verify.com
 *.ho-metreazor-suit.pages.dev
 *.hohe-suites-trezrs-io.pages.dev
 *.hokibonus-login-mudah.pages.dev
@@ -14601,7 +14594,6 @@ instagram.mayank-mm.me
 *.instagramcopyrightverificationteamzonewormzrc.ph
 *.instagramlikes.pages.dev
 *.instagramlogin-68z.pages.dev
-*.instagramrecoverypasswordj5n13kjln5k134bni1hkb321kn2ijnw.com
 *.instagramreward.ph
 *.instagramsetting-businesssuport.pages.dev
 *.instagramsupport.email
@@ -25974,7 +25966,6 @@ paypal-info-verification.fanduelsporrtsnetwork.com
 *.paypal-mod-apk.pages.dev
 *.paypal-mtnoba07hxvuamk.pages.dev
 paypal-online-payment-confirmation.fanduelsportsnework.com
-*.paypal-online.shop
 *.paypal-payment-130-usd-checkout.pages.dev
 *.paypal-payment-130-usd.pages.dev
 *.paypal-payment-checkout-110-usd.pages.dev
@@ -26003,7 +25994,6 @@ paypal-verification-activity.fanduelportsnetwork.com
 *.paypal-verified-accounts-hub.pages.dev
 *.paypal-webview.pages.dev
 *.paypal-wgbxxd8pjdfvry2.pages.dev
-paypal.auth-security-verify.com
 paypal.com-confirm-review-verification.yourhorizon.com
 paypal.com-confirm-your-paypal-account.trainkook.com
 paypal.com-en.cgi-bin-dispatch.confirm-account.binaryvm.com
@@ -27588,7 +27578,6 @@ robloxunblocked-mm-234234262342343432.furkan-0-1-2-3-4-5-6-7-8-9-10.workers.dev
 *.roxhiroblox.pages.dev
 *.royal-trzor.pages.dev
 *.royalmail-redelivery.com
-*.royalmail-redelivery.icu
 *.rrezr-hrdwre-en.pages.dev
 *.rrobinhood-logiin.pages.dev
 *.rst-wemixit.com
@@ -28604,7 +28593,6 @@ sign-in.icloud-map.us
 *.sign-trustcapitl-us.pages.dev
 *.sign-uphold-login.pages.dev
 *.signed-appleid.ph
-*.signin-apple-id.com
 *.signin-appleid.com
 *.signin-appleid.support
 signin-check.atmail.com
@@ -32371,7 +32359,6 @@ svb-edl-abrechnung.device.service.q-sam.de
 *.t-rezor-wallet-login.pages.dev
 *.t-rezor-wallet.pages.dev
 *.t-trezorsuite.pages.dev
-t.paypal.auth-security-verify.com
 *.tab-coin-bse-io.pages.dev
 *.tab-trezar-official.pages.dev
 *.tag-logn-live-ledgr.pages.dev
@@ -32485,7 +32472,6 @@ teegram-account.teegram.in
 *.telcelrewards.net
 *.telcoins-bank-com.pages.dev
 *.tele-grann.click
-*.teleghtnin.work
 *.teleghtprw.beer
 *.teleghtprw.luxe
 *.teleglaz.pages.dev
@@ -32573,7 +32559,6 @@ test-login.omobile.cfd
 *.test-start-trzor.pages.dev
 *.teste-cielo-pagamento.pages.dev
 *.tevehyzel.top
-*.texequicks.club
 *.texolura-janorive.pages.dev
 *.tezor--wallet.pages.dev
 *.tezor-bridge-app.pages.dev
@@ -32710,7 +32695,6 @@ ticket.xn--trkcell-n2a.com
 *.tobi2whatsapp.pages.dev
 *.today-trezr-en-lo-web.pages.dev
 *.today-trezr-en.pages.dev
-*.tokanim-cdn52-hk32.lol
 *.tokemim-cdn52-hk52.xyz
 *.token-blockdag.pages.dev
 *.token-im.co
@@ -36661,7 +36645,6 @@ update-yahoo-att.outb0ardrepower.workers.dev
 *.us05web-zoom-us.pages.dev
 *.us05web-zoom-us78764773743887.pages.dev
 *.us06trymicrosoft.pages.dev
-*.us155webzoom.live
 *.usa-bridge-trezor-io.pages.dev
 *.usa-coinbase-live-helpcenter.pages.dev
 *.usa-coinbase-login.pages.dev
@@ -38984,7 +38967,6 @@ www.paypal-env.getstaylo.com
 www.paypal-helpcenter.boutiquemane.com
 www.paypal-security-center.com.christchapel.org.ng
 www.paypal-tracking-pvt-app.theprimecoders.com
-www.paypal.auth-security-verify.com
 www.paypal.com-confirm-your-paypal-account.trainkook.com
 www.paypal.confirmation.account.okulus.webd.pl
 www.paypal.item-illo.click

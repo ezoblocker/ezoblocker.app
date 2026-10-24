@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Sweden (se)
-# Domains: 34 | Updated: 2026-10-24
+# Domains: 35 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/se.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -32,6 +32,7 @@
 *.prospektly.se
 *.sexbutiker.se
 *.sexleksakeroutlet.se
+*.sexpunkten.se
 *.sinful.se
 *.svensk-porr.com
 *.taboo.se

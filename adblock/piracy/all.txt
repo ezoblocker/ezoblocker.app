@@ -1,11 +1,13 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 881 | Updated: 2026-10-24
+! Domains: 943 | Updated: 2026-10-24
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||123movieputlockers.com^
 ||123moviesflix.me^
+||123movieshubs.org^
+||123moviesx.cc^
 ||123putlockers.me^
 ||1337x.com.im^
 ||1kuttymovies.pro^
@@ -15,6 +17,7 @@
 ||7msport.com^
 ||90phut.dev^
 ||90phutt.co^
+||90phutzal.tv^
 ||90phutzas.tv^
 ||90phutzat.tv^
 ||9anime-tv.co^
@@ -50,6 +53,7 @@
 ||animeflv.my^
 ||animeflv.one^
 ||animeflv.or.at^
+||animeflvv.com^
 ||animepahe.ch^
 ||animepahe.net^
 ||animepahe.ng^
@@ -133,17 +137,21 @@
 ||cimaclubb.cam^
 ||cimaclubsite.blogspot.com^
 ||cine-calidad.mom^
+||cinecalidadonline.xyz^
 |clare.gaa.ie^
 ||comprariptv.com^
 ||compucalitv.lol^
 ||compucalitv.tv^
+|coronavirus.natal.rn.gov.br^
 ||crackstreams.ch^
 ||crackstreams.gdn^
+||crackstreams.gold^
 ||crackstreams.guru^
 ||crackstreams.in^
 ||crackstreams.mx^
 ||crackstreamsmax.site^
 ||cricfree.beer^
+||crichd.lol^
 ||cricketworld.com^
 ||cricstream.mom^
 ||crictime.com^
@@ -151,6 +159,7 @@
 ||cuevana3.boo^
 ||cuevana3.re^
 ||cuevana3.sc^
+||cuevana3c.lat^
 ||cuevanaa1.pro^
 ||cuevanaserie.pro^
 ||cuevanatv.vip^
@@ -188,12 +197,17 @@
 |dnsrepo.noc.org^
 ||dontorrent.blog^
 ||dontorrent.club^
+||dooball99.top^
 ||doonung2u.blogspot.com^
 ||doonungfree.com^
 |dovik.ferit.hr^
 ||drakorid.co^
+|drecov.pandaoffice.com^
 |edu.gebbs.com^
+||egybesstt.asia^
 ||egybesstt.baby^
+||egybesstt.bond^
+||egybesstt.homes^
 ||egybesstt.lol^
 ||egybest-real.bitbucket.io^
 |egybest.appsmith.com^
@@ -209,10 +223,12 @@
 ||eurostreaming-nuovo-indirizzo.com^
 ||eyasflix.com^
 ||famemma.tv^
+||fankoora.biz^
 |farmacia.vilhena.ro.gov.br^
 ||faselhd.beer^
 ||faselhd.energy^
 ||faselhd.ws^
+||filmancc.com.pl^
 ||filmdozu.com^
 ||filmekseni.vip^
 ||filmifullizle.news^
@@ -236,6 +252,7 @@
 ||flixfoxmovie.org^
 ||flixmovie.online^
 ||flixmovie.xyz^
+||fmoviee.app^
 ||fmoviezs.top^
 ||footybite.boats^
 ||footybite.com.co^
@@ -272,16 +289,19 @@
 ||futbolenvivocolombia.com^
 ||futbolete.com^
 ||futbollibre.kim^
+||futbollibredirecto.online^
 ||futbollibreenvivo.net^
 ||futbollibrefullhd.org^
 ||futbollibreperu.org^
 ||futbollibretvhd.co^
+||futbollibretvplus.com^
 ||futbolyconsolas.es^
 ||futemax.at^
 ||futemax.gay^
 ||futemax.haus^
 ||futemax.hiphop^
 ||futemax.med^
+||futemax.partners^
 ||futemax.ventures^
 ||fzmovies.live^
 ||fzmovies.ng^
@@ -291,6 +311,8 @@
 |geoikp.operandum-project.eu^
 |getlive.pcb.com.pk^
 ||getoziptv.com^
+||gnula.beer^
+||gnula.boats^
 ||gnula.buzz^
 ||gnula.cc^
 ||gnula.forum^
@@ -308,6 +330,7 @@
 ||gogoanimes.watch^
 ||gogoanimez.online^
 ||gomovieshd.today^
+||gomoviess.vip^
 |google-play.en.softmany.com^
 ||grantorrent.foo^
 ||grantorrent.fyi^
@@ -340,12 +363,14 @@
 ||hesgoal.soccer^
 ||hesgoal.zone^
 ||hesgoalhd.com^
+||hesgoallive.quest^
 ||hesgoals.nl^
 ||hesgoals.rest^
 ||hesgoaltv.biz^
 ||hintfilmizle.com^
 ||icc-cricket.com^
 ||icuevana3.cam^
+||icuevana3.mobi^
 ||ikinogo.io^
 |info.rugbypass.tv^
 |inpiad60.inpiad.co.kr^
@@ -386,6 +411,7 @@
 ||jestyayin.org^
 ||jestyayingiris11.xyz^
 ||jetfilmizle.now^
+||jkanime.ro^
 ||jkanime.surf^
 |jobboard.simplifaster.com^
 |jp.videoproc.com^
@@ -433,6 +459,8 @@
 ||koora4uyt.blogspot.com^
 ||kooraforus.blogspot.com^
 ||kooralive-koora.live^
+||kooralive.beer^
+||kooralive07.com^
 ||kooralivematch.club^
 ||kooramatch.club^
 ||koorashootnews.com^
@@ -450,7 +478,9 @@
 ||latestmodapks.com^
 ||layarkaca21.monster^
 ||layarkaca21bank.com^
+||layarkaca21sweet.com^
 |lec.medilink-study.com^
+|leisure.harianjogja.com^
 ||librefutbol.vip^
 ||lichphimmoi.com^
 |lifestyle.assist-all.co.jp^
@@ -485,6 +515,7 @@
 ||lordfilm.fi^
 ||lordfilms.pub^
 ||lordfilms.pw^
+|m.3smedi.co.kr^
 |m.8513.co.kr^
 |m.acestream.net^
 |m.goalddlive.com^
@@ -537,6 +568,7 @@
 ||mp3indirdur.pro^
 ||muayded789.com^
 ||multicanaisbr.com^
+||multicanaishd.broker^
 ||multicanaishdtv.com.br^
 |mxhomy556.nettoyagereunion.re^
 ||mycima-official.bitbucket.io^
@@ -595,8 +627,10 @@
 ||pelisplushd.mx^
 ||pelisplushd.one^
 ||pelisplushd3.com^
+||pelisplusmx.co^
 ||pelisplusvip.com^
 ||pelotalibreenvivo.cl^
+||pelotalibretv1.biz^
 ||pezzottoiptv.com^
 ||phimmoi.cat^
 |phimmoi.doraflixvn.com^
@@ -617,6 +651,7 @@
 ||pirlotv.bar^
 ||pirlotv.dog^
 ||pirlotv.la^
+||pirlotv.plus^
 ||pirlotv.red^
 ||pirlotv.shop^
 ||pirlotv.win^
@@ -648,17 +683,24 @@
 ||rebahinxxi3.mom^
 ||redecanais.in^
 ||redecanais.solutions^
+||redecanaisfhd.my^
 ||redecanaishd.gay^
 ||redecanaishd.help^
+||redecanaishd.press^
 ||redecanaishd.qpon^
 ||redecanaishd1.online^
+||redecanaisoficial.cc^
+||redecanaisrc.sale^
+|refer.yasso.com^
 ||repelis.mom^
 ||repelis24.bz^
 ||repelis24.nz^
 ||repelis24.shop^
 ||repelis24.watch^
+||repelisplus.casa^
 ||repelisplus.fit^
 ||repelisplus.lat^
+||repelisplus.li^
 ||repelisplus.pics^
 ||repelisplus24.cam^
 ||repelispluss.lat^
@@ -672,7 +714,9 @@
 ||rojadirectafulltv.org^
 ||rojadirectas.cc^
 ||rojadirectatv.city^
+||rojadirectatv.skin^
 ||rojadirectatvmas.org^
+||rojadirectatvplay.com^
 ||rutracker-net.ru^
 |s1s.designq.kr^
 |saas.spochak.com^
@@ -713,6 +757,7 @@
 ||socolivezq.tv^
 ||solarmovies.com.co^
 ||solarmoviesz.co^
+|somosgalapagos.padf.org^
 ||sonhdfilm.net^
 |sp.supercell.jp^
 |spolecznosc.payload.pl^
@@ -728,15 +773,19 @@
 ||sportstream.se^
 ||sportstream.us^
 |sportstream365.com.w3snoop.com^
+||sportstreaming.us^
 ||sportstribal.tv^
+||sportsurges.st^
 |staging.elkford.ca^
 |start.sportdigital.de^
 ||streamcode.fit^
 ||streameast.to^
 ||streameasti.site^
 ||streameastmirror.com^
+||streameastonline.com^
 ||streameasttop.com^
 ||streamed.cyou^
+|streamfab.dvdfab.fr^
 ||streamkiste.al^
 ||streamonsport.lat^
 ||streamsport.ie^
@@ -746,6 +795,7 @@
 |sukebei.nyaa.mom^
 ||superfilmizle.org^
 ||superflix51.lol^
+||superflix52.lol^
 ||supersportbet.com^
 ||supersportschools.com^
 ||swissiptv.online^
@@ -761,16 +811,20 @@
 ||taraftarium24bjk20.com^
 ||taraftarium24soturkiye.org^
 ||taraftarium24turkiyetv.net^
+||tarjeta-roja.live^
 ||tarjetaroja.love^
 ||tarjetaroja.ltd^
 ||tarjetaroja.mba^
 ||tarjetaroja.run^
 ||tarjetarojadirecta.biz^
 ||tarjetarojadirecta.es^
+||tarjetarojaenvivo.online^
 ||tarjetarojaonline.info^
 ||tarjetarojaonline.pro^
 ||tarjetarojatv.mobi^
 ||tarjetarojatvhd.live^
+||tarjetarojatvlive.pl^
+||tarjetarojatvonline.info^
 ||tarjetarojatvonline.site^
 |task.joby.com^
 ||thenaijaprey.org^
@@ -786,11 +840,15 @@
 ||torrentfreak.com^
 ||torrentgalaxy.hair^
 ||torrentoyunindir.co^
+||totalsportek.org.im^
 ||totalsportek1.is^
+||totalsportekhd.live^
 ||totalsporteki.fit^
 ||totalsportekl.is^
 ||totalsportekplus.org^
+||totalsportscentral.com^
 ||totalsportsindex.com^
+||totalsportsman.com^
 |tour.gra.uk.com^
 ||trdiziizle.tv^
 |tributario.piracicaba.sp.gov.br^
@@ -801,6 +859,7 @@
 ||tugaiptvbest.net^
 |tv.makeevka.com^
 |tv.sfl.ch^
+||tvhayx.org^
 ||tvmon.com.co^
 ||tvmon1.com^
 ||tvmons.org^
@@ -847,6 +906,7 @@
 ||webteizle.info^
 ||webteizle3.xyz^
 |welcome.blasttv.ph^
+||wemycima.ink^
 ||wiflix.al^
 ||wolfmax4k.net^
 ||worldfree4u.events^
@@ -877,11 +937,13 @@
 ||xoilaczcd.tv^
 ||yaacinetv.com^
 ||yabancidizi.news^
+||yallah-shooot.top^
 ||yallakora.cam^
 ||yallakora.com^
 |yallakora.misrlinks.com^
 ||yallalives.net^
 ||yallas.store^
 ||yallashoot.id^
+||yallashoot.study^
 |yozm.wishket.com^
 ||zfilmizle.com^

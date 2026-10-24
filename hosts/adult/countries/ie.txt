@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Ireland (ie)
-# Domains: 31 | Updated: 2026-10-24
+# Domains: 32 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ie.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -23,6 +23,7 @@
 0.0.0.0 missfantasia.ie
 0.0.0.0 missmary.com
 0.0.0.0 musiccognition.science
+0.0.0.0 nodex.ie
 0.0.0.0 ophelialingerie.ie
 0.0.0.0 playblue.com
 0.0.0.0 popup-ireland.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 316 | Updated: 2026-10-24
+# Domains: 348 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 0.0.0.0 7msport.com
 0.0.0.0 90phut.dev
 0.0.0.0 90phutt.co
+0.0.0.0 90phutzal.tv
 0.0.0.0 90phutzas.tv
 0.0.0.0 90phutzat.tv
 0.0.0.0 acestreamid.com
@@ -36,11 +37,13 @@
 0.0.0.0 clare.gaa.ie
 0.0.0.0 crackstreams.ch
 0.0.0.0 crackstreams.gdn
+0.0.0.0 crackstreams.gold
 0.0.0.0 crackstreams.guru
 0.0.0.0 crackstreams.in
 0.0.0.0 crackstreams.mx
 0.0.0.0 crackstreamsmax.site
 0.0.0.0 cricfree.beer
+0.0.0.0 crichd.lol
 0.0.0.0 cricketworld.com
 0.0.0.0 cricstream.mom
 0.0.0.0 crictime.com
@@ -49,10 +52,13 @@
 0.0.0.0 dekoora.store
 0.0.0.0 dev-forms-engine-api.brisbane.qld.gov.au
 0.0.0.0 direttagoal.it
+0.0.0.0 dooball99.top
+0.0.0.0 drecov.pandaoffice.com
 0.0.0.0 edu.gebbs.com
 0.0.0.0 elbotola.com
 0.0.0.0 eliteboxing.com.ph
 0.0.0.0 famemma.tv
+0.0.0.0 fankoora.biz
 0.0.0.0 filmora.wondershare.kr
 0.0.0.0 firstrows.net
 0.0.0.0 firstrowsports.be
@@ -80,16 +86,19 @@
 0.0.0.0 futbolenvivocolombia.com
 0.0.0.0 futbolete.com
 0.0.0.0 futbollibre.kim
+0.0.0.0 futbollibredirecto.online
 0.0.0.0 futbollibreenvivo.net
 0.0.0.0 futbollibrefullhd.org
 0.0.0.0 futbollibreperu.org
 0.0.0.0 futbollibretvhd.co
+0.0.0.0 futbollibretvplus.com
 0.0.0.0 futbolyconsolas.es
 0.0.0.0 futemax.at
 0.0.0.0 futemax.gay
 0.0.0.0 futemax.haus
 0.0.0.0 futemax.hiphop
 0.0.0.0 futemax.med
+0.0.0.0 futemax.partners
 0.0.0.0 futemax.ventures
 0.0.0.0 geoikp.operandum-project.eu
 0.0.0.0 getlive.pcb.com.pk
@@ -99,6 +108,7 @@
 0.0.0.0 hesgoal.soccer
 0.0.0.0 hesgoal.zone
 0.0.0.0 hesgoalhd.com
+0.0.0.0 hesgoallive.quest
 0.0.0.0 hesgoals.nl
 0.0.0.0 hesgoals.rest
 0.0.0.0 hesgoaltv.biz
@@ -129,6 +139,8 @@
 0.0.0.0 koora4uyt.blogspot.com
 0.0.0.0 kooraforus.blogspot.com
 0.0.0.0 kooralive-koora.live
+0.0.0.0 kooralive.beer
+0.0.0.0 kooralive07.com
 0.0.0.0 kooralivematch.club
 0.0.0.0 kooramatch.club
 0.0.0.0 koorashootnews.com
@@ -164,12 +176,14 @@
 0.0.0.0 livetv.life
 0.0.0.0 livetv.tv-vlaanderen.be
 0.0.0.0 llsflwjo.riverpeak.lat
+0.0.0.0 m.3smedi.co.kr
 0.0.0.0 m.acestream.net
 0.0.0.0 m.goalddlive.com
 0.0.0.0 mecze24.pl
 0.0.0.0 methstreams.digital
 0.0.0.0 mlbbite.plus
 0.0.0.0 muayded789.com
+0.0.0.0 multicanaishd.broker
 0.0.0.0 multicanaishdtv.com.br
 0.0.0.0 myvipbox.com
 0.0.0.0 nbabite.net
@@ -183,10 +197,12 @@
 0.0.0.0 ostoralivehd7.com
 0.0.0.0 pacman.live
 0.0.0.0 pelotalibreenvivo.cl
+0.0.0.0 pelotalibretv1.biz
 0.0.0.0 pirlotv-futbol-en-vivo-directo.apps112.com
 0.0.0.0 pirlotv.bar
 0.0.0.0 pirlotv.dog
 0.0.0.0 pirlotv.la
+0.0.0.0 pirlotv.plus
 0.0.0.0 pirlotv.red
 0.0.0.0 pirlotv.shop
 0.0.0.0 pirlotv.win
@@ -203,7 +219,9 @@
 0.0.0.0 rojadirectafulltv.org
 0.0.0.0 rojadirectas.cc
 0.0.0.0 rojadirectatv.city
+0.0.0.0 rojadirectatv.skin
 0.0.0.0 rojadirectatvmas.org
+0.0.0.0 rojadirectatvplay.com
 0.0.0.0 s1s.designq.kr
 0.0.0.0 saas.spochak.com
 0.0.0.0 scoreman123.com
@@ -234,12 +252,16 @@
 0.0.0.0 sportstream.se
 0.0.0.0 sportstream.us
 0.0.0.0 sportstream365.com.w3snoop.com
+0.0.0.0 sportstreaming.us
 0.0.0.0 sportstribal.tv
+0.0.0.0 sportsurges.st
+0.0.0.0 staging.elkford.ca
 0.0.0.0 start.sportdigital.de
 0.0.0.0 streamcode.fit
 0.0.0.0 streameast.to
 0.0.0.0 streameasti.site
 0.0.0.0 streameastmirror.com
+0.0.0.0 streameastonline.com
 0.0.0.0 streameasttop.com
 0.0.0.0 streamed.cyou
 0.0.0.0 streamonsport.lat
@@ -262,23 +284,31 @@
 0.0.0.0 taraftarium24bjk20.com
 0.0.0.0 taraftarium24soturkiye.org
 0.0.0.0 taraftarium24turkiyetv.net
+0.0.0.0 tarjeta-roja.live
 0.0.0.0 tarjetaroja.love
 0.0.0.0 tarjetaroja.ltd
 0.0.0.0 tarjetaroja.mba
 0.0.0.0 tarjetaroja.run
 0.0.0.0 tarjetarojadirecta.biz
 0.0.0.0 tarjetarojadirecta.es
+0.0.0.0 tarjetarojaenvivo.online
 0.0.0.0 tarjetarojaonline.info
 0.0.0.0 tarjetarojaonline.pro
 0.0.0.0 tarjetarojatv.mobi
 0.0.0.0 tarjetarojatvhd.live
+0.0.0.0 tarjetarojatvlive.pl
+0.0.0.0 tarjetarojatvonline.info
 0.0.0.0 tarjetarojatvonline.site
 0.0.0.0 today-yalla-shoot.com
+0.0.0.0 totalsportek.org.im
 0.0.0.0 totalsportek1.is
+0.0.0.0 totalsportekhd.live
 0.0.0.0 totalsporteki.fit
 0.0.0.0 totalsportekl.is
 0.0.0.0 totalsportekplus.org
+0.0.0.0 totalsportscentral.com
 0.0.0.0 totalsportsindex.com
+0.0.0.0 totalsportsman.com
 0.0.0.0 tour.gra.uk.com
 0.0.0.0 tructiep90phuttv.club
 0.0.0.0 ttbd-socolive.pro
@@ -314,9 +344,11 @@
 0.0.0.0 xoilacxbt.tv
 0.0.0.0 xoilacxxm.cc
 0.0.0.0 xoilaczcd.tv
+0.0.0.0 yallah-shooot.top
 0.0.0.0 yallakora.cam
 0.0.0.0 yallakora.com
 0.0.0.0 yallakora.misrlinks.com
 0.0.0.0 yallalives.net
 0.0.0.0 yallas.store
 0.0.0.0 yallashoot.id
+0.0.0.0 yallashoot.study

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Portugal (pt)
-# Domains: 8 | Updated: 2026-10-24
+# Domains: 9 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/pt.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,5 +10,6 @@
 0.0.0.0 chatonline.pt
 0.0.0.0 meetic.pt
 0.0.0.0 meeticaffinity.pt
+0.0.0.0 porto.classificadosgratis.com.pt
 0.0.0.0 skokka.pt
 0.0.0.0 videochatpt.com

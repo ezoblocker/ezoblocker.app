@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Piracy, India (in)
-# Domains: 31 | Updated: 2026-10-24
+# Domains: 32 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/in.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 1kuttymovies.pro
 0.0.0.0 bolly4uz.com
+0.0.0.0 crichd.lol
 0.0.0.0 crictime.com
 0.0.0.0 crictime.is
 0.0.0.0 filmyzilla.holiday

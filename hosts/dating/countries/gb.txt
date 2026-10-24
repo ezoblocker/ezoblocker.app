@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, United Kingdom (gb)
-# Domains: 26 | Updated: 2026-10-24
+# Domains: 30 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 0.0.0.0 121hookups.com
 0.0.0.0 321chat.com
 0.0.0.0 adultwork.com
+0.0.0.0 aurahookups.com
 0.0.0.0 birmingham.bonepage.com
 0.0.0.0 birmingham.chaosads.co.uk
 0.0.0.0 boldhookups.com
@@ -16,6 +17,9 @@
 0.0.0.0 gb.banana-chat.com
 0.0.0.0 genuineukswingers.co.uk
 0.0.0.0 heysugardaddy.com
+0.0.0.0 hookupclique.com
+0.0.0.0 hookupflare.com
+0.0.0.0 hookuptide.com
 0.0.0.0 localhookuphub.com
 0.0.0.0 marrieddatinguk.com
 0.0.0.0 myrtle-beach.bonepage.com

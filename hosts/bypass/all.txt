@@ -1,13 +1,15 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 147 | Updated: 2026-10-24
+# Domains: 154 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 7umd17ypjsy2.tksante.fr
 0.0.0.0 9japroxy.com
 0.0.0.0 a.v2ray.cx
 0.0.0.0 adguard-dns.io
 0.0.0.0 adguard.com
+0.0.0.0 agriculture.gouv.ne
 0.0.0.0 app.cyberyozh.com
 0.0.0.0 aproxy.com
 0.0.0.0 apt.izzysoft.de
@@ -44,9 +46,11 @@
 0.0.0.0 helpdesk.iupat.org
 0.0.0.0 hide-my-ip.net
 0.0.0.0 hideip.net
+0.0.0.0 hidemy-name.com
 0.0.0.0 hideproxy.io
 0.0.0.0 hotspot-shield.ar.softmany.com
 0.0.0.0 hub.zlonov.ru
+0.0.0.0 india-vpn.apk.cafe
 0.0.0.0 insights.streamuktvabroad.com
 0.0.0.0 ipfoxy.com
 0.0.0.0 k-tunnel.net
@@ -84,6 +88,7 @@
 0.0.0.0 proxysites.ai
 0.0.0.0 proxyviet.net
 0.0.0.0 proxyviet.org
+0.0.0.0 psiphon-pro.en.softmany.com
 0.0.0.0 psiphon.alsindibad.com
 0.0.0.0 psiphon.ar.softmany.com
 0.0.0.0 psiphon.com
@@ -119,6 +124,7 @@
 0.0.0.0 swissvpn.co
 0.0.0.0 talk.getindico.io
 0.0.0.0 torprojectstatus.org
+0.0.0.0 tracker.prohacking77.me
 0.0.0.0 tradeproxy.vn
 0.0.0.0 tunnelbear.ar.softmany.com
 0.0.0.0 tunproxy.com
@@ -137,6 +143,7 @@
 0.0.0.0 unblockyoutube.enic.pk
 0.0.0.0 unblockyoutube.video
 0.0.0.0 v2ray-macos-arm64-v8a.zip
+0.0.0.0 vpn-colombia-free-vpn-proxy-and-secure-vpn-unblock.apkgold.es
 0.0.0.0 vpn-proxy-master.en.softmany.com
 0.0.0.0 vpn.g-l.ch
 0.0.0.0 vpngate.4d.workers.dev

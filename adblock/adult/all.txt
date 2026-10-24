@@ -1,11 +1,12 @@
 ! Title: EZOBLOCKER Adult
-! Domains: 2,074 | Updated: 2026-10-24
+! Domains: 2,148 | Updated: 2026-10-24
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 |0hfagy5-css-import.run-transport.re^
 |0jilqa.kurt-mechanik.ch^
+|0lbyk4xa-stylesheet.federazioneitalianaorchidee.it^
 ||10000w.co.kr^
 ||1001noites.com^
 ||112sexshop.com^
@@ -36,6 +37,7 @@
 ||51heiliao-x734.pages.dev^
 ||51heiliaowangw.cc^
 |66seks-hikayeleri.yeahh.com^
+||69sexline.com.br^
 ||69shop.cz^
 |6hmw45sfkvpb-script-js.run-transport.re^
 ||6navi.ch^
@@ -73,6 +75,7 @@
 ||adultsmart.com.au^
 ||adultsource.ca^
 ||adultstore.ro^
+||adultstoyoutlet.com^
 ||adulttoybox.biz^
 |adulttoymegastore.valuecom.com^
 ||adulttoys-india.com^
@@ -240,8 +243,10 @@
 ||bodrumtr.com^
 ||bodyhouse.fr^
 ||bokebhub.farm^
+||bokebhub.wtf^
 ||bokep13.in.net^
 ||bokep88.pages.dev^
+||bokepco.com^
 ||bokepcrotindobokep.pages.dev^
 ||bokepidaman.com^
 ||bokepindo.forum^
@@ -258,12 +263,14 @@
 ||bokepjepang.org^
 ||bokepjp.com^
 ||bokeppijat.net^
+||bokepviral.in^
 ||bombshell-shop.ch^
 ||bonadiva.com^
 ||bonbonrose.ch^
 ||bondara.co.uk^
 ||boobies.fyi^
 ||boozyshop.be^
+||boozyshop.nl^
 ||bordell.com^
 |botolempangan.berdesa.id^
 ||bousens.com^
@@ -275,6 +282,7 @@
 ||boystore.com^
 |br.promocodie.com^
 ||breezeonlyfans.com^
+|bremen.city-map.de^
 ||brigademondaine.fr^
 ||brightonlyfans.com^
 ||brinquedossexuais.pt^
@@ -286,10 +294,12 @@
 ||busty-osaka-estama.com^
 ||buttman.com.ar^
 ||buttplug.io^
+||buzzy.co.uk^
 ||byann.pl^
 ||byplay.es^
 ||cake-mayoreo.com^
 ||cake-sexshop.com^
+||calendrierdelavent.com^
 ||camerinsite.com^
 ||camsexdeutsch.com^
 ||camsflow.com^
@@ -313,6 +323,7 @@
 ||chakueromamire.com^
 ||chambersoflove.se^
 |channel.beep-shop.com^
+||charlottedewinter.com^
 ||charnel-club.be^
 |chat.europnet.org^
 ||chaturbate.com.es^
@@ -354,10 +365,12 @@
 ||comesonlyfans.com^
 |comic.sumikko.info^
 ||comparar.net^
+||compreintt.com.br^
 ||conanddom.com^
 ||concordelove.fr^
 ||condom69.net^
 ||condombazaar.com^
+||condomsense.us^
 ||condonesmix.com^
 ||connect-shokai.jp^
 ||control.pt^
@@ -392,6 +405,7 @@
 ||darazcod.com.pk^
 ||daraztoy.com.pk^
 ||darquepath.com.au^
+||daydreamerstore.com^
 ||ddurazno.com^
 ||deardesire.co.za^
 ||debordsetdesrives.fr^
@@ -399,10 +413,12 @@
 ||decodeonlyfans.com^
 ||deeplove.cz^
 ||delighttoys.in^
+||denizliescortbayansitesi.com^
 ||denizlipen.com^
 ||depaarsekeizerin.nl^
 ||desifap.net^
 ||desihoes.com^
+||desimaza.stream^
 ||desimms.co.in^
 ||desimms.com^
 ||desimms.in^
@@ -410,6 +426,7 @@
 ||desipussy.org^
 ||desirel.at^
 ||desirel.be^
+||desirel.fr^
 ||desirel.gr^
 ||desirel.ie^
 ||desirel.ro^
@@ -421,6 +438,7 @@
 ||deutschepornos.tv^
 ||dialogistanbul.com^
 ||dicrotin.link^
+||dicrotin.today^
 ||dildoking.de^
 ||discreetlife.ca^
 ||distribuidorasexshop.com.br^
@@ -433,6 +451,7 @@
 ||dochoinam.com^
 ||dochoitinhduc4u.com^
 ||dochoitinhducxtoy.com^
+||doctorjohns.online^
 ||doeda.baby^
 ||doeda.buzz^
 ||doeda104.click^
@@ -459,6 +478,7 @@
 ||dorcel-store.com^
 ||dorcelstore.com^
 ||doxxes.love^
+||dream-x.ch^
 ||dreamsptystore.com^
 ||dreamydesire.com^
 ||drloves.vn^
@@ -470,6 +490,7 @@
 ||duosexshop.cl^
 ||e-marilyn.pl^
 ||e-sexplanet.gr^
+||easyfarma.it^
 ||easytoys.es^
 ||easytoys.fr^
 ||easytoys.nl^
@@ -506,6 +527,7 @@
 ||eromarkt.nl^
 ||eromega.com^
 ||eros.com.ua^
+||eros.fo^
 ||eros.hr^
 ||eros55.ru^
 ||erosadultboutique.com^
@@ -513,6 +535,7 @@
 ||erosetcompagnie.com^
 ||eroshop.gr^
 ||erosstar.cz^
+||erot.pl^
 ||erotic-med.pl^
 ||erotic-shop.ro^
 ||erotic24.ro^
@@ -529,6 +552,7 @@
 ||eroticshop.ro^
 ||eroticstore.cz^
 ||erotictreasure.nl^
+||erotiek-dates-online.nl^
 ||erotiek-en-seks.be^
 ||erotik-toys.de^
 |erotik.markt.ch^
@@ -606,6 +630,7 @@
 ||femdomth.com^
 ||femdomverse.com^
 ||femorasexshop.com^
+||fera-daemon.com^
 ||ferramentas.pt^
 ||ferventonlyfans.com^
 ||fetch.com.cy^
@@ -617,6 +642,7 @@
 ||filzlaus.com^
 ||findomlive.cam^
 ||findshop.co^
+|fishing.adcomm.kr^
 ||flagranti.cz^
 ||flagranti.sk^
 ||fleshlight.eu^
@@ -640,6 +666,7 @@
 ||frixx.pl^
 ||frutoproibido.com^
 |frutoproibido.pai.pt^
+||fsiblogx.com.im^
 ||fuckingcircus.com^
 ||fuckme.work^
 ||funline.ch^
@@ -669,6 +696,7 @@
 ||gloryholeuk.com^
 ||glowmesexshop.com.ar^
 ||godofporn.com^
+||goldcondom.com^
 ||goodvibres.com.br^
 ||goota.com.ar^
 ||gorgeous-berlin.de^
@@ -694,6 +722,7 @@
 ||hanimetv-b6j.pages.dev^
 ||hanimetv-dgq.pages.dev^
 ||harmonystore.co.uk^
+||hazoosexshop.com.br^
 ||hdabla.one^
 ||hdabla76.click^
 ||hderotik4.blog^
@@ -757,12 +786,14 @@
 ||hustlerhollywood.com^
 ||hypnoze.fr^
 |i.clipviet.blog^
+||iafi.info^
 ||icgiyimist.com^
 ||ideedudesir.fr^
 ||ifsatube46.lat^
 ||ifsatube69.lat^
 ||ifsaturk.com^
 ||ifsavideolari.com^
+||igoodsnovelties.com^
 ||igume.com^
 ||iloveboutique.com.au^
 ||iltempiodellamore.com^
@@ -795,8 +826,10 @@
 ||intimshop.by^
 ||intimshop.ro^
 ||intimshop.ru^
+||intimshop.sk^
 ||intipngentot.pages.dev^
 ||intymnosc.pl^
+||intymnosc24.pl^
 ||iposvnn.com^
 ||istanbul-escorts.info^
 ||istanbul12.com^
@@ -832,6 +865,7 @@
 ||jenylove.cl^
 ||jenylovemayorista.cl^
 ||jerkmate.se^
+||jewelcairnstore.com^
 ||jiglyescorts.com^
 ||joinmygruoponlyfans.pages.dev^
 ||jokerfilmizle.org^
@@ -856,8 +890,10 @@
 ||kachondiux.com^
 ||kadikoyescort1.world^
 ||kadikoyescort9.uno^
+||kaldagan.tv^
 ||kamababa15.com^
 ||kamababa17.com^
+||kamababa19.com^
 ||kamasutra.com^
 ||kamasutraplay.com^
 |kamery.humlnet.cz^
@@ -888,6 +924,7 @@
 ||kinkly.com^
 ||kinklyapp.com^
 ||kinkysexshop.gr^
+||kinkystore.pl^
 ||kinkytijd.nl^
 ||kirmizicadde.com^
 |kirov.fooby.ru^
@@ -946,6 +983,7 @@
 ||livesforce.com^
 ||lizzybliss.co.za^
 ||loanluan.pages.dev^
+||lojaafrodite.com.br^
 ||lojadodesejo.com.br^
 ||lojadodesejo.pt^
 ||lojadoprazer.com.br^
@@ -998,6 +1036,7 @@
 ||lovers.rs^
 ||loversshop.com.au^
 ||loversstores.com^
+||lovesense.ro^
 ||lovesexing.com^
 ||lovesexshop.at^
 ||lovesexshop.ie^
@@ -1040,6 +1079,7 @@
 |lynlll.rtbtbbpprornrrnrrrnr.sbs^
 |m.av19.org^
 |m.flirtkontakt.cz^
+|m.namdo.biz^
 |m.prague.lol^
 |m.sexywoo.co.kr^
 ||machoalfacolombia.com^
@@ -1061,14 +1101,17 @@
 ||maheirqx66.cyou^
 ||mahnsextoy.com^
 ||mahremdukkani.com^
+||mailfemale.com^
 ||maison-du-plug.fr^
 ||makeup.pl^
 ||malesescorts.com^
+||maletavermelha.com^
 ||mallescort.com^
 ||mallux.de^
 ||mammothcoffee.com^
 ||mamuski.de^
 ||manyakol.net^
+||maptiteculotte.com^
 |mapy.atlasfirem.info^
 ||maraonlyfans.com^
 ||marielove.de^
@@ -1084,6 +1127,7 @@
 ||maziona.online^
 ||meaculpa.ch^
 ||medellinsexshop.co^
+||mediabokep.com.de^
 ||mediapemersatubangsa.com^
 ||medusaboutiquesensual.com^
 ||megasexshop.gr^
@@ -1099,6 +1143,7 @@
 ||mersinim1.com^
 ||mersinimiz.com^
 ||mersinuniversitesi.net^
+||messen.de^
 ||metalshop.es^
 ||mibelleza.uy^
 ||midinonlyfans.com^
@@ -1199,6 +1244,7 @@
 |nightmall.linkstory.co.kr^
 ||nikkidarling.biz^
 ||nikmatindo.online^
+||nodex.ie^
 ||noktashop.com.tr^
 ||nollyporn.com^
 ||nonsurgical-penis-enlargement.com^
@@ -1243,6 +1289,7 @@
 ||onlyfansnederland.nl^
 ||onlyfansoldthings.com^
 ||onlyfansparra.pages.dev^
+||onlyporno.blog^
 ||onlysense.nl^
 ||ontopoflove.nl^
 ||onyxsolar.es^
@@ -1298,6 +1345,7 @@
 ||phimsexhaynon.com^
 ||phimsexhayxinh.com^
 ||phimsexhayz.net^
+||phimsexme.com^
 ||phimsexnhatban.asia^
 ||phimsexsieucapgay.rest^
 ||phimsexvietsubx.blog^
@@ -1352,6 +1400,7 @@
 ||pornflix.to^
 ||pornhub8.net^
 ||pornhubfriends.com^
+||pornlinkhub.com^
 ||pornmk.com^
 ||porno-ceske.cz^
 ||porno-movies.ch^
@@ -1410,6 +1459,7 @@
 |prinz-eisenherz.buchkatalog.de^
 ||privatecamsites.com^
 ||privatesexshoppanama.com^
+||priveshop69.com^
 ||privypleasures.com^
 ||promopro.co.uk^
 ||pronhouse.space^
@@ -1428,6 +1478,7 @@
 ||pussies.jp^
 ||pussies.win^
 ||putariadobrasil.com^
+||qlist.app^
 ||qmhsexza.net^
 ||rabattcode.de^
 ||ragazzeonlyfans.it^
@@ -1435,6 +1486,7 @@
 ||rainvipxescort.net^
 ||rajwa.shop^
 ||randyfox.com.au^
+||rapbeh.vip^
 ||rapidinha.pt^
 ||raveshop.cz^
 ||raw-missav11.tokyo^
@@ -1457,6 +1509,7 @@
 ||ripcurl.com^
 ||rocks-off.com^
 ||rojocherry.com^
+||rollingstone.fr^
 ||romanticdepot.com^
 ||romantix.com^
 ||romp.toys^
@@ -1489,6 +1542,8 @@
 ||schwarzer-reiter.com^
 |schweiz.inserate.gratis^
 ||secretafterdark.com^
+||secretasexy.com.br^
+|secretboxsexshop.brbelacupom.com^
 ||secretdelivery.pl^
 ||secretkink.com^
 ||secretlover.pl^
@@ -1570,6 +1625,7 @@
 ||sexosentido.co^
 ||sexosentidoav.com^
 ||sexpenditure.com^
+||sexpunkten.se^
 ||sexram.cl^
 ||sexrammayorista.cl^
 ||sexsati.sex^
@@ -1661,6 +1717,7 @@
 ||sextoythailand.com^
 ||sextoyuae.store^
 ||sextoyvancouver.com^
+||sextoyvergleich.de^
 ||sexuallifestyle.co.uk^
 ||sexuhlala.com.br^
 ||sexviet247.blog^
@@ -1684,6 +1741,7 @@
 ||sexypet.co.kr^
 ||sexyshop.cl^
 ||sexyshopqeros.it^
+||sexyshopstore.com^
 ||sexyshopticino.ch^
 ||sexystyle.ru^
 ||sexywawa.com^
@@ -1722,6 +1780,7 @@
 ||siamsextoys.com^
 ||siamtenga.com^
 ||siao69.net^
+||siliconelovers.com^
 ||simontok.lifestyle^
 ||simpcity.cfd^
 ||simplypleasure.com^
@@ -1817,6 +1876,7 @@
 ||telefonsex-tjejer.net^
 ||tenga.com.my^
 ||tenga.my^
+||tentazionivelate.com^
 ||terbiyesizzler.com^
 ||teresamyceliaonlyfans.pages.dev^
 ||terresaintezarlor.re^
@@ -1868,9 +1928,11 @@
 ||toykingdom.com.ph^
 ||toypakistan.pk^
 ||toys-hub.nl^
+||toysecret.it^
 ||toyshub.pk^
 ||toysinpakistan.pk^
 ||toysrus.co.th^
+||toytastisch.de^
 ||toyzpakistan.com^
 ||tracysdog.com^
 ||tramagliadario.it^
@@ -1887,6 +1949,7 @@
 ||tudeseosexshop.com^
 ||tuerotica.com^
 ||tulipan.pl^
+|tulipasexshop.meudesconto.org^
 ||turk-ifsa23.com^
 ||turkceerotikfilmcx.cfd^
 ||turkceporna4.click^
@@ -1917,10 +1980,14 @@
 ||turkzzers.net^
 ||tutkusexshop.net^
 ||twinkleonlyfans.com^
+|tzyrbdtt.sosagovo.blog^
 ||uberkinky.com^
 ||ukgangbang.com^
 ||umraniyeescort11.uno^
 ||unblockmate.red^
+||uncutprime.to^
+||unihornofficial.com^
+||unikat-comp.pl^
 ||universpharmacie.fr^
 |unna.city-map.de^
 ||untamed.love^
@@ -1960,6 +2027,7 @@
 ||viet69z.blog^
 ||vietnam-xvideos.com^
 ||vieweronlyfans.com^
+||viewporn.one^
 |villagecenterfl.govbuilt.com^
 ||vintoy.vn^
 ||violetboutique.net^
@@ -1968,6 +2036,8 @@
 ||viperotikfilm4.skin^
 ||vipsa.com^
 ||vipsexshop.cl^
+||viralbf10.com^
+||viralkan.lol^
 ||vitrinedaputaria.com^
 ||vivasexe.com^
 ||vivelavita.com^
@@ -2007,6 +2077,7 @@
 ||wildsecretslingerie.com.au^
 ||willi.cz^
 ||willie.be^
+||woxxx-erotiksupermarkt.de^
 |wvw.betim-guncelgiris.live^
 |www.1.1.1.1.urlquery.net^
 |www.digitalpassport.jisp.com^
@@ -2027,7 +2098,9 @@
 ||xn--bstvuxenleksaker-vnb.se^
 ||xn--c3cyurv9a4a4a0h0b.com^
 ||xn--l3caaaa6a6c9c4c0h4c.com^
+||xn--l3caaaaaaaa5ska4j.com^
 ||xn--l3caq6a3c9fe6c.net^
+||xn--l3cbn3ac9cb6cyai4x.com^
 ||xn--l3cg7aj3a3f2d.net^
 ||xn--o39an5bf2p1yd8xin3lwgv.com^
 ||xnhauz.com^
@@ -2052,6 +2125,7 @@
 ||xvideos8.net^
 ||xvideosporno.co^
 ||xvideoss.pages.dev^
+||xxviet.net^
 ||xxvn.link^
 ||xxxhindi.shop^
 ||xxxhindi2.site^

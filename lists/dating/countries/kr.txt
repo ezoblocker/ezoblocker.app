@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Dating, South Korea (kr)
-# Domains: 21 | Updated: 2026-10-24
+# Domains: 24 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/countries/kr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+car.gorus.com
 career.hyperconnect.com
 djdongdoes.djsch.kr
 juso.2ver.com
@@ -20,7 +21,9 @@ ntu.ff.or.kr
 *.opstarnew.com
 *.opstarsite.com
 *.opview86.com
+*.opview87.com
 *.opviewko.com
+pop.mil-al.co.kr
 preview.plickers.com
 story.s-oil.com
 xn----34565-9300ah52c8i5a4tlhzd8z3bgen.mamap.co.kr

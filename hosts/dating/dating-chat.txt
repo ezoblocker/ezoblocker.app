@@ -1,12 +1,14 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 366 | Updated: 2026-10-24
+# Domains: 372 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 321chat.com
+0.0.0.0 5y9nv9ytfw.troupedespatarins.fr
 0.0.0.0 6e1ksudjredns.chicecini.blog
 0.0.0.0 ab.211.ca
+0.0.0.0 actv.avmspa.it
 0.0.0.0 ai.updf.com
 0.0.0.0 akordy.kytary.cz
 0.0.0.0 alemortam.net
@@ -20,6 +22,7 @@
 0.0.0.0 arabchat.mobi
 0.0.0.0 arabchatting.com
 0.0.0.0 argentina.zonacitas.com
+0.0.0.0 askaichat.app
 0.0.0.0 askalemi.net
 0.0.0.0 au.banana-chat.com
 0.0.0.0 azarlive.com
@@ -82,6 +85,7 @@
 0.0.0.0 chathub1.com
 0.0.0.0 chathubapp.com
 0.0.0.0 chatib.us
+0.0.0.0 chatikfm.ru
 0.0.0.0 chatindonesia.com
 0.0.0.0 chatindonesia.org
 0.0.0.0 chatinireland.com
@@ -324,6 +328,7 @@
 0.0.0.0 svenskacams.se
 0.0.0.0 swipr-make-snapchat-friends.softonic.nl
 0.0.0.0 swisschat.org
+0.0.0.0 taay.soniadalka.pl
 0.0.0.0 talk2stranger.com
 0.0.0.0 talkrand.com
 0.0.0.0 talkwithstranger.co.uk
@@ -366,6 +371,7 @@
 0.0.0.0 www.chatting.chatkaro.in
 0.0.0.0 www.chis.regionstockholm.se
 0.0.0.0 yazgulu.net
+0.0.0.0 yb9buvbt.nettoyagereunion.re
 0.0.0.0 yozm.wishket.com
 0.0.0.0 zap.struckd.com
 0.0.0.0 zaporojskiy-chat.fosite.ru

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Poland (pl)
-# Domains: 14 | Updated: 2026-10-24
+# Domains: 15 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/pl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 0.0.0.0 animesub.info
 0.0.0.0 ekino-tv.sugester.pl
 0.0.0.0 famemma.tv
+0.0.0.0 filmancc.com.pl
 0.0.0.0 iptvpolska24.pl
 0.0.0.0 iptvpolska4k.pl
 0.0.0.0 m.kino-sokol.pl

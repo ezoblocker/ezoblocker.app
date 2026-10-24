@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, PK (pk)
-# Domains: 42 | Updated: 2026-10-24
+# Domains: 43 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/pk.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -19,6 +19,7 @@
 0.0.0.0 intimatefashions.pk
 0.0.0.0 kamababa15.com
 0.0.0.0 kamababa17.com
+0.0.0.0 kamababa19.com
 0.0.0.0 lelo.com.pk
 0.0.0.0 loveabletoys.com
 0.0.0.0 lovenest.pk

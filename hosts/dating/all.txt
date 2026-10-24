@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,109 | Updated: 2026-10-24
+# Domains: 1,132 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,9 +8,12 @@
 0.0.0.0 1escorts.net
 0.0.0.0 2backpage.com
 0.0.0.0 321chat.com
+0.0.0.0 5y9nv9ytfw.troupedespatarins.fr
 0.0.0.0 6e1ksudjredns.chicecini.blog
 0.0.0.0 ab.211.ca
+0.0.0.0 abu-dhabi-new-service.b12sites.com
 0.0.0.0 acheckerviet.bio
+0.0.0.0 actv.avmspa.it
 0.0.0.0 adultforum.co.nz
 0.0.0.0 adultfriendfinder.ca
 0.0.0.0 adultfriendfinder.com
@@ -44,6 +47,7 @@
 0.0.0.0 argentina.zonacitas.com
 0.0.0.0 ashleymadison.com
 0.0.0.0 asiandating.com
+0.0.0.0 askaichat.app
 0.0.0.0 askalemi.net
 0.0.0.0 askcafe.net
 0.0.0.0 astrocupid.com
@@ -52,6 +56,7 @@
 0.0.0.0 au.banana-chat.com
 0.0.0.0 au.escortsaffair.com
 0.0.0.0 au.langtrees.com
+0.0.0.0 aurahookups.com
 0.0.0.0 austria.escortface.com
 0.0.0.0 austriaescort.at
 0.0.0.0 auth.adultforce.com
@@ -127,6 +132,7 @@
 0.0.0.0 canada.escortface.com
 0.0.0.0 canadaescorts.ca
 0.0.0.0 cape-town.dfs05.ru
+0.0.0.0 car.gorus.com
 0.0.0.0 career.hyperconnect.com
 0.0.0.0 caribbeancupid.com
 0.0.0.0 carijodohclub.blogspot.com
@@ -167,6 +173,7 @@
 0.0.0.0 chathub1.com
 0.0.0.0 chathubapp.com
 0.0.0.0 chatib.us
+0.0.0.0 chatikfm.ru
 0.0.0.0 chatindonesia.com
 0.0.0.0 chatindonesia.org
 0.0.0.0 chatinireland.com
@@ -457,6 +464,7 @@
 0.0.0.0 greekchat.com
 0.0.0.0 greekchat.eu
 0.0.0.0 greekschat.com
+0.0.0.0 green-bay.bonepage.com
 0.0.0.0 grindr.com
 0.0.0.0 growlr.com
 0.0.0.0 gulfdate.com
@@ -486,6 +494,9 @@
 0.0.0.0 hobart.bonepage.com
 0.0.0.0 honeychat.app
 0.0.0.0 hongkongcupid.com
+0.0.0.0 hookupclique.com
+0.0.0.0 hookupflare.com
+0.0.0.0 hookuptide.com
 0.0.0.0 hossohbet.com
 0.0.0.0 hotescortnearme.com
 0.0.0.0 hotgirlsescortsmallorca.com
@@ -498,6 +509,7 @@
 0.0.0.0 in.seekerpleasure.com
 0.0.0.0 in.zuli.in
 0.0.0.0 ind.incallup.com
+0.0.0.0 independent-escort-girls-abu-dhabi.b12sites.com
 0.0.0.0 india.escortface.com
 0.0.0.0 indian-call-girls-ajman-t7mq.b12sites.com
 0.0.0.0 indiancupid.com
@@ -580,6 +592,7 @@
 0.0.0.0 listcrawler.app
 0.0.0.0 listcrawler.eu
 0.0.0.0 livechat.sex-czech.cz
+0.0.0.0 liver.doneru.jp
 0.0.0.0 localhookuphub.com
 0.0.0.0 locanto.com.mx
 0.0.0.0 locanto.ie
@@ -606,6 +619,7 @@
 0.0.0.0 m.members.duo.co.kr
 0.0.0.0 m.relaxchile.cl
 0.0.0.0 m.sweetglam.co.kr
+0.0.0.0 m.tottaa.com
 0.0.0.0 m.xlist.gr
 0.0.0.0 m.ymeet.me
 0.0.0.0 machicon.um-club.jp
@@ -728,6 +742,7 @@
 0.0.0.0 opstarnew.com
 0.0.0.0 opstarsite.com
 0.0.0.0 opview86.com
+0.0.0.0 opview87.com
 0.0.0.0 opviewko.com
 0.0.0.0 orange-county.bonepage.com
 0.0.0.0 osaka.chance.chat
@@ -747,6 +762,7 @@
 0.0.0.0 pakistaniescortservices.com
 0.0.0.0 pandavideochat.com
 0.0.0.0 panduan.sekolah.mu
+0.0.0.0 papakatsu.conohawing.com
 0.0.0.0 paranaquecityph.assortlist.com
 0.0.0.0 parenthub.brillfrc.ie
 0.0.0.0 paris.sanslendemain.net
@@ -773,9 +789,11 @@
 0.0.0.0 pof.com
 0.0.0.0 polokwane.dfs05.ru
 0.0.0.0 pontianak.putrispa.com
+0.0.0.0 pop.mil-al.co.kr
 0.0.0.0 portaleducacional.unisanta.br
 0.0.0.0 portland-me.bonepage.com
 0.0.0.0 portlaoise.superiorcleanerssc.com
+0.0.0.0 porto.classificadosgratis.com.pt
 0.0.0.0 prahova.abcescorte.com
 0.0.0.0 prahova.escortepubli.com
 0.0.0.0 pref-kyoto-konkatsu.jp
@@ -933,6 +951,7 @@
 0.0.0.0 southafricancupid.com
 0.0.0.0 soyle.net
 0.0.0.0 spinchat.com
+0.0.0.0 springfield.bonepage.com
 0.0.0.0 staging.elkford.ca
 0.0.0.0 starbackpage.com
 0.0.0.0 stnnsh.ivocaruso.it
@@ -969,6 +988,7 @@
 0.0.0.0 swisschat.org
 0.0.0.0 synodous.enligne.ma
 0.0.0.0 syracuse.bonepage.com
+0.0.0.0 taay.soniadalka.pl
 0.0.0.0 tagged.com
 0.0.0.0 taimi.com
 0.0.0.0 talk2stranger.com
@@ -1049,6 +1069,7 @@
 0.0.0.0 valenzuelaph.assortlist.com
 0.0.0.0 vancouver.bonepage.com
 0.0.0.0 vard.skane.se
+0.0.0.0 ventura-county.bonepage.com
 0.0.0.0 vereeniging.escortlist.co.za
 0.0.0.0 vermont.bonepage.com
 0.0.0.0 vialetescortservice.nl
@@ -1072,6 +1093,7 @@
 0.0.0.0 web.chatapropo.ro
 0.0.0.0 web.vanessa-escort.ch
 0.0.0.0 webchat.5chat.it
+0.0.0.0 welkeonlinedatingsite.nl
 0.0.0.0 wellhello.com
 0.0.0.0 westcoastswingers.com
 0.0.0.0 wexford-escorts.kinoxit.ru
@@ -1100,6 +1122,7 @@
 0.0.0.0 xn--escort-kbenhavn-dub.dk
 0.0.0.0 xxx-prostitutki.com
 0.0.0.0 yazgulu.net
+0.0.0.0 yb9buvbt.nettoyagereunion.re
 0.0.0.0 yesbackpage.com
 0.0.0.0 yoasobi-heaven.com
 0.0.0.0 youbride.jp

@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Dating, Ukraine (ua)
-# Domains: 33 | Updated: 2026-10-24
+# Domains: 34 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/ua.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 chat.vinbazar.com
+0.0.0.0 chatikfm.ru
 0.0.0.0 chatua.com.ua
 0.0.0.0 chernigov.kek-sik.com
 0.0.0.0 chernigov.sexysluts24.com

@@ -1,14 +1,18 @@
 # Title: EZOBLOCKER Piracy, Chile (cl)
-# Domains: 8 | Updated: 2026-10-24
+# Domains: 12 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/countries/cl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 cuevana3.boo
+cuevana3c.lat
 cuevanaserie.pro
 pelotalibreenvivo.cl
+pelotalibretv1.biz
 pirlotv.la
+pirlotv.plus
 rojadirecta.com.co
 rojadirectas.cc
+tarjetarojatvonline.info
 ww1.animefenix.vip
 ww1.pelis24.blog

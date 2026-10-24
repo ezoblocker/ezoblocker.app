@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Adult, Germany (de)
-# Domains: 60 | Updated: 2026-10-24
+# Domains: 68 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/de.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 1a-erotikshops.de
+0.0.0.0 adultstoyoutlet.com
 0.0.0.0 anoeses.com
 0.0.0.0 apornstories.com
 0.0.0.0 askari-jagd.at
@@ -12,12 +13,15 @@
 0.0.0.0 beste-onlyfans-models.de
 0.0.0.0 boutique-bizarre.de
 0.0.0.0 camsexdeutsch.com
+0.0.0.0 charlottedewinter.com
 0.0.0.0 danichou.de
 0.0.0.0 deutscheamateure24.com
 0.0.0.0 deutscheonlyfansmodels.de
 0.0.0.0 dildoking.de
+0.0.0.0 doctorjohns.online
 0.0.0.0 dolloro.de
 0.0.0.0 edd24.de
+0.0.0.0 eros.fo
 0.0.0.0 erotik-toys.de
 0.0.0.0 erotikchat4free.org
 0.0.0.0 erotikratgeber.com
@@ -37,6 +41,7 @@
 0.0.0.0 mallux.de
 0.0.0.0 marielove.de
 0.0.0.0 meindampfershop.de
+0.0.0.0 messen.de
 0.0.0.0 mystic-store.com
 0.0.0.0 novum-erotik.de
 0.0.0.0 orion-store.de
@@ -52,6 +57,7 @@
 0.0.0.0 sexchat-gutscheine.com
 0.0.0.0 sexchatroom.de
 0.0.0.0 sexshopberlin.com
+0.0.0.0 sextoyvergleich.de
 0.0.0.0 sinful.de
 0.0.0.0 sluttygram.com
 0.0.0.0 smashme.de
@@ -62,5 +68,7 @@
 0.0.0.0 teeny29.ch
 0.0.0.0 tomrockets.com
 0.0.0.0 toy-versand.com
+0.0.0.0 toytastisch.de
 0.0.0.0 unblockmate.red
 0.0.0.0 vodafterdark.com
+0.0.0.0 woxxx-erotiksupermarkt.de

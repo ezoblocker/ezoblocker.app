@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, Greece (gr)
-! Domains: 20 | Updated: 2026-10-24
+! Domains: 21 | Updated: 2026-10-24
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/gr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 ||betsson.gr^
 ||betwinner.com.gh^
 ||betwinner.global^
+||chicken-road-play.com.in^
 ||grbetwinner.com^
 ||mirrorurls1.com^
 ||mostbet-gr.net^

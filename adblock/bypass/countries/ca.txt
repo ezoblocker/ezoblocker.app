@@ -1,8 +1,9 @@
 ! Title: EZOBLOCKER Bypass, Canada (ca)
-! Domains: 2 | Updated: 2026-10-24
+! Domains: 3 | Updated: 2026-10-24
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/bypass/countries/ca.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+|agriculture.gouv.ne^
 ||hideproxy.io^
 ||proxysites.ai^

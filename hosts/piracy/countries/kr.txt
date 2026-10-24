@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, South Korea (kr)
-# Domains: 24 | Updated: 2026-10-24
+# Domains: 25 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/kr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,6 +13,7 @@
 0.0.0.0 inpiad60.inpiad.co.kr
 0.0.0.0 livescore.co.kr
 0.0.0.0 livescore.in
+0.0.0.0 m.3smedi.co.kr
 0.0.0.0 m.8513.co.kr
 0.0.0.0 newtoki.work
 0.0.0.0 newtoki1.org

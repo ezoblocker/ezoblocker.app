@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, United Arab Emirates (ae)
-# Domains: 11 | Updated: 2026-10-24
+# Domains: 13 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/ae.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,6 +12,8 @@
 0.0.0.0 elbotola.com
 0.0.0.0 kooora.com
 0.0.0.0 kooora.misrlinks.com
+0.0.0.0 kooralive.beer
 0.0.0.0 mycima-official.bitbucket.io
 0.0.0.0 shahid4u.courses
 0.0.0.0 shahid4u.energy
+0.0.0.0 wemycima.ink

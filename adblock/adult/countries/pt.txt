@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Portugal (pt)
-! Domains: 41 | Updated: 2026-10-24
+! Domains: 47 | Updated: 2026-10-24
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/pt.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 ||anesidora.net^
 ||beus.com.br^
 ||boutiqueluxuria.pt^
+||compreintt.com.br^
 ||control.pt^
 ||cupidosshop.com^
 ||dreamsptystore.com^
@@ -19,12 +20,14 @@
 |frutoproibido.pai.pt^
 ||funsexyshop.pt^
 ||hotsexshop.com.br^
+||lojaafrodite.com.br^
 ||lojadodesejo.com.br^
 ||lojadodesejo.pt^
 ||lovely.com.br^
 ||loveshop.pt^
 ||luxoseroticos.com^
 ||lxsexshop.pt^
+||maletavermelha.com^
 ||milemocoes.com.br^
 ||mistercock.pt^
 ||mysexshop.pt^
@@ -34,8 +37,10 @@
 ||pornocomlegenda.tv^
 ||portoxxi.com^
 ||portugal-fans.com^
+||priveshop69.com^
 ||ptlojas.net^
 ||rapidinha.pt^
+||secretasexy.com.br^
 ||secretsexshop.pt^
 ||sexocasual.pt^
 ||sexshopatacadao.com.br^
@@ -43,5 +48,6 @@
 ||sexshopsexy.com^
 ||sotugas.net^
 ||vibrolandia.com^
+||viewporn.one^
 ||vivelavita.com^
 ||welcomelover.com^

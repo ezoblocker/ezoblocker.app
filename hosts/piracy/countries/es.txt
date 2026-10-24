@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Spain (es)
-# Domains: 41 | Updated: 2026-10-24
+# Domains: 44 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/es.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 0.0.0.0 animeflv.ba
 0.0.0.0 animeflv.gr
 0.0.0.0 animeflv.or.at
+0.0.0.0 animeflvv.com
 0.0.0.0 animeyt.cc
 0.0.0.0 comprariptv.com
 0.0.0.0 cuevana3.re
@@ -19,6 +20,7 @@
 0.0.0.0 elitetorrent.org
 0.0.0.0 elitetorrent.world
 0.0.0.0 enpelisplus.com
+0.0.0.0 futbollibredirecto.online
 0.0.0.0 gnula.buzz
 0.0.0.0 gnula.forum
 0.0.0.0 gnula.living
@@ -27,6 +29,7 @@
 0.0.0.0 grantorrent.fyi
 0.0.0.0 icuevana3.cam
 0.0.0.0 iptvespanatv.pro
+0.0.0.0 jkanime.ro
 0.0.0.0 jkanime.surf
 0.0.0.0 monoschinos2.net
 0.0.0.0 pelisplus.garden

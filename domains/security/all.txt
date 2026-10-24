@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 39,266 | Updated: 2026-10-24
+# Domains: 39,248 | Updated: 2026-10-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -2778,7 +2778,6 @@ b-wh-atsapp.com.cn
 b-what-sapp.com.cn
 b-whats-app.hl.cn
 b-whats-app.sh.cn
-b.stats.paypal.auth-security-verify.com
 b22whatsappsex.pages.dev
 b7whatsappsex.pages.dev
 b8whatsappsex.pages.dev
@@ -4104,10 +4103,8 @@ c-oinbase-login.pages.dev
 c-w-hatsapp.com.cn
 c-wh-atsapp.com.cn
 c-wha-tsapp.com.cn
-c.paypal.auth-security-verify.com
 c1mypersonal-whatsappnumber.pages.dev
 c22whatsappsex.pages.dev
-c6.paypal.auth-security-verify.com
 ca-vous-credit-agricole-anjou-maine.ph
 cachegrid.ru
 caixa-applesupport.com.ph
@@ -5387,7 +5384,6 @@ coinbase-pro-secure-access.pages.dev
 coinbase-pro-security-update.net.ph
 coinbase-pro-service-policy.net.ph
 coinbase-pro-service-security-check.net.ph
-coinbase-pro-service-verify-identity.net.ph
 coinbase-pro-service-verify.net.ph
 coinbase-pro-sign.pages.dev
 coinbase-pro-sing.pages.dev
@@ -5439,7 +5435,6 @@ coinbase-start.pages.dev
 coinbase-starten.pages.dev
 coinbase-support-as0.pages.dev
 coinbase-support-ip2.pages.dev
-coinbase-support-line.net.ph
 coinbase-support-log.pages.dev
 coinbase-sync.pages.dev
 coinbase-us--wallet-extension.pages.dev
@@ -10214,7 +10209,6 @@ facebooksupport-appeals.pages.dev
 facebookuserreward.pages.dev
 faceboook-reels938y487u.pages.dev
 faceboook.sarani.online
-faceit-approve.pro
 faceit-verify-account.com
 faceit-verify.xyz
 facelessonroblox.pages.dev
@@ -12836,7 +12830,6 @@ hme-support-io-trezur.pages.dev
 hme-trzor-io.pages.dev
 hn-whatapp.com.cn
 hn-whatssapp.com.cn
-hnd.stats.paypal.auth-security-verify.com
 ho-metreazor-suit.pages.dev
 hohe-suites-trezrs-io.pages.dev
 hokibonus-login-mudah.pages.dev
@@ -14603,7 +14596,6 @@ instagramcopyrightverificationteamzonewormung.ph
 instagramcopyrightverificationteamzonewormzrc.ph
 instagramlikes.pages.dev
 instagramlogin-68z.pages.dev
-instagramrecoverypasswordj5n13kjln5k134bni1hkb321kn2ijnw.com
 instagramreward.ph
 instagramsetting-businesssuport.pages.dev
 instagramsupport.email
@@ -25976,7 +25968,6 @@ paypal-lx50gr8e29jprel.pages.dev
 paypal-mod-apk.pages.dev
 paypal-mtnoba07hxvuamk.pages.dev
 paypal-online-payment-confirmation.fanduelsportsnework.com
-paypal-online.shop
 paypal-payment-130-usd-checkout.pages.dev
 paypal-payment-130-usd.pages.dev
 paypal-payment-checkout-110-usd.pages.dev
@@ -26005,7 +25996,6 @@ paypal-verification-activity.fanduelportsnetwork.com
 paypal-verified-accounts-hub.pages.dev
 paypal-webview.pages.dev
 paypal-wgbxxd8pjdfvry2.pages.dev
-paypal.auth-security-verify.com
 paypal.com-confirm-review-verification.yourhorizon.com
 paypal.com-confirm-your-paypal-account.trainkook.com
 paypal.com-en.cgi-bin-dispatch.confirm-account.binaryvm.com
@@ -27590,7 +27580,6 @@ rovinhood-login-en.pages.dev
 roxhiroblox.pages.dev
 royal-trzor.pages.dev
 royalmail-redelivery.com
-royalmail-redelivery.icu
 rrezr-hrdwre-en.pages.dev
 rrobinhood-logiin.pages.dev
 rst-wemixit.com
@@ -28606,7 +28595,6 @@ sign-trustcapital.pages.dev
 sign-trustcapitl-us.pages.dev
 sign-uphold-login.pages.dev
 signed-appleid.ph
-signin-apple-id.com
 signin-appleid.com
 signin-appleid.support
 signin-check.atmail.com
@@ -32373,7 +32361,6 @@ t-rezor-wallet-cap.pages.dev
 t-rezor-wallet-login.pages.dev
 t-rezor-wallet.pages.dev
 t-trezorsuite.pages.dev
-t.paypal.auth-security-verify.com
 tab-coin-bse-io.pages.dev
 tab-trezar-official.pages.dev
 tag-logn-live-ledgr.pages.dev
@@ -32487,7 +32474,6 @@ telcelrewards.com
 telcelrewards.net
 telcoins-bank-com.pages.dev
 tele-grann.click
-teleghtnin.work
 teleghtprw.beer
 teleghtprw.luxe
 teleglaz.pages.dev
@@ -32575,7 +32561,6 @@ test-run-google-sign-in.pages.dev
 test-start-trzor.pages.dev
 teste-cielo-pagamento.pages.dev
 tevehyzel.top
-texequicks.club
 texolura-janorive.pages.dev
 tezor--wallet.pages.dev
 tezor-bridge-app.pages.dev
@@ -32712,7 +32697,6 @@ tntrobloxid.pages.dev
 tobi2whatsapp.pages.dev
 today-trezr-en-lo-web.pages.dev
 today-trezr-en.pages.dev
-tokanim-cdn52-hk32.lol
 tokemim-cdn52-hk52.xyz
 token-blockdag.pages.dev
 token-im.co
@@ -36663,7 +36647,6 @@ us04web-zoom-us9738775763667.pages.dev
 us05web-zoom-us.pages.dev
 us05web-zoom-us78764773743887.pages.dev
 us06trymicrosoft.pages.dev
-us155webzoom.live
 usa-bridge-trezor-io.pages.dev
 usa-coinbase-live-helpcenter.pages.dev
 usa-coinbase-login.pages.dev
@@ -38986,7 +38969,6 @@ www.paypal-env.getstaylo.com
 www.paypal-helpcenter.boutiquemane.com
 www.paypal-security-center.com.christchapel.org.ng
 www.paypal-tracking-pvt-app.theprimecoders.com
-www.paypal.auth-security-verify.com
 www.paypal.com-confirm-your-paypal-account.trainkook.com
 www.paypal.confirmation.account.okulus.webd.pl
 www.paypal.item-illo.click
