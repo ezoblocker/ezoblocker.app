@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 976 | Updated: 2026-10-25
+# Domains: 977 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -342,6 +342,7 @@
 0.0.0.0 gomovieshd.today
 0.0.0.0 gomoviess.vip
 0.0.0.0 google-play.en.softmany.com
+0.0.0.0 grandpashabet7567.com
 0.0.0.0 grantorrent.foo
 0.0.0.0 grantorrent.fyi
 0.0.0.0 greekddl.gr

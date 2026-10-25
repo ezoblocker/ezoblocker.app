@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling
-! Domains: 397,950 | Updated: 2026-10-25
+! Domains: 398,049 | Updated: 2026-10-25
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1312,6 +1312,8 @@
 ||123betsite.com^
 ||123betsport.com^
 ||123betsports.com^
+||123betting-goose.com^
+||123betting-gorilla.com^
 ||123betting-th.org^
 ||123betting-vip.net^
 ||123betting.asia^
@@ -2244,6 +2246,7 @@
 ||188betcasino.pages.dev^
 ||188betcasino.pl^
 ||188betcasino.win^
+||188betcasinobet.com^
 ||188betcasinovn.com^
 ||188betdai188.com^
 ||188betdownloadapk.com^
@@ -4150,6 +4153,7 @@
 ||1xbet-zambia-betting.net^
 ||1xbet-zerkalo-now.com^
 ||1xbet-zerkalo-rabochee-na-segodnya2025.com^
+||1xbet-zerkalo.games^
 ||1xbet-zerkalo.site^
 ||1xbet-zerkalo01.top^
 ||1xbet-zerkalo1x.xyz^
@@ -8303,6 +8307,7 @@
 ||322betcasino.com.br^
 ||322betdownload.com^
 ||322bets10.com^
+||322betsextou.com^
 ||322kolaybet.com^
 ||323bets10.com^
 ||323casibom.com^
@@ -9977,6 +9982,7 @@
 ||4kingbet.im^
 ||4kingbet.life^
 ||4kingbet.website^
+||4kingbetpg.win^
 ||4kingbetx.store^
 ||4kubet.com^
 ||4lev-kazino-online.ru^
@@ -12684,6 +12690,7 @@
 ||68winclub68.com^
 ||68winplus.click^
 ||68winplus.net^
+||68winvn88.com^
 ||68x-casino.com^
 ||68xbetpg.com^
 ||68xcasino.com^
@@ -18049,6 +18056,7 @@
 ||90jiliiph.com^
 ||90jiliph.me^
 ||90jiliph.xyz^
+||90jiliphp.com^
 ||90jilivip-ph.com^
 ||90jilivip.bid^
 ||90jilivip.fun^
@@ -20812,6 +20820,7 @@
 ||adupoker.net^
 ||adupoker88-new6.pages.dev^
 ||adupoker88.net^
+||aduqqbandarqq.com^
 ||adv.bet^
 ||advancecourierz.com^
 ||advancedcasino.ca^
@@ -24228,6 +24237,7 @@
 ||allyspincasino.eu^
 ||allyspincasino.fi^
 ||allyspincasino.fr^
+||allyspincasino.gr^
 ||allyspincasino.hu^
 ||allyspincasino.it^
 ||allyspincasino.lv^
@@ -25789,6 +25799,7 @@
 ||amp-oke-sultan-slot-gacor-net.pages.dev^
 ||amp-oke-sultan-slot-gacor-resmi.pages.dev^
 ||amp-okesultan-slot69-gacor.pages.dev^
+||amp-oli4d-cuevana3.pages.dev^
 ||amp-olxtoto-slot-gacor.pages.dev^
 ||amp-opopokercom.pages.dev^
 ||amp-opopokernet.pages.dev^
@@ -30496,6 +30507,7 @@
 ||arcadeviento.com^
 ||arcane-bet-casino.com^
 ||arcane-bet-casino.net^
+||arcane-bosssports.com.cn^
 ||arcanebet-casino-us-com-guide-cf785274.pages.dev^
 ||arcanebet-casino.bet^
 ||arcanebet-casino.ca^
@@ -33440,6 +33452,7 @@
 ||auracasinoz.com^
 ||aurahokislot.info^
 ||aurainbet.com^
+||aural-bosssports.com.cn^
 ||auralivecasino.com^
 ||auraplay-casino.com^
 ||auraplaycasinos-online.com^
@@ -33470,6 +33483,7 @@
 ||aureonplaycasino.org^
 ||auretrobet.com^
 ||aurevanacasino.com^
+||auric-bosssports.com.cn^
 ||aurichard-casino.com^
 ||aurichardcasino.com^
 ||aurickycasino-com.pages.dev^
@@ -34506,6 +34520,7 @@
 ||aviantogel-newslotgacor.pages.dev^
 ||aviantogelrtp-slotgacor.pages.dev^
 ||aviashow-casino.com^
+||aviashowcasino.com^
 ||aviator-1win-slot.ru^
 ||aviator-1xbet.kz^
 ||aviator-aposta.com^
@@ -35019,6 +35034,7 @@
 ||aycellzz-harum189.pages.dev^
 ||aycelzz-harum189.pages.dev^
 ||aydinhaliyikamaci.com.tr^
+||aydinliescortw.pages.dev^
 ||ayezee-casino.co.uk^
 ||ayf-casino.ru^
 ||ayf-casino.store^
@@ -37357,6 +37373,7 @@
 ||banglabet88.blog^
 ||banglabet88.co.com^
 ||banglabet88.com^
+||banglabet88.id^
 ||banglabet88.me^
 ||banglabet88.onl^
 ||banglabet88.site^
@@ -37933,6 +37950,8 @@
 ||barebonecasino.com^
 ||bareknucklescasino.com^
 ||bareknucklesweepscasino.com^
+||barge-betwaysports.com.cn^
+||barge-williamhill.com.cn^
 ||barges78-slotgacor.pages.dev^
 ||barinopiarjm-slotgacor.pages.dev^
 ||baris4d-slot-gacor.pages.dev^
@@ -40343,6 +40362,7 @@
 ||bdgamebet.pro^
 ||bdgamebet.win^
 ||bdgolorycasino.com^
+||bdgslotgames.com^
 ||bdgularicasino.com^
 ||bdgwin-casino-in.com^
 ||bdgwin-casino-india.com^
@@ -47633,6 +47653,7 @@
 ||betflik19-betflix19.pages.dev^
 ||betflik19.club^
 ||betflik19.pro^
+||betflik199.autos^
 ||betflik199.it.com^
 ||betflik28-slot.pages.dev^
 ||betflik28.cam^
@@ -47676,6 +47697,7 @@
 ||betflikevo.pro^
 ||betflikio.net^
 ||betflikking.co^
+||betflikm.pages.dev^
 ||betflikpg.co^
 ||betflikpro.com^
 ||betflikpro.vip^
@@ -47742,6 +47764,7 @@
 ||betflix.onl^
 ||betflix.uk.com^
 ||betflix.wine^
+||betflix1.click^
 ||betflix1188.live^
 ||betflix168-aka.com^
 ||betflix168.best^
@@ -52606,6 +52629,7 @@
 ||betplay138.org^
 ||betplay138work.pages.dev^
 ||betplay168.org^
+||betplay168m.info^
 ||betplay188.com^
 ||betplay188.org^
 ||betplay2.pages.dev^
@@ -60028,6 +60052,7 @@
 ||bingoonline.nu^
 ||bingoonline.pages.dev^
 ||bingoonline.win^
+||bingoonlineaovivo.com^
 ||bingoonlinecanada.ca^
 ||bingoonlinegame.net^
 ||bingoonlineio.pages.dev^
@@ -60495,6 +60520,7 @@
 ||bisoncasino1.io^
 ||bisoncasino1.one^
 ||bisoncasino2-deutschland.com^
+||bisoncasino2.casino^
 ||bisoncasino24.com.de^
 ||bisoncasino24.de^
 ||bisoncasino24.pl^
@@ -68067,6 +68093,7 @@
 ||brazino777bet6.com^
 ||brazino777betbr.com^
 ||brazino777beti.com^
+||brazino777bets0.com^
 ||brazino777bl.com^
 ||brazino777bono.com^
 ||brazino777bonus.com^
@@ -84075,6 +84102,7 @@
 ||casino-thorfortune-at-51cb175a.pages.dev^
 ||casino-thorfortune-it-4745e9fe.pages.dev^
 ||casino-thorfortune.at^
+||casino-thorfortune.com.pl^
 ||casino-thorfortune.es^
 ||casino-thorfortune.fr^
 ||casino-thorfortune.it^
@@ -84091,6 +84119,7 @@
 ||casino-tiger.net^
 ||casino-tikal.de^
 ||casino-tikal.nl^
+||casino-tikitaka-gr.pages.dev^
 ||casino-tikitaka.biz^
 ||casino-tikitaka.click^
 ||casino-tikitaka.de^
@@ -116666,6 +116695,7 @@
 ||catcasino-inf.top^
 ||catcasino-inu.top^
 ||catcasino-ioc.top^
+||catcasino-ios.com^
 ||catcasino-ipc.top^
 ||catcasino-iqs.top^
 ||catcasino-iqx.top^
@@ -122951,6 +122981,7 @@
 ||cnecasino.ca^
 ||cnetcasino.com^
 ||cnmicasinocommission.com^
+||cnn-williamhill.com^
 ||cnnslot-amp.pages.dev^
 ||co-brazino777.com^
 ||co1winapuestas.co^
@@ -129166,6 +129197,7 @@
 ||crystalcasinol.com^
 ||crystalcasinonetwork.com^
 ||crystalcasinoplay.ru^
+||crystallagooncasinoc.com^
 ||crystalloungeandcasino.com^
 ||crystallrolcasino.com^
 ||crystalpalacecasino.com^
@@ -144837,6 +144869,7 @@
 ||exomerch-agenslot.pages.dev^
 ||exonbetcasino.com^
 ||exototoslot.id^
+||exp-nba-prop-betting-cheat-sheet-for-casual-fans.pages.dev^
 ||expanse-studios-apuestas-8sb.pages.dev^
 ||expanse-studios-apuestas.pages.dev^
 ||expanse-studios-scommesse.pages.dev^
@@ -148655,6 +148688,7 @@
 ||feltherpforum.dk^
 ||femalescholars-slotgacor.pages.dev^
 ||femcasino.nl^
+||femdomuniversity-sky99.pages.dev^
 ||femmecasino.nl^
 ||fendi188judionline.com^
 ||fendi77slot-asia-dari-langit-1da.pages.dev^
@@ -151250,6 +151284,7 @@
 ||fortunerabbitcasino.com.br^
 ||fortunercasino-click.pages.dev^
 ||fortunercasino.click^
+||fortunereefcasinoa.com^
 ||fortunerollingslots.com^
 ||fortuneslotmachine.pages.dev^
 ||fortuneslots777bet.com^
@@ -155564,6 +155599,7 @@
 ||funbet55-game-baru.pages.dev^
 ||funbet55-login-modern-ringkas.pages.dev^
 ||funbet555.com^
+||funbet66.net^
 ||funbet66.org^
 ||funbet7.org^
 ||funbet77-9ly.pages.dev^
@@ -156072,6 +156108,7 @@
 ||gaca-slot-gacor-pake.pages.dev^
 ||gacam67casinobet.com^
 ||gacam888homebet.com^
+||gacamhomebet.com^
 ||gachaslotgacor.com^
 ||gacoertotoslot.com^
 ||gacor-77-dana-maxwin.pages.dev^
@@ -156437,6 +156474,7 @@
 ||galabet.ws^
 ||galabet.wtf^
 ||galabet.zip^
+||galabet1026.com^
 ||galabet1122.cam^
 ||galabet188.com^
 ||galabet2642.com^
@@ -157570,6 +157608,7 @@
 ||gambloria-it.eu^
 ||gambloria-italia.com^
 ||gambloria-italia.it^
+||gambloria-kr.com^
 ||gambloria-luck-com-14b31e1f.pages.dev^
 ||gambloria-luck.com^
 ||gambloria-me-com-269c1d80.pages.dev^
@@ -159441,6 +159480,7 @@
 ||gatewaycasinothunderbay.ca^
 ||gatewayfda-thailand-slot-gacor-sempurna178.pages.dev^
 ||gathombet.com^
+||gathomowins.com^
 ||gatineaucasino-cc-2f9be5b1.pages.dev^
 ||gatineaucasino-group-e76514fa.pages.dev^
 ||gatineaucasino-online.pages.dev^
@@ -167705,6 +167745,7 @@
 ||grandbet88jpx220.site^
 ||grandbet88link.id^
 ||grandbet88login.id^
+||grandbet88m.com^
 ||grandbet88maxwin.online^
 ||grandbet88naga.com^
 ||grandbet88slot.id^
@@ -176575,6 +176616,7 @@
 ||hottotoslot.com^
 ||hotvegascasinom.com^
 ||hotvideoslots.com^
+||hotwifetara.com^
 ||hotwin-casino-belgique.com^
 ||hotwin-casino-belgium.com^
 ||hotwin-casino-online-be.com^
@@ -177688,6 +177730,7 @@
 ||hyperinocasino.eu.com^
 ||hyperlucky-casino.co.uk^
 ||hyperlucky-casino.site^
+||hyperluckybet.com^
 ||hyperluckycasino.co.uk^
 ||hyperluckycasino.com^
 ||hyperluckycasino.uk^
@@ -182494,6 +182537,7 @@
 ||interwin-slot.com^
 ||interwin-slot.pages.dev^
 ||interwin-storage.pages.dev^
+||interwin-strategichrandtraining-lp.pages.dev^
 ||interwin-thefarinagroup.pages.dev^
 ||interwin-today.pages.dev^
 ||interwin-ua-5000.pages.dev^
@@ -188597,6 +188641,7 @@
 ||jetbahisyeniadres4.com^
 ||jetbahisyeniadres5.com^
 ||jetbetcasino.pe^
+||jetbetsite.org^
 ||jetbetting.life^
 ||jetbingocasino-ca.com^
 ||jetbingocasino.com^
@@ -197354,6 +197399,7 @@
 ||keonhacai88bet.click^
 ||keonhacai88vip.com^
 ||keonhacai9.app^
+||keonhacai9.bid^
 ||keonhacai9.onl^
 ||keonhacai95.bet^
 ||keonhacai99.app^
@@ -197666,6 +197712,7 @@
 ||kibriskumarhane2.vip^
 ||kicau-harum.pages.dev^
 ||kicau-kicau-mania-slots.pages.dev^
+||kicau4dgacorpunya.pages.dev^
 ||kicawbet-kicawbet-wp.pages.dev^
 ||kicawbet.pages.dev^
 ||kicewelcomebonus.com^
@@ -202651,6 +202698,7 @@
 ||kutaixslotgacor.pages.dev^
 ||kutrochoicasinobet.com^
 ||kuttymovies.cn.com^
+||kutu-betwaysports.com.cn^
 ||kutu4dgacormalamini.pages.dev^
 ||kuvipbet.app^
 ||kuvipbet.asia^
@@ -205677,6 +205725,7 @@
 ||legianocasinoonline.de^
 ||legianocasinoonline.net^
 ||legianocasinopl-com.pages.dev^
+||legianocasinopl.pages.dev^
 ||legianocasinopoland-com.pages.dev^
 ||legianocasinopoland.com^
 ||legianocasinopolska-com.pages.dev^
@@ -210394,6 +210443,7 @@
 ||livechatsctvpoker.site^
 ||livecockfightapk.com^
 ||livecockfightc.com^
+||livecockfighti.com^
 ||livecockfightk.com^
 ||livecockfightpro.com^
 ||livecockfighttops.com^
@@ -218066,6 +218116,7 @@
 ||lunabet78praktis.shop^
 ||lunabet78resmi.pages.dev^
 ||lunabet78terbaru.shop^
+||lunabet78vip.pages.dev^
 ||lunabet78xpn.shop^
 ||lunabet78xtz.shop^
 ||lunabet79com.pages.dev^
@@ -222535,6 +222586,7 @@
 ||malinacasino1-be.pages.dev^
 ||malinacasino1.es^
 ||malinacasino1.gr^
+||malinacasino1.org^
 ||malinacasino13.com^
 ||malinacasino1hu.org^
 ||malinacasino21.org^
@@ -222855,6 +222907,7 @@
 ||mamen123freespin.online^
 ||mamen123judionline.com^
 ||mamen4dgacor.pages.dev^
+||mamibetplay.com^
 ||mamibetslot.net^
 ||mamibetslot178hk.site^
 ||mamieexcels-slot-gacor.pages.dev^
@@ -223642,6 +223695,7 @@
 ||mariobet69com-parlay.pages.dev^
 ||mariobet88.pages.dev^
 ||mariobet900.com^
+||mariobet98.com^
 ||mariobet99.pages.dev^
 ||mariobetanket.com^
 ||mariobetburda.com^
@@ -226945,6 +226999,8 @@
 ||megaparionline.in^
 ||megaparip.com^
 ||megaparipakistan-com.pages.dev^
+||megaparipartners.homes^
+||megaparipl-net.pages.dev^
 ||megaparipl.com^
 ||megaparipl.net^
 ||megapariplus365.com^
@@ -227432,6 +227488,7 @@
 ||megaslots288.com^
 ||megaslots77.com^
 ||megaslots77.pages.dev^
+||megaslots88.net^
 ||megaslots888.net^
 ||megaslots99.info^
 ||megaslotsbase.com^
@@ -238352,6 +238409,7 @@
 ||mostbet-aplikacjapl.com^
 ||mostbet-aposta.com^
 ||mostbet-app-az1.com^
+||mostbet-app-bangladesh.net^
 ||mostbet-app-co-cz.pages.dev^
 ||mostbet-app-cz.cz^
 ||mostbet-app-hu-org.pages.dev^
@@ -239191,6 +239249,7 @@
 ||mostbet-kasyna.com.pl^
 ||mostbet-kasyno-aplikacja.pl^
 ||mostbet-kasyno-ink.pages.dev^
+||mostbet-kasyno-interdetailing-pl.pages.dev^
 ||mostbet-kasyno-promocja.pl^
 ||mostbet-kasyno-radio-fm.pages.dev^
 ||mostbet-kasyno.ink^
@@ -240728,6 +240787,7 @@
 ||mostbetbook.site^
 ||mostbetbox.pages.dev^
 ||mostbetbr-org.pages.dev^
+||mostbetbr.pages.dev^
 ||mostbetbrasil-bet.pages.dev^
 ||mostbetbrasil-net.pages.dev^
 ||mostbetbrasil-org.pages.dev^
@@ -241170,6 +241230,7 @@
 ||mostbetloginnepal.com^
 ||mostbetloginonline-com.pages.dev^
 ||mostbetloginonline.com^
+||mostbetloginpakistan.pk^
 ||mostbetlusitania-com.pages.dev^
 ||mostbetlusitania.com^
 ||mostbetma.online^
@@ -243796,6 +243857,7 @@
 ||mxwin-casino.com.mx^
 ||mxwin21casino.com^
 ||mxwinbetting.com^
+||mxwincasino.com.mx^
 ||mxwincasinomx.com.mx^
 ||mxwincazino.com^
 ||mxwinnercasino.com^
@@ -260329,6 +260391,7 @@
 ||online-casinos-free.com^
 ||online-casinos-greece.gr^
 ||online-casinos-hotels.com^
+||online-casinos-hu.com^
 ||online-casinos-in-australia.com^
 ||online-casinos-in-canada.com^
 ||online-casinos-india.in^
@@ -263306,6 +263369,7 @@
 ||onlyspincasino.fr^
 ||onlyspincasino.org^
 ||onlyspincasino.pl^
+||onlyspingunceladresi.com^
 ||onlyspins-61.pages.dev^
 ||onlyspins-64.pages.dev^
 ||onlyspins-67.pages.dev^
@@ -271722,6 +271786,7 @@
 ||phpaldopanalo.com^
 ||phpanalo.bio^
 ||phpanalo.id^
+||phpanalo99.com^
 ||phpanalo99.net^
 ||phpanalo999.com^
 ||phpanalo999.net^
@@ -281538,6 +281603,7 @@
 ||plusphsvip.com^
 ||plusphsvip22.com^
 ||plusphsvip33.com^
+||plusphsvip55.com^
 ||plusphsvip66.com^
 ||plverdecasino-com-33d16a80ba.pages.dev^
 ||pm-casino-de.com^
@@ -284507,6 +284573,7 @@
 ||porlaaccionclimatica.cl^
 ||porn-gallery.ru^
 ||porn300.pages.dev^
+||pornosveta.art^
 ||porosjudionline.com^
 ||porosjudionline.pages.dev^
 ||porosjudionline88.com^
@@ -285939,6 +286006,7 @@
 ||premiumvipbet.com^
 ||premprintingpress.com^
 ||premuim-sportsbooks.org^
+||prepagos1000.com.co^
 ||prepaid-casino-betalen.com^
 ||prepaidcardcasino.com^
 ||prepaidcardcasinos.com^
@@ -287532,6 +287600,7 @@
 ||pstoto99-bocoran-prediksi-togel-macau.pages.dev^
 ||pstoto99-musicclublondon-com-links-bonanza-pragmatic-gogoo.pages.dev^
 ||pstoto99-result-macau-bandar-togel-terpercaya2026.pages.dev^
+||pstragzgrilla.pl^
 ||psychologywellbeingandconsulting.com^
 ||pt-bdmbet.pt^
 ||pt-betlabel.app^
@@ -292586,6 +292655,7 @@
 ||ramenbet1577.ru^
 ||ramenbet1578.ru^
 ||ramenbet1583.ru^
+||ramenbet1584.ru^
 ||ramenbet1585.ru^
 ||ramenbet1586.ru^
 ||ramenbet1588.ru^
@@ -294643,6 +294713,7 @@
 ||register-bizzo.com^
 ||register-iblbetgacor.pages.dev^
 ||registerhellspin.com^
+||registerplanbet.com^
 ||registrace-mostbet-com.pages.dev^
 ||registrace-mostbet.com^
 ||registraciya-v-kazino.ru.com^
@@ -301197,6 +301268,7 @@
 ||roket-bahis.net^
 ||roketbet.fr^
 ||roketbet.io^
+||roketbet.pages.dev^
 ||roketbet1466.com^
 ||roketbet168.pages.dev^
 ||roketbetgiris2025.com^
@@ -308718,6 +308790,7 @@
 ||sattakingsite.com^
 ||sattakingsmatka.com^
 ||sattakingsresult.live^
+||sattakingstarshalimar.com^
 ||sattakingsuper.pages.dev^
 ||sattakingtaj.in^
 ||sattakingtaj.net^
@@ -315112,6 +315185,7 @@
 ||skachat-coldbet.life^
 ||skachatcazino.ru^
 ||skachatvavada.com^
+||skandal138.com^
 ||skatecasino.com^
 ||skattefria-casinon.com^
 ||skattefriacasinon.co^
@@ -318157,6 +318231,7 @@
 ||slot188-x-slot88.pages.dev^
 ||slot188jili.com^
 ||slot198amp.pages.dev^
+||slot1bets.info^
 ||slot1gacor.pages.dev^
 ||slot200-gacor.pages.dev^
 ||slot200-topgokkast-about.pages.dev^
@@ -318725,6 +318800,7 @@
 ||slotasticcasino.com.de^
 ||slotasticcasino.de^
 ||slotasticcasino.de.com^
+||slotasticcasino.ec^
 ||slotasticcasino.es^
 ||slotasticcasino.kiwi^
 ||slotasticcasino.mx^
@@ -320221,6 +320297,7 @@
 ||slotgacor.mx^
 ||slotgacor.name^
 ||slotgacor.net^
+||slotgacor.network^
 ||slotgacor.nexus^
 ||slotgacor.page^
 ||slotgacor.pub^
@@ -320366,6 +320443,7 @@
 ||slotgacor21.org^
 ||slotgacor218.pages.dev^
 ||slotgacor234.com^
+||slotgacor234.pages.dev^
 ||slotgacor24-e7c.pages.dev^
 ||slotgacor24.com^
 ||slotgacor24jam-dak.pages.dev^
@@ -321043,6 +321121,7 @@
 ||slotgacorkks88.pages.dev^
 ||slotgacorkks888.pages.dev^
 ||slotgacorklikdisini.pages.dev^
+||slotgacorkocak.pages.dev^
 ||slotgacorkodokhoki889.com^
 ||slotgacorkodokhoki889.icu^
 ||slotgacorkodokhoki889.ink^
@@ -323398,6 +323477,7 @@
 ||slotoro-play-de-ed9e86cf.pages.dev^
 ||slotoro-play-pl-33ea5524.pages.dev^
 ||slotoro-play.de^
+||slotoro-play.org^
 ||slotoro-play.pl^
 ||slotoro-poland.pl^
 ||slotoro-polska-com-b9f2ed58.pages.dev^
@@ -330195,6 +330275,7 @@
 ||spin-macho-casino.pl^
 ||spin-machocasino-com-es.pages.dev^
 ||spin-machocasino-it.pages.dev^
+||spin-machocasino-net-gr.pages.dev^
 ||spin-machocasino-org-gr.pages.dev^
 ||spin-machocasino.com.es^
 ||spin-machocasino.es^
@@ -341833,6 +341914,7 @@
 ||starbet45c.pages.dev^
 ||starbet55.com^
 ||starbet555.live^
+||starbet555s.club^
 ||starbet65.net^
 ||starbet65.org^
 ||starbet666.net^
@@ -344380,6 +344462,7 @@
 ||supabetlogin.com^
 ||supabetnl-com.pages.dev^
 ||supabetnl.com^
+||supabetnorway.com^
 ||supabetofficial.com^
 ||supabetoficial.com.es^
 ||supabetonline.es^
@@ -347064,6 +347147,7 @@
 ||tada-gaming-apuestas-471.pages.dev^
 ||tada-gaming-apuestas.pages.dev^
 ||tada7casino.com^
+||tadabet-casinobrbrljogogame2.bet^
 ||tadabet1-br.com^
 ||tadabetbra.com^
 ||tadabetplay.com^
@@ -347096,6 +347180,7 @@
 ||tai-xui-casino.net^
 ||tai-xui-casino.org^
 ||tai456winbet.com^
+||tai68gamebai.io^
 ||tai888slotsapp.uk.com^
 ||taichi-vavada.cyou^
 ||taigamepokeronline.com^
@@ -347172,6 +347257,7 @@
 ||taixiuonline-vip.com^
 ||taixiuonline.agency^
 ||taixiuonline.bid^
+||taixiuonline.black^
 ||taixiuonline.coffee^
 ||taixiuonline.global^
 ||taixiuonline.icu^
@@ -348271,6 +348357,7 @@
 ||teenpattimasterjackpot.in.net^
 ||teenpattimasterking.com^
 ||teenpattimasterlist.com^
+||teenpattimasterofficialapp.com^
 ||teenpattimasterok.com^
 ||teenpattimasterold.pro.in^
 ||teenpattimasterreal.com^
@@ -350955,6 +351042,7 @@
 ||thor-fortune-casino-de.pages.dev^
 ||thor-fortune-casino-es.pages.dev^
 ||thor-fortune-casino-ie.pages.dev^
+||thor-fortune-casino.com.pl^
 ||thor-fortune-casino.de^
 ||thor-fortune-casino.es^
 ||thor-fortune-casinos.com^
@@ -351076,6 +351164,8 @@
 ||thorfortune-casino.fr^
 ||thorfortune-casino.gr^
 ||thorfortune-casino.hu.net^
+||thorfortune-casino.net.pl^
+||thorfortune-casino.org.pl^
 ||thorfortune-cazino.gr^
 ||thorfortune-cazino.it^
 ||thorfortunecasino-1-at.pages.dev^
@@ -351428,6 +351518,7 @@
 ||tigrinho-play.com^
 ||tigrinho-play.pages.dev^
 ||tigrinho-ptbr.pages.dev^
+||tigrinho-site.pages.dev^
 ||tigrinho.club^
 ||tigrinho.us^
 ||tigrinho.vip^
@@ -357367,6 +357458,7 @@
 ||trigger-kzboostwin.xyz^
 ||triiks-casino.ru^
 ||trik-main-poker-oleh-dewa-judi.pages.dev^
+||trik-maxslot77.pages.dev^
 ||trik-pola-gacor-maxwin.pages.dev^
 ||trik-slot-bonanza.pages.dev^
 ||trik-slot-gacor-h6w.pages.dev^
@@ -360668,6 +360760,7 @@
 ||ufabet7x.com^
 ||ufabet800.football^
 ||ufabet876.cz^
+||ufabet88.space^
 |ufabet888-login.app.anabb.org.br^
 ||ufabet888.autos^
 ||ufabet888.cfd^
@@ -360705,6 +360798,7 @@
 ||ufabetargentina.com^
 ||ufabetauto-ch.org^
 ||ufabetautor1-com.pages.dev^
+||ufabetavenue.net^
 ||ufabetavip.com^
 ||ufabetbest.biz^
 ||ufabetbet02.biz^
@@ -363437,6 +363531,7 @@
 ||uw-casino-reservering.nl^
 ||uw-casinoreservering.nl^
 ||uw88casinobet.com^
+||uw88homebet.com^
 ||uw99casinobet.com^
 ||uw99mycasino.co.uk^
 ||uw99registerbet.com^
@@ -369200,6 +369295,7 @@
 ||vegadreamcasinouk-com.pages.dev^
 ||vegadreamcasinouk.com^
 ||vegahero-casino.org^
+||vegamovies.za.com^
 ||vegaplus-casino.com.pl^
 ||vegaplus-casino.pl^
 ||vegapluscasino.com.pl^
@@ -376536,6 +376632,7 @@
 ||voxxcasino.dk^
 ||voyagesinternet.ca^
 ||voybetcasino.co.uk^
+||vp777homebet.com^
 ||vp88slotgacor.pages.dev^
 ||vpartnervavada.com^
 ||vpbetcasino.com^
@@ -383053,6 +383150,7 @@
 ||win-vegas-plus-casino-fr1-fr.com^
 ||win-vegas-plus-casino.top^
 ||win-voodoo-slot-ru.pages.dev^
+||win-wanbo.com^
 ||win-ward-casino.com^
 ||win-win-casino-best.lol^
 ||win-win-casino-org.pages.dev^
@@ -383121,6 +383219,7 @@
 ||win2casinoromania-net.pages.dev^
 ||win2chill-casino-online.pl^
 ||win2chill-casino-pt.site^
+||win2chill-casino.com.pl^
 ||win2chill-casino.eu^
 ||win2chillcasino.com.pl^
 ||win2chillcasino.de^

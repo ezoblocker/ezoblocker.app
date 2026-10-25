@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 687 | Updated: 2026-10-25
+# Domains: 688 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -256,6 +256,7 @@
 0.0.0.0 neory-tm.net
 0.0.0.0 net.brandnamic.tech
 0.0.0.0 nexus.ensighten.com
+0.0.0.0 nosobo.com
 0.0.0.0 now-tracking.com
 0.0.0.0 nt.vc
 0.0.0.0 o.adtriba.com
