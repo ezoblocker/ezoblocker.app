@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Brazil (br)
-# Domains: 55 | Updated: 2026-10-25
+# Domains: 59 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/br.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -25,7 +25,9 @@
 0.0.0.0 futemax.hiphop
 0.0.0.0 futemax.med
 0.0.0.0 futemax.partners
+0.0.0.0 futemax.technology
 0.0.0.0 futemax.ventures
+0.0.0.0 futemax99.shop
 0.0.0.0 maxcine.com.br
 0.0.0.0 megafilmeshd.help
 0.0.0.0 membros.baixedetudo.net.br
@@ -48,6 +50,8 @@
 0.0.0.0 redecanaishd1.online
 0.0.0.0 redecanaisoficial.cc
 0.0.0.0 redecanaisrc.sale
+0.0.0.0 seriesflixcine.com
+0.0.0.0 seriesflixweb.forum
 0.0.0.0 sia.aracati.ce.gov.br
 0.0.0.0 sismrae.sead.pi.gov.br
 0.0.0.0 superflix51.lol

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 154 | Updated: 2026-10-25
+# Domains: 161 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -27,6 +27,7 @@ cloud.up4.cz
 cloudsupport.sequentum.com
 corp.omake.co.jp
 *.ctunnel.com
+discuss.privacyguides.net
 doc.alvao.com
 *.dtunnel.net
 *.eliteproxyswitcher.com
@@ -53,6 +54,7 @@ hub.zlonov.ru
 india-vpn.apk.cafe
 insights.streamuktvabroad.com
 *.ipfoxy.com
+*.isitblocked.com
 *.k-tunnel.net
 kb.biznetgio.com
 kb.cloudkilat.id
@@ -74,6 +76,7 @@ msk.ezak.cz
 *.nsocks.com
 *.okeyproxy.com
 *.okkproxy.com
+old.pacificresort.com
 post.malltail.com
 *.powertunnel.org
 prime.changngocgia.com
@@ -145,6 +148,7 @@ unblockyoutube.enic.pk
 *.v2ray-macos-arm64-v8a.zip
 vpn-colombia-free-vpn-proxy-and-secure-vpn-unblock.apkgold.es
 vpn-proxy-master.en.softmany.com
+vpn.365finds.com
 vpn.g-l.ch
 vpngate.4d.workers.dev
 *.vpnki.ru
@@ -152,6 +156,9 @@ vpngate.4d.workers.dev
 *.websiteunblocker.net
 wiki5.ispadmin.eu
 windscribe.valuecom.com
+www.my.mozout.com
+www.shop.lppa.org
+www1.gill-line.com
 *.yasaksiteleregiris.org
 yozm.wishket.com
 zakazky.eagri.cz

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Ireland (ie)
-# Domains: 32 | Updated: 2026-10-25
+# Domains: 34 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ie.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,6 +13,7 @@
 0.0.0.0 chaturbate.com.es
 0.0.0.0 desirel.ie
 0.0.0.0 en-cam4-us.com
+0.0.0.0 guardianbikes.com
 0.0.0.0 hotfrog.ie
 0.0.0.0 jamisonmeats.com
 0.0.0.0 livesforce.com
@@ -36,3 +37,4 @@
 0.0.0.0 shopinireland.ie
 0.0.0.0 theirishstore.com
 0.0.0.0 uberkinky.com
+0.0.0.0 uglybaby.shop

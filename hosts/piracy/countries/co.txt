@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Piracy, Colombia (co)
-# Domains: 30 | Updated: 2026-10-25
+# Domains: 34 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/co.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 cinecalidad.company
 0.0.0.0 cuevana3.sc
 0.0.0.0 cuevanaz.biz
 0.0.0.0 futbol-libre.cam
@@ -11,6 +12,7 @@
 0.0.0.0 futbolete.com
 0.0.0.0 futbollibre.kim
 0.0.0.0 futbollibreperu.org
+0.0.0.0 futbollibretvapp.com
 0.0.0.0 futbollibretvhd.co
 0.0.0.0 futbolyconsolas.es
 0.0.0.0 librefutbol.vip
@@ -29,7 +31,9 @@
 0.0.0.0 tarjetarojaenvivo.online
 0.0.0.0 tarjetarojaonline.info
 0.0.0.0 tarjetarojaonline.pro
+0.0.0.0 tarjetarojaonlineinfo.site
 0.0.0.0 tarjetarojatv.mobi
+0.0.0.0 tarjetarojatvhd.me
 0.0.0.0 tarjetarojatvlive.pl
 0.0.0.0 tarjetarojatvonline.site
 0.0.0.0 tour.gra.uk.com

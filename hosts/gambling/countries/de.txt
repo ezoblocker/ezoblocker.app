@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Germany (de)
-# Domains: 19 | Updated: 2026-10-25
+# Domains: 22 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/de.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,8 +8,10 @@
 0.0.0.0 banktransfercasino.ca
 0.0.0.0 bojoko.ca
 0.0.0.0 casinosanalyzer.co.nz
+0.0.0.0 casinoselect.org
 0.0.0.0 casinospezialist.com
 0.0.0.0 casombiebet.org
+0.0.0.0 feuerwehr-scheessel.de
 0.0.0.0 genesiscasino-de.de
 0.0.0.0 genesiscasino.de
 0.0.0.0 online.nlb.de
@@ -23,3 +25,4 @@
 0.0.0.0 topcasinobewertungen.de
 0.0.0.0 vegasplussecurity.com
 0.0.0.0 wildzcasino-canada.com
+0.0.0.0 wolfundadler.de

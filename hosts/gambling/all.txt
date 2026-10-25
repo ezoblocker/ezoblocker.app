@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 397,931 | Updated: 2026-10-25
+# Domains: 397,950 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -3366,6 +3366,7 @@
 0.0.0.0 1win-uz-casino.com
 0.0.0.0 1win-uz-casino.it.com
 0.0.0.0 1win.run
+0.0.0.0 1win.vote
 0.0.0.0 1win1wincasino.ru
 0.0.0.0 1win2026giris.art
 0.0.0.0 1win3sb.buzz
@@ -3785,6 +3786,7 @@
 0.0.0.0 1wins-casino.com.co
 0.0.0.0 1wins-casino.lat
 0.0.0.0 1wins-india-casino-online.com
+0.0.0.0 1wins.community
 0.0.0.0 1winsapuestas.com.mx
 0.0.0.0 1winsapuestas.mx
 0.0.0.0 1winsb.life
@@ -18004,6 +18006,7 @@
 0.0.0.0 9011sportsbook.com
 0.0.0.0 90146799.com
 0.0.0.0 901betslots.com
+0.0.0.0 903betticket.com
 0.0.0.0 90459993.com
 0.0.0.0 9049casibom.pages.dev
 0.0.0.0 904casibom.com.tr
@@ -21075,6 +21078,7 @@
 0.0.0.0 aff-site-luckywavegb-co-uk.pages.dev
 0.0.0.0 aff-site-mellstroys-uk.pages.dev
 0.0.0.0 aff68homebet.com
+0.0.0.0 affairstorememberonline.com
 0.0.0.0 affcasino.fr
 0.0.0.0 affelios.com
 0.0.0.0 afficasino.com
@@ -23442,6 +23446,7 @@
 0.0.0.0 allfootballtips.com
 0.0.0.0 allfreecasino.com
 0.0.0.0 allgaeuer-pokerclub.de
+0.0.0.0 allgamestopsites.co
 0.0.0.0 allianzcasinobonus.de
 0.0.0.0 allinbet-casino.com
 0.0.0.0 allinbet-casino.it
@@ -42682,6 +42687,7 @@
 0.0.0.0 bestanonymouscryptocasinos.eu.com
 0.0.0.0 bestarabcasino.com
 0.0.0.0 bestarabiccasinos.co
+0.0.0.0 bestarabiccasinos.com
 0.0.0.0 bestarkansascasinosites.com
 0.0.0.0 bestaucasinolist.com
 0.0.0.0 bestauscasinoonline.com
@@ -43550,6 +43556,7 @@
 0.0.0.0 bestgamblingcasinoonline.com
 0.0.0.0 bestgamebet.com.br
 0.0.0.0 bestgameonline-cipit188.pages.dev
+0.0.0.0 bestgamstopcompare.net
 0.0.0.0 bestghanacasinos.com
 0.0.0.0 bestglobalcasino.com
 0.0.0.0 bestglorycasino.com
@@ -107474,6 +107481,7 @@
 0.0.0.0 casinosel.com
 0.0.0.0 casinoselect.casino
 0.0.0.0 casinoselect.co.uk
+0.0.0.0 casinoselect.org
 0.0.0.0 casinoselector.com.pl
 0.0.0.0 casinoselector.de
 0.0.0.0 casinoselector.pl
@@ -126608,6 +126616,7 @@
 0.0.0.0 cratosroyalbet1505.com
 0.0.0.0 cratosroyalbet1506.com
 0.0.0.0 cratosroyalbet1510.com
+0.0.0.0 cratosroyalbet1511.com
 0.0.0.0 cratosroyalbet1705.com
 0.0.0.0 cratosroyalbet2026.help
 0.0.0.0 cratosroyalbet2507.com
@@ -135044,6 +135053,7 @@
 0.0.0.0 dodobet720.com
 0.0.0.0 dodobet721.com
 0.0.0.0 dodobet723.com
+0.0.0.0 dodobet725.com
 0.0.0.0 dodobetcasino.com
 0.0.0.0 dodoref7.com
 0.0.0.0 doesgrandcasinohinckleygiveyouaids.com
@@ -148749,6 +148759,7 @@
 0.0.0.0 feuchtwangenspielbank.de
 0.0.0.0 feuerwehr-bettinghausen.de
 0.0.0.0 feuerwehr-moenchaltorf-juarasungaitotoslot-asia.pages.dev
+0.0.0.0 feuerwehr-scheessel.de
 0.0.0.0 feuxducasino.ca
 0.0.0.0 feuxducasino.com
 0.0.0.0 fevenscontentdesign.com
@@ -235575,6 +235586,7 @@
 0.0.0.0 mobilbahis9316.com
 0.0.0.0 mobilbahis9317.com
 0.0.0.0 mobilbahis932.com
+0.0.0.0 mobilbahis9320.com
 0.0.0.0 mobilbahis933.com
 0.0.0.0 mobilbahis934.com
 0.0.0.0 mobilbahis935.com
@@ -241275,6 +241287,7 @@
 0.0.0.0 mostbetpl-online-com.pages.dev
 0.0.0.0 mostbetpl-poland.com
 0.0.0.0 mostbetpl.net
+0.0.0.0 mostbetpl.radio.fm
 0.0.0.0 mostbetpl1.pl
 0.0.0.0 mostbetplay.co
 0.0.0.0 mostbetplayaz-14-com.pages.dev
@@ -249313,6 +249326,7 @@
 0.0.0.0 newfunclubcasino.uk
 0.0.0.0 newgamblecasino.com
 0.0.0.0 newgamblepokies.net
+0.0.0.0 newgamstopgames.org
 0.0.0.0 newgioco-casino.com
 0.0.0.0 newgioco-casino.eu.com
 0.0.0.0 newgioco-casino.it
@@ -264144,6 +264158,7 @@
 0.0.0.0 ornagometeo-altervista-org-contact-bandarqq.pages.dev
 0.0.0.0 ornagometeo-altervista-org-contact-us-bandarqq.pages.dev
 0.0.0.0 ornagometeo-altervista-org-contact-us-dominoqq.pages.dev
+0.0.0.0 ornocall.com
 0.0.0.0 oroargentovirgola.it
 0.0.0.0 orobet-ar-bet-bc12d83d.pages.dev
 0.0.0.0 orobet-ar.bet
@@ -276236,6 +276251,7 @@
 0.0.0.0 pinuponlinecasinonica.com
 0.0.0.0 pinupplaycasinos.ru
 0.0.0.0 pinuppolestudio.com
+0.0.0.0 pinupreviewqatar.com
 0.0.0.0 pinuprucasino.com
 0.0.0.0 pinuprus888cazino.com
 0.0.0.0 pinups-casinobd.com
@@ -351360,6 +351376,7 @@
 0.0.0.0 tigercoolexpress.com
 0.0.0.0 tigerdistributing-megawin777.pages.dev
 0.0.0.0 tigerexch.ing
+0.0.0.0 tigerexch.si
 0.0.0.0 tigergamingcasino-dk.com
 0.0.0.0 tigergamingcasino.com
 0.0.0.0 tigergamingcasino.org
@@ -384822,6 +384839,7 @@
 0.0.0.0 winbum129.com
 0.0.0.0 winbum130.com
 0.0.0.0 winbum131.com
+0.0.0.0 winbum132.com
 0.0.0.0 winbuzz-books.in.net
 0.0.0.0 winbuzz-india.in
 0.0.0.0 winbuzz.blog
@@ -392729,6 +392747,7 @@
 0.0.0.0 xn--80aaa5csg.kz
 0.0.0.0 xn--80aahduajfrohbczhd9ib4i.xn--p1ai
 0.0.0.0 xn--80aambqgkokjley.xn--p1ai
+0.0.0.0 xn--80aaxqmhr4b.vip
 0.0.0.0 xn--80aczempcmhc1h.xn--p1ai
 0.0.0.0 xn--888-casin-e7a.it
 0.0.0.0 xn--90achthsbkh.xn--p1ai

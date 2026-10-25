@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Canada (ca)
-# Domains: 31 | Updated: 2026-10-25
+# Domains: 32 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/ca.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -24,6 +24,7 @@
 0.0.0.0 northiptv.com
 0.0.0.0 proiptvcanada.ca
 0.0.0.0 rojadirect.best
+0.0.0.0 search.yaman.com
 0.0.0.0 soap2daytv.me
 0.0.0.0 solarmovies.com.co
 0.0.0.0 solarmoviesz.co

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Italy (it)
-# Domains: 34 | Updated: 2026-10-25
+# Domains: 35 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/it.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -36,5 +36,6 @@
 0.0.0.0 toys-hub.nl
 0.0.0.0 toysecret.it
 0.0.0.0 tramagliadario.it
+0.0.0.0 trustedshops.it
 0.0.0.0 videochatitaliana.com
 0.0.0.0 yoxo.it

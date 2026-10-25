@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 348 | Updated: 2026-10-25
+# Domains: 363 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -90,6 +90,7 @@
 0.0.0.0 futbollibreenvivo.net
 0.0.0.0 futbollibrefullhd.org
 0.0.0.0 futbollibreperu.org
+0.0.0.0 futbollibretvapp.com
 0.0.0.0 futbollibretvhd.co
 0.0.0.0 futbollibretvplus.com
 0.0.0.0 futbolyconsolas.es
@@ -99,11 +100,15 @@
 0.0.0.0 futemax.hiphop
 0.0.0.0 futemax.med
 0.0.0.0 futemax.partners
+0.0.0.0 futemax.technology
 0.0.0.0 futemax.ventures
+0.0.0.0 futemax99.shop
 0.0.0.0 geoikp.operandum-project.eu
 0.0.0.0 getlive.pcb.com.pk
+0.0.0.0 hdlivehd7.live
 0.0.0.0 hesgoal.co.uk
 0.0.0.0 hesgoal.ltd
+0.0.0.0 hesgoal.plus
 0.0.0.0 hesgoal.si
 0.0.0.0 hesgoal.soccer
 0.0.0.0 hesgoal.zone
@@ -112,6 +117,7 @@
 0.0.0.0 hesgoals.nl
 0.0.0.0 hesgoals.rest
 0.0.0.0 hesgoaltv.biz
+0.0.0.0 hesgoaltv.quest
 0.0.0.0 icc-cricket.com
 0.0.0.0 info.rugbypass.tv
 0.0.0.0 isportsurge.ws
@@ -156,7 +162,9 @@
 0.0.0.0 livebola.com
 0.0.0.0 livebola.net
 0.0.0.0 liveekoora.com
+0.0.0.0 livehd7.buzz
 0.0.0.0 livehd7.quest
+0.0.0.0 livehd7.uno
 0.0.0.0 livehd71.live
 0.0.0.0 livehd71.top
 0.0.0.0 livehd73.com
@@ -197,6 +205,7 @@
 0.0.0.0 ostoralivehd7.com
 0.0.0.0 pacman.live
 0.0.0.0 pelotalibreenvivo.cl
+0.0.0.0 pelotalibreplus.com
 0.0.0.0 pelotalibretv1.biz
 0.0.0.0 pirlotv-futbol-en-vivo-directo.apps112.com
 0.0.0.0 pirlotv.bar
@@ -225,6 +234,7 @@
 0.0.0.0 s1s.designq.kr
 0.0.0.0 saas.spochak.com
 0.0.0.0 scoreman123.com
+0.0.0.0 search.yaman.com
 0.0.0.0 selcuksportshd.is
 0.0.0.0 siamsport.co.th
 0.0.0.0 silsigan-toto-saiteu-jip.hogal.co.kr
@@ -289,13 +299,16 @@
 0.0.0.0 tarjetaroja.ltd
 0.0.0.0 tarjetaroja.mba
 0.0.0.0 tarjetaroja.run
+0.0.0.0 tarjetaroja.surf
 0.0.0.0 tarjetarojadirecta.biz
 0.0.0.0 tarjetarojadirecta.es
 0.0.0.0 tarjetarojaenvivo.online
 0.0.0.0 tarjetarojaonline.info
 0.0.0.0 tarjetarojaonline.pro
+0.0.0.0 tarjetarojaonlineinfo.site
 0.0.0.0 tarjetarojatv.mobi
 0.0.0.0 tarjetarojatvhd.live
+0.0.0.0 tarjetarojatvhd.me
 0.0.0.0 tarjetarojatvlive.pl
 0.0.0.0 tarjetarojatvonline.info
 0.0.0.0 tarjetarojatvonline.site
@@ -334,7 +347,9 @@
 0.0.0.0 xoilaclivettbdad.tv
 0.0.0.0 xoilaclivettbds.tv
 0.0.0.0 xoilaclivettbdu.tv
+0.0.0.0 xoilaclivettbdz.tv
 0.0.0.0 xoilactvbm.cc
+0.0.0.0 xoilacvba.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv

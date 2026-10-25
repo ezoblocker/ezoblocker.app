@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 943 | Updated: 2026-10-25
+# Domains: 976 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 123movieputlockers.com
+0.0.0.0 123movies123.stream
 0.0.0.0 123moviesflix.me
 0.0.0.0 123movieshubs.org
 0.0.0.0 123moviesx.cc
@@ -66,11 +67,13 @@
 0.0.0.0 animeyt.cc
 0.0.0.0 anitube.pro
 0.0.0.0 aniwatch.co.at
+0.0.0.0 aniwatch.co.bz
 0.0.0.0 aniwatch.com.bz
 0.0.0.0 aniwatch.rest
 0.0.0.0 aniwatchtv.ro
 0.0.0.0 aniwatchtv.ws
 0.0.0.0 aniwatchx.com
+0.0.0.0 aniwatchx.com.ro
 0.0.0.0 anoboy.be
 0.0.0.0 anoboy.forum
 0.0.0.0 api.sap.ce.gov.br
@@ -137,6 +140,7 @@
 0.0.0.0 cimaclubb.cam
 0.0.0.0 cimaclubsite.blogspot.com
 0.0.0.0 cine-calidad.mom
+0.0.0.0 cinecalidad.company
 0.0.0.0 cinecalidadonline.xyz
 0.0.0.0 clare.gaa.ie
 0.0.0.0 comprariptv.com
@@ -197,6 +201,7 @@
 0.0.0.0 dnsrepo.noc.org
 0.0.0.0 dontorrent.blog
 0.0.0.0 dontorrent.club
+0.0.0.0 dontorrent.diy
 0.0.0.0 dooball99.top
 0.0.0.0 doonung2u.blogspot.com
 0.0.0.0 doonungfree.com
@@ -293,6 +298,7 @@
 0.0.0.0 futbollibreenvivo.net
 0.0.0.0 futbollibrefullhd.org
 0.0.0.0 futbollibreperu.org
+0.0.0.0 futbollibretvapp.com
 0.0.0.0 futbollibretvhd.co
 0.0.0.0 futbollibretvplus.com
 0.0.0.0 futbolyconsolas.es
@@ -302,7 +308,9 @@
 0.0.0.0 futemax.hiphop
 0.0.0.0 futemax.med
 0.0.0.0 futemax.partners
+0.0.0.0 futemax.technology
 0.0.0.0 futemax.ventures
+0.0.0.0 futemax99.shop
 0.0.0.0 fzmovies.live
 0.0.0.0 fzmovies.ng
 0.0.0.0 fztvseries.live
@@ -324,7 +332,9 @@
 0.0.0.0 gnulas.lat
 0.0.0.0 gogoanime.biz.in
 0.0.0.0 gogoanime.by
+0.0.0.0 gogoanime.co.bz
 0.0.0.0 gogoanime.co.ke
+0.0.0.0 gogoanime.ms
 0.0.0.0 gogoanime.or.at
 0.0.0.0 gogoanimes.dk
 0.0.0.0 gogoanimes.watch
@@ -353,12 +363,14 @@
 0.0.0.0 hdfilmizlesene.to
 0.0.0.0 hdhub4u.bi
 0.0.0.0 hdhub4udl.app
+0.0.0.0 hdlivehd7.live
 0.0.0.0 hdrezka.fi
 0.0.0.0 hdrezka.my
 0.0.0.0 hdrezka.pl
 0.0.0.0 hellspy.to
 0.0.0.0 hesgoal.co.uk
 0.0.0.0 hesgoal.ltd
+0.0.0.0 hesgoal.plus
 0.0.0.0 hesgoal.si
 0.0.0.0 hesgoal.soccer
 0.0.0.0 hesgoal.zone
@@ -367,6 +379,7 @@
 0.0.0.0 hesgoals.nl
 0.0.0.0 hesgoals.rest
 0.0.0.0 hesgoaltv.biz
+0.0.0.0 hesgoaltv.quest
 0.0.0.0 hintfilmizle.com
 0.0.0.0 icc-cricket.com
 0.0.0.0 icuevana3.cam
@@ -440,6 +453,7 @@
 0.0.0.0 kinokrad.pro
 0.0.0.0 kinokrad.world
 0.0.0.0 kinokrads.com
+0.0.0.0 kinozal-tv.com
 0.0.0.0 kinozal.me
 0.0.0.0 kissanime-offcial.cyou
 0.0.0.0 kissanime.ax
@@ -491,7 +505,9 @@
 0.0.0.0 livebola.com
 0.0.0.0 livebola.net
 0.0.0.0 liveekoora.com
+0.0.0.0 livehd7.buzz
 0.0.0.0 livehd7.quest
+0.0.0.0 livehd7.uno
 0.0.0.0 livehd71.live
 0.0.0.0 livehd71.top
 0.0.0.0 livehd73.com
@@ -511,6 +527,7 @@
 0.0.0.0 livetv.life
 0.0.0.0 livetv.tv-vlaanderen.be
 0.0.0.0 llsflwjo.riverpeak.lat
+0.0.0.0 locopelis.com
 0.0.0.0 lordfilm-hd.mirfilm.net
 0.0.0.0 lordfilm.fi
 0.0.0.0 lordfilms.pub
@@ -536,6 +553,7 @@
 0.0.0.0 megafilmeseserieshd.vip
 0.0.0.0 megafilmeshd.asia
 0.0.0.0 megafilmeshd.help
+0.0.0.0 megafilmeshd.press
 0.0.0.0 mejortorrent.cc
 0.0.0.0 mejortorrent.eu
 0.0.0.0 mejortorrent.mov
@@ -563,6 +581,9 @@
 0.0.0.0 movierulz.casa
 0.0.0.0 movierulz.center
 0.0.0.0 movierulzpk.pro
+0.0.0.0 moviesflix.com.im
+0.0.0.0 moviesflixdl.com
+0.0.0.0 moviesflixdl.org
 0.0.0.0 moviesflixzip.xyz
 0.0.0.0 mp3indirdur.com.tr
 0.0.0.0 mp3indirdur.pro
@@ -590,6 +611,7 @@
 0.0.0.0 nflbite.is
 0.0.0.0 nflbites.today
 0.0.0.0 ngb.to.dewebc.com
+0.0.0.0 nollywood.naijaremix.com
 0.0.0.0 northiptv.com
 0.0.0.0 nung2hdd.com
 0.0.0.0 nungfree4k.com
@@ -630,6 +652,7 @@
 0.0.0.0 pelisplusmx.co
 0.0.0.0 pelisplusvip.com
 0.0.0.0 pelotalibreenvivo.cl
+0.0.0.0 pelotalibreplus.com
 0.0.0.0 pelotalibretv1.biz
 0.0.0.0 pezzottoiptv.com
 0.0.0.0 phimmoi.cat
@@ -692,6 +715,7 @@
 0.0.0.0 redecanaisoficial.cc
 0.0.0.0 redecanaisrc.sale
 0.0.0.0 refer.yasso.com
+0.0.0.0 repelis.casa
 0.0.0.0 repelis.mom
 0.0.0.0 repelis24.bz
 0.0.0.0 repelis24.nz
@@ -725,7 +749,10 @@
 0.0.0.0 samehadaku.io
 0.0.0.0 samehadaku.li
 0.0.0.0 scoreman123.com
+0.0.0.0 search.yaman.com
 0.0.0.0 selcuksportshd.is
+0.0.0.0 seriesflixcine.com
+0.0.0.0 seriesflixweb.forum
 0.0.0.0 seriestreaming.live
 0.0.0.0 sflix.org
 0.0.0.0 sflixline.com
@@ -816,13 +843,16 @@
 0.0.0.0 tarjetaroja.ltd
 0.0.0.0 tarjetaroja.mba
 0.0.0.0 tarjetaroja.run
+0.0.0.0 tarjetaroja.surf
 0.0.0.0 tarjetarojadirecta.biz
 0.0.0.0 tarjetarojadirecta.es
 0.0.0.0 tarjetarojaenvivo.online
 0.0.0.0 tarjetarojaonline.info
 0.0.0.0 tarjetarojaonline.pro
+0.0.0.0 tarjetarojaonlineinfo.site
 0.0.0.0 tarjetarojatv.mobi
 0.0.0.0 tarjetarojatvhd.live
+0.0.0.0 tarjetarojatvhd.me
 0.0.0.0 tarjetarojatvlive.pl
 0.0.0.0 tarjetarojatvonline.info
 0.0.0.0 tarjetarojatvonline.site
@@ -908,6 +938,7 @@
 0.0.0.0 welcome.blasttv.ph
 0.0.0.0 wemycima.ink
 0.0.0.0 wiflix.al
+0.0.0.0 wolfmax4k.com
 0.0.0.0 wolfmax4k.net
 0.0.0.0 worldfree4u.events
 0.0.0.0 worldfree4u.forum
@@ -925,7 +956,9 @@
 0.0.0.0 xoilaclivettbdad.tv
 0.0.0.0 xoilaclivettbds.tv
 0.0.0.0 xoilaclivettbdu.tv
+0.0.0.0 xoilaclivettbdz.tv
 0.0.0.0 xoilactvbm.cc
+0.0.0.0 xoilacvba.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv

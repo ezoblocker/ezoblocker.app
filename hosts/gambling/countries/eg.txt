@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Egypt (eg)
-# Domains: 8 | Updated: 2026-10-25
+# Domains: 9 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/eg.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,4 +11,5 @@
 0.0.0.0 arabiccasinochoice.com
 0.0.0.0 bettingbangladesh.online
 0.0.0.0 bettingegypt.com
+0.0.0.0 pinupreviewqatar.com
 0.0.0.0 vulkan.lunarg.com

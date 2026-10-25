@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, PK (pk)
-# Domains: 20 | Updated: 2026-10-25
+# Domains: 23 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/pk.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,6 +17,9 @@
 0.0.0.0 hesgoals.rest
 0.0.0.0 live.pcb.com.pk
 0.0.0.0 mkvcinemas.com.w3snoop.com
+0.0.0.0 moviesflix.com.im
+0.0.0.0 moviesflixdl.com
+0.0.0.0 moviesflixdl.org
 0.0.0.0 moviesflixzip.xyz
 0.0.0.0 salina.govbuilt.com
 0.0.0.0 totalsportsindex.com

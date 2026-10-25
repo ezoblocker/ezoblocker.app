@@ -1,9 +1,11 @@
 # Title: EZOBLOCKER Dating, Nigeria (ng)
-# Domains: 3 | Updated: 2026-10-25
+# Domains: 5 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/countries/ng.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+missoula.bonepage.com
 *.naijachat.com
 *.naijalove.com.ng
+*.naijasinglesconnect.com
 *.nigeriandating.com

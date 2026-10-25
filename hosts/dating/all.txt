@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,132 | Updated: 2026-10-25
+# Domains: 1,154 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,8 +8,10 @@
 0.0.0.0 1escorts.net
 0.0.0.0 2backpage.com
 0.0.0.0 321chat.com
+0.0.0.0 3n9wbv054n-amphtml.sullealideiricordi.it
 0.0.0.0 5y9nv9ytfw.troupedespatarins.fr
 0.0.0.0 6e1ksudjredns.chicecini.blog
+0.0.0.0 9fwpy9406a54-amphtml.nettoyagereunion.re
 0.0.0.0 ab.211.ca
 0.0.0.0 abu-dhabi-new-service.b12sites.com
 0.0.0.0 acheckerviet.bio
@@ -131,6 +133,7 @@
 0.0.0.0 camsurf.tv
 0.0.0.0 canada.escortface.com
 0.0.0.0 canadaescorts.ca
+0.0.0.0 cape-town.bonepage.com
 0.0.0.0 cape-town.dfs05.ru
 0.0.0.0 car.gorus.com
 0.0.0.0 career.hyperconnect.com
@@ -165,6 +168,7 @@
 0.0.0.0 chateacongente.com
 0.0.0.0 chateagratis.net
 0.0.0.0 chatealo.chat
+0.0.0.0 chatear.co
 0.0.0.0 chathispano.com
 0.0.0.0 chathub.com.br
 0.0.0.0 chathub.gg
@@ -260,8 +264,10 @@
 0.0.0.0 deincamchat.de
 0.0.0.0 delhi.idbf.in
 0.0.0.0 dev-web.sgrbk.com
+0.0.0.0 dhdjjvoxofo7.nettoyagereunion.re
 0.0.0.0 directory.acci.gr
 0.0.0.0 djdongdoes.djsch.kr
+0.0.0.0 dmboduvm2fku.leshuheka.blog
 0.0.0.0 dodavatele.epoptavka.cz
 0.0.0.0 dogging-bh.top
 0.0.0.0 dominicancupid.com
@@ -458,6 +464,7 @@
 0.0.0.0 gleeden.com
 0.0.0.0 goldkarachiescorts.com
 0.0.0.0 gonuldensevenler.com
+0.0.0.0 google-play-services.apk.gold
 0.0.0.0 gr.loquovip.com
 0.0.0.0 grande-dame-begleit-escort.ch
 0.0.0.0 greece.escortface.com
@@ -493,9 +500,11 @@
 0.0.0.0 hitoduma.derikura.com
 0.0.0.0 hobart.bonepage.com
 0.0.0.0 honeychat.app
+0.0.0.0 honeychat.bot
 0.0.0.0 hongkongcupid.com
 0.0.0.0 hookupclique.com
 0.0.0.0 hookupflare.com
+0.0.0.0 hookups365.com.au
 0.0.0.0 hookuptide.com
 0.0.0.0 hossohbet.com
 0.0.0.0 hotescortnearme.com
@@ -527,17 +536,20 @@
 0.0.0.0 intim-uslugi.info
 0.0.0.0 intim-vin.com
 0.0.0.0 intim-zp.net
+0.0.0.0 intimcity.com
 0.0.0.0 intimdating.ru
 0.0.0.0 intimok.com
 0.0.0.0 ireland.redhotsocial.com
 0.0.0.0 irishchat.net
 0.0.0.0 irishmirror.ie
 0.0.0.0 islamisohbet.com
+0.0.0.0 ivana-models-escortservice.de
 0.0.0.0 jackd.com
 0.0.0.0 japancupid.com
 0.0.0.0 jdate.com
 0.0.0.0 jecontacte.com
 0.0.0.0 jeevansathi.com
+0.0.0.0 jilo.softonic.nl
 0.0.0.0 jodohdaruliman.com
 0.0.0.0 jodohkristen.com
 0.0.0.0 joyclub.com
@@ -608,6 +620,7 @@
 0.0.0.0 luxy.com
 0.0.0.0 luzern.studio-elite.ch
 0.0.0.0 m.appstory.co.kr
+0.0.0.0 m.divinasmendoza.com
 0.0.0.0 m.dreamersforum.nl
 0.0.0.0 m.flirtkontakt.cz
 0.0.0.0 m.gagalive.com
@@ -662,6 +675,7 @@
 0.0.0.0 mircalem.net
 0.0.0.0 mircalem.org
 0.0.0.0 mirctr.net
+0.0.0.0 missoula.bonepage.com
 0.0.0.0 missouri.bonepage.com
 0.0.0.0 mitoclanchat.chatovod.com
 0.0.0.0 mixchatroom.com
@@ -671,6 +685,7 @@
 0.0.0.0 mobilseslisohbet.net
 0.0.0.0 mobilsobe.com
 0.0.0.0 mobilsohbetodalari.net
+0.0.0.0 molduu9ry.nettoyagereunion.re
 0.0.0.0 monkey.app
 0.0.0.0 motesplatsen.se
 0.0.0.0 muhabbet.org
@@ -692,10 +707,13 @@
 0.0.0.0 mysugardaddy.nl
 0.0.0.0 mzansi-chatrooms.apk.gold
 0.0.0.0 mzansiescorts.com
+0.0.0.0 n.breaknews.com
 0.0.0.0 nagoya.rimokura.com
 0.0.0.0 naijachat.com
 0.0.0.0 naijalove.com.ng
+0.0.0.0 naijasinglesconnect.com
 0.0.0.0 namoroonline.com.br
+0.0.0.0 naronameso.meletstevewedding.fr
 0.0.0.0 nasipse.com
 0.0.0.0 nastyhookups.com
 0.0.0.0 navan.kubuchet.ru
@@ -833,6 +851,7 @@
 0.0.0.0 randkujemy.pl
 0.0.0.0 randomchat.com
 0.0.0.0 randomchat.pnyo.jp
+0.0.0.0 randomchat.social
 0.0.0.0 randomchat.today
 0.0.0.0 randomchatpro.com
 0.0.0.0 randomvideochat.me
@@ -995,6 +1014,7 @@
 0.0.0.0 talkrand.com
 0.0.0.0 talkwithstranger.co.uk
 0.0.0.0 talkwithstranger.com
+0.0.0.0 tampa-bay-area.bonepage.com
 0.0.0.0 tamsohbet.chat
 0.0.0.0 tamsohbet.com
 0.0.0.0 tamsohbet.com.tr
@@ -1028,6 +1048,7 @@
 0.0.0.0 toronto.bonepage.com
 0.0.0.0 townsville.5escorts.com
 0.0.0.0 toyohashi.merst.com
+0.0.0.0 trans.eros.com
 0.0.0.0 trchat.com
 0.0.0.0 trende.com.tr
 0.0.0.0 trmirc.net
@@ -1086,6 +1107,7 @@
 0.0.0.0 vivastreet.com
 0.0.0.0 vivastreet.ie
 0.0.0.0 volgograd-individualki-xes.click
+0.0.0.0 vuop4vp-stylesheet.nettoyagereunion.re
 0.0.0.0 wakuwaku-communications.com
 0.0.0.0 wakuwakufm.net
 0.0.0.0 waterford.swiftweb.ru

@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Piracy, South Africa (za)
-# Domains: 49 | Updated: 2026-10-25
+# Domains: 52 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+*.123movies123.stream
 *.123movieshubs.org
 *.2fmovies.net
 *.animeflv.ar
@@ -25,8 +26,10 @@ animeflv.chatovod.com
 *.freesportscap.com
 *.gomovieshd.today
 *.gomoviess.vip
+*.hesgoal.plus
 *.hesgoal.soccer
 *.hesgoaltv.biz
+*.hesgoaltv.quest
 *.icc-cricket.com
 *.limetorrent.net
 *.livesportsbay.com

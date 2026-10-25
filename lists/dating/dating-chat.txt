@@ -1,12 +1,14 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 372 | Updated: 2026-10-25
+# Domains: 384 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.321chat.com
+3n9wbv054n-amphtml.sullealideiricordi.it
 5y9nv9ytfw.troupedespatarins.fr
 6e1ksudjredns.chicecini.blog
+9fwpy9406a54-amphtml.nettoyagereunion.re
 ab.211.ca
 actv.avmspa.it
 ai.updf.com
@@ -77,6 +79,7 @@ chat.vinbazar.com
 *.chateacongente.com
 *.chateagratis.net
 *.chatealo.chat
+*.chatear.co
 *.chathispano.com
 *.chathub.com.br
 *.chathub.gg
@@ -135,6 +138,7 @@ coomeet.apkgold.ae
 *.dardasha.net
 deai.app-liv.jp
 *.deincamchat.de
+dhdjjvoxofo7.nettoyagereunion.re
 djdongdoes.djsch.kr
 *.dostichatroom.com
 *.dostyeri.org
@@ -171,6 +175,7 @@ gb.banana-chat.com
 *.geveze.org
 *.gevezeyeri.com
 giant-stoixima-apg.aestheticon.gr
+google-play-services.apk.gold
 *.greekchat.com
 *.greekchat.eu
 *.greekschat.com
@@ -180,9 +185,11 @@ gupshupzone.chatovod.com
 *.hiperalem.com
 hispano.orixon.org
 *.honeychat.app
+*.honeychat.bot
 *.hossohbet.com
 *.irishchat.net
 *.islamisohbet.com
+jilo.softonic.nl
 juso.2ver.com
 *.kalbim.net
 *.kalbiminsesi.net
@@ -220,6 +227,7 @@ mitoclanchat.chatovod.com
 *.mixpakichatroom.com
 *.mobilseslisohbet.net
 *.mobilsobe.com
+molduu9ry.nettoyagereunion.re
 *.monkey.app
 *.muhabbet.org
 *.muhabbetiniz.net
@@ -229,8 +237,10 @@ my386751-jabatan-pendaftaran-negara-kota-kinabalu-sabah.contact.page
 *.mynet.bz
 *.mynetsohbetsitesi.com
 mzansi-chatrooms.apk.gold
+n.breaknews.com
 nagoya.rimokura.com
 *.naijachat.com
+naronameso.meletstevewedding.fr
 *.nazfm.net
 *.newomegle.live
 ntu.ff.or.kr
@@ -272,6 +282,7 @@ project.scichallenge.eu
 *.randkujemy.pl
 *.randomchat.com
 randomchat.pnyo.jp
+*.randomchat.social
 *.randomchat.today
 *.randomchatpro.com
 *.randomvideochat.me
@@ -363,6 +374,7 @@ vard.skane.se
 *.videochatpt.com
 *.videochatru.com
 *.videollamada.com
+vuop4vp-stylesheet.nettoyagereunion.re
 *.web-bazoocam.com
 web.chatapropo.ro
 *.wireclub.com

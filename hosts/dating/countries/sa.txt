@@ -1,15 +1,19 @@
 # Title: EZOBLOCKER Dating, Saudi Arabia (sa)
-# Domains: 9 | Updated: 2026-10-25
+# Domains: 13 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/sa.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 9fwpy9406a54-amphtml.nettoyagereunion.re
 0.0.0.0 chatarab.chat
 0.0.0.0 chatarab.net
 0.0.0.0 chatarabic.chat
 0.0.0.0 dardasha.com
+0.0.0.0 dhdjjvoxofo7.nettoyagereunion.re
 0.0.0.0 gulfdate.com
 0.0.0.0 khaleejchat.co
 0.0.0.0 khaleejchat.com
+0.0.0.0 molduu9ry.nettoyagereunion.re
 0.0.0.0 saudidate.com
 0.0.0.0 shada-shatea.hotels-saudi-arabia.com
+0.0.0.0 vuop4vp-stylesheet.nettoyagereunion.re

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Germany (de)
-# Domains: 68 | Updated: 2026-10-25
+# Domains: 69 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/de.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -59,6 +59,7 @@
 0.0.0.0 sexshopberlin.com
 0.0.0.0 sextoyvergleich.de
 0.0.0.0 sinful.de
+0.0.0.0 slutloadpornos.com
 0.0.0.0 sluttygram.com
 0.0.0.0 smashme.de
 0.0.0.0 spankify.de

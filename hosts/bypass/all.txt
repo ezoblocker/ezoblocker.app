@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 154 | Updated: 2026-10-25
+# Domains: 161 | Updated: 2026-10-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -27,6 +27,7 @@
 0.0.0.0 cloudsupport.sequentum.com
 0.0.0.0 corp.omake.co.jp
 0.0.0.0 ctunnel.com
+0.0.0.0 discuss.privacyguides.net
 0.0.0.0 doc.alvao.com
 0.0.0.0 dtunnel.net
 0.0.0.0 eliteproxyswitcher.com
@@ -53,6 +54,7 @@
 0.0.0.0 india-vpn.apk.cafe
 0.0.0.0 insights.streamuktvabroad.com
 0.0.0.0 ipfoxy.com
+0.0.0.0 isitblocked.com
 0.0.0.0 k-tunnel.net
 0.0.0.0 kb.biznetgio.com
 0.0.0.0 kb.cloudkilat.id
@@ -74,6 +76,7 @@
 0.0.0.0 nsocks.com
 0.0.0.0 okeyproxy.com
 0.0.0.0 okkproxy.com
+0.0.0.0 old.pacificresort.com
 0.0.0.0 post.malltail.com
 0.0.0.0 powertunnel.org
 0.0.0.0 prime.changngocgia.com
@@ -145,6 +148,7 @@
 0.0.0.0 v2ray-macos-arm64-v8a.zip
 0.0.0.0 vpn-colombia-free-vpn-proxy-and-secure-vpn-unblock.apkgold.es
 0.0.0.0 vpn-proxy-master.en.softmany.com
+0.0.0.0 vpn.365finds.com
 0.0.0.0 vpn.g-l.ch
 0.0.0.0 vpngate.4d.workers.dev
 0.0.0.0 vpnki.ru
@@ -152,6 +156,9 @@
 0.0.0.0 websiteunblocker.net
 0.0.0.0 wiki5.ispadmin.eu
 0.0.0.0 windscribe.valuecom.com
+0.0.0.0 www.my.mozout.com
+0.0.0.0 www.shop.lppa.org
+0.0.0.0 www1.gill-line.com
 0.0.0.0 yasaksiteleregiris.org
 0.0.0.0 yozm.wishket.com
 0.0.0.0 zakazky.eagri.cz
