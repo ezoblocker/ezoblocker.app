@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Bypass, Greece (gr)
-# Domains: 3 | Updated: 2026-10-26
+# Domains: 4 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/bypass/countries/gr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 helpcenter.trendlife.com
+0.0.0.0 hstechdocs.helpsystems.com
 0.0.0.0 websiteunblocker.io
 0.0.0.0 websiteunblocker.net

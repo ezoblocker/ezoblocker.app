@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating, Australia (au)
-! Domains: 22 | Updated: 2026-10-26
+! Domains: 28 | Updated: 2026-10-26
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/countries/au.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,13 +9,19 @@
 ||adultmatchmaker.net.au^
 |au.banana-chat.com^
 |au.escortsaffair.com^
+|au.escortsliaison.com^
 |au.langtrees.com^
+|brisbane.flymetoyouescorts.com.au^
 ||eliteescortsaustralia.au^
 ||escortsandbabes.com.au^
+|events.canberra.com.au^
+|fmtyescort.flymetoyouescorts.com.au^
 |free.adultxcamz.com^
 ||fruzo.com^
 |hobart.bonepage.com^
+|newcastle-nsw.bonepage.com^
 |perth.5escorts.com^
+|perth.bonepage.com^
 ||privategirls.com.au^
 ||redhotpie.com.au^
 ||redhotpie.me^

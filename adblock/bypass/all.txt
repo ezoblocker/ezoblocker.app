@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Bypass
-! Domains: 161 | Updated: 2026-10-26
+! Domains: 166 | Updated: 2026-10-26
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/bypass/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -49,7 +49,9 @@
 ||hideip.net^
 ||hidemy-name.com^
 ||hideproxy.io^
+||hideproxy.name^
 |hotspot-shield.ar.softmany.com^
+|hstechdocs.helpsystems.com^
 |hub.zlonov.ru^
 |india-vpn.apk.cafe^
 |insights.streamuktvabroad.com^
@@ -76,6 +78,7 @@
 ||nsocks.com^
 ||okeyproxy.com^
 ||okkproxy.com^
+|old.babybjorn.com.hk^
 |old.pacificresort.com^
 |post.malltail.com^
 ||powertunnel.org^
@@ -130,7 +133,9 @@
 |tracker.prohacking77.me^
 ||tradeproxy.vn^
 |tunnelbear.ar.softmany.com^
+||tunnelbearvipn.com^
 ||tunproxy.com^
+|turbo-vpn.androidapks.com^
 |ultrasurf-security-privacy-unblock-vpn.softonic.jp^
 ||ultrasurf-vpn.pages.dev^
 |ultrasurf.ar.softmany.com^

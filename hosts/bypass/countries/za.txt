@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass, South Africa (za)
-# Domains: 6 | Updated: 2026-10-26
+# Domains: 7 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/bypass/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,5 +8,6 @@
 0.0.0.0 eservices.joburg.org.za
 0.0.0.0 freevpn.edu.pl
 0.0.0.0 learn.totem-project.org
+0.0.0.0 old.babybjorn.com.hk
 0.0.0.0 staging.elkford.ca
 0.0.0.0 www.shop.lppa.org

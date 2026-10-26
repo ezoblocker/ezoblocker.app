@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 161 | Updated: 2026-10-26
+# Domains: 166 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -49,7 +49,9 @@
 0.0.0.0 hideip.net
 0.0.0.0 hidemy-name.com
 0.0.0.0 hideproxy.io
+0.0.0.0 hideproxy.name
 0.0.0.0 hotspot-shield.ar.softmany.com
+0.0.0.0 hstechdocs.helpsystems.com
 0.0.0.0 hub.zlonov.ru
 0.0.0.0 india-vpn.apk.cafe
 0.0.0.0 insights.streamuktvabroad.com
@@ -76,6 +78,7 @@
 0.0.0.0 nsocks.com
 0.0.0.0 okeyproxy.com
 0.0.0.0 okkproxy.com
+0.0.0.0 old.babybjorn.com.hk
 0.0.0.0 old.pacificresort.com
 0.0.0.0 post.malltail.com
 0.0.0.0 powertunnel.org
@@ -130,7 +133,9 @@
 0.0.0.0 tracker.prohacking77.me
 0.0.0.0 tradeproxy.vn
 0.0.0.0 tunnelbear.ar.softmany.com
+0.0.0.0 tunnelbearvipn.com
 0.0.0.0 tunproxy.com
+0.0.0.0 turbo-vpn.androidapks.com
 0.0.0.0 ultrasurf-security-privacy-unblock-vpn.softonic.jp
 0.0.0.0 ultrasurf-vpn.pages.dev
 0.0.0.0 ultrasurf.ar.softmany.com

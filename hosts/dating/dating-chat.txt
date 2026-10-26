@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 384 | Updated: 2026-10-26
+# Domains: 390 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -55,6 +55,7 @@
 0.0.0.0 career.hyperconnect.com
 0.0.0.0 cca.mhcc.com
 0.0.0.0 cennetim.com
+0.0.0.0 changelog.liveagent.com
 0.0.0.0 chat.europnet.org
 0.0.0.0 chat.gen.tr
 0.0.0.0 chat.greek-chat.gr
@@ -155,6 +156,7 @@
 0.0.0.0 erotickychat.net
 0.0.0.0 erotik.markt.ch
 0.0.0.0 esohbet.net
+0.0.0.0 events.canberra.com.au
 0.0.0.0 evinsohbet.com
 0.0.0.0 f5oob2a6yj592gqy.e-creditreform.si
 0.0.0.0 faceflow.com
@@ -169,6 +171,7 @@
 0.0.0.0 friendschatroom.net
 0.0.0.0 fruzo.apkpure.co.in
 0.0.0.0 fruzo.com
+0.0.0.0 fruzo.expedigit.net
 0.0.0.0 fundacionchatlatino.org
 0.0.0.0 gb.banana-chat.com
 0.0.0.0 gelchat.net
@@ -208,6 +211,7 @@
 0.0.0.0 laflamak.com
 0.0.0.0 lavinsta.com
 0.0.0.0 livechat.sex-czech.cz
+0.0.0.0 lp.yoom.fun
 0.0.0.0 m.appstory.co.kr
 0.0.0.0 m.dreamersforum.nl
 0.0.0.0 m.gagalive.com
@@ -255,6 +259,7 @@
 0.0.0.0 omegle.online
 0.0.0.0 omegle.webcam
 0.0.0.0 omegleapp.me
+0.0.0.0 omeglelife.com
 0.0.0.0 omegletv.net
 0.0.0.0 omegleweb.com
 0.0.0.0 omegleweb.io
@@ -292,6 +297,7 @@
 0.0.0.0 salasdechatgratis.org
 0.0.0.0 samara-chat.ru.gg
 0.0.0.0 sapporo.chance.chat
+0.0.0.0 schauspielhaus-graz.buehnen-graz.com
 0.0.0.0 seo.imaiko.com
 0.0.0.0 service.link.link
 0.0.0.0 seslichat.com

@@ -5,8 +5,8 @@
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.cuevana3.boo
-*.cuevana3c.lat
 *.cuevanaserie.pro
+*.pelotalibre.today
 *.pelotalibreenvivo.cl
 *.pelotalibreplus.com
 *.pelotalibretv1.biz

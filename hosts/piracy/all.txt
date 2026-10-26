@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 968 | Updated: 2026-10-26
+# Domains: 979 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -161,7 +161,6 @@
 0.0.0.0 cuevana3.boo
 0.0.0.0 cuevana3.re
 0.0.0.0 cuevana3.sc
-0.0.0.0 cuevana3c.lat
 0.0.0.0 cuevanaa1.pro
 0.0.0.0 cuevanaserie.pro
 0.0.0.0 cuevanatv.vip
@@ -199,7 +198,6 @@
 0.0.0.0 dnsrepo.noc.org
 0.0.0.0 dontorrent.blog
 0.0.0.0 dontorrent.club
-0.0.0.0 dontorrent.diy
 0.0.0.0 dooball99.top
 0.0.0.0 doonung2u.blogspot.com
 0.0.0.0 doonungfree.com
@@ -270,6 +268,7 @@
 0.0.0.0 footybite.to
 0.0.0.0 footybite.vg
 0.0.0.0 footybite1.live
+0.0.0.0 footybite2.live
 0.0.0.0 footybites.biz
 0.0.0.0 footybites.click
 0.0.0.0 freeshot.ch
@@ -289,6 +288,7 @@
 0.0.0.0 fullprogramlarindir.net
 0.0.0.0 fullprogramlarindir.tr
 0.0.0.0 futbol-libre.cam
+0.0.0.0 futbolenlatv.es
 0.0.0.0 futbolenvivocolombia.com
 0.0.0.0 futbolete.com
 0.0.0.0 futbollibre.kim
@@ -335,7 +335,6 @@
 0.0.0.0 gogoanimes.watch
 0.0.0.0 gogoanimez.online
 0.0.0.0 gomovieshd.today
-0.0.0.0 gomoviess.vip
 0.0.0.0 google-play.en.softmany.com
 0.0.0.0 grandpashabet7567.com
 0.0.0.0 grantorrent.foo
@@ -381,6 +380,7 @@
 0.0.0.0 icuevana3.cam
 0.0.0.0 icuevana3.mobi
 0.0.0.0 ikinogo.io
+0.0.0.0 image.schrack.com
 0.0.0.0 info.rugbypass.tv
 0.0.0.0 inpiad60.inpiad.co.kr
 0.0.0.0 iptv-abonnement-france.youcan.store
@@ -392,6 +392,7 @@
 0.0.0.0 iptvcanada.tv
 0.0.0.0 iptvcanadacofficiel.ca
 0.0.0.0 iptvcanadian.com
+0.0.0.0 iptvespanapremium.com
 0.0.0.0 iptvespanatv.pro
 0.0.0.0 iptvireland-4k.irish
 0.0.0.0 iptvireland.homes
@@ -454,6 +455,7 @@
 0.0.0.0 kissanime-offcial.cyou
 0.0.0.0 kissanime.ax
 0.0.0.0 kissanime.com.cv
+0.0.0.0 kissanime.lu
 0.0.0.0 kissanime.quest
 0.0.0.0 kissanimetv.lol
 0.0.0.0 kmanga.kodansha.com
@@ -491,6 +493,7 @@
 0.0.0.0 layarkaca21sweet.com
 0.0.0.0 lec.medilink-study.com
 0.0.0.0 leisure.harianjogja.com
+0.0.0.0 library.sunshinecoast.qld.gov.au
 0.0.0.0 librefutbol.vip
 0.0.0.0 lichphimmoi.com
 0.0.0.0 lifestyle.assist-all.co.jp
@@ -525,6 +528,8 @@
 0.0.0.0 llsflwjo.riverpeak.lat
 0.0.0.0 locopelis.com
 0.0.0.0 lordfilm-hd.mirfilm.net
+0.0.0.0 lordfilm-ru0.cc
+0.0.0.0 lordfilm-smotretb.ru
 0.0.0.0 lordfilm.fi
 0.0.0.0 lordfilms.pub
 0.0.0.0 lordfilms.pw
@@ -533,6 +538,7 @@
 0.0.0.0 m.acestream.net
 0.0.0.0 m.goalddlive.com
 0.0.0.0 m.kino-sokol.pl
+0.0.0.0 m.snrtbotola.ma
 0.0.0.0 maltcasinotv28.com
 0.0.0.0 mangadex.dev
 0.0.0.0 mangadex.live
@@ -646,6 +652,7 @@
 0.0.0.0 pelisplushd3.com
 0.0.0.0 pelisplusmx.co
 0.0.0.0 pelisplusvip.com
+0.0.0.0 pelotalibre.today
 0.0.0.0 pelotalibreenvivo.cl
 0.0.0.0 pelotalibreplus.com
 0.0.0.0 pelotalibretv1.biz
@@ -862,6 +869,7 @@
 0.0.0.0 torrentfreak.com
 0.0.0.0 torrentgalaxy.hair
 0.0.0.0 torrentoyunindir.co
+0.0.0.0 torrenttrackerslist.com
 0.0.0.0 totalsportek.org.im
 0.0.0.0 totalsportek1.is
 0.0.0.0 totalsportekhd.live
@@ -940,6 +948,7 @@
 0.0.0.0 ww1.pelis24.blog
 0.0.0.0 www-mangadex.org
 0.0.0.0 www.kino.nowytarg.pl
+0.0.0.0 www.mae.gov.bi
 0.0.0.0 www.tosho3704.tokyo-bousai.or.jp
 0.0.0.0 www2.gema.org
 0.0.0.0 xoilac1.help
@@ -950,6 +959,7 @@
 0.0.0.0 xoilaclivettbdu.tv
 0.0.0.0 xoilaclivettbdz.tv
 0.0.0.0 xoilactvbm.cc
+0.0.0.0 xoilactvttbdg.tv
 0.0.0.0 xoilacvba.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net
@@ -960,6 +970,7 @@
 0.0.0.0 xoilacxbt.tv
 0.0.0.0 xoilacxxm.cc
 0.0.0.0 xoilaczcd.tv
+0.0.0.0 xznavkgp.ahrtaler-gourmetschmiede.de
 0.0.0.0 yaacinetv.com
 0.0.0.0 yabancidizi.news
 0.0.0.0 yallah-shooot.top

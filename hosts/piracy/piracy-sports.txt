@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 358 | Updated: 2026-10-26
+# Domains: 364 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -75,6 +75,7 @@
 0.0.0.0 footybite.to
 0.0.0.0 footybite.vg
 0.0.0.0 footybite1.live
+0.0.0.0 footybite2.live
 0.0.0.0 footybites.biz
 0.0.0.0 footybites.click
 0.0.0.0 freeshot.ch
@@ -83,6 +84,7 @@
 0.0.0.0 freesportscap.com
 0.0.0.0 french.visitkorea.or.kr
 0.0.0.0 futbol-libre.cam
+0.0.0.0 futbolenlatv.es
 0.0.0.0 futbolenvivocolombia.com
 0.0.0.0 futbolete.com
 0.0.0.0 futbollibre.kim
@@ -184,6 +186,7 @@
 0.0.0.0 m.3smedi.co.kr
 0.0.0.0 m.acestream.net
 0.0.0.0 m.goalddlive.com
+0.0.0.0 m.snrtbotola.ma
 0.0.0.0 mecze24.pl
 0.0.0.0 methstreams.digital
 0.0.0.0 mlbbite.plus
@@ -200,6 +203,7 @@
 0.0.0.0 nyc-dsp1.kavanga.com
 0.0.0.0 ostoralivehd7.com
 0.0.0.0 pacman.live
+0.0.0.0 pelotalibre.today
 0.0.0.0 pelotalibreenvivo.cl
 0.0.0.0 pelotalibreplus.com
 0.0.0.0 pelotalibretv1.biz
@@ -336,6 +340,7 @@
 0.0.0.0 viprow.pro
 0.0.0.0 watch.onesoccer.ca
 0.0.0.0 welcome.blasttv.ph
+0.0.0.0 www.mae.gov.bi
 0.0.0.0 xoilac1.help
 0.0.0.0 xoilac3.cc
 0.0.0.0 xoilac5.top
@@ -344,6 +349,7 @@
 0.0.0.0 xoilaclivettbdu.tv
 0.0.0.0 xoilaclivettbdz.tv
 0.0.0.0 xoilactvbm.cc
+0.0.0.0 xoilactvttbdg.tv
 0.0.0.0 xoilacvba.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net

@@ -1,9 +1,10 @@
 ! Title: EZOBLOCKER Dating, Japan (jp)
-! Domains: 46 | Updated: 2026-10-26
+! Domains: 49 | Updated: 2026-10-26
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/countries/jp.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+|bodoge.hoobby.net^
 |bumpmatch.jetboy.jp^
 |chat.romi.ai^
 |chatlady.rei35.com^
@@ -22,6 +23,7 @@
 ||honeychat.app^
 ||honeychat.bot^
 |liver.doneru.jp^
+|lp.yoom.fun^
 |machicon.um-club.jp^
 |magaseekcm.conohawing.com^
 |manabi.pref.aichi.jp^
@@ -44,6 +46,7 @@
 |sapporo.chance.chat^
 |service.link.link^
 ||strangerchat.live^
+||tapple.co.jp^
 ||tapple.me^
 |toyohashi.merst.com^
 ||wakuwaku-communications.com^

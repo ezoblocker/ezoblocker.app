@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 44,956 | Updated: 2026-10-26
+# Domains: 44,943 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -2200,7 +2200,6 @@ applemaps.lostdevice-location-signin.services
 applemaps.lostdevice-viewlocation-signin.services
 *.applepay-verification-prod.pages.dev
 *.applepay-verification.pages.dev
-*.applepayconfirm.com
 *.apples-24x7-customer-support.pages.dev
 *.apples-24x7-support-com.pages.dev
 *.apples-24x7-support-experts.pages.dev
@@ -5557,7 +5556,6 @@ close-docusign-disclose-payee-cfe7.carlosarguig.workers.dev
 *.cluod-ledger-com-start.pages.dev
 *.clyra-veil.pages.dev
 *.clz-coinbsepro-cloud-started.pages.dev
-*.cmf-whatsapp.com.cn
 *.cn-telegram-app.pages.dev
 *.cn-trezor-io-start.pages.dev
 *.cnbase-pro-loginee.pages.dev
@@ -11429,8 +11427,6 @@ ezpass.csc.patumpike.com
 *.f564e367-e2c2-4fcd-b11d-c411e27ab7aa-netflix-clone.pages.dev
 *.faceb00k-7e2.pages.dev
 *.faceb00k.pages.dev
-faceb00kpagemeta.pros.security
-faceb00kpagemetame.pros.security
 *.facebokhelpcenterse.pages.dev
 *.faceboksystemerrorsfix.pages.dev
 *.facebook--account-locked-problem-lockedout-recovery.ph
@@ -13677,7 +13673,6 @@ grup.whatssapp.com
 *.h-in-whatsapp.com.cn
 *.h-ob-whatsapp.com.cn
 *.h-roobin-hoood-logn.pages.dev
-*.h-v-whatsapp.com.cn
 *.h-wh-atsapp.com.cn
 *.h-wha-tsapp.com.cn
 *.h-what-sapp.com.cn
@@ -14616,11 +14611,9 @@ hjhjhj.hjkkjjk.workers.dev
 *.hk-whatsaspp-nbr.hk.cn
 *.hk-whatsaspp-qec.hk.cn
 *.hk-whatsaspp-rly.hk.cn
-*.hk-whatsaspp-rtg.hk.cn
 *.hk-whatsaspp-snk.hk.cn
 *.hk-whatsaspp-tbw.hk.cn
 *.hk-whatsaspp-wak.hk.cn
-*.hk-whatsaspp-zsu.hk.cn
 *.hl-letsvpn.com.cn
 *.hlp-com-ladgr-strt.pages.dev
 *.hlp-io-trezor-strt.pages.dev
@@ -18026,7 +18019,6 @@ iverify.paypalproblems.com.blackforestorganic.com
 *.ix-whats-app.hl.cn
 *.ixora2-2qorin.pages.dev
 *.ixora2-2vexil.pages.dev
-*.iyj-whatsapp.com.cn
 *.iyzico-learning-applesupport.ph
 *.j-i-whats-app.hl.cn
 *.j-m-v-whatsapp.com.cn
@@ -26944,7 +26936,6 @@ mx-us-paypal.firstresortforlove.com
 *.my-account-robinhood-login.pages.dev
 *.my-apps-ledgerstat.pages.dev
 *.my-ato-signin.ph
-*.my-binance.app
 *.my-coin-base-logn.pages.dev
 *.my-coinbasepro.pages.dev
 *.my-extension-coiin-basee.pages.dev
@@ -29616,6 +29607,7 @@ paypal.de-transaktion-6398345.sbs
 paypal.item-illo.click
 paypal.smasung.ca
 *.paypal24x7-helpdesk-support.pages.dev
+*.paypalaccountverification.com.ph
 *.paypalaccountverification.net.ph
 *.paypalaccountverification.ph
 *.paypalads.pages.dev
@@ -30834,7 +30826,6 @@ random-us-paypal.pingidentity.gen.in
 *.rbionline-appleid.ph
 *.rbnhood-asked-loginz.pages.dev
 *.rbnhud-logn-us-cdn.pages.dev
-*.rbu-whatsapp.com.cn
 *.rcbc-savings-bank-cabanatuan-city-nueva-ecija.com.ph
 *.rcbc-savings-bank-dagupan-city-pangasinan.ph
 *.rcbc-savings-bank-las-pinas-city-metro-manila.ph
@@ -36928,7 +36919,6 @@ telegram.org.authenticate.dnsterm.com
 *.telegramnewnow.pages.dev
 *.telegramngentod.pages.dev
 *.telegramngesex.pages.dev
-*.telegramorg.vip
 *.telegramsex-55t.pages.dev
 *.telegramsex23.pages.dev
 *.telegramsexsss.pages.dev
@@ -37233,6 +37223,7 @@ tiktok-unit.newseventpubgmobile.workers.dev
 *.tokevim-cdn31-hk1.rest
 *.tokevim-cdn61-hk61.xyz
 *.tokinim-cdn-hk3.xyz
+*.tokinim-cdn76-hkj.xyz
 *.tokinim-cdng-hkj.lol
 *.toknevim-cdn-hk01.rest
 *.toknevim-cdn-hk5.lol
@@ -40947,7 +40938,6 @@ twitter-copyright-center.fanduelsportsnerwork.com
 *.ui-start-tezor-io.pages.dev
 *.ui-w-hatsapp.com.cn
 *.ui3uoj4r9iughduiorkd38yyw90er897yfh.pages.dev
-*.uiv-whatsapp.com.cn
 *.uk-find-mydevice-assistance.com
 *.uk-metamask-login.pages.dev
 *.ukledger-com-start.pages.dev
@@ -44007,7 +43997,6 @@ whatsapp-plus-dashboard.dudes.studio
 *.whatsapp-template-dashboard2.pages.dev
 *.whatsapp-test.pages.dev
 *.whatsapp-translator-mobile.pages.dev
-*.whatsapp-tugz.fit
 *.whatsapp-ui.pages.dev
 *.whatsapp-upoy.fit
 *.whatsapp-v32.pages.dev
@@ -44326,7 +44315,6 @@ wildberrie.jumia-vip.shop
 *.wix-trzriostart-com.pages.dev
 *.wizinkcuenta.pages.dev
 *.wjg8ovzxohdkn9wbf3.pages.dev
-*.wkx-whatsapp.com.cn
 *.wl-coinbase-login.pages.dev
 *.wl-trezor-bridge.pages.dev
 *.wl-trezor-io-start.pages.dev
@@ -44881,7 +44869,6 @@ zelle-wellfargo.arktabela.com
 *.zeriondapps.pages.dev
 *.zerioningeborg.pages.dev
 *.zerynthovalica.com
-*.zfw-whatsapp.cn
 *.zia-ul-meezan.online
 *.ziraat-trade.win
 *.ziraatbankasi-biz-9xtmn.pages.dev

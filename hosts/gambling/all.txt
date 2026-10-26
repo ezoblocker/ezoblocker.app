@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 397,959 | Updated: 2026-10-26
+# Domains: 397,931 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -5383,7 +5383,6 @@
 0.0.0.0 1xslots-rol.fun
 0.0.0.0 1xslots-rom.top
 0.0.0.0 1xslots-rpo.top
-0.0.0.0 1xslots-rqv.top
 0.0.0.0 1xslots-rqz.top
 0.0.0.0 1xslots-rrs.online
 0.0.0.0 1xslots-rry.top
@@ -15237,7 +15236,6 @@
 0.0.0.0 7kcasino-lri.top
 0.0.0.0 7kcasino-mas.top
 0.0.0.0 7kcasino-mid.top
-0.0.0.0 7kcasino-mqh.top
 0.0.0.0 7kcasino-mtr.top
 0.0.0.0 7kcasino-mum.top
 0.0.0.0 7kcasino-npk.top
@@ -15261,7 +15259,6 @@
 0.0.0.0 7kcasino-qig.top
 0.0.0.0 7kcasino-qjd.top
 0.0.0.0 7kcasino-qjs.top
-0.0.0.0 7kcasino-qjw.top
 0.0.0.0 7kcasino-qzi.top
 0.0.0.0 7kcasino-rde.top
 0.0.0.0 7kcasino-rkh.top
@@ -35782,6 +35779,7 @@
 0.0.0.0 b9casinor.com
 0.0.0.0 b9casinovip.com
 0.0.0.0 ba-casino-online.com
+0.0.0.0 ba-lan-vs-ao.nhadepbacgiang.com
 0.0.0.0 ba-sapi-slotgacor-edu.pages.dev
 0.0.0.0 ba999casino.win
 0.0.0.0 ba999ccasino.com
@@ -43269,7 +43267,6 @@
 0.0.0.0 bestecasinosites.com
 0.0.0.0 bestecasinosites.net
 0.0.0.0 bestecasinosites.org
-0.0.0.0 bestecasinosnl.com
 0.0.0.0 bestecasinosohneoasis.cn.com
 0.0.0.0 bestecasinosohneoasis.de
 0.0.0.0 bestecasinosonline.net
@@ -51005,7 +51002,6 @@
 0.0.0.0 betnjets.co.uk
 0.0.0.0 betnjets.win
 0.0.0.0 betnjetscasino-uk.com
-0.0.0.0 betnjetscasinosnl.nl
 0.0.0.0 betnjetsuk.com
 0.0.0.0 betnjett.co.uk
 0.0.0.0 betnjett.nl
@@ -65676,7 +65672,6 @@
 0.0.0.0 booicasino-psr.top
 0.0.0.0 booicasino-pw6h.buzz
 0.0.0.0 booicasino-qie.top
-0.0.0.0 booicasino-qmj.top
 0.0.0.0 booicasino-qso.top
 0.0.0.0 booicasino-qxn.top
 0.0.0.0 booicasino-rtg.top
@@ -90867,7 +90862,6 @@
 0.0.0.0 casinoclubben.pages.dev
 0.0.0.0 casinoclubben.se
 0.0.0.0 casinoclubde.net
-0.0.0.0 casinoclubdeleones.com.mx
 0.0.0.0 casinoclubfrance.com
 0.0.0.0 casinoclubgame.com
 0.0.0.0 casinoclubgames.nl
@@ -114432,7 +114426,6 @@
 0.0.0.0 casinozodiac.casino
 0.0.0.0 casinozodiac.co.uk
 0.0.0.0 casinozodiac.de
-0.0.0.0 casinozodiac.eu
 0.0.0.0 casinozodiac.ro
 0.0.0.0 casinozodiac.sk
 0.0.0.0 casinozodiac.uk
@@ -116235,7 +116228,6 @@
 0.0.0.0 catcasino-avy.top
 0.0.0.0 catcasino-awr.top
 0.0.0.0 catcasino-aws.top
-0.0.0.0 catcasino-axn.top
 0.0.0.0 catcasino-axr.top
 0.0.0.0 catcasino-axw.top
 0.0.0.0 catcasino-azy.top
@@ -116691,7 +116683,6 @@
 0.0.0.0 catcasino-jwt.top
 0.0.0.0 catcasino-jxg.top
 0.0.0.0 catcasino-jyu.top
-0.0.0.0 catcasino-jze.top
 0.0.0.0 catcasino-jzm.top
 0.0.0.0 catcasino-kak.top
 0.0.0.0 catcasino-kal.top
@@ -116998,7 +116989,6 @@
 0.0.0.0 catcasino-qsp.top
 0.0.0.0 catcasino-qsq.top
 0.0.0.0 catcasino-qst.top
-0.0.0.0 catcasino-qti.top
 0.0.0.0 catcasino-qve.top
 0.0.0.0 catcasino-qvt.top
 0.0.0.0 catcasino-qwx.top
@@ -117056,7 +117046,6 @@
 0.0.0.0 catcasino-rxc.top
 0.0.0.0 catcasino-rxv.top
 0.0.0.0 catcasino-rym.top
-0.0.0.0 catcasino-rzz.top
 0.0.0.0 catcasino-saa.top
 0.0.0.0 catcasino-say.top
 0.0.0.0 catcasino-scp.top
@@ -117313,7 +117302,6 @@
 0.0.0.0 catcasino-xlx.top
 0.0.0.0 catcasino-xnj.top
 0.0.0.0 catcasino-xnm.top
-0.0.0.0 catcasino-xnp.top
 0.0.0.0 catcasino-xnu.top
 0.0.0.0 catcasino-xok.top
 0.0.0.0 catcasino-xpd.top
@@ -119890,6 +119878,7 @@
 0.0.0.0 cherrygold-casino.com
 0.0.0.0 cherrygold-casino.net
 0.0.0.0 cherrygold-casino.org
+0.0.0.0 cherrygold-online.com
 0.0.0.0 cherrygold.it
 0.0.0.0 cherrygoldcasino-ca.com
 0.0.0.0 cherrygoldcasino-ch.com
@@ -141098,7 +141087,6 @@
 0.0.0.0 eldoradocasino-ytt.top
 0.0.0.0 eldoradocasino-yup.top
 0.0.0.0 eldoradocasino-yvv.top
-0.0.0.0 eldoradocasino-yvx.top
 0.0.0.0 eldoradocasino-ywa.top
 0.0.0.0 eldoradocasino-yxo.top
 0.0.0.0 eldoradocasino-yys.top
@@ -156926,7 +156914,6 @@
 0.0.0.0 gamacasino-jsq.top
 0.0.0.0 gamacasino-ksi.top
 0.0.0.0 gamacasino-kuf.top
-0.0.0.0 gamacasino-kzd.top
 0.0.0.0 gamacasino-lbk.top
 0.0.0.0 gamacasino-lci.top
 0.0.0.0 gamacasino-lkw.top
@@ -170211,7 +170198,6 @@
 0.0.0.0 gulecasino.com
 0.0.0.0 gulfcasinos.com
 0.0.0.0 gulfstreamcasino.com
-0.0.0.0 gulfstreamcasinorewards.com
 0.0.0.0 gulfstreamparkcasino.com
 0.0.0.0 gullcasino.org
 0.0.0.0 gullybet-casino.org
@@ -192315,7 +192301,6 @@
 0.0.0.0 joycasino-ecv.top
 0.0.0.0 joycasino-ed39.top
 0.0.0.0 joycasino-ed4.top
-0.0.0.0 joycasino-eea.top
 0.0.0.0 joycasino-eel.top
 0.0.0.0 joycasino-een11.top
 0.0.0.0 joycasino-eg54.top
@@ -192484,7 +192469,6 @@
 0.0.0.0 joycasino-kcx.top
 0.0.0.0 joycasino-kdn.top
 0.0.0.0 joycasino-kfi.top
-0.0.0.0 joycasino-kfv.top
 0.0.0.0 joycasino-kko.top
 0.0.0.0 joycasino-kol.top
 0.0.0.0 joycasino-kpa.top
@@ -192798,7 +192782,6 @@
 0.0.0.0 joycasino-uln.top
 0.0.0.0 joycasino-uma.top
 0.0.0.0 joycasino-upt.fun
-0.0.0.0 joycasino-uqt.top
 0.0.0.0 joycasino-ust.top
 0.0.0.0 joycasino-uuo.top
 0.0.0.0 joycasino-uve.top
@@ -221893,6 +221876,7 @@
 0.0.0.0 maharajacasinob.com
 0.0.0.0 maharajaslot.org
 0.0.0.0 maharajaslot.pages.dev
+0.0.0.0 maharajaslot5000.lol
 0.0.0.0 mahasiswa178-wildfortune.pages.dev
 0.0.0.0 mahaslotvip.club
 0.0.0.0 mahaslotvip.com
@@ -231129,6 +231113,7 @@
 0.0.0.0 memorislotgacor.com
 0.0.0.0 memos-chezali.be
 0.0.0.0 men88slotdemo.pages.dev
+0.0.0.0 menacasino.com
 0.0.0.0 menace-casino.ca
 0.0.0.0 menace-casino.co.com
 0.0.0.0 menace-casino.com
@@ -238541,7 +238526,6 @@
 0.0.0.0 mostbet-bangladesh.bet
 0.0.0.0 mostbet-bangladesh.biz
 0.0.0.0 mostbet-bangladesh.com
-0.0.0.0 mostbet-bangladesh1.com
 0.0.0.0 mostbet-bav.pages.dev
 0.0.0.0 mostbet-bb.online
 0.0.0.0 mostbet-bb.ru
@@ -243267,6 +243251,7 @@
 0.0.0.0 mu9bet.net
 0.0.0.0 mu9casinobet.com
 0.0.0.0 mu9funbet.com
+0.0.0.0 muamalahvalley.com
 0.0.0.0 muara777-slot-online-scatter.pages.dev
 0.0.0.0 mubahisa.com
 0.0.0.0 mubet.beer
@@ -248666,7 +248651,6 @@
 0.0.0.0 netflix-casino-privacy.pages.dev
 0.0.0.0 netflix-casino.co.cz
 0.0.0.0 netflix-casinos-italy.it
-0.0.0.0 netflix-casinos.it
 0.0.0.0 netflixcasino-it.it
 0.0.0.0 netflixcasino-italy.it
 0.0.0.0 netflixcasino1.ro
@@ -258456,7 +258440,6 @@
 0.0.0.0 oliver-casino-it-a19d61b9.pages.dev
 0.0.0.0 oliver-casino.com
 0.0.0.0 oliver-casino.com.de
-0.0.0.0 oliver-casino.eu.com
 0.0.0.0 oliver-casino.info
 0.0.0.0 oliver-casino.it
 0.0.0.0 oliver-casino.net
@@ -264804,6 +264787,7 @@
 0.0.0.0 otocasino.com
 0.0.0.0 otocasino.net
 0.0.0.0 otocasino.org
+0.0.0.0 otocasino.to
 0.0.0.0 otocasinogiris.com
 0.0.0.0 otocasinogiris.org
 0.0.0.0 otoslotvip.xyz
@@ -270087,7 +270071,6 @@
 0.0.0.0 pgslot-resmi.pages.dev
 0.0.0.0 pgslot-royal.com
 0.0.0.0 pgslot-royal338vip.com
-0.0.0.0 pgslot-rtp.app
 0.0.0.0 pgslot-seo.pages.dev
 0.0.0.0 pgslot-sesaosakon.pages.dev
 0.0.0.0 pgslot-sichomphu.pages.dev
@@ -297619,7 +297602,6 @@
 0.0.0.0 riobetcasino-479.top
 0.0.0.0 riobetcasino-481.top
 0.0.0.0 riobetcasino-483.top
-0.0.0.0 riobetcasino-485.top
 0.0.0.0 riobetcasino-492.top
 0.0.0.0 riobetcasino-497.top
 0.0.0.0 riobetcasino-503.top
@@ -297980,7 +297962,6 @@
 0.0.0.0 riobetcasino-hjw.top
 0.0.0.0 riobetcasino-hkc.top
 0.0.0.0 riobetcasino-hks.top
-0.0.0.0 riobetcasino-hlk.top
 0.0.0.0 riobetcasino-hmi.top
 0.0.0.0 riobetcasino-ho.xyz
 0.0.0.0 riobetcasino-hot.top
@@ -298052,14 +298033,12 @@
 0.0.0.0 riobetcasino-jtj.top
 0.0.0.0 riobetcasino-jvg.top
 0.0.0.0 riobetcasino-jyi.top
-0.0.0.0 riobetcasino-jyq.top
 0.0.0.0 riobetcasino-jzi.top
 0.0.0.0 riobetcasino-jzj.top
 0.0.0.0 riobetcasino-jzv.top
 0.0.0.0 riobetcasino-kag.top
 0.0.0.0 riobetcasino-kazino.top
 0.0.0.0 riobetcasino-kcg.top
-0.0.0.0 riobetcasino-kcn.top
 0.0.0.0 riobetcasino-kcz.top
 0.0.0.0 riobetcasino-kd.xyz
 0.0.0.0 riobetcasino-kel.top
@@ -298072,7 +298051,6 @@
 0.0.0.0 riobetcasino-khe.top
 0.0.0.0 riobetcasino-khn.top
 0.0.0.0 riobetcasino-khs.top
-0.0.0.0 riobetcasino-kje.top
 0.0.0.0 riobetcasino-kkq.top
 0.0.0.0 riobetcasino-kld.top
 0.0.0.0 riobetcasino-klv.top
@@ -298145,7 +298123,6 @@
 0.0.0.0 riobetcasino-mcn.top
 0.0.0.0 riobetcasino-mcu.top
 0.0.0.0 riobetcasino-mcw.top
-0.0.0.0 riobetcasino-mdb.top
 0.0.0.0 riobetcasino-mex.top
 0.0.0.0 riobetcasino-mfe.top
 0.0.0.0 riobetcasino-mft.top
@@ -298157,10 +298134,8 @@
 0.0.0.0 riobetcasino-miw.top
 0.0.0.0 riobetcasino-mjg.top
 0.0.0.0 riobetcasino-mjv.top
-0.0.0.0 riobetcasino-mkz.top
 0.0.0.0 riobetcasino-mlf.top
 0.0.0.0 riobetcasino-mlv.top
-0.0.0.0 riobetcasino-mnu.top
 0.0.0.0 riobetcasino-mob.top
 0.0.0.0 riobetcasino-moe.top
 0.0.0.0 riobetcasino-moj.top
@@ -298175,7 +298150,6 @@
 0.0.0.0 riobetcasino-mud.top
 0.0.0.0 riobetcasino-mxb.top
 0.0.0.0 riobetcasino-mxd.top
-0.0.0.0 riobetcasino-mxe.top
 0.0.0.0 riobetcasino-mzf.top
 0.0.0.0 riobetcasino-mzx.top
 0.0.0.0 riobetcasino-nac.top
@@ -298356,7 +298330,6 @@
 0.0.0.0 riobetcasino-rod.top
 0.0.0.0 riobetcasino-ron.top
 0.0.0.0 riobetcasino-rou.top
-0.0.0.0 riobetcasino-rpq.top
 0.0.0.0 riobetcasino-rqw.top
 0.0.0.0 riobetcasino-rrq.top
 0.0.0.0 riobetcasino-rrs.top
@@ -298551,7 +298524,6 @@
 0.0.0.0 riobetcasino-wul.top
 0.0.0.0 riobetcasino-wuo.top
 0.0.0.0 riobetcasino-wve.top
-0.0.0.0 riobetcasino-wvk.top
 0.0.0.0 riobetcasino-wvz.top
 0.0.0.0 riobetcasino-wwa.top
 0.0.0.0 riobetcasino-wwk.top
@@ -298612,7 +298584,6 @@
 0.0.0.0 riobetcasino-ymz.top
 0.0.0.0 riobetcasino-yoe.top
 0.0.0.0 riobetcasino-ypb.top
-0.0.0.0 riobetcasino-yqt.top
 0.0.0.0 riobetcasino-yte.top
 0.0.0.0 riobetcasino-yud.top
 0.0.0.0 riobetcasino-yuh.top
@@ -298620,7 +298591,6 @@
 0.0.0.0 riobetcasino-yvo.top
 0.0.0.0 riobetcasino-yvp.top
 0.0.0.0 riobetcasino-yvu.top
-0.0.0.0 riobetcasino-ywb.top
 0.0.0.0 riobetcasino-yym.top
 0.0.0.0 riobetcasino-yza.top
 0.0.0.0 riobetcasino-yzn.top
@@ -362146,6 +362116,7 @@
 0.0.0.0 unibetodds.dk
 0.0.0.0 unibetonline.co.uk
 0.0.0.0 unibetonline.dk
+0.0.0.0 unibetopen.com
 0.0.0.0 unibetopinie.pl
 0.0.0.0 unibetosterreich-com.pages.dev
 0.0.0.0 unibetpakistanq.com
@@ -391248,6 +391219,7 @@
 0.0.0.0 ws-casinoofficial-au-com.pages.dev
 0.0.0.0 ws-casinoonline-au-com.pages.dev
 0.0.0.0 ws.christostogo.com
+0.0.0.0 ws.glenfloors.com
 0.0.0.0 wsbcasino.co.za
 0.0.0.0 wsbet69-slot-gacor-indonesia.pages.dev
 0.0.0.0 wsbetting.co.ke

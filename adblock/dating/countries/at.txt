@@ -1,16 +1,19 @@
 ! Title: EZOBLOCKER Dating, Austria (at)
-! Domains: 11 | Updated: 2026-10-26
+! Domains: 14 | Updated: 2026-10-26
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/countries/at.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+|at.loquovip.com^
 |austria.escortface.com^
 ||austriaescort.at^
 |erotik.markt.ch^
+||kaufmich-poppen.de^
 |new-york.ondate.com^
 ||onlinechatcity.com^
 ||private-sexkontakte.at^
 ||pussy-laufhaus.at^
+|schauspielhaus-graz.buehnen-graz.com^
 ||sexkontakte.at^
 |subdomainfinder.c99.nl^
 |us.ondate.com^

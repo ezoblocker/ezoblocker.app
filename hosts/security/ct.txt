@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 44,956 | Updated: 2026-10-26
+# Domains: 44,943 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -2200,7 +2200,6 @@
 0.0.0.0 applemaps.lostdevice-viewlocation-signin.services
 0.0.0.0 applepay-verification-prod.pages.dev
 0.0.0.0 applepay-verification.pages.dev
-0.0.0.0 applepayconfirm.com
 0.0.0.0 apples-24x7-customer-support.pages.dev
 0.0.0.0 apples-24x7-support-com.pages.dev
 0.0.0.0 apples-24x7-support-experts.pages.dev
@@ -5557,7 +5556,6 @@
 0.0.0.0 cluod-ledger-com-start.pages.dev
 0.0.0.0 clyra-veil.pages.dev
 0.0.0.0 clz-coinbsepro-cloud-started.pages.dev
-0.0.0.0 cmf-whatsapp.com.cn
 0.0.0.0 cn-telegram-app.pages.dev
 0.0.0.0 cn-trezor-io-start.pages.dev
 0.0.0.0 cnbase-pro-loginee.pages.dev
@@ -11429,8 +11427,6 @@
 0.0.0.0 f564e367-e2c2-4fcd-b11d-c411e27ab7aa-netflix-clone.pages.dev
 0.0.0.0 faceb00k-7e2.pages.dev
 0.0.0.0 faceb00k.pages.dev
-0.0.0.0 faceb00kpagemeta.pros.security
-0.0.0.0 faceb00kpagemetame.pros.security
 0.0.0.0 facebokhelpcenterse.pages.dev
 0.0.0.0 faceboksystemerrorsfix.pages.dev
 0.0.0.0 facebook--account-locked-problem-lockedout-recovery.ph
@@ -13677,7 +13673,6 @@
 0.0.0.0 h-in-whatsapp.com.cn
 0.0.0.0 h-ob-whatsapp.com.cn
 0.0.0.0 h-roobin-hoood-logn.pages.dev
-0.0.0.0 h-v-whatsapp.com.cn
 0.0.0.0 h-wh-atsapp.com.cn
 0.0.0.0 h-wha-tsapp.com.cn
 0.0.0.0 h-what-sapp.com.cn
@@ -14616,11 +14611,9 @@
 0.0.0.0 hk-whatsaspp-nbr.hk.cn
 0.0.0.0 hk-whatsaspp-qec.hk.cn
 0.0.0.0 hk-whatsaspp-rly.hk.cn
-0.0.0.0 hk-whatsaspp-rtg.hk.cn
 0.0.0.0 hk-whatsaspp-snk.hk.cn
 0.0.0.0 hk-whatsaspp-tbw.hk.cn
 0.0.0.0 hk-whatsaspp-wak.hk.cn
-0.0.0.0 hk-whatsaspp-zsu.hk.cn
 0.0.0.0 hl-letsvpn.com.cn
 0.0.0.0 hlp-com-ladgr-strt.pages.dev
 0.0.0.0 hlp-io-trezor-strt.pages.dev
@@ -18026,7 +18019,6 @@
 0.0.0.0 ix-whats-app.hl.cn
 0.0.0.0 ixora2-2qorin.pages.dev
 0.0.0.0 ixora2-2vexil.pages.dev
-0.0.0.0 iyj-whatsapp.com.cn
 0.0.0.0 iyzico-learning-applesupport.ph
 0.0.0.0 j-i-whats-app.hl.cn
 0.0.0.0 j-m-v-whatsapp.com.cn
@@ -26944,7 +26936,6 @@
 0.0.0.0 my-account-robinhood-login.pages.dev
 0.0.0.0 my-apps-ledgerstat.pages.dev
 0.0.0.0 my-ato-signin.ph
-0.0.0.0 my-binance.app
 0.0.0.0 my-coin-base-logn.pages.dev
 0.0.0.0 my-coinbasepro.pages.dev
 0.0.0.0 my-extension-coiin-basee.pages.dev
@@ -29616,6 +29607,7 @@
 0.0.0.0 paypal.item-illo.click
 0.0.0.0 paypal.smasung.ca
 0.0.0.0 paypal24x7-helpdesk-support.pages.dev
+0.0.0.0 paypalaccountverification.com.ph
 0.0.0.0 paypalaccountverification.net.ph
 0.0.0.0 paypalaccountverification.ph
 0.0.0.0 paypalads.pages.dev
@@ -30834,7 +30826,6 @@
 0.0.0.0 rbionline-appleid.ph
 0.0.0.0 rbnhood-asked-loginz.pages.dev
 0.0.0.0 rbnhud-logn-us-cdn.pages.dev
-0.0.0.0 rbu-whatsapp.com.cn
 0.0.0.0 rcbc-savings-bank-cabanatuan-city-nueva-ecija.com.ph
 0.0.0.0 rcbc-savings-bank-dagupan-city-pangasinan.ph
 0.0.0.0 rcbc-savings-bank-las-pinas-city-metro-manila.ph
@@ -36928,7 +36919,6 @@
 0.0.0.0 telegramnewnow.pages.dev
 0.0.0.0 telegramngentod.pages.dev
 0.0.0.0 telegramngesex.pages.dev
-0.0.0.0 telegramorg.vip
 0.0.0.0 telegramsex-55t.pages.dev
 0.0.0.0 telegramsex23.pages.dev
 0.0.0.0 telegramsexsss.pages.dev
@@ -37233,6 +37223,7 @@
 0.0.0.0 tokevim-cdn31-hk1.rest
 0.0.0.0 tokevim-cdn61-hk61.xyz
 0.0.0.0 tokinim-cdn-hk3.xyz
+0.0.0.0 tokinim-cdn76-hkj.xyz
 0.0.0.0 tokinim-cdng-hkj.lol
 0.0.0.0 toknevim-cdn-hk01.rest
 0.0.0.0 toknevim-cdn-hk5.lol
@@ -40947,7 +40938,6 @@
 0.0.0.0 ui-start-tezor-io.pages.dev
 0.0.0.0 ui-w-hatsapp.com.cn
 0.0.0.0 ui3uoj4r9iughduiorkd38yyw90er897yfh.pages.dev
-0.0.0.0 uiv-whatsapp.com.cn
 0.0.0.0 uk-find-mydevice-assistance.com
 0.0.0.0 uk-metamask-login.pages.dev
 0.0.0.0 ukledger-com-start.pages.dev
@@ -44007,7 +43997,6 @@
 0.0.0.0 whatsapp-template-dashboard2.pages.dev
 0.0.0.0 whatsapp-test.pages.dev
 0.0.0.0 whatsapp-translator-mobile.pages.dev
-0.0.0.0 whatsapp-tugz.fit
 0.0.0.0 whatsapp-ui.pages.dev
 0.0.0.0 whatsapp-upoy.fit
 0.0.0.0 whatsapp-v32.pages.dev
@@ -44326,7 +44315,6 @@
 0.0.0.0 wix-trzriostart-com.pages.dev
 0.0.0.0 wizinkcuenta.pages.dev
 0.0.0.0 wjg8ovzxohdkn9wbf3.pages.dev
-0.0.0.0 wkx-whatsapp.com.cn
 0.0.0.0 wl-coinbase-login.pages.dev
 0.0.0.0 wl-trezor-bridge.pages.dev
 0.0.0.0 wl-trezor-io-start.pages.dev
@@ -44881,7 +44869,6 @@
 0.0.0.0 zeriondapps.pages.dev
 0.0.0.0 zerioningeborg.pages.dev
 0.0.0.0 zerynthovalica.com
-0.0.0.0 zfw-whatsapp.cn
 0.0.0.0 zia-ul-meezan.online
 0.0.0.0 ziraat-trade.win
 0.0.0.0 ziraatbankasi-biz-9xtmn.pages.dev

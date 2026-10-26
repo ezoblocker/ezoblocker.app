@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,158 | Updated: 2026-10-26
+# Domains: 1,181 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -53,10 +53,12 @@
 0.0.0.0 askalemi.net
 0.0.0.0 askcafe.net
 0.0.0.0 astrocupid.com
+0.0.0.0 at.loquovip.com
 0.0.0.0 athlone-escorts.kinoxit.ru
 0.0.0.0 atlasescorts.com
 0.0.0.0 au.banana-chat.com
 0.0.0.0 au.escortsaffair.com
+0.0.0.0 au.escortsliaison.com
 0.0.0.0 au.langtrees.com
 0.0.0.0 aurahookups.com
 0.0.0.0 austria.escortface.com
@@ -97,6 +99,7 @@
 0.0.0.0 blindid.app
 0.0.0.0 bloemfontein.escortlist.co.za
 0.0.0.0 blogun.unilady.hu
+0.0.0.0 bodoge.hoobby.net
 0.0.0.0 bogor.putrispa.com
 0.0.0.0 boldhookups.com
 0.0.0.0 bookgaigoi3.cloud
@@ -111,7 +114,9 @@
 0.0.0.0 bray.kubuchet.ru
 0.0.0.0 brazil.escortface.com
 0.0.0.0 brazilcupid.com
+0.0.0.0 brisbane.flymetoyouescorts.com.au
 0.0.0.0 britishescortsdirectory.co.uk
+0.0.0.0 bucuresti.abcescorte.com
 0.0.0.0 bumble.com
 0.0.0.0 bumble.com.tr
 0.0.0.0 bumble.shop
@@ -144,6 +149,7 @@
 0.0.0.0 cca.mhcc.com
 0.0.0.0 cennetim.com
 0.0.0.0 chambery.sanslendemain.net
+0.0.0.0 changelog.liveagent.com
 0.0.0.0 chat.europnet.org
 0.0.0.0 chat.gen.tr
 0.0.0.0 chat.greek-chat.gr
@@ -387,6 +393,7 @@
 0.0.0.0 eurogirlsescort.fr
 0.0.0.0 eurogirlsescort.org
 0.0.0.0 europescortguide.com
+0.0.0.0 events.canberra.com.au
 0.0.0.0 evinsohbet.com
 0.0.0.0 evlenmekisteyenerkekler.com
 0.0.0.0 evlilikilan.com
@@ -416,6 +423,8 @@
 0.0.0.0 flirt.ru
 0.0.0.0 flirtchat.ch
 0.0.0.0 flirtchat.nl
+0.0.0.0 fmtyescort.flymetoyouescorts.com.au
+0.0.0.0 foroescortsar.com
 0.0.0.0 forum2.live-show.com
 0.0.0.0 fotostrana.ru
 0.0.0.0 frageladan.isof.se
@@ -424,6 +433,7 @@
 0.0.0.0 friendschatroom.net
 0.0.0.0 fruzo.apkpure.co.in
 0.0.0.0 fruzo.com
+0.0.0.0 fruzo.expedigit.net
 0.0.0.0 ft-myers-sw-florida.bonepage.com
 0.0.0.0 fujoho.jp
 0.0.0.0 fundacionchatlatino.org
@@ -562,6 +572,7 @@
 0.0.0.0 karachi.nightgirlservice.com
 0.0.0.0 karachichatroom.net
 0.0.0.0 kariyerpanel.com
+0.0.0.0 kaufmich-poppen.de
 0.0.0.0 kaufmich.com
 0.0.0.0 kazan.artmetall26.ru
 0.0.0.0 kazan1.5intim.com
@@ -610,6 +621,7 @@
 0.0.0.0 locanto.com.mx
 0.0.0.0 locanto.ie
 0.0.0.0 locanto.org
+0.0.0.0 locanto.us
 0.0.0.0 login-sugarbook.rivernotebook.com
 0.0.0.0 london-escort-agency.co.uk
 0.0.0.0 london-ont.bonepage.com
@@ -617,6 +629,7 @@
 0.0.0.0 loveplanet.ru
 0.0.0.0 lovescout24.de
 0.0.0.0 lovoo.com
+0.0.0.0 lp.yoom.fun
 0.0.0.0 luck.kek-sik.com
 0.0.0.0 luxy.com
 0.0.0.0 luzern.studio-elite.ch
@@ -629,6 +642,7 @@
 0.0.0.0 m.intimatlas.cz
 0.0.0.0 m.intimstory.com
 0.0.0.0 m.jlmaeil.com
+0.0.0.0 m.klack.de
 0.0.0.0 m.maccosmetics.gr
 0.0.0.0 m.members.duo.co.kr
 0.0.0.0 m.relaxchile.cl
@@ -695,6 +709,7 @@
 0.0.0.0 mullingar.level-web.ru
 0.0.0.0 mumbai.selectyourgirls.com
 0.0.0.0 muslima.com
+0.0.0.0 mx.loquovip.com
 0.0.0.0 mx.pander.pro
 0.0.0.0 mx.sustitutas.com
 0.0.0.0 my386751-jabatan-pendaftaran-negara-kota-kinabalu-sabah.contact.page
@@ -726,6 +741,7 @@
 0.0.0.0 new-york.ondate.com
 0.0.0.0 newbridge-escorts.alsilk.ru
 0.0.0.0 newbridge.level-web.ru
+0.0.0.0 newcastle-nsw.bonepage.com
 0.0.0.0 newomegle.live
 0.0.0.0 nigeriandating.com
 0.0.0.0 nikahplus.com
@@ -745,6 +761,7 @@
 0.0.0.0 omegle.online
 0.0.0.0 omegle.webcam
 0.0.0.0 omegleapp.me
+0.0.0.0 omeglelife.com
 0.0.0.0 omegletv.net
 0.0.0.0 omegleweb.com
 0.0.0.0 omegleweb.io
@@ -796,6 +813,7 @@
 0.0.0.0 pembepanjur.com
 0.0.0.0 perm.5intim.com
 0.0.0.0 perth.5escorts.com
+0.0.0.0 perth.bonepage.com
 0.0.0.0 philippines.escortface.com
 0.0.0.0 photoprepagos.com
 0.0.0.0 pietermaritzburg.dfs05.ru
@@ -883,12 +901,14 @@
 0.0.0.0 samara-chat.ru.gg
 0.0.0.0 santa-fe-taos.bonepage.com
 0.0.0.0 santiago.elsilencio.cl
+0.0.0.0 saopaulo.classificadosdegraca.com
 0.0.0.0 sapporo.chance.chat
 0.0.0.0 saskatoon.bonepage.com
 0.0.0.0 satu-mare.abcescorte.com
 0.0.0.0 saudidate.com
 0.0.0.0 scambistipercaso.it
 0.0.0.0 scarletblue.com.au
+0.0.0.0 schauspielhaus-graz.buehnen-graz.com
 0.0.0.0 scorts.elfaroprepago.cl
 0.0.0.0 scruff.com
 0.0.0.0 seeking.com
@@ -1025,9 +1045,11 @@
 0.0.0.0 tamsohbet.net
 0.0.0.0 tamsohbet.tr
 0.0.0.0 tantan.com
+0.0.0.0 tapple.co.jp
 0.0.0.0 tapple.me
 0.0.0.0 tchatche.com
 0.0.0.0 tchatplancul.fr
+0.0.0.0 tescort.com
 0.0.0.0 thaicupid.com
 0.0.0.0 thaiflirting.com
 0.0.0.0 thaifriendly.com
@@ -1046,6 +1068,7 @@
 0.0.0.0 top6partnersuche.at
 0.0.0.0 top6partnersuche.de
 0.0.0.0 topescort.com
+0.0.0.0 topescortbabes.com
 0.0.0.0 topescortitalia.it
 0.0.0.0 topescortnews.eu
 0.0.0.0 toronto.bonepage.com

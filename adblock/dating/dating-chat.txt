@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating, chat rooms and random video chat
-! Domains: 384 | Updated: 2026-10-26
+! Domains: 390 | Updated: 2026-10-26
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/dating-chat.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -55,6 +55,7 @@
 |career.hyperconnect.com^
 |cca.mhcc.com^
 ||cennetim.com^
+|changelog.liveagent.com^
 |chat.europnet.org^
 ||chat.gen.tr^
 |chat.greek-chat.gr^
@@ -155,6 +156,7 @@
 ||erotickychat.net^
 |erotik.markt.ch^
 ||esohbet.net^
+|events.canberra.com.au^
 ||evinsohbet.com^
 |f5oob2a6yj592gqy.e-creditreform.si^
 ||faceflow.com^
@@ -169,6 +171,7 @@
 ||friendschatroom.net^
 |fruzo.apkpure.co.in^
 ||fruzo.com^
+|fruzo.expedigit.net^
 ||fundacionchatlatino.org^
 |gb.banana-chat.com^
 ||gelchat.net^
@@ -208,6 +211,7 @@
 ||laflamak.com^
 ||lavinsta.com^
 |livechat.sex-czech.cz^
+|lp.yoom.fun^
 |m.appstory.co.kr^
 |m.dreamersforum.nl^
 |m.gagalive.com^
@@ -255,6 +259,7 @@
 ||omegle.online^
 ||omegle.webcam^
 ||omegleapp.me^
+||omeglelife.com^
 ||omegletv.net^
 ||omegleweb.com^
 ||omegleweb.io^
@@ -292,6 +297,7 @@
 ||salasdechatgratis.org^
 |samara-chat.ru.gg^
 |sapporo.chance.chat^
+|schauspielhaus-graz.buehnen-graz.com^
 |seo.imaiko.com^
 |service.link.link^
 ||seslichat.com^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,230 | Updated: 2026-10-26
+# Domains: 1,233 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -107,6 +107,7 @@ ae.gulf-5hop.com
 *.baumwollseil.de
 *.bboutique.co
 *.bdesired.nl
+*.bdsmking.eu
 *.bednerdz.com
 *.belemsexshop.com.br
 *.bellebras.com.br
@@ -114,6 +115,7 @@ ae.gulf-5hop.com
 *.belover.es
 *.belupa.com
 *.bemeow.mx
+*.berluti.com
 *.besame.com
 *.bestlovesexdoll.com
 *.bestvibe.pk
@@ -1230,6 +1232,7 @@ venusexx.ueniweb.com
 *.yoo.cz
 *.yourobsession.pl
 *.yoxo.it
+*.zeidemayorista.com
 *.zetasexshop.com
 *.zolta.pl
 *.zonaerotica.com.co

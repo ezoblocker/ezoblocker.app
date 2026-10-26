@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 266 | Updated: 2026-10-26
+# Domains: 265 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -109,7 +109,6 @@ fantastik-seks-hikayeleri-6.yeahh.com
 *.gizliyanim.com
 *.hdabla.one
 *.hdabla76.click
-*.hderotik4.blog
 *.hentaiadam.com
 *.honeybirdette.com
 *.hulyahalat.com

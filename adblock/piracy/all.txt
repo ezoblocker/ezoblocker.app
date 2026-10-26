@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 968 | Updated: 2026-10-26
+! Domains: 979 | Updated: 2026-10-26
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -161,7 +161,6 @@
 ||cuevana3.boo^
 ||cuevana3.re^
 ||cuevana3.sc^
-||cuevana3c.lat^
 ||cuevanaa1.pro^
 ||cuevanaserie.pro^
 ||cuevanatv.vip^
@@ -199,7 +198,6 @@
 |dnsrepo.noc.org^
 ||dontorrent.blog^
 ||dontorrent.club^
-||dontorrent.diy^
 ||dooball99.top^
 ||doonung2u.blogspot.com^
 ||doonungfree.com^
@@ -270,6 +268,7 @@
 ||footybite.to^
 ||footybite.vg^
 ||footybite1.live^
+||footybite2.live^
 ||footybites.biz^
 ||footybites.click^
 ||freeshot.ch^
@@ -289,6 +288,7 @@
 ||fullprogramlarindir.net^
 ||fullprogramlarindir.tr^
 ||futbol-libre.cam^
+||futbolenlatv.es^
 ||futbolenvivocolombia.com^
 ||futbolete.com^
 ||futbollibre.kim^
@@ -335,7 +335,6 @@
 ||gogoanimes.watch^
 ||gogoanimez.online^
 ||gomovieshd.today^
-||gomoviess.vip^
 |google-play.en.softmany.com^
 ||grandpashabet7567.com^
 ||grantorrent.foo^
@@ -381,6 +380,7 @@
 ||icuevana3.cam^
 ||icuevana3.mobi^
 ||ikinogo.io^
+|image.schrack.com^
 |info.rugbypass.tv^
 |inpiad60.inpiad.co.kr^
 |iptv-abonnement-france.youcan.store^
@@ -392,6 +392,7 @@
 ||iptvcanada.tv^
 ||iptvcanadacofficiel.ca^
 ||iptvcanadian.com^
+||iptvespanapremium.com^
 ||iptvespanatv.pro^
 ||iptvireland-4k.irish^
 ||iptvireland.homes^
@@ -454,6 +455,7 @@
 ||kissanime-offcial.cyou^
 ||kissanime.ax^
 ||kissanime.com.cv^
+||kissanime.lu^
 ||kissanime.quest^
 ||kissanimetv.lol^
 |kmanga.kodansha.com^
@@ -491,6 +493,7 @@
 ||layarkaca21sweet.com^
 |lec.medilink-study.com^
 |leisure.harianjogja.com^
+|library.sunshinecoast.qld.gov.au^
 ||librefutbol.vip^
 ||lichphimmoi.com^
 |lifestyle.assist-all.co.jp^
@@ -525,6 +528,8 @@
 |llsflwjo.riverpeak.lat^
 ||locopelis.com^
 |lordfilm-hd.mirfilm.net^
+||lordfilm-ru0.cc^
+||lordfilm-smotretb.ru^
 ||lordfilm.fi^
 ||lordfilms.pub^
 ||lordfilms.pw^
@@ -533,6 +538,7 @@
 |m.acestream.net^
 |m.goalddlive.com^
 |m.kino-sokol.pl^
+|m.snrtbotola.ma^
 ||maltcasinotv28.com^
 ||mangadex.dev^
 ||mangadex.live^
@@ -646,6 +652,7 @@
 ||pelisplushd3.com^
 ||pelisplusmx.co^
 ||pelisplusvip.com^
+||pelotalibre.today^
 ||pelotalibreenvivo.cl^
 ||pelotalibreplus.com^
 ||pelotalibretv1.biz^
@@ -862,6 +869,7 @@
 ||torrentfreak.com^
 ||torrentgalaxy.hair^
 ||torrentoyunindir.co^
+||torrenttrackerslist.com^
 ||totalsportek.org.im^
 ||totalsportek1.is^
 ||totalsportekhd.live^
@@ -940,6 +948,7 @@
 |ww1.pelis24.blog^
 ||www-mangadex.org^
 |www.kino.nowytarg.pl^
+|www.mae.gov.bi^
 |www.tosho3704.tokyo-bousai.or.jp^
 |www2.gema.org^
 ||xoilac1.help^
@@ -950,6 +959,7 @@
 ||xoilaclivettbdu.tv^
 ||xoilaclivettbdz.tv^
 ||xoilactvbm.cc^
+||xoilactvttbdg.tv^
 ||xoilacvba.tv^
 ||xoilacvn.app^
 ||xoilacvn.net^
@@ -960,6 +970,7 @@
 ||xoilacxbt.tv^
 ||xoilacxxm.cc^
 ||xoilaczcd.tv^
+|xznavkgp.ahrtaler-gourmetschmiede.de^
 ||yaacinetv.com^
 ||yabancidizi.news^
 ||yallah-shooot.top^

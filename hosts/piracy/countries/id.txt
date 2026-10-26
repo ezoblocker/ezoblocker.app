@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Indonesia (id)
-# Domains: 31 | Updated: 2026-10-26
+# Domains: 32 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/id.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -33,5 +33,6 @@
 0.0.0.0 samehadaku.li
 0.0.0.0 today-yalla-shoot.com
 0.0.0.0 www2.gema.org
+0.0.0.0 xznavkgp.ahrtaler-gourmetschmiede.de
 0.0.0.0 yallalives.net
 0.0.0.0 yallas.store

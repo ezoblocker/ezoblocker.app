@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Ireland (ie)
-# Domains: 42 | Updated: 2026-10-26
+# Domains: 43 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/ie.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -31,6 +31,7 @@
 0.0.0.0 navan.kubuchet.ru
 0.0.0.0 newbridge-escorts.alsilk.ru
 0.0.0.0 newbridge.level-web.ru
+0.0.0.0 omeglelife.com
 0.0.0.0 parenthub.brillfrc.ie
 0.0.0.0 pingadults.com
 0.0.0.0 portlaoise.superiorcleanerssc.com

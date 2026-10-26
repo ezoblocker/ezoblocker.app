@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Adult, South Korea (kr)
-# Domains: 47 | Updated: 2026-10-26
+# Domains: 48 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/kr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 10000w.co.kr
 0.0.0.0 app.catchtable.co.kr
+0.0.0.0 av19d.org
 0.0.0.0 av19urls.com
 0.0.0.0 bananamall.co.kr
 0.0.0.0 bananamall.kr
