@@ -1,13 +1,11 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 977 | Updated: 2026-10-25
+# Domains: 968 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 123movieputlockers.com
-0.0.0.0 123movies123.stream
 0.0.0.0 123moviesflix.me
-0.0.0.0 123movieshubs.org
 0.0.0.0 123moviesx.cc
 0.0.0.0 123putlockers.me
 0.0.0.0 1337x.com.im
@@ -294,13 +292,10 @@
 0.0.0.0 futbolenvivocolombia.com
 0.0.0.0 futbolete.com
 0.0.0.0 futbollibre.kim
-0.0.0.0 futbollibredirecto.online
 0.0.0.0 futbollibreenvivo.net
 0.0.0.0 futbollibrefullhd.org
-0.0.0.0 futbollibreperu.org
 0.0.0.0 futbollibretvapp.com
 0.0.0.0 futbollibretvhd.co
-0.0.0.0 futbollibretvplus.com
 0.0.0.0 futbolyconsolas.es
 0.0.0.0 futemax.at
 0.0.0.0 futemax.gay
@@ -590,7 +585,6 @@
 0.0.0.0 mp3indirdur.pro
 0.0.0.0 muayded789.com
 0.0.0.0 multicanaisbr.com
-0.0.0.0 multicanaishd.broker
 0.0.0.0 multicanaishdtv.com.br
 0.0.0.0 mxhomy556.nettoyagereunion.re
 0.0.0.0 mycima-official.bitbucket.io
@@ -752,8 +746,6 @@
 0.0.0.0 scoreman123.com
 0.0.0.0 search.yaman.com
 0.0.0.0 selcuksportshd.is
-0.0.0.0 seriesflixcine.com
-0.0.0.0 seriesflixweb.forum
 0.0.0.0 seriestreaming.live
 0.0.0.0 sflix.org
 0.0.0.0 sflixline.com
@@ -801,7 +793,6 @@
 0.0.0.0 sportstream.se
 0.0.0.0 sportstream.us
 0.0.0.0 sportstream365.com.w3snoop.com
-0.0.0.0 sportstreaming.us
 0.0.0.0 sportstribal.tv
 0.0.0.0 sportsurges.st
 0.0.0.0 staging.elkford.ca

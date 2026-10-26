@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 40,974 | Updated: 2026-10-25
+# Domains: 40,947 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -551,7 +551,6 @@ account-gooogle.igift.online
 *.account-kucoin-com.pages.dev
 *.account-ledger-logi.pages.dev
 *.account-ledgerlive-app.pages.dev
-*.account-login-google.com
 *.account-login-robinhod.pages.dev
 *.account-login-trezrwallet.pages.dev
 *.account-login-verifyidentity-case-id0310apple.ph
@@ -2019,7 +2018,6 @@ appleid-apple.manage.mmidubai.com
 *.appleid-secure-notified-home-base-database.com.ph
 *.appleid-security-update-verify.ph
 *.appleid-signin.com
-*.appleid-signin.es
 *.appleid-soporte.es
 *.appleid-store-authorized-payment-securedata-updated.com.ph
 *.appleid-support-email-apple.ph
@@ -3432,8 +3430,8 @@ billing.mybank.su
 *.binance-birzha.ru
 *.binance-carv-airdrop.pages.dev
 *.binance-carv-join.pages.dev
+*.binance-cat.top
 binance-cms-latest.elxaxa.workers.dev
-*.binance-co.com
 *.binance-com.pages.dev
 *.binance-customer-service.pages.dev
 *.binance-czsk-case.pages.dev
@@ -10409,7 +10407,6 @@ ezpass.csc.patumpike.com
 *.facebook--login-verification-email.ph
 *.facebook--login-warning.ph
 *.facebook--page-admin-alert.ph
-*.facebook--profile-verification.ph
 *.facebook--security-confirmation-now.ph
 *.facebook--security-immediate-verify.ph
 *.facebook--security-warning-login.ph
@@ -10513,7 +10510,6 @@ ezpass.csc.patumpike.com
 *.facebook-costumizable-blocked.ph
 *.facebook-costumizable-warning-26.ph
 *.facebook-costumizable-warning-30.ph
-*.facebook-countdown-claim-now.ph
 *.facebook-countdown-claim-quickly.ph
 *.facebook-countdown-gift-now.ph
 *.facebook-countdown-reward-now.ph
@@ -12003,7 +11999,6 @@ gestion-vignette-verification.ipcm-ucc.cd
 *.get-wallet-trezor-en.pages.dev
 *.get-wallet-trezor-us.pages.dev
 *.get-wallet-trezor.pages.dev
-*.get-whatsappx.hl.cn
 *.get-worldlibertyfinancialcom.pages.dev
 *.get-xodus-wallet.pages.dev
 *.get-your-trezor.pages.dev
@@ -13344,31 +13339,21 @@ hjhjhj.hjkkjjk.workers.dev
 *.hjhjhjhjhjhj.workers.dev
 *.hk-telegram.pro
 *.hk-whatsaspp-cmp.hk.cn
-*.hk-whatsaspp-dnj.hk.cn
-*.hk-whatsaspp-dsz.hk.cn
 *.hk-whatsaspp-fcu.hk.cn
-*.hk-whatsaspp-fyl.hk.cn
 *.hk-whatsaspp-gaz.hk.cn
 *.hk-whatsaspp-gpt.hk.cn
-*.hk-whatsaspp-hlv.hk.cn
 *.hk-whatsaspp-jaz.hk.cn
 *.hk-whatsaspp-kbx.hk.cn
 *.hk-whatsaspp-ksv.hk.cn
-*.hk-whatsaspp-lqy.hk.cn
 *.hk-whatsaspp-mew.hk.cn
 *.hk-whatsaspp-mzp.hk.cn
 *.hk-whatsaspp-nbr.hk.cn
-*.hk-whatsaspp-pdf.hk.cn
 *.hk-whatsaspp-qec.hk.cn
 *.hk-whatsaspp-rly.hk.cn
 *.hk-whatsaspp-rtg.hk.cn
 *.hk-whatsaspp-snk.hk.cn
 *.hk-whatsaspp-tbw.hk.cn
-*.hk-whatsaspp-uvx.hk.cn
-*.hk-whatsaspp-vhc.hk.cn
 *.hk-whatsaspp-wak.hk.cn
-*.hk-whatsaspp-xgn.hk.cn
-*.hk-whatsaspp-yfd.hk.cn
 *.hk-whatsaspp-zsu.hk.cn
 *.hl-letsvpn.com.cn
 *.hlp-com-ladgr-strt.pages.dev
@@ -14663,6 +14648,7 @@ hr-sso.unicredit-platform-sk.com
 *.hyperfoundation.app
 *.hyperswaps-vote-upcoming-rewards-date-treasury-pool-reward.pages.dev
 *.hyralorn-haven.pages.dev
+*.hyundai-commerzbank.ph
 *.hzk-whats-app.com.cn
 *.i--trust--capital--login.pages.dev
 *.i--trust--capital-login.pages.dev
@@ -14816,7 +14802,6 @@ idp-wwwppe-0-microsoft-0-com.mydestinyproduction.com
 *.ie-trezor-start.pages.dev
 *.ie-trust-wallet.pages.dev
 *.ie-xodusweb.pages.dev
-*.if-whatsapp.com.cn
 *.ifood-applesupport-myamazon.com.ph
 *.ifood-gtbank-expediaenel.ph
 *.iforgot-apple-id.com
@@ -16109,7 +16094,6 @@ invoicer.laposte-immobilier.wattsy.solutions
 *.io-wallet-trezor.pages.dev
 *.io-wb-starttrezor.pages.dev
 *.io-web-trez-wallets.pages.dev
-*.io-whatsappq.hl.cn
 *.io-zksync.pages.dev
 *.iobridge-trezo.pages.dev
 *.iobridge-trze.pages.dev
@@ -16457,11 +16441,9 @@ iphone17.iphone-fix.abrdns.com
 *.itustcapitallogip.pages.dev
 *.itutscapitallogin.pages.dev
 *.iu-bridge-trzor.pages.dev
-*.iu-whatsapp.com.cn
 iverify.paypalproblems.com.blackforestorganic.com
 *.ivora31-1nunex.pages.dev
 *.ivpwpzar-web-telegram-org.pages.dev
-*.iw-whatsapp.com.cn
 *.iw777-mudah-menang.pages.dev
 *.iww-danaa-ambil10-20jt-grtistunguapalagi.pages.dev
 *.ix-whats-app.hl.cn
@@ -16642,7 +16624,6 @@ join.microsoft-teams-meetup.workers.dev
 *.jtexpress-cg.top
 *.jtexpress-ch.top
 *.jtexpress-cj.top
-*.jtexpress-cv.top
 *.jtexpress-cx.top
 *.jtexpress-ec.top
 *.jtexpress-ej.top
@@ -16709,7 +16690,6 @@ join.microsoft-teams-meetup.workers.dev
 *.jtexpress-xn.top
 *.jtexpress-xv.top
 *.jtexpress-yke.top
-*.jtexpress-ykq.top
 *.jtexpress-ykr.top
 *.jtexpress-ykt.top
 *.jual-paypal.pages.dev
@@ -24038,6 +24018,7 @@ media-us-paypal.atlcco.com
 *.metamask-sso-login.pages.dev
 *.metamask-start-login.pages.dev
 *.metamask-support-team.pages.dev
+*.metamask-support.online
 *.metamask-supported.pages.dev
 *.metamask-svg-download.pages.dev
 *.metamask-transaction-history-csv.pages.dev
@@ -27003,6 +26984,7 @@ paypal-1-eu.cortisolincontrrol.us
 paypal-alumni-stage-acquia.gsb.com
 paypal-api-com.cortisolincontrrol.us
 *.paypal-authentication.pages.dev
+*.paypal-banking.com.ph
 *.paypal-banking.org.ph
 *.paypal-bhft7f76s82e5of.pages.dev
 paypal-ca-postescanada.viewclaimstatus.info
@@ -27071,6 +27053,7 @@ paypal-tracking-pvt-app.theprimecoders.com
 *.paypal-tto6o9fgekfw5fk.pages.dev
 *.paypal-tyiry7157w8p0d2.pages.dev
 *.paypal-update-info-card-support.ph
+*.paypal-upgrade.ws
 paypal-verification-accounts.fanduelsporsnetwork.com
 paypal-verification-activity.fanduelportsnetwork.com
 *.paypal-verified-accounts-hub.pages.dev
@@ -31933,7 +31916,6 @@ static-login.com-microsoft-onedrive.ca
 *.stc-bank-nfc-vo.pages.dev
 *.steam-wallet.store
 *.steamcommunlty.pages.dev
-*.steampowered-verification.com
 *.steenluxeris.com
 *.step-by-step-coinbase-login.pages.dev
 *.step-connect-live-ledgrs.pages.dev
@@ -32724,7 +32706,6 @@ support-google.portal-sigin-document.icu
 *.support-icloud.help
 *.support-icloud.info
 *.support-icloud.world
-*.support-id-icloud.us
 *.support-iinstagram.ph
 *.support-info-coinbase.pages.dev
 *.support-info-extensoin.pages.dev
@@ -33586,7 +33567,6 @@ support.whtsapp.com
 *.supportblockchain.finance
 *.supportcoinbasehelp.pages.dev
 *.supported-ledggr.pages.dev
-*.supporticloud.lol
 *.supporticloudfmi.ph
 *.supportio-trezur.pages.dev
 *.supportiphones.pages.dev
@@ -33647,7 +33627,6 @@ svb-edl-abrechnung.device.service.q-sam.de
 *.swisscom-reset.cc
 *.swisspost-logistic-center32158425secure.pages.dev
 *.swisspost-offer-ch.help
-*.swisspost-pay-system.cfd
 *.switch-lotemax-2u.com
 *.switchdexair-ark-com.pages.dev
 *.switchdexairark.pro
@@ -33774,7 +33753,6 @@ teegram-account.teegram.in
 *.teiegrann.email
 *.teiegrolann.net
 *.tejecoreteje.click
-*.tejecoreteje.fit
 *.tejecoreteje.top
 *.tejecorporat.fit
 *.tejecrtfuog.club
@@ -34048,7 +34026,6 @@ ticket.xn--trkcell-n2a.com
 *.today-trezr-en-lo-web.pages.dev
 *.today-trezr-en.pages.dev
 *.tokanim-cdn0-fd.lol
-*.tokanim-cdny5-ks.sbs
 *.tokemim-cdn52-hk52.xyz
 *.token-blockdag.pages.dev
 *.token-im.co
@@ -34093,7 +34070,6 @@ ticket.xn--trkcell-n2a.com
 *.tokevim-cdn31-hk1.rest
 *.tokevim-cdn61-hk61.xyz
 *.tokinim-cdn-hk3.xyz
-*.tokinim-cdn76-hkj.xyz
 *.tokinim-cdng-hkj.lol
 *.toknevim-cdn-hk01.rest
 *.toknevim-cdn-hk5.lol
@@ -35817,7 +35793,6 @@ trade.grup.store
 *.trezor-wallet-uss.pages.dev
 *.trezor-wallet-visit.pages.dev
 *.trezor-wallet-web-connect.pages.dev
-*.trezor-wallet-web.com
 *.trezor-wallet-web.pages.dev
 *.trezor-wallet-welcome.pages.dev
 *.trezor-wallet-x-us.pages.dev
@@ -39994,7 +39969,6 @@ wellsfargos.accounttss.workers.dev
 *.weltw-netcoins-login.pages.dev
 *.wen-whatapp.hk.cn
 *.wenoriva-luxamiro.pages.dev
-*.wenshuxin-whatsapp.hk.cn
 *.weo-start-trezrio-sso.pages.dev
 *.wep-metamask-login.pages.dev
 *.wep-trezor-io-start.pages.dev
@@ -40546,7 +40520,6 @@ ww38.signin.tbbank.com
 *.www-danaa-ambil10-20jt-grtistunguapalagi.pages.dev
 *.www-danaid-grtis-ambil10-20jt-silahkanambil.pages.dev
 *.www-facebook-com-commande-article-482941850.pages.dev
-www-googleapis.great-platinum-ladder.click
 *.www-icloud-alert.com.ph
 *.www-icloud-alert.net.ph
 *.www-icloud-alert.org.ph

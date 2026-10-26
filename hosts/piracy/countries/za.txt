@@ -1,11 +1,9 @@
 # Title: EZOBLOCKER Piracy, South Africa (za)
-# Domains: 52 | Updated: 2026-10-25
+# Domains: 50 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
-0.0.0.0 123movies123.stream
-0.0.0.0 123movieshubs.org
 0.0.0.0 2fmovies.net
 0.0.0.0 animeflv.ar
 0.0.0.0 animeflv.chatovod.com

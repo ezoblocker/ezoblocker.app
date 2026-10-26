@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, ad exchange endpoints from Prebid.js / Prebid Server adapters
-# Domains: 280 | Updated: 2026-10-25
+# Domains: 281 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/prebid.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,6 +17,7 @@
 0.0.0.0 adlywise-prebid.attekmi.co
 0.0.0.0 adm.vidyome.com
 0.0.0.0 adn-srv.reckoner-api.com
+0.0.0.0 adn.pilotx.tv
 0.0.0.0 adnex-prebid.attekmi.co
 0.0.0.0 adport.pbsadverxo.com
 0.0.0.0 ads-flipp.com

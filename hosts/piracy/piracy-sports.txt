@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 363 | Updated: 2026-10-25
+# Domains: 358 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -86,13 +86,10 @@
 0.0.0.0 futbolenvivocolombia.com
 0.0.0.0 futbolete.com
 0.0.0.0 futbollibre.kim
-0.0.0.0 futbollibredirecto.online
 0.0.0.0 futbollibreenvivo.net
 0.0.0.0 futbollibrefullhd.org
-0.0.0.0 futbollibreperu.org
 0.0.0.0 futbollibretvapp.com
 0.0.0.0 futbollibretvhd.co
-0.0.0.0 futbollibretvplus.com
 0.0.0.0 futbolyconsolas.es
 0.0.0.0 futemax.at
 0.0.0.0 futemax.gay
@@ -191,7 +188,6 @@
 0.0.0.0 methstreams.digital
 0.0.0.0 mlbbite.plus
 0.0.0.0 muayded789.com
-0.0.0.0 multicanaishd.broker
 0.0.0.0 multicanaishdtv.com.br
 0.0.0.0 myvipbox.com
 0.0.0.0 nbabite.net
@@ -262,7 +258,6 @@
 0.0.0.0 sportstream.se
 0.0.0.0 sportstream.us
 0.0.0.0 sportstream365.com.w3snoop.com
-0.0.0.0 sportstreaming.us
 0.0.0.0 sportstribal.tv
 0.0.0.0 sportsurges.st
 0.0.0.0 staging.elkford.ca

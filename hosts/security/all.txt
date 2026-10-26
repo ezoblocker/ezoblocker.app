@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 40,974 | Updated: 2026-10-25
+# Domains: 40,947 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -551,7 +551,6 @@
 0.0.0.0 account-kucoin-com.pages.dev
 0.0.0.0 account-ledger-logi.pages.dev
 0.0.0.0 account-ledgerlive-app.pages.dev
-0.0.0.0 account-login-google.com
 0.0.0.0 account-login-robinhod.pages.dev
 0.0.0.0 account-login-trezrwallet.pages.dev
 0.0.0.0 account-login-verifyidentity-case-id0310apple.ph
@@ -2019,7 +2018,6 @@
 0.0.0.0 appleid-secure-notified-home-base-database.com.ph
 0.0.0.0 appleid-security-update-verify.ph
 0.0.0.0 appleid-signin.com
-0.0.0.0 appleid-signin.es
 0.0.0.0 appleid-soporte.es
 0.0.0.0 appleid-store-authorized-payment-securedata-updated.com.ph
 0.0.0.0 appleid-support-email-apple.ph
@@ -3432,8 +3430,8 @@
 0.0.0.0 binance-birzha.ru
 0.0.0.0 binance-carv-airdrop.pages.dev
 0.0.0.0 binance-carv-join.pages.dev
+0.0.0.0 binance-cat.top
 0.0.0.0 binance-cms-latest.elxaxa.workers.dev
-0.0.0.0 binance-co.com
 0.0.0.0 binance-com.pages.dev
 0.0.0.0 binance-customer-service.pages.dev
 0.0.0.0 binance-czsk-case.pages.dev
@@ -10409,7 +10407,6 @@
 0.0.0.0 facebook--login-verification-email.ph
 0.0.0.0 facebook--login-warning.ph
 0.0.0.0 facebook--page-admin-alert.ph
-0.0.0.0 facebook--profile-verification.ph
 0.0.0.0 facebook--security-confirmation-now.ph
 0.0.0.0 facebook--security-immediate-verify.ph
 0.0.0.0 facebook--security-warning-login.ph
@@ -10513,7 +10510,6 @@
 0.0.0.0 facebook-costumizable-blocked.ph
 0.0.0.0 facebook-costumizable-warning-26.ph
 0.0.0.0 facebook-costumizable-warning-30.ph
-0.0.0.0 facebook-countdown-claim-now.ph
 0.0.0.0 facebook-countdown-claim-quickly.ph
 0.0.0.0 facebook-countdown-gift-now.ph
 0.0.0.0 facebook-countdown-reward-now.ph
@@ -12003,7 +11999,6 @@
 0.0.0.0 get-wallet-trezor-en.pages.dev
 0.0.0.0 get-wallet-trezor-us.pages.dev
 0.0.0.0 get-wallet-trezor.pages.dev
-0.0.0.0 get-whatsappx.hl.cn
 0.0.0.0 get-worldlibertyfinancialcom.pages.dev
 0.0.0.0 get-xodus-wallet.pages.dev
 0.0.0.0 get-your-trezor.pages.dev
@@ -13344,31 +13339,21 @@
 0.0.0.0 hjhjhjhjhjhj.workers.dev
 0.0.0.0 hk-telegram.pro
 0.0.0.0 hk-whatsaspp-cmp.hk.cn
-0.0.0.0 hk-whatsaspp-dnj.hk.cn
-0.0.0.0 hk-whatsaspp-dsz.hk.cn
 0.0.0.0 hk-whatsaspp-fcu.hk.cn
-0.0.0.0 hk-whatsaspp-fyl.hk.cn
 0.0.0.0 hk-whatsaspp-gaz.hk.cn
 0.0.0.0 hk-whatsaspp-gpt.hk.cn
-0.0.0.0 hk-whatsaspp-hlv.hk.cn
 0.0.0.0 hk-whatsaspp-jaz.hk.cn
 0.0.0.0 hk-whatsaspp-kbx.hk.cn
 0.0.0.0 hk-whatsaspp-ksv.hk.cn
-0.0.0.0 hk-whatsaspp-lqy.hk.cn
 0.0.0.0 hk-whatsaspp-mew.hk.cn
 0.0.0.0 hk-whatsaspp-mzp.hk.cn
 0.0.0.0 hk-whatsaspp-nbr.hk.cn
-0.0.0.0 hk-whatsaspp-pdf.hk.cn
 0.0.0.0 hk-whatsaspp-qec.hk.cn
 0.0.0.0 hk-whatsaspp-rly.hk.cn
 0.0.0.0 hk-whatsaspp-rtg.hk.cn
 0.0.0.0 hk-whatsaspp-snk.hk.cn
 0.0.0.0 hk-whatsaspp-tbw.hk.cn
-0.0.0.0 hk-whatsaspp-uvx.hk.cn
-0.0.0.0 hk-whatsaspp-vhc.hk.cn
 0.0.0.0 hk-whatsaspp-wak.hk.cn
-0.0.0.0 hk-whatsaspp-xgn.hk.cn
-0.0.0.0 hk-whatsaspp-yfd.hk.cn
 0.0.0.0 hk-whatsaspp-zsu.hk.cn
 0.0.0.0 hl-letsvpn.com.cn
 0.0.0.0 hlp-com-ladgr-strt.pages.dev
@@ -14663,6 +14648,7 @@
 0.0.0.0 hyperfoundation.app
 0.0.0.0 hyperswaps-vote-upcoming-rewards-date-treasury-pool-reward.pages.dev
 0.0.0.0 hyralorn-haven.pages.dev
+0.0.0.0 hyundai-commerzbank.ph
 0.0.0.0 hzk-whats-app.com.cn
 0.0.0.0 i--trust--capital--login.pages.dev
 0.0.0.0 i--trust--capital-login.pages.dev
@@ -14816,7 +14802,6 @@
 0.0.0.0 ie-trezor-start.pages.dev
 0.0.0.0 ie-trust-wallet.pages.dev
 0.0.0.0 ie-xodusweb.pages.dev
-0.0.0.0 if-whatsapp.com.cn
 0.0.0.0 ifood-applesupport-myamazon.com.ph
 0.0.0.0 ifood-gtbank-expediaenel.ph
 0.0.0.0 iforgot-apple-id.com
@@ -16109,7 +16094,6 @@
 0.0.0.0 io-wallet-trezor.pages.dev
 0.0.0.0 io-wb-starttrezor.pages.dev
 0.0.0.0 io-web-trez-wallets.pages.dev
-0.0.0.0 io-whatsappq.hl.cn
 0.0.0.0 io-zksync.pages.dev
 0.0.0.0 iobridge-trezo.pages.dev
 0.0.0.0 iobridge-trze.pages.dev
@@ -16457,11 +16441,9 @@
 0.0.0.0 itustcapitallogip.pages.dev
 0.0.0.0 itutscapitallogin.pages.dev
 0.0.0.0 iu-bridge-trzor.pages.dev
-0.0.0.0 iu-whatsapp.com.cn
 0.0.0.0 iverify.paypalproblems.com.blackforestorganic.com
 0.0.0.0 ivora31-1nunex.pages.dev
 0.0.0.0 ivpwpzar-web-telegram-org.pages.dev
-0.0.0.0 iw-whatsapp.com.cn
 0.0.0.0 iw777-mudah-menang.pages.dev
 0.0.0.0 iww-danaa-ambil10-20jt-grtistunguapalagi.pages.dev
 0.0.0.0 ix-whats-app.hl.cn
@@ -16642,7 +16624,6 @@
 0.0.0.0 jtexpress-cg.top
 0.0.0.0 jtexpress-ch.top
 0.0.0.0 jtexpress-cj.top
-0.0.0.0 jtexpress-cv.top
 0.0.0.0 jtexpress-cx.top
 0.0.0.0 jtexpress-ec.top
 0.0.0.0 jtexpress-ej.top
@@ -16709,7 +16690,6 @@
 0.0.0.0 jtexpress-xn.top
 0.0.0.0 jtexpress-xv.top
 0.0.0.0 jtexpress-yke.top
-0.0.0.0 jtexpress-ykq.top
 0.0.0.0 jtexpress-ykr.top
 0.0.0.0 jtexpress-ykt.top
 0.0.0.0 jual-paypal.pages.dev
@@ -24038,6 +24018,7 @@
 0.0.0.0 metamask-sso-login.pages.dev
 0.0.0.0 metamask-start-login.pages.dev
 0.0.0.0 metamask-support-team.pages.dev
+0.0.0.0 metamask-support.online
 0.0.0.0 metamask-supported.pages.dev
 0.0.0.0 metamask-svg-download.pages.dev
 0.0.0.0 metamask-transaction-history-csv.pages.dev
@@ -27003,6 +26984,7 @@
 0.0.0.0 paypal-alumni-stage-acquia.gsb.com
 0.0.0.0 paypal-api-com.cortisolincontrrol.us
 0.0.0.0 paypal-authentication.pages.dev
+0.0.0.0 paypal-banking.com.ph
 0.0.0.0 paypal-banking.org.ph
 0.0.0.0 paypal-bhft7f76s82e5of.pages.dev
 0.0.0.0 paypal-ca-postescanada.viewclaimstatus.info
@@ -27071,6 +27053,7 @@
 0.0.0.0 paypal-tto6o9fgekfw5fk.pages.dev
 0.0.0.0 paypal-tyiry7157w8p0d2.pages.dev
 0.0.0.0 paypal-update-info-card-support.ph
+0.0.0.0 paypal-upgrade.ws
 0.0.0.0 paypal-verification-accounts.fanduelsporsnetwork.com
 0.0.0.0 paypal-verification-activity.fanduelportsnetwork.com
 0.0.0.0 paypal-verified-accounts-hub.pages.dev
@@ -31933,7 +31916,6 @@
 0.0.0.0 stc-bank-nfc-vo.pages.dev
 0.0.0.0 steam-wallet.store
 0.0.0.0 steamcommunlty.pages.dev
-0.0.0.0 steampowered-verification.com
 0.0.0.0 steenluxeris.com
 0.0.0.0 step-by-step-coinbase-login.pages.dev
 0.0.0.0 step-connect-live-ledgrs.pages.dev
@@ -32724,7 +32706,6 @@
 0.0.0.0 support-icloud.help
 0.0.0.0 support-icloud.info
 0.0.0.0 support-icloud.world
-0.0.0.0 support-id-icloud.us
 0.0.0.0 support-iinstagram.ph
 0.0.0.0 support-info-coinbase.pages.dev
 0.0.0.0 support-info-extensoin.pages.dev
@@ -33586,7 +33567,6 @@
 0.0.0.0 supportblockchain.finance
 0.0.0.0 supportcoinbasehelp.pages.dev
 0.0.0.0 supported-ledggr.pages.dev
-0.0.0.0 supporticloud.lol
 0.0.0.0 supporticloudfmi.ph
 0.0.0.0 supportio-trezur.pages.dev
 0.0.0.0 supportiphones.pages.dev
@@ -33647,7 +33627,6 @@
 0.0.0.0 swisscom-reset.cc
 0.0.0.0 swisspost-logistic-center32158425secure.pages.dev
 0.0.0.0 swisspost-offer-ch.help
-0.0.0.0 swisspost-pay-system.cfd
 0.0.0.0 switch-lotemax-2u.com
 0.0.0.0 switchdexair-ark-com.pages.dev
 0.0.0.0 switchdexairark.pro
@@ -33774,7 +33753,6 @@
 0.0.0.0 teiegrann.email
 0.0.0.0 teiegrolann.net
 0.0.0.0 tejecoreteje.click
-0.0.0.0 tejecoreteje.fit
 0.0.0.0 tejecoreteje.top
 0.0.0.0 tejecorporat.fit
 0.0.0.0 tejecrtfuog.club
@@ -34048,7 +34026,6 @@
 0.0.0.0 today-trezr-en-lo-web.pages.dev
 0.0.0.0 today-trezr-en.pages.dev
 0.0.0.0 tokanim-cdn0-fd.lol
-0.0.0.0 tokanim-cdny5-ks.sbs
 0.0.0.0 tokemim-cdn52-hk52.xyz
 0.0.0.0 token-blockdag.pages.dev
 0.0.0.0 token-im.co
@@ -34093,7 +34070,6 @@
 0.0.0.0 tokevim-cdn31-hk1.rest
 0.0.0.0 tokevim-cdn61-hk61.xyz
 0.0.0.0 tokinim-cdn-hk3.xyz
-0.0.0.0 tokinim-cdn76-hkj.xyz
 0.0.0.0 tokinim-cdng-hkj.lol
 0.0.0.0 toknevim-cdn-hk01.rest
 0.0.0.0 toknevim-cdn-hk5.lol
@@ -35817,7 +35793,6 @@
 0.0.0.0 trezor-wallet-uss.pages.dev
 0.0.0.0 trezor-wallet-visit.pages.dev
 0.0.0.0 trezor-wallet-web-connect.pages.dev
-0.0.0.0 trezor-wallet-web.com
 0.0.0.0 trezor-wallet-web.pages.dev
 0.0.0.0 trezor-wallet-welcome.pages.dev
 0.0.0.0 trezor-wallet-x-us.pages.dev
@@ -39994,7 +39969,6 @@
 0.0.0.0 weltw-netcoins-login.pages.dev
 0.0.0.0 wen-whatapp.hk.cn
 0.0.0.0 wenoriva-luxamiro.pages.dev
-0.0.0.0 wenshuxin-whatsapp.hk.cn
 0.0.0.0 weo-start-trezrio-sso.pages.dev
 0.0.0.0 wep-metamask-login.pages.dev
 0.0.0.0 wep-trezor-io-start.pages.dev
@@ -40546,7 +40520,6 @@
 0.0.0.0 www-danaa-ambil10-20jt-grtistunguapalagi.pages.dev
 0.0.0.0 www-danaid-grtis-ambil10-20jt-silahkanambil.pages.dev
 0.0.0.0 www-facebook-com-commande-article-482941850.pages.dev
-0.0.0.0 www-googleapis.great-platinum-ladder.click
 0.0.0.0 www-icloud-alert.com.ph
 0.0.0.0 www-icloud-alert.net.ph
 0.0.0.0 www-icloud-alert.org.ph

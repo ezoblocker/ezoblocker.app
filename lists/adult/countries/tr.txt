@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 267 | Updated: 2026-10-25
+# Domains: 266 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -67,7 +67,6 @@ certification.ntop.com
 *.corumescortred.xyz
 *.dahahizli160.live
 *.dame.com
-*.denizliescortbayansitesi.com
 *.dialogistanbul.com
 *.discreetlife.ca
 *.diyarbakirescortkuz.xyz
@@ -97,7 +96,6 @@ certification.ntop.com
 *.escortsinpakistan.online
 *.escortsites.org
 *.escortstacey.com
-*.escortws.com
 *.eskortadresi.com
 *.eskortpro2.world
 *.europescortguide.com
@@ -144,6 +142,7 @@ kibana.compactorstore.com
 *.konyaeskortlar.com
 *.kusadasiindeks.com
 *.lcwaikiki.de
+*.lelu.xxx
 *.linfini.co
 *.loleporno.wtf
 *.lolitashop.com.tr
