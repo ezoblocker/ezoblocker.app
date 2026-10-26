@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 172 | Updated: 2026-10-26
+# Domains: 177 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,6 +13,7 @@
 *.alma-domain.oursprivacy.com
 *.analytics.usehardal.com
 *.apachedigital.io
+*.api.adsping.io
 *.api.easytracker.digital
 *.app-whitelabel.usermaven.com
 *.at-o.net
@@ -63,6 +64,7 @@
 *.emtag.net
 *.eu-1.tagmanagerserverside.it
 *.eu.sgtm.space
+*.europehog.com
 *.everestengagement.com
 *.external.simpleanalytics.com
 *.fallback.capiplatform.com
@@ -96,6 +98,7 @@
 *.phoenix-childrens-domain.oursprivacy.com
 *.pl02.prolitteris.2cnt.net
 *.pragtag.com
+*.proxyhog.com
 *.redirect271.tagcommander.com
 *.redirect341.tagcommander.com
 *.redirect342.tagcommander.com
@@ -141,6 +144,7 @@
 *.stape.de
 *.stape.do
 *.stape.gl
+*.stape.host
 *.stape.id
 *.stape.im
 *.stape.info
@@ -155,6 +159,7 @@
 *.stape.pro
 *.stape.pw
 *.stape.st
+*.stape.tech
 *.stape.vip
 *.t.servero.io
 *.tacoda.net

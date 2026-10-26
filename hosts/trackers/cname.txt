@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 172 | Updated: 2026-10-26
+# Domains: 177 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,6 +13,7 @@
 0.0.0.0 alma-domain.oursprivacy.com
 0.0.0.0 analytics.usehardal.com
 0.0.0.0 apachedigital.io
+0.0.0.0 api.adsping.io
 0.0.0.0 api.easytracker.digital
 0.0.0.0 app-whitelabel.usermaven.com
 0.0.0.0 at-o.net
@@ -63,6 +64,7 @@
 0.0.0.0 emtag.net
 0.0.0.0 eu-1.tagmanagerserverside.it
 0.0.0.0 eu.sgtm.space
+0.0.0.0 europehog.com
 0.0.0.0 everestengagement.com
 0.0.0.0 external.simpleanalytics.com
 0.0.0.0 fallback.capiplatform.com
@@ -96,6 +98,7 @@
 0.0.0.0 phoenix-childrens-domain.oursprivacy.com
 0.0.0.0 pl02.prolitteris.2cnt.net
 0.0.0.0 pragtag.com
+0.0.0.0 proxyhog.com
 0.0.0.0 redirect271.tagcommander.com
 0.0.0.0 redirect341.tagcommander.com
 0.0.0.0 redirect342.tagcommander.com
@@ -141,6 +144,7 @@
 0.0.0.0 stape.de
 0.0.0.0 stape.do
 0.0.0.0 stape.gl
+0.0.0.0 stape.host
 0.0.0.0 stape.id
 0.0.0.0 stape.im
 0.0.0.0 stape.info
@@ -155,6 +159,7 @@
 0.0.0.0 stape.pro
 0.0.0.0 stape.pw
 0.0.0.0 stape.st
+0.0.0.0 stape.tech
 0.0.0.0 stape.vip
 0.0.0.0 t.servero.io
 0.0.0.0 tacoda.net

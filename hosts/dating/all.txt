@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,155 | Updated: 2026-10-26
+# Domains: 1,158 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -597,6 +597,7 @@
 0.0.0.0 leolist.cc
 0.0.0.0 leolist.co
 0.0.0.0 leolist.vc
+0.0.0.0 lesbi.name
 0.0.0.0 lesbienne-france-fr.pages.dev
 0.0.0.0 lesbienne-france.fr
 0.0.0.0 lex.lgbt
@@ -675,6 +676,7 @@
 0.0.0.0 mircalem.net
 0.0.0.0 mircalem.org
 0.0.0.0 mirctr.net
+0.0.0.0 missav123.ovh
 0.0.0.0 missoula.bonepage.com
 0.0.0.0 missouri.bonepage.com
 0.0.0.0 mitoclanchat.chatovod.com
@@ -919,6 +921,7 @@
 0.0.0.0 shada-shatea.hotels-saudi-arabia.com
 0.0.0.0 shagle.com
 0.0.0.0 shagle.tv
+0.0.0.0 shemaleclub.uk
 0.0.0.0 siberalem.com
 0.0.0.0 silverlove.com
 0.0.0.0 silversingles.com

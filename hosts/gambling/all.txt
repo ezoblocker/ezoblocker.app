@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 397,829 | Updated: 2026-10-26
+# Domains: 397,959 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -481,6 +481,7 @@
 0.0.0.0 10-min-deposit-casinoofficial-au-com.pages.dev
 0.0.0.0 10-min-depositcasino-au-com.pages.dev
 0.0.0.0 10-neosurf-casino-australia.net
+0.0.0.0 10-neosurf-casino-australia.online
 0.0.0.0 10-neosurf-casino-australia.vip
 0.0.0.0 100-casino.com
 0.0.0.0 100-free-online-casino-bonus.com
@@ -851,6 +852,7 @@
 0.0.0.0 10freespinsnodeposit.uk
 0.0.0.0 10freewelcomebonus.com
 0.0.0.0 10gamebai.top
+0.0.0.0 10gamebai10.com
 0.0.0.0 10gamebet.com
 0.0.0.0 10ganhoscasinos.com
 0.0.0.0 10jili-casino.ph
@@ -865,6 +867,7 @@
 0.0.0.0 10jilii-ph.com
 0.0.0.0 10jilionlinecasino.com
 0.0.0.0 10jiliph.com
+0.0.0.0 10jiliphl.com
 0.0.0.0 10jiliphp.com
 0.0.0.0 10jilisvip1.com
 0.0.0.0 10jilisvip2.com
@@ -2251,6 +2254,7 @@
 0.0.0.0 188betslot.id
 0.0.0.0 188betslot.pages.dev
 0.0.0.0 188betslotlogin.com
+0.0.0.0 188betsportsbet.com
 0.0.0.0 188betting.biz
 0.0.0.0 188betvn.us
 0.0.0.0 188betvn365.com
@@ -5291,6 +5295,7 @@
 0.0.0.0 1xslots-omv.top
 0.0.0.0 1xslots-on-line-com.pages.dev
 0.0.0.0 1xslots-on-line.com
+0.0.0.0 1xslots-onk.top
 0.0.0.0 1xslots-online-ar-com.pages.dev
 0.0.0.0 1xslots-online-casino49.top
 0.0.0.0 1xslots-online.app
@@ -6762,6 +6767,7 @@
 0.0.0.0 22betvn.org
 0.0.0.0 22betvn.vip
 0.0.0.0 22betvn01.com
+0.0.0.0 22betvn88.com
 0.0.0.0 22betway.com
 0.0.0.0 22bit-casino.co.cz
 0.0.0.0 22bitcasino-co-cz-53583.pages.dev
@@ -11565,6 +11571,7 @@
 0.0.0.0 5petir777.store
 0.0.0.0 5pgbet.app
 0.0.0.0 5pgbet.com.br
+0.0.0.0 5pgcashwin.com
 0.0.0.0 5pgonlinecasino.com
 0.0.0.0 5pgonlinesabong.com
 0.0.0.0 5phcasinologin.com
@@ -17993,6 +18000,7 @@
 0.0.0.0 90jiliclubcasinologin.com
 0.0.0.0 90jiliiph.com
 0.0.0.0 90jiliph.me
+0.0.0.0 90jiliph.vip
 0.0.0.0 90jiliph.xyz
 0.0.0.0 90jiliphp.com
 0.0.0.0 90jilivip-ph.com
@@ -26943,6 +26951,7 @@
 0.0.0.0 ancientfortunesposeidonmegaways.net
 0.0.0.0 ancientfortunesposeidonmegaways.org
 0.0.0.0 ancientfortunesposeidonmegaways.uk
+0.0.0.0 ancientislandmegaways-store.pages.dev
 0.0.0.0 ancientislandmegaways.com
 0.0.0.0 ancientislandmegaways.nl
 0.0.0.0 ancona1905.it
@@ -35791,6 +35800,7 @@
 0.0.0.0 babacasino.gr
 0.0.0.0 babacasino1.com
 0.0.0.0 babaoglanhukuk.com
+0.0.0.0 babaonline.xyz
 0.0.0.0 babatkazino.com
 0.0.0.0 babawildcasinoj.com
 0.0.0.0 babayoslotgacor2.pages.dev
@@ -39061,6 +39071,7 @@
 0.0.0.0 baykusbetpartners.com
 0.0.0.0 bayousportsbook.com
 0.0.0.0 baypgcasino.com.br
+0.0.0.0 bayvipbet.com
 0.0.0.0 bayvipbetvn.com
 0.0.0.0 bayvipcasinobet.com
 0.0.0.0 baywin.com
@@ -39190,6 +39201,7 @@
 0.0.0.0 bbrbet-a1.com
 0.0.0.0 bbrbet-aa.com
 0.0.0.0 bbrbet-al.com
+0.0.0.0 bbrbet-apuestas.com
 0.0.0.0 bbrbet-bb.com
 0.0.0.0 bbrbet-br-com-92.pages.dev
 0.0.0.0 bbrbet-casino.mx
@@ -43939,6 +43951,7 @@
 0.0.0.0 bestslots4u.com
 0.0.0.0 bestslotsapp.co.uk
 0.0.0.0 bestslotsbonuses.com
+0.0.0.0 bestslotscasino.com
 0.0.0.0 bestslotscasinos7.site
 0.0.0.0 bestslotshere.com
 0.0.0.0 bestslotshub.org
@@ -45663,6 +45676,7 @@
 0.0.0.0 betano--de.de
 0.0.0.0 betano-aoi.pages.dev
 0.0.0.0 betano-apk.com
+0.0.0.0 betano-apk.store
 0.0.0.0 betano-aposta-co.pages.dev
 0.0.0.0 betano-apostar-mx.com
 0.0.0.0 betano-app.cl
@@ -46518,6 +46532,7 @@
 0.0.0.0 betbox.best
 0.0.0.0 betbox.buzz
 0.0.0.0 betbox.click
+0.0.0.0 betbox.club
 0.0.0.0 betbox.co.uk
 0.0.0.0 betbox.com.co
 0.0.0.0 betbox.fi
@@ -49364,6 +49379,9 @@
 0.0.0.0 betkingcs.com
 0.0.0.0 betkingde-com.pages.dev
 0.0.0.0 betkingde.com
+0.0.0.0 betkingdomclub.com
+0.0.0.0 betkingdomhome.com
+0.0.0.0 betkingdomzone.com
 0.0.0.0 betkingdomzonezonezone.com
 0.0.0.0 betkingg.com.ua
 0.0.0.0 betkinggroup88.com
@@ -49799,7 +49817,9 @@
 0.0.0.0 betlike.today
 0.0.0.0 betlike.win
 0.0.0.0 betlike9.com
+0.0.0.0 betlikeaking888.com
 0.0.0.0 betlikeakinghome.com
+0.0.0.0 betlikeakingpro.com
 0.0.0.0 betlikeakingzonezone.com
 0.0.0.0 betlikear.com
 0.0.0.0 betlikecasino-org.pages.dev
@@ -51076,6 +51096,7 @@
 0.0.0.0 beton-kraft.ru
 0.0.0.0 beton-red-casino.ch
 0.0.0.0 beton-red-casino.com
+0.0.0.0 beton-red-casino.com.ro
 0.0.0.0 beton-red-casinos.pl
 0.0.0.0 beton-redcasino.de
 0.0.0.0 beton-win-casino.cl
@@ -54334,6 +54355,7 @@
 0.0.0.0 betsport24scommesse.it
 0.0.0.0 betsport355.com
 0.0.0.0 betsport365.net
+0.0.0.0 betsport77.net
 0.0.0.0 betsport777.net
 0.0.0.0 betsport777slot.org
 0.0.0.0 betsporte.net
@@ -55366,6 +55388,7 @@
 0.0.0.0 bettingappbrasil.com
 0.0.0.0 bettingappindia.com
 0.0.0.0 bettingapps.app
+0.0.0.0 bettingapps.ca
 0.0.0.0 bettingapps.club
 0.0.0.0 bettingapps.fun
 0.0.0.0 bettingapps.uk.com
@@ -55498,6 +55521,8 @@
 0.0.0.0 bettingcricket.bet
 0.0.0.0 bettingcricketonline.com
 0.0.0.0 bettingcritics.com
+0.0.0.0 bettingcrown888.com
+0.0.0.0 bettingcrownhub.com
 0.0.0.0 bettingcrownzonehome.com
 0.0.0.0 bettingcrypto-us.com
 0.0.0.0 bettingct.com
@@ -55734,10 +55759,12 @@
 0.0.0.0 bettingkenya.com
 0.0.0.0 bettingkick.com
 0.0.0.0 bettingking.dk
+0.0.0.0 bettingking888.com
 0.0.0.0 bettingkingdom.co.uk
 0.0.0.0 bettingkingdoms.com
 0.0.0.0 bettingkinghome.com
 0.0.0.0 bettingkingpoker.uk
+0.0.0.0 bettingkingpro.com
 0.0.0.0 bettingkings.co.uk
 0.0.0.0 bettingkingzonehomehub.com
 0.0.0.0 bettingkingzonehub.com
@@ -55999,6 +56026,7 @@
 0.0.0.0 bettingroom.com
 0.0.0.0 bettingrounds.com
 0.0.0.0 bettingroup.com
+0.0.0.0 bettingroyal888.com
 0.0.0.0 bettingroyale.duckdns.org
 0.0.0.0 bettingroyalhome.com
 0.0.0.0 bettingroyalpro.com
@@ -56886,6 +56914,7 @@
 0.0.0.0 betway13.com
 0.0.0.0 betway138-gaming-app.pages.dev
 0.0.0.0 betway188.online
+0.0.0.0 betway23.vip
 0.0.0.0 betway3365.online
 0.0.0.0 betway365.bio
 0.0.0.0 betway365.fun
@@ -60763,6 +60792,7 @@
 0.0.0.0 bitcoincasinosinaustralia.com
 0.0.0.0 bitcoincasinosite.net
 0.0.0.0 bitcoincasinosites.ng
+0.0.0.0 bitcoincasinosites.xyz
 0.0.0.0 bitcoincasinositesde.com
 0.0.0.0 bitcoincasinoslist.com
 0.0.0.0 bitcoincasinoslot.us.com
@@ -61252,6 +61282,7 @@
 0.0.0.0 biurall.pl
 0.0.0.0 biurorachunkowe-kt.pl
 0.0.0.0 biwei-web.com.cn
+0.0.0.0 biwei2266.com
 0.0.0.0 biwinonline.com
 0.0.0.0 biwoocasino.com
 0.0.0.0 biz0casino.ca
@@ -71033,6 +71064,7 @@
 0.0.0.0 californiacasinosonline.com
 0.0.0.0 californialegalpoker.com
 0.0.0.0 californiaonlinecasinos.us.org
+0.0.0.0 californiapokerclub.net
 0.0.0.0 californiapokerstars.com
 0.0.0.0 californiasportbet.com
 0.0.0.0 californiasportsbetting.net
@@ -73720,6 +73752,7 @@
 0.0.0.0 casibomcasino.uk.net
 0.0.0.0 casibomcasinoonline.com
 0.0.0.0 casibomcevrimsiz2025.com
+0.0.0.0 casibomcuyuz.com
 0.0.0.0 casibomde-com.pages.dev
 0.0.0.0 casibomde.eu.com
 0.0.0.0 casibomdenemebonus.com
@@ -73800,6 +73833,7 @@
 0.0.0.0 casibomlinki.com
 0.0.0.0 casibomlive.com
 0.0.0.0 casibomlu.com
+0.0.0.0 casibomm.bet
 0.0.0.0 casibomm.live
 0.0.0.0 casibomm.org
 0.0.0.0 casibomm.space
@@ -73839,6 +73873,7 @@
 0.0.0.0 casibomplaytr.com
 0.0.0.0 casibomplus.pro
 0.0.0.0 casibomplus.win
+0.0.0.0 casibomportal.com
 0.0.0.0 casibompromo.com
 0.0.0.0 casibompromo24.com
 0.0.0.0 casibompromosyon2025.com
@@ -80016,6 +80051,7 @@
 0.0.0.0 casino-malta.gr
 0.0.0.0 casino-maltcasino-giris.com
 0.0.0.0 casino-mamabet.nl
+0.0.0.0 casino-manbetx.com
 0.0.0.0 casino-maneki.de
 0.0.0.0 casino-maneki.nl
 0.0.0.0 casino-manekispin.com
@@ -88794,6 +88830,7 @@
 0.0.0.0 casinobizzohungary.com
 0.0.0.0 casinobizzoplay.it.com
 0.0.0.0 casinobkash.net
+0.0.0.0 casinobl555.com
 0.0.0.0 casinobl88.art
 0.0.0.0 casinobl88.cc
 0.0.0.0 casinobl88.top
@@ -91211,8 +91248,10 @@
 0.0.0.0 casinocrownplay-online.com
 0.0.0.0 casinocrownplay.de
 0.0.0.0 casinocrownplay.net
+0.0.0.0 casinocrownpro.com
 0.0.0.0 casinocrownz.com
 0.0.0.0 casinocrownz.org
+0.0.0.0 casinocrownzone.com
 0.0.0.0 casinocruise-life.pages.dev
 0.0.0.0 casinocruise.bet
 0.0.0.0 casinocruise.com.de
@@ -108692,6 +108731,7 @@
 0.0.0.0 casinosnotwithgamstop.com
 0.0.0.0 casinosnoverif.net.ua
 0.0.0.0 casinosnoverif.org.ua
+0.0.0.0 casinosnow.com
 0.0.0.0 casinosnowking.com
 0.0.0.0 casinosnuevos.com.mx
 0.0.0.0 casinosnuevos.es
@@ -120851,6 +120891,7 @@
 0.0.0.0 cipit88-bangunlah-sudah.pages.dev
 0.0.0.0 cipit88-carmelbaydivers.pages.dev
 0.0.0.0 cipit88-cipit88.pages.dev
+0.0.0.0 cipit88-cyk.pages.dev
 0.0.0.0 cipit88-footstars.pages.dev
 0.0.0.0 cipit88-ini-bos-senggol-dong.pages.dev
 0.0.0.0 cipit88-izin-ya-pak.pages.dev
@@ -121336,6 +121377,7 @@
 0.0.0.0 cl20betcasinochile.cl
 0.0.0.0 cl39--casinolab.com
 0.0.0.0 cl7slotscasino.cl
+0.0.0.0 cl84--casoola.com
 0.0.0.0 cl888casino.cl
 0.0.0.0 claim-freebet-special-akhir-tahun.pages.dev
 0.0.0.0 claims-cryptocasino.pages.dev
@@ -121536,6 +121578,7 @@
 0.0.0.0 clean-wins-casino.uk
 0.0.0.0 cleandots-habanero88.pages.dev
 0.0.0.0 cleanercarpetcleaner.com
+0.0.0.0 cleanpowerball.com
 0.0.0.0 cleansports.kspo.or.kr
 0.0.0.0 cleanwins-casino-uk-com-5035.pages.dev
 0.0.0.0 cleanwinscasino.com
@@ -127819,6 +127862,7 @@
 0.0.0.0 crownbetet.net
 0.0.0.0 crownbetonlinezonehub.com
 0.0.0.0 crownbetssitehomehub.com
+0.0.0.0 crownbettingpro.com
 0.0.0.0 crownbettingprozone.com
 0.0.0.0 crownbettingzonehomehub.com
 0.0.0.0 crowncasino-au.net
@@ -127855,6 +127899,8 @@
 0.0.0.0 crowncasinoco.com
 0.0.0.0 crowncasinocolombia-com.pages.dev
 0.0.0.0 crowncasinocolombia.com
+0.0.0.0 crowncasinohome.com
+0.0.0.0 crowncasinohub.com
 0.0.0.0 crowncasinoin.com
 0.0.0.0 crowncasinokingzonezone.com
 0.0.0.0 crowncasinologin-5l0.pages.dev
@@ -127873,9 +127919,11 @@
 0.0.0.0 crowncasinoonlinerealmoney.com
 0.0.0.0 crowncasinoperth.com
 0.0.0.0 crowncasinoperth.net
+0.0.0.0 crowncasinosite.com
 0.0.0.0 crowncasinositehome.com
 0.0.0.0 crowncasinosydney.net
 0.0.0.0 crowncasinosydney.org
+0.0.0.0 crowncasinozone.com
 0.0.0.0 crowncoins-casino-australia-com.pages.dev
 0.0.0.0 crowncoins-casino-australia.com
 0.0.0.0 crowncoins-casino-us.pages.dev
@@ -129583,6 +129631,7 @@
 0.0.0.0 cwin09casinobet.com
 0.0.0.0 cwin09cwin.com
 0.0.0.0 cwin09homebet.com
+0.0.0.0 cwin111cwin.com
 0.0.0.0 cwin333casinobet.com
 0.0.0.0 cwin333slot.com
 0.0.0.0 cwin456cwin.com
@@ -130733,6 +130782,7 @@
 0.0.0.0 dagalivevip.com
 0.0.0.0 dagathomoblvwin.com
 0.0.0.0 dagathomobuabet.com
+0.0.0.0 dagathomopg.com
 0.0.0.0 dagathomopro.com
 0.0.0.0 dagathomotrucvip.com
 0.0.0.0 dagathomovi.com
@@ -130845,6 +130895,7 @@
 0.0.0.0 dalercasino.net
 0.0.0.0 dalewin-casino.bet
 0.0.0.0 dalewinbet.bet
+0.0.0.0 dalewinbet.com
 0.0.0.0 dalhepokermanagerv2.pages.dev
 0.0.0.0 dalil-harum.pages.dev
 0.0.0.0 dalmer.es
@@ -130983,6 +131034,7 @@
 0.0.0.0 danhbaionline.page
 0.0.0.0 danhbaionline.xyz
 0.0.0.0 danhbaitrucbet.com
+0.0.0.0 danhbaiwe88.com
 0.0.0.0 danhbet.com
 0.0.0.0 danhsachcasinobet.com
 0.0.0.0 danhxocdia.com
@@ -137525,6 +137577,7 @@
 0.0.0.0 dragontigergame-in.pages.dev
 0.0.0.0 dragontigergame.com.in
 0.0.0.0 dragontigergame.in
+0.0.0.0 dragontigerhelp.com
 0.0.0.0 dragontigerluck-net.pages.dev
 0.0.0.0 dragontigerluck.cl
 0.0.0.0 dragontigerluck.cz
@@ -142347,6 +142400,7 @@
 0.0.0.0 entruempelungsmeister.at
 0.0.0.0 entry-harum777resmi.pages.dev
 0.0.0.0 entry-pgslot-official-hub.pages.dev
+0.0.0.0 entrypowerball.com
 0.0.0.0 enuma-casino-heist.pages.dev
 0.0.0.0 env-itb-ac-id-slot-gacor.pages.dev
 0.0.0.0 envicasino.pl
@@ -147529,6 +147583,7 @@
 0.0.0.0 fastpays-casino.com
 0.0.0.0 fastplayslots.com
 0.0.0.0 fastpokerclub.duckdns.org
+0.0.0.0 fastpowerball.com
 0.0.0.0 fastruncasino.de
 0.0.0.0 fastruncasino.nl
 0.0.0.0 fastruncasino.pl
@@ -155211,6 +155266,7 @@
 0.0.0.0 fullhousescasino.com
 0.0.0.0 fullonlinecasino.com
 0.0.0.0 fullpokies.com
+0.0.0.0 fullpowerball.com
 0.0.0.0 fullpresidenslot.pages.dev
 0.0.0.0 fullreto-apuestas-5.pages.dev
 0.0.0.0 fullreto-apuestas-6.pages.dev
@@ -155491,6 +155547,7 @@
 0.0.0.0 funbet66.net
 0.0.0.0 funbet66.org
 0.0.0.0 funbet7.org
+0.0.0.0 funbet77-1ca.pages.dev
 0.0.0.0 funbet77-9ly.pages.dev
 0.0.0.0 funbet77.bet
 0.0.0.0 funbet77.online
@@ -158220,6 +158277,7 @@
 0.0.0.0 gamebai68.bar
 0.0.0.0 gamebai68.bid
 0.0.0.0 gamebai68.co
+0.0.0.0 gamebai68.games
 0.0.0.0 gamebai68.ltd
 0.0.0.0 gamebai68.onl
 0.0.0.0 gamebai68.online
@@ -158364,6 +158422,7 @@
 0.0.0.0 gamebaiuytin.it.com
 0.0.0.0 gamebaiuytin.online
 0.0.0.0 gamebaiuytinvips.com
+0.0.0.0 gamebaiuytinvn.com
 0.0.0.0 gamebaiuytinwins.com
 0.0.0.0 gamebaivina.com
 0.0.0.0 gamebaivips.com
@@ -161211,6 +161270,7 @@
 0.0.0.0 gierki-zdrapki.site
 0.0.0.0 giessen-spielhalle.de
 0.0.0.0 gifex-casino.pages.dev
+0.0.0.0 gift-casibom.com
 0.0.0.0 giftcardcasino.com
 0.0.0.0 giga-casinos.top
 0.0.0.0 giga-spinz-casino.co.nl
@@ -161907,6 +161967,7 @@
 0.0.0.0 global-selamatbet.pages.dev
 0.0.0.0 global1-jakartabetting69.pages.dev
 0.0.0.0 global4-jakartabetting69.pages.dev
+0.0.0.0 globalbetting.news
 0.0.0.0 globalbetting503.com
 0.0.0.0 globalbetting621.com
 0.0.0.0 globalbetting77.com
@@ -162819,6 +162880,7 @@
 0.0.0.0 go8et-megawin.pages.dev
 0.0.0.0 go99-casino2.com
 0.0.0.0 go99-khelo.com
+0.0.0.0 go999homebet.com
 0.0.0.0 go99casino.com
 0.0.0.0 go99casinobet.com
 0.0.0.0 goa-casinos.com
@@ -171764,6 +171826,7 @@
 0.0.0.0 harum68.org
 0.0.0.0 harum69-net.pages.dev
 0.0.0.0 harum69daftar.com
+0.0.0.0 harum69link.pages.dev
 0.0.0.0 harum7.net
 0.0.0.0 harum707win.online
 0.0.0.0 harum76.com
@@ -174953,6 +175016,7 @@
 0.0.0.0 hokibetslot88maju.pages.dev
 0.0.0.0 hokibetslot88mint.pages.dev
 0.0.0.0 hokibetslot88resmi.pages.dev
+0.0.0.0 hokibetslot88save.pages.dev
 0.0.0.0 hokicasino88.com
 0.0.0.0 hokicasino88.org
 0.0.0.0 hokicuanslot-scatter-hitam.pages.dev
@@ -175127,6 +175191,7 @@
 0.0.0.0 hokiwingacor.pages.dev
 0.0.0.0 hokiwingame.com
 0.0.0.0 hokiwingcr.pages.dev
+0.0.0.0 hokiwingo.com
 0.0.0.0 hokiwingodm.website
 0.0.0.0 hokiwings.pages.dev
 0.0.0.0 hokiwinh5.com
@@ -176913,6 +176978,7 @@
 0.0.0.0 hugewinel-live-casino-american-poker-gold-srcj5.pages.dev
 0.0.0.0 hugewinkazino.gr
 0.0.0.0 hugewinpt-live-casino-5-clover-fire-6-reels-g6m14.pages.dev
+0.0.0.0 hugewinpt-luchshie-sloty-aqua-mafia-ocxhe.pages.dev
 0.0.0.0 hugewinslots.pl
 0.0.0.0 huggersfight-slot-gacor.pages.dev
 0.0.0.0 hugo-betonredapp-be.pages.dev
@@ -190489,6 +190555,7 @@
 0.0.0.0 jogobrazino-777-com-a84e691a.pages.dev
 0.0.0.0 jogocasino.online
 0.0.0.0 jogodagalinhacasino.pt
+0.0.0.0 jogodeaposta.com.br
 0.0.0.0 jogodetigrinho-com.pages.dev
 0.0.0.0 jogodetigrinho.com
 0.0.0.0 jogodotigrinho.com.br
@@ -194307,6 +194374,7 @@
 0.0.0.0 jungliwin-casino.de
 0.0.0.0 jungliwin-casino.nl
 0.0.0.0 jungliwin-casinos.nl
+0.0.0.0 jungliwin-onlinecasino.top
 0.0.0.0 jungliwinbet.pages.dev
 0.0.0.0 jungliwincasino-nl.eu.com
 0.0.0.0 jungliwincasino-nl.nl
@@ -197204,6 +197272,7 @@
 0.0.0.0 keonhacai4.org
 0.0.0.0 keonhacai5-bangla.com
 0.0.0.0 keonhacai5-jit.com
+0.0.0.0 keonhacai5.boats
 0.0.0.0 keonhacai5.cash
 0.0.0.0 keonhacai5.homes
 0.0.0.0 keonhacai5.immo
@@ -197286,6 +197355,7 @@
 0.0.0.0 keonhacai88bet.best
 0.0.0.0 keonhacai88bet.click
 0.0.0.0 keonhacai88vip.com
+0.0.0.0 keonhacai88wins.com
 0.0.0.0 keonhacai9.app
 0.0.0.0 keonhacai9.bid
 0.0.0.0 keonhacai9.onl
@@ -206863,6 +206933,7 @@
 0.0.0.0 leonbet-ru.site
 0.0.0.0 leonbet-tanzania.com
 0.0.0.0 leonbet-tr.com
+0.0.0.0 leonbet-zerkalo-oz2y.buzz
 0.0.0.0 leonbet-zerkalo2026.ru
 0.0.0.0 leonbet.br.com
 0.0.0.0 leonbet.co
@@ -210425,6 +210496,7 @@
 0.0.0.0 livesportsbetting.co
 0.0.0.0 livesportsodds.com
 0.0.0.0 livesteaming.com
+0.0.0.0 livestripp.de.com
 0.0.0.0 livesuomicasino.com
 0.0.0.0 livetotoslot.org
 0.0.0.0 livetrack-slot-gacor.pages.dev
@@ -213188,6 +213260,7 @@
 0.0.0.0 loteriasmoradadasorte.com.br
 0.0.0.0 loteriasoficialapp.com
 0.0.0.0 loteriasortegrande.com.br
+0.0.0.0 loteriaspalleja.es
 0.0.0.0 loteriaspopularapp.pages.dev
 0.0.0.0 loteriaspopularapphome.pages.dev
 0.0.0.0 loteriastetuansanpablo.es
@@ -219079,6 +219152,7 @@
 0.0.0.0 macaowincasino.com
 0.0.0.0 macaowincasino.it
 0.0.0.0 macartecasino.fr
+0.0.0.0 macas-megawin168.pages.dev
 0.0.0.0 macasino.app
 0.0.0.0 macasino.bet
 0.0.0.0 macasino.biz
@@ -219746,6 +219820,7 @@
 0.0.0.0 madonlinecasino-net-7aa79f.pages.dev
 0.0.0.0 madonlinecasino.com
 0.0.0.0 madou47.ru
+0.0.0.0 madou6klgd.ru
 0.0.0.0 madrasah-slot-gacor.pages.dev
 0.0.0.0 madridbet.club
 0.0.0.0 madridbet.im
@@ -223046,6 +223121,7 @@
 0.0.0.0 mangeticslotsaustria.com
 0.0.0.0 mangeticslotsbe.com
 0.0.0.0 mangeticslotsfr.com
+0.0.0.0 mangga2betslot.co
 0.0.0.0 manggatotoslot.id
 0.0.0.0 mangiareamesapuesta.pages.dev
 0.0.0.0 mango-casino.com
@@ -225113,6 +225189,8 @@
 0.0.0.0 maxslot-tapai.pages.dev
 0.0.0.0 maxslot.click
 0.0.0.0 maxslot.fun
+0.0.0.0 maxslot.me
+0.0.0.0 maxslot.rs
 0.0.0.0 maxslot.win
 0.0.0.0 maxslot123.pages.dev
 0.0.0.0 maxslot16.org
@@ -226888,6 +226966,7 @@
 0.0.0.0 megaparipl.net
 0.0.0.0 megapariplus365.com
 0.0.0.0 megaparipromo.com.tr
+0.0.0.0 megaparipromocode.click
 0.0.0.0 megaparipromocode.com
 0.0.0.0 megaparipromocode.pl
 0.0.0.0 megapaript-blog.pages.dev
@@ -227029,6 +227108,7 @@
 0.0.0.0 megaslot-60i.pages.dev
 0.0.0.0 megaslot-au.bet
 0.0.0.0 megaslot-bdj.pages.dev
+0.0.0.0 megaslot-br.com
 0.0.0.0 megaslot-ca.com
 0.0.0.0 megaslot-captainsunat.pages.dev
 0.0.0.0 megaslot-casino-au.com
@@ -229999,6 +230079,7 @@
 0.0.0.0 melbetfrance.fr
 0.0.0.0 melbetg.com
 0.0.0.0 melbetgame.app
+0.0.0.0 melbetgame.net
 0.0.0.0 melbetgame.org
 0.0.0.0 melbetgames.net
 0.0.0.0 melbetgir.net
@@ -234172,6 +234253,7 @@
 0.0.0.0 mmoo88casinobet.com
 0.0.0.0 mmoo9casinobet.com
 0.0.0.0 mmoocasinobet.com
+0.0.0.0 mmoogamebet.com
 0.0.0.0 mmostbet.in
 0.0.0.0 mmposlotgacor.pages.dev
 0.0.0.0 mmpposlotgacor.com
@@ -240615,6 +240697,7 @@
 0.0.0.0 mostbetbd-3-online-com.pages.dev
 0.0.0.0 mostbetbd-online.com
 0.0.0.0 mostbetbd.bid
+0.0.0.0 mostbetbd.id
 0.0.0.0 mostbetbd.it.com
 0.0.0.0 mostbetbd.live
 0.0.0.0 mostbetbd.net
@@ -246120,6 +246203,7 @@
 0.0.0.0 namislot-amp1.pages.dev
 0.0.0.0 namslot.net
 0.0.0.0 namucasino.org
+0.0.0.0 namupowerball.com
 0.0.0.0 nana--casino-de.pages.dev
 0.0.0.0 nana--casino.de
 0.0.0.0 nana-casino-ca.pages.dev
@@ -260847,6 +260931,7 @@
 0.0.0.0 onlinecasino-jackpot.de
 0.0.0.0 onlinecasino-jit.com
 0.0.0.0 onlinecasino-khelo.com
+0.0.0.0 onlinecasino-king.biz
 0.0.0.0 onlinecasino-kz.com
 0.0.0.0 onlinecasino-liechtenstein.com
 0.0.0.0 onlinecasino-live.de
@@ -265728,6 +265813,7 @@
 0.0.0.0 padukabet.vip
 0.0.0.0 padukabet.win
 0.0.0.0 padukabet138.com
+0.0.0.0 padukabet138.pages.dev
 0.0.0.0 padukabetindosat.com
 0.0.0.0 padukades-supafsor.pages.dev
 0.0.0.0 padukahijau.pages.dev
@@ -267315,6 +267401,7 @@
 0.0.0.0 parimatch.asia
 0.0.0.0 parimatch.cn.ua
 0.0.0.0 parimatch.com.cy
+0.0.0.0 parimatch.com.ng
 0.0.0.0 parimatch.cx
 0.0.0.0 parimatch.download
 0.0.0.0 parimatch.in.ua
@@ -270352,6 +270439,7 @@
 0.0.0.0 pgslotfanta988.online
 0.0.0.0 pgslotfish-bet.com
 0.0.0.0 pgslotfish-game.pages.dev
+0.0.0.0 pgslotfish-th.com
 0.0.0.0 pgslotfish.casino
 0.0.0.0 pgslotfish.co
 0.0.0.0 pgslotfish.pages.dev
@@ -271427,6 +271515,7 @@
 0.0.0.0 phlovecasino.net
 0.0.0.0 phlovecasinobet.com
 0.0.0.0 phlovecasinolink.com
+0.0.0.0 phlovejili.com
 0.0.0.0 phlovejili.net
 0.0.0.0 phloves58.com
 0.0.0.0 phloves99.com
@@ -278578,6 +278667,7 @@
 0.0.0.0 play-maxbet.com
 0.0.0.0 play-mbitcasino.com
 0.0.0.0 play-mcluckcasino.com
+0.0.0.0 play-melbet.com.cn
 0.0.0.0 play-memocasino.org
 0.0.0.0 play-milli-piyango.pages.dev
 0.0.0.0 play-millioner-casino.nl
@@ -285191,6 +285281,7 @@
 0.0.0.0 powerballjackpot.org
 0.0.0.0 powerballresult.org
 0.0.0.0 powerballroom.com
+0.0.0.0 powerballstar.com
 0.0.0.0 powerballtown.com
 0.0.0.0 powerballz.pages.dev
 0.0.0.0 powerballzip.com
@@ -289570,6 +289661,7 @@
 0.0.0.0 qx15casino.com
 0.0.0.0 qxbetbet.com
 0.0.0.0 qxqxcasino.com
+0.0.0.0 qygbet88.vip
 0.0.0.0 qyy3casino.com
 0.0.0.0 qzino-casino-ca.pages.dev
 0.0.0.0 qzino-casino.co.cz
@@ -291523,6 +291615,7 @@
 0.0.0.0 rajabandot66.id
 0.0.0.0 rajabandot66.net
 0.0.0.0 rajabandot66.org
+0.0.0.0 rajabandot66gas.pages.dev
 0.0.0.0 rajabandot67.com
 0.0.0.0 rajabandot672djg.live
 0.0.0.0 rajabandot68.com
@@ -292522,6 +292615,7 @@
 0.0.0.0 ramenbet.cfd
 0.0.0.0 ramenbet.net.ru
 0.0.0.0 ramenbet1.top
+0.0.0.0 ramenbet1576.ru
 0.0.0.0 ramenbet1577.ru
 0.0.0.0 ramenbet1578.ru
 0.0.0.0 ramenbet1583.ru
@@ -300556,6 +300650,7 @@
 0.0.0.0 rocketplay.nl
 0.0.0.0 rocketplay.one
 0.0.0.0 rocketplay.or.at
+0.0.0.0 rocketplay.pe
 0.0.0.0 rocketplay.pl
 0.0.0.0 rocketplay.ro
 0.0.0.0 rocketplay.stream
@@ -302833,6 +302928,7 @@
 0.0.0.0 roobet.gr.com
 0.0.0.0 roobet.guru
 0.0.0.0 roobet.hr
+0.0.0.0 roobet.im
 0.0.0.0 roobet.in.ua
 0.0.0.0 roobet.irish
 0.0.0.0 roobet.jp
@@ -304683,6 +304779,7 @@
 0.0.0.0 royalcasinositehome.com
 0.0.0.0 royalcasinositehub.com
 0.0.0.0 royalcasinospin2.com
+0.0.0.0 royalcasinospro.com
 0.0.0.0 royalcasinosreview.com
 0.0.0.0 royalcasinosreview.pages.dev
 0.0.0.0 royalcasinosuk.co.uk
@@ -307151,6 +307248,7 @@
 0.0.0.0 runecasinos.com
 0.0.0.0 runerichescasino.com
 0.0.0.0 runerichescasinos.com
+0.0.0.0 runescasino.com
 0.0.0.0 runewagercasino.com
 0.0.0.0 runningmiles.co.uk
 0.0.0.0 runthesims.com
@@ -307173,6 +307271,7 @@
 0.0.0.0 ruralweb.fecam.org.br
 0.0.0.0 ruruletka.com
 0.0.0.0 rus-2026-casino.top
+0.0.0.0 rus-cazinos.xyz
 0.0.0.0 rus-mostbet.com
 0.0.0.0 rus-pinco.online
 0.0.0.0 rus-pincocasino666.com
@@ -307881,6 +307980,7 @@
 0.0.0.0 sagakingdom-casinoer.com
 0.0.0.0 sagakingdomcasino.com
 0.0.0.0 sagakingdomcasino.nl
+0.0.0.0 sagame1688baccarat-casino.pages.dev
 0.0.0.0 sagame77casino.co.uk
 0.0.0.0 sagamecasino.net
 0.0.0.0 sagaming-b0n.pages.dev
@@ -308628,6 +308728,7 @@
 0.0.0.0 sattakingdisawar.live
 0.0.0.0 sattakingess.com
 0.0.0.0 sattakingfast.vip
+0.0.0.0 sattakingfastgasser786.in
 0.0.0.0 sattakingfastresult.top
 0.0.0.0 sattakingfixedno.com
 0.0.0.0 sattakingg.org
@@ -308642,6 +308743,7 @@
 0.0.0.0 sattakingplay.pages.dev
 0.0.0.0 sattakingplay.site
 0.0.0.0 sattakingreal.com
+0.0.0.0 sattakingreport.in
 0.0.0.0 sattakingresult.lat
 0.0.0.0 sattakingresult.space
 0.0.0.0 sattakingresultonline.com
@@ -309564,6 +309666,7 @@
 0.0.0.0 sc88casinobet.com
 0.0.0.0 sc88gamebet.com
 0.0.0.0 sc88loginbet.com
+0.0.0.0 sc88okvipbet.com
 0.0.0.0 sc88signupbet.com
 0.0.0.0 sc88trangbet.com
 0.0.0.0 scacchisti.it
@@ -309658,6 +309761,7 @@
 0.0.0.0 scatter-maxwin-winer8net.pages.dev
 0.0.0.0 scatter-maxwin-winplay8net.pages.dev
 0.0.0.0 scatter-maxwin-yayan99net.pages.dev
+0.0.0.0 scatter-maxwin-ymate5net.pages.dev
 0.0.0.0 scatter-maxwin.pages.dev
 0.0.0.0 scatter-maxwinjitunet.pages.dev
 0.0.0.0 scatter-naga-biru.pages.dev
@@ -313501,6 +313605,7 @@
 0.0.0.0 sirbetalot-casino-au.com
 0.0.0.0 sirbetalot-casino-com-2baf1821.pages.dev
 0.0.0.0 sirbetalot-casino.com
+0.0.0.0 sirbetalot-casino.fi
 0.0.0.0 sirbetalotcasino-au.com
 0.0.0.0 sirbetalotcasino-de.de
 0.0.0.0 sirbetalotcasino-nl.pages.dev
@@ -314919,6 +315024,7 @@
 0.0.0.0 situstotoofficial.id
 0.0.0.0 situstotoofficial.net
 0.0.0.0 situstotoofficial.pages.dev
+0.0.0.0 situstotoonlineterpercaya.com
 0.0.0.0 situstotooo.com
 0.0.0.0 situstotooslotoonlinegac.com
 0.0.0.0 situstotopage1.pages.dev
@@ -342311,6 +342417,7 @@
 0.0.0.0 startguthaben-onlinecasinosde.org
 0.0.0.0 startguthabencasino.com
 0.0.0.0 startotoslot.com
+0.0.0.0 startpowerball.com
 0.0.0.0 startrek-nextgen-megaways.site
 0.0.0.0 startslot.net
 0.0.0.0 startupjobsportal.com
@@ -347137,6 +347244,7 @@
 0.0.0.0 taksimbet220com.info
 0.0.0.0 taksimbet526.com
 0.0.0.0 taksimbet529.com
+0.0.0.0 taksimbetdocs.com
 0.0.0.0 taksimbetgiris.com
 0.0.0.0 taksimbetgiris.net
 0.0.0.0 taksimhizligiris.com
@@ -348086,6 +348194,7 @@
 0.0.0.0 teenpattigame.in
 0.0.0.0 teenpattigame.net
 0.0.0.0 teenpattigame.pages.dev
+0.0.0.0 teenpattigame.se
 0.0.0.0 teenpattigame.win
 0.0.0.0 teenpattigames.io
 0.0.0.0 teenpattigloryapp.com
@@ -348141,6 +348250,7 @@
 0.0.0.0 teenpattimaster.org.pk
 0.0.0.0 teenpattimaster.vip
 0.0.0.0 teenpattimaster.win
+0.0.0.0 teenpattimaster1200bonus.com
 0.0.0.0 teenpattimaster9.com
 0.0.0.0 teenpattimasterbet.com
 0.0.0.0 teenpattimastergames.in.net
@@ -358216,6 +358326,7 @@
 0.0.0.0 trustdicecasino.cz
 0.0.0.0 trustdicecasino.de
 0.0.0.0 trustdicecasino.fr
+0.0.0.0 trustdicecasino.hu.net
 0.0.0.0 trustdicecasino.io
 0.0.0.0 trustdicecasino.pl
 0.0.0.0 trustdicecasino.si
@@ -360119,7 +360230,9 @@
 0.0.0.0 u888gamecasino.com
 0.0.0.0 u888idhomebet.com
 0.0.0.0 u888pghomebet.com
+0.0.0.0 u888slotvip.com
 0.0.0.0 u888slotvips.com
+0.0.0.0 u888sportsbet.com
 0.0.0.0 u888vipcasinobet.com
 0.0.0.0 u888viphomebet.com
 0.0.0.0 u888vips.com
@@ -360556,6 +360669,7 @@
 0.0.0.0 ufabet888.cfd
 0.0.0.0 ufabet888.com
 0.0.0.0 ufabet888.events
+0.0.0.0 ufabet888.fun
 0.0.0.0 ufabet888.lat
 0.0.0.0 ufabet888.mobi
 0.0.0.0 ufabet888.skin
@@ -360643,6 +360757,7 @@
 0.0.0.0 ufabetlogin.eu.com
 0.0.0.0 ufabetlogin.info
 0.0.0.0 ufabetlogin.shop
+0.0.0.0 ufabetlogin24.com
 0.0.0.0 ufabetloginbet.com
 0.0.0.0 ufabetloma.com
 0.0.0.0 ufabetmail.com
@@ -363074,6 +363189,7 @@
 0.0.0.0 usdt-casino.nl
 0.0.0.0 usdt-royalbet.com.cn
 0.0.0.0 usdt-sportwetten.com
+0.0.0.0 usdt-ultrabet.com.cn
 0.0.0.0 usdt-vipbet.com.cn
 0.0.0.0 usdtapostar.com
 0.0.0.0 usdtcasino-com-ua.pages.dev
@@ -365564,6 +365680,7 @@
 0.0.0.0 vavada-official1.ru
 0.0.0.0 vavada-official1114.buzz
 0.0.0.0 vavada-official1118.buzz
+0.0.0.0 vavada-official1123.buzz
 0.0.0.0 vavada-official1129.buzz
 0.0.0.0 vavada-official1183.buzz
 0.0.0.0 vavada-official12.buzz
@@ -365610,6 +365727,7 @@
 0.0.0.0 vavada-online162.buzz
 0.0.0.0 vavada-online170.buzz
 0.0.0.0 vavada-online255.buzz
+0.0.0.0 vavada-online375.buzz
 0.0.0.0 vavada-online44.fun
 0.0.0.0 vavada-online476.buzz
 0.0.0.0 vavada-online498.buzz
@@ -365618,6 +365736,7 @@
 0.0.0.0 vavada-online662.buzz
 0.0.0.0 vavada-online685.buzz
 0.0.0.0 vavada-online740.buzz
+0.0.0.0 vavada-online753.buzz
 0.0.0.0 vavada-online782.buzz
 0.0.0.0 vavada-online898.buzz
 0.0.0.0 vavada-online915.buzz
@@ -372851,6 +372970,7 @@
 0.0.0.0 vikscasino.vip
 0.0.0.0 viksuz-casino.com
 0.0.0.0 viktorcasinos.com
+0.0.0.0 vilamouracasino.site
 0.0.0.0 vilcasino.net
 0.0.0.0 vilcasino58.com
 0.0.0.0 vilcasino59.com
@@ -380463,6 +380583,7 @@
 0.0.0.0 westpoint-casino.co.za
 0.0.0.0 westpointcasino.co.za
 0.0.0.0 westscasino.com
+0.0.0.0 westslotgame.com
 0.0.0.0 westspiel-casinos.info
 0.0.0.0 westvirginiacasinos.org
 0.0.0.0 westvirginiasportsbetting.net
@@ -382197,6 +382318,7 @@
 0.0.0.0 wildtokyo-de.com
 0.0.0.0 wildtokyo-de.de
 0.0.0.0 wildtokyo-de.net
+0.0.0.0 wildtokyo-it-com.pages.dev
 0.0.0.0 wildtokyo-it.com
 0.0.0.0 wildtokyo-it.it
 0.0.0.0 wildtokyo-it.org
@@ -384248,6 +384370,7 @@
 0.0.0.0 winbet66.win
 0.0.0.0 winbet666.icu
 0.0.0.0 winbet666.onl
+0.0.0.0 winbet666.online
 0.0.0.0 winbet666.pro
 0.0.0.0 winbet666.win
 0.0.0.0 winbet67.org
@@ -384383,6 +384506,7 @@
 0.0.0.0 winbetasia.com
 0.0.0.0 winbetav.com
 0.0.0.0 winbetbacgiang.uk.com
+0.0.0.0 winbetbancabet.com
 0.0.0.0 winbetbd.com
 0.0.0.0 winbetbd.vip
 0.0.0.0 winbetbd1.com
@@ -384547,6 +384671,7 @@
 0.0.0.0 winbetspielen.de
 0.0.0.0 winbetspil.dk
 0.0.0.0 winbetspk.com
+0.0.0.0 winbetsportsbet.com
 0.0.0.0 winbetsportwetten.de
 0.0.0.0 winbetss.com
 0.0.0.0 winbetssport.com
@@ -387257,6 +387382,7 @@
 0.0.0.0 winrollaonline.es
 0.0.0.0 winrollaonline.net
 0.0.0.0 winrollaonline.org
+0.0.0.0 winrollapl-com.pages.dev
 0.0.0.0 winrollapl.pl
 0.0.0.0 winrollapt-com.pages.dev
 0.0.0.0 winrollapt.com
@@ -387932,6 +388058,7 @@
 0.0.0.0 winspirit-casino.eu
 0.0.0.0 winspirit-casino.eu.com
 0.0.0.0 winspirit-casino.games
+0.0.0.0 winspirit-casino.hu.net
 0.0.0.0 winspirit-casino.it
 0.0.0.0 winspirit-casino.net
 0.0.0.0 winspirit-casino.one
@@ -388828,6 +388955,7 @@
 0.0.0.0 winvn12.org
 0.0.0.0 winvn12.pro
 0.0.0.0 winvn12.win
+0.0.0.0 winvn126winvn.com
 0.0.0.0 winvn13.app
 0.0.0.0 winvn13.biz
 0.0.0.0 winvn13.net
@@ -390879,6 +391007,7 @@
 0.0.0.0 worldinfocasino.asia
 0.0.0.0 worldmatch-apuestas-eyk.pages.dev
 0.0.0.0 worldmatch-apuestas.pages.dev
+0.0.0.0 worldmatch.eu
 0.0.0.0 worldmegacasino.net
 0.0.0.0 worldnewscasino.com
 0.0.0.0 worldofcasino.org
@@ -392925,6 +393054,7 @@
 0.0.0.0 xocdia88i.baby
 0.0.0.0 xocdia88j.com
 0.0.0.0 xocdia88l.com
+0.0.0.0 xocdia88login.com
 0.0.0.0 xocdia88n.com
 0.0.0.0 xocdia88play.fun
 0.0.0.0 xocdia88r.com

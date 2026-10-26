@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Trackers
-! Domains: 688 | Updated: 2026-10-26
+! Domains: 693 | Updated: 2026-10-26
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/trackers/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -68,6 +68,7 @@
 ||analytics.rezonence.com^
 ||analytics.usehardal.com^
 ||apachedigital.io^
+||api.adsping.io^
 ||api.assertcom.de^
 ||api.easytracker.digital^
 ||api.edkt.io^
@@ -187,6 +188,7 @@
 ||eu.sgtm.space^
 ||eulerian.io^
 ||eulerian.net^
+||europehog.com^
 ||events.014on.com^
 ||everestengagement.com^
 ||ew3.io^
@@ -289,6 +291,7 @@
 ||pragtag.com^
 ||prod-ping.swat-adping.com^
 |prodregistryv2.org^
+||proxyhog.com^
 ||pulse.synergy.net.au^
 ||pv.aramisauto.com^
 ||pv.claudiepierlot.com^
@@ -412,6 +415,7 @@
 ||stape.de^
 ||stape.do^
 ||stape.gl^
+||stape.host^
 ||stape.id^
 ||stape.im^
 ||stape.info^
@@ -426,6 +430,7 @@
 ||stape.pro^
 ||stape.pw^
 ||stape.st^
+||stape.tech^
 ||stape.vip^
 ||static.lm-tracking.com^
 ||stats.jeengweb.com^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 688 | Updated: 2026-10-26
+# Domains: 693 | Updated: 2026-10-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -68,6 +68,7 @@
 0.0.0.0 analytics.rezonence.com
 0.0.0.0 analytics.usehardal.com
 0.0.0.0 apachedigital.io
+0.0.0.0 api.adsping.io
 0.0.0.0 api.assertcom.de
 0.0.0.0 api.easytracker.digital
 0.0.0.0 api.edkt.io
@@ -187,6 +188,7 @@
 0.0.0.0 eu.sgtm.space
 0.0.0.0 eulerian.io
 0.0.0.0 eulerian.net
+0.0.0.0 europehog.com
 0.0.0.0 events.014on.com
 0.0.0.0 everestengagement.com
 0.0.0.0 ew3.io
@@ -289,6 +291,7 @@
 0.0.0.0 pragtag.com
 0.0.0.0 prod-ping.swat-adping.com
 0.0.0.0 prodregistryv2.org
+0.0.0.0 proxyhog.com
 0.0.0.0 pulse.synergy.net.au
 0.0.0.0 pv.aramisauto.com
 0.0.0.0 pv.claudiepierlot.com
@@ -412,6 +415,7 @@
 0.0.0.0 stape.de
 0.0.0.0 stape.do
 0.0.0.0 stape.gl
+0.0.0.0 stape.host
 0.0.0.0 stape.id
 0.0.0.0 stape.im
 0.0.0.0 stape.info
@@ -426,6 +430,7 @@
 0.0.0.0 stape.pro
 0.0.0.0 stape.pw
 0.0.0.0 stape.st
+0.0.0.0 stape.tech
 0.0.0.0 stape.vip
 0.0.0.0 static.lm-tracking.com
 0.0.0.0 stats.jeengweb.com
