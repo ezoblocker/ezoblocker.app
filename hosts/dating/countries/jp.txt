@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Japan (jp)
-# Domains: 49 | Updated: 2026-10-27
+# Domains: 51 | Updated: 2026-10-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -41,9 +41,11 @@
 0.0.0.0 papakatsu.conohawing.com
 0.0.0.0 pcmax.jp
 0.0.0.0 pref-kyoto-konkatsu.jp
+0.0.0.0 randomchat.day
 0.0.0.0 roomchat.site
 0.0.0.0 sakai.club-rare.jp
 0.0.0.0 sapporo.chance.chat
+0.0.0.0 sapporo.happiness-group.com
 0.0.0.0 service.link.link
 0.0.0.0 strangerchat.live
 0.0.0.0 tapple.co.jp

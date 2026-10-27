@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 390 | Updated: 2026-10-27
+# Domains: 395 | Updated: 2026-10-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -41,6 +41,7 @@
 0.0.0.0 bizimmekan.name
 0.0.0.0 blindid.app
 0.0.0.0 blogun.unilady.hu
+0.0.0.0 bolohub-call-video-chat.softonic.nl
 0.0.0.0 br.papinho.com
 0.0.0.0 bumble.com
 0.0.0.0 bumpmatch.jetboy.jp
@@ -192,6 +193,7 @@
 0.0.0.0 hossohbet.com
 0.0.0.0 irishchat.net
 0.0.0.0 islamisohbet.com
+0.0.0.0 isvicresohbet.gen.tr
 0.0.0.0 jilo.softonic.nl
 0.0.0.0 juso.2ver.com
 0.0.0.0 kalbim.net
@@ -265,6 +267,7 @@
 0.0.0.0 omegleweb.io
 0.0.0.0 omegloo.com
 0.0.0.0 ometv.chat
+0.0.0.0 ometvgirl.com
 0.0.0.0 omezy.io
 0.0.0.0 onlinechatcity.com
 0.0.0.0 opa.chat-room.gr
@@ -286,6 +289,7 @@
 0.0.0.0 rakipsizsohbet.net
 0.0.0.0 randkujemy.pl
 0.0.0.0 randomchat.com
+0.0.0.0 randomchat.day
 0.0.0.0 randomchat.pnyo.jp
 0.0.0.0 randomchat.social
 0.0.0.0 randomchat.today
@@ -350,6 +354,7 @@
 0.0.0.0 talkrand.com
 0.0.0.0 talkwithstranger.co.uk
 0.0.0.0 talkwithstranger.com
+0.0.0.0 talkwithstranger.online
 0.0.0.0 tamsohbet.com
 0.0.0.0 tchatche.com
 0.0.0.0 tchatplancul.fr

@@ -32,7 +32,6 @@
 0.0.0.0 adlywise-prebid.attekmi.co
 0.0.0.0 adm.vidyome.com
 0.0.0.0 adn-srv.reckoner-api.com
-0.0.0.0 adn.pilotx.tv
 0.0.0.0 adnex-prebid.attekmi.co
 0.0.0.0 adplugg.io
 0.0.0.0 adport.pbsadverxo.com
@@ -58,6 +57,7 @@
 0.0.0.0 ads.adswag.ai
 0.0.0.0 ads.avct.cloud
 0.0.0.0 ads.biddertmz.com
+0.0.0.0 ads.euc.madsense.io
 0.0.0.0 ads.haloads.io
 0.0.0.0 ads.innovativeadserver.com
 0.0.0.0 ads.madsense.io

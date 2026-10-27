@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, illegal sports streams
-! Domains: 364 | Updated: 2026-10-27
+! Domains: 372 | Updated: 2026-10-27
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/piracy-sports.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 ||90phutzal.tv^
 ||90phutzas.tv^
 ||90phutzat.tv^
+||90phutzax.tv^
 ||acestreamid.com^
 |admin.avalie.pi.gov.br^
 |agenda.ipece.ce.gov.br^
@@ -34,6 +35,7 @@
 ||cakhiaxs.tv^
 ||canlimacizlet.altervista.org^
 |cepi.cb.ce.gov.br^
+|cityofsurrey.perfectmind.com^
 |clare.gaa.ie^
 ||crackstreams.ch^
 ||crackstreams.gdn^
@@ -108,6 +110,7 @@
 ||hesgoal.co.uk^
 ||hesgoal.ltd^
 ||hesgoal.plus^
+||hesgoal.rocks^
 ||hesgoal.si^
 ||hesgoal.soccer^
 ||hesgoal.zone^
@@ -119,6 +122,7 @@
 ||hesgoaltv.quest^
 ||icc-cricket.com^
 |info.rugbypass.tv^
+|iptv-new-york.lionott.vu^
 ||isportsurge.ws^
 ||jestyayin.org^
 ||jestyayingiris11.xyz^
@@ -169,6 +173,7 @@
 ||livehd73.com^
 ||livehd7live.site^
 ||livehd7pro.xyz^
+||livehd7watch.com^
 ||livekoora.com^
 ||livekoora.today^
 ||livescore.co.kr^
@@ -254,6 +259,7 @@
 ||sport168.app^
 ||sportlive24.tv^
 ||sportonline.cz^
+|sports-cricket-live-live-cricket-tv1.apk.cafe^
 |sportsclub.sports.or.kr^
 ||sportshub.com^
 ||sportsstream.us^
@@ -273,6 +279,7 @@
 ||streameastonline.com^
 ||streameasttop.com^
 ||streamed.cyou^
+||streamonsport.blog^
 ||streamonsport.lat^
 ||streamsport.ie^
 ||strims.com.pl^
@@ -351,6 +358,7 @@
 ||xoilactvbm.cc^
 ||xoilactvttbdg.tv^
 ||xoilacvba.tv^
+||xoilacvbe.tv^
 ||xoilacvn.app^
 ||xoilacvn.net^
 ||xoilacxbk.tv^

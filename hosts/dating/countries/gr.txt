@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Greece (gr)
-# Domains: 15 | Updated: 2026-10-27
+# Domains: 14 | Updated: 2026-10-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/gr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,7 +11,6 @@
 0.0.0.0 europescortguide.com
 0.0.0.0 giant-stoixima-apg.aestheticon.gr
 0.0.0.0 gr.loquovip.com
-0.0.0.0 greece.escortface.com
 0.0.0.0 greekchat.com
 0.0.0.0 greekchat.eu
 0.0.0.0 greekschat.com

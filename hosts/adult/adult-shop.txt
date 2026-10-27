@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,233 | Updated: 2026-10-27
+# Domains: 1,243 | Updated: 2026-10-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -28,6 +28,7 @@
 0.0.0.0 adulteriosexshop.com
 0.0.0.0 adultfantasy.ie
 0.0.0.0 adultgoods-sale.com
+0.0.0.0 adulti.com.au
 0.0.0.0 adultmegastore.com.au
 0.0.0.0 adultproductsindia.com
 0.0.0.0 adultscare.com
@@ -107,6 +108,7 @@
 0.0.0.0 baumwollseil.de
 0.0.0.0 bboutique.co
 0.0.0.0 bdesired.nl
+0.0.0.0 bdsmgearonline.com
 0.0.0.0 bdsmking.eu
 0.0.0.0 bednerdz.com
 0.0.0.0 belemsexshop.com.br
@@ -169,6 +171,7 @@
 0.0.0.0 charlottedewinter.com
 0.0.0.0 charnel-club.be
 0.0.0.0 cherrybanana.com.au
+0.0.0.0 chickadeeswoodentoys.com
 0.0.0.0 christineleduc.be
 0.0.0.0 christineleduc.nl
 0.0.0.0 chuyentinhvn.webflow.io
@@ -272,6 +275,7 @@
 0.0.0.0 eclipsiasexshop.com
 0.0.0.0 edd24.de
 0.0.0.0 edelsa.com.pe
+0.0.0.0 edutoyzone.com
 0.0.0.0 eis.at
 0.0.0.0 eisen-herz.ch
 0.0.0.0 eisenherz.ch
@@ -357,6 +361,7 @@
 0.0.0.0 fleshtoys.pk
 0.0.0.0 flirtadultstore.com.au
 0.0.0.0 fogododesejo.pt
+0.0.0.0 folsomeurope.berlin
 0.0.0.0 foxietoy.com
 0.0.0.0 freakyfun.in
 0.0.0.0 freebody.co.kr
@@ -386,6 +391,7 @@
 0.0.0.0 guiacereza.com
 0.0.0.0 gunshop.vn
 0.0.0.0 gutscheincode.org
+0.0.0.0 gw-corp.com
 0.0.0.0 harmonystore.co.uk
 0.0.0.0 hazoosexshop.com.br
 0.0.0.0 hello-nancy.tenereteam.com
@@ -783,6 +789,7 @@
 0.0.0.0 pleasureplace.com.ph
 0.0.0.0 pleasureshop.com.ph
 0.0.0.0 pleasurestore.ie
+0.0.0.0 pleasurex.ca
 0.0.0.0 pocztakubkowa.pl
 0.0.0.0 polunichka.ua
 0.0.0.0 ponchik.com.ua
@@ -807,6 +814,7 @@
 0.0.0.0 purelust.com
 0.0.0.0 pureromance.com
 0.0.0.0 qlist.app
+0.0.0.0 queer.de
 0.0.0.0 rabattcode.de
 0.0.0.0 rainbowstation.nyc
 0.0.0.0 rajwa.shop
@@ -822,6 +830,7 @@
 0.0.0.0 refform.pl
 0.0.0.0 regalatelo.cl
 0.0.0.0 regulation.co.uk
+0.0.0.0 reignboutique.com
 0.0.0.0 resolver.co.uk
 0.0.0.0 ripcurl.com
 0.0.0.0 rocks-off.com
@@ -1183,6 +1192,7 @@
 0.0.0.0 viamax.se
 0.0.0.0 vibrations.gr
 0.0.0.0 vibrator.pk
+0.0.0.0 vibratorsetb.com
 0.0.0.0 vibrolandia.com
 0.0.0.0 victoriassecret.com.au
 0.0.0.0 vintoy.vn

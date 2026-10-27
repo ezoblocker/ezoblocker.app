@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, PK (pk)
-# Domains: 36 | Updated: 2026-10-27
+# Domains: 35 | Updated: 2026-10-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/pk.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -28,7 +28,6 @@
 0.0.0.0 mixpakichatroom.com
 0.0.0.0 paak.adwento.com
 0.0.0.0 pakichatrooms.com
-0.0.0.0 pakistan.escortface.com
 0.0.0.0 pakistan.videocall.network
 0.0.0.0 pakistanichatrooms.com
 0.0.0.0 pakistanichatrooms.com.pk

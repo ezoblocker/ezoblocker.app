@@ -1,10 +1,12 @@
 # Title: EZOBLOCKER Piracy, Belgium (be)
-# Domains: 5 | Updated: 2026-10-27
+# Domains: 7 | Updated: 2026-10-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/be.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 hesgoal.rocks
 0.0.0.0 livetv.fr
+0.0.0.0 streamonsport.blog
 0.0.0.0 vipleague.be
 0.0.0.0 vipleague.stream
 0.0.0.0 wiflix.al

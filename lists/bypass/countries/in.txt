@@ -1,9 +1,11 @@
 # Title: EZOBLOCKER Bypass, India (in)
-# Domains: 3 | Updated: 2026-10-27
+# Domains: 5 | Updated: 2026-10-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/bypass/countries/in.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.snapvpn.net
 turbo-vpn.androidapks.com
+ultrasurf.cn.softmany.com
+ultrasurf.softmany.com
 windscribe.valuecom.com

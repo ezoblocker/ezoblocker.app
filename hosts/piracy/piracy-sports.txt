@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 364 | Updated: 2026-10-27
+# Domains: 372 | Updated: 2026-10-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 90phutzal.tv
 0.0.0.0 90phutzas.tv
 0.0.0.0 90phutzat.tv
+0.0.0.0 90phutzax.tv
 0.0.0.0 acestreamid.com
 0.0.0.0 admin.avalie.pi.gov.br
 0.0.0.0 agenda.ipece.ce.gov.br
@@ -34,6 +35,7 @@
 0.0.0.0 cakhiaxs.tv
 0.0.0.0 canlimacizlet.altervista.org
 0.0.0.0 cepi.cb.ce.gov.br
+0.0.0.0 cityofsurrey.perfectmind.com
 0.0.0.0 clare.gaa.ie
 0.0.0.0 crackstreams.ch
 0.0.0.0 crackstreams.gdn
@@ -108,6 +110,7 @@
 0.0.0.0 hesgoal.co.uk
 0.0.0.0 hesgoal.ltd
 0.0.0.0 hesgoal.plus
+0.0.0.0 hesgoal.rocks
 0.0.0.0 hesgoal.si
 0.0.0.0 hesgoal.soccer
 0.0.0.0 hesgoal.zone
@@ -119,6 +122,7 @@
 0.0.0.0 hesgoaltv.quest
 0.0.0.0 icc-cricket.com
 0.0.0.0 info.rugbypass.tv
+0.0.0.0 iptv-new-york.lionott.vu
 0.0.0.0 isportsurge.ws
 0.0.0.0 jestyayin.org
 0.0.0.0 jestyayingiris11.xyz
@@ -169,6 +173,7 @@
 0.0.0.0 livehd73.com
 0.0.0.0 livehd7live.site
 0.0.0.0 livehd7pro.xyz
+0.0.0.0 livehd7watch.com
 0.0.0.0 livekoora.com
 0.0.0.0 livekoora.today
 0.0.0.0 livescore.co.kr
@@ -254,6 +259,7 @@
 0.0.0.0 sport168.app
 0.0.0.0 sportlive24.tv
 0.0.0.0 sportonline.cz
+0.0.0.0 sports-cricket-live-live-cricket-tv1.apk.cafe
 0.0.0.0 sportsclub.sports.or.kr
 0.0.0.0 sportshub.com
 0.0.0.0 sportsstream.us
@@ -273,6 +279,7 @@
 0.0.0.0 streameastonline.com
 0.0.0.0 streameasttop.com
 0.0.0.0 streamed.cyou
+0.0.0.0 streamonsport.blog
 0.0.0.0 streamonsport.lat
 0.0.0.0 streamsport.ie
 0.0.0.0 strims.com.pl
@@ -351,6 +358,7 @@
 0.0.0.0 xoilactvbm.cc
 0.0.0.0 xoilactvttbdg.tv
 0.0.0.0 xoilacvba.tv
+0.0.0.0 xoilacvbe.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv

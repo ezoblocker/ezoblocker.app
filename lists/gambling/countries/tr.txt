@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 194 | Updated: 2026-10-27
+# Domains: 202 | Updated: 2026-10-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 *.1427betvole.com
 *.41betmatik.com
 *.805piabet.com
+abruzzo.fibrosicistica.it
 *.anadolucasino.blog
 *.anadolucasinoblog2.com
 antalya-korkuteli.chp.org.tr
@@ -54,6 +55,7 @@ antalya-korkuteli.chp.org.tr
 *.bonusambari.com
 *.bonusametist.com
 *.bonusgadar.com
+*.bonusgostar.com
 *.bonushiyar.com
 *.bonuskiyisi.com
 *.bonuskoyde.com
@@ -73,6 +75,7 @@ antalya-korkuteli.chp.org.tr
 *.croatia-bonusesfinder.com
 *.cybetic.com
 *.denemebonuslari.yachts
+*.dogrugiris5.pro
 *.dpselectricalmkltd.co.uk
 *.dumanbetgiris.cc
 *.ejovoc.org
@@ -172,6 +175,9 @@ superbahis.guncel-giris.org
 *.sweetbonanzaa-tr.com
 *.tarafbet.com.tr
 *.tawsom.net
+*.tektikla.ac
+*.tektikla.futbol
+*.tektikla.net
 *.tempobetde.com
 *.theallergyfreewife.com
 *.tr-marsbahis-2025.vip
@@ -198,3 +204,5 @@ wo.friendshipfordlenoir.com
 ws.christostogo.com
 ws.glenfloors.com
 wu.borderlandsbrewing.com
+*.xn--3067marsbahs-pfb.com
+*.xn--holganbet7722-59b.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 979 | Updated: 2026-10-27
+# Domains: 999 | Updated: 2026-10-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,6 +12,7 @@
 0.0.0.0 1kuttymovies.pro
 0.0.0.0 2fmovies.net
 0.0.0.0 4kiptvireland.irish
+0.0.0.0 51lilai.com
 0.0.0.0 6stream.net
 0.0.0.0 7msport.com
 0.0.0.0 90phut.dev
@@ -19,7 +20,9 @@
 0.0.0.0 90phutzal.tv
 0.0.0.0 90phutzas.tv
 0.0.0.0 90phutzat.tv
+0.0.0.0 90phutzax.tv
 0.0.0.0 9anime-tv.co
+0.0.0.0 9anime.asn.lv
 0.0.0.0 9anime.co.nl
 0.0.0.0 9anime.com.lv
 0.0.0.0 9anime.direct
@@ -44,6 +47,7 @@
 0.0.0.0 anime4up.bond
 0.0.0.0 anime4up.rest
 0.0.0.0 anime4you.01.ma
+0.0.0.0 animefire.apk.cafe
 0.0.0.0 animefire.apkcafe.pt
 0.0.0.0 animeflv.ar
 0.0.0.0 animeflv.ba
@@ -140,6 +144,7 @@
 0.0.0.0 cine-calidad.mom
 0.0.0.0 cinecalidad.company
 0.0.0.0 cinecalidadonline.xyz
+0.0.0.0 cityofsurrey.perfectmind.com
 0.0.0.0 clare.gaa.ie
 0.0.0.0 comprariptv.com
 0.0.0.0 compucalitv.lol
@@ -165,6 +170,7 @@
 0.0.0.0 cuevanaserie.pro
 0.0.0.0 cuevanatv.vip
 0.0.0.0 cuevanaz.biz
+0.0.0.0 cz.opdeb.com
 0.0.0.0 daddylive.pk
 0.0.0.0 darkino.fr
 0.0.0.0 db.iptv.blog
@@ -180,11 +186,13 @@
 0.0.0.0 dixmax.es
 0.0.0.0 dixmax.net
 0.0.0.0 dixmaxpro.com
+0.0.0.0 dixmaxx.es
 0.0.0.0 diziasya.com
 0.0.0.0 dizibox.com.tr
 0.0.0.0 dizibox.live
 0.0.0.0 dizibox.now
 0.0.0.0 diziboxizle.com
+0.0.0.0 diziboxum.com
 0.0.0.0 dizifilmizle.to
 0.0.0.0 dizigom.cv
 0.0.0.0 dizigom.icu
@@ -331,6 +339,7 @@
 0.0.0.0 gogoanime.co.ke
 0.0.0.0 gogoanime.ms
 0.0.0.0 gogoanime.or.at
+0.0.0.0 gogoanimes.co.im
 0.0.0.0 gogoanimes.dk
 0.0.0.0 gogoanimes.watch
 0.0.0.0 gogoanimez.online
@@ -366,6 +375,7 @@
 0.0.0.0 hesgoal.co.uk
 0.0.0.0 hesgoal.ltd
 0.0.0.0 hesgoal.plus
+0.0.0.0 hesgoal.rocks
 0.0.0.0 hesgoal.si
 0.0.0.0 hesgoal.soccer
 0.0.0.0 hesgoal.zone
@@ -384,6 +394,7 @@
 0.0.0.0 info.rugbypass.tv
 0.0.0.0 inpiad60.inpiad.co.kr
 0.0.0.0 iptv-abonnement-france.youcan.store
+0.0.0.0 iptv-new-york.lionott.vu
 0.0.0.0 iptv-portugal.youcan.store
 0.0.0.0 iptvaustralia.app
 0.0.0.0 iptvaustralia.com.au
@@ -512,6 +523,7 @@
 0.0.0.0 livehd73.com
 0.0.0.0 livehd7live.site
 0.0.0.0 livehd7pro.xyz
+0.0.0.0 livehd7watch.com
 0.0.0.0 livekoora.com
 0.0.0.0 livekoora.today
 0.0.0.0 livescore.co.kr
@@ -620,6 +632,7 @@
 0.0.0.0 ocss.luebitutin.blog
 0.0.0.0 old.babybjorn.com.hk
 0.0.0.0 online.tainiothiki.gr
+0.0.0.0 onlydebrid.com
 0.0.0.0 oploverz.ch
 0.0.0.0 oploverz.site
 0.0.0.0 ostoralivehd7.com
@@ -686,6 +699,7 @@
 0.0.0.0 planete-warez.net
 0.0.0.0 player.wholesale-iptv.nl
 0.0.0.0 plusfilmizle.com
+0.0.0.0 pobreflixhd.fit
 0.0.0.0 pobreflixmovie.my
 0.0.0.0 portaleducacional.unisanta.br
 0.0.0.0 poseidonhd2.co
@@ -724,6 +738,7 @@
 0.0.0.0 repelis24.shop
 0.0.0.0 repelis24.watch
 0.0.0.0 repelisplus.casa
+0.0.0.0 repelisplus.company
 0.0.0.0 repelisplus.fit
 0.0.0.0 repelisplus.lat
 0.0.0.0 repelisplus.li
@@ -756,6 +771,7 @@
 0.0.0.0 seriestreaming.live
 0.0.0.0 sflix.org
 0.0.0.0 sflixline.com
+0.0.0.0 sgo-qa.institutoedison.com.br
 0.0.0.0 shahid4u.courses
 0.0.0.0 shahid4u.energy
 0.0.0.0 shahid4you.com
@@ -792,6 +808,7 @@
 0.0.0.0 sport168.app
 0.0.0.0 sportlive24.tv
 0.0.0.0 sportonline.cz
+0.0.0.0 sports-cricket-live-live-cricket-tv1.apk.cafe
 0.0.0.0 sportsclub.sports.or.kr
 0.0.0.0 sportshub.com
 0.0.0.0 sportsstream.us
@@ -802,6 +819,7 @@
 0.0.0.0 sportstream365.com.w3snoop.com
 0.0.0.0 sportstribal.tv
 0.0.0.0 sportsurges.st
+0.0.0.0 spotify-mod-apk.en.filerox.com
 0.0.0.0 staging.elkford.ca
 0.0.0.0 start.sportdigital.de
 0.0.0.0 streamcode.fit
@@ -813,6 +831,7 @@
 0.0.0.0 streamed.cyou
 0.0.0.0 streamfab.dvdfab.fr
 0.0.0.0 streamkiste.al
+0.0.0.0 streamonsport.blog
 0.0.0.0 streamonsport.lat
 0.0.0.0 streamsport.ie
 0.0.0.0 strims.com.pl
@@ -961,6 +980,7 @@
 0.0.0.0 xoilactvbm.cc
 0.0.0.0 xoilactvttbdg.tv
 0.0.0.0 xoilacvba.tv
+0.0.0.0 xoilacvbe.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Australia (au)
-# Domains: 34 | Updated: 2026-10-27
+# Domains: 35 | Updated: 2026-10-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/au.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -34,6 +34,7 @@
 0.0.0.0 sistersite.com
 0.0.0.0 slots-of-vegas.com
 0.0.0.0 the-australian-online-pokies.com
+0.0.0.0 thebestaustralianonlinepokies.com
 0.0.0.0 uptownpokies-aussie.com
 0.0.0.0 uptownpokies-casino.com
 0.0.0.0 wildcasino-eu.com

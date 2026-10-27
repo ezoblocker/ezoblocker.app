@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, United Kingdom (gb)
-# Domains: 34 | Updated: 2026-10-27
+# Domains: 35 | Updated: 2026-10-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -25,6 +25,7 @@
 0.0.0.0 loveandvibes.co.uk
 0.0.0.0 moodsexshop.co.uk
 0.0.0.0 nicennaughty.co.uk
+0.0.0.0 pinkchannel.com
 0.0.0.0 promopro.co.uk
 0.0.0.0 secretplay.co.uk
 0.0.0.0 sexshopsouthampton.co.uk

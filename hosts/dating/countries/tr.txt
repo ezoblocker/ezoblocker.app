@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Türkiye (tr)
-# Domains: 115 | Updated: 2026-10-27
+# Domains: 117 | Updated: 2026-10-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -51,6 +51,7 @@
 0.0.0.0 gevezeyeri.com
 0.0.0.0 gleeden.com
 0.0.0.0 gonuldensevenler.com
+0.0.0.0 isvicresohbet.gen.tr
 0.0.0.0 kalbiminsesi.net
 0.0.0.0 kolaychat.org
 0.0.0.0 lavinsta.com
@@ -74,6 +75,7 @@
 0.0.0.0 omegleweb.com
 0.0.0.0 omegleweb.io
 0.0.0.0 ometv.chat
+0.0.0.0 ometvgirl.com
 0.0.0.0 omezy.io
 0.0.0.0 pembepanjur.com
 0.0.0.0 portaleducacional.unisanta.br

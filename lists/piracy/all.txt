@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 979 | Updated: 2026-10-27
+# Domains: 999 | Updated: 2026-10-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,6 +12,7 @@
 *.1kuttymovies.pro
 *.2fmovies.net
 *.4kiptvireland.irish
+*.51lilai.com
 *.6stream.net
 *.7msport.com
 *.90phut.dev
@@ -19,7 +20,9 @@
 *.90phutzal.tv
 *.90phutzas.tv
 *.90phutzat.tv
+*.90phutzax.tv
 *.9anime-tv.co
+*.9anime.asn.lv
 *.9anime.co.nl
 *.9anime.com.lv
 *.9anime.direct
@@ -44,6 +47,7 @@ aguaevida.sead.pi.gov.br
 *.anime4up.bond
 *.anime4up.rest
 anime4you.01.ma
+animefire.apk.cafe
 animefire.apkcafe.pt
 *.animeflv.ar
 *.animeflv.ba
@@ -140,6 +144,7 @@ cimaclub.ct.ws
 *.cine-calidad.mom
 *.cinecalidad.company
 *.cinecalidadonline.xyz
+cityofsurrey.perfectmind.com
 clare.gaa.ie
 *.comprariptv.com
 *.compucalitv.lol
@@ -165,6 +170,7 @@ coronavirus.natal.rn.gov.br
 *.cuevanaserie.pro
 *.cuevanatv.vip
 *.cuevanaz.biz
+cz.opdeb.com
 *.daddylive.pk
 *.darkino.fr
 db.iptv.blog
@@ -180,11 +186,13 @@ directory.acci.gr
 *.dixmax.es
 *.dixmax.net
 *.dixmaxpro.com
+*.dixmaxx.es
 *.diziasya.com
 *.dizibox.com.tr
 *.dizibox.live
 *.dizibox.now
 *.diziboxizle.com
+*.diziboxum.com
 *.dizifilmizle.to
 *.dizigom.cv
 *.dizigom.icu
@@ -331,6 +339,7 @@ getlive.pcb.com.pk
 *.gogoanime.co.ke
 *.gogoanime.ms
 *.gogoanime.or.at
+*.gogoanimes.co.im
 *.gogoanimes.dk
 *.gogoanimes.watch
 *.gogoanimez.online
@@ -366,6 +375,7 @@ hdfilm-izle.website.org
 *.hesgoal.co.uk
 *.hesgoal.ltd
 *.hesgoal.plus
+*.hesgoal.rocks
 *.hesgoal.si
 *.hesgoal.soccer
 *.hesgoal.zone
@@ -384,6 +394,7 @@ image.schrack.com
 info.rugbypass.tv
 inpiad60.inpiad.co.kr
 iptv-abonnement-france.youcan.store
+iptv-new-york.lionott.vu
 iptv-portugal.youcan.store
 *.iptvaustralia.app
 *.iptvaustralia.com.au
@@ -512,6 +523,7 @@ live.pcb.com.pk
 *.livehd73.com
 *.livehd7live.site
 *.livehd7pro.xyz
+*.livehd7watch.com
 *.livekoora.com
 *.livekoora.today
 *.livescore.co.kr
@@ -620,6 +632,7 @@ nyc-dsp1.kavanga.com
 ocss.luebitutin.blog
 old.babybjorn.com.hk
 online.tainiothiki.gr
+*.onlydebrid.com
 *.oploverz.ch
 *.oploverz.site
 *.ostoralivehd7.com
@@ -686,6 +699,7 @@ pixpretty.tenorshare.ai
 *.planete-warez.net
 player.wholesale-iptv.nl
 *.plusfilmizle.com
+*.pobreflixhd.fit
 *.pobreflixmovie.my
 portaleducacional.unisanta.br
 *.poseidonhd2.co
@@ -724,6 +738,7 @@ refer.yasso.com
 *.repelis24.shop
 *.repelis24.watch
 *.repelisplus.casa
+*.repelisplus.company
 *.repelisplus.fit
 *.repelisplus.lat
 *.repelisplus.li
@@ -756,6 +771,7 @@ search.yaman.com
 *.seriestreaming.live
 *.sflix.org
 *.sflixline.com
+sgo-qa.institutoedison.com.br
 *.shahid4u.courses
 *.shahid4u.energy
 *.shahid4you.com
@@ -792,6 +808,7 @@ sport.sky.ch
 *.sport168.app
 *.sportlive24.tv
 *.sportonline.cz
+sports-cricket-live-live-cricket-tv1.apk.cafe
 sportsclub.sports.or.kr
 *.sportshub.com
 *.sportsstream.us
@@ -802,6 +819,7 @@ sportsclub.sports.or.kr
 sportstream365.com.w3snoop.com
 *.sportstribal.tv
 *.sportsurges.st
+spotify-mod-apk.en.filerox.com
 staging.elkford.ca
 start.sportdigital.de
 *.streamcode.fit
@@ -813,6 +831,7 @@ start.sportdigital.de
 *.streamed.cyou
 streamfab.dvdfab.fr
 *.streamkiste.al
+*.streamonsport.blog
 *.streamonsport.lat
 *.streamsport.ie
 *.strims.com.pl
@@ -961,6 +980,7 @@ www2.gema.org
 *.xoilactvbm.cc
 *.xoilactvttbdg.tv
 *.xoilacvba.tv
+*.xoilacvbe.tv
 *.xoilacvn.app
 *.xoilacvn.net
 *.xoilacxbk.tv

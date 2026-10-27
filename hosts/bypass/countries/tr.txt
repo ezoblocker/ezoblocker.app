@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Bypass, Türkiye (tr)
-# Domains: 8 | Updated: 2026-10-27
+# Domains: 9 | Updated: 2026-10-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/bypass/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 ctunnel.com
 0.0.0.0 dtunnel.net
+0.0.0.0 gdjj.handyunduhrenwelt.de
 0.0.0.0 k-tunnel.net
 0.0.0.0 ktunneli.com
 0.0.0.0 proxycoupons.com
