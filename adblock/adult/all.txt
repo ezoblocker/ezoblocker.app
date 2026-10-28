@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult
-! Domains: 2,377 | Updated: 2026-10-28
+! Domains: 2,360 | Updated: 2026-10-28
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -164,6 +164,7 @@
 ||arabinporn.com^
 ||arabporn.com.es^
 ||arabpussy.org^
+||arabsex.lat^
 ||arabsex.name^
 ||arabsexcams.com^
 ||arabsexmovies.net^
@@ -1111,7 +1112,6 @@
 ||lolitasapata.com^
 ||lolitashop.com.tr^
 ||loma-store.com^
-||lon69.com^
 ||losplaceresdelola.com^
 ||loungerie.com.br^
 ||love-shop.com.ua^
@@ -1354,7 +1354,6 @@
 ||nederporn.tv^
 ||netonlyfans.com^
 ||netu.ro^
-||new-pron.online^
 ||newcumshots.com^
 ||newfinearts.com^
 ||newseskort.site^
@@ -1465,18 +1464,15 @@
 ||perolasexshop.pt^
 ||persoenlich.com^
 ||petitfute.de^
-||phaixemsex1.online^
 ||phim18vn.top^
 ||phimhentai.xyz^
 ||phimnhe.tv^
 ||phimnong.net^
-||phimsexaz.net^
 ||phimsexhaychon.com^
 ||phimsexhaylu.com^
 ||phimsexhaynon.com^
+||phimsexhayx.blog^
 ||phimsexhayxinh.com^
-||phimsexhayz.net^
-||phimsexme.com^
 ||phimsexnhatban.asia^
 ||phimsexsieucapgay.rest^
 ||phimsexvietsubx.blog^
@@ -1532,8 +1528,6 @@
 ||porn-marketing.com^
 ||porn3d.org^
 ||porn4days.me^
-||porn80xv.click^
-||pornabby.lol^
 ||pornarab.cc^
 ||porndoe.com.de^
 ||pornflix.to^
@@ -1554,30 +1548,22 @@
 ||porno.fund^
 ||porno.surf^
 ||porno365.plus^
-||porno80cj.site^
 ||porno80ck.site^
-||porno80cl.site^
 ||porno80cv.site^
 ||porno80zr.org^
 ||porno900.click^
-||pornoamlaks7.lat^
 ||pornobanka.com^
 ||pornochka.com^
 ||pornocolombiano.net^
 ||pornocomlegenda.tv^
-||pornocu15.online^
 ||pornocu15.shop^
 ||pornocu15.site^
-||pornocudayi60.com^
 ||pornocudayi64.com^
-||pornocukkk.com^
 ||pornofeet.xyz^
 ||pornohdit.com^
 ||pornohodl.xyz^
 ||pornoizle.cam^
 ||pornoizlehane.com^
-||pornokase15.site^
-||pornokase17.site^
 ||pornokings.pages.dev^
 ||pornoklub.com^
 ||pornolik.pl^
@@ -1590,8 +1576,6 @@
 ||pornoseks.world^
 ||pornotoys.com^
 ||pornoturkce5.online^
-||pornovadi5.cyou^
-||pornozaz86.online^
 ||pornozaz86.site^
 ||pornsites.love^
 ||pornstaravatars.com^
@@ -2367,7 +2351,6 @@
 ||yourobsession.pl^
 ||yoxo.it^
 |z.clipviet.blog^
-||zebzoub.sex^
 ||zeidemayorista.com^
 |zesyxr0fyd-amphtml.kristigaskola.lv^
 ||zetasexshop.com^

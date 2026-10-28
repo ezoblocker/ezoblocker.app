@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 2,377 | Updated: 2026-10-28
+# Domains: 2,360 | Updated: 2026-10-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -164,6 +164,7 @@
 0.0.0.0 arabinporn.com
 0.0.0.0 arabporn.com.es
 0.0.0.0 arabpussy.org
+0.0.0.0 arabsex.lat
 0.0.0.0 arabsex.name
 0.0.0.0 arabsexcams.com
 0.0.0.0 arabsexmovies.net
@@ -1111,7 +1112,6 @@
 0.0.0.0 lolitasapata.com
 0.0.0.0 lolitashop.com.tr
 0.0.0.0 loma-store.com
-0.0.0.0 lon69.com
 0.0.0.0 losplaceresdelola.com
 0.0.0.0 loungerie.com.br
 0.0.0.0 love-shop.com.ua
@@ -1354,7 +1354,6 @@
 0.0.0.0 nederporn.tv
 0.0.0.0 netonlyfans.com
 0.0.0.0 netu.ro
-0.0.0.0 new-pron.online
 0.0.0.0 newcumshots.com
 0.0.0.0 newfinearts.com
 0.0.0.0 newseskort.site
@@ -1465,18 +1464,15 @@
 0.0.0.0 perolasexshop.pt
 0.0.0.0 persoenlich.com
 0.0.0.0 petitfute.de
-0.0.0.0 phaixemsex1.online
 0.0.0.0 phim18vn.top
 0.0.0.0 phimhentai.xyz
 0.0.0.0 phimnhe.tv
 0.0.0.0 phimnong.net
-0.0.0.0 phimsexaz.net
 0.0.0.0 phimsexhaychon.com
 0.0.0.0 phimsexhaylu.com
 0.0.0.0 phimsexhaynon.com
+0.0.0.0 phimsexhayx.blog
 0.0.0.0 phimsexhayxinh.com
-0.0.0.0 phimsexhayz.net
-0.0.0.0 phimsexme.com
 0.0.0.0 phimsexnhatban.asia
 0.0.0.0 phimsexsieucapgay.rest
 0.0.0.0 phimsexvietsubx.blog
@@ -1532,8 +1528,6 @@
 0.0.0.0 porn-marketing.com
 0.0.0.0 porn3d.org
 0.0.0.0 porn4days.me
-0.0.0.0 porn80xv.click
-0.0.0.0 pornabby.lol
 0.0.0.0 pornarab.cc
 0.0.0.0 porndoe.com.de
 0.0.0.0 pornflix.to
@@ -1554,30 +1548,22 @@
 0.0.0.0 porno.fund
 0.0.0.0 porno.surf
 0.0.0.0 porno365.plus
-0.0.0.0 porno80cj.site
 0.0.0.0 porno80ck.site
-0.0.0.0 porno80cl.site
 0.0.0.0 porno80cv.site
 0.0.0.0 porno80zr.org
 0.0.0.0 porno900.click
-0.0.0.0 pornoamlaks7.lat
 0.0.0.0 pornobanka.com
 0.0.0.0 pornochka.com
 0.0.0.0 pornocolombiano.net
 0.0.0.0 pornocomlegenda.tv
-0.0.0.0 pornocu15.online
 0.0.0.0 pornocu15.shop
 0.0.0.0 pornocu15.site
-0.0.0.0 pornocudayi60.com
 0.0.0.0 pornocudayi64.com
-0.0.0.0 pornocukkk.com
 0.0.0.0 pornofeet.xyz
 0.0.0.0 pornohdit.com
 0.0.0.0 pornohodl.xyz
 0.0.0.0 pornoizle.cam
 0.0.0.0 pornoizlehane.com
-0.0.0.0 pornokase15.site
-0.0.0.0 pornokase17.site
 0.0.0.0 pornokings.pages.dev
 0.0.0.0 pornoklub.com
 0.0.0.0 pornolik.pl
@@ -1590,8 +1576,6 @@
 0.0.0.0 pornoseks.world
 0.0.0.0 pornotoys.com
 0.0.0.0 pornoturkce5.online
-0.0.0.0 pornovadi5.cyou
-0.0.0.0 pornozaz86.online
 0.0.0.0 pornozaz86.site
 0.0.0.0 pornsites.love
 0.0.0.0 pornstaravatars.com
@@ -2367,7 +2351,6 @@
 0.0.0.0 yourobsession.pl
 0.0.0.0 yoxo.it
 0.0.0.0 z.clipviet.blog
-0.0.0.0 zebzoub.sex
 0.0.0.0 zeidemayorista.com
 0.0.0.0 zesyxr0fyd-amphtml.kristigaskola.lv
 0.0.0.0 zetasexshop.com

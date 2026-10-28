@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 396,891 | Updated: 2026-10-28
+# Domains: 396,828 | Updated: 2026-10-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -4699,7 +4699,6 @@
 0.0.0.0 1xslot.uk.com
 0.0.0.0 1xslot24de.com
 0.0.0.0 1xslot528888-top.pages.dev
-0.0.0.0 1xslot97974.com
 0.0.0.0 1xslot99799.xyz
 0.0.0.0 1xslotcasino.win
 0.0.0.0 1xslotcazino.com
@@ -4853,7 +4852,6 @@
 0.0.0.0 1xslots-754.top
 0.0.0.0 1xslots-776.top
 0.0.0.0 1xslots-795.buzz
-0.0.0.0 1xslots-800.top
 0.0.0.0 1xslots-806.top
 0.0.0.0 1xslots-825.top
 0.0.0.0 1xslots-846.top
@@ -15119,7 +15117,6 @@
 0.0.0.0 7kcasino-ajc.top
 0.0.0.0 7kcasino-akf.top
 0.0.0.0 7kcasino-ams.top
-0.0.0.0 7kcasino-aqf.top
 0.0.0.0 7kcasino-aqw.top
 0.0.0.0 7kcasino-asp.top
 0.0.0.0 7kcasino-asv.top
@@ -17883,7 +17880,6 @@
 0.0.0.0 9-casino.de.com
 0.0.0.0 9-casino.eu
 0.0.0.0 9-fridayroll67.com
-0.0.0.0 9-fridayroll91.com
 0.0.0.0 9-macaugg-bandar-togel-gacor.pages.dev
 0.0.0.0 9-memo-casino.pages.dev
 0.0.0.0 9-ninecasino-org-fd4aa99b.pages.dev
@@ -31456,7 +31452,6 @@
 0.0.0.0 asiabetvegas.org
 0.0.0.0 asiacasino-aw.pages.dev
 0.0.0.0 asiacasino.bet
-0.0.0.0 asiacasino.online
 0.0.0.0 asiacasino.org
 0.0.0.0 asiacasino.sbs
 0.0.0.0 asiacasino69.sbs
@@ -47861,8 +47856,6 @@
 0.0.0.0 betgames-casino.com
 0.0.0.0 betgamescasino.co.za
 0.0.0.0 betganaapuesta.online
-0.0.0.0 betgar-casino.com
-0.0.0.0 betgar-casino.net
 0.0.0.0 betgaranti-giris.com
 0.0.0.0 betgaranti-giris.online
 0.0.0.0 betgaranti-tr.org
@@ -65379,7 +65372,6 @@
 0.0.0.0 booicasino-mge.top
 0.0.0.0 booicasino-mnh.top
 0.0.0.0 booicasino-mvb.top
-0.0.0.0 booicasino-nbm.top
 0.0.0.0 booicasino-nhe.top
 0.0.0.0 booicasino-nji.top
 0.0.0.0 booicasino-nsc.top
@@ -90233,7 +90225,6 @@
 0.0.0.0 casinochanze.org
 0.0.0.0 casinochapter.com
 0.0.0.0 casinochargeback.com
-0.0.0.0 casinocharles.io
 0.0.0.0 casinocharlevoixca.com
 0.0.0.0 casinocharmius.org
 0.0.0.0 casinochase.com
@@ -114095,7 +114086,6 @@
 0.0.0.0 casinozodiac.co.uk
 0.0.0.0 casinozodiac.de
 0.0.0.0 casinozodiac.ro
-0.0.0.0 casinozodiac.sk
 0.0.0.0 casinozodiac.uk
 0.0.0.0 casinozodiaccanada-com.pages.dev
 0.0.0.0 casinozodiaccanada.com
@@ -116869,7 +116859,6 @@
 0.0.0.0 catcasino-vmn.top
 0.0.0.0 catcasino-vmr.top
 0.0.0.0 catcasino-vna.top
-0.0.0.0 catcasino-vnb.top
 0.0.0.0 catcasino-vnt.top
 0.0.0.0 catcasino-vpz.top
 0.0.0.0 catcasino-vqa.top
@@ -121114,7 +121103,6 @@
 0.0.0.0 classiccasino-cz.cz
 0.0.0.0 classiccasino-cz.eu.com
 0.0.0.0 classiccasino.at
-0.0.0.0 classiccasino.bet
 0.0.0.0 classiccasino.co.at
 0.0.0.0 classiccasino.cz
 0.0.0.0 classiccasino.de
@@ -149711,7 +149699,6 @@
 0.0.0.0 flappycasino103.cc
 0.0.0.0 flappycasino104.cc
 0.0.0.0 flappycasino105.cc
-0.0.0.0 flappycasino6.com
 0.0.0.0 flappycasino7.com
 0.0.0.0 flappycasino777.de
 0.0.0.0 flappycasinohu.com
@@ -163629,7 +163616,6 @@
 0.0.0.0 goldbet.wine
 0.0.0.0 goldbet.ws
 0.0.0.0 goldbet007.net
-0.0.0.0 goldbet01.com
 0.0.0.0 goldbet02.com
 0.0.0.0 goldbet03.com
 0.0.0.0 goldbet04.com
@@ -167066,7 +167052,6 @@
 0.0.0.0 grand-kazino.net
 0.0.0.0 grand-lisboa-casino-app.com
 0.0.0.0 grand-lisboa-casino.com
-0.0.0.0 grand-mondial-casino-app.ca
 0.0.0.0 grand-mondial-casino.uk
 0.0.0.0 grand-mondial-casinonz.com
 0.0.0.0 grand-mondial-online-casino-nz.com
@@ -167586,7 +167571,6 @@
 0.0.0.0 grandmondialcasino.org.uk
 0.0.0.0 grandmondialcasino.quebec
 0.0.0.0 grandmondialcasino.se
-0.0.0.0 grandmondialcasino.sk
 0.0.0.0 grandmondialcasinobonus.ca
 0.0.0.0 grandmondialcasinocanada-net.pages.dev
 0.0.0.0 grandmondialcasinocanada.com
@@ -193894,7 +193878,6 @@
 0.0.0.0 jupicasino1-de.pages.dev
 0.0.0.0 jupicasino1.com.de
 0.0.0.0 jupicasino1.de
-0.0.0.0 jupicasino147.com
 0.0.0.0 jupicasino27.com
 0.0.0.0 jupicasino47.com
 0.0.0.0 jupicasino7.com
@@ -208562,7 +208545,6 @@
 0.0.0.0 linebet-download.org
 0.0.0.0 linebet-egypt.net
 0.0.0.0 linebet-france.com
-0.0.0.0 linebet-info.uz
 0.0.0.0 linebet-io.pages.dev
 0.0.0.0 linebet-makeintern-bd.pages.dev
 0.0.0.0 linebet-maroc.net
@@ -208635,7 +208617,6 @@
 0.0.0.0 linebetmobile.com
 0.0.0.0 linebetmoney.com
 0.0.0.0 linebetph.com
-0.0.0.0 linebetplay.com
 0.0.0.0 linebets-eg.com
 0.0.0.0 linebetslots.com
 0.0.0.0 linebetsport.com
@@ -246833,7 +246814,6 @@
 0.0.0.0 needforspin71.com
 0.0.0.0 needforspin72.com
 0.0.0.0 needforspin73.com
-0.0.0.0 needforspin75.com
 0.0.0.0 needforspin76.casino
 0.0.0.0 needforspin76.com
 0.0.0.0 needforspin76.live
@@ -268856,7 +268836,6 @@
 0.0.0.0 pesobetcasino.co.uk
 0.0.0.0 pesobetcasino.org
 0.0.0.0 pesobetcasinolink.com
-0.0.0.0 pesobetcasinologin.com
 0.0.0.0 pesobetcasinos.com
 0.0.0.0 pesobetph.net
 0.0.0.0 pesojiliapp.com
@@ -301164,7 +301143,6 @@
 0.0.0.0 rollingslots74.de
 0.0.0.0 rollingslots74.one
 0.0.0.0 rollingslots78.com
-0.0.0.0 rollingslots79.com
 0.0.0.0 rollingslots81.com
 0.0.0.0 rollingslots87.casino
 0.0.0.0 rollingslots87.live
@@ -309312,6 +309290,7 @@
 0.0.0.0 scorpion-casino.org
 0.0.0.0 scorpioncasino-ipl-com.pages.dev
 0.0.0.0 scorpioncasino.ae.org
+0.0.0.0 scorpioncasino.app
 0.0.0.0 scorpioncasino.at
 0.0.0.0 scorpioncasino.be
 0.0.0.0 scorpioncasino.ca
@@ -312771,7 +312750,6 @@
 0.0.0.0 sisalcasino.de
 0.0.0.0 sisalcasino.de.com
 0.0.0.0 sisalcasino.es
-0.0.0.0 sisalcasino.si
 0.0.0.0 sisalcasino.uk
 0.0.0.0 sisalscommesse-it.com
 0.0.0.0 sisalscommesse.org
@@ -322610,59 +322588,19 @@
 0.0.0.0 slotoro1.gr
 0.0.0.0 slotoro1.net
 0.0.0.0 slotoro1.ro
-0.0.0.0 slotoro128.bet
-0.0.0.0 slotoro142.bet
-0.0.0.0 slotoro146.bet
-0.0.0.0 slotoro163.bet
-0.0.0.0 slotoro172.bet
-0.0.0.0 slotoro184.bet
-0.0.0.0 slotoro194.bet
 0.0.0.0 slotoro2-pl.pages.dev
 0.0.0.0 slotoro2.de
 0.0.0.0 slotoro2.pl
-0.0.0.0 slotoro20.bet
-0.0.0.0 slotoro215.bet
-0.0.0.0 slotoro217.bet
 0.0.0.0 slotoro24.com
 0.0.0.0 slotoro247.com
 0.0.0.0 slotoro247.de
-0.0.0.0 slotoro261.bet
-0.0.0.0 slotoro269.bet
-0.0.0.0 slotoro27.bet
 0.0.0.0 slotoro274-bet.pages.dev
 0.0.0.0 slotoro274.bet
-0.0.0.0 slotoro278.bet
 0.0.0.0 slotoro305.bet
-0.0.0.0 slotoro354.bet
-0.0.0.0 slotoro37.bet
-0.0.0.0 slotoro376.bet
-0.0.0.0 slotoro389.bet
-0.0.0.0 slotoro39.bet
-0.0.0.0 slotoro4.bet
-0.0.0.0 slotoro417.bet
-0.0.0.0 slotoro42.bet
-0.0.0.0 slotoro470.bet
-0.0.0.0 slotoro48.bet
-0.0.0.0 slotoro491.bet
-0.0.0.0 slotoro503.bet
-0.0.0.0 slotoro53.bet
-0.0.0.0 slotoro54.bet
-0.0.0.0 slotoro582.bet
-0.0.0.0 slotoro61.bet
-0.0.0.0 slotoro631.bet
-0.0.0.0 slotoro702.bet
-0.0.0.0 slotoro738.bet
-0.0.0.0 slotoro758.bet
-0.0.0.0 slotoro77.bet
 0.0.0.0 slotoro777.com
 0.0.0.0 slotoro777.org
-0.0.0.0 slotoro781.bet
-0.0.0.0 slotoro8.bet
 0.0.0.0 slotoro805.bet
 0.0.0.0 slotoro82.bet
-0.0.0.0 slotoro846.bet
-0.0.0.0 slotoro91.bet
-0.0.0.0 slotoro92.bet
 0.0.0.0 slotoroa6.com
 0.0.0.0 slotoroaktionscode.de
 0.0.0.0 slotoroat-net.pages.dev
@@ -388660,7 +388598,6 @@
 0.0.0.0 wishwin-8313.com
 0.0.0.0 wishwin-8386.com
 0.0.0.0 wishwin-8446.com
-0.0.0.0 wishwin-8801.com
 0.0.0.0 wishwin-9152.com
 0.0.0.0 wishwin-9378.com
 0.0.0.0 wishwin-9606.com

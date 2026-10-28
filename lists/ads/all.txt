@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 628 | Updated: 2026-10-28
+# Domains: 627 | Updated: 2026-10-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -119,7 +119,6 @@ api.imotech.tech
 *.api.recod3suite.com
 *.api.rmcbfmadtech.com
 *.api.unboundedsource.com
-apps.adsgravity.io
 *.arkeero.net
 *.arteabee.com
 artechnology-prebid.attekmi.co

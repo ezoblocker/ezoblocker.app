@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 347 | Updated: 2026-10-28
+# Domains: 335 | Updated: 2026-10-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -203,7 +203,6 @@
 0.0.0.0 mutva.com
 0.0.0.0 mytorontoescort.info
 0.0.0.0 nazira1.wtf
-0.0.0.0 new-pron.online
 0.0.0.0 newseskort.site
 0.0.0.0 newseskorts.shop
 0.0.0.0 nigdeescortred.xyz
@@ -217,24 +216,13 @@
 0.0.0.0 pavla.guru
 0.0.0.0 pendikseksshop.com
 0.0.0.0 pompatube45.pw
-0.0.0.0 porn80xv.click
-0.0.0.0 pornabby.lol
-0.0.0.0 porno80cj.site
 0.0.0.0 porno80ck.site
-0.0.0.0 porno80cl.site
 0.0.0.0 porno80cv.site
 0.0.0.0 porno900.click
-0.0.0.0 pornocu15.online
 0.0.0.0 pornocu15.shop
 0.0.0.0 pornocu15.site
-0.0.0.0 pornocudayi60.com
 0.0.0.0 pornocudayi64.com
-0.0.0.0 pornocukkk.com
 0.0.0.0 pornoizlehane.com
-0.0.0.0 pornokase15.site
-0.0.0.0 pornokase17.site
-0.0.0.0 pornovadi5.cyou
-0.0.0.0 pornozaz86.online
 0.0.0.0 pornozaz86.site
 0.0.0.0 positive-vibrations.hr
 0.0.0.0 pureloveshop.com.tr

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, ad exchange endpoints from Prebid.js / Prebid Server adapters
-# Domains: 280 | Updated: 2026-10-28
+# Domains: 279 | Updated: 2026-10-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/ads/prebid.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -53,7 +53,6 @@ api.condorx.io
 api.engerio.sk
 api.hb.ad.cpe.dotomi.com
 api.imotech.tech
-apps.adsgravity.io
 artechnology-prebid.attekmi.co
 auction.adpearl.io
 auction.bidespresso.com
