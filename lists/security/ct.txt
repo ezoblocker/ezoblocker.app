@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 50,901 | Updated: 2026-10-28
+# Domains: 50,891 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -224,14 +224,12 @@
 *.a-desktop--live-ledgr.pages.dev
 *.a-desktop-live-ledgr.pages.dev
 *.a-ec-whatsapp.com.cn
-*.a-f-q-whatsapp.com.cn
 *.a-in-whatsapp.com.cn
 *.a-pps-ledgrlive-en-us.pages.dev
 *.a-trezor-io-start.pages.dev
 a-us-paypal.carbonaxiom.com
 a-us-paypal.itservicemiami.co
 *.a-uth-ledgercom-start.pages.dev
-*.a-v-whatsapp.com.cn
 *.a0e01d97-940d-46cf-89f5-302f715342df-netflix-clone.pages.dev
 *.a0l-supp0rt.workers.dev
 *.a0whatsappfree.pages.dev
@@ -3583,8 +3581,6 @@ aws.poluchit-prava-7f4t.ru
 *.axxturelrobloxid.pages.dev
 *.ayrobloxhomophobic.pages.dev
 *.az-whats-app.com.cn
-*.b-i-v-whatsapp.com.cn
-*.b-i-whatsapp.com.cn
 *.b-wh-atsapp.com.cn
 *.b-what-sapp.com.cn
 *.b-whats-app.hl.cn
@@ -5321,7 +5317,6 @@ bradesconetempresa.loggin.cc
 *.bzc-whats-app.com.cn
 *.bzst-finanzamt-online-de.com.es
 *.c-enter-trezo-io-en.pages.dev
-*.c-j-whatsapp.com.cn
 *.c-ledger-com-start.pages.dev
 *.c-oinbas-eg.pages.dev
 *.c-oinbase-login.pages.dev
@@ -8183,7 +8178,6 @@ customer-sso.oresundbron.com
 *.cyrpto-uphld-login.pages.dev
 *.czh5ikd6-appleid.pages.dev
 *.d-c-whats-app.hl.cn
-*.d-e-f-whatsapp.com.cn
 *.d-epo-p-verif12.cfd
 *.d-jk-whatsapp.com.cn
 *.d-ocexodusweb.pages.dev
@@ -16479,6 +16473,7 @@ hjhjhj.hjkkjjk.workers.dev
 *.hk-whatsaspp-rly.hk.cn
 *.hk-whatsaspp-snk.hk.cn
 *.hk-whatsaspp-tbw.hk.cn
+*.hk-whatsaspp-vhc.hk.cn
 *.hk-whatsaspp-wak.hk.cn
 *.hk-whatsaspp-xgn.hk.cn
 *.hkwhatsapp.eu.cc
@@ -20405,7 +20400,6 @@ iverify.paypalproblems.com.blackforestorganic.com
 *.ixora2-2vexil.pages.dev
 *.iyzico-learning-applesupport.ph
 *.j-i-whats-app.hl.cn
-*.j-m-v-whatsapp.com.cn
 *.j-v-whats-app.com.cn
 *.j-wh-atsapp.com.cn
 *.j-wha-tsapp.com.cn
@@ -27887,7 +27881,6 @@ logon.emiratespost-eventbrite.ph
 *.m--facebook.pages.dev
 *.m--robinhoo--dlogin-lgn.pages.dev
 *.m--trezorhardwarewallet.pages.dev
-*.m-b-x-whatsapp.com.cn
 *.m-bestwallettoken.pages.dev
 *.m-blockdag-network.pages.dev
 *.m-blockdag.pages.dev
@@ -35427,7 +35420,6 @@ rough-union-outlookwebapps.c-1-ou-d-o-storage.workers.dev
 *.rythavel16-1haven.pages.dev
 *.rzu-whats-app.com.cn
 *.s-checker-soniclabs.pages.dev
-*.s-f-c-whatsapp.com.cn
 *.s-h-whats-app.com.cn
 *.s-op-whatsapp.com.cn
 *.s-suits-trzor.pages.dev
@@ -46349,7 +46341,6 @@ twitter-copyright-center.fanduelsportsnerwork.com
 *.tzrio-walt-logns.pages.dev
 *.tzrs-io-logns.pages.dev
 *.u-doc-exxodus-web3.pages.dev
-*.u-v-w-whatsapp.com.cn
 *.u-v-whats-app.hl.cn
 *.u-wha-tsapp.com.cn
 *.u-what-sapp.com.cn
@@ -50760,7 +50751,6 @@ youtubepremium.fuxionportv.xyz
 *.yurticikargo-glsgroup.ph
 *.yxjhs80i-teiegarm.pages.dev
 *.z-1-whats-app.com.cn
-*.z-e-x-whatsapp.com.cn
 *.z-w-hatsapp.com.cn
 *.z-wh-atsapp.com.cn
 *.z-wha-tsapp.com.cn

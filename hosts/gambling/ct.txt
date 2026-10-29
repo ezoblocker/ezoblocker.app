@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 396,828 | Updated: 2026-10-28
+# Domains: 396,822 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -60815,7 +60815,6 @@
 0.0.0.0 bitstarz-sv.com
 0.0.0.0 bitstarz-us.com
 0.0.0.0 bitstarz-yachts.pages.dev
-0.0.0.0 bitstarz.at
 0.0.0.0 bitstarz.au
 0.0.0.0 bitstarz.ch
 0.0.0.0 bitstarz.co.com
@@ -78552,7 +78551,6 @@
 0.0.0.0 casino-janusz.com
 0.0.0.0 casino-janusz.pl
 0.0.0.0 casino-jasino.com.de
-0.0.0.0 casino-jasminslots.nl
 0.0.0.0 casino-jax-au.com
 0.0.0.0 casino-jax.es
 0.0.0.0 casino-jax.net
@@ -140142,7 +140140,6 @@
 0.0.0.0 eldoradocasino-bmk.top
 0.0.0.0 eldoradocasino-bnh.top
 0.0.0.0 eldoradocasino-boza.fun
-0.0.0.0 eldoradocasino-bpd.top
 0.0.0.0 eldoradocasino-bpn.top
 0.0.0.0 eldoradocasino-buq.top
 0.0.0.0 eldoradocasino-buy.top
@@ -256326,7 +256323,6 @@
 0.0.0.0 nz-vegastars.club
 0.0.0.0 nz-vegastars.com
 0.0.0.0 nz-vegastars.top
-0.0.0.0 nz-yukongoldcasino.com
 0.0.0.0 nz-yukongoldcasino.org
 0.0.0.0 nz-zoccer.com
 0.0.0.0 nz4.ru
@@ -297188,7 +297184,6 @@
 0.0.0.0 riobetcasino-jjy.top
 0.0.0.0 riobetcasino-jkt.top
 0.0.0.0 riobetcasino-jl.xyz
-0.0.0.0 riobetcasino-jla.top
 0.0.0.0 riobetcasino-jle.top
 0.0.0.0 riobetcasino-jlx.top
 0.0.0.0 riobetcasino-jng.top
@@ -350926,7 +350921,6 @@
 0.0.0.0 tipobet.work
 0.0.0.0 tipobet3.com
 0.0.0.0 tipobet365-giris.com
-0.0.0.0 tipobet365-turkiye.com
 0.0.0.0 tipobet365bahis.net
 0.0.0.0 tipobet365giris2026.com
 0.0.0.0 tipobet365tr.com

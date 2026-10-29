@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 50,901 | Updated: 2026-10-28
+# Domains: 50,891 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -224,14 +224,12 @@
 0.0.0.0 a-desktop--live-ledgr.pages.dev
 0.0.0.0 a-desktop-live-ledgr.pages.dev
 0.0.0.0 a-ec-whatsapp.com.cn
-0.0.0.0 a-f-q-whatsapp.com.cn
 0.0.0.0 a-in-whatsapp.com.cn
 0.0.0.0 a-pps-ledgrlive-en-us.pages.dev
 0.0.0.0 a-trezor-io-start.pages.dev
 0.0.0.0 a-us-paypal.carbonaxiom.com
 0.0.0.0 a-us-paypal.itservicemiami.co
 0.0.0.0 a-uth-ledgercom-start.pages.dev
-0.0.0.0 a-v-whatsapp.com.cn
 0.0.0.0 a0e01d97-940d-46cf-89f5-302f715342df-netflix-clone.pages.dev
 0.0.0.0 a0l-supp0rt.workers.dev
 0.0.0.0 a0whatsappfree.pages.dev
@@ -3583,8 +3581,6 @@
 0.0.0.0 axxturelrobloxid.pages.dev
 0.0.0.0 ayrobloxhomophobic.pages.dev
 0.0.0.0 az-whats-app.com.cn
-0.0.0.0 b-i-v-whatsapp.com.cn
-0.0.0.0 b-i-whatsapp.com.cn
 0.0.0.0 b-wh-atsapp.com.cn
 0.0.0.0 b-what-sapp.com.cn
 0.0.0.0 b-whats-app.hl.cn
@@ -5321,7 +5317,6 @@
 0.0.0.0 bzc-whats-app.com.cn
 0.0.0.0 bzst-finanzamt-online-de.com.es
 0.0.0.0 c-enter-trezo-io-en.pages.dev
-0.0.0.0 c-j-whatsapp.com.cn
 0.0.0.0 c-ledger-com-start.pages.dev
 0.0.0.0 c-oinbas-eg.pages.dev
 0.0.0.0 c-oinbase-login.pages.dev
@@ -8183,7 +8178,6 @@
 0.0.0.0 cyrpto-uphld-login.pages.dev
 0.0.0.0 czh5ikd6-appleid.pages.dev
 0.0.0.0 d-c-whats-app.hl.cn
-0.0.0.0 d-e-f-whatsapp.com.cn
 0.0.0.0 d-epo-p-verif12.cfd
 0.0.0.0 d-jk-whatsapp.com.cn
 0.0.0.0 d-ocexodusweb.pages.dev
@@ -16479,6 +16473,7 @@
 0.0.0.0 hk-whatsaspp-rly.hk.cn
 0.0.0.0 hk-whatsaspp-snk.hk.cn
 0.0.0.0 hk-whatsaspp-tbw.hk.cn
+0.0.0.0 hk-whatsaspp-vhc.hk.cn
 0.0.0.0 hk-whatsaspp-wak.hk.cn
 0.0.0.0 hk-whatsaspp-xgn.hk.cn
 0.0.0.0 hkwhatsapp.eu.cc
@@ -20405,7 +20400,6 @@
 0.0.0.0 ixora2-2vexil.pages.dev
 0.0.0.0 iyzico-learning-applesupport.ph
 0.0.0.0 j-i-whats-app.hl.cn
-0.0.0.0 j-m-v-whatsapp.com.cn
 0.0.0.0 j-v-whats-app.com.cn
 0.0.0.0 j-wh-atsapp.com.cn
 0.0.0.0 j-wha-tsapp.com.cn
@@ -27887,7 +27881,6 @@
 0.0.0.0 m--facebook.pages.dev
 0.0.0.0 m--robinhoo--dlogin-lgn.pages.dev
 0.0.0.0 m--trezorhardwarewallet.pages.dev
-0.0.0.0 m-b-x-whatsapp.com.cn
 0.0.0.0 m-bestwallettoken.pages.dev
 0.0.0.0 m-blockdag-network.pages.dev
 0.0.0.0 m-blockdag.pages.dev
@@ -35427,7 +35420,6 @@
 0.0.0.0 rythavel16-1haven.pages.dev
 0.0.0.0 rzu-whats-app.com.cn
 0.0.0.0 s-checker-soniclabs.pages.dev
-0.0.0.0 s-f-c-whatsapp.com.cn
 0.0.0.0 s-h-whats-app.com.cn
 0.0.0.0 s-op-whatsapp.com.cn
 0.0.0.0 s-suits-trzor.pages.dev
@@ -46349,7 +46341,6 @@
 0.0.0.0 tzrio-walt-logns.pages.dev
 0.0.0.0 tzrs-io-logns.pages.dev
 0.0.0.0 u-doc-exxodus-web3.pages.dev
-0.0.0.0 u-v-w-whatsapp.com.cn
 0.0.0.0 u-v-whats-app.hl.cn
 0.0.0.0 u-wha-tsapp.com.cn
 0.0.0.0 u-what-sapp.com.cn
@@ -50760,7 +50751,6 @@
 0.0.0.0 yurticikargo-glsgroup.ph
 0.0.0.0 yxjhs80i-teiegarm.pages.dev
 0.0.0.0 z-1-whats-app.com.cn
-0.0.0.0 z-e-x-whatsapp.com.cn
 0.0.0.0 z-w-hatsapp.com.cn
 0.0.0.0 z-wh-atsapp.com.cn
 0.0.0.0 z-wha-tsapp.com.cn

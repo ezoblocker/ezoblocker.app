@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 2,360 | Updated: 2026-10-28
+# Domains: 2,357 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1371,7 +1371,6 @@
 0.0.0.0 nikmatindo.online
 0.0.0.0 nodex.ie
 0.0.0.0 noktashop.com.tr
-0.0.0.0 nollyporn.com
 0.0.0.0 nonsurgical-penis-enlargement.com
 0.0.0.0 nooitmeersaai.nl
 0.0.0.0 noroz.pk
@@ -1558,7 +1557,6 @@
 0.0.0.0 pornocomlegenda.tv
 0.0.0.0 pornocu15.shop
 0.0.0.0 pornocu15.site
-0.0.0.0 pornocudayi64.com
 0.0.0.0 pornofeet.xyz
 0.0.0.0 pornohdit.com
 0.0.0.0 pornohodl.xyz
@@ -1573,7 +1571,6 @@
 0.0.0.0 pornorusskoe.best
 0.0.0.0 pornos2.com
 0.0.0.0 pornosalo.com.ua
-0.0.0.0 pornoseks.world
 0.0.0.0 pornotoys.com
 0.0.0.0 pornoturkce5.online
 0.0.0.0 pornozaz86.site
