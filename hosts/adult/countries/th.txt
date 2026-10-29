@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Adult, Thailand (th)
-# Domains: 30 | Updated: 2026-10-29
+# Domains: 31 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/th.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 avsugoi.com
 0.0.0.0 avthai.org
+0.0.0.0 avthai.us.com
 0.0.0.0 bangkokadult.net
 0.0.0.0 couplestoythailand.family.blog
 0.0.0.0 dohee-th.com

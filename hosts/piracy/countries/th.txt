@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Thailand (th)
-# Domains: 19 | Updated: 2026-10-29
+# Domains: 20 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/th.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,4 +22,5 @@
 0.0.0.0 nungfree4k.com
 0.0.0.0 siamsport.co.th
 0.0.0.0 sport168.app
+0.0.0.0 sport168.asia
 0.0.0.0 sportstream.hu

@@ -11,6 +11,7 @@
 0.0.0.0 hdrezka.my
 0.0.0.0 hdrezka.pl
 0.0.0.0 ikinogo.io
+0.0.0.0 kinogo.ai
 0.0.0.0 kinogo.cc
 0.0.0.0 kinogo.my
 0.0.0.0 kinogo.org
@@ -25,7 +26,6 @@
 0.0.0.0 livetv.life
 0.0.0.0 lordfilm-hd.mirfilm.net
 0.0.0.0 lordfilm-ru0.cc
-0.0.0.0 lordfilm-smotretb.ru
 0.0.0.0 lordfilm.fi
 0.0.0.0 m.acestream.net
 0.0.0.0 sportstream365.com.w3snoop.com

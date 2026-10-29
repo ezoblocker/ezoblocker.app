@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 50,893 | Updated: 2026-10-29
+# Domains: 50,889 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12857,7 +12857,6 @@ ezpass.csc.patumpike.com
 *.f-1-whats-app.com.cn
 *.f-e-d-e-x-delivery.pages.dev
 *.f-op-whatsapp.com.cn
-*.f-p-w-whatsapp.com.cn
 *.f-w-hatsapp.com.cn
 *.f-wh-atsapp.com.cn
 *.f-wha-tsapp.com.cn
@@ -16473,6 +16472,7 @@ hjhjhj.hjkkjjk.workers.dev
 *.hk-whatsaspp-nbr.hk.cn
 *.hk-whatsaspp-qec.hk.cn
 *.hk-whatsaspp-rly.hk.cn
+*.hk-whatsaspp-rtg.hk.cn
 *.hk-whatsaspp-snk.hk.cn
 *.hk-whatsaspp-tbw.hk.cn
 *.hk-whatsaspp-vhc.hk.cn
@@ -30521,7 +30521,6 @@ myhermes.ryftcustomers.ir
 *.n-ldger-start-auth.pages.dev
 *.n-live-ledgr.pages.dev
 *.n-ndax-login.pages.dev
-*.n-o-p-whatsapp.com.cn
 *.n-trzor-bridg.pages.dev
 *.n-us-desktop-ledgr.pages.dev
 *.n0-z-w-hatsapp.com.cn
@@ -31146,7 +31145,6 @@ netflix-account-verification.fanduelsporrtsnetwork.com
 *.netflix-cloudflare-host.pages.dev
 *.netflix-com-br.pages.dev
 *.netflix-cq1.pages.dev
-*.netflix-customer-activation-logon-verify.ph
 *.netflix-device-support.ph
 *.netflix-ehb.pages.dev
 netflix-family-web.a282900630202.workers.dev
@@ -34589,7 +34587,6 @@ pusat-bantuan-tokopedia.magr.web.id
 *.pz-whats-app.com.cn
 *.pzh-whats-app.com.cn
 *.pzz-whatsapp.com.cn
-*.q-g-k-whatsapp.com.cn
 *.q-wh-atsapp.com.cn
 *.q-wha-tsapp.com.cn
 *.q-what-sapp.com.cn
@@ -41991,7 +41988,6 @@ to-starts.midasgamers.workers.dev
 *.tokinim-cdn76-hkj.xyz
 *.tokinim-cdng-hkj.lol
 *.toknevim-cdn-hk01.rest
-*.toknevim-cdn-hk5.lol
 *.toknevim-cdn-hk8.cfd
 *.tokopedia-alibaba.ph
 *.tokopedia-belanja-online.pages.dev

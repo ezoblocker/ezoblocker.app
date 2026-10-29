@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,192 | Updated: 2026-10-29
+# Domains: 1,211 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -48,7 +48,9 @@
 0.0.0.0 arabchat.base44.app
 0.0.0.0 arabchat.mobi
 0.0.0.0 arabchatting.com
+0.0.0.0 arad.abcescorte.com
 0.0.0.0 argentina.zonacitas.com
+0.0.0.0 arges.abcescorte.com
 0.0.0.0 ashleymadison.com
 0.0.0.0 asiandating.com
 0.0.0.0 askaichat.app
@@ -67,6 +69,7 @@
 0.0.0.0 austriaescort.at
 0.0.0.0 auth.adultforce.com
 0.0.0.0 azarlive.com
+0.0.0.0 bacau.abcescorte.com
 0.0.0.0 backpage.cam
 0.0.0.0 backpagegals.com
 0.0.0.0 bacolodph.assortlist.com
@@ -93,6 +96,7 @@
 0.0.0.0 betrouwbaredatingsites.nl
 0.0.0.0 bharatmatrimony.com
 0.0.0.0 bharatmatrimony.in
+0.0.0.0 bihor.abcescorte.com
 0.0.0.0 birmingham-uk.bonepage.com
 0.0.0.0 birmingham.bonepage.com
 0.0.0.0 birmingham.chaosads.co.uk
@@ -108,6 +112,7 @@
 0.0.0.0 bolohub-call-video-chat.softonic.nl
 0.0.0.0 bookgaigoi3.cloud
 0.0.0.0 bookgaigoi4.cloud
+0.0.0.0 bookgaigoi5.cloud
 0.0.0.0 booking.appointy.com
 0.0.0.0 botosani.abcescorte.com
 0.0.0.0 botosani.escortes.ro
@@ -325,6 +330,7 @@
 0.0.0.0 econatura-relax-chile.ueniweb.com
 0.0.0.0 edmonton.bonepage.com
 0.0.0.0 eentijuana.catalog.to
+0.0.0.0 egeveze.com
 0.0.0.0 eharmony.ca
 0.0.0.0 eharmony.co.uk
 0.0.0.0 eharmony.com
@@ -414,6 +420,7 @@
 0.0.0.0 eylulsohbet.net
 0.0.0.0 f5oob2a6yj592gqy.e-creditreform.si
 0.0.0.0 faceflow.com
+0.0.0.0 family.justalk.com
 0.0.0.0 faq.benesse.co.jp
 0.0.0.0 faq.nisshinfire.co.jp
 0.0.0.0 fargo-moorhead.bonepage.com
@@ -475,6 +482,7 @@
 0.0.0.0 geveze.name
 0.0.0.0 geveze.org
 0.0.0.0 gevezesohbet.chat
+0.0.0.0 gevezesohbet.com
 0.0.0.0 gevezeyeri.com
 0.0.0.0 ghaziabad.cherrygirls.net
 0.0.0.0 giant-stoixima-apg.aestheticon.gr
@@ -532,6 +540,7 @@
 0.0.0.0 iasi.abcescorte.com
 0.0.0.0 iasi.escortepubli.com
 0.0.0.0 ie.xtonight.com
+0.0.0.0 ike.okasan.net
 0.0.0.0 in.loquovip.com
 0.0.0.0 in.seekerpleasure.com
 0.0.0.0 in.zuli.in
@@ -579,6 +588,7 @@
 0.0.0.0 kambichat.chatovod.com
 0.0.0.0 karachi.nightgirlservice.com
 0.0.0.0 karachichatroom.net
+0.0.0.0 karachiescorts.com
 0.0.0.0 kariyerpanel.com
 0.0.0.0 kaufmich-poppen.de
 0.0.0.0 kaufmich.com
@@ -719,6 +729,7 @@
 0.0.0.0 mx.loquovip.com
 0.0.0.0 mx.pander.pro
 0.0.0.0 mx.sustitutas.com
+0.0.0.0 my-local-escorts.co.uk
 0.0.0.0 my386751-jabatan-pendaftaran-negara-kota-kinabalu-sabah.contact.page
 0.0.0.0 myegyptchat.com
 0.0.0.0 myhoneychat.com
@@ -790,6 +801,7 @@
 0.0.0.0 opview87.com
 0.0.0.0 opviewko.com
 0.0.0.0 orange-county.bonepage.com
+0.0.0.0 orlando.bonepage.com
 0.0.0.0 osaka.chance.chat
 0.0.0.0 osaka.chatlady-mint.com
 0.0.0.0 osaka.club-valentine.com
@@ -818,6 +830,7 @@
 0.0.0.0 pek.zelliey.com
 0.0.0.0 pekanbaru.putrispa.com
 0.0.0.0 pembepanjur.com
+0.0.0.0 perfectescorts-app.perfectescorts.net
 0.0.0.0 perm.5intim.com
 0.0.0.0 perth.5escorts.com
 0.0.0.0 perth.bonepage.com
@@ -918,6 +931,7 @@
 0.0.0.0 scambistipercaso.it
 0.0.0.0 scarletblue.com.au
 0.0.0.0 schauspielhaus-graz.buehnen-graz.com
+0.0.0.0 schweiz.inserate.gratis
 0.0.0.0 scorts.elfaroprepago.cl
 0.0.0.0 scruff.com
 0.0.0.0 seeking.com
@@ -952,6 +966,7 @@
 0.0.0.0 shagle.tv
 0.0.0.0 shemaleclub.uk
 0.0.0.0 siberalem.com
+0.0.0.0 sibiu.abcescorte.com
 0.0.0.0 silverlove.com
 0.0.0.0 silversingles.com
 0.0.0.0 simpleescort.com
@@ -999,12 +1014,14 @@
 0.0.0.0 sohbetx.net
 0.0.0.0 sohbetyeri.com.tr
 0.0.0.0 sohbetyeri.net
+0.0.0.0 sosyalgeveze.net
 0.0.0.0 south-carolina.bonepage.com
 0.0.0.0 southafricancupid.com
 0.0.0.0 soyle.net
 0.0.0.0 spinchat.com
 0.0.0.0 springfield.bonepage.com
 0.0.0.0 staging.elkford.ca
+0.0.0.0 star-escorthk.com
 0.0.0.0 starbackpage.com
 0.0.0.0 stnnsh.ivocaruso.it
 0.0.0.0 story.s-oil.com
@@ -1013,6 +1030,7 @@
 0.0.0.0 strangerline.io
 0.0.0.0 strangermeetup.com
 0.0.0.0 strangerschat.in
+0.0.0.0 strangertalk.in
 0.0.0.0 stronyrandkowe.pl
 0.0.0.0 subdomainfinder.c99.nl
 0.0.0.0 subicph.assortlist.com
@@ -1191,6 +1209,7 @@
 0.0.0.0 zap.struckd.com
 0.0.0.0 zaporojskiy-chat.fosite.ru
 0.0.0.0 zcheckerviet.com
+0.0.0.0 zcheckerviet.net
 0.0.0.0 zcheckerviet.vip
 0.0.0.0 znakomstva.ru
 0.0.0.0 znamost.cz

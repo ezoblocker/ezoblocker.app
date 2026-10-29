@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 999 | Updated: 2026-10-29
+# Domains: 1,018 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -127,6 +127,7 @@ browse.tonton.com.my
 *.cakhiatv.fit
 *.cakhiatvc.group
 *.cakhiaxs.tv
+*.cakhiazbp.tv
 *.canlimacizlet.altervista.org
 *.cb01.channel
 *.cb01official.uno
@@ -175,6 +176,7 @@ cz.opdeb.com
 *.darkino.fr
 db.iptv.blog
 *.ddizibox.com
+*.ddizibox.net
 *.ddownloads.org
 *.dekoora.store
 *.descargardixmax.com
@@ -199,7 +201,10 @@ directory.acci.gr
 *.dizigom.li
 *.diziizle.click
 *.diziizle.wiki
+*.dizilab.cc
 *.dizilab.to
+*.dizipaliptv.com.tr
+*.dizipalorjinal18.com
 *.diziyou.info
 *.diziyou.one
 *.diziyou.vip
@@ -229,6 +234,7 @@ ekino-tv.sugester.pl
 *.elitetorrent.world
 *.enpelisplus.com
 entertainment.iid.co.jp
+estonia.klaudiasimiot.pl
 *.eurostreaming-nuovo-indirizzo.com
 *.eyasflix.com
 *.famemma.tv
@@ -263,6 +269,7 @@ fishing.adcomm.kr
 *.flixmovie.xyz
 *.fmoviee.app
 *.fmoviezs.top
+*.footballbet.gr
 *.footybite.boats
 *.footybite.com.co
 *.footybite.cyou
@@ -283,6 +290,7 @@ fishing.adcomm.kr
 *.freeshot.it
 *.freesport.com
 *.freesportscap.com
+*.french-stream.study
 french.visitkorea.or.kr
 ftp.wpc.or.kr
 *.fullfilmizle.fit
@@ -432,6 +440,7 @@ jateng.bulat.co.id
 *.jestyayin.org
 *.jestyayingiris11.xyz
 *.jetfilmizle.now
+*.jetfilmizle.wiki
 *.jkanime.ro
 *.jkanime.surf
 jobboard.simplifaster.com
@@ -448,6 +457,7 @@ katei.labo.jp
 *.kickzone.click
 *.kickzone.in
 *.kingsmanga.net
+*.kinogo.ai
 *.kinogo.cc
 *.kinogo.is
 *.kinogo.my
@@ -533,6 +543,7 @@ live.pcb.com.pk
 *.livesport.ws
 *.livesportsbay.com
 *.livesportsontv.com
+*.livesporttv.com
 *.livetv.club
 *.livetv.fr
 *.livetv.life
@@ -541,7 +552,6 @@ llsflwjo.riverpeak.lat
 *.locopelis.com
 lordfilm-hd.mirfilm.net
 *.lordfilm-ru0.cc
-*.lordfilm-smotretb.ru
 *.lordfilm.fi
 *.lordfilms.pub
 *.lordfilms.pw
@@ -604,6 +614,7 @@ mooreok.govbuilt.com
 *.muayded789.com
 *.multicanaisbr.com
 *.multicanaishdtv.com.br
+museum.slavgorod.ru
 mxhomy556.nettoyagereunion.re
 *.mycima-official.bitbucket.io
 *.mycima.watch
@@ -746,6 +757,7 @@ refer.yasso.com
 *.repelisplus24.cam
 *.repelispluss.lat
 *.repeliss.live
+*.rfilmizle.com
 *.rojadirect.best
 *.rojadirecta.cash
 *.rojadirecta.cloud
@@ -806,6 +818,7 @@ sp.supercell.jp
 spolecznosc.payload.pl
 sport.sky.ch
 *.sport168.app
+*.sport168.asia
 *.sportlive24.tv
 *.sportonline.cz
 sports-cricket-live-live-cricket-tv1.apk.cafe
@@ -830,6 +843,7 @@ start.sportdigital.de
 *.streameasttop.com
 *.streamed.cyou
 streamfab.dvdfab.fr
+*.streamingcommunityz.rip
 *.streamkiste.al
 *.streamonsport.blog
 *.streamonsport.lat
@@ -869,6 +883,7 @@ t.matec.kr
 *.tarjetarojaonline.pro
 *.tarjetarojaonlineinfo.site
 *.tarjetarojatv.mobi
+*.tarjetarojatvenvivo.me
 *.tarjetarojatvhd.live
 *.tarjetarojatvhd.me
 *.tarjetarojatvlive.pl
@@ -918,11 +933,14 @@ tv.sfl.ch
 *.ufilmizle.com
 ultra-realistic-mod.apk.cafe
 *.ultrafilmizle.org
+usek-website-dev-h4gzccerh0gyeuf8.a02.azurefd.net
 *.usenet1.de
 *.usenetreviewz.com
 *.v2-sportsurge.buzz
+v5.animelib.org
 vegamovies.gt.tc
 *.vegasportsnetwork.com
+vendas.falenet.com.br
 video.fanstream.jp
 video.mediaio.net
 video.tunefab.jp
@@ -980,6 +998,7 @@ www2.gema.org
 *.xoilactvbm.cc
 *.xoilactvttbdg.tv
 *.xoilacvba.tv
+*.xoilacvbc.tv
 *.xoilacvbe.tv
 *.xoilacvn.app
 *.xoilacvn.net

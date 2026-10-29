@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Japan (jp)
-# Domains: 51 | Updated: 2026-10-29
+# Domains: 52 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,6 +22,7 @@
 0.0.0.0 hitoduma.derikura.com
 0.0.0.0 honeychat.app
 0.0.0.0 honeychat.bot
+0.0.0.0 ike.okasan.net
 0.0.0.0 liver.doneru.jp
 0.0.0.0 lp.yoom.fun
 0.0.0.0 machicon.um-club.jp

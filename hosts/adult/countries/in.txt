@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, India (in)
-# Domains: 49 | Updated: 2026-10-29
+# Domains: 50 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/in.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 cupidbaba.com
 0.0.0.0 delighttoys.in
 0.0.0.0 desi49.deals
+0.0.0.0 desidekho2.watch
 0.0.0.0 desihoes.com
 0.0.0.0 desikaka2.watch
 0.0.0.0 desimaza.stream

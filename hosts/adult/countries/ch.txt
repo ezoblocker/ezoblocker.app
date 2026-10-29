@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Switzerland (ch)
-# Domains: 53 | Updated: 2026-10-29
+# Domains: 54 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ch.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -32,6 +32,7 @@
 0.0.0.0 lady-mary.ch
 0.0.0.0 loveiu.ch
 0.0.0.0 lovers.rs
+0.0.0.0 lovesexshop.no
 0.0.0.0 lust24.ch
 0.0.0.0 maennerzone.com
 0.0.0.0 meaculpa.ch

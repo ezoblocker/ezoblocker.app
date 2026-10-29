@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Italy (it)
-# Domains: 10 | Updated: 2026-10-29
+# Domains: 11 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/it.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,4 +13,5 @@
 0.0.0.0 guardaserie.foo
 0.0.0.0 mangaeden.org
 0.0.0.0 pezzottoiptv.com
+0.0.0.0 streamingcommunityz.rip
 0.0.0.0 toonitalia.space

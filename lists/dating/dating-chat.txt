@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 395 | Updated: 2026-10-29
+# Domains: 397 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -161,6 +161,7 @@ events.canberra.com.au
 *.evinsohbet.com
 f5oob2a6yj592gqy.e-creditreform.si
 *.faceflow.com
+family.justalk.com
 filmora.wondershare.com.ru
 *.flingster.com
 *.flirtchat.ch
@@ -344,6 +345,7 @@ stnnsh.ivocaruso.it
 *.strangerline.io
 *.strangermeetup.com
 *.strangerschat.in
+*.strangertalk.in
 subdomainfinder.c99.nl
 *.supermekan.com
 *.svenskacams.se

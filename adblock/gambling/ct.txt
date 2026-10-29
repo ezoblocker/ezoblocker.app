@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, ct
-! Domains: 396,822 | Updated: 2026-10-29
+! Domains: 396,820 | Updated: 2026-10-29
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -78757,7 +78757,6 @@
 ||casino-kcl.top^
 ||casino-keine-verifizierung.de^
 ||casino-kent-2026amp.ru^
-||casino-kent-amp3.ru^
 ||casino-kent-ru.bond^
 ||casino-kent-ru.click^
 ||casino-kent-ru.cyou^
@@ -146532,7 +146531,6 @@
 ||fanduel.ws^
 ||fanduel2.pages.dev^
 ||fanduelcanada.live^
-||fanduelcasino.app^
 ||fanduelcasino.kr^
 ||fanduelcasino.us.org^
 ||fanduelprize.com^
@@ -319682,6 +319680,7 @@
 ||slotgacor777.info^
 ||slotgacor777.me^
 ||slotgacor777.pages.dev^
+||slotgacor777.pro^
 ||slotgacor777.wiki^
 ||slotgacor7777.pages.dev^
 ||slotgacor777amp.pages.dev^
@@ -369668,7 +369667,6 @@
 ||vegastars-casino-ca.ca^
 ||vegastars-casino-nz.com^
 ||vegastars-casino-nz.net^
-||vegastars-casino-online-au.com^
 ||vegastars-casino-online-ca.pages.dev^
 ||vegastars-casino.cc^
 ||vegastars-casino.eu.com^

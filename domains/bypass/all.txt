@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 171 | Updated: 2026-10-29
+# Domains: 173 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -69,6 +69,7 @@ ktunneli.com
 learn.totem-project.org
 lifestyle.assist-all.co.jp
 lightningproxies.net
+m.3smedi.co.kr
 maturita.cermat.cz
 mirror.dkm.cz
 momoproxy.com
@@ -156,6 +157,7 @@ unblockvideos.com
 unblockyoutube.enic.pk
 unblockyoutube.video
 v2ray-macos-arm64-v8a.zip
+versilama.budaya-indonesia.org
 vpn-colombia-free-vpn-proxy-and-secure-vpn-unblock.apkgold.es
 vpn-proxy-master.en.softmany.com
 vpn.365finds.com

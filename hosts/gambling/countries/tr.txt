@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 202 | Updated: 2026-10-29
+# Domains: 209 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 0.0.0.0 41betmatik.com
 0.0.0.0 805piabet.com
 0.0.0.0 abruzzo.fibrosicistica.it
+0.0.0.0 albenga.youngengineers.org
 0.0.0.0 anadolucasino.blog
 0.0.0.0 anadolucasinoblog2.com
 0.0.0.0 antalya-korkuteli.chp.org.tr
@@ -57,6 +58,7 @@
 0.0.0.0 bonusgadar.com
 0.0.0.0 bonusgostar.com
 0.0.0.0 bonushiyar.com
+0.0.0.0 bonuskaplani.com
 0.0.0.0 bonuskiyisi.com
 0.0.0.0 bonuskoyde.com
 0.0.0.0 bonuskultur.com
@@ -64,6 +66,7 @@
 0.0.0.0 bonusrehberi.org
 0.0.0.0 bonussokagi.com
 0.0.0.0 bonussultani.com
+0.0.0.0 bonusyelpazesi.com
 0.0.0.0 canlibahiskazan.org
 0.0.0.0 canlicasino.im
 0.0.0.0 casibom-yeniadres.vip
@@ -71,6 +74,7 @@
 0.0.0.0 casinobonuscodes.nl
 0.0.0.0 casinomaxigir1.com
 0.0.0.0 celtabet.com.tr
+0.0.0.0 chromabeads.co.uk
 0.0.0.0 cmd368super.com
 0.0.0.0 croatia-bonusesfinder.com
 0.0.0.0 cybetic.com
@@ -111,6 +115,7 @@
 0.0.0.0 m.wi.borderlandsbrewing.com
 0.0.0.0 m.ws.christostogo.com
 0.0.0.0 maltcasino.cc
+0.0.0.0 mamabirthandbaby.co.uk
 0.0.0.0 marsbahis-bery.vip
 0.0.0.0 marsbahis-hippo.vip
 0.0.0.0 marsbahis-nico.vip
@@ -144,6 +149,8 @@
 0.0.0.0 paribahis.com
 0.0.0.0 parsecawards.com
 0.0.0.0 perabet-giris.net
+0.0.0.0 perabet1324.com
+0.0.0.0 perabet99.com
 0.0.0.0 piabet.org
 0.0.0.0 piegaming.com
 0.0.0.0 pinbahisgiris.site

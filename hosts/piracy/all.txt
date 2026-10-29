@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 999 | Updated: 2026-10-29
+# Domains: 1,018 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -127,6 +127,7 @@
 0.0.0.0 cakhiatv.fit
 0.0.0.0 cakhiatvc.group
 0.0.0.0 cakhiaxs.tv
+0.0.0.0 cakhiazbp.tv
 0.0.0.0 canlimacizlet.altervista.org
 0.0.0.0 cb01.channel
 0.0.0.0 cb01official.uno
@@ -175,6 +176,7 @@
 0.0.0.0 darkino.fr
 0.0.0.0 db.iptv.blog
 0.0.0.0 ddizibox.com
+0.0.0.0 ddizibox.net
 0.0.0.0 ddownloads.org
 0.0.0.0 dekoora.store
 0.0.0.0 descargardixmax.com
@@ -199,7 +201,10 @@
 0.0.0.0 dizigom.li
 0.0.0.0 diziizle.click
 0.0.0.0 diziizle.wiki
+0.0.0.0 dizilab.cc
 0.0.0.0 dizilab.to
+0.0.0.0 dizipaliptv.com.tr
+0.0.0.0 dizipalorjinal18.com
 0.0.0.0 diziyou.info
 0.0.0.0 diziyou.one
 0.0.0.0 diziyou.vip
@@ -229,6 +234,7 @@
 0.0.0.0 elitetorrent.world
 0.0.0.0 enpelisplus.com
 0.0.0.0 entertainment.iid.co.jp
+0.0.0.0 estonia.klaudiasimiot.pl
 0.0.0.0 eurostreaming-nuovo-indirizzo.com
 0.0.0.0 eyasflix.com
 0.0.0.0 famemma.tv
@@ -263,6 +269,7 @@
 0.0.0.0 flixmovie.xyz
 0.0.0.0 fmoviee.app
 0.0.0.0 fmoviezs.top
+0.0.0.0 footballbet.gr
 0.0.0.0 footybite.boats
 0.0.0.0 footybite.com.co
 0.0.0.0 footybite.cyou
@@ -283,6 +290,7 @@
 0.0.0.0 freeshot.it
 0.0.0.0 freesport.com
 0.0.0.0 freesportscap.com
+0.0.0.0 french-stream.study
 0.0.0.0 french.visitkorea.or.kr
 0.0.0.0 ftp.wpc.or.kr
 0.0.0.0 fullfilmizle.fit
@@ -432,6 +440,7 @@
 0.0.0.0 jestyayin.org
 0.0.0.0 jestyayingiris11.xyz
 0.0.0.0 jetfilmizle.now
+0.0.0.0 jetfilmizle.wiki
 0.0.0.0 jkanime.ro
 0.0.0.0 jkanime.surf
 0.0.0.0 jobboard.simplifaster.com
@@ -448,6 +457,7 @@
 0.0.0.0 kickzone.click
 0.0.0.0 kickzone.in
 0.0.0.0 kingsmanga.net
+0.0.0.0 kinogo.ai
 0.0.0.0 kinogo.cc
 0.0.0.0 kinogo.is
 0.0.0.0 kinogo.my
@@ -533,6 +543,7 @@
 0.0.0.0 livesport.ws
 0.0.0.0 livesportsbay.com
 0.0.0.0 livesportsontv.com
+0.0.0.0 livesporttv.com
 0.0.0.0 livetv.club
 0.0.0.0 livetv.fr
 0.0.0.0 livetv.life
@@ -541,7 +552,6 @@
 0.0.0.0 locopelis.com
 0.0.0.0 lordfilm-hd.mirfilm.net
 0.0.0.0 lordfilm-ru0.cc
-0.0.0.0 lordfilm-smotretb.ru
 0.0.0.0 lordfilm.fi
 0.0.0.0 lordfilms.pub
 0.0.0.0 lordfilms.pw
@@ -604,6 +614,7 @@
 0.0.0.0 muayded789.com
 0.0.0.0 multicanaisbr.com
 0.0.0.0 multicanaishdtv.com.br
+0.0.0.0 museum.slavgorod.ru
 0.0.0.0 mxhomy556.nettoyagereunion.re
 0.0.0.0 mycima-official.bitbucket.io
 0.0.0.0 mycima.watch
@@ -746,6 +757,7 @@
 0.0.0.0 repelisplus24.cam
 0.0.0.0 repelispluss.lat
 0.0.0.0 repeliss.live
+0.0.0.0 rfilmizle.com
 0.0.0.0 rojadirect.best
 0.0.0.0 rojadirecta.cash
 0.0.0.0 rojadirecta.cloud
@@ -806,6 +818,7 @@
 0.0.0.0 spolecznosc.payload.pl
 0.0.0.0 sport.sky.ch
 0.0.0.0 sport168.app
+0.0.0.0 sport168.asia
 0.0.0.0 sportlive24.tv
 0.0.0.0 sportonline.cz
 0.0.0.0 sports-cricket-live-live-cricket-tv1.apk.cafe
@@ -830,6 +843,7 @@
 0.0.0.0 streameasttop.com
 0.0.0.0 streamed.cyou
 0.0.0.0 streamfab.dvdfab.fr
+0.0.0.0 streamingcommunityz.rip
 0.0.0.0 streamkiste.al
 0.0.0.0 streamonsport.blog
 0.0.0.0 streamonsport.lat
@@ -869,6 +883,7 @@
 0.0.0.0 tarjetarojaonline.pro
 0.0.0.0 tarjetarojaonlineinfo.site
 0.0.0.0 tarjetarojatv.mobi
+0.0.0.0 tarjetarojatvenvivo.me
 0.0.0.0 tarjetarojatvhd.live
 0.0.0.0 tarjetarojatvhd.me
 0.0.0.0 tarjetarojatvlive.pl
@@ -918,11 +933,14 @@
 0.0.0.0 ufilmizle.com
 0.0.0.0 ultra-realistic-mod.apk.cafe
 0.0.0.0 ultrafilmizle.org
+0.0.0.0 usek-website-dev-h4gzccerh0gyeuf8.a02.azurefd.net
 0.0.0.0 usenet1.de
 0.0.0.0 usenetreviewz.com
 0.0.0.0 v2-sportsurge.buzz
+0.0.0.0 v5.animelib.org
 0.0.0.0 vegamovies.gt.tc
 0.0.0.0 vegasportsnetwork.com
+0.0.0.0 vendas.falenet.com.br
 0.0.0.0 video.fanstream.jp
 0.0.0.0 video.mediaio.net
 0.0.0.0 video.tunefab.jp
@@ -980,6 +998,7 @@
 0.0.0.0 xoilactvbm.cc
 0.0.0.0 xoilactvttbdg.tv
 0.0.0.0 xoilacvba.tv
+0.0.0.0 xoilacvbc.tv
 0.0.0.0 xoilacvbe.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net

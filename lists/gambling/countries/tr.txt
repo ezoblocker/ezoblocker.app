@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 202 | Updated: 2026-10-29
+# Domains: 209 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 *.41betmatik.com
 *.805piabet.com
 abruzzo.fibrosicistica.it
+albenga.youngengineers.org
 *.anadolucasino.blog
 *.anadolucasinoblog2.com
 antalya-korkuteli.chp.org.tr
@@ -57,6 +58,7 @@ antalya-korkuteli.chp.org.tr
 *.bonusgadar.com
 *.bonusgostar.com
 *.bonushiyar.com
+*.bonuskaplani.com
 *.bonuskiyisi.com
 *.bonuskoyde.com
 *.bonuskultur.com
@@ -64,6 +66,7 @@ antalya-korkuteli.chp.org.tr
 *.bonusrehberi.org
 *.bonussokagi.com
 *.bonussultani.com
+*.bonusyelpazesi.com
 *.canlibahiskazan.org
 *.canlicasino.im
 *.casibom-yeniadres.vip
@@ -71,6 +74,7 @@ antalya-korkuteli.chp.org.tr
 *.casinobonuscodes.nl
 *.casinomaxigir1.com
 *.celtabet.com.tr
+*.chromabeads.co.uk
 *.cmd368super.com
 *.croatia-bonusesfinder.com
 *.cybetic.com
@@ -111,6 +115,7 @@ m.north.maxilashboston.com
 m.wi.borderlandsbrewing.com
 m.ws.christostogo.com
 *.maltcasino.cc
+*.mamabirthandbaby.co.uk
 *.marsbahis-bery.vip
 *.marsbahis-hippo.vip
 *.marsbahis-nico.vip
@@ -144,6 +149,8 @@ online.hubbardcity.com
 *.paribahis.com
 *.parsecawards.com
 *.perabet-giris.net
+*.perabet1324.com
+*.perabet99.com
 *.piabet.org
 *.piegaming.com
 *.pinbahisgiris.site

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 372 | Updated: 2026-10-29
+# Domains: 380 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -33,6 +33,7 @@
 0.0.0.0 cakhiatv.fit
 0.0.0.0 cakhiatvc.group
 0.0.0.0 cakhiaxs.tv
+0.0.0.0 cakhiazbp.tv
 0.0.0.0 canlimacizlet.altervista.org
 0.0.0.0 cepi.cb.ce.gov.br
 0.0.0.0 cityofsurrey.perfectmind.com
@@ -59,11 +60,13 @@
 0.0.0.0 edu.gebbs.com
 0.0.0.0 elbotola.com
 0.0.0.0 eliteboxing.com.ph
+0.0.0.0 estonia.klaudiasimiot.pl
 0.0.0.0 famemma.tv
 0.0.0.0 fankoora.biz
 0.0.0.0 filmora.wondershare.kr
 0.0.0.0 firstrows.net
 0.0.0.0 firstrowsports.be
+0.0.0.0 footballbet.gr
 0.0.0.0 footybite.boats
 0.0.0.0 footybite.com.co
 0.0.0.0 footybite.cyou
@@ -183,6 +186,7 @@
 0.0.0.0 livesport.ws
 0.0.0.0 livesportsbay.com
 0.0.0.0 livesportsontv.com
+0.0.0.0 livesporttv.com
 0.0.0.0 livetv.club
 0.0.0.0 livetv.fr
 0.0.0.0 livetv.life
@@ -257,6 +261,7 @@
 0.0.0.0 sp.supercell.jp
 0.0.0.0 sport.sky.ch
 0.0.0.0 sport168.app
+0.0.0.0 sport168.asia
 0.0.0.0 sportlive24.tv
 0.0.0.0 sportonline.cz
 0.0.0.0 sports-cricket-live-live-cricket-tv1.apk.cafe
@@ -313,6 +318,7 @@
 0.0.0.0 tarjetarojaonline.pro
 0.0.0.0 tarjetarojaonlineinfo.site
 0.0.0.0 tarjetarojatv.mobi
+0.0.0.0 tarjetarojatvenvivo.me
 0.0.0.0 tarjetarojatvhd.live
 0.0.0.0 tarjetarojatvhd.me
 0.0.0.0 tarjetarojatvlive.pl
@@ -336,6 +342,7 @@
 0.0.0.0 tv.sfl.ch
 0.0.0.0 v2-sportsurge.buzz
 0.0.0.0 vegasportsnetwork.com
+0.0.0.0 vendas.falenet.com.br
 0.0.0.0 video.fanstream.jp
 0.0.0.0 viet.jajag.me
 0.0.0.0 vipbox1.com
@@ -358,6 +365,7 @@
 0.0.0.0 xoilactvbm.cc
 0.0.0.0 xoilactvttbdg.tv
 0.0.0.0 xoilacvba.tv
+0.0.0.0 xoilacvbc.tv
 0.0.0.0 xoilacvbe.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net

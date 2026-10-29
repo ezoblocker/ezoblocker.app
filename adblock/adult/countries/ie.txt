@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Ireland (ie)
-! Domains: 34 | Updated: 2026-10-29
+! Domains: 37 | Updated: 2026-10-29
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/ie.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,6 +12,8 @@
 |cantonese.sheik.co.uk^
 ||chaturbate.com.es^
 ||desirel.ie^
+||dokidokifursuit.com^
+||dublintown.ie^
 ||en-cam4-us.com^
 ||guardianbikes.com^
 ||hotfrog.ie^
@@ -21,6 +23,7 @@
 ||lovesexshop.ie^
 ||lovetoyshopper.com^
 ||mariesuelingerie.ie^
+||meowfursuits.com^
 ||missfantasia.ie^
 ||missmary.com^
 ||musiccognition.science^

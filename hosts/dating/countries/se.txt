@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Sweden (se)
-# Domains: 13 | Updated: 2026-10-29
+# Domains: 14 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/se.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 0.0.0.0 chattanu.com
 0.0.0.0 dmboduvm2fku.leshuheka.blog
 0.0.0.0 enterchatroom.com
+0.0.0.0 family.justalk.com
 0.0.0.0 frageladan.isof.se
 0.0.0.0 happypancake.se
 0.0.0.0 motesplatsen.se

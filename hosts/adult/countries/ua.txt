@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Ukraine (ua)
-# Domains: 31 | Updated: 2026-10-29
+# Domains: 32 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ua.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@
 0.0.0.0 anonimshop.com
 0.0.0.0 big-toys.com.ua
 0.0.0.0 eros.com.ua
+0.0.0.0 esexshop.com.ua
 0.0.0.0 insideshop.com.ua
 0.0.0.0 kazanova.ua
 0.0.0.0 l-shop.ua

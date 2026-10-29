@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, Colombia (co)
-! Domains: 34 | Updated: 2026-10-29
+! Domains: 35 | Updated: 2026-10-29
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/countries/co.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -33,6 +33,7 @@
 ||tarjetarojaonline.pro^
 ||tarjetarojaonlineinfo.site^
 ||tarjetarojatv.mobi^
+||tarjetarojatvenvivo.me^
 ||tarjetarojatvhd.me^
 ||tarjetarojatvlive.pl^
 ||tarjetarojatvonline.site^

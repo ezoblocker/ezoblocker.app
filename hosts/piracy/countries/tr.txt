@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Türkiye (tr)
-# Domains: 95 | Updated: 2026-10-29
+# Domains: 102 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 0.0.0.0 apkdayi.com
 0.0.0.0 canlimacizlet.altervista.org
 0.0.0.0 ddizibox.com
+0.0.0.0 ddizibox.net
 0.0.0.0 diziasya.com
 0.0.0.0 dizibox.com.tr
 0.0.0.0 dizibox.live
@@ -18,7 +19,10 @@
 0.0.0.0 dizigom.icu
 0.0.0.0 dizigom.li
 0.0.0.0 diziizle.click
+0.0.0.0 dizilab.cc
 0.0.0.0 dizilab.to
+0.0.0.0 dizipaliptv.com.tr
+0.0.0.0 dizipalorjinal18.com
 0.0.0.0 diziyou.info
 0.0.0.0 diziyou.one
 0.0.0.0 diziyou.vip
@@ -52,6 +56,7 @@
 0.0.0.0 hintfilmizle.com
 0.0.0.0 jestyayin.org
 0.0.0.0 jetfilmizle.now
+0.0.0.0 jetfilmizle.wiki
 0.0.0.0 justintv.co
 0.0.0.0 justintvizle735.top
 0.0.0.0 justintvizlesene.com
@@ -64,6 +69,7 @@
 0.0.0.0 minidiziizle.com
 0.0.0.0 mp3indirdur.com.tr
 0.0.0.0 mp3indirdur.pro
+0.0.0.0 museum.slavgorod.ru
 0.0.0.0 netspor.co
 0.0.0.0 netsporhd10.cc
 0.0.0.0 netsportv34.pro
@@ -73,6 +79,7 @@
 0.0.0.0 pdfkitapkurdu.blogspot.com
 0.0.0.0 pdfkitapoku.org
 0.0.0.0 plusfilmizle.com
+0.0.0.0 rfilmizle.com
 0.0.0.0 selcuksportshd.is
 0.0.0.0 sinemafilmizle.com.tr
 0.0.0.0 sonhdfilm.net

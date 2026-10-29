@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 50,891 | Updated: 2026-10-29
+# Domains: 50,887 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12855,7 +12855,6 @@
 0.0.0.0 f-1-whats-app.com.cn
 0.0.0.0 f-e-d-e-x-delivery.pages.dev
 0.0.0.0 f-op-whatsapp.com.cn
-0.0.0.0 f-p-w-whatsapp.com.cn
 0.0.0.0 f-w-hatsapp.com.cn
 0.0.0.0 f-wh-atsapp.com.cn
 0.0.0.0 f-wha-tsapp.com.cn
@@ -16471,6 +16470,7 @@
 0.0.0.0 hk-whatsaspp-nbr.hk.cn
 0.0.0.0 hk-whatsaspp-qec.hk.cn
 0.0.0.0 hk-whatsaspp-rly.hk.cn
+0.0.0.0 hk-whatsaspp-rtg.hk.cn
 0.0.0.0 hk-whatsaspp-snk.hk.cn
 0.0.0.0 hk-whatsaspp-tbw.hk.cn
 0.0.0.0 hk-whatsaspp-vhc.hk.cn
@@ -30519,7 +30519,6 @@
 0.0.0.0 n-ldger-start-auth.pages.dev
 0.0.0.0 n-live-ledgr.pages.dev
 0.0.0.0 n-ndax-login.pages.dev
-0.0.0.0 n-o-p-whatsapp.com.cn
 0.0.0.0 n-trzor-bridg.pages.dev
 0.0.0.0 n-us-desktop-ledgr.pages.dev
 0.0.0.0 n0-z-w-hatsapp.com.cn
@@ -31144,7 +31143,6 @@
 0.0.0.0 netflix-cloudflare-host.pages.dev
 0.0.0.0 netflix-com-br.pages.dev
 0.0.0.0 netflix-cq1.pages.dev
-0.0.0.0 netflix-customer-activation-logon-verify.ph
 0.0.0.0 netflix-device-support.ph
 0.0.0.0 netflix-ehb.pages.dev
 0.0.0.0 netflix-family-web.a282900630202.workers.dev
@@ -34587,7 +34585,6 @@
 0.0.0.0 pz-whats-app.com.cn
 0.0.0.0 pzh-whats-app.com.cn
 0.0.0.0 pzz-whatsapp.com.cn
-0.0.0.0 q-g-k-whatsapp.com.cn
 0.0.0.0 q-wh-atsapp.com.cn
 0.0.0.0 q-wha-tsapp.com.cn
 0.0.0.0 q-what-sapp.com.cn
@@ -41989,7 +41986,6 @@
 0.0.0.0 tokinim-cdn76-hkj.xyz
 0.0.0.0 tokinim-cdng-hkj.lol
 0.0.0.0 toknevim-cdn-hk01.rest
-0.0.0.0 toknevim-cdn-hk5.lol
 0.0.0.0 toknevim-cdn-hk8.cfd
 0.0.0.0 tokopedia-alibaba.ph
 0.0.0.0 tokopedia-belanja-online.pages.dev

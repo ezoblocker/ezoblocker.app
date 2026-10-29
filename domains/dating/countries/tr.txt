@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Türkiye (tr)
-# Domains: 117 | Updated: 2026-10-29
+# Domains: 120 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/dating/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -29,6 +29,7 @@ coomeet.chat
 coomeet.com
 dostyeri.org
 ecift.com
+egeveze.com
 eharmony.com
 elitask.com
 elitislamievlilik.com
@@ -48,6 +49,7 @@ gercekevlilik.com
 geveze.name
 geveze.org
 gevezesohbet.chat
+gevezesohbet.com
 gevezeyeri.com
 gleeden.com
 gonuldensevenler.com
@@ -102,6 +104,7 @@ sohbetimsen.net
 sohbetsev.net
 sohbetyeri.com.tr
 sohbetyeri.net
+sosyalgeveze.net
 tamsohbet.chat
 tamsohbet.com
 tamsohbet.com.tr

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Switzerland (ch)
-# Domains: 20 | Updated: 2026-10-29
+# Domains: 25 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/ch.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,16 +10,21 @@
 0.0.0.0 cashinos.se
 0.0.0.0 casinobonusar.nu
 0.0.0.0 casinoenlignebonushub.com
+0.0.0.0 cassino-sem-licenca.com
 0.0.0.0 gambleboost.com
 0.0.0.0 gamblingtalk.net
 0.0.0.0 icar2025.it
 0.0.0.0 livecasinocomparer.com
+0.0.0.0 remoregroup.com
 0.0.0.0 saveurs-de-tosca.fr
+0.0.0.0 scommessecalciononaams.com
+0.0.0.0 sitoperscommessecalcio.com
 0.0.0.0 sportwettbueros.com
 0.0.0.0 sportwettentest.net
 0.0.0.0 strassenverkehrsamt.tg.ch
 0.0.0.0 vinnare.se
 0.0.0.0 wettanbieterschweiz.ch
+0.0.0.0 wettfreunde.net
 0.0.0.0 wildz-de.com
 0.0.0.0 wildz.group
 0.0.0.0 wildzcasino.com

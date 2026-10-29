@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Chile (cl)
-# Domains: 7 | Updated: 2026-10-29
+# Domains: 8 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/cl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 0.0.0.0 cl.tablago.com
 0.0.0.0 econatura-relax-chile.ueniweb.com
 0.0.0.0 m.relaxchile.cl
+0.0.0.0 orlando.bonepage.com
 0.0.0.0 santiago.elsilencio.cl
 0.0.0.0 scorts.elfaroprepago.cl
 0.0.0.0 skokka.com
