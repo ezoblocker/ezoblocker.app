@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 177 | Updated: 2026-10-29
+# Domains: 180 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -60,6 +60,7 @@ data.tagual.com
 dnsdelegation.io
 domain.vibetrack.com
 e.truedata.co
+edge.funneltrack.com
 edgetag.io
 emtag.net
 eu-1.tagmanagerserverside.it
@@ -141,6 +142,7 @@ stape.bg
 stape.cc
 stape.cloud
 stape.co
+stape.cy
 stape.de
 stape.do
 stape.gl
@@ -161,6 +163,7 @@ stape.pw
 stape.st
 stape.tech
 stape.vip
+stats-origin.analyze.swiss
 t.servero.io
 tacoda.net
 taggian.eu

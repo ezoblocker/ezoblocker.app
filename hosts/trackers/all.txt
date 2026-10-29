@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 693 | Updated: 2026-10-29
+# Domains: 698 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -72,6 +72,7 @@
 0.0.0.0 api.assertcom.de
 0.0.0.0 api.easytracker.digital
 0.0.0.0 api.edkt.io
+0.0.0.0 api.rudderlabs.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.webgains.io
 0.0.0.0 app-whitelabel.usermaven.com
@@ -81,6 +82,7 @@
 0.0.0.0 assets.ikhnaie.me
 0.0.0.0 at-o.net
 0.0.0.0 attntags.com
+0.0.0.0 attr.af-sdk.net
 0.0.0.0 attr.zattoo.com
 0.0.0.0 attribution.costcenter.net
 0.0.0.0 attribution.keds.com
@@ -181,6 +183,7 @@
 0.0.0.0 easym.emb-gmbh.de
 0.0.0.0 easym.energie-brandenburg.de
 0.0.0.0 easym.gasag.de
+0.0.0.0 edge.funneltrack.com
 0.0.0.0 edgetag.io
 0.0.0.0 emtag.net
 0.0.0.0 engagements.appsflyer.com
@@ -412,6 +415,7 @@
 0.0.0.0 stape.cc
 0.0.0.0 stape.cloud
 0.0.0.0 stape.co
+0.0.0.0 stape.cy
 0.0.0.0 stape.de
 0.0.0.0 stape.do
 0.0.0.0 stape.gl
@@ -433,6 +437,7 @@
 0.0.0.0 stape.tech
 0.0.0.0 stape.vip
 0.0.0.0 static.lm-tracking.com
+0.0.0.0 stats-origin.analyze.swiss
 0.0.0.0 stats.jeengweb.com
 0.0.0.0 supercent-kr-receiver.thinkingai.io
 0.0.0.0 sync-pixel.com

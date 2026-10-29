@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Ads, apps
-! Domains: 36 | Updated: 2026-10-29
+! Domains: 37 | Updated: 2026-10-29
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/ads/apps.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -21,6 +21,7 @@
 |config.ssp.taxssp.com^
 |content.offerwall.unity3d.com^
 |crackle.co.in^
+|eu.rtb.munimob123.com^
 |event-eu.ssp.taxssp.com^
 |event.ssp.taxssp.com^
 |fixfun.pareci.net^

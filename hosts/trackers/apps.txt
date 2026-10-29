@@ -1,11 +1,13 @@
 # Title: EZOBLOCKER Trackers, apps
-# Domains: 32 | Updated: 2026-10-29
+# Domains: 34 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/apps.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 a.engageminds.ai
+0.0.0.0 api.rudderlabs.com
 0.0.0.0 api.segment.io
+0.0.0.0 attr.af-sdk.net
 0.0.0.0 attribution.costcenter.net
 0.0.0.0 buusjcvujpo-pwt.donlgx.net
 0.0.0.0 cdn-settings.af-sdk.net

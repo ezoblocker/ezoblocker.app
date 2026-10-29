@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,211 | Updated: 2026-10-29
+# Domains: 1,214 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -93,6 +93,7 @@
 0.0.0.0 bedpage.com
 0.0.0.0 benoni.art-granatis.ru
 0.0.0.0 betgit-guncel.space
+0.0.0.0 betgitgiris.mobi
 0.0.0.0 betrouwbaredatingsites.nl
 0.0.0.0 bharatmatrimony.com
 0.0.0.0 bharatmatrimony.in
@@ -469,6 +470,7 @@
 0.0.0.0 gaito20.fit
 0.0.0.0 galati.abcescorte.com
 0.0.0.0 galati.escortela.net
+0.0.0.0 gama-cazino.store
 0.0.0.0 gb.banana-chat.com
 0.0.0.0 gbtcoyo.oncucamo.blog
 0.0.0.0 gelchat.net
@@ -720,6 +722,7 @@
 0.0.0.0 mobilsohbetodalari.net
 0.0.0.0 molduu9ry.nettoyagereunion.re
 0.0.0.0 monkey.app
+0.0.0.0 mostbet-official.lol
 0.0.0.0 motesplatsen.se
 0.0.0.0 muhabbet.org
 0.0.0.0 muhabbetiniz.net

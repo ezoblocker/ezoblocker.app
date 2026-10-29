@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Trackers
-! Domains: 693 | Updated: 2026-10-29
+! Domains: 698 | Updated: 2026-10-29
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/trackers/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -72,6 +72,7 @@
 ||api.assertcom.de^
 ||api.easytracker.digital^
 ||api.edkt.io^
+|api.rudderlabs.com^
 |api.segment.io^
 ||api.webgains.io^
 ||app-whitelabel.usermaven.com^
@@ -81,6 +82,7 @@
 ||assets.ikhnaie.me^
 ||at-o.net^
 ||attntags.com^
+|attr.af-sdk.net^
 ||attr.zattoo.com^
 |attribution.costcenter.net^
 ||attribution.keds.com^
@@ -181,6 +183,7 @@
 ||easym.emb-gmbh.de^
 ||easym.energie-brandenburg.de^
 ||easym.gasag.de^
+||edge.funneltrack.com^
 ||edgetag.io^
 ||emtag.net^
 |engagements.appsflyer.com^
@@ -412,6 +415,7 @@
 ||stape.cc^
 ||stape.cloud^
 ||stape.co^
+||stape.cy^
 ||stape.de^
 ||stape.do^
 ||stape.gl^
@@ -433,6 +437,7 @@
 ||stape.tech^
 ||stape.vip^
 ||static.lm-tracking.com^
+||stats-origin.analyze.swiss^
 ||stats.jeengweb.com^
 |supercent-kr-receiver.thinkingai.io^
 ||sync-pixel.com^

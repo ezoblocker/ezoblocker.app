@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 627 | Updated: 2026-10-29
+# Domains: 628 | Updated: 2026-10-29
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -282,6 +282,7 @@
 0.0.0.0 etargetcdn.com
 0.0.0.0 eu.a.viddea.com
 0.0.0.0 eu.axprtbggl.com
+0.0.0.0 eu.rtb.munimob123.com
 0.0.0.0 eu1.oraki.io
 0.0.0.0 eu2.adnetwork.agency
 0.0.0.0 ev.adswag.ai
