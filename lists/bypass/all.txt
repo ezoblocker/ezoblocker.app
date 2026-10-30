@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 173 | Updated: 2026-10-30
+# Domains: 175 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@ a.v2ray.cx
 *.adguard-dns.io
 *.adguard.com
 agriculture.gouv.ne
+anisopstal.rora-desszertmuhely.hu
 app.cyberyozh.com
 *.aproxy.com
 apt.izzysoft.de
@@ -76,6 +77,7 @@ mirror.dkm.cz
 msk.ezak.cz
 *.muaproxyvietnam.com
 *.naijaproxy.com
+*.nextdns.io
 *.novada.com
 *.noxproxy.com
 *.nsocks.com

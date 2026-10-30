@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling
-! Domains: 398,263 | Updated: 2026-10-30
+! Domains: 398,278 | Updated: 2026-10-30
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -34539,6 +34539,7 @@
 ||aviator-slotgame.com^
 ||aviator-slots.ru^
 ||aviator-slots.tr^
+||aviator-tips.com^
 ||aviator250.com^
 ||aviator7bett.com^
 ||aviator888bets.co.mz^
@@ -37903,6 +37904,7 @@
 ||barkervillecoalition.com^
 ||barmuteriacasino.com^
 ||barnevogn-test.dk^
+||barona.com^
 ||barongbetrtp.com^
 ||barongslotgacor.pages.dev^
 ||barongslotgacor2.pages.dev^
@@ -53350,6 +53352,7 @@
 ||betrt3.com^
 ||betrt4.com^
 ||betrthreatintel.com^
+||betrun304.com^
 ||betruncasino.club^
 ||betrunner-casino.de^
 ||betrunnercasino.co.uk^
@@ -65320,6 +65323,7 @@
 ||bonusgadar.com^
 ||bonusgalerabet.com^
 ||bonusgambling-casino.com^
+||bonusgazetesi.com^
 ||bonusglorycasino.com^
 ||bonusgostar.com^
 ||bonusgratuits.com^
@@ -65420,6 +65424,7 @@
 ||bonuspk.org^
 ||bonusplayslots.com^
 ||bonuspokeronline.biz^
+||bonusrafi.com^
 ||bonusratingcasino.icu^
 ||bonusrehberi.org^
 ||bonussansdepot.ca^
@@ -90989,6 +90994,7 @@
 ||casinoco.de^
 ||casinoco.in^
 ||casinoco.nl^
+||casinocoach.se^
 ||casinocobber-org.pages.dev^
 ||casinocobber.com^
 ||casinocobra-net.pages.dev^
@@ -124391,6 +124397,7 @@
 ||colosseumslots.co.uk^
 ||colosseumukcasino.co.uk^
 ||colossuscasino-uk.com^
+|colt.gosignmeup.com^
 ||coltsfanstore.com^
 ||coluckiaapuestas.com^
 ||colugabetplay.co^
@@ -126640,6 +126647,7 @@
 ||crashercasino.com.mx^
 ||crashercasino.mx^
 ||crashercasino.org^
+||crashgamescasinocanada.com^
 ||crashino-casino.co.uk^
 ||crashino-casino.cz^
 ||crashino-casino.de^
@@ -175621,6 +175629,7 @@
 ||hollandsecasinotop10.com^
 ||hollandseflashcasinos.com^
 ||holle-games-apuestas.pages.dev^
+||hollingwood.org^
 ||holliwoodcasino.mx^
 ||holly-win-casino-22.pages.dev^
 ||holly-win-casino-28.pages.dev^
@@ -201530,6 +201539,7 @@
 ||kqbdcasino.com^
 ||kqbdtaixiu.com^
 ||kqbdxocdia.com^
+|kqdksc.routeoneshoes.co.kr^
 ||kqkqcasino.com^
 ||kr15skwin.com^
 ||kr21casino.com^
@@ -246366,6 +246376,7 @@
 |najlepsze-bitcoin-kasyno-zys.rozejrzyjsie.pl^
 ||najlepsze-bonusbezdepozytu.pl^
 ||najlepszeaplikacjebukmacherskie.pl^
+||najnowszepolskiekasynoonline.com^
 ||nakedcasino.com^
 ||nakedsportsandbetting.com^
 ||nakitbahis-casino.com^
@@ -288618,6 +288629,7 @@
 ||pusulabet5018.com^
 ||pusulabet5019.com^
 ||pusulabet5020.com^
+||pusulabet5026.com^
 ||pusulabet620.net^
 ||pusulabetadresi.com^
 ||pusulabetapp6.com^
@@ -328634,6 +328646,7 @@
 ||sonbahis729.com^
 ||sonbahis732.com^
 ||sonbahis733.com^
+||sonbahis735.com^
 ||sonbahisgirislinki.live^
 ||soncasino.net^
 ||soncasino.org^
@@ -353181,6 +353194,7 @@
 ||tomicasino.at^
 ||tomicasino.co.at^
 ||tomicasinoreg.online^
+||tommypickles.cl^
 ||tomorobet4d-top.pages.dev^
 ||tomorobet77.org^
 ||tomorrowsmill.ca^
@@ -357361,6 +357375,7 @@
 ||trbet2026.net^
 ||trbet2027.com^
 ||trbet235.com^
+||trbet259.com^
 ||trbet282.com^
 ||trbet48.com^
 ||trbet599.com^

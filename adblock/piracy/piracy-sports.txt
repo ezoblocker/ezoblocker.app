@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, illegal sports streams
-! Domains: 380 | Updated: 2026-10-30
+! Domains: 383 | Updated: 2026-10-30
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/piracy-sports.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -109,6 +109,7 @@
 ||futemax99.shop^
 |geoikp.operandum-project.eu^
 |getlive.pcb.com.pk^
+||gostreameast.one^
 ||hdlivehd7.live^
 ||hesgoal.co.uk^
 ||hesgoal.ltd^
@@ -150,6 +151,7 @@
 ||koora4u.club^
 ||koora4uyt.blogspot.com^
 ||kooraforus.blogspot.com^
+||kooral.top^
 ||kooralive-koora.live^
 ||kooralive.beer^
 ||kooralive07.com^
@@ -340,6 +342,7 @@
 ||tufutbollibre.online^
 |tv.makeevka.com^
 |tv.sfl.ch^
+||tvsiir.co^
 ||v2-sportsurge.buzz^
 ||vegasportsnetwork.com^
 |vendas.falenet.com.br^

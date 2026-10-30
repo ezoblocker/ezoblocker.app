@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass, Indonesia (id)
-# Domains: 6 | Updated: 2026-10-30
+# Domains: 7 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/bypass/countries/id.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,4 +9,5 @@
 0.0.0.0 hideproxy.name
 0.0.0.0 kb.biznetgio.com
 0.0.0.0 kb.cloudkilat.id
+0.0.0.0 nextdns.io
 0.0.0.0 shadowsocks.nz

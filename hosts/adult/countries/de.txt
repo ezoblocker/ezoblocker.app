@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Germany (de)
-# Domains: 69 | Updated: 2026-10-30
+# Domains: 70 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/de.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -35,6 +35,7 @@
 0.0.0.0 jungfrauplus.gutscheine7.de
 0.0.0.0 klinikbondage.com
 0.0.0.0 lilith-toys.com
+0.0.0.0 livecamcheck.com
 0.0.0.0 loveandvibes.de
 0.0.0.0 lux-agency.com
 0.0.0.0 mallux.de

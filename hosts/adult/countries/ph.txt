@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Adult, Philippines (ph)
-# Domains: 27 | Updated: 2026-10-30
+# Domains: 28 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ph.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 asianpinay.uk
 0.0.0.0 fascinations.net
 0.0.0.0 kaldagan.tv
 0.0.0.0 kinkly.com

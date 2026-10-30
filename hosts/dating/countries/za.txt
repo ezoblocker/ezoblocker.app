@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, South Africa (za)
-# Domains: 31 | Updated: 2026-10-30
+# Domains: 32 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 cape-town.dfs05.ru
 0.0.0.0 chatza.co.za
 0.0.0.0 coomeet.bitbucket.io
+0.0.0.0 durban.bonepage.com
 0.0.0.0 east-london.dfs05.ru
 0.0.0.0 en-us-bazoocam.com
 0.0.0.0 google-play-services.apk.gold

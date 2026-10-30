@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, France (fr)
-# Domains: 41 | Updated: 2026-10-30
+# Domains: 42 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/fr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,6 +17,7 @@
 0.0.0.0 casinozer-fr-2.com
 0.0.0.0 casinozer-fr.square.site
 0.0.0.0 casinozerbonus.com
+0.0.0.0 crashgamescasinocanada.com
 0.0.0.0 crocoslots.eu
 0.0.0.0 croupiers-en-direct.com
 0.0.0.0 duxcasino.ca

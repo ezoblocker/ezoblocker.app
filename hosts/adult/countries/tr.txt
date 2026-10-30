@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 334 | Updated: 2026-10-30
+# Domains: 337 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -61,6 +61,7 @@
 0.0.0.0 bestturksgiris.com
 0.0.0.0 bestturksgiris1.com
 0.0.0.0 beylikduzuescort.com
+0.0.0.0 beylikduzuescort22.sbs
 0.0.0.0 beylikduzuescortkadin.com
 0.0.0.0 bitkiselshop.com.tr
 0.0.0.0 bodrumangels.com
@@ -234,6 +235,7 @@
 0.0.0.0 saklimarket.com
 0.0.0.0 samsun.website
 0.0.0.0 samsunsens.com
+0.0.0.0 sear.lu
 0.0.0.0 seksfilmhub.com
 0.0.0.0 seksshop.com.tr
 0.0.0.0 senserotikshop.com
@@ -298,6 +300,7 @@
 0.0.0.0 turkifsalifenl.site
 0.0.0.0 turkifsalifenl2.site
 0.0.0.0 turkifsami.net
+0.0.0.0 turkifsamin.org
 0.0.0.0 turkifsatube.dad
 0.0.0.0 turkifsatube20.xyz
 0.0.0.0 turkifsatube24.xyz

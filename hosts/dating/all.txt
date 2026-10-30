@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,214 | Updated: 2026-10-30
+# Domains: 1,226 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -134,6 +134,7 @@
 0.0.0.0 bumpmatch.jetboy.jp
 0.0.0.0 busohbet.com
 0.0.0.0 buyuksohbet.com
+0.0.0.0 buzau.abcescorte.com
 0.0.0.0 cagayandeoroph.assortlist.com
 0.0.0.0 calgary.5escorts.ca
 0.0.0.0 calgary.bonepage.com
@@ -324,6 +325,7 @@
 0.0.0.0 dubaiescortspage.com
 0.0.0.0 dubaiescortsstars.com
 0.0.0.0 dubaiescortstars.com
+0.0.0.0 durban.bonepage.com
 0.0.0.0 east-london.dfs05.ru
 0.0.0.0 ec.diatrend.com
 0.0.0.0 echathub.online
@@ -459,9 +461,11 @@
 0.0.0.0 gabilesohbet.net
 0.0.0.0 gaigoi.date
 0.0.0.0 gaigoihaiphong.xyz
+0.0.0.0 gaigoihanoivip2.vncns.com
 0.0.0.0 gaigoihuekiemdinh.pro
 0.0.0.0 gaigoiquynhon6.net
 0.0.0.0 gaigoitv5.net
+0.0.0.0 gaigoitv6.net
 0.0.0.0 gaigoivc.now
 0.0.0.0 gaigoivip.net
 0.0.0.0 gaito.uk
@@ -490,6 +494,7 @@
 0.0.0.0 giant-stoixima-apg.aestheticon.gr
 0.0.0.0 girlcall.forumvi.com
 0.0.0.0 girlsofabudhabi.com
+0.0.0.0 git.deuxfleurs.fr
 0.0.0.0 gleeden.com
 0.0.0.0 goldkarachiescorts.com
 0.0.0.0 gonuldensevenler.com
@@ -605,6 +610,7 @@
 0.0.0.0 kibana.compactorstore.com
 0.0.0.0 kiev-intimcity.nl
 0.0.0.0 kiev.moygorod.ua
+0.0.0.0 kiev.ukrgo.com
 0.0.0.0 kilkenny.level-web.ru
 0.0.0.0 kimberley.dfs05.ru
 0.0.0.0 kitchener.bonepage.com
@@ -676,6 +682,7 @@
 0.0.0.0 mamba.ru
 0.0.0.0 manabi.pref.aichi.jp
 0.0.0.0 manilaescort.com
+0.0.0.0 manilaescortbabe.com
 0.0.0.0 maramures.abcescorte.com
 0.0.0.0 maramures.escorte66.com
 0.0.0.0 marathishaadi.com
@@ -694,6 +701,7 @@
 0.0.0.0 medan.putrispa.com
 0.0.0.0 meet-japan.bnextmedia.com
 0.0.0.0 meet.xcanto.com
+0.0.0.0 meetescortsnearme.com
 0.0.0.0 meetic.fr
 0.0.0.0 meetic.pt
 0.0.0.0 meeticaffinity.pt
@@ -796,6 +804,7 @@
 0.0.0.0 onlineedistrict.amtron.in
 0.0.0.0 opa.chat-room.gr
 0.0.0.0 opguidego.com
+0.0.0.0 opguidenew.com
 0.0.0.0 opstarko2.com
 0.0.0.0 opstarkorea.com
 0.0.0.0 opstarnew.com
@@ -1023,6 +1032,7 @@
 0.0.0.0 soyle.net
 0.0.0.0 spinchat.com
 0.0.0.0 springfield.bonepage.com
+0.0.0.0 ssags.bbon.ru
 0.0.0.0 staging.elkford.ca
 0.0.0.0 star-escorthk.com
 0.0.0.0 starbackpage.com
@@ -1199,12 +1209,14 @@
 0.0.0.0 www.fr.locanto.be
 0.0.0.0 www.ogloszenia.nowy-sacz.pl
 0.0.0.0 www.sa.locanto.asia
+0.0.0.0 www1.daysnavi.info
 0.0.0.0 xn----34565-9300ah52c8i5a4tlhzd8z3bgen.mamap.co.kr
 0.0.0.0 xn--escort-kbenhavn-dub.dk
 0.0.0.0 xxx-prostitutki.com
 0.0.0.0 yazgulu.net
 0.0.0.0 yb9buvbt.nettoyagereunion.re
 0.0.0.0 yesbackpage.com
+0.0.0.0 yk.okasan.net
 0.0.0.0 yoasobi-heaven.com
 0.0.0.0 youbride.jp
 0.0.0.0 yozm.wishket.com

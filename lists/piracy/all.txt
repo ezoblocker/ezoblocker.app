@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,018 | Updated: 2026-10-30
+# Domains: 1,023 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -226,6 +226,7 @@ edu.gebbs.com
 *.egybest-real.bitbucket.io
 egybest.appsmith.com
 *.egybest.co.in
+*.egybestv.cam
 ekino-tv.sugester.pl
 *.ekitapindir.net
 *.elbotola.com
@@ -353,6 +354,7 @@ getlive.pcb.com.pk
 *.gogoanimez.online
 *.gomovieshd.today
 google-play.en.softmany.com
+*.gostreameast.one
 *.grandpashabet7567.com
 *.grantorrent.foo
 *.grantorrent.fyi
@@ -491,6 +493,7 @@ kooora.misrlinks.com
 *.koora4u.club
 *.koora4uyt.blogspot.com
 *.kooraforus.blogspot.com
+*.kooral.top
 *.kooralive-koora.live
 *.kooralive.beer
 *.kooralive07.com
@@ -927,6 +930,7 @@ tv.sfl.ch
 *.tvmon.com.co
 *.tvmon1.com
 *.tvmons.org
+*.tvsiir.co
 *.uaserials.me
 *.uaserials.my
 *.uaserials.vip
@@ -956,6 +960,7 @@ viet.jajag.me
 *.vizer.biz
 *.vizer.website
 *.vizerhd.lat
+vod.app-liv.jp
 *.voirfilmfr.com
 *.voirfilms.cz
 w.cimacub.com

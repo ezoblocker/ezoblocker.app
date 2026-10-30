@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, PK (pk)
-# Domains: 49 | Updated: 2026-10-30
+# Domains: 50 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/pk.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 0.0.0.0 condombazaar.com
 0.0.0.0 darazcod.com.pk
 0.0.0.0 daraztoy.com.pk
+0.0.0.0 daraztoys.pk
 0.0.0.0 easytoys.pk
 0.0.0.0 ebaytoy.pk
 0.0.0.0 elegantyou.com.pk

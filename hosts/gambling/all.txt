@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 398,263 | Updated: 2026-10-30
+# Domains: 398,278 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -34539,6 +34539,7 @@
 0.0.0.0 aviator-slotgame.com
 0.0.0.0 aviator-slots.ru
 0.0.0.0 aviator-slots.tr
+0.0.0.0 aviator-tips.com
 0.0.0.0 aviator250.com
 0.0.0.0 aviator7bett.com
 0.0.0.0 aviator888bets.co.mz
@@ -37903,6 +37904,7 @@
 0.0.0.0 barkervillecoalition.com
 0.0.0.0 barmuteriacasino.com
 0.0.0.0 barnevogn-test.dk
+0.0.0.0 barona.com
 0.0.0.0 barongbetrtp.com
 0.0.0.0 barongslotgacor.pages.dev
 0.0.0.0 barongslotgacor2.pages.dev
@@ -53350,6 +53352,7 @@
 0.0.0.0 betrt3.com
 0.0.0.0 betrt4.com
 0.0.0.0 betrthreatintel.com
+0.0.0.0 betrun304.com
 0.0.0.0 betruncasino.club
 0.0.0.0 betrunner-casino.de
 0.0.0.0 betrunnercasino.co.uk
@@ -65320,6 +65323,7 @@
 0.0.0.0 bonusgadar.com
 0.0.0.0 bonusgalerabet.com
 0.0.0.0 bonusgambling-casino.com
+0.0.0.0 bonusgazetesi.com
 0.0.0.0 bonusglorycasino.com
 0.0.0.0 bonusgostar.com
 0.0.0.0 bonusgratuits.com
@@ -65420,6 +65424,7 @@
 0.0.0.0 bonuspk.org
 0.0.0.0 bonusplayslots.com
 0.0.0.0 bonuspokeronline.biz
+0.0.0.0 bonusrafi.com
 0.0.0.0 bonusratingcasino.icu
 0.0.0.0 bonusrehberi.org
 0.0.0.0 bonussansdepot.ca
@@ -90989,6 +90994,7 @@
 0.0.0.0 casinoco.de
 0.0.0.0 casinoco.in
 0.0.0.0 casinoco.nl
+0.0.0.0 casinocoach.se
 0.0.0.0 casinocobber-org.pages.dev
 0.0.0.0 casinocobber.com
 0.0.0.0 casinocobra-net.pages.dev
@@ -124391,6 +124397,7 @@
 0.0.0.0 colosseumslots.co.uk
 0.0.0.0 colosseumukcasino.co.uk
 0.0.0.0 colossuscasino-uk.com
+0.0.0.0 colt.gosignmeup.com
 0.0.0.0 coltsfanstore.com
 0.0.0.0 coluckiaapuestas.com
 0.0.0.0 colugabetplay.co
@@ -126640,6 +126647,7 @@
 0.0.0.0 crashercasino.com.mx
 0.0.0.0 crashercasino.mx
 0.0.0.0 crashercasino.org
+0.0.0.0 crashgamescasinocanada.com
 0.0.0.0 crashino-casino.co.uk
 0.0.0.0 crashino-casino.cz
 0.0.0.0 crashino-casino.de
@@ -175621,6 +175629,7 @@
 0.0.0.0 hollandsecasinotop10.com
 0.0.0.0 hollandseflashcasinos.com
 0.0.0.0 holle-games-apuestas.pages.dev
+0.0.0.0 hollingwood.org
 0.0.0.0 holliwoodcasino.mx
 0.0.0.0 holly-win-casino-22.pages.dev
 0.0.0.0 holly-win-casino-28.pages.dev
@@ -201530,6 +201539,7 @@
 0.0.0.0 kqbdcasino.com
 0.0.0.0 kqbdtaixiu.com
 0.0.0.0 kqbdxocdia.com
+0.0.0.0 kqdksc.routeoneshoes.co.kr
 0.0.0.0 kqkqcasino.com
 0.0.0.0 kr15skwin.com
 0.0.0.0 kr21casino.com
@@ -246366,6 +246376,7 @@
 0.0.0.0 najlepsze-bitcoin-kasyno-zys.rozejrzyjsie.pl
 0.0.0.0 najlepsze-bonusbezdepozytu.pl
 0.0.0.0 najlepszeaplikacjebukmacherskie.pl
+0.0.0.0 najnowszepolskiekasynoonline.com
 0.0.0.0 nakedcasino.com
 0.0.0.0 nakedsportsandbetting.com
 0.0.0.0 nakitbahis-casino.com
@@ -288618,6 +288629,7 @@
 0.0.0.0 pusulabet5018.com
 0.0.0.0 pusulabet5019.com
 0.0.0.0 pusulabet5020.com
+0.0.0.0 pusulabet5026.com
 0.0.0.0 pusulabet620.net
 0.0.0.0 pusulabetadresi.com
 0.0.0.0 pusulabetapp6.com
@@ -328634,6 +328646,7 @@
 0.0.0.0 sonbahis729.com
 0.0.0.0 sonbahis732.com
 0.0.0.0 sonbahis733.com
+0.0.0.0 sonbahis735.com
 0.0.0.0 sonbahisgirislinki.live
 0.0.0.0 soncasino.net
 0.0.0.0 soncasino.org
@@ -353181,6 +353194,7 @@
 0.0.0.0 tomicasino.at
 0.0.0.0 tomicasino.co.at
 0.0.0.0 tomicasinoreg.online
+0.0.0.0 tommypickles.cl
 0.0.0.0 tomorobet4d-top.pages.dev
 0.0.0.0 tomorobet77.org
 0.0.0.0 tomorrowsmill.ca
@@ -357361,6 +357375,7 @@
 0.0.0.0 trbet2026.net
 0.0.0.0 trbet2027.com
 0.0.0.0 trbet235.com
+0.0.0.0 trbet259.com
 0.0.0.0 trbet282.com
 0.0.0.0 trbet48.com
 0.0.0.0 trbet599.com
