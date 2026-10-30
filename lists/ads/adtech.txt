@@ -1,12 +1,11 @@
 # Title: EZOBLOCKER Ads, adtech
-# Domains: 311 | Updated: 2026-10-30
+# Domains: 280 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/ads/adtech.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.152media-ssp.com
 *.360.audion.fm
-*.9mejq.flx10.com
 *.ad-source.com
 *.ad-tag.com
 *.ad-wave.io
@@ -15,9 +14,6 @@
 *.ad.hyp.mobi
 *.adcentricagency.com
 *.adcentricsolutions.com
-*.adctrl.com
-*.adloader.aidemsrv.com
-*.adplugg.io
 *.ads-cdn-3p.digitalturbine.com
 *.ads-cdn.digitalturbine.com
 *.ads-sys.com
@@ -68,7 +64,6 @@
 *.arteabee.com
 *.asrv205.com
 *.assets.aryel.io
-*.assets.dataseat.com
 *.audi-on.com
 *.aupsrv.com
 *.authorizedbuyers.boomplay.com
@@ -83,7 +78,6 @@
 *.bidder-google.ecdrsvc.com
 *.bidswitch.bidder.mediakeys.io
 *.bksnimages.com
-*.blockboardtech.com
 *.bluevoox.com
 *.bn2.adcorenetwork.com
 *.bn2.adcoreperformance.com
@@ -116,14 +110,11 @@
 *.cdn.assets-lab.net
 *.cdn.assetsopen.com
 *.cdn.bidzapstream.com
-*.cdn.bighappy.co
 *.cdn.liftoffintl-creatives.io
 *.cdn.madisondsp.com
 *.cdn.om-meta.com
 *.cdn.r-adimg.com
 *.cdn.rmcbfmadtech.com
-*.cdn.rvty.net
-*.cdn.vidver.to
 *.cdn.wearevyde.com
 *.cdn3.rezonence.com
 *.cdnwebcloud.com
@@ -147,7 +138,6 @@
 *.creative.shareit-ecom.com
 *.creatives.metroparent.com
 *.ctech.works
-*.d3sv.net
 *.da.ironsads.com
 *.dartmotif.net
 *.data.fly.codes
@@ -158,25 +148,18 @@
 *.dimatter.ai
 *.direct.ingaa.xyz
 *.dmugc-cn.domobcdn.com
-*.dsp.active-agent.com
 *.eexsync.com
 *.eficiens-serving.com
 *.enzymic.co
 *.etargetcdn.com
-*.eu.axprtbggl.com
 *.featuredstory.io
 *.gadsme.gg
 *.gdl.bytegle.site
-*.gexperiments1.com
-*.gexperiments2.com
-*.gexperiments3.com
-*.gexperiments4.com
 *.gmediation.com
 *.growone.sg
 *.grxchange.gr
 *.gtarget.info
 *.hcurvecdn.com
-*.hermes.aidemsrv.com
 *.hubdsp.com
 *.hueserver.com
 *.hyj.mobi
@@ -196,14 +179,12 @@
 *.kubico-adhosting.com
 *.kubico-advertisement.com
 *.lacunads.ushareit.com
-*.locsensads.com
 *.madington.io
 *.media-adserver.com
 *.media-adserver2.com
 *.media-adserver3.com
 *.media-adserver4.com
 *.media-adserver5.com
-*.media.adventive.com
 *.media.bathandbodyworks.com
 *.media.charterbusiness.com
 *.media.fundingcircle.com
@@ -224,20 +205,15 @@
 *.mindworks-creative.com
 *.minicoin.one
 *.momento.dev
-*.mspremium.io
 *.myadmoove.com
-*.newadserver.com
 *.npidpbs.com
 *.openmass.io
 *.optoutadserving.com
 *.paradoxgroup.co
 *.personaly.bid
-*.pfsrvs.com
 *.ping.channel99.io
 *.playerserve.com
-*.plrsrvcs.com
 *.pmsrv.co
-*.polarcdn-static.com
 *.precisify-ads.com
 *.primoadserver.com
 *.prov9ads.com
@@ -245,13 +221,10 @@
 *.public.sonatalocal.com
 *.raaslab.tech
 *.rcdn.kervinteractive.com
-*.resources.playablefactory.app
 *.revive.sonares.org
 *.revjet.com
 *.rtb.buy-ad.com
-*.rtb.buzz
 *.rtb.iageengineering.net
-*.rtb.segmint.net
 *.rtb.servicesadmedia.com
 *.rtbads.position2.com
 *.semseoymas.com
@@ -271,7 +244,6 @@
 *.srvagm.de
 *.srvrtag.com
 *.ssp.smoot.ai
-*.static.adserver.pm
 *.static.bettergroup.fr
 *.static.go2perseo.com
 *.static.highvibes.media
@@ -288,7 +260,6 @@
 *.taol-srv.net
 *.tmsrv.net
 *.tpadx.com
-*.tqe36.flx10.com
 *.tr.monetrix.me
 *.tracking.highvibes.media
 *.trkio.co
@@ -309,9 +280,7 @@
 *.vondos04.com
 *.vondos05.com
 *.vondosadsrv.com
-*.warp90.com
 *.webmedia.chicos.com
 *.webmedia.johnvarvatos.com
 *.www.mnetads.net
-*.yeahtargeter.com
 *.zeus-ads.com

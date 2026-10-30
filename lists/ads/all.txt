@@ -1,12 +1,11 @@
 # Title: EZOBLOCKER Ads
-# Domains: 628 | Updated: 2026-10-30
+# Domains: 580 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.152media-ssp.com
 *.360.audion.fm
-*.9mejq.flx10.com
 a.videoreach.com
 aa.unioneeu.com
 acd.op.hicloud.com
@@ -25,20 +24,16 @@ adastra-prebid.attekmi.co
 adbix.net
 *.adcentricagency.com
 *.adcentricsolutions.com
-*.adctrl.com
 addigi-prebid.attekmi.co
 adinify-prebid.attekmi.co
-*.adloader.aidemsrv.com
 adlywise-prebid.attekmi.co
 adm.vidyome.com
 adn-srv.reckoner-api.com
 adnex-prebid.attekmi.co
-*.adplugg.io
 adport.pbsadverxo.com
 ads-api-svr.6677g.com
 *.ads-cdn-3p.digitalturbine.com
 *.ads-cdn.digitalturbine.com
-ads-flipp.com
 ads-pbs.adops.streamvisionmedia.com
 ads-pbs.ads-altstarmedia.com
 ads-pbs.ads-rtbdemand.com
@@ -55,8 +50,6 @@ ads-pbs.scotty.orangeclickmedia.com
 ads-sg.momagic.com
 *.ads-sys.com
 *.ads.adswag.ai
-ads.avct.cloud
-ads.biddertmz.com
 *.ads.euc.madsense.io
 ads.haloads.io
 *.ads.innovativeadserver.com
@@ -124,7 +117,6 @@ api.imotech.tech
 artechnology-prebid.attekmi.co
 *.asrv205.com
 *.assets.aryel.io
-*.assets.dataseat.com
 auction.adpearl.io
 auction.bidespresso.com
 *.audi-on.com
@@ -167,7 +159,6 @@ bids.ws
 bidsmind.pbsadverxo.com
 *.bidswitch.bidder.mediakeys.io
 *.bksnimages.com
-*.blockboardtech.com
 *.bluevoox.com
 bn.bidfuse.com
 *.bn2.adcorenetwork.com
@@ -203,7 +194,6 @@ capi.connatix.com
 *.cdn.assets-lab.net
 *.cdn.assetsopen.com
 *.cdn.bidzapstream.com
-*.cdn.bighappy.co
 cdn.bmcdn7.com
 cdn.dxkulture.com
 cdn.dxtech.ai
@@ -213,8 +203,6 @@ cdn.dxtech.ai
 cdn.orangeclickmedia.com
 *.cdn.r-adimg.com
 *.cdn.rmcbfmadtech.com
-*.cdn.rvty.net
-*.cdn.vidver.to
 *.cdn.wearevyde.com
 *.cdn3.rezonence.com
 cdn3.richaudience.com
@@ -251,7 +239,6 @@ cs.axis-marketplace.com
 cs.engagemedia.tv
 cs.qt.io
 *.ctech.works
-*.d3sv.net
 *.da.ironsads.com
 *.dartmotif.net
 *.data.fly.codes
@@ -264,7 +251,6 @@ cs.qt.io
 directo.prebidserving.com
 *.dmugc-cn.domobcdn.com
 *.doubleclick.net
-*.dsp.active-agent.com
 dsp.brainx.tech
 dsp.rcoreads.com
 e.relay.bid
@@ -281,7 +267,6 @@ endpoint1.smoot.ai
 *.enzymic.co
 *.etargetcdn.com
 eu.a.viddea.com
-*.eu.axprtbggl.com
 eu.rtb.munimob123.com
 eu1.oraki.io
 eu2.adnetwork.agency
@@ -289,7 +274,6 @@ ev.adswag.ai
 event-eu.ssp.taxssp.com
 event.ssp.taxssp.com
 exchange.adtonos.com
-exchange.alkimi-onboarding.com
 exchange.programmaticx.ai
 exchange.tagoras.io
 *.featuredstory.io
@@ -302,12 +286,7 @@ fran.frvr.com
 g.ezoic.net
 *.gadsme.gg
 gateway-b.offerwall.unity3d.com
-gateway.prod.anzu-us.com
 *.gdl.bytegle.site
-*.gexperiments1.com
-*.gexperiments2.com
-*.gexperiments3.com
-*.gexperiments4.com
 ghb.app.copper6.com
 ghb.bidder.jmgads.com
 ghb.console.indicue.com
@@ -319,17 +298,14 @@ goldplayer.prod.gbadtech.io
 *.growone.sg
 *.grxchange.gr
 *.gtarget.info
-gum.aidemsrv.com
 harrenmedia.pbsadverxo.com
 hb.appush.com
 hb.crackle.co.in
 hb.hyperbrainz.com
-hb.incrementxserv.com
 hb.justbidit2.xyz
 hb.stngo.com
 hb.sweetgum.io
 *.hcurvecdn.com
-*.hermes.aidemsrv.com
 hmidssp.com
 *.hubdsp.com
 *.hueserver.com
@@ -360,7 +336,6 @@ kssp.kbntx.ch
 lb-east.intenze.co
 lb.kiviads.com
 lib-cdn.8pod.com
-*.locsensads.com
 lunamedia.bid
 *.madington.io
 markapp-apac-prebid.attekmi.co
@@ -371,7 +346,6 @@ matching.kubient.net
 *.media-adserver3.com
 *.media-adserver4.com
 *.media-adserver5.com
-*.media.adventive.com
 *.media.bathandbodyworks.com
 *.media.charterbusiness.com
 *.media.fundingcircle.com
@@ -395,10 +369,8 @@ meta.rtb.hurelax.com
 moloco.rtb.crushblocks.com
 *.momento.dev
 mraid.bigo.sg
-*.mspremium.io
 *.myadmoove.com
 *.nefta.app
-*.newadserver.com
 nexbid.uk
 *.npidpbs.com
 nxs.infy.tv
@@ -424,25 +396,20 @@ pbjs.xe.works
 pbs-js.prebid-ownadx.com
 pbs.bidelerate.com
 pbs.dailyhunt.in
-pbs.elementaltv.io
 pbs.kiviads.live
 pbs.mobkoi.com
 pbs.prebid-ownadx.com
 pbs.prebrid.tv
 pbsadverxo.com
 *.personaly.bid
-*.pfsrvs.com
 *.ping.channel99.io
 pitk.unioneeu.com
 player-cdn.beachfrontmedia.com
 player.adswag.ai
 *.playerserve.com
-*.plrsrvcs.com
 *.pmsrv.co
-*.polarcdn-static.com
 prebid-apac.attekmi.co
 prebid-eu.attekmi.co
-prebid-server.ioadx.com
 prebid-srv.mtflll-system.live
 prebid-srv.xe.works
 prebid-us-east-1.getblue.io
@@ -451,10 +418,8 @@ prebid.attekmi.co
 prebid.axis-marketplace.com
 prebid.chocolateplatform.co
 prebid.cht.hinet.net
-prebid.display.io
 prebid.ecdrsvc.com
 prebid.eu-central-1.bidder.mediakeys.io
-prebid.ioadx.com
 prebid.melozen.com
 prebid.mes.glomex.cloud
 prebid.optinadserving.com
@@ -474,16 +439,13 @@ px-us-e.floxis.tech
 radiantfusion-prebid.attekmi.co
 *.rcdn.kervinteractive.com
 region.rubiconproject.com
-*.resources.playablefactory.app
 *.revive.sonares.org
 *.revjet.com
 revphpe.djaxbidder.com
 rtb.adipolo.live
 rtb.aniview.com
-rtb.beardfleet.com
 rtb.boldwin.live
 *.rtb.buy-ad.com
-*.rtb.buzz
 rtb.connektai.live
 rtb.dexerto.media
 rtb.dochaseadx.com
@@ -496,7 +458,6 @@ rtb.mtflll.com
 rtb.nexverse.ai
 rtb.pinelake.media
 rtb.relevate.health
-*.rtb.segmint.net
 *.rtb.servicesadmedia.com
 rtb.upremium.asia
 rtb.valuad.io
@@ -529,11 +490,8 @@ srv.adklip.net
 ssp-cookie.logan.ai
 ssp.adrelevantis.com
 ssp.astraone.io
-ssp.dauup.com
-ssp.disqus.com
 *.ssp.smoot.ai
 stackup-prebid.attekmi.co
-*.static.adserver.pm
 *.static.bettergroup.fr
 *.static.go2perseo.com
 *.static.highvibes.media
@@ -564,7 +522,6 @@ sync.sweetgum.io
 sync.tagoras.io
 sync.theagenticx.ai
 sync.twist.win
-sync.v5prebid.datablocks.net
 sync.zxyvrtd.com
 sync2.adnetwork.agency
 syncbf.bidfuse.com
@@ -580,7 +537,6 @@ tag-ssp.adsmovil.com
 tkprebid.aotter.net
 *.tmsrv.net
 *.tpadx.com
-*.tqe36.flx10.com
 *.tr.monetrix.me
 track.adklip.net
 *.tracking.highvibes.media
@@ -600,7 +556,6 @@ us.a.viddea.com
 us.matterfull.co
 usads.harion-ma.com
 useast2.logan.ai
-user-sync.alkimi-onboarding.com
 usersync.mycodemedia.com
 usync.rocketlab.ai
 usync.smxconv.com
@@ -619,7 +574,6 @@ v.ex.co
 *.vondosadsrv.com
 *.voodoo-adn.com
 vpb-server.jwplayer.com
-*.warp90.com
 web-rtb.anyrtb.com
 web.hb.ad.cpe.dotomi.com
 *.webmedia.chicos.com
@@ -629,6 +583,4 @@ ws.offerwall.unity3d.com
 *.www.mnetads.net
 x.padsquad.com
 y.one.impact-ad.jp
-*.yeahtargeter.com
-zero.aidemsrv.com
 *.zeus-ads.com

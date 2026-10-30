@@ -1,12 +1,11 @@
 # Title: EZOBLOCKER Ads
-# Domains: 628 | Updated: 2026-10-30
+# Domains: 580 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 152media-ssp.com
 0.0.0.0 360.audion.fm
-0.0.0.0 9mejq.flx10.com
 0.0.0.0 a.videoreach.com
 0.0.0.0 aa.unioneeu.com
 0.0.0.0 acd.op.hicloud.com
@@ -25,20 +24,16 @@
 0.0.0.0 adbix.net
 0.0.0.0 adcentricagency.com
 0.0.0.0 adcentricsolutions.com
-0.0.0.0 adctrl.com
 0.0.0.0 addigi-prebid.attekmi.co
 0.0.0.0 adinify-prebid.attekmi.co
-0.0.0.0 adloader.aidemsrv.com
 0.0.0.0 adlywise-prebid.attekmi.co
 0.0.0.0 adm.vidyome.com
 0.0.0.0 adn-srv.reckoner-api.com
 0.0.0.0 adnex-prebid.attekmi.co
-0.0.0.0 adplugg.io
 0.0.0.0 adport.pbsadverxo.com
 0.0.0.0 ads-api-svr.6677g.com
 0.0.0.0 ads-cdn-3p.digitalturbine.com
 0.0.0.0 ads-cdn.digitalturbine.com
-0.0.0.0 ads-flipp.com
 0.0.0.0 ads-pbs.adops.streamvisionmedia.com
 0.0.0.0 ads-pbs.ads-altstarmedia.com
 0.0.0.0 ads-pbs.ads-rtbdemand.com
@@ -55,8 +50,6 @@
 0.0.0.0 ads-sg.momagic.com
 0.0.0.0 ads-sys.com
 0.0.0.0 ads.adswag.ai
-0.0.0.0 ads.avct.cloud
-0.0.0.0 ads.biddertmz.com
 0.0.0.0 ads.euc.madsense.io
 0.0.0.0 ads.haloads.io
 0.0.0.0 ads.innovativeadserver.com
@@ -124,7 +117,6 @@
 0.0.0.0 artechnology-prebid.attekmi.co
 0.0.0.0 asrv205.com
 0.0.0.0 assets.aryel.io
-0.0.0.0 assets.dataseat.com
 0.0.0.0 auction.adpearl.io
 0.0.0.0 auction.bidespresso.com
 0.0.0.0 audi-on.com
@@ -167,7 +159,6 @@
 0.0.0.0 bidsmind.pbsadverxo.com
 0.0.0.0 bidswitch.bidder.mediakeys.io
 0.0.0.0 bksnimages.com
-0.0.0.0 blockboardtech.com
 0.0.0.0 bluevoox.com
 0.0.0.0 bn.bidfuse.com
 0.0.0.0 bn2.adcorenetwork.com
@@ -203,7 +194,6 @@
 0.0.0.0 cdn.assets-lab.net
 0.0.0.0 cdn.assetsopen.com
 0.0.0.0 cdn.bidzapstream.com
-0.0.0.0 cdn.bighappy.co
 0.0.0.0 cdn.bmcdn7.com
 0.0.0.0 cdn.dxkulture.com
 0.0.0.0 cdn.dxtech.ai
@@ -213,8 +203,6 @@
 0.0.0.0 cdn.orangeclickmedia.com
 0.0.0.0 cdn.r-adimg.com
 0.0.0.0 cdn.rmcbfmadtech.com
-0.0.0.0 cdn.rvty.net
-0.0.0.0 cdn.vidver.to
 0.0.0.0 cdn.wearevyde.com
 0.0.0.0 cdn3.rezonence.com
 0.0.0.0 cdn3.richaudience.com
@@ -251,7 +239,6 @@
 0.0.0.0 cs.engagemedia.tv
 0.0.0.0 cs.qt.io
 0.0.0.0 ctech.works
-0.0.0.0 d3sv.net
 0.0.0.0 da.ironsads.com
 0.0.0.0 dartmotif.net
 0.0.0.0 data.fly.codes
@@ -264,7 +251,6 @@
 0.0.0.0 directo.prebidserving.com
 0.0.0.0 dmugc-cn.domobcdn.com
 0.0.0.0 doubleclick.net
-0.0.0.0 dsp.active-agent.com
 0.0.0.0 dsp.brainx.tech
 0.0.0.0 dsp.rcoreads.com
 0.0.0.0 e.relay.bid
@@ -281,7 +267,6 @@
 0.0.0.0 enzymic.co
 0.0.0.0 etargetcdn.com
 0.0.0.0 eu.a.viddea.com
-0.0.0.0 eu.axprtbggl.com
 0.0.0.0 eu.rtb.munimob123.com
 0.0.0.0 eu1.oraki.io
 0.0.0.0 eu2.adnetwork.agency
@@ -289,7 +274,6 @@
 0.0.0.0 event-eu.ssp.taxssp.com
 0.0.0.0 event.ssp.taxssp.com
 0.0.0.0 exchange.adtonos.com
-0.0.0.0 exchange.alkimi-onboarding.com
 0.0.0.0 exchange.programmaticx.ai
 0.0.0.0 exchange.tagoras.io
 0.0.0.0 featuredstory.io
@@ -302,12 +286,7 @@
 0.0.0.0 g.ezoic.net
 0.0.0.0 gadsme.gg
 0.0.0.0 gateway-b.offerwall.unity3d.com
-0.0.0.0 gateway.prod.anzu-us.com
 0.0.0.0 gdl.bytegle.site
-0.0.0.0 gexperiments1.com
-0.0.0.0 gexperiments2.com
-0.0.0.0 gexperiments3.com
-0.0.0.0 gexperiments4.com
 0.0.0.0 ghb.app.copper6.com
 0.0.0.0 ghb.bidder.jmgads.com
 0.0.0.0 ghb.console.indicue.com
@@ -319,17 +298,14 @@
 0.0.0.0 growone.sg
 0.0.0.0 grxchange.gr
 0.0.0.0 gtarget.info
-0.0.0.0 gum.aidemsrv.com
 0.0.0.0 harrenmedia.pbsadverxo.com
 0.0.0.0 hb.appush.com
 0.0.0.0 hb.crackle.co.in
 0.0.0.0 hb.hyperbrainz.com
-0.0.0.0 hb.incrementxserv.com
 0.0.0.0 hb.justbidit2.xyz
 0.0.0.0 hb.stngo.com
 0.0.0.0 hb.sweetgum.io
 0.0.0.0 hcurvecdn.com
-0.0.0.0 hermes.aidemsrv.com
 0.0.0.0 hmidssp.com
 0.0.0.0 hubdsp.com
 0.0.0.0 hueserver.com
@@ -360,7 +336,6 @@
 0.0.0.0 lb-east.intenze.co
 0.0.0.0 lb.kiviads.com
 0.0.0.0 lib-cdn.8pod.com
-0.0.0.0 locsensads.com
 0.0.0.0 lunamedia.bid
 0.0.0.0 madington.io
 0.0.0.0 markapp-apac-prebid.attekmi.co
@@ -371,7 +346,6 @@
 0.0.0.0 media-adserver3.com
 0.0.0.0 media-adserver4.com
 0.0.0.0 media-adserver5.com
-0.0.0.0 media.adventive.com
 0.0.0.0 media.bathandbodyworks.com
 0.0.0.0 media.charterbusiness.com
 0.0.0.0 media.fundingcircle.com
@@ -395,10 +369,8 @@
 0.0.0.0 moloco.rtb.crushblocks.com
 0.0.0.0 momento.dev
 0.0.0.0 mraid.bigo.sg
-0.0.0.0 mspremium.io
 0.0.0.0 myadmoove.com
 0.0.0.0 nefta.app
-0.0.0.0 newadserver.com
 0.0.0.0 nexbid.uk
 0.0.0.0 npidpbs.com
 0.0.0.0 nxs.infy.tv
@@ -424,25 +396,20 @@
 0.0.0.0 pbs-js.prebid-ownadx.com
 0.0.0.0 pbs.bidelerate.com
 0.0.0.0 pbs.dailyhunt.in
-0.0.0.0 pbs.elementaltv.io
 0.0.0.0 pbs.kiviads.live
 0.0.0.0 pbs.mobkoi.com
 0.0.0.0 pbs.prebid-ownadx.com
 0.0.0.0 pbs.prebrid.tv
 0.0.0.0 pbsadverxo.com
 0.0.0.0 personaly.bid
-0.0.0.0 pfsrvs.com
 0.0.0.0 ping.channel99.io
 0.0.0.0 pitk.unioneeu.com
 0.0.0.0 player-cdn.beachfrontmedia.com
 0.0.0.0 player.adswag.ai
 0.0.0.0 playerserve.com
-0.0.0.0 plrsrvcs.com
 0.0.0.0 pmsrv.co
-0.0.0.0 polarcdn-static.com
 0.0.0.0 prebid-apac.attekmi.co
 0.0.0.0 prebid-eu.attekmi.co
-0.0.0.0 prebid-server.ioadx.com
 0.0.0.0 prebid-srv.mtflll-system.live
 0.0.0.0 prebid-srv.xe.works
 0.0.0.0 prebid-us-east-1.getblue.io
@@ -451,10 +418,8 @@
 0.0.0.0 prebid.axis-marketplace.com
 0.0.0.0 prebid.chocolateplatform.co
 0.0.0.0 prebid.cht.hinet.net
-0.0.0.0 prebid.display.io
 0.0.0.0 prebid.ecdrsvc.com
 0.0.0.0 prebid.eu-central-1.bidder.mediakeys.io
-0.0.0.0 prebid.ioadx.com
 0.0.0.0 prebid.melozen.com
 0.0.0.0 prebid.mes.glomex.cloud
 0.0.0.0 prebid.optinadserving.com
@@ -474,16 +439,13 @@
 0.0.0.0 radiantfusion-prebid.attekmi.co
 0.0.0.0 rcdn.kervinteractive.com
 0.0.0.0 region.rubiconproject.com
-0.0.0.0 resources.playablefactory.app
 0.0.0.0 revive.sonares.org
 0.0.0.0 revjet.com
 0.0.0.0 revphpe.djaxbidder.com
 0.0.0.0 rtb.adipolo.live
 0.0.0.0 rtb.aniview.com
-0.0.0.0 rtb.beardfleet.com
 0.0.0.0 rtb.boldwin.live
 0.0.0.0 rtb.buy-ad.com
-0.0.0.0 rtb.buzz
 0.0.0.0 rtb.connektai.live
 0.0.0.0 rtb.dexerto.media
 0.0.0.0 rtb.dochaseadx.com
@@ -496,7 +458,6 @@
 0.0.0.0 rtb.nexverse.ai
 0.0.0.0 rtb.pinelake.media
 0.0.0.0 rtb.relevate.health
-0.0.0.0 rtb.segmint.net
 0.0.0.0 rtb.servicesadmedia.com
 0.0.0.0 rtb.upremium.asia
 0.0.0.0 rtb.valuad.io
@@ -529,11 +490,8 @@
 0.0.0.0 ssp-cookie.logan.ai
 0.0.0.0 ssp.adrelevantis.com
 0.0.0.0 ssp.astraone.io
-0.0.0.0 ssp.dauup.com
-0.0.0.0 ssp.disqus.com
 0.0.0.0 ssp.smoot.ai
 0.0.0.0 stackup-prebid.attekmi.co
-0.0.0.0 static.adserver.pm
 0.0.0.0 static.bettergroup.fr
 0.0.0.0 static.go2perseo.com
 0.0.0.0 static.highvibes.media
@@ -564,7 +522,6 @@
 0.0.0.0 sync.tagoras.io
 0.0.0.0 sync.theagenticx.ai
 0.0.0.0 sync.twist.win
-0.0.0.0 sync.v5prebid.datablocks.net
 0.0.0.0 sync.zxyvrtd.com
 0.0.0.0 sync2.adnetwork.agency
 0.0.0.0 syncbf.bidfuse.com
@@ -580,7 +537,6 @@
 0.0.0.0 tkprebid.aotter.net
 0.0.0.0 tmsrv.net
 0.0.0.0 tpadx.com
-0.0.0.0 tqe36.flx10.com
 0.0.0.0 tr.monetrix.me
 0.0.0.0 track.adklip.net
 0.0.0.0 tracking.highvibes.media
@@ -600,7 +556,6 @@
 0.0.0.0 us.matterfull.co
 0.0.0.0 usads.harion-ma.com
 0.0.0.0 useast2.logan.ai
-0.0.0.0 user-sync.alkimi-onboarding.com
 0.0.0.0 usersync.mycodemedia.com
 0.0.0.0 usync.rocketlab.ai
 0.0.0.0 usync.smxconv.com
@@ -619,7 +574,6 @@
 0.0.0.0 vondosadsrv.com
 0.0.0.0 voodoo-adn.com
 0.0.0.0 vpb-server.jwplayer.com
-0.0.0.0 warp90.com
 0.0.0.0 web-rtb.anyrtb.com
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 webmedia.chicos.com
@@ -629,6 +583,4 @@
 0.0.0.0 www.mnetads.net
 0.0.0.0 x.padsquad.com
 0.0.0.0 y.one.impact-ad.jp
-0.0.0.0 yeahtargeter.com
-0.0.0.0 zero.aidemsrv.com
 0.0.0.0 zeus-ads.com

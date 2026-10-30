@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, apps
-# Domains: 37 | Updated: 2026-10-30
+# Domains: 36 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/apps.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -27,7 +27,6 @@
 0.0.0.0 fixfun.pareci.net
 0.0.0.0 fixhkl.pareci.net
 0.0.0.0 gateway-b.offerwall.unity3d.com
-0.0.0.0 gateway.prod.anzu-us.com
 0.0.0.0 googletagservices.com
 0.0.0.0 hb.crackle.co.in
 0.0.0.0 i18n-pglstatp.com

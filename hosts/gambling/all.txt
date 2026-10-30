@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 398,278 | Updated: 2026-10-30
+# Domains: 398,271 | Updated: 2026-10-30
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -38438,7 +38438,6 @@
 0.0.0.0 bassbetcasinogreece.gr
 0.0.0.0 bassbetcasinoitalia-com.pages.dev
 0.0.0.0 bassbetcasinoitalia.com
-0.0.0.0 bassbetcasinologin.com
 0.0.0.0 bassbetcasinologin.pages.dev
 0.0.0.0 bassbetcasinoo.cz
 0.0.0.0 bassbetcasinoofficial.gr
@@ -51026,7 +51025,6 @@
 0.0.0.0 betnjet10.com
 0.0.0.0 betnjet112.com
 0.0.0.0 betnjet2.games
-0.0.0.0 betnjet2.live
 0.0.0.0 betnjet7.com
 0.0.0.0 betnjetbet.com
 0.0.0.0 betnjetcas-com.pages.dev
@@ -65772,7 +65770,6 @@
 0.0.0.0 booicasino-rzt.top
 0.0.0.0 booicasino-rzw.top
 0.0.0.0 booicasino-tdh.top
-0.0.0.0 booicasino-telegram.com
 0.0.0.0 booicasino-thw.top
 0.0.0.0 booicasino-tup.top
 0.0.0.0 booicasino-tvx.top
@@ -98201,6 +98198,7 @@
 0.0.0.0 casinomachanceenligne-fr-25880.pages.dev
 0.0.0.0 casinomachancefr.com
 0.0.0.0 casinomachina.com
+0.0.0.0 casinomachine.net
 0.0.0.0 casinomachine.pages.dev
 0.0.0.0 casinomachineasous.org
 0.0.0.0 casinomachines.com
@@ -104172,7 +104170,6 @@
 0.0.0.0 casinoplayuzu.com
 0.0.0.0 casinoplayuzu.com.mx
 0.0.0.0 casinoplayuzu.org
-0.0.0.0 casinoplaywins.ru
 0.0.0.0 casinoplayzee.com
 0.0.0.0 casinoplayzilla.ch
 0.0.0.0 casinoplayzilla.org
@@ -141548,6 +141545,7 @@
 0.0.0.0 ellinika-casino.gr
 0.0.0.0 ellinika-kazino-bonus-choris-katathesi.com
 0.0.0.0 ellinikoonlinekazino-com.pages.dev
+0.0.0.0 ellisislandcasino.xyz
 0.0.0.0 ellisislandcasinoq.com
 0.0.0.0 elloslot-slotgacor-001.pages.dev
 0.0.0.0 ellyofficial.it
@@ -168203,7 +168201,6 @@
 0.0.0.0 grandmondialcasino.org.uk
 0.0.0.0 grandmondialcasino.quebec
 0.0.0.0 grandmondialcasino.se
-0.0.0.0 grandmondialcasinobonus.ca
 0.0.0.0 grandmondialcasinocanada-net.pages.dev
 0.0.0.0 grandmondialcasinocanada.com
 0.0.0.0 grandmondialcasinocanada.net
@@ -172922,7 +172919,6 @@
 0.0.0.0 hellspincasino1.net
 0.0.0.0 hellspincasino1.org
 0.0.0.0 hellspincasino7.pl
-0.0.0.0 hellspincasinoaustralialogin.com
 0.0.0.0 hellspincasinobet.com.pl
 0.0.0.0 hellspincasinocanada-org.pages.dev
 0.0.0.0 hellspincasinocanada.org
@@ -177475,7 +177471,6 @@
 0.0.0.0 hugocasinoitalia.it
 0.0.0.0 hugocasinoitaly.it
 0.0.0.0 hugocasinokodpromocyjny.pl
-0.0.0.0 hugocasinologin.com
 0.0.0.0 hugocasinologin.pages.dev
 0.0.0.0 hugocasinonorge-com.pages.dev
 0.0.0.0 hugocasinonorge.com
@@ -193038,7 +193033,6 @@
 0.0.0.0 joycasino-xcb.ru
 0.0.0.0 joycasino-xej.top
 0.0.0.0 joycasino-xep.top
-0.0.0.0 joycasino-xgf.top
 0.0.0.0 joycasino-xhw.top
 0.0.0.0 joycasino-xid.top
 0.0.0.0 joycasino-xje.top
@@ -226034,7 +226028,6 @@
 0.0.0.0 mcwcasino-vn-it-com-dg0.pages.dev
 0.0.0.0 mcwcasino-vn-it-com.pages.dev
 0.0.0.0 mcwcasino-vn.it.com
-0.0.0.0 mcwcasino.beauty
 0.0.0.0 mcwcasino.bid
 0.0.0.0 mcwcasino.bond
 0.0.0.0 mcwcasino.co.in
@@ -296726,7 +296719,6 @@
 0.0.0.0 richroyalcasinoit-com.pages.dev
 0.0.0.0 richroyalcasinoit.com
 0.0.0.0 richroyalcasinologin-9bz.pages.dev
-0.0.0.0 richroyalcasinologin.com
 0.0.0.0 richroyalcasinologincasino.pages.dev
 0.0.0.0 richroyalcasinonl-com.pages.dev
 0.0.0.0 richroyalcasinonl.com
@@ -298875,7 +298867,6 @@
 0.0.0.0 riobetcasino-yvp.top
 0.0.0.0 riobetcasino-yvu.top
 0.0.0.0 riobetcasino-yym.top
-0.0.0.0 riobetcasino-yza.top
 0.0.0.0 riobetcasino-yzn.top
 0.0.0.0 riobetcasino-zag.top
 0.0.0.0 riobetcasino-zew.top
@@ -300230,7 +300221,6 @@
 0.0.0.0 robocatcasinoenligne.com
 0.0.0.0 robocatcasinofr.shop
 0.0.0.0 robocatcasinologin-cah.pages.dev
-0.0.0.0 robocatcasinologin.com
 0.0.0.0 robocatcasinologin.pages.dev
 0.0.0.0 robocatcasinoo.ca
 0.0.0.0 robocatcasinoo.es
@@ -331422,7 +331412,6 @@
 0.0.0.0 spinangacasinofrance.pages.dev
 0.0.0.0 spinangacasinoit.it
 0.0.0.0 spinangacasinoitalia-com.pages.dev
-0.0.0.0 spinangacasinologin.com
 0.0.0.0 spinangacasinologin.pages.dev
 0.0.0.0 spinangacasinoofficial-it.pages.dev
 0.0.0.0 spinangacasinoofficial.it
@@ -335563,7 +335552,6 @@
 0.0.0.0 spinkong1.me.uk
 0.0.0.0 spinkong1.uk
 0.0.0.0 spinkong10.com
-0.0.0.0 spinkong11.com
 0.0.0.0 spinkong121.com
 0.0.0.0 spinkong2.com
 0.0.0.0 spinkong21.com
@@ -357968,6 +357956,7 @@
 0.0.0.0 trixs-casino.ru
 0.0.0.0 trixxcasino.org.ru
 0.0.0.0 trjojobet.com
+0.0.0.0 trjojobetgiris.com
 0.0.0.0 trkalitebet.com
 0.0.0.0 trkingbetting.com
 0.0.0.0 trkv-kavguncel-girisadresi-xyz.pages.dev
@@ -369335,6 +369324,7 @@
 0.0.0.0 vdcasino-aviator.top
 0.0.0.0 vdcasino-giris-2026.top
 0.0.0.0 vdcasino-giris.icu
+0.0.0.0 vdcasino-giris.info
 0.0.0.0 vdcasino-girisi.com
 0.0.0.0 vdcasino-guncel-giris.top
 0.0.0.0 vdcasino-guncel-tr.com
@@ -369344,6 +369334,7 @@
 0.0.0.0 vdcasino-indir.top
 0.0.0.0 vdcasino-online.com
 0.0.0.0 vdcasino-oyun.top
+0.0.0.0 vdcasino-resmi-tr.com
 0.0.0.0 vdcasino-resmiguncel.icu
 0.0.0.0 vdcasino-turkey.com
 0.0.0.0 vdcasino-ucak.top
@@ -372898,6 +372889,7 @@
 0.0.0.0 videoslots.co.nl
 0.0.0.0 videoslots.com.co
 0.0.0.0 videoslots.irish
+0.0.0.0 videoslots.jetzt
 0.0.0.0 videoslots.net.nz
 0.0.0.0 videoslots.org.es
 0.0.0.0 videoslots.org.mx
@@ -373094,6 +373086,7 @@
 0.0.0.0 viggoslots.info
 0.0.0.0 viggoslots.it
 0.0.0.0 viggoslots.it.com
+0.0.0.0 viggoslots.jetzt
 0.0.0.0 viggoslots.live
 0.0.0.0 viggoslots.lu
 0.0.0.0 viggoslots.or.at
@@ -373599,7 +373592,6 @@
 0.0.0.0 vinylcasino-1145.com
 0.0.0.0 vinylcasino-4561.com
 0.0.0.0 vinylcasino-5792.com
-0.0.0.0 vinylcasino-7654.com
 0.0.0.0 vinylcasino-8791.com
 0.0.0.0 vinylcasino-android.com
 0.0.0.0 vinylcasino-art.pages.dev
@@ -389061,6 +389053,7 @@
 0.0.0.0 wintrillionscasino.co.uk
 0.0.0.0 wintrillionscasino.uk
 0.0.0.0 wintrillionscasinoaffiliates.com
+0.0.0.0 wintrjojobet.com
 0.0.0.0 winum-app-casino-kr-5877b05b.pages.dev
 0.0.0.0 winum-betplay-com-55817.pages.dev
 0.0.0.0 winum-betplay.com
