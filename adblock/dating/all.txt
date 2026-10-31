@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating
-! Domains: 1,226 | Updated: 2026-10-31
+! Domains: 1,229 | Updated: 2026-10-31
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -314,6 +314,7 @@
 ||dosugperm.ru^
 ||dosugrost.com^
 ||dosugsamara.biz^
+||dosugsamary1.ru^
 ||dosugsaratova.ru^
 ||dosugtolyatti.ru^
 ||dosugvolgograda.ru^
@@ -643,6 +644,7 @@
 ||listcrawler.eu^
 |livechat.sex-czech.cz^
 |liver.doneru.jp^
+||localescortsnearme.com^
 ||localhookuphub.com^
 ||locanto.com.mx^
 ||locanto.ie^
@@ -701,6 +703,7 @@
 |medan.putrispa.com^
 |meet-japan.bnextmedia.com^
 |meet.xcanto.com^
+||meetanescort.info^
 ||meetescortsnearme.com^
 ||meetic.fr^
 ||meetic.pt^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,022 | Updated: 2026-10-31
+# Domains: 1,024 | Updated: 2026-10-31
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -78,6 +78,7 @@
 0.0.0.0 aniwatchx.com.ro
 0.0.0.0 anoboy.be
 0.0.0.0 anoboy.forum
+0.0.0.0 anoboy.quest
 0.0.0.0 api.sap.ce.gov.br
 0.0.0.0 apkdayi.com
 0.0.0.0 app.plastiks.io
@@ -1024,5 +1025,6 @@
 0.0.0.0 yallas.store
 0.0.0.0 yallashoot.id
 0.0.0.0 yallashoot.study
+0.0.0.0 yallashootstudio.com
 0.0.0.0 yozm.wishket.com
 0.0.0.0 zfilmizle.com

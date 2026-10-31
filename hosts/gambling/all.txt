@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 398,271 | Updated: 2026-10-31
+# Domains: 398,276 | Updated: 2026-10-31
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -46779,6 +46779,7 @@
 0.0.0.0 betcio1479.com
 0.0.0.0 betcio1481.com
 0.0.0.0 betcio1482.com
+0.0.0.0 betcio1483.com
 0.0.0.0 betcio1533.com
 0.0.0.0 betcio1540.com
 0.0.0.0 betcio1545.com
@@ -65425,6 +65426,7 @@
 0.0.0.0 bonusrafi.com
 0.0.0.0 bonusratingcasino.icu
 0.0.0.0 bonusrehberi.org
+0.0.0.0 bonusrekoru.com
 0.0.0.0 bonussansdepot.ca
 0.0.0.0 bonussansdepot.casino
 0.0.0.0 bonussansdepot.ch
@@ -169173,6 +169175,7 @@
 0.0.0.0 great-wincasino.pl
 0.0.0.0 great-wins-casino-com.pages.dev
 0.0.0.0 great-wins-casino.com
+0.0.0.0 great.com
 0.0.0.0 greatamericancasino.com
 0.0.0.0 greatbingoonline.com
 0.0.0.0 greatblueheron-casino.com
@@ -223029,6 +223032,7 @@
 0.0.0.0 maltcasino.pro
 0.0.0.0 maltcasino.xyz
 0.0.0.0 maltcasino1701.com
+0.0.0.0 maltcasino1733.com
 0.0.0.0 maltcasinoadresi.com
 0.0.0.0 maltcasinogiris.co
 0.0.0.0 maltcasinogirisyap.com
@@ -288615,6 +288619,7 @@
 0.0.0.0 pusulabet1.casino
 0.0.0.0 pusulabet1.net
 0.0.0.0 pusulabet1129.com
+0.0.0.0 pusulabet1175.com
 0.0.0.0 pusulabet4.com
 0.0.0.0 pusulabet5015.com
 0.0.0.0 pusulabet5016.com

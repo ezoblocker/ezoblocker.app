@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 398,271 | Updated: 2026-10-31
+# Domains: 398,276 | Updated: 2026-10-31
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -46779,6 +46779,7 @@ betboo.jogo.com.br
 *.betcio1479.com
 *.betcio1481.com
 *.betcio1482.com
+*.betcio1483.com
 *.betcio1533.com
 *.betcio1540.com
 *.betcio1545.com
@@ -65425,6 +65426,7 @@ bonukset-ilman-kierratysta-lab.tervarinne.fi
 *.bonusrafi.com
 *.bonusratingcasino.icu
 *.bonusrehberi.org
+*.bonusrekoru.com
 *.bonussansdepot.ca
 *.bonussansdepot.casino
 *.bonussansdepot.ch
@@ -169173,6 +169175,7 @@ gda.maceio.al.gov.br
 *.great-wincasino.pl
 *.great-wins-casino-com.pages.dev
 *.great-wins-casino.com
+*.great.com
 *.greatamericancasino.com
 *.greatbingoonline.com
 *.greatblueheron-casino.com
@@ -223029,6 +223032,7 @@ makati-city.infoisinfo-ph.com
 *.maltcasino.pro
 *.maltcasino.xyz
 *.maltcasino1701.com
+*.maltcasino1733.com
 *.maltcasinoadresi.com
 *.maltcasinogiris.co
 *.maltcasinogirisyap.com
@@ -288615,6 +288619,7 @@ projects-communications.thephorixgroupz.pages.dev
 *.pusulabet1.casino
 *.pusulabet1.net
 *.pusulabet1129.com
+*.pusulabet1175.com
 *.pusulabet4.com
 *.pusulabet5015.com
 *.pusulabet5016.com

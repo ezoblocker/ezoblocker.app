@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 213 | Updated: 2026-10-31
+# Domains: 215 | Updated: 2026-10-31
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -67,6 +67,7 @@
 0.0.0.0 bonuslideri11.com
 0.0.0.0 bonusrafi.com
 0.0.0.0 bonusrehberi.org
+0.0.0.0 bonusrekoru.com
 0.0.0.0 bonussokagi.com
 0.0.0.0 bonussultani.com
 0.0.0.0 bonusyelpazesi.com
@@ -96,6 +97,7 @@
 0.0.0.0 goldenbahis.com
 0.0.0.0 grandcasinoadmiral.rs
 0.0.0.0 grandpashabet-logins.vip
+0.0.0.0 great.com
 0.0.0.0 highestcasinobonus.net
 0.0.0.0 hilbetim.net
 0.0.0.0 holiganbetapp.com

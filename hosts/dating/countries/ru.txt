@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Russia (ru)
-# Domains: 87 | Updated: 2026-10-31
+# Domains: 88 | Updated: 2026-10-31
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/ru.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -32,6 +32,7 @@
 0.0.0.0 dosugperm.ru
 0.0.0.0 dosugrost.com
 0.0.0.0 dosugsamara.biz
+0.0.0.0 dosugsamary1.ru
 0.0.0.0 dosugsaratova.ru
 0.0.0.0 dosugtolyatti.ru
 0.0.0.0 dosugvolgograda.ru
