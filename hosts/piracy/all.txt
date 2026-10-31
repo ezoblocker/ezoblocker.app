@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,024 | Updated: 2026-10-31
+# Domains: 1,021 | Updated: 2026-10-31
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -205,7 +205,6 @@
 0.0.0.0 dizilab.cc
 0.0.0.0 dizilab.to
 0.0.0.0 dizipaliptv.com.tr
-0.0.0.0 dizipalorjinal18.com
 0.0.0.0 diziyou.info
 0.0.0.0 diziyou.one
 0.0.0.0 diziyou.vip
@@ -311,7 +310,6 @@
 0.0.0.0 futbollibre.kim
 0.0.0.0 futbollibreenvivo.net
 0.0.0.0 futbollibrefullhd.org
-0.0.0.0 futbollibretvapp.com
 0.0.0.0 futbollibretvhd.co
 0.0.0.0 futbolyconsolas.es
 0.0.0.0 futemax.at
@@ -354,7 +352,6 @@
 0.0.0.0 gogoanimez.online
 0.0.0.0 gomovieshd.today
 0.0.0.0 google-play.en.softmany.com
-0.0.0.0 gostreameast.one
 0.0.0.0 grandpashabet7567.com
 0.0.0.0 grantorrent.foo
 0.0.0.0 grantorrent.fyi

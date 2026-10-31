@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 180 | Updated: 2026-10-31
+# Domains: 181 | Updated: 2026-10-31
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -169,6 +169,7 @@
 0.0.0.0 taggian.eu
 0.0.0.0 tcservercontainers.com
 0.0.0.0 tenants.signalhost.io
+0.0.0.0 tr.flowplatform.com
 0.0.0.0 track.pixelfly.io
 0.0.0.0 track.trackcombo.com
 0.0.0.0 trackinghippo.eu
