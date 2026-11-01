@@ -1,17 +1,19 @@
 # Title: EZOBLOCKER Gambling, United Arab Emirates (ae)
-# Domains: 20 | Updated: 2026-11-01
+# Domains: 23 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/ae.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 1win-games.id
 0.0.0.0 22betnetwork.com
+0.0.0.0 alrouletteonline.com
 0.0.0.0 arabiccryptocasino.com
 0.0.0.0 arabonlinecasinorealmoney.com
 0.0.0.0 arabwinners.com
 0.0.0.0 bestbookmakersonline.net
 0.0.0.0 betwinner.app
 0.0.0.0 betwinwins.com
+0.0.0.0 casinocairo.com
 0.0.0.0 casinosonline.africa
 0.0.0.0 dubaicasino.org
 0.0.0.0 haztayebcasinos.com
@@ -22,5 +24,6 @@
 0.0.0.0 play-online-casino-real-money.com
 0.0.0.0 playcasino.com
 0.0.0.0 tayyibcasinos.com
+0.0.0.0 toparabcasinos.com
 0.0.0.0 uocp.healthybodyclub.es
 0.0.0.0 yallabetpartners.com

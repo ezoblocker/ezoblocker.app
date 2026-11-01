@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Adult, Argentina (ar)
-# Domains: 32 | Updated: 2026-11-01
+# Domains: 35 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ar.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 bangover.com.ar
+0.0.0.0 bellesaimes.com
 0.0.0.0 boutiqueerotica.com.uy
 0.0.0.0 buttman.com.ar
 0.0.0.0 caramelodulce.com.ar
@@ -15,6 +16,8 @@
 0.0.0.0 farmamix.com.ar
 0.0.0.0 goota.com.ar
 0.0.0.0 intimelovestore.com.ar
+0.0.0.0 maisonblack.com.ar
+0.0.0.0 mallorca-map.com
 0.0.0.0 mibelleza.uy
 0.0.0.0 proximosiglo.com.ar
 0.0.0.0 sauvage.com.ar

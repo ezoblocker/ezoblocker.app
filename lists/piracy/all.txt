@@ -1,17 +1,21 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,021 | Updated: 2026-11-01
+# Domains: 1,077 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+*.0gomovies.one
+0jb7na1ub3-amphtml.sear.lu
 *.123movieputlockers.com
 *.123moviesflix.me
+*.123movieslive.click
 *.123moviesx.cc
 *.123putlockers.me
 *.1337x.com.im
 *.1kuttymovies.pro
 *.2fmovies.net
 *.4kiptvireland.irish
+*.4socolive.tv
 *.51lilai.com
 *.6stream.net
 *.7msport.com
@@ -122,12 +126,14 @@ browse.tonton.com.my
 *.buffstreams24.org
 *.buffstreamsapp.com
 *.buffstreamz.fun
+*.cakhia14.com
 *.cakhia4.org
 *.cakhia6tv.tv
 *.cakhiatv.college
 *.cakhiatv.fit
 *.cakhiatvc.group
 *.cakhiaxs.tv
+*.cakhiazbm.tv
 *.cakhiazbp.tv
 *.canlimacizlet.altervista.org
 *.cb01.channel
@@ -145,6 +151,7 @@ cimaclub.ct.ws
 *.cimaclubsite.blogspot.com
 *.cine-calidad.mom
 *.cinecalidad.company
+*.cinecalidad2.cc
 *.cinecalidadonline.xyz
 cityofsurrey.perfectmind.com
 clare.gaa.ie
@@ -158,6 +165,7 @@ coronavirus.natal.rn.gov.br
 *.crackstreams.guru
 *.crackstreams.in
 *.crackstreams.mx
+*.crackstreams1.cx
 *.crackstreamsmax.site
 *.cricfree.beer
 *.crichd.lol
@@ -216,16 +224,21 @@ dnsrepo.noc.org
 *.doonungfree.com
 dovik.ferit.hr
 *.drakorid.co
+*.dreamfilmsw.se
 drecov.pandaoffice.com
 edu.gebbs.com
 *.egybesstt.asia
 *.egybesstt.baby
 *.egybesstt.bond
+*.egybesstt.forum
 *.egybesstt.homes
 *.egybesstt.lol
+*.egybesstt.space
+*.egybesstt.today
 *.egybest-real.bitbucket.io
 egybest.appsmith.com
 *.egybest.co.in
+*.egybest.si
 *.egybestv.cam
 ekino-tv.sugester.pl
 *.ekitapindir.net
@@ -258,6 +271,7 @@ farmacia.vilhena.ro.gov.br
 *.filmmakinesi.to
 filmora.wondershare.kr
 *.filmpalast.de
+*.filmpertutti.courses
 *.filmywap.poker
 *.filmyzilla.holiday
 *.filmyzilla1.in
@@ -277,12 +291,14 @@ fishing.adcomm.kr
 *.footybite.dev
 *.footybite.football
 *.footybite.forum
+*.footybite.gold
 *.footybite.im
 *.footybite.live
 *.footybite.skin
 *.footybite.soccer
 *.footybite.to
 *.footybite.vg
+*.footybite1.li
 *.footybite1.live
 *.footybite2.live
 *.footybites.biz
@@ -299,6 +315,7 @@ ftp.wpc.or.kr
 *.fullhdfilmizlesene.now
 *.fullhdfilmizlesene.store
 *.fullhdfilmizlesene.us
+*.fulllhd123movies.com
 *.fullprogramindir.club
 *.fullprogramlarindir.cc
 *.fullprogramlarindir.net
@@ -329,6 +346,7 @@ game-23.adhijasa.com
 geoikp.operandum-project.eu
 getlive.pcb.com.pk
 *.getoziptv.com
+*.gnula.autos
 *.gnula.beer
 *.gnula.boats
 *.gnula.buzz
@@ -338,6 +356,8 @@ getlive.pcb.com.pk
 *.gnula.living
 *.gnula.one
 *.gnula.skin
+*.gnula.xin
+*.gnulahd.casa
 *.gnulahd.watch
 *.gnulas.lat
 *.gogoanime.biz.in
@@ -350,6 +370,7 @@ getlive.pcb.com.pk
 *.gogoanimes.dk
 *.gogoanimes.watch
 *.gogoanimez.online
+*.gomovies123.hair
 *.gomovieshd.today
 google-play.en.softmany.com
 *.grandpashabet7567.com
@@ -456,6 +477,7 @@ katei.labo.jp
 *.kickzone.click
 *.kickzone.in
 *.kingsmanga.net
+kino.chck.pl
 *.kinogo.ai
 *.kinogo.cc
 *.kinogo.is
@@ -484,6 +506,7 @@ kooora.misrlinks.com
 *.kooora4live.quest
 *.kooora4live.website
 *.kooora4lives.one
+*.koora.com
 *.koora4ever.net
 *.koora4live.today
 *.koora4stream.site
@@ -508,6 +531,7 @@ kora-star.misrlinks.com
 *.kuttymovies.im
 *.kuttymovies.vip
 *.kuttymovies.win
+l111oqg-amphtml.propolonia.be
 *.latestmodapks.com
 *.layarkaca21.monster
 *.layarkaca21bank.com
@@ -548,6 +572,7 @@ live.pcb.com.pk
 *.livetv.fr
 *.livetv.life
 livetv.tv-vlaanderen.be
+*.liveyallashot0.xyz
 llsflwjo.riverpeak.lat
 *.locopelis.com
 lordfilm-hd.mirfilm.net
@@ -617,12 +642,14 @@ mooreok.govbuilt.com
 museum.slavgorod.ru
 mxhomy556.nettoyagereunion.re
 *.mycima-official.bitbucket.io
+*.mycima.si
 *.mycima.watch
 *.myflixer.com.co
 *.mynetnaija.ng
 *.myvipbox.com
 *.naijaprey.org
 *.naijaprey.tv
+*.nbabite.info
 *.nbabite.net
 *.neizlemeliyiz.cc
 *.netnaija.top
@@ -663,6 +690,7 @@ online.tainiothiki.gr
 *.pdfkitapkurdu.blogspot.com
 *.pdfkitapoku.org
 *.pelispedia.mov
+*.pelisplus.company
 *.pelisplus.garden
 *.pelisplus.living
 *.pelisplus.one
@@ -673,12 +701,14 @@ online.tainiothiki.gr
 *.pelisplush.net
 *.pelisplushd.mx
 *.pelisplushd.one
+*.pelisplushd.rip
 *.pelisplushd3.com
 *.pelisplusmx.co
 *.pelisplusvip.com
 *.pelotalibre.today
 *.pelotalibreenvivo.cl
 *.pelotalibreplus.com
+*.pelotalibreplus.pe
 *.pelotalibretv1.biz
 *.pezzottoiptv.com
 *.phimmoi.cat
@@ -702,14 +732,18 @@ pirlotv-futbol-en-vivo-directo.apps112.com
 *.pirlotv.la
 *.pirlotv.plus
 *.pirlotv.red
+*.pirlotv.sh
 *.pirlotv.shop
 *.pirlotv.win
 *.pirlotv1.live
+*.pirlotvapk.net
+*.pirlotvplay.online
 *.pirlotvv.org
 pixpretty.tenorshare.ai
 *.planete-warez.net
 player.wholesale-iptv.nl
 *.plusfilmizle.com
+pma2.iethe.com.br
 *.pobreflixhd.fit
 *.pobreflixmovie.my
 portaleducacional.unisanta.br
@@ -717,12 +751,15 @@ portaleducacional.unisanta.br
 *.premierleague.com
 *.primewire-offcial.cyou
 *.primewire.gy
+*.primewire1.buzz
+*.primewire1.mom
 *.primewires.org
 produtor.adagri.ce.gov.br
 *.proiptvcanada.ca
 *.projectfreetv-official.lol
 *.projectfreetvm.lol
 *.pusatfilm.id
+*.putlockerproxy.org
 *.quicksportstv.com
 *.rapidgators.net
 *.rarbg.bg
@@ -731,8 +768,10 @@ produtor.adagri.ce.gov.br
 rebahinfilm.myr.id
 *.rebahingg.com
 *.rebahinxxi3.mom
+*.redecanais.host
 *.redecanais.in
 *.redecanais.solutions
+*.redecanais4k.my
 *.redecanaisfhd.my
 *.redecanaishd.gay
 *.redecanaishd.help
@@ -740,6 +779,7 @@ rebahinfilm.myr.id
 *.redecanaishd.qpon
 *.redecanaishd1.online
 *.redecanaisoficial.cc
+*.redecanaisrc.baby
 *.redecanaisrc.sale
 refer.yasso.com
 *.repelis.casa
@@ -748,6 +788,7 @@ refer.yasso.com
 *.repelis24.nz
 *.repelis24.shop
 *.repelis24.watch
+*.repelisplus.autos
 *.repelisplus.casa
 *.repelisplus.company
 *.repelisplus.fit
@@ -770,6 +811,7 @@ refer.yasso.com
 *.rojadirectatv.skin
 *.rojadirectatvmas.org
 *.rojadirectatvplay.com
+*.rojadirectatvplay.org
 *.rutracker-net.ru
 s1s.designq.kr
 saas.spochak.com
@@ -797,6 +839,7 @@ silsigan-toto-saiteu-jip.hogal.co.kr
 sismrae.sead.pi.gov.br
 *.smartiptv.irish
 *.soap2day4.me
+*.soap2dayhd.cc
 *.soap2days.ac
 *.soap2daytv.me
 *.socolive-bd-tv.art
@@ -810,6 +853,7 @@ sismrae.sead.pi.gov.br
 *.socolivetvz.top
 *.socolivev.co
 *.socolivezq.tv
+*.socolivezw.tv
 *.solarmovies.com.co
 *.solarmoviesz.co
 somosgalapagos.padf.org
@@ -841,6 +885,7 @@ start.sportdigital.de
 *.streameastmirror.com
 *.streameastonline.com
 *.streameasttop.com
+*.streameastv2.mom
 *.streamed.cyou
 streamfab.dvdfab.fr
 *.streamingcommunityz.rip
@@ -878,6 +923,7 @@ t.matec.kr
 *.tarjetaroja.surf
 *.tarjetarojadirecta.biz
 *.tarjetarojadirecta.es
+*.tarjetarojadirectatv.me
 *.tarjetarojaenvivo.online
 *.tarjetarojaonline.info
 *.tarjetarojaonline.pro
@@ -906,8 +952,11 @@ task.joby.com
 *.torrenttrackerslist.com
 *.totalsportek.org.im
 *.totalsportek1.is
+*.totalsportek1.li
+*.totalsportek1.online
 *.totalsportekhd.live
 *.totalsporteki.fit
+*.totalsporteki.icu
 *.totalsportekl.is
 *.totalsportekplus.org
 *.totalsportscentral.com
@@ -921,6 +970,7 @@ tributario.piracicaba.sp.gov.br
 *.tufutbollibre.online
 *.tugaiptv.com
 *.tugaiptvbest.net
+tv.kleague.com
 tv.makeevka.com
 tv.sfl.ch
 *.tvhayx.org
@@ -953,12 +1003,14 @@ viet.jajag.me
 *.vipleague.ro
 *.vipleague.stream
 *.viprow.pro
+virtualtour.lisztacademy.hu
 *.visioncine-1.com.br
 *.vizer.biz
 *.vizer.website
 *.vizerhd.lat
 vod.app-liv.jp
 *.voirfilmfr.com
+*.voirfilms-series.com
 *.voirfilms.cz
 w.cimacub.com
 *.waploaded.com
@@ -976,11 +1028,14 @@ web.topcinema.io
 *.webteizle3.xyz
 welcome.blasttv.ph
 *.wemycima.ink
+*.wemyycima.bond
+*.wemyycima.site
 *.wiflix.al
 *.wolfmax4k.com
 *.wolfmax4k.net
 *.worldfree4u.events
 *.worldfree4u.forum
+wrwkpevudt3-embed-src.nettoyagereunion.re
 ww.sledujfilmy.io
 ww1.animefenix.vip
 ww1.hindimovies.to
@@ -1024,4 +1079,5 @@ yallakora.misrlinks.com
 *.yallashoot.study
 *.yallashootstudio.com
 yozm.wishket.com
+*.zalukajx.pl
 *.zfilmizle.com

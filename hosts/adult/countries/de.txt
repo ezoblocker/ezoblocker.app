@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Germany (de)
-# Domains: 70 | Updated: 2026-11-01
+# Domains: 72 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/de.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@
 0.0.0.0 apornstories.com
 0.0.0.0 askari-jagd.at
 0.0.0.0 baumwollseil.de
+0.0.0.0 berlin.city-map.de
 0.0.0.0 boutique-bizarre.de
 0.0.0.0 camsexdeutsch.com
 0.0.0.0 charlottedewinter.com
@@ -73,4 +74,5 @@
 0.0.0.0 toytastisch.de
 0.0.0.0 unblockmate.red
 0.0.0.0 vodafterdark.com
+0.0.0.0 vpleather.com
 0.0.0.0 woxxx-erotiksupermarkt.de

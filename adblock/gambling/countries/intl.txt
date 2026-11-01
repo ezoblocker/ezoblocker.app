@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, International (intl)
-! Domains: 77 | Updated: 2026-11-01
+! Domains: 89 | Updated: 2026-11-01
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/intl.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@
 ||22bet.co.tz^
 ||22bet.co.zm^
 ||22bet.ug^
+||711sports.be^
 ||7777.md^
 ||888sport.ro^
 ||afropari.ng^
@@ -19,12 +20,15 @@
 ||bcgamebet.ng^
 ||betandyouafrica.com^
 ||betano.be^
+||betcha.pa^
 ||betgol.pe^
 ||bethard.es^
 ||betinia.ro^
 ||betsafe.ee^
+||betss.com^
 ||betsson.cm^
 ||betsson.dk^
+||bettabets.co.za^
 ||betting.co.mw^
 ||betting.co.zm^
 ||betting.co.zw^
@@ -43,10 +47,15 @@
 ||expekt.dk^
 ||firstbet.co.za^
 ||football.com^
+||fortebet.ng^
+||fortebet.rw^
+||gana777.sv^
 ||gsb.co.tz^
 ||helabet.co.tz^
 ||helabet.ng^
 ||helabetke.com^
+||hkjc.com^
+||kirolbet.es^
 ||lottoland.mx^
 ||marathonbet.dk^
 ||matchbook.mx^
@@ -69,7 +78,10 @@
 ||parimatch.com.cy^
 ||paripesa.co.zm^
 ||pokerstars.se^
-||scooore.be^
+||puntit.com^
+||puntitnorway.com^
+||puntitsports.com^
+||readysetbet.co.za^
 ||speedybet.es^
 ||sportium.com.co^
 ||sportybet.co.cm^

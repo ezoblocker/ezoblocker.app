@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass, South Korea (kr)
-# Domains: 10 | Updated: 2026-11-01
+# Domains: 12 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/bypass/countries/kr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,10 +7,12 @@
 0.0.0.0 anisopstal.rora-desszertmuhely.hu
 0.0.0.0 apt.izzysoft.de
 0.0.0.0 bbs.clashhub.net
+0.0.0.0 denseabuchsvit.webmill.hu
 0.0.0.0 getunicorn.app
 0.0.0.0 gpedit.tplant.com.au
 0.0.0.0 m.3smedi.co.kr
 0.0.0.0 post.malltail.com
 0.0.0.0 powertunnel.org
 0.0.0.0 psiphon.kr.softmany.com
+0.0.0.0 wormteemima.donnabrigida.it
 0.0.0.0 yozm.wishket.com

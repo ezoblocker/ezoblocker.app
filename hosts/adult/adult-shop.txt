@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,258 | Updated: 2026-11-01
+# Domains: 1,297 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 18plus.com.ua
 0.0.0.0 1a-erotikshops.de
 0.0.0.0 1advd.ch
+0.0.0.0 24-horas.mx
 0.0.0.0 4love.ro
 0.0.0.0 4playessentials.co.za
 0.0.0.0 50nuances.ca
@@ -48,12 +49,14 @@
 0.0.0.0 adulttoys-india.com
 0.0.0.0 adulttoysspot.com
 0.0.0.0 adulttoystore.com.au
+0.0.0.0 adulttoysuperstore.com.au
 0.0.0.0 adultworld.ai
 0.0.0.0 adultworld.co.za
 0.0.0.0 adultworld.com.au
 0.0.0.0 adultworldx.com
 0.0.0.0 adultzoneca.com
 0.0.0.0 ae.gulf-5hop.com
+0.0.0.0 aego.co.kr
 0.0.0.0 afroditebutiken.se
 0.0.0.0 agorshop.com
 0.0.0.0 albonishop.com
@@ -114,16 +117,19 @@
 0.0.0.0 bednerdz.com
 0.0.0.0 belemsexshop.com.br
 0.0.0.0 bellebras.com.br
+0.0.0.0 bellesaimes.com
 0.0.0.0 belove.cl
 0.0.0.0 belover.es
 0.0.0.0 belupa.com
 0.0.0.0 bemeow.mx
+0.0.0.0 berlin.city-map.de
 0.0.0.0 berluti.com
 0.0.0.0 besame.com
 0.0.0.0 bestlovesexdoll.com
 0.0.0.0 bestofeugene.com
 0.0.0.0 bestvibe.pk
 0.0.0.0 beus.com.br
+0.0.0.0 bid.bertoiaauctions.com
 0.0.0.0 big-toys.com.ua
 0.0.0.0 bitkiselshop.com.tr
 0.0.0.0 blackknighterotica.com.au
@@ -138,6 +144,7 @@
 0.0.0.0 bondara.co.uk
 0.0.0.0 boozyshop.be
 0.0.0.0 boozyshop.nl
+0.0.0.0 bornovashop.com
 0.0.0.0 bousens.com
 0.0.0.0 boutique-bizarre.de
 0.0.0.0 boutique-erotique.fr
@@ -241,14 +248,18 @@
 0.0.0.0 distribuidorasexshop.com.br
 0.0.0.0 distrisexcolombia.com
 0.0.0.0 divertity.com
+0.0.0.0 dkintimates.commercesuite.com.br
 0.0.0.0 dochoinam.com
 0.0.0.0 dochoitinhduc4u.com
 0.0.0.0 dochoitinhducxtoy.com
 0.0.0.0 doctorjohns.online
+0.0.0.0 doll.shop
 0.0.0.0 dollindia.in
 0.0.0.0 dolloro.de
+0.0.0.0 domaedoll.com
 0.0.0.0 domdom.com.my
 0.0.0.0 dominame.cl
+0.0.0.0 domlust.com
 0.0.0.0 domnisoare.ro
 0.0.0.0 donacoelha.com
 0.0.0.0 donadoprazer.com.br
@@ -260,6 +271,7 @@
 0.0.0.0 dreamsptystore.com
 0.0.0.0 dreamydesire.com
 0.0.0.0 drloves.vn
+0.0.0.0 dubailovetoys.com
 0.0.0.0 dubaiplasticfun.com
 0.0.0.0 dublintown.ie
 0.0.0.0 dulcegatita.com.co
@@ -308,6 +320,7 @@
 0.0.0.0 erotic-med.pl
 0.0.0.0 erotic-shop.ro
 0.0.0.0 erotic24.ro
+0.0.0.0 eroticae.com
 0.0.0.0 eroticavip.ru
 0.0.0.0 eroticcity.cz
 0.0.0.0 eroticfeel.com
@@ -395,6 +408,7 @@
 0.0.0.0 goota.com.ar
 0.0.0.0 gorgeous-berlin.de
 0.0.0.0 greatstuffy.com
+0.0.0.0 greta.shop
 0.0.0.0 guardianbikes.com
 0.0.0.0 guiacereza.com
 0.0.0.0 gunshop.vn
@@ -462,6 +476,7 @@
 0.0.0.0 joynjoy.com
 0.0.0.0 juguetessexualescolombia.com
 0.0.0.0 juicycat.kr
+0.0.0.0 julingerie.com.br
 0.0.0.0 jungfrauplus.de
 0.0.0.0 jungfrauplus.gutscheine7.de
 0.0.0.0 jupian.co.kr
@@ -481,6 +496,7 @@
 0.0.0.0 kinkaroundme.com
 0.0.0.0 kinkly.com
 0.0.0.0 kinklyapp.com
+0.0.0.0 kinkyevents.co.uk
 0.0.0.0 kinkysexshop.gr
 0.0.0.0 kinkystore.pl
 0.0.0.0 kirmizicadde.com
@@ -490,6 +506,7 @@
 0.0.0.0 kisskiss.eu
 0.0.0.0 klantcontact.nl
 0.0.0.0 klinikbondage.com
+0.0.0.0 kondom.it
 0.0.0.0 kondomeriet.com
 0.0.0.0 kondomeriet.se
 0.0.0.0 kookooshop.gr
@@ -529,6 +546,7 @@
 0.0.0.0 livesforce.com
 0.0.0.0 lizzybliss.co.za
 0.0.0.0 lojaafrodite.com.br
+0.0.0.0 lojadiscretinha.com.br
 0.0.0.0 lojadodesejo.com.br
 0.0.0.0 lojadodesejo.pt
 0.0.0.0 lojadoprazer.com.br
@@ -632,8 +650,11 @@
 0.0.0.0 mahremdukkani.com
 0.0.0.0 mailfemale.com
 0.0.0.0 maison-du-plug.fr
+0.0.0.0 maisonblack.com.ar
+0.0.0.0 makeup.it
 0.0.0.0 makeup.pl
 0.0.0.0 maletavermelha.com
+0.0.0.0 mallorca-map.com
 0.0.0.0 mallux.de
 0.0.0.0 mammothcoffee.com
 0.0.0.0 manchesteradultlifestyles.com
@@ -673,6 +694,7 @@
 0.0.0.0 mixsextoy.com
 0.0.0.0 modernlove.pl
 0.0.0.0 moira.cl
+0.0.0.0 monella69.com
 0.0.0.0 monprince.ca
 0.0.0.0 monsterpub.com
 0.0.0.0 moodsexshop.co.uk
@@ -741,6 +763,7 @@
 0.0.0.0 onlinesexshop.se
 0.0.0.0 ontopoflove.nl
 0.0.0.0 onyxsolar.es
+0.0.0.0 oohmygod.fr
 0.0.0.0 ophelialingerie.ie
 0.0.0.0 oppsystore.com
 0.0.0.0 orchidtoys.com
@@ -770,6 +793,7 @@
 0.0.0.0 passionfruitshop.com.au
 0.0.0.0 patxi.es
 0.0.0.0 pbtoy.co.kr
+0.0.0.0 peepshowtoys.com
 0.0.0.0 peitschenhandel.de
 0.0.0.0 pendikseksshop.com
 0.0.0.0 pepemio.com
@@ -802,9 +826,11 @@
 0.0.0.0 pleasureshop.com.ph
 0.0.0.0 pleasurestore.ie
 0.0.0.0 pleasurex.ca
+0.0.0.0 pluralsexshop.com.br
 0.0.0.0 pocztakubkowa.pl
 0.0.0.0 polunichka.ua
 0.0.0.0 ponchik.com.ua
+0.0.0.0 pontoerotico.com.br
 0.0.0.0 popup-ireland.com
 0.0.0.0 portoxxi.com
 0.0.0.0 positive-vibrations.hr
@@ -866,6 +892,7 @@
 0.0.0.0 saleone.pk
 0.0.0.0 salexo.de
 0.0.0.0 salvajesexstore.com
+0.0.0.0 samanta.pl
 0.0.0.0 samsunsens.com
 0.0.0.0 satisfyer.com
 0.0.0.0 sauvage.com.ar
@@ -964,6 +991,7 @@
 0.0.0.0 sexshopargentino.com.ar
 0.0.0.0 sexshopatacadao.com.br
 0.0.0.0 sexshopberlin.com
+0.0.0.0 sexshopcampos.com.br
 0.0.0.0 sexshopcanada.ca
 0.0.0.0 sexshopconcepcion.cl
 0.0.0.0 sexshopcordoba.com
@@ -1011,6 +1039,7 @@
 0.0.0.0 sextoysex.ca
 0.0.0.0 sextoysindubai.com
 0.0.0.0 sextoysuae.com
+0.0.0.0 sextoysunivers.com
 0.0.0.0 sextoythailand.com
 0.0.0.0 sextoyuae.store
 0.0.0.0 sextoyvergleich.de
@@ -1119,8 +1148,11 @@
 0.0.0.0 talla.ua
 0.0.0.0 tayf.ist
 0.0.0.0 teeny29.ch
+0.0.0.0 temptations.dk
+0.0.0.0 tenga.co.uk
 0.0.0.0 tenga.com.my
 0.0.0.0 tenga.my
+0.0.0.0 tentacaomodas.com.br
 0.0.0.0 tentazionivelate.com
 0.0.0.0 tesstesst.nl
 0.0.0.0 thaisextoy.com
@@ -1144,16 +1176,21 @@
 0.0.0.0 thistleandspire.com
 0.0.0.0 thomasmorehs.nl
 0.0.0.0 thornandfeather.ca
+0.0.0.0 tidouk.com
 0.0.0.0 tiendacereza.com
 0.0.0.0 tiendaerotica.cl
 0.0.0.0 tiendaeroticapasiones.com
 0.0.0.0 tiendaeroticavip.com
+0.0.0.0 tiendapoppers.com
 0.0.0.0 tiendavenus.com
 0.0.0.0 tipli.ro
+0.0.0.0 tmscsp.scoripfragin.blog
 0.0.0.0 tochka-lubvi.ru
 0.0.0.0 toendi.com
+0.0.0.0 tolove.mx
 0.0.0.0 tomrockets.com
 0.0.0.0 tops.co.th
+0.0.0.0 topsexshop.pl
 0.0.0.0 totallyadult.com.au
 0.0.0.0 touchyourbody.com
 0.0.0.0 toy-versand.com
@@ -1216,6 +1253,7 @@
 0.0.0.0 vivelavita.com
 0.0.0.0 vntoy.vn
 0.0.0.0 volupiasexshop.com.br
+0.0.0.0 vpleather.com
 0.0.0.0 vposteli.ua
 0.0.0.0 vsexshopgdlalcala.com.mx
 0.0.0.0 vushstimulation.com
@@ -1256,6 +1294,7 @@
 0.0.0.0 yessir.com.br
 0.0.0.0 yoo.cz
 0.0.0.0 yourobsession.pl
+0.0.0.0 yourpleasuretoys.com
 0.0.0.0 yoxo.it
 0.0.0.0 zeidemayorista.com
 0.0.0.0 zetasexshop.com

@@ -1,12 +1,15 @@
 # Title: EZOBLOCKER Gambling, Sweden (se)
-# Domains: 22 | Updated: 2026-11-01
+# Domains: 26 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/se.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 bankonbetcasino.eu
 0.0.0.0 bethard.es
 0.0.0.0 bonukset-ilman-kierratysta-lab.tervarinne.fi
+0.0.0.0 casinia-casino-es.net
 0.0.0.0 casinia-online.eu
+0.0.0.0 casinia-si.si
 0.0.0.0 casiniacasino.com.se
 0.0.0.0 casinocoach.se
 0.0.0.0 casinocurrencies.ca
@@ -17,11 +20,12 @@
 0.0.0.0 ggaff.bet
 0.0.0.0 haku.vainu.com
 0.0.0.0 irishluck.ie
+0.0.0.0 lpgrhl.xtremegutterclean.co.uk
 0.0.0.0 nominiboards.com
 0.0.0.0 novibet-roulette-ujp.itawebitalia.it
-0.0.0.0 paf.lv
 0.0.0.0 paynplaycasinoonline.com
 0.0.0.0 rabonasports.org
+0.0.0.0 speedybet.es
 0.0.0.0 speltips.se
 0.0.0.0 svenskacasinosajten.se
 0.0.0.0 tybwrr.kingfitbrescia.it

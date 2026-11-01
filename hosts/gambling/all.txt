@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 398,411 | Updated: 2026-11-01
+# Domains: 398,431 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -24480,6 +24480,7 @@
 0.0.0.0 alrightcasino.com
 0.0.0.0 alrightcasino.com.de
 0.0.0.0 alrightcasino.de.com
+0.0.0.0 alrouletteonline.com
 0.0.0.0 alsace-casino.com
 0.0.0.0 alsgarage.it
 0.0.0.0 alsheikhcasino.com
@@ -30415,6 +30416,7 @@
 0.0.0.0 arabiccasinochoice.com
 0.0.0.0 arabiccasinos.com
 0.0.0.0 arabiccryptocasino.com
+0.0.0.0 arabiccryptocasinoonline.com
 0.0.0.0 arabicvip-casino.com
 0.0.0.0 arabonlinecasinorealmoney.com
 0.0.0.0 arabtopcasino.com
@@ -36257,6 +36259,7 @@
 0.0.0.0 bahisabigunceladres.com
 0.0.0.0 bahisabiguncelgirisi.com
 0.0.0.0 bahisbilgileri.net
+0.0.0.0 bahisbom160.com
 0.0.0.0 bahisbomcasino.com
 0.0.0.0 bahisbonusu.com
 0.0.0.0 bahiscasino-anlik.icu
@@ -37658,6 +37661,7 @@
 0.0.0.0 bankonbetcasino.com.pl
 0.0.0.0 bankonbetcasino.de.com
 0.0.0.0 bankonbetcasino.digital
+0.0.0.0 bankonbetcasino.eu
 0.0.0.0 bankonbetcasino.fi
 0.0.0.0 bankonbetcasino.hu.net
 0.0.0.0 bankonbetcasino.net
@@ -57523,6 +57527,7 @@
 0.0.0.0 betwinner1.net
 0.0.0.0 betwinner2020.info
 0.0.0.0 betwinner2023.ru
+0.0.0.0 betwinner2027.com
 0.0.0.0 betwinner247login.com
 0.0.0.0 betwinner249.ru
 0.0.0.0 betwinner360.com
@@ -67943,6 +67948,7 @@
 0.0.0.0 brasilbrazino777.com
 0.0.0.0 brasilbrazino777.org
 0.0.0.0 brasilcasino.net
+0.0.0.0 brasilcasinos.com.br
 0.0.0.0 brasilmelbet.com
 0.0.0.0 brasilparimatch.com
 0.0.0.0 brasiltigrinho.com
@@ -74676,6 +74682,7 @@
 0.0.0.0 casinia-qa.com
 0.0.0.0 casinia-qatar.com
 0.0.0.0 casinia-quest.pages.dev
+0.0.0.0 casinia-si.si
 0.0.0.0 casinia-sk-net-27697.pages.dev
 0.0.0.0 casinia-sk.com
 0.0.0.0 casinia-sl.com
@@ -90037,6 +90044,7 @@
 0.0.0.0 casinocafe88.pages.dev
 0.0.0.0 casinocafedeparis.com
 0.0.0.0 casinocafes.com
+0.0.0.0 casinocairo.com
 0.0.0.0 casinocake.cl
 0.0.0.0 casinocakir2.com
 0.0.0.0 casinocalaisfr-com.pages.dev
@@ -127742,6 +127750,7 @@
 0.0.0.0 crixcasino.co
 0.0.0.0 crixcasino.org
 0.0.0.0 crmcaravans.com
+0.0.0.0 crn.mr
 0.0.0.0 crnagoracasino.com
 0.0.0.0 cro88homebet.com
 0.0.0.0 croatia-bonusesfinder.com
@@ -202921,6 +202930,7 @@
 0.0.0.0 kuvipcasinobet.com
 0.0.0.0 kuwait-casino.net
 0.0.0.0 kuwait-onlinecasinos.com
+0.0.0.0 kuwaitcasino.bet
 0.0.0.0 kuwaitcasino.com
 0.0.0.0 kuwaitcasino.net
 0.0.0.0 kuwaitcasinoonline.com
@@ -214137,6 +214147,7 @@
 0.0.0.0 lpart-jagoledak.pages.dev
 0.0.0.0 lpbvi-jagoledak.pages.dev
 0.0.0.0 lpgov-jagoledak.pages.dev
+0.0.0.0 lpgrhl.xtremegutterclean.co.uk
 0.0.0.0 lpgslot.pages.dev
 0.0.0.0 lpgslot888.pages.dev
 0.0.0.0 lpgslotgacor-728.pages.dev
@@ -229581,6 +229592,7 @@
 0.0.0.0 melbet-kirish-1.top
 0.0.0.0 melbet-kirish-uz.com
 0.0.0.0 melbet-kirish.com
+0.0.0.0 melbet-kladionica-plv.prirodnikamen.co.rs
 0.0.0.0 melbet-klc.top
 0.0.0.0 melbet-kpjw.top
 0.0.0.0 melbet-kyrgyz.com
@@ -246457,6 +246469,7 @@
 0.0.0.0 nakitbahis-casino.org
 0.0.0.0 nakitbahis.cam
 0.0.0.0 nakitbahis.com
+0.0.0.0 nakitbahis1138.com
 0.0.0.0 nakitbahiscasino-ca.pages.dev
 0.0.0.0 nakitbahiscasino.com
 0.0.0.0 nakitbahisgiris.wiki
@@ -265605,6 +265618,7 @@
 0.0.0.0 ozwincasino.tv
 0.0.0.0 ozwincasino.us
 0.0.0.0 ozwincasino.vip
+0.0.0.0 ozwincasino.website
 0.0.0.0 ozwincasino.win
 0.0.0.0 ozwincasino1.com
 0.0.0.0 ozwincasino100-com.pages.dev
@@ -267170,6 +267184,7 @@
 0.0.0.0 panduanjudicasino.pages.dev
 0.0.0.0 panduanslotgacor-1rs.pages.dev
 0.0.0.0 panduriics.ro
+0.0.0.0 panel.vrb.com.tr
 0.0.0.0 panen-cuan-hoki365slotnet.pages.dev
 0.0.0.0 panen-cuan-hoki68slotnet.pages.dev
 0.0.0.0 panen-cuan-hoki888slotorg.pages.dev
@@ -287422,6 +287437,7 @@
 0.0.0.0 proamptotoslot.pages.dev
 0.0.0.0 proapuestas.es
 0.0.0.0 proativainspecoes-casino.pages.dev
+0.0.0.0 probet706.com
 0.0.0.0 probet88-andalan-slot-gacor.pages.dev
 0.0.0.0 probet882rty.space
 0.0.0.0 probet883sxc.space
@@ -309750,7 +309766,9 @@
 0.0.0.0 sbetsvip.com
 0.0.0.0 sbetsvip1.com
 0.0.0.0 sbetwinner.com
+0.0.0.0 sbfplay.ch
 0.0.0.0 sbfplay.spa.infratest.lrworld.com
+0.0.0.0 sbfplay.www.visioncodigo.com
 0.0.0.0 sbfplay997.cc
 0.0.0.0 sbgcasino.com
 0.0.0.0 sbgglobalcasino.co.uk
@@ -354429,6 +354447,7 @@
 0.0.0.0 topapostasonline.com
 0.0.0.0 topapuestas.space
 0.0.0.0 topapuestascasino.com
+0.0.0.0 toparabcasinos.com
 0.0.0.0 toparabiccasinos-com.pages.dev
 0.0.0.0 toparabiccasinos.com
 0.0.0.0 topargentinacasino.com
@@ -383037,6 +383056,7 @@
 0.0.0.0 wildzcasinofr.shop
 0.0.0.0 wildzcasinogames.com
 0.0.0.0 wildzcasinok.com
+0.0.0.0 wildzcasinonorway.shop
 0.0.0.0 wildzcasinonz-com-5s8.pages.dev
 0.0.0.0 wildzcasinonz-com-8ba.pages.dev
 0.0.0.0 wildzcasinonz.net

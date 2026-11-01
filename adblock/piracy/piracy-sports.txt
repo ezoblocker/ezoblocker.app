@@ -1,9 +1,10 @@
 ! Title: EZOBLOCKER Piracy, illegal sports streams
-! Domains: 382 | Updated: 2026-11-01
+! Domains: 403 | Updated: 2026-11-01
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/piracy-sports.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+||4socolive.tv^
 ||6stream.net^
 ||7msport.com^
 ||90phut.dev^
@@ -27,12 +28,14 @@
 ||buffstreams24.org^
 ||buffstreamsapp.com^
 ||buffstreamz.fun^
+||cakhia14.com^
 ||cakhia4.org^
 ||cakhia6tv.tv^
 ||cakhiatv.college^
 ||cakhiatv.fit^
 ||cakhiatvc.group^
 ||cakhiaxs.tv^
+||cakhiazbm.tv^
 ||cakhiazbp.tv^
 ||canlimacizlet.altervista.org^
 |cepi.cb.ce.gov.br^
@@ -44,6 +47,7 @@
 ||crackstreams.guru^
 ||crackstreams.in^
 ||crackstreams.mx^
+||crackstreams1.cx^
 ||crackstreamsmax.site^
 ||cricfree.beer^
 ||crichd.lol^
@@ -73,12 +77,14 @@
 ||footybite.dev^
 ||footybite.football^
 ||footybite.forum^
+||footybite.gold^
 ||footybite.im^
 ||footybite.live^
 ||footybite.skin^
 ||footybite.soccer^
 ||footybite.to^
 ||footybite.vg^
+||footybite1.li^
 ||footybite1.live^
 ||footybite2.live^
 ||footybites.biz^
@@ -143,6 +149,7 @@
 ||kooora4live.quest^
 ||kooora4live.website^
 ||kooora4lives.one^
+||koora.com^
 ||koora4ever.net^
 ||koora4live.today^
 ||koora4stream.site^
@@ -191,6 +198,7 @@
 ||livetv.fr^
 ||livetv.life^
 |livetv.tv-vlaanderen.be^
+||liveyallashot0.xyz^
 |llsflwjo.riverpeak.lat^
 |m.3smedi.co.kr^
 |m.acestream.net^
@@ -202,6 +210,7 @@
 ||muayded789.com^
 ||multicanaishdtv.com.br^
 ||myvipbox.com^
+||nbabite.info^
 ||nbabite.net^
 ||netspor.co^
 ||netsporhd10.cc^
@@ -215,6 +224,7 @@
 ||pelotalibre.today^
 ||pelotalibreenvivo.cl^
 ||pelotalibreplus.com^
+||pelotalibreplus.pe^
 ||pelotalibretv1.biz^
 |pirlotv-futbol-en-vivo-directo.apps112.com^
 ||pirlotv.bar^
@@ -222,9 +232,12 @@
 ||pirlotv.la^
 ||pirlotv.plus^
 ||pirlotv.red^
+||pirlotv.sh^
 ||pirlotv.shop^
 ||pirlotv.win^
 ||pirlotv1.live^
+||pirlotvapk.net^
+||pirlotvplay.online^
 ||pirlotvv.org^
 ||premierleague.com^
 ||quicksportstv.com^
@@ -240,6 +253,7 @@
 ||rojadirectatv.skin^
 ||rojadirectatvmas.org^
 ||rojadirectatvplay.com^
+||rojadirectatvplay.org^
 |s1s.designq.kr^
 |saas.spochak.com^
 ||scoreman123.com^
@@ -258,6 +272,7 @@
 ||socolivetvz.top^
 ||socolivev.co^
 ||socolivezq.tv^
+||socolivezw.tv^
 |sp.supercell.jp^
 |sport.sky.ch^
 ||sport168.app^
@@ -283,6 +298,7 @@
 ||streameastmirror.com^
 ||streameastonline.com^
 ||streameasttop.com^
+||streameastv2.mom^
 ||streamed.cyou^
 ||streamonsport.blog^
 ||streamonsport.lat^
@@ -313,6 +329,7 @@
 ||tarjetaroja.surf^
 ||tarjetarojadirecta.biz^
 ||tarjetarojadirecta.es^
+||tarjetarojadirectatv.me^
 ||tarjetarojaenvivo.online^
 ||tarjetarojaonline.info^
 ||tarjetarojaonline.pro^
@@ -327,8 +344,11 @@
 ||today-yalla-shoot.com^
 ||totalsportek.org.im^
 ||totalsportek1.is^
+||totalsportek1.li^
+||totalsportek1.online^
 ||totalsportekhd.live^
 ||totalsporteki.fit^
+||totalsporteki.icu^
 ||totalsportekl.is^
 ||totalsportekplus.org^
 ||totalsportscentral.com^
@@ -338,6 +358,7 @@
 ||tructiep90phuttv.club^
 ||ttbd-socolive.pro^
 ||tufutbollibre.online^
+|tv.kleague.com^
 |tv.makeevka.com^
 |tv.sfl.ch^
 ||tvsiir.co^

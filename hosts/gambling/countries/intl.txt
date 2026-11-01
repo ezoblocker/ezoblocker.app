@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, International (intl)
-# Domains: 77 | Updated: 2026-11-01
+# Domains: 89 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/intl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@
 0.0.0.0 22bet.co.tz
 0.0.0.0 22bet.co.zm
 0.0.0.0 22bet.ug
+0.0.0.0 711sports.be
 0.0.0.0 7777.md
 0.0.0.0 888sport.ro
 0.0.0.0 afropari.ng
@@ -19,12 +20,15 @@
 0.0.0.0 bcgamebet.ng
 0.0.0.0 betandyouafrica.com
 0.0.0.0 betano.be
+0.0.0.0 betcha.pa
 0.0.0.0 betgol.pe
 0.0.0.0 bethard.es
 0.0.0.0 betinia.ro
 0.0.0.0 betsafe.ee
+0.0.0.0 betss.com
 0.0.0.0 betsson.cm
 0.0.0.0 betsson.dk
+0.0.0.0 bettabets.co.za
 0.0.0.0 betting.co.mw
 0.0.0.0 betting.co.zm
 0.0.0.0 betting.co.zw
@@ -43,10 +47,15 @@
 0.0.0.0 expekt.dk
 0.0.0.0 firstbet.co.za
 0.0.0.0 football.com
+0.0.0.0 fortebet.ng
+0.0.0.0 fortebet.rw
+0.0.0.0 gana777.sv
 0.0.0.0 gsb.co.tz
 0.0.0.0 helabet.co.tz
 0.0.0.0 helabet.ng
 0.0.0.0 helabetke.com
+0.0.0.0 hkjc.com
+0.0.0.0 kirolbet.es
 0.0.0.0 lottoland.mx
 0.0.0.0 marathonbet.dk
 0.0.0.0 matchbook.mx
@@ -69,7 +78,10 @@
 0.0.0.0 parimatch.com.cy
 0.0.0.0 paripesa.co.zm
 0.0.0.0 pokerstars.se
-0.0.0.0 scooore.be
+0.0.0.0 puntit.com
+0.0.0.0 puntitnorway.com
+0.0.0.0 puntitsports.com
+0.0.0.0 readysetbet.co.za
 0.0.0.0 speedybet.es
 0.0.0.0 sportium.com.co
 0.0.0.0 sportybet.co.cm

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Philippines (ph)
-! Domains: 28 | Updated: 2026-11-01
+! Domains: 31 | Updated: 2026-11-01
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/ph.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 ||asianpinay.uk^
 ||fascinations.net^
 ||kaldagan.tv^
+||katorsex.city^
 ||kinkly.com^
 ||kinklyapp.com^
 ||lush.com.ph^
@@ -16,7 +17,9 @@
 ||mygiddi.com^
 ||mysensualsecrets.com^
 |old.spot.ph^
+||pinayflix.ac^
 ||pinayflix.blog^
+||pinayflix.city^
 ||pinayflix.gl^
 ||pinayflix.id^
 ||pinkbunny.ph^

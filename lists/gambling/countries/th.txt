@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Thailand (th)
-# Domains: 22 | Updated: 2026-11-01
+# Domains: 24 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/countries/th.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,7 +16,9 @@ member.ufabet.land
 *.royal-1688.com
 *.royal1688.com
 *.royalonline1688.com
+*.sbfplay.ch
 sbfplay.spa.infratest.lrworld.com
+sbfplay.www.visioncodigo.com
 *.sbfplay997.cc
 *.seabet333.bet
 *.ufa191ab.com

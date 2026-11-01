@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, India (in)
-# Domains: 50 | Updated: 2026-11-01
+# Domains: 57 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/in.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -20,10 +20,12 @@
 0.0.0.0 desimms.in
 0.0.0.0 desimmsvideo.com
 0.0.0.0 desiviral.cc
+0.0.0.0 desixhub.media
 0.0.0.0 desixxn.com
 0.0.0.0 dollindia.in
 0.0.0.0 findshop.co
 0.0.0.0 freakyfun.in
+0.0.0.0 fsiblogx.org.im
 0.0.0.0 imbesharam.com
 0.0.0.0 indianbfclips.com
 0.0.0.0 intimexa.com
@@ -31,21 +33,25 @@
 0.0.0.0 itspleasure.in
 0.0.0.0 itspleazure.com
 0.0.0.0 kaamastra.com
+0.0.0.0 kamababa1.watch
 0.0.0.0 kamasutra.com
 0.0.0.0 leezus.com
 0.0.0.0 lovedepot.com
 0.0.0.0 lovenjoy.co.in
 0.0.0.0 masafun.in.net
 0.0.0.0 masahub.org.im
+0.0.0.0 mydesi.diy
 0.0.0.0 mydesix1.guru
 0.0.0.0 mymuse.in
 0.0.0.0 mysextoysindia.com
 0.0.0.0 naughtynights.in
 0.0.0.0 onlinefuntoys.com
 0.0.0.0 privypleasures.com
+0.0.0.0 pronhouse.rest
 0.0.0.0 pronhouse.space
 0.0.0.0 secretkink.com
 0.0.0.0 sextoys-india.shop
+0.0.0.0 sexvideohindi.blog
 0.0.0.0 thatsassything.com
 0.0.0.0 thatspersonal.com
 0.0.0.0 thekinkshop.com
@@ -53,4 +59,5 @@
 0.0.0.0 uncutprime.to
 0.0.0.0 viralbf10.com
 0.0.0.0 viralbf11.com
+0.0.0.0 viralbf12.com
 0.0.0.0 xxxvideo.org.im

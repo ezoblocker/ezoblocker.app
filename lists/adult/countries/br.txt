@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Brazil (br)
-# Domains: 34 | Updated: 2026-11-01
+# Domains: 40 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/br.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,7 @@
 br.promocodie.com
 *.brinquedossexuais.pt
 *.distribuidorasexshop.com.br
+dkintimates.commercesuite.com.br
 *.donacoelha.com
 *.donadoprazer.com.br
 *.exclusivasex.com.br
@@ -23,6 +24,7 @@ br.promocodie.com
 *.goodvibres.com.br
 *.gruposdeputaria.net
 *.hazoosexshop.com.br
+*.julingerie.com.br
 *.libidi.com.br
 *.linksgrupos.com
 *.lojadoprazer.com.br
@@ -30,9 +32,13 @@ br.promocodie.com
 *.loungerie.com.br
 *.onlyporno.blog
 *.pantynova.com
+*.pluralsexshop.com.br
+*.pontoerotico.com.br
 secretboxsexshop.brbelacupom.com
+*.sexshopcampos.com.br
 *.sexuhlala.com.br
 *.sweetmysterysexshop.com.br
+*.tentacaomodas.com.br
 tulipasexshop.meudesconto.org
 villagecenterfl.govbuilt.com
 *.vitrinedaputaria.com

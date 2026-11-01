@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Gambling, KZ (kz)
-# Domains: 3 | Updated: 2026-11-01
+# Domains: 4 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/kz.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 bkolimp.kg
 0.0.0.0 olimpkz.com
+0.0.0.0 parimatch.com.cy
 0.0.0.0 ubet.kz

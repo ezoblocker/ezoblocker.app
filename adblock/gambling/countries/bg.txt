@@ -1,8 +1,7 @@
 ! Title: EZOBLOCKER Gambling, Bulgaria (bg)
-! Domains: 2 | Updated: 2026-11-01
+! Domains: 1 | Updated: 2026-11-01
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/bg.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||inbet.mx^
-||mrbit.ba^

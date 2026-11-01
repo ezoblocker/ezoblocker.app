@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, United States (us)
-# Domains: 55 | Updated: 2026-11-01
+# Domains: 63 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -30,23 +30,30 @@ fargo.myescort.network
 ft-myers-sw-florida.bonepage.com
 *.fundmysugarbaby.com
 green-bay.bonepage.com
+hickory-lenoir.bonepage.com
 hillsboro-il.virtalog.ru
+*.hookupfluent.com
 *.hookups365.com.au
+humboldt-county.bonepage.com
+jacksonville.bonepage.com
 kibana.compactorstore.com
 *.listcrawler.app
 *.listcrawler.eu
 massachusetts.bonepage.com
+miami.bonepage.com
 orange-county.bonepage.com
 portland-me.bonepage.com
 *.randomchat.social
 *.randomvideochat.me
 *.rubmaps.ch
+sarasota-bradenton.bonepage.com
 *.slixa.com
 springfield.bonepage.com
 *.starbackpage.com
 *.sugardaddy.com
 *.swingersclublist.com
 *.swingersplay.com
+*.swingersplaylive.com
 syracuse.bonepage.com
 tampa-bay-area.bonepage.com
 *.theeroticreview.com
@@ -54,6 +61,7 @@ tampa-bay-area.bonepage.com
 *.tryst.link
 *.trystagency.com
 *.trystidpath.my.id
+tulsa.bonepage.com
 *.usasexguide.nl
 ventura-county.bonepage.com
 *.westcoastswingers.com

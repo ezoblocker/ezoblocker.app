@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,229 | Updated: 2026-11-01
+# Domains: 1,242 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -526,6 +526,7 @@
 0.0.0.0 henhovn.forumvi.com
 0.0.0.0 her.app
 0.0.0.0 heysugardaddy.com
+0.0.0.0 hickory-lenoir.bonepage.com
 0.0.0.0 hillsboro-il.virtalog.ru
 0.0.0.0 hily.com
 0.0.0.0 hinge.co
@@ -536,14 +537,18 @@
 0.0.0.0 honeychat.app
 0.0.0.0 honeychat.bot
 0.0.0.0 hongkongcupid.com
+0.0.0.0 hookupburst.com
 0.0.0.0 hookupclique.com
 0.0.0.0 hookupflare.com
+0.0.0.0 hookupfluent.com
+0.0.0.0 hookupiter.com
 0.0.0.0 hookups365.com.au
 0.0.0.0 hookuptide.com
 0.0.0.0 hossohbet.com
 0.0.0.0 hotescortnearme.com
 0.0.0.0 hotgirlsescortsmallorca.com
 0.0.0.0 hub.xcanto.com
+0.0.0.0 humboldt-county.bonepage.com
 0.0.0.0 i.streetgirls69.com
 0.0.0.0 iasi.abcescorte.com
 0.0.0.0 iasi.escortepubli.com
@@ -580,6 +585,7 @@
 0.0.0.0 isvicresohbet.gen.tr
 0.0.0.0 ivana-models-escortservice.de
 0.0.0.0 jackd.com
+0.0.0.0 jacksonville.bonepage.com
 0.0.0.0 japancupid.com
 0.0.0.0 jdate.com
 0.0.0.0 jecontacte.com
@@ -713,6 +719,7 @@
 0.0.0.0 membre.jetunoo.fr
 0.0.0.0 menuplancul.com
 0.0.0.0 mexicancupid.com
+0.0.0.0 miami.bonepage.com
 0.0.0.0 milano.trovagnocca.com
 0.0.0.0 mileroticos.com
 0.0.0.0 militarycupid.com
@@ -806,6 +813,7 @@
 0.0.0.0 onlinechatcity.com
 0.0.0.0 onlineedistrict.amtron.in
 0.0.0.0 opa.chat-room.gr
+0.0.0.0 opguide.net
 0.0.0.0 opguidego.com
 0.0.0.0 opguidenew.com
 0.0.0.0 opstarko2.com
@@ -940,6 +948,7 @@
 0.0.0.0 saopaulo.classificadosdegraca.com
 0.0.0.0 sapporo.chance.chat
 0.0.0.0 sapporo.happiness-group.com
+0.0.0.0 sarasota-bradenton.bonepage.com
 0.0.0.0 saskatoon.bonepage.com
 0.0.0.0 satu-mare.abcescorte.com
 0.0.0.0 saudidate.com
@@ -1000,6 +1009,7 @@
 0.0.0.0 skokka.com.au
 0.0.0.0 skokka.com.co
 0.0.0.0 skokka.com.pe
+0.0.0.0 skokka.gr
 0.0.0.0 skokka.pt
 0.0.0.0 skout.com
 0.0.0.0 slixa.com
@@ -1043,6 +1053,7 @@
 0.0.0.0 story.s-oil.com
 0.0.0.0 strangercam.com
 0.0.0.0 strangerchat.live
+0.0.0.0 strangerchat.top
 0.0.0.0 strangerline.io
 0.0.0.0 strangermeetup.com
 0.0.0.0 strangerschat.in
@@ -1068,6 +1079,7 @@
 0.0.0.0 swingers.theadulthub.com
 0.0.0.0 swingersclublist.com
 0.0.0.0 swingersplay.com
+0.0.0.0 swingersplaylive.com
 0.0.0.0 swinglifestyle.com
 0.0.0.0 swipr-make-snapchat-friends.softonic.nl
 0.0.0.0 swisschat.org
@@ -1133,6 +1145,7 @@
 0.0.0.0 trystidpath.my.id
 0.0.0.0 tsescorts.com
 0.0.0.0 tube-arabe.org
+0.0.0.0 tulsa.bonepage.com
 0.0.0.0 turkchat.com
 0.0.0.0 turkchat.tc
 0.0.0.0 turkchatfm.com

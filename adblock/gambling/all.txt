@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling
-! Domains: 398,411 | Updated: 2026-11-01
+! Domains: 398,431 | Updated: 2026-11-01
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -24480,6 +24480,7 @@
 ||alrightcasino.com^
 ||alrightcasino.com.de^
 ||alrightcasino.de.com^
+||alrouletteonline.com^
 ||alsace-casino.com^
 ||alsgarage.it^
 ||alsheikhcasino.com^
@@ -30415,6 +30416,7 @@
 ||arabiccasinochoice.com^
 ||arabiccasinos.com^
 ||arabiccryptocasino.com^
+||arabiccryptocasinoonline.com^
 ||arabicvip-casino.com^
 ||arabonlinecasinorealmoney.com^
 ||arabtopcasino.com^
@@ -36257,6 +36259,7 @@
 ||bahisabigunceladres.com^
 ||bahisabiguncelgirisi.com^
 ||bahisbilgileri.net^
+||bahisbom160.com^
 ||bahisbomcasino.com^
 ||bahisbonusu.com^
 ||bahiscasino-anlik.icu^
@@ -37658,6 +37661,7 @@
 ||bankonbetcasino.com.pl^
 ||bankonbetcasino.de.com^
 ||bankonbetcasino.digital^
+||bankonbetcasino.eu^
 ||bankonbetcasino.fi^
 ||bankonbetcasino.hu.net^
 ||bankonbetcasino.net^
@@ -57523,6 +57527,7 @@
 ||betwinner1.net^
 ||betwinner2020.info^
 ||betwinner2023.ru^
+||betwinner2027.com^
 ||betwinner247login.com^
 ||betwinner249.ru^
 ||betwinner360.com^
@@ -67943,6 +67948,7 @@
 ||brasilbrazino777.com^
 ||brasilbrazino777.org^
 ||brasilcasino.net^
+||brasilcasinos.com.br^
 ||brasilmelbet.com^
 ||brasilparimatch.com^
 ||brasiltigrinho.com^
@@ -74676,6 +74682,7 @@
 ||casinia-qa.com^
 ||casinia-qatar.com^
 ||casinia-quest.pages.dev^
+||casinia-si.si^
 ||casinia-sk-net-27697.pages.dev^
 ||casinia-sk.com^
 ||casinia-sl.com^
@@ -90037,6 +90044,7 @@
 ||casinocafe88.pages.dev^
 ||casinocafedeparis.com^
 ||casinocafes.com^
+||casinocairo.com^
 ||casinocake.cl^
 ||casinocakir2.com^
 ||casinocalaisfr-com.pages.dev^
@@ -127742,6 +127750,7 @@
 ||crixcasino.co^
 ||crixcasino.org^
 ||crmcaravans.com^
+||crn.mr^
 ||crnagoracasino.com^
 ||cro88homebet.com^
 ||croatia-bonusesfinder.com^
@@ -202921,6 +202930,7 @@
 ||kuvipcasinobet.com^
 ||kuwait-casino.net^
 ||kuwait-onlinecasinos.com^
+||kuwaitcasino.bet^
 ||kuwaitcasino.com^
 ||kuwaitcasino.net^
 ||kuwaitcasinoonline.com^
@@ -214137,6 +214147,7 @@
 ||lpart-jagoledak.pages.dev^
 ||lpbvi-jagoledak.pages.dev^
 ||lpgov-jagoledak.pages.dev^
+|lpgrhl.xtremegutterclean.co.uk^
 ||lpgslot.pages.dev^
 ||lpgslot888.pages.dev^
 ||lpgslotgacor-728.pages.dev^
@@ -229581,6 +229592,7 @@
 ||melbet-kirish-1.top^
 ||melbet-kirish-uz.com^
 ||melbet-kirish.com^
+|melbet-kladionica-plv.prirodnikamen.co.rs^
 ||melbet-klc.top^
 ||melbet-kpjw.top^
 ||melbet-kyrgyz.com^
@@ -246457,6 +246469,7 @@
 ||nakitbahis-casino.org^
 ||nakitbahis.cam^
 ||nakitbahis.com^
+||nakitbahis1138.com^
 ||nakitbahiscasino-ca.pages.dev^
 ||nakitbahiscasino.com^
 ||nakitbahisgiris.wiki^
@@ -265605,6 +265618,7 @@
 ||ozwincasino.tv^
 ||ozwincasino.us^
 ||ozwincasino.vip^
+||ozwincasino.website^
 ||ozwincasino.win^
 ||ozwincasino1.com^
 ||ozwincasino100-com.pages.dev^
@@ -267170,6 +267184,7 @@
 ||panduanjudicasino.pages.dev^
 ||panduanslotgacor-1rs.pages.dev^
 ||panduriics.ro^
+|panel.vrb.com.tr^
 ||panen-cuan-hoki365slotnet.pages.dev^
 ||panen-cuan-hoki68slotnet.pages.dev^
 ||panen-cuan-hoki888slotorg.pages.dev^
@@ -287422,6 +287437,7 @@
 ||proamptotoslot.pages.dev^
 ||proapuestas.es^
 ||proativainspecoes-casino.pages.dev^
+||probet706.com^
 ||probet88-andalan-slot-gacor.pages.dev^
 ||probet882rty.space^
 ||probet883sxc.space^
@@ -309750,7 +309766,9 @@
 ||sbetsvip.com^
 ||sbetsvip1.com^
 ||sbetwinner.com^
+||sbfplay.ch^
 |sbfplay.spa.infratest.lrworld.com^
+|sbfplay.www.visioncodigo.com^
 ||sbfplay997.cc^
 ||sbgcasino.com^
 ||sbgglobalcasino.co.uk^
@@ -354429,6 +354447,7 @@
 ||topapostasonline.com^
 ||topapuestas.space^
 ||topapuestascasino.com^
+||toparabcasinos.com^
 ||toparabiccasinos-com.pages.dev^
 ||toparabiccasinos.com^
 ||topargentinacasino.com^
@@ -383037,6 +383056,7 @@
 ||wildzcasinofr.shop^
 ||wildzcasinogames.com^
 ||wildzcasinok.com^
+||wildzcasinonorway.shop^
 ||wildzcasinonz-com-5s8.pages.dev^
 ||wildzcasinonz-com-8ba.pages.dev^
 ||wildzcasinonz.net^

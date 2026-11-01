@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 382 | Updated: 2026-11-01
+# Domains: 403 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 4socolive.tv
 0.0.0.0 6stream.net
 0.0.0.0 7msport.com
 0.0.0.0 90phut.dev
@@ -27,12 +28,14 @@
 0.0.0.0 buffstreams24.org
 0.0.0.0 buffstreamsapp.com
 0.0.0.0 buffstreamz.fun
+0.0.0.0 cakhia14.com
 0.0.0.0 cakhia4.org
 0.0.0.0 cakhia6tv.tv
 0.0.0.0 cakhiatv.college
 0.0.0.0 cakhiatv.fit
 0.0.0.0 cakhiatvc.group
 0.0.0.0 cakhiaxs.tv
+0.0.0.0 cakhiazbm.tv
 0.0.0.0 cakhiazbp.tv
 0.0.0.0 canlimacizlet.altervista.org
 0.0.0.0 cepi.cb.ce.gov.br
@@ -44,6 +47,7 @@
 0.0.0.0 crackstreams.guru
 0.0.0.0 crackstreams.in
 0.0.0.0 crackstreams.mx
+0.0.0.0 crackstreams1.cx
 0.0.0.0 crackstreamsmax.site
 0.0.0.0 cricfree.beer
 0.0.0.0 crichd.lol
@@ -73,12 +77,14 @@
 0.0.0.0 footybite.dev
 0.0.0.0 footybite.football
 0.0.0.0 footybite.forum
+0.0.0.0 footybite.gold
 0.0.0.0 footybite.im
 0.0.0.0 footybite.live
 0.0.0.0 footybite.skin
 0.0.0.0 footybite.soccer
 0.0.0.0 footybite.to
 0.0.0.0 footybite.vg
+0.0.0.0 footybite1.li
 0.0.0.0 footybite1.live
 0.0.0.0 footybite2.live
 0.0.0.0 footybites.biz
@@ -143,6 +149,7 @@
 0.0.0.0 kooora4live.quest
 0.0.0.0 kooora4live.website
 0.0.0.0 kooora4lives.one
+0.0.0.0 koora.com
 0.0.0.0 koora4ever.net
 0.0.0.0 koora4live.today
 0.0.0.0 koora4stream.site
@@ -191,6 +198,7 @@
 0.0.0.0 livetv.fr
 0.0.0.0 livetv.life
 0.0.0.0 livetv.tv-vlaanderen.be
+0.0.0.0 liveyallashot0.xyz
 0.0.0.0 llsflwjo.riverpeak.lat
 0.0.0.0 m.3smedi.co.kr
 0.0.0.0 m.acestream.net
@@ -202,6 +210,7 @@
 0.0.0.0 muayded789.com
 0.0.0.0 multicanaishdtv.com.br
 0.0.0.0 myvipbox.com
+0.0.0.0 nbabite.info
 0.0.0.0 nbabite.net
 0.0.0.0 netspor.co
 0.0.0.0 netsporhd10.cc
@@ -215,6 +224,7 @@
 0.0.0.0 pelotalibre.today
 0.0.0.0 pelotalibreenvivo.cl
 0.0.0.0 pelotalibreplus.com
+0.0.0.0 pelotalibreplus.pe
 0.0.0.0 pelotalibretv1.biz
 0.0.0.0 pirlotv-futbol-en-vivo-directo.apps112.com
 0.0.0.0 pirlotv.bar
@@ -222,9 +232,12 @@
 0.0.0.0 pirlotv.la
 0.0.0.0 pirlotv.plus
 0.0.0.0 pirlotv.red
+0.0.0.0 pirlotv.sh
 0.0.0.0 pirlotv.shop
 0.0.0.0 pirlotv.win
 0.0.0.0 pirlotv1.live
+0.0.0.0 pirlotvapk.net
+0.0.0.0 pirlotvplay.online
 0.0.0.0 pirlotvv.org
 0.0.0.0 premierleague.com
 0.0.0.0 quicksportstv.com
@@ -240,6 +253,7 @@
 0.0.0.0 rojadirectatv.skin
 0.0.0.0 rojadirectatvmas.org
 0.0.0.0 rojadirectatvplay.com
+0.0.0.0 rojadirectatvplay.org
 0.0.0.0 s1s.designq.kr
 0.0.0.0 saas.spochak.com
 0.0.0.0 scoreman123.com
@@ -258,6 +272,7 @@
 0.0.0.0 socolivetvz.top
 0.0.0.0 socolivev.co
 0.0.0.0 socolivezq.tv
+0.0.0.0 socolivezw.tv
 0.0.0.0 sp.supercell.jp
 0.0.0.0 sport.sky.ch
 0.0.0.0 sport168.app
@@ -283,6 +298,7 @@
 0.0.0.0 streameastmirror.com
 0.0.0.0 streameastonline.com
 0.0.0.0 streameasttop.com
+0.0.0.0 streameastv2.mom
 0.0.0.0 streamed.cyou
 0.0.0.0 streamonsport.blog
 0.0.0.0 streamonsport.lat
@@ -313,6 +329,7 @@
 0.0.0.0 tarjetaroja.surf
 0.0.0.0 tarjetarojadirecta.biz
 0.0.0.0 tarjetarojadirecta.es
+0.0.0.0 tarjetarojadirectatv.me
 0.0.0.0 tarjetarojaenvivo.online
 0.0.0.0 tarjetarojaonline.info
 0.0.0.0 tarjetarojaonline.pro
@@ -327,8 +344,11 @@
 0.0.0.0 today-yalla-shoot.com
 0.0.0.0 totalsportek.org.im
 0.0.0.0 totalsportek1.is
+0.0.0.0 totalsportek1.li
+0.0.0.0 totalsportek1.online
 0.0.0.0 totalsportekhd.live
 0.0.0.0 totalsporteki.fit
+0.0.0.0 totalsporteki.icu
 0.0.0.0 totalsportekl.is
 0.0.0.0 totalsportekplus.org
 0.0.0.0 totalsportscentral.com
@@ -338,6 +358,7 @@
 0.0.0.0 tructiep90phuttv.club
 0.0.0.0 ttbd-socolive.pro
 0.0.0.0 tufutbollibre.online
+0.0.0.0 tv.kleague.com
 0.0.0.0 tv.makeevka.com
 0.0.0.0 tv.sfl.ch
 0.0.0.0 tvsiir.co

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Australia (au)
-# Domains: 35 | Updated: 2026-11-01
+# Domains: 36 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/au.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,6 +22,7 @@
 0.0.0.0 nodepositau.com
 0.0.0.0 nominimumdeposit-casinos-uk.com
 0.0.0.0 onlinepokies.com.au
+0.0.0.0 ozwincasino.website
 0.0.0.0 pokiespro.com
 0.0.0.0 prism-casino.ca
 0.0.0.0 prismcasino7.com

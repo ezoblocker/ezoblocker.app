@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 175 | Updated: 2026-11-01
+# Domains: 180 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -28,6 +28,7 @@ cloud.up4.cz
 cloudsupport.sequentum.com
 corp.omake.co.jp
 *.ctunnel.com
+denseabuchsvit.webmill.hu
 discuss.privacyguides.net
 doc.alvao.com
 *.dtunnel.net
@@ -86,6 +87,7 @@ ny.gn.fosun.com
 *.okkproxy.com
 old.babybjorn.com.hk
 old.pacificresort.com
+ovgz.favirtimcon.blog
 post.malltail.com
 *.powertunnel.org
 prime.changngocgia.com
@@ -95,6 +97,7 @@ prime.changngocgia.com
 *.proxy6.net
 proxyarab-vpn.freedown.io
 *.proxycoupons.com
+proxymienphi.proxyhub.vn
 *.proxynet.io
 *.proxysale.com
 *.proxysites.ai
@@ -166,10 +169,12 @@ vpn.365finds.com
 vpn.g-l.ch
 vpngate.4d.workers.dev
 *.vpnki.ru
+watch.safeshare.tv
 *.websiteunblocker.io
 *.websiteunblocker.net
 wiki5.ispadmin.eu
 windscribe.valuecom.com
+wormteemima.donnabrigida.it
 www.my.mozout.com
 www.shop.lppa.org
 www1.gill-line.com

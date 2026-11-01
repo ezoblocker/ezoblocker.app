@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Adult, Poland (pl)
-# Domains: 56 | Updated: 2026-11-01
+# Domains: 60 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/pl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 annmarie.pl
+0.0.0.0 boonga.pl
 0.0.0.0 byann.pl
 0.0.0.0 centrumerotyki.com.pl
 0.0.0.0 e-marilyn.pl
@@ -35,9 +36,11 @@
 0.0.0.0 polskie-pornole.pl
 0.0.0.0 polskieof.pl
 0.0.0.0 pornolik.pl
+0.0.0.0 pornstar.pl
 0.0.0.0 redarena.pl
 0.0.0.0 redshop24.pl
 0.0.0.0 refform.pl
+0.0.0.0 samanta.pl
 0.0.0.0 secretdelivery.pl
 0.0.0.0 secretlover.pl
 0.0.0.0 secretplace.pl
@@ -53,6 +56,7 @@
 0.0.0.0 sklepeuforia.pl
 0.0.0.0 tgax.polskielobby.pl
 0.0.0.0 theprive.pl
+0.0.0.0 topsexshop.pl
 0.0.0.0 tulipan.pl
 0.0.0.0 unikat-comp.pl
 0.0.0.0 venus.net.pl

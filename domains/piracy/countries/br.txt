@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Brazil (br)
-# Domains: 58 | Updated: 2026-11-01
+# Domains: 61 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/countries/br.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -41,8 +41,10 @@ pobreflixmovie.my
 portaleducacional.unisanta.br
 produtor.adagri.ce.gov.br
 rbdflix.com
+redecanais.host
 redecanais.in
 redecanais.solutions
+redecanais4k.my
 redecanaisfhd.my
 redecanaishd.gay
 redecanaishd.help
@@ -50,6 +52,7 @@ redecanaishd.press
 redecanaishd.qpon
 redecanaishd1.online
 redecanaisoficial.cc
+redecanaisrc.baby
 redecanaisrc.sale
 sia.aracati.ce.gov.br
 sismrae.sead.pi.gov.br

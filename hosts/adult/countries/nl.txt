@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Netherlands (nl)
-# Domains: 49 | Updated: 2026-11-01
+# Domains: 50 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/nl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 0.0.0.0 alicemaple.com
 0.0.0.0 bdesired.nl
 0.0.0.0 bdsmking.eu
+0.0.0.0 bornovashop.com
 0.0.0.0 bronx.nl
 0.0.0.0 christineleduc.be
 0.0.0.0 christineleduc.nl

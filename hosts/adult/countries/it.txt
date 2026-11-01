@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Italy (it)
-# Domains: 36 | Updated: 2026-11-01
+# Domains: 41 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/it.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,16 +13,21 @@
 0.0.0.0 condomsense.us
 0.0.0.0 creatorsitaly.com
 0.0.0.0 divertity.com
+0.0.0.0 doll.shop
 0.0.0.0 dream-x.ch
 0.0.0.0 easyfarma.it
 0.0.0.0 farmamia.net
+0.0.0.0 greta.shop
 0.0.0.0 hackerpornfest.com
 0.0.0.0 igoodsnovelties.com
 0.0.0.0 iltempiodellamore.com
 0.0.0.0 justmary.com
 0.0.0.0 kisskiss.ch
+0.0.0.0 kondom.it
 0.0.0.0 lwvofvt.org
 0.0.0.0 magicamerica.it
+0.0.0.0 makeup.it
+0.0.0.0 monella69.com
 0.0.0.0 mysecretcase.com
 0.0.0.0 onlyfanseritalia.it
 0.0.0.0 onlyfansitaliane.it
