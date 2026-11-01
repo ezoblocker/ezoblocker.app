@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 398,431 | Updated: 2026-11-01
+# Domains: 398,435 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -243,6 +243,7 @@
 0.0.0.0 090betplay.com
 0.0.0.0 090betslot.com.br
 0.0.0.0 090betslots.com
+0.0.0.0 0910casino.top
 0.0.0.0 095betbets.com
 0.0.0.0 095betslots.com
 0.0.0.0 095betsportmp.com
@@ -533,6 +534,7 @@
 0.0.0.0 10038bets10.com
 0.0.0.0 1004-thepokiesonline-help.pages.dev
 0.0.0.0 10040bets10.com
+0.0.0.0 10040jojobet.com
 0.0.0.0 10041bets10.com
 0.0.0.0 1009-the-pokies-casino-site.pages.dev
 0.0.0.0 1009-thepokies-sbs.pages.dev
@@ -3960,6 +3962,7 @@
 0.0.0.0 1xbet-casino.org.uk
 0.0.0.0 1xbet-casino.pe
 0.0.0.0 1xbet-casino.ph
+0.0.0.0 1xbet-casino.ro
 0.0.0.0 1xbet-casino.se
 0.0.0.0 1xbet-casino.uk.net
 0.0.0.0 1xbet-casino.win
@@ -4813,7 +4816,6 @@
 0.0.0.0 1xslots-269.top
 0.0.0.0 1xslots-278.buzz
 0.0.0.0 1xslots-279.top
-0.0.0.0 1xslots-284.top
 0.0.0.0 1xslots-285.top
 0.0.0.0 1xslots-286.top
 0.0.0.0 1xslots-295.top
@@ -29638,7 +29640,6 @@
 0.0.0.0 apuestas-primeiraliga.com
 0.0.0.0 apuestas-retabet.es
 0.0.0.0 apuestas-royal-chile-com.pages.dev
-0.0.0.0 apuestas-royal-chile.com
 0.0.0.0 apuestas-royal-resena.com
 0.0.0.0 apuestas-royal-venezuela.com
 0.0.0.0 apuestas-royal.bet
@@ -150874,7 +150875,6 @@
 0.0.0.0 fontancasino-ffa.ru
 0.0.0.0 fontancasino-ffe.online
 0.0.0.0 fontancasino-ffe.ru
-0.0.0.0 fontancasino-lcx.top
 0.0.0.0 fontancasino-nl.eu.com
 0.0.0.0 fontancasino-online.it
 0.0.0.0 fontancasino-osa.top
@@ -174017,6 +174017,7 @@
 0.0.0.0 highflybetsl.com
 0.0.0.0 highflybetspain-com.pages.dev
 0.0.0.0 highflybetspain.com
+0.0.0.0 highflybetsportbet.com
 0.0.0.0 highflybetsportugal.com
 0.0.0.0 highflybett.de
 0.0.0.0 highflybett.es
@@ -267030,6 +267031,7 @@
 0.0.0.0 pandacasino.online
 0.0.0.0 pandacasino.org.pl
 0.0.0.0 pandacasino.se
+0.0.0.0 pandacasino.top
 0.0.0.0 pandacasino.vip
 0.0.0.0 pandacasinoapostas.com
 0.0.0.0 pandacasinoappt.com
@@ -306862,6 +306864,7 @@
 0.0.0.0 rtpcasinom.com
 0.0.0.0 rtpcasinos.online
 0.0.0.0 rtpcomet4dgacor.pages.dev
+0.0.0.0 rtpdewacasino.mom
 0.0.0.0 rtpdewacasino168-5xu.pages.dev
 0.0.0.0 rtpdewapokermain.cfd
 0.0.0.0 rtpdewataslot888.pages.dev
@@ -307044,6 +307047,7 @@
 0.0.0.0 rtpslotgacor2025.pages.dev
 0.0.0.0 rtpslotgacor303.pages.dev
 0.0.0.0 rtpslotgacor4dp.com
+0.0.0.0 rtpslotgacor77.org
 0.0.0.0 rtpslotgacor99-amp.pages.dev
 0.0.0.0 rtpslotonline.org
 0.0.0.0 rtpslotonline.pages.dev

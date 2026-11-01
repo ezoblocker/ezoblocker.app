@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Ads, adtech
-# Domains: 280 | Updated: 2026-11-01
+# Domains: 307 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/adtech.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 152media-ssp.com
 0.0.0.0 360.audion.fm
+0.0.0.0 9mejq.flx10.com
 0.0.0.0 ad-source.com
 0.0.0.0 ad-tag.com
 0.0.0.0 ad-wave.io
@@ -14,6 +15,9 @@
 0.0.0.0 ad.hyp.mobi
 0.0.0.0 adcentricagency.com
 0.0.0.0 adcentricsolutions.com
+0.0.0.0 adctrl.com
+0.0.0.0 adloader.aidemsrv.com
+0.0.0.0 adplugg.io
 0.0.0.0 ads-cdn-3p.digitalturbine.com
 0.0.0.0 ads-cdn.digitalturbine.com
 0.0.0.0 ads-sys.com
@@ -64,6 +68,7 @@
 0.0.0.0 arteabee.com
 0.0.0.0 asrv205.com
 0.0.0.0 assets.aryel.io
+0.0.0.0 assets.dataseat.com
 0.0.0.0 audi-on.com
 0.0.0.0 aupsrv.com
 0.0.0.0 authorizedbuyers.boomplay.com
@@ -78,6 +83,7 @@
 0.0.0.0 bidder-google.ecdrsvc.com
 0.0.0.0 bidswitch.bidder.mediakeys.io
 0.0.0.0 bksnimages.com
+0.0.0.0 blockboardtech.com
 0.0.0.0 bluevoox.com
 0.0.0.0 bn2.adcorenetwork.com
 0.0.0.0 bn2.adcoreperformance.com
@@ -110,11 +116,13 @@
 0.0.0.0 cdn.assets-lab.net
 0.0.0.0 cdn.assetsopen.com
 0.0.0.0 cdn.bidzapstream.com
+0.0.0.0 cdn.bighappy.co
 0.0.0.0 cdn.liftoffintl-creatives.io
 0.0.0.0 cdn.madisondsp.com
 0.0.0.0 cdn.om-meta.com
 0.0.0.0 cdn.r-adimg.com
 0.0.0.0 cdn.rmcbfmadtech.com
+0.0.0.0 cdn.rvty.net
 0.0.0.0 cdn.wearevyde.com
 0.0.0.0 cdn3.rezonence.com
 0.0.0.0 cdnwebcloud.com
@@ -138,6 +146,7 @@
 0.0.0.0 creative.shareit-ecom.com
 0.0.0.0 creatives.metroparent.com
 0.0.0.0 ctech.works
+0.0.0.0 d3sv.net
 0.0.0.0 da.ironsads.com
 0.0.0.0 dartmotif.net
 0.0.0.0 data.fly.codes
@@ -152,14 +161,20 @@
 0.0.0.0 eficiens-serving.com
 0.0.0.0 enzymic.co
 0.0.0.0 etargetcdn.com
+0.0.0.0 eu.axprtbggl.com
 0.0.0.0 featuredstory.io
 0.0.0.0 gadsme.gg
 0.0.0.0 gdl.bytegle.site
+0.0.0.0 gexperiments1.com
+0.0.0.0 gexperiments2.com
+0.0.0.0 gexperiments3.com
+0.0.0.0 gexperiments4.com
 0.0.0.0 gmediation.com
 0.0.0.0 growone.sg
 0.0.0.0 grxchange.gr
 0.0.0.0 gtarget.info
 0.0.0.0 hcurvecdn.com
+0.0.0.0 hermes.aidemsrv.com
 0.0.0.0 hubdsp.com
 0.0.0.0 hueserver.com
 0.0.0.0 hyj.mobi
@@ -179,6 +194,7 @@
 0.0.0.0 kubico-adhosting.com
 0.0.0.0 kubico-advertisement.com
 0.0.0.0 lacunads.ushareit.com
+0.0.0.0 locsensads.com
 0.0.0.0 madington.io
 0.0.0.0 media-adserver.com
 0.0.0.0 media-adserver2.com
@@ -205,15 +221,20 @@
 0.0.0.0 mindworks-creative.com
 0.0.0.0 minicoin.one
 0.0.0.0 momento.dev
+0.0.0.0 mspremium.io
 0.0.0.0 myadmoove.com
+0.0.0.0 newadserver.com
 0.0.0.0 npidpbs.com
 0.0.0.0 openmass.io
 0.0.0.0 optoutadserving.com
 0.0.0.0 paradoxgroup.co
 0.0.0.0 personaly.bid
+0.0.0.0 pfsrvs.com
 0.0.0.0 ping.channel99.io
 0.0.0.0 playerserve.com
+0.0.0.0 plrsrvcs.com
 0.0.0.0 pmsrv.co
+0.0.0.0 polarcdn-static.com
 0.0.0.0 precisify-ads.com
 0.0.0.0 primoadserver.com
 0.0.0.0 prov9ads.com
@@ -221,10 +242,13 @@
 0.0.0.0 public.sonatalocal.com
 0.0.0.0 raaslab.tech
 0.0.0.0 rcdn.kervinteractive.com
+0.0.0.0 resources.playablefactory.app
 0.0.0.0 revive.sonares.org
 0.0.0.0 revjet.com
 0.0.0.0 rtb.buy-ad.com
+0.0.0.0 rtb.buzz
 0.0.0.0 rtb.iageengineering.net
+0.0.0.0 rtb.segmint.net
 0.0.0.0 rtb.servicesadmedia.com
 0.0.0.0 rtbads.position2.com
 0.0.0.0 semseoymas.com
@@ -260,6 +284,7 @@
 0.0.0.0 taol-srv.net
 0.0.0.0 tmsrv.net
 0.0.0.0 tpadx.com
+0.0.0.0 tqe36.flx10.com
 0.0.0.0 tr.monetrix.me
 0.0.0.0 tracking.highvibes.media
 0.0.0.0 trkio.co
@@ -280,7 +305,9 @@
 0.0.0.0 vondos04.com
 0.0.0.0 vondos05.com
 0.0.0.0 vondosadsrv.com
+0.0.0.0 warp90.com
 0.0.0.0 webmedia.chicos.com
 0.0.0.0 webmedia.johnvarvatos.com
 0.0.0.0 www.mnetads.net
+0.0.0.0 yeahtargeter.com
 0.0.0.0 zeus-ads.com

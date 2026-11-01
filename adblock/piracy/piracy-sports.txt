@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, illegal sports streams
-! Domains: 403 | Updated: 2026-11-01
+! Domains: 402 | Updated: 2026-11-01
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/piracy-sports.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -109,7 +109,6 @@
 ||futemax.hiphop^
 ||futemax.med^
 ||futemax.partners^
-||futemax.technology^
 ||futemax.ventures^
 ||futemax99.shop^
 |geoikp.operandum-project.eu^

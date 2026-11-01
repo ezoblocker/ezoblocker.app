@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Ads, ad exchange endpoints from Prebid.js / Prebid Server adapters
-! Domains: 263 | Updated: 2026-11-01
+! Domains: 274 | Updated: 2026-11-01
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/ads/prebid.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,8 +17,10 @@
 |adlywise-prebid.attekmi.co^
 |adm.vidyome.com^
 |adn-srv.reckoner-api.com^
+|adn.pilotx.tv^
 |adnex-prebid.attekmi.co^
 |adport.pbsadverxo.com^
+|ads-flipp.com^
 |ads-pbs.adops.streamvisionmedia.com^
 |ads-pbs.ads-altstarmedia.com^
 |ads-pbs.ads-rtbdemand.com^
@@ -33,6 +35,7 @@
 |ads-pbs.rtb-oveeo.com^
 |ads-pbs.scotty.orangeclickmedia.com^
 |ads-sg.momagic.com^
+|ads.biddertmz.com^
 |ads.haloads.io^
 |ads.madsense.io^
 |ads.nuba.io^
@@ -105,6 +108,7 @@
 |eu2.adnetwork.agency^
 |ev.adswag.ai^
 |exchange.adtonos.com^
+|exchange.alkimi-onboarding.com^
 |exchange.programmaticx.ai^
 |exchange.tagoras.io^
 |featuretv.bid^
@@ -118,9 +122,11 @@
 |ghb.hb.streamkey.net^
 |ghb.pgamssp.com^
 |goldplayer.prod.gbadtech.io^
+|gum.aidemsrv.com^
 |harrenmedia.pbsadverxo.com^
 |hb.appush.com^
 |hb.hyperbrainz.com^
+|hb.incrementxserv.com^
 |hb.justbidit2.xyz^
 |hb.stngo.com^
 |hb.sweetgum.io^
@@ -158,6 +164,7 @@
 |pbs-js.prebid-ownadx.com^
 |pbs.bidelerate.com^
 |pbs.dailyhunt.in^
+|pbs.elementaltv.io^
 |pbs.kiviads.live^
 |pbs.mobkoi.com^
 |pbs.prebid-ownadx.com^
@@ -217,6 +224,8 @@
 |ssp-cookie.logan.ai^
 |ssp.adrelevantis.com^
 |ssp.astraone.io^
+|ssp.dauup.com^
+|ssp.disqus.com^
 |stackup-prebid.attekmi.co^
 |sync-ssp.adsmovil.com^
 |sync.adipolo.live^
@@ -257,6 +266,7 @@
 |us.matterfull.co^
 |usads.harion-ma.com^
 |useast2.logan.ai^
+|user-sync.alkimi-onboarding.com^
 |usersync.mycodemedia.com^
 |usync.rocketlab.ai^
 |usync.smxconv.com^
@@ -267,3 +277,4 @@
 |wild.8podx.com^
 |x.padsquad.com^
 |y.one.impact-ad.jp^
+|zero.aidemsrv.com^

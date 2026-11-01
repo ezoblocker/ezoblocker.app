@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 1,077 | Updated: 2026-11-01
+! Domains: 1,074 | Updated: 2026-11-01
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,7 +8,6 @@
 |0jb7na1ub3-amphtml.sear.lu^
 ||123movieputlockers.com^
 ||123moviesflix.me^
-||123movieslive.click^
 ||123moviesx.cc^
 ||123putlockers.me^
 ||1337x.com.im^
@@ -335,7 +334,6 @@
 ||futemax.hiphop^
 ||futemax.med^
 ||futemax.partners^
-||futemax.technology^
 ||futemax.ventures^
 ||futemax99.shop^
 ||fzmovies.live^
@@ -370,7 +368,6 @@
 ||gogoanimes.dk^
 ||gogoanimes.watch^
 ||gogoanimez.online^
-||gomovies123.hair^
 ||gomovieshd.today^
 |google-play.en.softmany.com^
 ||grandpashabet7567.com^

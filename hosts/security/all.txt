@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 74,726 | Updated: 2026-11-01
+# Domains: 74,718 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7853,7 +7853,6 @@
 0.0.0.0 bys-insta-store-119037.store
 0.0.0.0 bythalia.store
 0.0.0.0 bzc-whats-app.com.cn
-0.0.0.0 bzc-whatsapp.cn
 0.0.0.0 bzds49w0-web-telegram-org.pages.dev
 0.0.0.0 bzst-finanzamt-online-de.com.es
 0.0.0.0 c-1-whats-app.com.cn
@@ -17979,7 +17978,6 @@
 0.0.0.0 eoxdus-web-docs.pages.dev
 0.0.0.0 ep-live-ledgre.pages.dev
 0.0.0.0 ephantom-wallet.pages.dev
-0.0.0.0 epicgames-gift.top
 0.0.0.0 epiclotemaxfin-pro.pages.dev
 0.0.0.0 epiphanyroblox.pages.dev
 0.0.0.0 epnqu8av.pages.dev
@@ -19446,6 +19444,7 @@
 0.0.0.0 faceit-approve.pro
 0.0.0.0 faceit-verify-account.com
 0.0.0.0 faceit-verify.xyz
+0.0.0.0 faceitverify-clubs.com
 0.0.0.0 facelessonroblox.pages.dev
 0.0.0.0 fadedrobloxid.pages.dev
 0.0.0.0 faelyra16-1vault.pages.dev
@@ -27065,7 +27064,6 @@
 0.0.0.0 i-trusttcapital-loggin.pages.dev
 0.0.0.0 i-uphold-login.pages.dev
 0.0.0.0 i-w-hatsapp.com.cn
-0.0.0.0 i-w-whatsapp.com.cn
 0.0.0.0 i-wh-atsapp.com.cn
 0.0.0.0 i-wha-tsapp.com.cn
 0.0.0.0 i-what-sapp.com.cn
@@ -44684,7 +44682,6 @@
 0.0.0.0 n0-z-w-hatsapp.com.cn
 0.0.0.0 n6i3pc8f-teiegarm.pages.dev
 0.0.0.0 na777-mudah-login.pages.dev
-0.0.0.0 nac-whatsapp.com.cn
 0.0.0.0 nakangitingsabinimatthewkayroblox.pages.dev
 0.0.0.0 nalvurikenz-official.org
 0.0.0.0 nalvurikenz.org
@@ -50534,7 +50531,6 @@
 0.0.0.0 qz-apss-whatapp.com.cn
 0.0.0.0 r--robinhood--com--login.pages.dev
 0.0.0.0 r-a-k-whatsapp.com.cn
-0.0.0.0 r-f-whatsapp.com.cn
 0.0.0.0 r-ob-whatsapp.com.cn
 0.0.0.0 r-obinhoodlogins.pages.dev
 0.0.0.0 r-q-whats-app.hl.cn
@@ -50871,7 +50867,6 @@
 0.0.0.0 rlcardoverlfy.com
 0.0.0.0 rlusdvault.info
 0.0.0.0 rmicrosotfonlime.es
-0.0.0.0 rmx-whatsapp.com.cn
 0.0.0.0 rn-start-trzor.pages.dev
 0.0.0.0 rnicrosoft.pages.dev
 0.0.0.0 rnicrosoft.ws
@@ -60237,7 +60232,6 @@
 0.0.0.0 syrex2-2qorin.pages.dev
 0.0.0.0 system-coinbas--ext.pages.dev
 0.0.0.0 system-start-trzor.pages.dev
-0.0.0.0 syz-whatsapp.cn
 0.0.0.0 t-h-whatsapp.com.cn
 0.0.0.0 t-im-whatsapp.com.cn
 0.0.0.0 t-m-h-whatsapp.com.cn
@@ -72801,7 +72795,6 @@
 0.0.0.0 wexra4-1qorin.pages.dev
 0.0.0.0 wexra4-1vexil.pages.dev
 0.0.0.0 wf79ix2h-teiegarm.pages.dev
-0.0.0.0 wgz-whatsapp.com.cn
 0.0.0.0 wh-whats-app.com.cn
 0.0.0.0 wh4tsapp-9on.pages.dev
 0.0.0.0 wh4tsapp-an5.pages.dev
@@ -73878,7 +73871,6 @@
 0.0.0.0 www-roblox-robux-com.pages.dev
 0.0.0.0 www-start-ledger-com.pages.dev
 0.0.0.0 www-support-paypal.ph
-0.0.0.0 www-telegram.ink
 0.0.0.0 www-us-paypal.advocatehealth.us
 0.0.0.0 www-us-paypal.alimentosgoya.co
 0.0.0.0 www-us-paypal.amigospros.co

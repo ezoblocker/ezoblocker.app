@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 339 | Updated: 2026-11-01
+# Domains: 338 | Updated: 2026-11-01
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -219,10 +219,8 @@
 0.0.0.0 pendikseksshop.com
 0.0.0.0 pleasurebetter.com
 0.0.0.0 pompatube45.pw
-0.0.0.0 porno80ck.site
 0.0.0.0 porno80cv.site
 0.0.0.0 porno900.click
-0.0.0.0 pornocu15.shop
 0.0.0.0 pornocu15.site
 0.0.0.0 pornoizlehane.com
 0.0.0.0 pornozaz86.site
@@ -324,6 +322,7 @@
 0.0.0.0 viperotikfilm4.skin
 0.0.0.0 viperotikfilm6.skin
 0.0.0.0 vipsa.com
+0.0.0.0 vipumraniyeescort.com.tr
 0.0.0.0 wanda.best
 0.0.0.0 wanda1.best
 0.0.0.0 wescort.co.uk
