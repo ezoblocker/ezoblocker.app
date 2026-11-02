@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Switzerland (ch)
-! Domains: 55 | Updated: 2026-11-02
+! Domains: 57 | Updated: 2026-11-02
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/ch.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,6 +13,7 @@
 |bremen.city-map.de^
 ||brigademondaine.fr^
 ||cchic-style.com^
+|cdn.siegessaeule.de^
 ||cherry.ch^
 ||club-echangiste.eu^
 ||clubsaint-tropez.ch^
@@ -57,5 +58,6 @@
 ||swisscam.com.br^
 ||temptations.dk^
 ||untamed.love^
+||verdener-auktion-online.com^
 ||viamax.eu^
 ||viamax.se^

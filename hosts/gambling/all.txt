@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 398,435 | Updated: 2026-11-02
+# Domains: 398,461 | Updated: 2026-11-02
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -45927,6 +45927,7 @@
 0.0.0.0 betanoar.xyz
 0.0.0.0 betanoarg.net
 0.0.0.0 betanoargentina.co
+0.0.0.0 betanoargentina.info
 0.0.0.0 betanoargentina.net
 0.0.0.0 betanoargentina1.com
 0.0.0.0 betanoargentina1.pages.dev
@@ -110459,6 +110460,7 @@
 0.0.0.0 casinosuknokycgames-uk-0e20a4.pages.dev
 0.0.0.0 casinosuknokycgames.uk
 0.0.0.0 casinosuknongamstopgames.co
+0.0.0.0 casinosuknotongam.co
 0.0.0.0 casinosukraine.com.ua
 0.0.0.0 casinosultanbet.de
 0.0.0.0 casinosultankz.com.kz
@@ -120945,6 +120947,7 @@
 0.0.0.0 ciclismoapuesta.com
 0.0.0.0 ciclismoapuestas.com
 0.0.0.0 ciclismoscommesse.com
+0.0.0.0 cidadao.saude.al.gov.br
 0.0.0.0 cidercasinobonuscodes.ing
 0.0.0.0 cidukjp-pokeronline-amp.pages.dev
 0.0.0.0 ciellacat-slotgacor.pages.dev
@@ -124333,6 +124336,7 @@
 0.0.0.0 coldbetuzuzbekistan.com
 0.0.0.0 coldcascasino.co.uk
 0.0.0.0 coldcasino.net
+0.0.0.0 colden-common-cc.co.uk
 0.0.0.0 coldlake-casino.ca
 0.0.0.0 coldlakecasino-cc-ee33b343.pages.dev
 0.0.0.0 coldlakecasino-com.pages.dev
@@ -124624,6 +124628,7 @@
 0.0.0.0 commune-betting.fr
 0.0.0.0 communiquelive.co.uk
 0.0.0.0 community51.ru
+0.0.0.0 community54.com
 0.0.0.0 communityfirstinstitute-slot-resmi-jackpot.pages.dev
 0.0.0.0 como-apostar.online
 0.0.0.0 como-betano7-courses.pages.dev
@@ -130016,6 +130021,7 @@
 0.0.0.0 czslotsvader.com
 0.0.0.0 czwincasino.com
 0.0.0.0 d-68gamebai4-org.pages.dev
+0.0.0.0 d-bet.dk
 0.0.0.0 d-mag.it
 0.0.0.0 d06demoslot.com
 0.0.0.0 d10dcasino.com
@@ -140646,6 +140652,7 @@
 0.0.0.0 elangtogel-megawin.pages.dev
 0.0.0.0 elangtotoslot.net
 0.0.0.0 elangtotoslot.org
+0.0.0.0 elanlaserclinics.co.uk
 0.0.0.0 elarabcasinoscom.pages.dev
 0.0.0.0 elarabet-casino.uk
 0.0.0.0 elarabetcasino-com-de.pages.dev
@@ -193351,6 +193358,7 @@
 0.0.0.0 joylandcasino.io
 0.0.0.0 joyluck2-slot-gacor.pages.dev
 0.0.0.0 joymax-ar.com
+0.0.0.0 joyplay-pl.com
 0.0.0.0 joypokies.app
 0.0.0.0 joyscasinos.com
 0.0.0.0 joyslot-88.art
@@ -229322,6 +229330,7 @@
 0.0.0.0 mel-betting.com
 0.0.0.0 melaninyogaproject.org
 0.0.0.0 melano99-slot-gacor.pages.dev
+0.0.0.0 melap.pt
 0.0.0.0 melatecasino.com
 0.0.0.0 melati88slotgacorasia.pages.dev
 0.0.0.0 melatipoker.co
@@ -240226,6 +240235,7 @@
 0.0.0.0 mostbet-uz-top.com
 0.0.0.0 mostbet-uz-two.rest
 0.0.0.0 mostbet-uz-velic-io.pages.dev
+0.0.0.0 mostbet-uz.fun
 0.0.0.0 mostbet-uz.fyi
 0.0.0.0 mostbet-uz.ink
 0.0.0.0 mostbet-uz.space
@@ -240424,6 +240434,7 @@
 0.0.0.0 mostbet.promo
 0.0.0.0 mostbet.pw
 0.0.0.0 mostbet.radio.fm
+0.0.0.0 mostbet.republican
 0.0.0.0 mostbet.reviews
 0.0.0.0 mostbet.rip
 0.0.0.0 mostbet.run
@@ -244346,6 +244357,7 @@
 0.0.0.0 mybetting.com
 0.0.0.0 mybetting.dk
 0.0.0.0 mybetting.top
+0.0.0.0 mybettingsites.co.uk
 0.0.0.0 mybetturkey.com
 0.0.0.0 mybetvibe.com
 0.0.0.0 mybetwinner.pages.dev
@@ -249102,6 +249114,7 @@
 0.0.0.0 netwincasinoit.com
 0.0.0.0 netwincasinoitalia-com.pages.dev
 0.0.0.0 netwinn-casino.it
+0.0.0.0 network.crcna.org
 0.0.0.0 networkcsc-slotgacor.pages.dev
 0.0.0.0 netxcasino.club
 0.0.0.0 netxcasino.link
@@ -254536,6 +254549,7 @@
 0.0.0.0 norm-casino.pro
 0.0.0.0 normalbetting.pages.dev
 0.0.0.0 normalcasino.online
+0.0.0.0 normantewfamilyhistory.org.uk
 0.0.0.0 normcasino.de
 0.0.0.0 normcasino.de.com
 0.0.0.0 normcasino.life
@@ -267902,6 +267916,7 @@
 0.0.0.0 parimatchwin.casino
 0.0.0.0 parimatchz.com
 0.0.0.0 parimatchzone.com
+0.0.0.0 parimirror.com
 0.0.0.0 parionssport-ca.com
 0.0.0.0 parionssport.app
 0.0.0.0 parionssportcasino-ca.com
@@ -280608,6 +280623,7 @@
 0.0.0.0 playmegawin138.pages.dev
 0.0.0.0 playmegawincasino-com.pages.dev
 0.0.0.0 playmelbet.com
+0.0.0.0 playmesquite.com
 0.0.0.0 playmeth-casino.com
 0.0.0.0 playmethcasino-au.com
 0.0.0.0 playmethcasino.com
@@ -287790,6 +287806,7 @@
 0.0.0.0 proofrankcasino.com
 0.0.0.0 proonlineslots.com
 0.0.0.0 propawincasino.com.de
+0.0.0.0 propcruncher.com
 0.0.0.0 properties-jagoledak.pages.dev
 0.0.0.0 property-rusuntogel-gameonline-registrasiresmi.pages.dev
 0.0.0.0 propertyinfaridabad-amp.pages.dev
@@ -288737,6 +288754,7 @@
 0.0.0.0 pusulabet5019.com
 0.0.0.0 pusulabet5020.com
 0.0.0.0 pusulabet5026.com
+0.0.0.0 pusulabet5027.com
 0.0.0.0 pusulabet620.net
 0.0.0.0 pusulabetadresi.com
 0.0.0.0 pusulabetapp6.com
@@ -322470,6 +322488,7 @@
 0.0.0.0 slotimo-casino.net
 0.0.0.0 slotimo.de.com
 0.0.0.0 slotimo1.net
+0.0.0.0 slotimoaus.com
 0.0.0.0 slotimocasino-at.eu.com
 0.0.0.0 slotimocasino.at
 0.0.0.0 slotimocasino.bet
@@ -328786,6 +328805,7 @@
 0.0.0.0 songbaicasinobet.com
 0.0.0.0 songiris.net
 0.0.0.0 songofstones.ru
+0.0.0.0 songwriteronline.co.uk
 0.0.0.0 sonhomeuloterias.com.br
 0.0.0.0 soniastyle.fi
 0.0.0.0 soniccasino.co.uk
@@ -343406,6 +343426,7 @@
 0.0.0.0 stockmenscasinos.com
 0.0.0.0 stoicstrengthcoach-slot-idn-poker.pages.dev
 0.0.0.0 stoicyzm.com
+0.0.0.0 stoikheman-trixi-rpc.elenifourli.gr
 0.0.0.0 stoiximan-3.pages.dev
 0.0.0.0 stoiximan-9mp.pages.dev
 0.0.0.0 stoiximan-bet.com
@@ -364053,6 +364074,8 @@
 0.0.0.0 v999casinobet.com
 0.0.0.0 v99casinovip.com
 0.0.0.0 v99homebet.com
+0.0.0.0 v9bet.racing
+0.0.0.0 v9bet.science
 0.0.0.0 v9betbetvn.com
 0.0.0.0 v9betcasino.co.uk
 0.0.0.0 v9betcasino.com
@@ -379236,6 +379259,7 @@
 0.0.0.0 wasolutionspro.com
 0.0.0.0 waspbetslot.com
 0.0.0.0 watalangslotgacor.pages.dev
+0.0.0.0 watami.eu
 0.0.0.0 watasehirescort.pages.dev
 0.0.0.0 watashigauruart-vikingbet88.pages.dev
 0.0.0.0 watch-me-win-casino.pl
@@ -379260,6 +379284,7 @@
 0.0.0.0 watertankscasino.com
 0.0.0.0 watertankscasino.com.au
 0.0.0.0 waterviewcasino.com
+0.0.0.0 watissart.com
 0.0.0.0 watitoto-slot-gacor-8ry.pages.dev
 0.0.0.0 watitoto-slot-gacor.pages.dev
 0.0.0.0 watitoto77totoslot.pages.dev
@@ -393222,6 +393247,7 @@
 0.0.0.0 xn--80aaa5csg.kz
 0.0.0.0 xn--80aahduajfrohbczhd9ib4i.xn--p1ai
 0.0.0.0 xn--80aambqgkokjley.xn--p1ai
+0.0.0.0 xn--80aaxqmhr4b.online
 0.0.0.0 xn--80aaxqmhr4b.vip
 0.0.0.0 xn--80aczempcmhc1h.xn--p1ai
 0.0.0.0 xn--888-casin-e7a.it

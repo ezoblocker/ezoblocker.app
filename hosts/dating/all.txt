@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,242 | Updated: 2026-11-02
+# Domains: 1,250 | Updated: 2026-11-02
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -209,6 +209,7 @@
 0.0.0.0 chatonline.pt
 0.0.0.0 chatous.com
 0.0.0.0 chatpia.jp
+0.0.0.0 chatplanet-random-video-chat.softonic.nl
 0.0.0.0 chatrandom.com
 0.0.0.0 chatrandom.net
 0.0.0.0 chatroom.j471n.in
@@ -482,6 +483,7 @@
 0.0.0.0 gemidos.tv
 0.0.0.0 gemidos69.com
 0.0.0.0 gemidostv.com
+0.0.0.0 gen5diy.valuecom.com
 0.0.0.0 genuineukswingers.co.uk
 0.0.0.0 gercekevlilik.com
 0.0.0.0 get.ashoo.io
@@ -519,6 +521,7 @@
 0.0.0.0 harbiyiz.org
 0.0.0.0 harikasohbet.com
 0.0.0.0 heaven.jpn.com
+0.0.0.0 helena.bonepage.com
 0.0.0.0 henho8.net
 0.0.0.0 henhonghiemtuc.com
 0.0.0.0 henhoonline.net
@@ -659,6 +662,7 @@
 0.0.0.0 login-sugarbook.rivernotebook.com
 0.0.0.0 london-escort-agency.co.uk
 0.0.0.0 london-ont.bonepage.com
+0.0.0.0 london.chaosads.co.uk
 0.0.0.0 londonescortguide.com
 0.0.0.0 loveplanet.ru
 0.0.0.0 lovescout24.de
@@ -667,6 +671,7 @@
 0.0.0.0 luck.kek-sik.com
 0.0.0.0 luxy.com
 0.0.0.0 luzern.studio-elite.ch
+0.0.0.0 lynchburg.bonepage.com
 0.0.0.0 m.appstory.co.kr
 0.0.0.0 m.divinasmendoza.com
 0.0.0.0 m.dreamersforum.nl
@@ -787,6 +792,8 @@
 0.0.0.0 nove.tapky.info
 0.0.0.0 ntu.ff.or.kr
 0.0.0.0 ogloszenia.dziennikzwiazkowy.com
+0.0.0.0 ogloszenia.infoprzasnysz.com
+0.0.0.0 ogloszenia.tygodnikszczytno.pl
 0.0.0.0 okcupid.com
 0.0.0.0 old.coacha.com
 0.0.0.0 om-konkatsu.com
@@ -1002,6 +1009,7 @@
 0.0.0.0 singleboerse.de
 0.0.0.0 singleboersen-aktuell.de
 0.0.0.0 singleboersen-vergleich.de
+0.0.0.0 sioux-falls.bonepage.com
 0.0.0.0 siyahinci.net
 0.0.0.0 skipthegames.com
 0.0.0.0 skokka.co.in

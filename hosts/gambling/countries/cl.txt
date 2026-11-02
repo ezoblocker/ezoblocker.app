@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Chile (cl)
-# Domains: 17 | Updated: 2026-11-02
+# Domains: 18 | Updated: 2026-11-02
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/cl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 0.0.0.0 apuestasdeportivasperu.pe
 0.0.0.0 apuestivas.cl
 0.0.0.0 beeffox-mx.com
+0.0.0.0 betanoargentina.info
 0.0.0.0 bigdaddy.in
 0.0.0.0 casadecasino.cl
 0.0.0.0 casasdeapuestas-chile.com

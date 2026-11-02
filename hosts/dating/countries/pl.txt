@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Poland (pl)
-# Domains: 12 | Updated: 2026-11-02
+# Domains: 14 | Updated: 2026-11-02
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/pl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,8 @@
 0.0.0.0 drobne.strefawydarzen.pl
 0.0.0.0 matrymonialne24.pl
 0.0.0.0 ogloszenia.dziennikzwiazkowy.com
+0.0.0.0 ogloszenia.infoprzasnysz.com
+0.0.0.0 ogloszenia.tygodnikszczytno.pl
 0.0.0.0 przeznaczeni.pl
 0.0.0.0 randki.sprzedawacz.pl
 0.0.0.0 randki24.pl

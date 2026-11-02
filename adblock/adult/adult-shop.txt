@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, adult shops
-! Domains: 1,297 | Updated: 2026-11-02
+! Domains: 1,321 | Updated: 2026-11-02
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/adult-shop.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -58,6 +58,7 @@
 |ae.gulf-5hop.com^
 ||aego.co.kr^
 ||afroditebutiken.se^
+|agec6n43redns.nenetorir.blog^
 ||agorshop.com^
 ||albonishop.com^
 ||alicemaple.com^
@@ -173,6 +174,7 @@
 ||casanovamall.com^
 |catalogo.treinta.co^
 ||cchic-style.com^
+|cdn.siegessaeule.de^
 ||centrumerotyki.com.pl^
 ||cerotabu.co^
 ||chambersoflove.se^
@@ -235,7 +237,10 @@
 ||deeplove.cz^
 ||degriffstock.com^
 ||delighttoys.in^
+||deliveryabelgrano.com.ar^
+||deliveryaltopalermo.com.ar^
 ||depaarsekeizerin.nl^
+||deseovibrante.cl^
 ||desirel.at^
 ||desirel.be^
 ||desirel.fr^
@@ -243,6 +248,7 @@
 ||desirel.ie^
 ||desirel.ro^
 ||desirel.se^
+||dessousshop.de^
 ||dildoking.de^
 ||discreetlife.ca^
 ||distribuidorasexshop.com.br^
@@ -352,6 +358,7 @@
 ||esexshop.com.ua^
 ||espicopink.pk^
 ||eufory.de^
+||eurobattle.net^
 ||eurovisex.com^
 ||exclusivasex.com.br^
 ||extasy.com.ar^
@@ -389,6 +396,7 @@
 ||frixx.pl^
 ||frutoproibido.com^
 |frutoproibido.pai.pt^
+||fuegosexshop.com.co^
 ||funline.ch^
 ||funsexyshop.pt^
 ||funstasy.at^
@@ -409,6 +417,7 @@
 ||gorgeous-berlin.de^
 ||greatstuffy.com^
 ||greta.shop^
+||gsdoll.com^
 ||guardianbikes.com^
 ||guiacereza.com^
 ||gunshop.vn^
@@ -457,6 +466,7 @@
 ||intimshop.sk^
 ||intymnosc.pl^
 ||intymnosc24.pl^
+||ioxnow.pro^
 ||istanbulseksshop.com^
 ||itsnormal.com^
 ||itspleasure.in^
@@ -491,6 +501,7 @@
 ||kazanova.shop^
 ||kazanova.su^
 ||kazanova.ua^
+||kempel.nl^
 |kibana.compactorstore.com^
 ||kidsister.ca^
 ||kinkaroundme.com^
@@ -572,6 +583,7 @@
 ||lovebuddy.se^
 ||lovecraft.co.za^
 ||lovedepot.com^
+||lovedovey.com^
 ||lovedreamer.com^
 ||lovegames.es^
 ||lovegoods.org^
@@ -707,6 +719,7 @@
 |msk.ros-spravka.ru^
 ||mundoerotico.es^
 ||musiccognition.science^
+||mybasic.pl^
 ||mygiddi.com^
 ||myloveyou.co.kr^
 ||mymuse.in^
@@ -734,6 +747,7 @@
 ||netu.ro^
 ||newfinearts.com^
 ||nicennaughty.co.uk^
+||niegrzeczny.sklep.pl^
 ||nightmall.co.kr^
 |nightmall.linkstory.co.kr^
 ||nikkidarling.biz^
@@ -769,6 +783,7 @@
 ||orchidtoys.com^
 |orderonline.rouses.com^
 ||orion-store.de^
+||orion.de^
 ||orionsexshop.com.co^
 ||orionversand.ch^
 ||oscarshop.net^
@@ -831,6 +846,7 @@
 ||polunichka.ua^
 ||ponchik.com.ua^
 ||pontoerotico.com.br^
+||poppers-store.nl^
 ||popup-ireland.com^
 ||portoxxi.com^
 ||positive-vibrations.hr^
@@ -840,8 +856,10 @@
 ||priape.com^
 |prinz-eisenherz.buchkatalog.de^
 ||privatesexshoppanama.com^
+||prive.uy^
 ||priveshop69.com^
 ||privypleasures.com^
+||proibido.pt^
 ||promopro.co.uk^
 ||prospektly.se^
 ||proximosiglo.com.ar^
@@ -946,6 +964,7 @@
 ||sexcordobashop.com.ar^
 ||sexgood.com.ua^
 ||sexicekshop.cz^
+||sexjujube.it^
 ||sexlab.ro^
 ||sexleksak.se^
 ||sexleksakeroutlet.se^
@@ -1066,6 +1085,7 @@
 ||sheio.cz^
 ||shespot.co.uk^
 ||shestore.com.pk^
+||shezpet.com^
 |shhhsexshop.kyte.site^
 ||shibariturk.com^
 ||shop-sex.com.ua^
@@ -1093,6 +1113,7 @@
 ||shyman.co.kr^
 ||siamsextoys.com^
 ||siamtenga.com^
+||siliconehousein.com^
 ||siliconelovers.com^
 ||simplypleasure.com^
 ||sineros.de^
@@ -1162,6 +1183,8 @@
 ||thebadpeach.com^
 ||thebodyshop.ng^
 ||thecandyshop.com^
+||thechillhousec.com^
+||thecoldlady.com^
 ||thefemalestore.com.ng^
 ||thehotspot.com.au^
 ||theintimatestore.com^
@@ -1240,6 +1263,7 @@
 ||venus.net.pl^
 ||venusenvy.ca^
 |venusexx.ueniweb.com^
+||verdener-auktion-online.com^
 ||viamax.eu^
 ||viamax.se^
 ||vibrations.gr^

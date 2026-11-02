@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,074 | Updated: 2026-11-02
+# Domains: 1,098 | Updated: 2026-11-02
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -25,6 +25,7 @@
 0.0.0.0 90phutzat.tv
 0.0.0.0 90phutzax.tv
 0.0.0.0 9anime-tv.co
+0.0.0.0 9anime.apk.cafe
 0.0.0.0 9anime.asn.lv
 0.0.0.0 9anime.co.nl
 0.0.0.0 9anime.com.lv
@@ -74,6 +75,7 @@
 0.0.0.0 aniwatch.co.at
 0.0.0.0 aniwatch.co.bz
 0.0.0.0 aniwatch.com.bz
+0.0.0.0 aniwatch.page
 0.0.0.0 aniwatch.rest
 0.0.0.0 aniwatchtv.ro
 0.0.0.0 aniwatchtv.ws
@@ -141,6 +143,7 @@
 0.0.0.0 cepi.cb.ce.gov.br
 0.0.0.0 cgboard.raysworld.ch
 0.0.0.0 chauder.biz
+0.0.0.0 chernoe-zerkalo-kinozal.skin
 0.0.0.0 chunga.inpiad.co.kr
 0.0.0.0 cima4u-offcial.cyou
 0.0.0.0 cima4u.app
@@ -332,6 +335,7 @@
 0.0.0.0 futemax.gay
 0.0.0.0 futemax.haus
 0.0.0.0 futemax.hiphop
+0.0.0.0 futemax.insure
 0.0.0.0 futemax.med
 0.0.0.0 futemax.partners
 0.0.0.0 futemax.ventures
@@ -367,6 +371,7 @@
 0.0.0.0 gogoanimes.co.im
 0.0.0.0 gogoanimes.dk
 0.0.0.0 gogoanimes.watch
+0.0.0.0 gogoanimez.buzz
 0.0.0.0 gogoanimez.online
 0.0.0.0 gomovieshd.today
 0.0.0.0 google-play.en.softmany.com
@@ -377,6 +382,7 @@
 0.0.0.0 greekstream.net
 0.0.0.0 guardaserie.foo
 0.0.0.0 guest.ovgorskiy.ru
+0.0.0.0 gwy.contdocagi.blog
 0.0.0.0 happymod.to
 0.0.0.0 hasad.nadsoft.co
 0.0.0.0 hd.8lordserial.skin
@@ -390,6 +396,7 @@
 0.0.0.0 hdfilmizlede.org
 0.0.0.0 hdfilmizlesende.com
 0.0.0.0 hdfilmizlesene.to
+0.0.0.0 hdfull.company
 0.0.0.0 hdhub4u.bi
 0.0.0.0 hdhub4udl.app
 0.0.0.0 hdlivehd7.live
@@ -435,6 +442,7 @@
 0.0.0.0 iptvireland.io
 0.0.0.0 iptvirelandpro.irish
 0.0.0.0 iptvlatinoamerica.us
+0.0.0.0 iptvmexico.cloud
 0.0.0.0 iptvmexico.us
 0.0.0.0 iptvnederland.nl
 0.0.0.0 iptvpolska24.pl
@@ -510,6 +518,7 @@
 0.0.0.0 koora4u.club
 0.0.0.0 koora4uyt.blogspot.com
 0.0.0.0 kooraforus.blogspot.com
+0.0.0.0 kooragoal.beer
 0.0.0.0 kooral.top
 0.0.0.0 kooralive-koora.live
 0.0.0.0 kooralive.beer
@@ -547,6 +556,7 @@
 0.0.0.0 livebola.net
 0.0.0.0 liveekoora.com
 0.0.0.0 livehd7.buzz
+0.0.0.0 livehd7.forum
 0.0.0.0 livehd7.quest
 0.0.0.0 livehd7.uno
 0.0.0.0 livehd71.live
@@ -599,6 +609,7 @@
 0.0.0.0 megafilmeseserieshd.vip
 0.0.0.0 megafilmeshd.asia
 0.0.0.0 megafilmeshd.help
+0.0.0.0 megafilmeshd.homes
 0.0.0.0 megafilmeshd.press
 0.0.0.0 mejortorrent.cc
 0.0.0.0 mejortorrent.eu
@@ -643,7 +654,9 @@
 0.0.0.0 mycima.watch
 0.0.0.0 myflixer.com.co
 0.0.0.0 mynetnaija.ng
+0.0.0.0 mystreameast.fun
 0.0.0.0 myvipbox.com
+0.0.0.0 naijaloaded.com.ng
 0.0.0.0 naijaprey.org
 0.0.0.0 naijaprey.tv
 0.0.0.0 nbabite.info
@@ -803,11 +816,13 @@
 0.0.0.0 rojadirectaes.cloud
 0.0.0.0 rojadirectafullhd.net
 0.0.0.0 rojadirectafulltv.org
+0.0.0.0 rojadirectas.business
 0.0.0.0 rojadirectas.cc
 0.0.0.0 rojadirectatv.city
 0.0.0.0 rojadirectatv.skin
 0.0.0.0 rojadirectatvmas.org
 0.0.0.0 rojadirectatvplay.com
+0.0.0.0 rojadirectatvplay.net
 0.0.0.0 rojadirectatvplay.org
 0.0.0.0 rutracker-net.ru
 0.0.0.0 s1s.designq.kr
@@ -847,6 +862,7 @@
 0.0.0.0 socolive75.tv
 0.0.0.0 socolivef.cc
 0.0.0.0 socolivei.cc
+0.0.0.0 socolivet.cv
 0.0.0.0 socolivetvz.top
 0.0.0.0 socolivev.co
 0.0.0.0 socolivezq.tv
@@ -877,11 +893,13 @@
 0.0.0.0 staging.elkford.ca
 0.0.0.0 start.sportdigital.de
 0.0.0.0 streamcode.fit
+0.0.0.0 streameast.beauty
 0.0.0.0 streameast.to
 0.0.0.0 streameasti.site
 0.0.0.0 streameastmirror.com
 0.0.0.0 streameastonline.com
 0.0.0.0 streameasttop.com
+0.0.0.0 streameastv2.buzz
 0.0.0.0 streameastv2.mom
 0.0.0.0 streamed.cyou
 0.0.0.0 streamfab.dvdfab.fr
@@ -913,6 +931,7 @@
 0.0.0.0 taraftarium24soturkiye.org
 0.0.0.0 taraftarium24turkiyetv.net
 0.0.0.0 tarjeta-roja.live
+0.0.0.0 tarjetaroja-tv.me
 0.0.0.0 tarjetaroja.love
 0.0.0.0 tarjetaroja.ltd
 0.0.0.0 tarjetaroja.mba
@@ -925,6 +944,7 @@
 0.0.0.0 tarjetarojaonline.info
 0.0.0.0 tarjetarojaonline.pro
 0.0.0.0 tarjetarojaonlineinfo.site
+0.0.0.0 tarjetarojatv.boats
 0.0.0.0 tarjetarojatv.mobi
 0.0.0.0 tarjetarojatvenvivo.me
 0.0.0.0 tarjetarojatvhd.live
@@ -933,6 +953,7 @@
 0.0.0.0 tarjetarojatvonline.info
 0.0.0.0 tarjetarojatvonline.site
 0.0.0.0 task.joby.com
+0.0.0.0 the-futbollibre.com
 0.0.0.0 thenaijaprey.org
 0.0.0.0 thenetnaija.com.ng
 0.0.0.0 thenetnaija.ng
@@ -1040,6 +1061,7 @@
 0.0.0.0 www-mangadex.org
 0.0.0.0 www.kino.nowytarg.pl
 0.0.0.0 www.mae.gov.bi
+0.0.0.0 www.openjournals.ijaar.org
 0.0.0.0 www.tosho3704.tokyo-bousai.or.jp
 0.0.0.0 www2.gema.org
 0.0.0.0 xoilac1.help
@@ -1048,12 +1070,14 @@
 0.0.0.0 xoilaclivettbdad.tv
 0.0.0.0 xoilaclivettbds.tv
 0.0.0.0 xoilaclivettbdu.tv
+0.0.0.0 xoilaclivettbdy.tv
 0.0.0.0 xoilaclivettbdz.tv
 0.0.0.0 xoilactvbm.cc
 0.0.0.0 xoilactvttbdg.tv
 0.0.0.0 xoilacvba.tv
 0.0.0.0 xoilacvbc.tv
 0.0.0.0 xoilacvbe.tv
+0.0.0.0 xoilacvbm.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv

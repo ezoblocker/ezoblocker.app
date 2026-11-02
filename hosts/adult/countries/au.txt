@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Australia (au)
-# Domains: 40 | Updated: 2026-11-02
+# Domains: 41 | Updated: 2026-11-02
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/au.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -24,6 +24,7 @@
 0.0.0.0 fashionloversboutique.com
 0.0.0.0 high-tide.com.au
 0.0.0.0 iloveboutique.com.au
+0.0.0.0 ioxnow.pro
 0.0.0.0 itsnormal.com
 0.0.0.0 joujou.com.au
 0.0.0.0 katthelabel.com

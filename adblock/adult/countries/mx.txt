@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Mexico (mx)
-! Domains: 35 | Updated: 2026-11-02
+! Domains: 37 | Updated: 2026-11-02
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/mx.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,6 +17,7 @@
 ||elartedelplacer.com^
 ||eroticpuebla.com^
 ||femorasexshop.com^
+||fuegosexshop.com.co^
 ||kachondiux.com^
 ||lareynadelmayoreo.com^
 ||latiendasexygt.shop^
@@ -32,6 +33,7 @@
 ||sexshopmayoreo.mx^
 |shhhsexshop.kyte.site^
 ||tabusxshop.com^
+||thechillhousec.com^
 ||tiendavenus.com^
 ||tolove.mx^
 ||unaricurasexshop.com^

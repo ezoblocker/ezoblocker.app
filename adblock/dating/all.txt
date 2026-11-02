@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating
-! Domains: 1,242 | Updated: 2026-11-02
+! Domains: 1,250 | Updated: 2026-11-02
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -209,6 +209,7 @@
 ||chatonline.pt^
 ||chatous.com^
 ||chatpia.jp^
+|chatplanet-random-video-chat.softonic.nl^
 ||chatrandom.com^
 ||chatrandom.net^
 |chatroom.j471n.in^
@@ -482,6 +483,7 @@
 ||gemidos.tv^
 ||gemidos69.com^
 ||gemidostv.com^
+|gen5diy.valuecom.com^
 ||genuineukswingers.co.uk^
 ||gercekevlilik.com^
 |get.ashoo.io^
@@ -519,6 +521,7 @@
 ||harbiyiz.org^
 ||harikasohbet.com^
 ||heaven.jpn.com^
+|helena.bonepage.com^
 ||henho8.net^
 ||henhonghiemtuc.com^
 ||henhoonline.net^
@@ -659,6 +662,7 @@
 |login-sugarbook.rivernotebook.com^
 ||london-escort-agency.co.uk^
 |london-ont.bonepage.com^
+|london.chaosads.co.uk^
 ||londonescortguide.com^
 ||loveplanet.ru^
 ||lovescout24.de^
@@ -667,6 +671,7 @@
 |luck.kek-sik.com^
 ||luxy.com^
 |luzern.studio-elite.ch^
+|lynchburg.bonepage.com^
 |m.appstory.co.kr^
 |m.divinasmendoza.com^
 |m.dreamersforum.nl^
@@ -787,6 +792,8 @@
 |nove.tapky.info^
 |ntu.ff.or.kr^
 |ogloszenia.dziennikzwiazkowy.com^
+|ogloszenia.infoprzasnysz.com^
+|ogloszenia.tygodnikszczytno.pl^
 ||okcupid.com^
 |old.coacha.com^
 ||om-konkatsu.com^
@@ -1002,6 +1009,7 @@
 ||singleboerse.de^
 ||singleboersen-aktuell.de^
 ||singleboersen-vergleich.de^
+|sioux-falls.bonepage.com^
 ||siyahinci.net^
 ||skipthegames.com^
 ||skokka.co.in^

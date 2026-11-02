@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Brazil (br)
-# Domains: 36 | Updated: 2026-11-02
+# Domains: 39 | Updated: 2026-11-02
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/br.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,7 +13,9 @@
 0.0.0.0 brasilcasinos.com.br
 0.0.0.0 caf.natal.rn.gov.br
 0.0.0.0 cardmates.com.br
+0.0.0.0 casinoonlineportugal.com.pt
 0.0.0.0 cassinosbrasil.net
+0.0.0.0 cidadao.saude.al.gov.br
 0.0.0.0 deunoposte.app.br
 0.0.0.0 deunopostenacional.com.br
 0.0.0.0 dojogodobicho.com
@@ -25,6 +27,7 @@
 0.0.0.0 jbparatodos.com
 0.0.0.0 lotodobicho.com
 0.0.0.0 matriculaweb.cuiaba.mt.gov.br
+0.0.0.0 melap.pt
 0.0.0.0 meujogodobicho.com.br
 0.0.0.0 mightytips.biz
 0.0.0.0 natal.diadema.sp.gov.br

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, Spain (es)
-! Domains: 15 | Updated: 2026-11-02
+! Domains: 13 | Updated: 2026-11-02
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/es.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,5 +17,3 @@
 ||melbet-mx.com^
 ||metaspins-casino.si^
 ||rollbit.co.uk^
-||solcasino.es^
-||sportium.com.co^

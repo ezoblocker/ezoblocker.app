@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, illegal sports streams
-! Domains: 402 | Updated: 2026-11-02
+! Domains: 416 | Updated: 2026-11-02
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/piracy-sports.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -107,6 +107,7 @@
 ||futemax.gay^
 ||futemax.haus^
 ||futemax.hiphop^
+||futemax.insure^
 ||futemax.med^
 ||futemax.partners^
 ||futemax.ventures^
@@ -155,6 +156,7 @@
 ||koora4u.club^
 ||koora4uyt.blogspot.com^
 ||kooraforus.blogspot.com^
+||kooragoal.beer^
 ||kooral.top^
 ||kooralive-koora.live^
 ||kooralive.beer^
@@ -175,6 +177,7 @@
 ||livebola.net^
 ||liveekoora.com^
 ||livehd7.buzz^
+||livehd7.forum^
 ||livehd7.quest^
 ||livehd7.uno^
 ||livehd71.live^
@@ -208,6 +211,7 @@
 ||mlbbite.plus^
 ||muayded789.com^
 ||multicanaishdtv.com.br^
+||mystreameast.fun^
 ||myvipbox.com^
 ||nbabite.info^
 ||nbabite.net^
@@ -247,11 +251,13 @@
 ||rojadirectaes.cloud^
 ||rojadirectafullhd.net^
 ||rojadirectafulltv.org^
+||rojadirectas.business^
 ||rojadirectas.cc^
 ||rojadirectatv.city^
 ||rojadirectatv.skin^
 ||rojadirectatvmas.org^
 ||rojadirectatvplay.com^
+||rojadirectatvplay.net^
 ||rojadirectatvplay.org^
 |s1s.designq.kr^
 |saas.spochak.com^
@@ -268,6 +274,7 @@
 ||socolive75.tv^
 ||socolivef.cc^
 ||socolivei.cc^
+||socolivet.cv^
 ||socolivetvz.top^
 ||socolivev.co^
 ||socolivezq.tv^
@@ -292,11 +299,13 @@
 |staging.elkford.ca^
 |start.sportdigital.de^
 ||streamcode.fit^
+||streameast.beauty^
 ||streameast.to^
 ||streameasti.site^
 ||streameastmirror.com^
 ||streameastonline.com^
 ||streameasttop.com^
+||streameastv2.buzz^
 ||streameastv2.mom^
 ||streamed.cyou^
 ||streamonsport.blog^
@@ -321,6 +330,7 @@
 ||taraftarium24soturkiye.org^
 ||taraftarium24turkiyetv.net^
 ||tarjeta-roja.live^
+||tarjetaroja-tv.me^
 ||tarjetaroja.love^
 ||tarjetaroja.ltd^
 ||tarjetaroja.mba^
@@ -333,6 +343,7 @@
 ||tarjetarojaonline.info^
 ||tarjetarojaonline.pro^
 ||tarjetarojaonlineinfo.site^
+||tarjetarojatv.boats^
 ||tarjetarojatv.mobi^
 ||tarjetarojatvenvivo.me^
 ||tarjetarojatvhd.live^
@@ -340,6 +351,7 @@
 ||tarjetarojatvlive.pl^
 ||tarjetarojatvonline.info^
 ||tarjetarojatvonline.site^
+||the-futbollibre.com^
 ||today-yalla-shoot.com^
 ||totalsportek.org.im^
 ||totalsportek1.is^
@@ -382,12 +394,14 @@
 ||xoilaclivettbdad.tv^
 ||xoilaclivettbds.tv^
 ||xoilaclivettbdu.tv^
+||xoilaclivettbdy.tv^
 ||xoilaclivettbdz.tv^
 ||xoilactvbm.cc^
 ||xoilactvttbdg.tv^
 ||xoilacvba.tv^
 ||xoilacvbc.tv^
 ||xoilacvbe.tv^
+||xoilacvbm.tv^
 ||xoilacvn.app^
 ||xoilacvn.net^
 ||xoilacxbk.tv^

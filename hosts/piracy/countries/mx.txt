@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Mexico (mx)
-# Domains: 41 | Updated: 2026-11-02
+# Domains: 46 | Updated: 2026-11-02
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/mx.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -21,6 +21,7 @@
 0.0.0.0 gnulas.lat
 0.0.0.0 icuevana3.mobi
 0.0.0.0 iptvlatinoamerica.us
+0.0.0.0 iptvmexico.cloud
 0.0.0.0 iptvmexico.us
 0.0.0.0 mejortorrent.cc
 0.0.0.0 mejortorrent.eu
@@ -34,14 +35,18 @@
 0.0.0.0 rojadirecta.cloud
 0.0.0.0 rojadirectaes.cloud
 0.0.0.0 rojadirectafullhd.net
+0.0.0.0 rojadirectas.business
 0.0.0.0 rojadirectatv.city
 0.0.0.0 rojadirectatv.skin
 0.0.0.0 rojadirectatvmas.org
 0.0.0.0 rojadirectatvplay.com
+0.0.0.0 rojadirectatvplay.net
 0.0.0.0 rojadirectatvplay.org
+0.0.0.0 tarjetaroja-tv.me
 0.0.0.0 tarjetaroja.ltd
 0.0.0.0 tarjetaroja.run
 0.0.0.0 tarjetaroja.surf
 0.0.0.0 tarjetarojadirecta.es
 0.0.0.0 tarjetarojadirectatv.me
+0.0.0.0 tarjetarojatv.boats
 0.0.0.0 tarjetarojatvhd.live

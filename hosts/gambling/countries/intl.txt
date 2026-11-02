@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, International (intl)
-# Domains: 89 | Updated: 2026-11-02
+# Domains: 108 | Updated: 2026-11-02
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/intl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,12 +14,14 @@
 0.0.0.0 7777.md
 0.0.0.0 888sport.ro
 0.0.0.0 afropari.ng
+0.0.0.0 apexbets.co.za
 0.0.0.0 avabetegypt.com
 0.0.0.0 baji.live
 0.0.0.0 bcgame.mx
 0.0.0.0 bcgamebet.ng
 0.0.0.0 betandyouafrica.com
 0.0.0.0 betano.be
+0.0.0.0 betbox.zone
 0.0.0.0 betcha.pa
 0.0.0.0 betgol.pe
 0.0.0.0 bethard.es
@@ -37,7 +39,9 @@
 0.0.0.0 bkolimp.kg
 0.0.0.0 bongobongo.co.tz
 0.0.0.0 bongobongo.co.zm
+0.0.0.0 bwanabet.com
 0.0.0.0 campobet.dk
+0.0.0.0 casinoatlanticcity.com
 0.0.0.0 casumo.es
 0.0.0.0 codere.pa
 0.0.0.0 comeon.pl
@@ -49,12 +53,16 @@
 0.0.0.0 football.com
 0.0.0.0 fortebet.ng
 0.0.0.0 fortebet.rw
+0.0.0.0 fundalor.mx
 0.0.0.0 gana777.sv
 0.0.0.0 gsb.co.tz
 0.0.0.0 helabet.co.tz
 0.0.0.0 helabet.ng
 0.0.0.0 helabetke.com
 0.0.0.0 hkjc.com
+0.0.0.0 iddaa.com
+0.0.0.0 inbet.mx
+0.0.0.0 jubilee.mx
 0.0.0.0 kirolbet.es
 0.0.0.0 lottoland.mx
 0.0.0.0 marathonbet.dk
@@ -77,19 +85,30 @@
 0.0.0.0 paf.lv
 0.0.0.0 parimatch.com.cy
 0.0.0.0 paripesa.co.zm
+0.0.0.0 playabets.co.ke
 0.0.0.0 pokerstars.se
 0.0.0.0 puntit.com
 0.0.0.0 puntitnorway.com
 0.0.0.0 puntitsports.com
 0.0.0.0 readysetbet.co.za
+0.0.0.0 scooore.be
+0.0.0.0 solcasino.es
+0.0.0.0 spade.ng
 0.0.0.0 speedybet.es
 0.0.0.0 sportium.com.co
 0.0.0.0 sportybet.co.cm
 0.0.0.0 spreadex.dk
+0.0.0.0 stanleybet.be
+0.0.0.0 stanleybet.com.cy
+0.0.0.0 sunbet.co.bw
 0.0.0.0 tonybet.lv
 0.0.0.0 ubet.kz
 0.0.0.0 virginbet.co.za
+0.0.0.0 vivento.mx
+0.0.0.0 wanejobets.co.za
 0.0.0.0 williamhill.us
 0.0.0.0 winmasters.com.cy
 0.0.0.0 zeturf.be
 0.0.0.0 zeturf.nl
+0.0.0.0 zinabet.com
+0.0.0.0 zlot.mx

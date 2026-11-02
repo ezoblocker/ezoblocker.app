@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, Czechia (cz)
-! Domains: 20 | Updated: 2026-11-02
+! Domains: 21 | Updated: 2026-11-02
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/cz.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -20,6 +20,7 @@
 ||mrcasino.cz^
 ||ovocko.com^
 |panel.vrb.com.tr^
+||parimirror.com^
 ||slotv-casino.ro^
 ||slotvbet-in.com^
 ||slotvcasino.ro^

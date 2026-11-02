@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Germany (de)
-# Domains: 25 | Updated: 2026-11-02
+# Domains: 27 | Updated: 2026-11-02
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/de.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -19,6 +19,7 @@
 0.0.0.0 slootimo.com
 0.0.0.0 slotimo.de.com
 0.0.0.0 slotimo1.net
+0.0.0.0 slotimoaus.com
 0.0.0.0 slotimode.com
 0.0.0.0 spielothek365.com
 0.0.0.0 spinangabonuses.com
@@ -26,6 +27,7 @@
 0.0.0.0 spinangit.com
 0.0.0.0 topcasinobewertungen.de
 0.0.0.0 vegasplussecurity.com
+0.0.0.0 watami.eu
 0.0.0.0 wildzcasino-canada.com
 0.0.0.0 wildzcasinonorway.shop
 0.0.0.0 wolfundadler.de

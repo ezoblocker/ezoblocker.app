@@ -1,12 +1,11 @@
 # Title: EZOBLOCKER Gambling, Argentina (ar)
-# Domains: 15 | Updated: 2026-11-02
+# Domains: 14 | Updated: 2026-11-02
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/ar.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 apuestas-1xbet.net
 0.0.0.0 argentinacasinos.com
-0.0.0.0 betbox.zone
 0.0.0.0 betragaperras.es
 0.0.0.0 casasdeapuestas-argentina.com
 0.0.0.0 daleque.com.ar

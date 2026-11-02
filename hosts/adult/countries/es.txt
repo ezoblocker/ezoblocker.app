@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Spain (es)
-# Domains: 35 | Updated: 2026-11-02
+# Domains: 37 | Updated: 2026-11-02
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/es.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -30,12 +30,14 @@
 0.0.0.0 patxi.es
 0.0.0.0 picansex.com
 0.0.0.0 privatesexshoppanama.com
+0.0.0.0 prive.uy
 0.0.0.0 seductime.es
 0.0.0.0 sexcenter.tienda
 0.0.0.0 sexshopamatista.com
 0.0.0.0 sextoyscenter.net
 0.0.0.0 shopsexmachine.com
 0.0.0.0 takershop.com
+0.0.0.0 thecoldlady.com
 0.0.0.0 tiendapoppers.com
 0.0.0.0 tu-juguete-erotico.com
 0.0.0.0 vangoren.com

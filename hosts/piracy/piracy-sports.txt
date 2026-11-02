@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 402 | Updated: 2026-11-02
+# Domains: 416 | Updated: 2026-11-02
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -107,6 +107,7 @@
 0.0.0.0 futemax.gay
 0.0.0.0 futemax.haus
 0.0.0.0 futemax.hiphop
+0.0.0.0 futemax.insure
 0.0.0.0 futemax.med
 0.0.0.0 futemax.partners
 0.0.0.0 futemax.ventures
@@ -155,6 +156,7 @@
 0.0.0.0 koora4u.club
 0.0.0.0 koora4uyt.blogspot.com
 0.0.0.0 kooraforus.blogspot.com
+0.0.0.0 kooragoal.beer
 0.0.0.0 kooral.top
 0.0.0.0 kooralive-koora.live
 0.0.0.0 kooralive.beer
@@ -175,6 +177,7 @@
 0.0.0.0 livebola.net
 0.0.0.0 liveekoora.com
 0.0.0.0 livehd7.buzz
+0.0.0.0 livehd7.forum
 0.0.0.0 livehd7.quest
 0.0.0.0 livehd7.uno
 0.0.0.0 livehd71.live
@@ -208,6 +211,7 @@
 0.0.0.0 mlbbite.plus
 0.0.0.0 muayded789.com
 0.0.0.0 multicanaishdtv.com.br
+0.0.0.0 mystreameast.fun
 0.0.0.0 myvipbox.com
 0.0.0.0 nbabite.info
 0.0.0.0 nbabite.net
@@ -247,11 +251,13 @@
 0.0.0.0 rojadirectaes.cloud
 0.0.0.0 rojadirectafullhd.net
 0.0.0.0 rojadirectafulltv.org
+0.0.0.0 rojadirectas.business
 0.0.0.0 rojadirectas.cc
 0.0.0.0 rojadirectatv.city
 0.0.0.0 rojadirectatv.skin
 0.0.0.0 rojadirectatvmas.org
 0.0.0.0 rojadirectatvplay.com
+0.0.0.0 rojadirectatvplay.net
 0.0.0.0 rojadirectatvplay.org
 0.0.0.0 s1s.designq.kr
 0.0.0.0 saas.spochak.com
@@ -268,6 +274,7 @@
 0.0.0.0 socolive75.tv
 0.0.0.0 socolivef.cc
 0.0.0.0 socolivei.cc
+0.0.0.0 socolivet.cv
 0.0.0.0 socolivetvz.top
 0.0.0.0 socolivev.co
 0.0.0.0 socolivezq.tv
@@ -292,11 +299,13 @@
 0.0.0.0 staging.elkford.ca
 0.0.0.0 start.sportdigital.de
 0.0.0.0 streamcode.fit
+0.0.0.0 streameast.beauty
 0.0.0.0 streameast.to
 0.0.0.0 streameasti.site
 0.0.0.0 streameastmirror.com
 0.0.0.0 streameastonline.com
 0.0.0.0 streameasttop.com
+0.0.0.0 streameastv2.buzz
 0.0.0.0 streameastv2.mom
 0.0.0.0 streamed.cyou
 0.0.0.0 streamonsport.blog
@@ -321,6 +330,7 @@
 0.0.0.0 taraftarium24soturkiye.org
 0.0.0.0 taraftarium24turkiyetv.net
 0.0.0.0 tarjeta-roja.live
+0.0.0.0 tarjetaroja-tv.me
 0.0.0.0 tarjetaroja.love
 0.0.0.0 tarjetaroja.ltd
 0.0.0.0 tarjetaroja.mba
@@ -333,6 +343,7 @@
 0.0.0.0 tarjetarojaonline.info
 0.0.0.0 tarjetarojaonline.pro
 0.0.0.0 tarjetarojaonlineinfo.site
+0.0.0.0 tarjetarojatv.boats
 0.0.0.0 tarjetarojatv.mobi
 0.0.0.0 tarjetarojatvenvivo.me
 0.0.0.0 tarjetarojatvhd.live
@@ -340,6 +351,7 @@
 0.0.0.0 tarjetarojatvlive.pl
 0.0.0.0 tarjetarojatvonline.info
 0.0.0.0 tarjetarojatvonline.site
+0.0.0.0 the-futbollibre.com
 0.0.0.0 today-yalla-shoot.com
 0.0.0.0 totalsportek.org.im
 0.0.0.0 totalsportek1.is
@@ -382,12 +394,14 @@
 0.0.0.0 xoilaclivettbdad.tv
 0.0.0.0 xoilaclivettbds.tv
 0.0.0.0 xoilaclivettbdu.tv
+0.0.0.0 xoilaclivettbdy.tv
 0.0.0.0 xoilaclivettbdz.tv
 0.0.0.0 xoilactvbm.cc
 0.0.0.0 xoilactvttbdg.tv
 0.0.0.0 xoilacvba.tv
 0.0.0.0 xoilacvbc.tv
 0.0.0.0 xoilacvbe.tv
+0.0.0.0 xoilacvbm.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv

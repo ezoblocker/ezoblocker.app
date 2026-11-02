@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Nigeria (ng)
-# Domains: 14 | Updated: 2026-11-02
+# Domains: 15 | Updated: 2026-11-02
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/countries/ng.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 fzmovies.ng
 fztvseries.ng
 mynetnaija.ng
+naijaloaded.com.ng
 naijaprey.org
 naijaprey.tv
 netnaija.top

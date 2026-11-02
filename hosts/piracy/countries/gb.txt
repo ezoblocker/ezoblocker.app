@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, United Kingdom (gb)
-# Domains: 40 | Updated: 2026-11-02
+# Domains: 42 | Updated: 2026-11-02
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 0.0.0.0 aniwatch.co.at
 0.0.0.0 aniwatch.co.bz
 0.0.0.0 aniwatch.com.bz
+0.0.0.0 aniwatch.page
 0.0.0.0 aniwatch.rest
 0.0.0.0 aniwatchtv.ro
 0.0.0.0 aniwatchtv.ws
@@ -25,6 +26,7 @@
 0.0.0.0 gogoanime.ms
 0.0.0.0 gogoanime.or.at
 0.0.0.0 gogoanimes.dk
+0.0.0.0 gogoanimez.buzz
 0.0.0.0 gogoanimez.online
 0.0.0.0 hesgoallive.quest
 0.0.0.0 iptvukservice.com
