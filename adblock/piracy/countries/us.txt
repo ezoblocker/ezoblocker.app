@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, United States (us)
-! Domains: 33 | Updated: 2026-11-02
+! Domains: 32 | Updated: 2026-11-02
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/countries/us.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,7 +16,6 @@
 ||crackstreams.guru^
 ||crackstreams1.cx^
 |drecov.pandaoffice.com^
-||fulllhd123movies.com^
 |geoikp.operandum-project.eu^
 ||isportsurge.ws^
 ||kissanime.lu^
