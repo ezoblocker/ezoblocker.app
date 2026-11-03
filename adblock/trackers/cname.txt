@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Trackers, cname
-! Domains: 181 | Updated: 2026-11-03
+! Domains: 185 | Updated: 2026-11-03
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/trackers/cname.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -51,6 +51,7 @@
 ||cname.trackgo.io^
 ||cname.truemetrics.eu^
 ||cnci.tech^
+||compooonents.com^
 ||connect.bonicbd.com^
 ||corewell-health-domain.oursprivacy.com^
 ||custom.plausible.io^
@@ -96,6 +97,7 @@
 ||opsone-analytics.ch^
 ||out.seline.com^
 ||package.leadjourney.io^
+||perpys-stats.exe.xyz^
 ||phoenix-childrens-domain.oursprivacy.com^
 ||pl02.prolitteris.2cnt.net^
 ||pragtag.com^
@@ -132,6 +134,7 @@
 ||soureicdn.com^
 ||sst.ibos.agency^
 ||sst.metrito.com^
+||sst.websentiment.nl^
 ||sstsimprosys.com^
 ||st-tammany-health-domain.oursprivacy.com^
 ||stape.ai^
@@ -167,6 +170,7 @@
 ||t.servero.io^
 ||tacoda.net^
 ||taggian.eu^
+||tagserver.websentiment.nl^
 ||tcservercontainers.com^
 ||tenants.signalhost.io^
 ||tr.flowplatform.com^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 699 | Updated: 2026-11-03
+# Domains: 703 | Updated: 2026-11-03
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -149,6 +149,7 @@
 0.0.0.0 collect.saas.castbox.fm
 0.0.0.0 collector.pbimetrics.com
 0.0.0.0 commander1.com
+0.0.0.0 compooonents.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 connect.bonicbd.com
 0.0.0.0 context-api.brainnordic.com
@@ -271,6 +272,7 @@
 0.0.0.0 out.seline.com
 0.0.0.0 p.factual.com
 0.0.0.0 package.leadjourney.io
+0.0.0.0 perpys-stats.exe.xyz
 0.0.0.0 phgeulerian.t2omedia.com
 0.0.0.0 phoenix-childrens-domain.oursprivacy.com
 0.0.0.0 pia.af-sdk.net
@@ -404,6 +406,7 @@
 0.0.0.0 sp-trk.com
 0.0.0.0 sst.ibos.agency
 0.0.0.0 sst.metrito.com
+0.0.0.0 sst.websentiment.nl
 0.0.0.0 sstsimprosys.com
 0.0.0.0 st-tammany-health-domain.oursprivacy.com
 0.0.0.0 staex.aida.de
@@ -451,6 +454,7 @@
 0.0.0.0 taggian.eu
 0.0.0.0 tags.mobileacademy.com
 0.0.0.0 tags.tiqcdn.com
+0.0.0.0 tagserver.websentiment.nl
 0.0.0.0 tck.elitrack.com
 0.0.0.0 tcservercontainers.com
 0.0.0.0 tekma-dmp.ai
