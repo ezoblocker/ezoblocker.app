@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,250 | Updated: 2026-11-03
+# Domains: 1,251 | Updated: 2026-11-03
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -995,6 +995,7 @@
 0.0.0.0 shada-shatea.hotels-saudi-arabia.com
 0.0.0.0 shagle.com
 0.0.0.0 shagle.tv
+0.0.0.0 shaglechat.net
 0.0.0.0 shemaleclub.uk
 0.0.0.0 siberalem.com
 0.0.0.0 sibiu.abcescorte.com

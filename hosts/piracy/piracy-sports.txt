@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 415 | Updated: 2026-11-03
+# Domains: 416 | Updated: 2026-11-03
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -232,6 +232,7 @@
 0.0.0.0 pirlotv-futbol-en-vivo-directo.apps112.com
 0.0.0.0 pirlotv.bar
 0.0.0.0 pirlotv.dog
+0.0.0.0 pirlotv.download
 0.0.0.0 pirlotv.la
 0.0.0.0 pirlotv.plus
 0.0.0.0 pirlotv.red

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,097 | Updated: 2026-11-03
+# Domains: 1,099 | Updated: 2026-11-03
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -739,6 +739,7 @@ phutu.forumvi.com
 pirlotv-futbol-en-vivo-directo.apps112.com
 *.pirlotv.bar
 *.pirlotv.dog
+*.pirlotv.download
 *.pirlotv.la
 *.pirlotv.plus
 *.pirlotv.red
@@ -846,6 +847,7 @@ sgo-qa.institutoedison.com.br
 show.sky.ch
 sia.aracati.ce.gov.br
 *.siamsport.co.th
+siat.maceio.al.gov.br
 silsigan-toto-saiteu-jip.hogal.co.kr
 *.sinemafilmizle.com.tr
 sismrae.sead.pi.gov.br

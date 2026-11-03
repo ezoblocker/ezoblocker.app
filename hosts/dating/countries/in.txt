@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, India (in)
-# Domains: 32 | Updated: 2026-11-03
+# Domains: 33 | Updated: 2026-11-03
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/in.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -28,6 +28,7 @@
 0.0.0.0 patna.nehamari.com
 0.0.0.0 quackquack.in
 0.0.0.0 shaadi.com
+0.0.0.0 shaglechat.net
 0.0.0.0 simplymarriage.com
 0.0.0.0 simplymarry-matrimonial-app.apk.cafe
 0.0.0.0 skokka.co.in

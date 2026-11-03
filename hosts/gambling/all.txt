@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 398,591 | Updated: 2026-11-03
+# Domains: 398,602 | Updated: 2026-11-03
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -536,6 +536,7 @@
 0.0.0.0 10040bets10.com
 0.0.0.0 10040jojobet.com
 0.0.0.0 10041bets10.com
+0.0.0.0 10044bets10.com
 0.0.0.0 1009-the-pokies-casino-site.pages.dev
 0.0.0.0 1009-thepokies-sbs.pages.dev
 0.0.0.0 1009-thepokiesnet-111-space.pages.dev
@@ -8045,6 +8046,7 @@
 0.0.0.0 3065marsbahis.com
 0.0.0.0 3066marsbahis.com
 0.0.0.0 306bets10.com
+0.0.0.0 3073marsbahis.com
 0.0.0.0 307betcasino.com
 0.0.0.0 307bets10.com
 0.0.0.0 307slotoro.bet
@@ -21077,6 +21079,7 @@
 0.0.0.0 affiliate-melbet.com
 0.0.0.0 affiliate-zencasino.com
 0.0.0.0 affiliatecasino.org
+0.0.0.0 affiliateguarddog.com
 0.0.0.0 affiliateprogramscasino.com
 0.0.0.0 affiliates-canada-sportsbook.pages.dev
 0.0.0.0 affiliates-casino.pages.dev
@@ -49665,6 +49668,7 @@
 0.0.0.0 betkral679.com
 0.0.0.0 betkral710.com
 0.0.0.0 betkral720.com
+0.0.0.0 betkral730.com
 0.0.0.0 betkraton.com
 0.0.0.0 betkraton.net
 0.0.0.0 betkrw.best
@@ -132809,6 +132813,7 @@
 0.0.0.0 demoslot.cash
 0.0.0.0 demoslot.casino
 0.0.0.0 demoslot.cloud
+0.0.0.0 demoslot.com
 0.0.0.0 demoslot.cv
 0.0.0.0 demoslot.date
 0.0.0.0 demoslot.design
@@ -134684,6 +134689,7 @@
 0.0.0.0 dinenl.ca
 0.0.0.0 dinerocasinos.com
 0.0.0.0 dineroscasino.com
+0.0.0.0 dineroynegocios.mx
 0.0.0.0 ding-casino.org
 0.0.0.0 ding-ding-casino.com
 0.0.0.0 ding-ding-ding-casino.ca
@@ -141509,6 +141515,7 @@
 0.0.0.0 elifthereader.com
 0.0.0.0 eligecasinos.com
 0.0.0.0 elight-edu-performa-slot-thailand-gacor.pages.dev
+0.0.0.0 elipsbetyonlendirme.com
 0.0.0.0 elisabetcasino.de
 0.0.0.0 elisabetcasino.fr
 0.0.0.0 elisabethschule.at
@@ -204684,6 +204691,7 @@
 0.0.0.0 laplandcasino.pages.dev
 0.0.0.0 laplandcasinos.com
 0.0.0.0 laplataapuesta.com
+0.0.0.0 laplazapublica.com
 0.0.0.0 lapokerhouse.com
 0.0.0.0 lapokernetwork.com
 0.0.0.0 lapooxshop-ramenbet-naga911.pages.dev
@@ -232922,6 +232930,7 @@
 0.0.0.0 mightybetcasino-au.com
 0.0.0.0 mightysmallbiz.com
 0.0.0.0 mightytips.biz
+0.0.0.0 mightytips.net
 0.0.0.0 mightytips.tv
 0.0.0.0 migliorbonuscasino.net
 0.0.0.0 migliorbonusscommesse.com
@@ -246562,6 +246571,7 @@
 0.0.0.0 nakitbahis.cam
 0.0.0.0 nakitbahis.com
 0.0.0.0 nakitbahis1138.com
+0.0.0.0 nakitbahis1139.com
 0.0.0.0 nakitbahiscasino-ca.pages.dev
 0.0.0.0 nakitbahiscasino.com
 0.0.0.0 nakitbahisgiris.wiki
@@ -288854,6 +288864,7 @@
 0.0.0.0 pusulabet5020.com
 0.0.0.0 pusulabet5026.com
 0.0.0.0 pusulabet5027.com
+0.0.0.0 pusulabet5028.com
 0.0.0.0 pusulabet620.net
 0.0.0.0 pusulabetadresi.com
 0.0.0.0 pusulabetapp6.com

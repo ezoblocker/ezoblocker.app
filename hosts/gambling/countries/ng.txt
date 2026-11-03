@@ -1,15 +1,17 @@
 # Title: EZOBLOCKER Gambling, Nigeria (ng)
-# Domains: 11 | Updated: 2026-11-03
+# Domains: 13 | Updated: 2026-11-03
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/ng.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 1win.vote
+0.0.0.0 affiliateguarddog.com
 0.0.0.0 arabiccryptocasinoonline.com
 0.0.0.0 bcgamelinks.com
 0.0.0.0 bettingsuretips.com
 0.0.0.0 betwinneringambia.com
 0.0.0.0 casinosistersites.info
+0.0.0.0 laplazapublica.com
 0.0.0.0 muamalahvalley.com
 0.0.0.0 nationalparks.org.nz
 0.0.0.0 realmoneycasinogame.net

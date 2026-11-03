@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,321 | Updated: 2026-11-03
+# Domains: 1,324 | Updated: 2026-11-03
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,6 +12,7 @@
 0.0.0.0 1a-erotikshops.de
 0.0.0.0 1advd.ch
 0.0.0.0 24-horas.mx
+0.0.0.0 444shop.com.tr
 0.0.0.0 4love.ro
 0.0.0.0 4playessentials.co.za
 0.0.0.0 50nuances.ca
@@ -410,6 +411,7 @@
 0.0.0.0 ginza-soleil.com
 0.0.0.0 ginza-soleil.jp
 0.0.0.0 girlsgetoff.com
+0.0.0.0 gizemlisexshop.com
 0.0.0.0 gizliyanim.com
 0.0.0.0 goldcondom.com
 0.0.0.0 goodvibres.com.br
@@ -842,6 +844,7 @@
 0.0.0.0 pleasurestore.ie
 0.0.0.0 pleasurex.ca
 0.0.0.0 pluralsexshop.com.br
+0.0.0.0 plushshop.com
 0.0.0.0 pocztakubkowa.pl
 0.0.0.0 polunichka.ua
 0.0.0.0 ponchik.com.ua

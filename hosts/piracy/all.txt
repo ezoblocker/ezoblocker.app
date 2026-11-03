@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,097 | Updated: 2026-11-03
+# Domains: 1,099 | Updated: 2026-11-03
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -739,6 +739,7 @@
 0.0.0.0 pirlotv-futbol-en-vivo-directo.apps112.com
 0.0.0.0 pirlotv.bar
 0.0.0.0 pirlotv.dog
+0.0.0.0 pirlotv.download
 0.0.0.0 pirlotv.la
 0.0.0.0 pirlotv.plus
 0.0.0.0 pirlotv.red
@@ -846,6 +847,7 @@
 0.0.0.0 show.sky.ch
 0.0.0.0 sia.aracati.ce.gov.br
 0.0.0.0 siamsport.co.th
+0.0.0.0 siat.maceio.al.gov.br
 0.0.0.0 silsigan-toto-saiteu-jip.hogal.co.kr
 0.0.0.0 sinemafilmizle.com.tr
 0.0.0.0 sismrae.sead.pi.gov.br

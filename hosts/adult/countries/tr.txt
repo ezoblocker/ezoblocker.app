@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 338 | Updated: 2026-11-03
+# Domains: 340 | Updated: 2026-11-03
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,6 +16,7 @@
 0.0.0.0 31vqkticx18.site
 0.0.0.0 31vqkticx7.cfd
 0.0.0.0 31vqkticx7.click
+0.0.0.0 444shop.com.tr
 0.0.0.0 5geoescort.club
 0.0.0.0 66seks-hikayeleri.yeahh.com
 0.0.0.0 7vipremium.com
@@ -137,6 +138,7 @@
 0.0.0.0 gaziantepbayanescort.com
 0.0.0.0 gaziantepbayanlar.com
 0.0.0.0 gecekutusu.com
+0.0.0.0 gizemlisexshop.com
 0.0.0.0 gizliyanim.com
 0.0.0.0 hdabla.one
 0.0.0.0 hdabla76.click

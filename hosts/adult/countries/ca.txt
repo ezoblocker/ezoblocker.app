@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Canada (ca)
-# Domains: 40 | Updated: 2026-11-03
+# Domains: 41 | Updated: 2026-11-03
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ca.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -29,6 +29,7 @@
 0.0.0.0 outonthestreet.ca
 0.0.0.0 pinkcherrywholesale.ca
 0.0.0.0 pleasurex.ca
+0.0.0.0 plushshop.com
 0.0.0.0 priape.com
 0.0.0.0 redpleasures.ca
 0.0.0.0 seduction.ca
