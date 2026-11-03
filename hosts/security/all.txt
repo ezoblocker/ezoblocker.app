@@ -4558,6 +4558,7 @@
 0.0.0.0 atualizacaobradesco.pages.dev
 0.0.0.0 atualizacaonetempresa.com
 0.0.0.0 atualizacaonetempresas.com
+0.0.0.0 atualizacaopj-netempresas.com
 0.0.0.0 atualizarcadastrobradesco.digital
 0.0.0.0 au-acccountea-center-helps-meta.pages.dev
 0.0.0.0 au-acccountex-center-helps-meta.pages.dev
@@ -4566,7 +4567,6 @@
 0.0.0.0 au-acccountut-center-help-metabusiness.pages.dev
 0.0.0.0 au-coinspot-io.pages.dev
 0.0.0.0 au-ens-meta-support-center-acccounts.pages.dev
-0.0.0.0 au-post.com
 0.0.0.0 au-refund-gov.pages.dev
 0.0.0.0 au-trezoor-io-start.pages.dev
 0.0.0.0 auctioncryptauthio.pages.dev
@@ -4574,6 +4574,12 @@
 0.0.0.0 aufficial-ledgerlive.pages.dev
 0.0.0.0 auh-coinbase-com-sign.pages.dev
 0.0.0.0 aukro-verification.sbs
+0.0.0.0 aupost.com-track-1p3n.ink
+0.0.0.0 aupost.com-track-2m7d.ink
+0.0.0.0 aupost.com-track-3t5z.ink
+0.0.0.0 aupost.com-track-5p3z.ink
+0.0.0.0 aupost.com-track-8o7a.ink
+0.0.0.0 aupost.com-track-9t3a.ink
 0.0.0.0 auraliq-bytez.life
 0.0.0.0 auraliq-cloudx.life
 0.0.0.0 auraliq-drive.click
@@ -6884,7 +6890,6 @@
 0.0.0.0 binancecoin.pages.dev
 0.0.0.0 binancecointrackerapp.pages.dev
 0.0.0.0 binancecom.huangyuzhang.workers.dev
-0.0.0.0 binancedba.com
 0.0.0.0 binancedogcto.pages.dev
 0.0.0.0 binancedogxyz.pages.dev
 0.0.0.0 binancee.pages.dev
@@ -7520,7 +7525,6 @@
 0.0.0.0 booking-confirmation5400912.com
 0.0.0.0 booking-confirmation596647app.com
 0.0.0.0 booking-confirmation796648app.com
-0.0.0.0 booking-confirmation878426app.com
 0.0.0.0 booking-confirmation89347app.com
 0.0.0.0 booking-confirmation89447app.com
 0.0.0.0 booking-confirmation896447app.com
@@ -8665,7 +8669,6 @@
 0.0.0.0 bt-brokerslimited.org
 0.0.0.0 bt-whatssapp.com.cn
 0.0.0.0 btc-theorian-q365.com
-0.0.0.0 btcaurallonv15.org
 0.0.0.0 btcnexivolt760.pro
 0.0.0.0 btconbase-ai.pages.dev
 0.0.0.0 btconbase-en.pages.dev
@@ -8906,7 +8909,6 @@
 0.0.0.0 buy-ig-fol-paypal.pages.dev
 0.0.0.0 buy-verified-bybit-account.pages.dev
 0.0.0.0 buy-verified-bybit-accounts.pages.dev
-0.0.0.0 buyback-blockdagmainnet-allocation.live
 0.0.0.0 buyrobloxacc.pages.dev
 0.0.0.0 buyverifiedcashappaccount.com
 0.0.0.0 buyybitlogiinn.pages.dev
@@ -9488,7 +9490,6 @@
 0.0.0.0 cfi-whats-app.com.cn
 0.0.0.0 cgd-canadiantire-movistar.ph
 0.0.0.0 cgnhdfhdfhsfh.pages.dev
-0.0.0.0 ch-login-whatapp.hl.cn
 0.0.0.0 ch-twint-ch.cfd
 0.0.0.0 ch-twint-konto.cfd
 0.0.0.0 ch-twint-service.cam
@@ -14137,6 +14138,7 @@
 0.0.0.0 depop-veriff.world
 0.0.0.0 depop-verification-help727472.help
 0.0.0.0 depop-verificationpage891581.click
+0.0.0.0 depop-verify-order.info
 0.0.0.0 depop-verify-part.com
 0.0.0.0 depop-verify.shop
 0.0.0.0 depop-verify.space
@@ -16842,6 +16844,7 @@
 0.0.0.0 echallan-psx.cc
 0.0.0.0 echallan.dekkoisho.com
 0.0.0.0 echallan.parivahan.ink
+0.0.0.0 echallangermode.com
 0.0.0.0 echallangrmode.com
 0.0.0.0 echallank-idm.cc
 0.0.0.0 echallanrt.cc
@@ -25637,6 +25640,7 @@
 0.0.0.0 grailedprocess.com
 0.0.0.0 grandpashabetgirisleri.net
 0.0.0.0 grannyrobloxhackspeed.pages.dev
+0.0.0.0 granvex-holdings.com
 0.0.0.0 gratefulrobloxid.pages.dev
 0.0.0.0 gravo-lenct-biz-nokta-derin-sp8ct12.pages.dev
 0.0.0.0 great-trezor-suite.pages.dev
@@ -26551,7 +26555,6 @@
 0.0.0.0 hashkeyexx.cc
 0.0.0.0 hashpackwallet-en.pages.dev
 0.0.0.0 hashpackwallet-es.pages.dev
-0.0.0.0 hasil-gov-my.shop
 0.0.0.0 haspack-wallt.pages.dev
 0.0.0.0 haven-google-signin-test-20261010.pages.dev
 0.0.0.0 havrin-jelrax-biz-zeltor-finmor-sp7ct12.pages.dev
@@ -30614,7 +30617,6 @@
 0.0.0.0 hp-whatssapp.com.cn
 0.0.0.0 hpl-hyperlend.app
 0.0.0.0 hpme-kraken-en-pro.pages.dev
-0.0.0.0 hpq-whatsapp.com.cn
 0.0.0.0 hpx-whats-app.com.cn
 0.0.0.0 hr-migros.pages.dev
 0.0.0.0 hr-sso.appstore-id582882001.sbs
@@ -31316,7 +31318,6 @@
 0.0.0.0 icloud-ug.co
 0.0.0.0 icloud-verification.online
 0.0.0.0 icloud91278l.pages.dev
-0.0.0.0 icloudfind-connect.us
 0.0.0.0 icloudfind-sign.support
 0.0.0.0 icloudfind.us
 0.0.0.0 icloudfinddevice.com
@@ -31938,6 +31939,7 @@
 0.0.0.0 ingbankunlocked.ph
 0.0.0.0 ingbankverified.ph
 0.0.0.0 ingdirect-consultas-soporte.com
+0.0.0.0 ingdirect-portal-inicio.com
 0.0.0.0 inicio-traderepublic.com
 0.0.0.0 iniciodesesionroblox.pages.dev
 0.0.0.0 init-hub-trezr.pages.dev
@@ -32176,6 +32178,7 @@
 0.0.0.0 instagramline.pages.dev
 0.0.0.0 instagramlogin-68z.pages.dev
 0.0.0.0 instagramlooker.pages.dev
+0.0.0.0 instagramrecoverypasswordj5n13kjln5k134bni1hkb321kn2ijnw.com
 0.0.0.0 instagramreward.ph
 0.0.0.0 instagramsetting-businesssuport.pages.dev
 0.0.0.0 instagramsupport.email
@@ -34611,6 +34614,7 @@
 0.0.0.0 isupport-apple.info
 0.0.0.0 isupport-help.info
 0.0.0.0 it-notify-17b8-e46drp.pages.dev
+0.0.0.0 it-paypal.vip
 0.0.0.0 it-rstcapital-log.pages.dev
 0.0.0.0 it-tezor-doc.pages.dev
 0.0.0.0 it-trazor-suite.pages.dev
@@ -34973,7 +34977,6 @@
 0.0.0.0 j-wh-atsapp.com.cn
 0.0.0.0 j-wha-tsapp.com.cn
 0.0.0.0 j-what-sapp.com.cn
-0.0.0.0 j-whats-app.com.cn
 0.0.0.0 j-whats-app.hl.cn
 0.0.0.0 j-whats-app.sh.cn
 0.0.0.0 j-whatsa-pp.com.cn
@@ -35272,6 +35275,7 @@
 0.0.0.0 jtexpress-ch.top
 0.0.0.0 jtexpress-cj.top
 0.0.0.0 jtexpress-cl.top
+0.0.0.0 jtexpress-cv.top
 0.0.0.0 jtexpress-cx.top
 0.0.0.0 jtexpress-cz.top
 0.0.0.0 jtexpress-da.top
@@ -35303,6 +35307,8 @@
 0.0.0.0 jtexpress-iak.top
 0.0.0.0 jtexpress-iam.top
 0.0.0.0 jtexpress-iat.top
+0.0.0.0 jtexpress-iax.top
+0.0.0.0 jtexpress-iaz.top
 0.0.0.0 jtexpress-ida.top
 0.0.0.0 jtexpress-idb.top
 0.0.0.0 jtexpress-idc.top
@@ -35388,6 +35394,7 @@
 0.0.0.0 jtexpress-snb.top
 0.0.0.0 jtexpress-snc.top
 0.0.0.0 jtexpress-snk.top
+0.0.0.0 jtexpress-snm.top
 0.0.0.0 jtexpress-snv.top
 0.0.0.0 jtexpress-snx.top
 0.0.0.0 jtexpress-snz.top
@@ -35395,6 +35402,7 @@
 0.0.0.0 jtexpress-tc.top
 0.0.0.0 jtexpress-tj.top
 0.0.0.0 jtexpress-tk.top
+0.0.0.0 jtexpress-tke.top
 0.0.0.0 jtexpress-tky.top
 0.0.0.0 jtexpress-tl.top
 0.0.0.0 jtexpress-tm.top
@@ -35426,19 +35434,21 @@
 0.0.0.0 jtexpress-ya.top
 0.0.0.0 jtexpress-yd.top
 0.0.0.0 jtexpress-ye.top
+0.0.0.0 jtexpress-yf.top
 0.0.0.0 jtexpress-yg.top
 0.0.0.0 jtexpress-yh.top
 0.0.0.0 jtexpress-yj.cc
 0.0.0.0 jtexpress-yke.top
+0.0.0.0 jtexpress-ykq.top
 0.0.0.0 jtexpress-ykr.top
 0.0.0.0 jtexpress-ykt.top
 0.0.0.0 jtexpress-yq.top
 0.0.0.0 jtexpress-ys.top
+0.0.0.0 jtexpress-yw.top
 0.0.0.0 jtexpress-yx.cc
 0.0.0.0 jtexpress-yz.cc
 0.0.0.0 jtst-4-aliexpress-c1z.pages.dev
 0.0.0.0 jtu-whatsapp.com.cn
-0.0.0.0 jtv-w-hatsapp.hl.cn
 0.0.0.0 jual-paypal.pages.dev
 0.0.0.0 judy500walmart1219oneclick.pages.dev
 0.0.0.0 judyrobloxwalkthrough.pages.dev
@@ -35609,7 +35619,6 @@
 0.0.0.0 kcoin-login.pages.dev
 0.0.0.0 kcoinlogin.pages.dev
 0.0.0.0 kdhrhdhdhdhjdjdhdbdbhd.pages.dev
-0.0.0.0 kdv-w-hatsapp.hl.cn
 0.0.0.0 ke-ledger-com-start.pages.dev
 0.0.0.0 keamanan-akun-di-getir11-yang-membuat-pemain-lebih-tenang.pages.dev
 0.0.0.0 keep-ledgr-download.pages.dev
@@ -47280,7 +47289,6 @@
 0.0.0.0 loginofficemicrosoft.pages.dev
 0.0.0.0 loginonlinemicrosofte.pages.dev
 0.0.0.0 loginoutlookonedrivesettingsharepilntcoipilotpaapllication.pages.dev
-0.0.0.0 loginrevolutsigninacess.com
 0.0.0.0 loginroblox.pages.dev
 0.0.0.0 logins-cuenta-google.pages.dev
 0.0.0.0 logins-ecure-conbase-prouds.pages.dev
@@ -47288,7 +47296,6 @@
 0.0.0.0 logins-ledgers-liven-en-us.pages.dev
 0.0.0.0 logins-netcoins.pages.dev
 0.0.0.0 logins-robin-hood.pages.dev
-0.0.0.0 logins-whatapp.hl.cn
 0.0.0.0 logins.id-confirmations-ourtime.workers.dev
 0.0.0.0 loginsdaviviendacol.pages.dev
 0.0.0.0 logintr-e-zor.pages.dev
@@ -47729,7 +47736,6 @@
 0.0.0.0 lokalna-ofeta02292.shop
 0.0.0.0 lokalna-ofeta029.biz
 0.0.0.0 lokalna-ofeta0292.shop
-0.0.0.0 lokalna-ofeta0293403.cfd
 0.0.0.0 lokalna-ofeta091.sbs
 0.0.0.0 lokalna-ofeta101xz0y2j071.icu
 0.0.0.0 lokalna-ofeta1021xz5y2j078.icu
@@ -47746,7 +47752,6 @@
 0.0.0.0 lokalna-ofeta1554243.shop
 0.0.0.0 lokalna-ofeta190.sbs
 0.0.0.0 lokalna-ofeta197891.sbs
-0.0.0.0 lokalna-ofeta198767.ink
 0.0.0.0 lokalna-ofeta213.sbs
 0.0.0.0 lokalna-ofeta2221.sbs
 0.0.0.0 lokalna-ofeta2398.shop
@@ -47760,6 +47765,7 @@
 0.0.0.0 lokalna-ofeta34546344.shop
 0.0.0.0 lokalna-ofeta3812.sbs
 0.0.0.0 lokalna-ofeta4.shop
+0.0.0.0 lokalna-ofeta44829063.shop
 0.0.0.0 lokalna-ofeta458974.sbs
 0.0.0.0 lokalna-ofeta47677.sbs
 0.0.0.0 lokalna-ofeta48.sbs
@@ -47773,7 +47779,6 @@
 0.0.0.0 lokalna-ofeta664.sbs
 0.0.0.0 lokalna-ofeta66814.shop
 0.0.0.0 lokalna-ofeta671.sbs
-0.0.0.0 lokalna-ofeta671344.shop
 0.0.0.0 lokalna-ofeta77173.shop
 0.0.0.0 lokalna-ofeta79182.shop
 0.0.0.0 lokalna-ofeta86741.sbs
@@ -47891,7 +47896,6 @@
 0.0.0.0 lw-wsx-whatsapp.com.cn
 0.0.0.0 lwedger-live-login.pages.dev
 0.0.0.0 lww-danaa-ambil10-20jt-grtistunguapalagi.pages.dev
-0.0.0.0 ly-tgb-whatsapp.com.cn
 0.0.0.0 lynovex-haven.pages.dev
 0.0.0.0 lynovex-vault.pages.dev
 0.0.0.0 lyra-value.pages.dev
@@ -52185,6 +52189,7 @@
 0.0.0.0 net-coins-logi.pages.dev
 0.0.0.0 net-coins-pro-web.pages.dev
 0.0.0.0 net-coins-pro.pages.dev
+0.0.0.0 net-empresas-acesso.click
 0.0.0.0 net-fix-web.pages.dev
 0.0.0.0 net-google.com
 0.0.0.0 net-help-trezr.pages.dev
@@ -54548,6 +54553,7 @@
 0.0.0.0 optharvex-krenthivor.pages.dev
 0.0.0.0 option--xoinbse-walt-extn.pages.dev
 0.0.0.0 optrivon-qentrixa.pages.dev
+0.0.0.0 opulatrix-italy.top
 0.0.0.0 opz-whats-app.com.cn
 0.0.0.0 oqf-whats-app.com.cn
 0.0.0.0 oqw-whatsapp.com.cn
@@ -58802,6 +58808,7 @@
 0.0.0.0 renalyn-tayros.workers.dev
 0.0.0.0 rendivanto.digital
 0.0.0.0 rendivanto.net
+0.0.0.0 rendivanto.top
 0.0.0.0 renesok574.pages.dev
 0.0.0.0 rental789-akses-online-mudah.pages.dev
 0.0.0.0 repair-tool-eigenlayer.pages.dev
@@ -69800,7 +69807,6 @@
 0.0.0.0 teiegromnn.net
 0.0.0.0 teieparm.cc
 0.0.0.0 teieparm.co
-0.0.0.0 teieparmnn.co
 0.0.0.0 teieparomn.co
 0.0.0.0 teieparonm.co
 0.0.0.0 teieparornm.co
@@ -69935,6 +69941,7 @@
 0.0.0.0 tejevividgri.work
 0.0.0.0 tejevkwuzd.yachts
 0.0.0.0 tejevortexcl.work
+0.0.0.0 tejexenonweb.wiki
 0.0.0.0 tejor-io-strt.pages.dev
 0.0.0.0 teko-lunir-mesu.pages.dev
 0.0.0.0 telagrams.org
@@ -76979,7 +76986,6 @@
 0.0.0.0 trustwalletai.pages.dev
 0.0.0.0 trustwalletairdrop.com
 0.0.0.0 trustwalletapp.pages.dev
-0.0.0.0 trustwalletapp.ru
 0.0.0.0 trustwalletapps.pages.dev
 0.0.0.0 trustwalletcards.app
 0.0.0.0 trustwalletcheck.pages.dev
@@ -78345,7 +78351,6 @@
 0.0.0.0 unicredit.360accesscontrol.com
 0.0.0.0 unicredit.atlas.app
 0.0.0.0 unicredit.hilio.com
-0.0.0.0 unicreditgroup-investmentsaustria.com
 0.0.0.0 union-bank-ofindia.org
 0.0.0.0 union-core-bank.capital
 0.0.0.0 unionbank-manila-metro-ave.ph
@@ -80243,7 +80248,6 @@
 0.0.0.0 usefelix-rpc.pages.dev
 0.0.0.0 usefelix-rpcdebug.pages.dev
 0.0.0.0 usefelix-rpcsync.pages.dev
-0.0.0.0 usehavaianasbr.app
 0.0.0.0 usen-treizor-io.pages.dev
 0.0.0.0 useng-trezzers-io-strted.pages.dev
 0.0.0.0 user-coin-base-login.pages.dev
@@ -80867,7 +80871,6 @@
 0.0.0.0 vinted-at-690523.shop
 0.0.0.0 vinted-confirmation-au.pages.dev
 0.0.0.0 vinted-it-verify.com
-0.0.0.0 vinted-order-9824163.com
 0.0.0.0 vinted-seguranca.ph
 0.0.0.0 vinted-terms.info
 0.0.0.0 vinted-us-verif4991.pages.dev
@@ -83817,8 +83820,6 @@
 0.0.0.0 wexra4-1qorin.pages.dev
 0.0.0.0 wexra4-1vexil.pages.dev
 0.0.0.0 wf79ix2h-teiegarm.pages.dev
-0.0.0.0 wh-atsappvip6.com
-0.0.0.0 wh-atsappvip8.com
 0.0.0.0 wh-whats-app.com.cn
 0.0.0.0 wh4tsapp-9on.pages.dev
 0.0.0.0 wh4tsapp-an5.pages.dev
@@ -85451,7 +85452,6 @@
 0.0.0.0 xrp-flaregovernance.xyz
 0.0.0.0 xrp-uphold-login.pages.dev
 0.0.0.0 xrpl-distribution.xyz
-0.0.0.0 xrpldrop.app
 0.0.0.0 xs-whatssapp.com.cn
 0.0.0.0 xsupp0rt.workers.dev
 0.0.0.0 xtension-coinbase--web.pages.dev
@@ -85666,6 +85666,7 @@
 0.0.0.0 yukon-gold-nz.org
 0.0.0.0 yukongold-ca.org
 0.0.0.0 yukongold-play.ca
+0.0.0.0 yukongoldbet-nz.com
 0.0.0.0 yukongoldontario.ca
 0.0.0.0 yuno-whatapt.hl.cn
 0.0.0.0 yup-start--tezor-io.pages.dev
@@ -85933,7 +85934,6 @@
 0.0.0.0 zr-whatssapp.com.cn
 0.0.0.0 ztgjmq2t.pages.dev
 0.0.0.0 ztut0wsn-web-telegram-org.pages.dev
-0.0.0.0 ztv-w-hatsapp.hl.cn
 0.0.0.0 zulaxivora.cfd
 0.0.0.0 zunavelqorixymetaspud.com
 0.0.0.0 zunvexa-mpt-balqori-c5r8fe63.pages.dev

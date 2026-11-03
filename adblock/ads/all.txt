@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Ads
-! Domains: 619 | Updated: 2026-11-03
+! Domains: 611 | Updated: 2026-11-03
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/ads/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -32,7 +32,6 @@
 |adlywise-prebid.attekmi.co^
 |adm.vidyome.com^
 |adn-srv.reckoner-api.com^
-|adn.pilotx.tv^
 |adnex-prebid.attekmi.co^
 ||adplugg.io^
 |adport.pbsadverxo.com^
@@ -142,7 +141,6 @@
 ||bannerassets.subserohost.com^
 ||banners.livepartners.com^
 ||bannerspace.net^
-|bapi.userreport.com^
 |be-agent.teqblaze.io^
 ||bedrockplatform.bid^
 |betbqj.donlgx.net^
@@ -343,7 +341,6 @@
 |jambojar-prebid.attekmi.co^
 |jdpmedia-prebid.attekmi.co^
 |jp.a.viddea.com^
-||js.mchncdn.com^
 ||js.outcomesx.net^
 |js.ssp.cadent.com^
 ||js2.mchncdn.com^
@@ -351,7 +348,6 @@
 ||kaminoretail.io^
 ||kbnt.com^
 ||kntxy.com^
-|kssp.kbntx.ch^
 ||kubico-adhosting.com^
 ||kubico-advertisement.com^
 ||lacunads.ushareit.com^
@@ -420,7 +416,6 @@
 |pbjs.xe.works^
 |pbs-js.prebid-ownadx.com^
 |pbs.bidelerate.com^
-|pbs.dailyhunt.in^
 |pbs.elementaltv.io^
 |pbs.kiviads.live^
 |pbs.mobkoi.com^
@@ -431,7 +426,6 @@
 ||pfsrvs.com^
 ||ping.channel99.io^
 |pitk.unioneeu.com^
-|player-cdn.beachfrontmedia.com^
 |player.adswag.ai^
 ||playerserve.com^
 ||plrsrvcs.com^
@@ -520,8 +514,6 @@
 ||srvagm.de^
 ||srvrtag.com^
 |ssp-cookie.logan.ai^
-|ssp.adrelevantis.com^
-|ssp.astraone.io^
 |ssp.dauup.com^
 |ssp.disqus.com^
 ||ssp.smoot.ai^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 397,439 | Updated: 2026-11-03
+# Domains: 397,457 | Updated: 2026-11-03
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -20366,7 +20366,6 @@
 *.admiral-x-casino-win1.com
 *.admiral-x-casino.games
 *.admiral-x-casino.net
-*.admiral-x-casino.ru
 *.admiral-x-casino.top
 *.admiral-x-cazino.ru
 *.admiral-xcasino.com
@@ -67231,6 +67230,7 @@
 *.bovada-casinoca.com
 *.bovada-casinouk.com
 *.bovada-uscasino-com-3dcb7fcf.pages.dev
+*.bovadacasino-vip.cfd
 *.bovadacasino.co
 *.bovadacasino.co.za
 *.bovadacasino.cz
@@ -72599,6 +72599,7 @@
 *.caseacasino.co.de
 *.caseacasino.co.it
 *.caseacasino.com
+*.caseacasino.cz
 *.caseacasino.eu.com
 *.caseacasino.fi
 *.caseacasino.it
@@ -85424,6 +85425,7 @@
 *.casino100ph.com
 *.casino100rub.ru
 *.casino101.xyz
+*.casino1010r.top
 *.casino1034.buzz
 *.casino108-prospera.pages.dev
 *.casino10bet-mx.pages.dev
@@ -85788,6 +85790,7 @@
 *.casino25-t.com
 *.casino25.dk
 *.casino2508g.team
+*.casino259.team
 *.casino2591.team
 *.casino2592.team
 *.casino2594.top
@@ -86219,6 +86222,7 @@
 *.casino727.com
 *.casino72at.buzz
 *.casino72bet.com
+*.casino73.lol
 *.casino732.team
 *.casino7405n.top
 *.casino745.buzz
@@ -86452,6 +86456,7 @@
 *.casino80y.lol
 *.casino8104a.top
 *.casino8178p.team
+*.casino82.fun
 *.casino8216y.sbs
 *.casino82s.top
 *.casino83a.com
@@ -86606,6 +86611,7 @@
 *.casino95207.buzz
 *.casino96.org
 *.casino9663i.team
+*.casino969.team
 *.casino96a.com
 *.casino9758.lol
 *.casino979bet.com
@@ -90702,6 +90708,7 @@
 *.casinoclubde.net
 *.casinoclubfrance.com
 *.casinoclubgame.com
+*.casinoclubgame.live
 *.casinoclubgames.nl
 *.casinoclubgaming.com
 *.casinoclubhouse.ca
@@ -92403,6 +92410,7 @@
 *.casinofast-promosyon.top
 *.casinofast.bet
 *.casinofast.ink
+*.casinofast3307.com
 *.casinofastbetwin.edu.pl
 *.casinofastbetwin.net
 *.casinofastest.com
@@ -92417,6 +92425,7 @@
 *.casinofastpay.fi
 *.casinofastpay.net
 *.casinofastpayout.com
+*.casinofastsite.com
 *.casinofastslots-de-46b54d.pages.dev
 *.casinofastslots.ca
 *.casinofastslots.com.de
@@ -92426,6 +92435,7 @@
 *.casinofastslots.nl
 *.casinofastslots.org
 *.casinofastslots.se
+*.casinofastt-girisi.icu
 *.casinofasttgiris.com
 *.casinofasttt.com
 *.casinofastwithdrawal.net
@@ -92582,6 +92592,7 @@
 *.casinofinderfrance.com
 *.casinofinders.se
 *.casinofinders.uk
+*.casinofindguide.com
 *.casinofindings.com
 *.casinofinds.com
 *.casinofinito.com
@@ -102167,6 +102178,7 @@
 *.casinoo-plus-ph.com
 *.casinoo-rakoo-nl.pages.dev
 *.casinoo-rakoo.nl
+*.casinoo.store
 *.casinoo24.net
 *.casinoo3of.buzz
 *.casinoo7-com.pages.dev
@@ -103894,6 +103906,7 @@
 *.casinoplayuzu.com
 *.casinoplayuzu.com.mx
 *.casinoplayuzu.org
+*.casinoplaywins.ru
 *.casinoplayzee.com
 *.casinoplayzilla.ch
 *.casinoplayzilla.org
@@ -104398,6 +104411,7 @@
 *.casinoproject.at
 *.casinoproject.lat
 *.casinoprolane.us
+*.casinoprom.online
 *.casinopromag.co.uk
 *.casinopromblacklist.com
 *.casinopromgir.com
@@ -105750,6 +105764,7 @@
 *.casinoroyalemusic.com
 *.casinoroyalen-com-75508c.pages.dev
 *.casinoroyalen.com
+*.casinoroyaleonline02.com
 *.casinoroyalepoker.org
 *.casinoroyalezone.com
 *.casinoroyalflush.online
@@ -105797,6 +105812,7 @@
 *.casinoroyalvegas.net
 *.casinoroyalvegas.org
 *.casinoroyalvip.com
+*.casinoroyalvip.vip
 *.casinoroyalx.net
 *.casinoroyalyak.com
 *.casinoroyatfr-com.pages.dev
@@ -106353,6 +106369,7 @@
 *.casinos-online-argentina.eu.com
 *.casinos-online-au.org
 *.casinos-online-auszahlung-ohne-verifizierung-online.pages.dev
+*.casinos-online-auszahlung-ohne-verifizierung.online
 *.casinos-online-bolivia-lat.pages.dev
 *.casinos-online-buitenlandse.net
 *.casinos-online-canada.com
@@ -112402,6 +112419,7 @@
 *.casinovipmember.com
 *.casinovipmembers.com
 *.casinovipohneverifizierung.de
+*.casinovippark.us
 *.casinovippeak.us
 *.casinovippg.com
 *.casinovipplay.com
@@ -120560,12 +120578,14 @@
 *.chumbacasinok.com
 *.chumbacasinologin.ng
 *.chumbacasinomx.com
+*.chumbacasinoo.com
 *.chumbacasinoofficial.ca
 *.chumbacasinoonline-org.pages.dev
 *.chumbacasinorealmoney.com
 *.chumbacasinoslots.com
 *.chumbacasinox.com
 *.chumbacasinox.org
+*.chumbaccasino.com
 *.chumnacasino.net
 *.chungcutopaztwins-slot-gacor.pages.dev
 *.chungphatcasinobet.com
@@ -134397,7 +134417,6 @@
 *.discowincasino-online.com
 *.discowincasino-uk-34260.pages.dev
 *.discowincasino.bet
-*.discowincasino.co.uk
 *.discowincasino.com
 *.discowincasino.uk.com
 *.discowincasinos.com
@@ -271093,7 +271112,6 @@
 *.phjlpgcasino.ph
 *.phjlslot.com
 *.phjoin-casino.com
-*.phjoincasinologin.com
 *.phjoy-vip.com
 *.phjoy22vip.com
 *.phjoy231.com
@@ -286842,6 +286860,7 @@
 *.promobonusjudionline.com
 *.promocasino.it.com
 *.promocasino.top
+*.promocasinohub.com
 *.promocasinox.icu
 *.promociones-apigacor88kembali-munculinlagi.pages.dev
 *.promociones-de-casinos-online.com
@@ -374730,7 +374749,6 @@
 *.vnbetslot.com
 *.vnbetvietnam.com
 *.vnbetvipcasino.com
-*.vnbk8bet.com
 *.vncasino.de
 *.vncasino.io
 *.vncasinobet.com

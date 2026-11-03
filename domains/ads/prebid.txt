@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, ad exchange endpoints from Prebid.js / Prebid Server adapters
-# Domains: 274 | Updated: 2026-11-03
+# Domains: 267 | Updated: 2026-11-03
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/ads/prebid.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,7 +17,6 @@ adinify-prebid.attekmi.co
 adlywise-prebid.attekmi.co
 adm.vidyome.com
 adn-srv.reckoner-api.com
-adn.pilotx.tv
 adnex-prebid.attekmi.co
 adport.pbsadverxo.com
 ads-flipp.com
@@ -59,7 +58,6 @@ auction.bidespresso.com
 backend.pubrise.ai
 balancer.lmgssp.com
 balancer.mediayo.ai
-bapi.userreport.com
 be-agent.teqblaze.io
 bid.adswag.ai
 bid.asterio.ai
@@ -136,7 +134,6 @@ jambojar-prebid.attekmi.co
 jdpmedia-prebid.attekmi.co
 jp.a.viddea.com
 js.ssp.cadent.com
-kssp.kbntx.ch
 lb-east.intenze.co
 lb.kiviads.com
 lib-cdn.8pod.com
@@ -163,14 +160,12 @@ pbjs.revealonmedia.live
 pbjs.xe.works
 pbs-js.prebid-ownadx.com
 pbs.bidelerate.com
-pbs.dailyhunt.in
 pbs.elementaltv.io
 pbs.kiviads.live
 pbs.mobkoi.com
 pbs.prebid-ownadx.com
 pbs.prebrid.tv
 pbsadverxo.com
-player-cdn.beachfrontmedia.com
 player.adswag.ai
 prebid-apac.attekmi.co
 prebid-eu.attekmi.co
@@ -222,8 +217,6 @@ s2s.sportslocalmedia.com
 service.gnetrtb.com
 srv.adklip.net
 ssp-cookie.logan.ai
-ssp.adrelevantis.com
-ssp.astraone.io
 ssp.dauup.com
 ssp.disqus.com
 stackup-prebid.attekmi.co

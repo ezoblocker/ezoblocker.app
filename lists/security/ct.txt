@@ -4557,6 +4557,7 @@ attyahoonewworker-white-art-e0ce.danelle268.workers.dev
 *.atualizacaobradesco.pages.dev
 *.atualizacaonetempresa.com
 *.atualizacaonetempresas.com
+*.atualizacaopj-netempresas.com
 *.atualizarcadastrobradesco.digital
 *.au-acccountea-center-helps-meta.pages.dev
 *.au-acccountex-center-helps-meta.pages.dev
@@ -4565,7 +4566,6 @@ attyahoonewworker-white-art-e0ce.danelle268.workers.dev
 *.au-acccountut-center-help-metabusiness.pages.dev
 *.au-coinspot-io.pages.dev
 *.au-ens-meta-support-center-acccounts.pages.dev
-*.au-post.com
 *.au-refund-gov.pages.dev
 *.au-trezoor-io-start.pages.dev
 *.auctioncryptauthio.pages.dev
@@ -4573,6 +4573,12 @@ attyahoonewworker-white-art-e0ce.danelle268.workers.dev
 *.aufficial-ledgerlive.pages.dev
 *.auh-coinbase-com-sign.pages.dev
 *.aukro-verification.sbs
+aupost.com-track-1p3n.ink
+aupost.com-track-2m7d.ink
+aupost.com-track-3t5z.ink
+aupost.com-track-5p3z.ink
+aupost.com-track-8o7a.ink
+aupost.com-track-9t3a.ink
 *.auraliq-bytez.life
 *.auraliq-cloudx.life
 *.auraliq-drive.click
@@ -6882,7 +6888,6 @@ binance.wallet-account.com.eds1.com
 *.binancecoin.pages.dev
 *.binancecointrackerapp.pages.dev
 binancecom.huangyuzhang.workers.dev
-*.binancedba.com
 *.binancedogcto.pages.dev
 *.binancedogxyz.pages.dev
 *.binancee.pages.dev
@@ -7518,7 +7523,6 @@ bolivia-bcp.promasterde.workers.dev
 *.booking-confirmation5400912.com
 *.booking-confirmation596647app.com
 *.booking-confirmation796648app.com
-*.booking-confirmation878426app.com
 *.booking-confirmation89347app.com
 *.booking-confirmation89447app.com
 *.booking-confirmation896447app.com
@@ -8663,7 +8667,6 @@ brendovieirademoura1792496002578.1570165.meusitehostgator.com.br
 *.bt-brokerslimited.org
 *.bt-whatssapp.com.cn
 *.btc-theorian-q365.com
-*.btcaurallonv15.org
 *.btcnexivolt760.pro
 *.btconbase-ai.pages.dev
 *.btconbase-en.pages.dev
@@ -8904,7 +8907,6 @@ brendovieirademoura1792496002578.1570165.meusitehostgator.com.br
 *.buy-ig-fol-paypal.pages.dev
 *.buy-verified-bybit-account.pages.dev
 *.buy-verified-bybit-accounts.pages.dev
-*.buyback-blockdagmainnet-allocation.live
 *.buyrobloxacc.pages.dev
 *.buyverifiedcashappaccount.com
 *.buyybitlogiinn.pages.dev
@@ -9486,7 +9488,6 @@ cesarpaulotopazio1790861507076.0920307.meusitehostgator.com.br
 *.cfi-whats-app.com.cn
 *.cgd-canadiantire-movistar.ph
 *.cgnhdfhdfhsfh.pages.dev
-*.ch-login-whatapp.hl.cn
 *.ch-twint-ch.cfd
 *.ch-twint-konto.cfd
 *.ch-twint-service.cam
@@ -14135,6 +14136,7 @@ demo-us-paypal.biomelife.com
 *.depop-veriff.world
 *.depop-verification-help727472.help
 *.depop-verificationpage891581.click
+*.depop-verify-order.info
 *.depop-verify-part.com
 *.depop-verify.shop
 *.depop-verify.space
@@ -16840,6 +16842,7 @@ dsdgsdgsdfgdfgfdvcb.oijdsfodnlkxvxcuivhxdfiukfhndx.workers.dev
 *.echallan-psx.cc
 echallan.dekkoisho.com
 echallan.parivahan.ink
+*.echallangermode.com
 *.echallangrmode.com
 *.echallank-idm.cc
 *.echallanrt.cc
@@ -25635,6 +25638,7 @@ gouv-antai-confirmation-amendes.infonightinformatica.com.br
 *.grailedprocess.com
 *.grandpashabetgirisleri.net
 *.grannyrobloxhackspeed.pages.dev
+*.granvex-holdings.com
 *.gratefulrobloxid.pages.dev
 *.gravo-lenct-biz-nokta-derin-sp8ct12.pages.dev
 *.great-trezor-suite.pages.dev
@@ -26549,7 +26553,6 @@ halo-wallet.hellopay.cc
 *.hashkeyexx.cc
 *.hashpackwallet-en.pages.dev
 *.hashpackwallet-es.pages.dev
-*.hasil-gov-my.shop
 *.haspack-wallt.pages.dev
 *.haven-google-signin-test-20261010.pages.dev
 *.havrin-jelrax-biz-zeltor-finmor-sp7ct12.pages.dev
@@ -30612,7 +30615,6 @@ hotmail.utlook.com
 *.hp-whatssapp.com.cn
 *.hpl-hyperlend.app
 *.hpme-kraken-en-pro.pages.dev
-*.hpq-whatsapp.com.cn
 *.hpx-whats-app.com.cn
 *.hr-migros.pages.dev
 hr-sso.appstore-id582882001.sbs
@@ -31314,7 +31316,6 @@ icloud-authenticator.wuselino.org
 *.icloud-ug.co
 *.icloud-verification.online
 *.icloud91278l.pages.dev
-*.icloudfind-connect.us
 *.icloudfind-sign.support
 *.icloudfind.us
 *.icloudfinddevice.com
@@ -31936,6 +31937,7 @@ importamae.freedo.shop
 *.ingbankunlocked.ph
 *.ingbankverified.ph
 *.ingdirect-consultas-soporte.com
+*.ingdirect-portal-inicio.com
 *.inicio-traderepublic.com
 *.iniciodesesionroblox.pages.dev
 *.init-hub-trezr.pages.dev
@@ -32174,6 +32176,7 @@ instagram.mayank-mm.me
 *.instagramline.pages.dev
 *.instagramlogin-68z.pages.dev
 *.instagramlooker.pages.dev
+*.instagramrecoverypasswordj5n13kjln5k134bni1hkb321kn2ijnw.com
 *.instagramreward.ph
 *.instagramsetting-businesssuport.pages.dev
 *.instagramsupport.email
@@ -34609,6 +34612,7 @@ iphone17.iphone-fix.abrdns.com
 *.isupport-apple.info
 *.isupport-help.info
 *.it-notify-17b8-e46drp.pages.dev
+*.it-paypal.vip
 *.it-rstcapital-log.pages.dev
 *.it-tezor-doc.pages.dev
 *.it-trazor-suite.pages.dev
@@ -34971,7 +34975,6 @@ iverify.paypalproblems.com.blackforestorganic.com
 *.j-wh-atsapp.com.cn
 *.j-wha-tsapp.com.cn
 *.j-what-sapp.com.cn
-*.j-whats-app.com.cn
 *.j-whats-app.hl.cn
 *.j-whats-app.sh.cn
 *.j-whatsa-pp.com.cn
@@ -35270,6 +35273,7 @@ jt-express-brazil.asmontech.online
 *.jtexpress-ch.top
 *.jtexpress-cj.top
 *.jtexpress-cl.top
+*.jtexpress-cv.top
 *.jtexpress-cx.top
 *.jtexpress-cz.top
 *.jtexpress-da.top
@@ -35301,6 +35305,8 @@ jt-express-brazil.asmontech.online
 *.jtexpress-iak.top
 *.jtexpress-iam.top
 *.jtexpress-iat.top
+*.jtexpress-iax.top
+*.jtexpress-iaz.top
 *.jtexpress-ida.top
 *.jtexpress-idb.top
 *.jtexpress-idc.top
@@ -35386,6 +35392,7 @@ jt-express-brazil.asmontech.online
 *.jtexpress-snb.top
 *.jtexpress-snc.top
 *.jtexpress-snk.top
+*.jtexpress-snm.top
 *.jtexpress-snv.top
 *.jtexpress-snx.top
 *.jtexpress-snz.top
@@ -35393,6 +35400,7 @@ jt-express-brazil.asmontech.online
 *.jtexpress-tc.top
 *.jtexpress-tj.top
 *.jtexpress-tk.top
+*.jtexpress-tke.top
 *.jtexpress-tky.top
 *.jtexpress-tl.top
 *.jtexpress-tm.top
@@ -35424,19 +35432,21 @@ jt-express-brazil.asmontech.online
 *.jtexpress-ya.top
 *.jtexpress-yd.top
 *.jtexpress-ye.top
+*.jtexpress-yf.top
 *.jtexpress-yg.top
 *.jtexpress-yh.top
 *.jtexpress-yj.cc
 *.jtexpress-yke.top
+*.jtexpress-ykq.top
 *.jtexpress-ykr.top
 *.jtexpress-ykt.top
 *.jtexpress-yq.top
 *.jtexpress-ys.top
+*.jtexpress-yw.top
 *.jtexpress-yx.cc
 *.jtexpress-yz.cc
 *.jtst-4-aliexpress-c1z.pages.dev
 *.jtu-whatsapp.com.cn
-*.jtv-w-hatsapp.hl.cn
 *.jual-paypal.pages.dev
 *.judy500walmart1219oneclick.pages.dev
 *.judyrobloxwalkthrough.pages.dev
@@ -35607,7 +35617,6 @@ kauanythaynarasantos1790967499288.0540299.meusitehostgator.com.br
 *.kcoin-login.pages.dev
 *.kcoinlogin.pages.dev
 *.kdhrhdhdhdhjdjdhdbdbhd.pages.dev
-*.kdv-w-hatsapp.hl.cn
 *.ke-ledger-com-start.pages.dev
 *.keamanan-akun-di-getir11-yang-membuat-pemain-lebih-tenang.pages.dev
 *.keep-ledgr-download.pages.dev
@@ -47278,7 +47287,6 @@ login.smsexpress.online
 *.loginofficemicrosoft.pages.dev
 *.loginonlinemicrosofte.pages.dev
 *.loginoutlookonedrivesettingsharepilntcoipilotpaapllication.pages.dev
-*.loginrevolutsigninacess.com
 *.loginroblox.pages.dev
 *.logins-cuenta-google.pages.dev
 *.logins-ecure-conbase-prouds.pages.dev
@@ -47286,7 +47294,6 @@ login.smsexpress.online
 *.logins-ledgers-liven-en-us.pages.dev
 *.logins-netcoins.pages.dev
 *.logins-robin-hood.pages.dev
-*.logins-whatapp.hl.cn
 logins.id-confirmations-ourtime.workers.dev
 *.loginsdaviviendacol.pages.dev
 *.logintr-e-zor.pages.dev
@@ -47727,7 +47734,6 @@ logon.emiratespost-eventbrite.ph
 *.lokalna-ofeta02292.shop
 *.lokalna-ofeta029.biz
 *.lokalna-ofeta0292.shop
-*.lokalna-ofeta0293403.cfd
 *.lokalna-ofeta091.sbs
 *.lokalna-ofeta101xz0y2j071.icu
 *.lokalna-ofeta1021xz5y2j078.icu
@@ -47744,7 +47750,6 @@ logon.emiratespost-eventbrite.ph
 *.lokalna-ofeta1554243.shop
 *.lokalna-ofeta190.sbs
 *.lokalna-ofeta197891.sbs
-*.lokalna-ofeta198767.ink
 *.lokalna-ofeta213.sbs
 *.lokalna-ofeta2221.sbs
 *.lokalna-ofeta2398.shop
@@ -47758,6 +47763,7 @@ logon.emiratespost-eventbrite.ph
 *.lokalna-ofeta34546344.shop
 *.lokalna-ofeta3812.sbs
 *.lokalna-ofeta4.shop
+*.lokalna-ofeta44829063.shop
 *.lokalna-ofeta458974.sbs
 *.lokalna-ofeta47677.sbs
 *.lokalna-ofeta48.sbs
@@ -47771,7 +47777,6 @@ logon.emiratespost-eventbrite.ph
 *.lokalna-ofeta664.sbs
 *.lokalna-ofeta66814.shop
 *.lokalna-ofeta671.sbs
-*.lokalna-ofeta671344.shop
 *.lokalna-ofeta77173.shop
 *.lokalna-ofeta79182.shop
 *.lokalna-ofeta86741.sbs
@@ -47889,7 +47894,6 @@ luisgonzaloruizbetan1777986890810.0101163.meusitehostgator.com.br
 *.lw-wsx-whatsapp.com.cn
 *.lwedger-live-login.pages.dev
 *.lww-danaa-ambil10-20jt-grtistunguapalagi.pages.dev
-*.ly-tgb-whatsapp.com.cn
 *.lynovex-haven.pages.dev
 *.lynovex-vault.pages.dev
 *.lyra-value.pages.dev
@@ -52183,6 +52187,7 @@ narodnyii-oschad-bank.online-vuplata.workers.dev
 *.net-coins-logi.pages.dev
 *.net-coins-pro-web.pages.dev
 *.net-coins-pro.pages.dev
+*.net-empresas-acesso.click
 *.net-fix-web.pages.dev
 *.net-google.com
 *.net-help-trezr.pages.dev
@@ -54546,6 +54551,7 @@ opensea.io.verification.comercialbuza.cl
 *.optharvex-krenthivor.pages.dev
 *.option--xoinbse-walt-extn.pages.dev
 *.optrivon-qentrixa.pages.dev
+*.opulatrix-italy.top
 *.opz-whats-app.com.cn
 *.oqf-whats-app.com.cn
 *.oqw-whatsapp.com.cn
@@ -58800,6 +58806,7 @@ remote-us-paypal.springfieldhospital.org
 *.renalyn-tayros.workers.dev
 *.rendivanto.digital
 *.rendivanto.net
+*.rendivanto.top
 *.renesok574.pages.dev
 *.rental789-akses-online-mudah.pages.dev
 *.repair-tool-eigenlayer.pages.dev
@@ -69798,7 +69805,6 @@ teegram-account.teegram.in
 *.teiegromnn.net
 *.teieparm.cc
 *.teieparm.co
-*.teieparmnn.co
 *.teieparomn.co
 *.teieparonm.co
 *.teieparornm.co
@@ -69933,6 +69939,7 @@ teegram-account.teegram.in
 *.tejevividgri.work
 *.tejevkwuzd.yachts
 *.tejevortexcl.work
+*.tejexenonweb.wiki
 *.tejor-io-strt.pages.dev
 *.teko-lunir-mesu.pages.dev
 *.telagrams.org
@@ -76977,7 +76984,6 @@ tru1-oginc1ientoniiline.api-avvs-oniline.workers.dev
 *.trustwalletai.pages.dev
 *.trustwalletairdrop.com
 *.trustwalletapp.pages.dev
-*.trustwalletapp.ru
 *.trustwalletapps.pages.dev
 *.trustwalletcards.app
 *.trustwalletcheck.pages.dev
@@ -78343,7 +78349,6 @@ twitter-copyright-center.fanduelsportsnerwork.com
 unicredit.360accesscontrol.com
 unicredit.atlas.app
 unicredit.hilio.com
-*.unicreditgroup-investmentsaustria.com
 *.union-bank-ofindia.org
 *.union-core-bank.capital
 *.unionbank-manila-metro-ave.ph
@@ -80241,7 +80246,6 @@ usbank.docusig.workers.dev
 *.usefelix-rpc.pages.dev
 *.usefelix-rpcdebug.pages.dev
 *.usefelix-rpcsync.pages.dev
-*.usehavaianasbr.app
 *.usen-treizor-io.pages.dev
 *.useng-trezzers-io-strted.pages.dev
 *.user-coin-base-login.pages.dev
@@ -80865,7 +80869,6 @@ viniciusjoseulyssear1792113481760.1550025.meusitehostgator.com.br
 *.vinted-at-690523.shop
 *.vinted-confirmation-au.pages.dev
 *.vinted-it-verify.com
-*.vinted-order-9824163.com
 *.vinted-seguranca.ph
 *.vinted-terms.info
 *.vinted-us-verif4991.pages.dev
@@ -83815,8 +83818,6 @@ west-us-paypal.joyasdegoya.club
 *.wexra4-1qorin.pages.dev
 *.wexra4-1vexil.pages.dev
 *.wf79ix2h-teiegarm.pages.dev
-*.wh-atsappvip6.com
-*.wh-atsappvip8.com
 *.wh-whats-app.com.cn
 *.wh4tsapp-9on.pages.dev
 *.wh4tsapp-an5.pages.dev
@@ -85449,7 +85450,6 @@ x-us-paypal.carbonaxiom.com
 *.xrp-flaregovernance.xyz
 *.xrp-uphold-login.pages.dev
 *.xrpl-distribution.xyz
-*.xrpldrop.app
 *.xs-whatssapp.com.cn
 *.xsupp0rt.workers.dev
 *.xtension-coinbase--web.pages.dev
@@ -85664,6 +85664,7 @@ youtubepremium.fuxionportv.xyz
 *.yukon-gold-nz.org
 *.yukongold-ca.org
 *.yukongold-play.ca
+*.yukongoldbet-nz.com
 *.yukongoldontario.ca
 *.yuno-whatapt.hl.cn
 *.yup-start--tezor-io.pages.dev
@@ -85931,7 +85932,6 @@ zoommeetingupdate.nitlworld.com
 *.zr-whatssapp.com.cn
 *.ztgjmq2t.pages.dev
 *.ztut0wsn-web-telegram-org.pages.dev
-*.ztv-w-hatsapp.hl.cn
 *.zulaxivora.cfd
 *.zunavelqorixymetaspud.com
 *.zunvexa-mpt-balqori-c5r8fe63.pages.dev
