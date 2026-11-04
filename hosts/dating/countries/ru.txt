@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Russia (ru)
-# Domains: 88 | Updated: 2026-11-04
+# Domains: 90 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/ru.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -47,6 +47,7 @@
 0.0.0.0 intimdating.ru
 0.0.0.0 kazan.artmetall26.ru
 0.0.0.0 kazan1.5intim.com
+0.0.0.0 kazans-dosug.ru
 0.0.0.0 kiev.ukrgo.com
 0.0.0.0 krasnodarindividualki.com
 0.0.0.0 kry.pack-yo-bag.ru
@@ -88,6 +89,7 @@
 0.0.0.0 tolyatti.sexysluts24.com
 0.0.0.0 tyumen.sexysluts24.com
 0.0.0.0 ufa.art-septik.ru
+0.0.0.0 viajes.bikespain.com
 0.0.0.0 videochatru.com
 0.0.0.0 volgograd-individualki-xes.click
 0.0.0.0 xxx-prostitutki.com

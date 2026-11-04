@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,324 | Updated: 2026-11-04
+# Domains: 1,334 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -223,6 +223,7 @@
 0.0.0.0 czerningasse29.at
 0.0.0.0 daddylittlesecret.com
 0.0.0.0 dallasnovelty.com
+0.0.0.0 damaxbdsm.com
 0.0.0.0 dame.com
 0.0.0.0 danichou.de
 0.0.0.0 danishblue.com.au
@@ -407,6 +408,7 @@
 0.0.0.0 gecekutusu.com
 0.0.0.0 geilstore.com
 0.0.0.0 gemaonlinestore.com
+0.0.0.0 giggles.com
 0.0.0.0 gigo.com.co
 0.0.0.0 ginza-soleil.com
 0.0.0.0 ginza-soleil.jp
@@ -455,6 +457,7 @@
 0.0.0.0 intim-market.ru
 0.0.0.0 intimate.pk
 0.0.0.0 intimatefashions.pk
+0.0.0.0 intimax.ro
 0.0.0.0 intimelovestore.com.ar
 0.0.0.0 intimestetik.ru
 0.0.0.0 intimexa.com
@@ -962,6 +965,7 @@
 0.0.0.0 sex-shop-g.com.ua
 0.0.0.0 sex-toys.bg
 0.0.0.0 sex-versand.com
+0.0.0.0 sexboom.ro
 0.0.0.0 sexbutiker.se
 0.0.0.0 sexcenter.tienda
 0.0.0.0 sexcordobashop.com.ar
@@ -1050,6 +1054,7 @@
 0.0.0.0 sextoy4u2.com
 0.0.0.0 sextoyeu.com
 0.0.0.0 sextoyin.com
+0.0.0.0 sextoyinhyderabad.com
 0.0.0.0 sextoypk.com
 0.0.0.0 sextoys-india.shop
 0.0.0.0 sextoys.cloudns.be
@@ -1058,6 +1063,7 @@
 0.0.0.0 sextoys.ie
 0.0.0.0 sextoyscenter.net
 0.0.0.0 sextoysegy.com
+0.0.0.0 sextoyserotica.com.au
 0.0.0.0 sextoysex.ca
 0.0.0.0 sextoysindubai.com
 0.0.0.0 sextoysuae.com
@@ -1192,6 +1198,7 @@
 0.0.0.0 thehotspot.com.au
 0.0.0.0 theintimatestore.com
 0.0.0.0 theirishstore.com
+0.0.0.0 thekidsfunfactory.ca
 0.0.0.0 thekinkshop.com
 0.0.0.0 thekinksters.co.uk
 0.0.0.0 thelovestore.com
@@ -1221,9 +1228,11 @@
 0.0.0.0 touchyourbody.com
 0.0.0.0 toy-versand.com
 0.0.0.0 toy31.ru
+0.0.0.0 toy4joy.ro
 0.0.0.0 toykingdom.com.ph
 0.0.0.0 toypakistan.pk
 0.0.0.0 toys-hub.nl
+0.0.0.0 toysatfoys.com
 0.0.0.0 toysecret.it
 0.0.0.0 toyshub.pk
 0.0.0.0 toysinpakistan.pk
@@ -1259,6 +1268,7 @@
 0.0.0.0 v-unique.co.za
 0.0.0.0 valdodubra.com
 0.0.0.0 valledelplacer.cl
+0.0.0.0 varietypleasure.com.au
 0.0.0.0 vartamayoreo.mx
 0.0.0.0 vavoomshop.co.kr
 0.0.0.0 velviawellness.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Japan (jp)
-# Domains: 30 | Updated: 2026-11-04
+# Domains: 33 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -15,6 +15,7 @@
 0.0.0.0 dovik.ferit.hr
 0.0.0.0 entertainment.iid.co.jp
 0.0.0.0 footybite.forum
+0.0.0.0 gogoanime.com.bz
 0.0.0.0 gogoanimes.co.im
 0.0.0.0 hesgoal.co.uk
 0.0.0.0 jp.videoproc.com
@@ -28,7 +29,9 @@
 0.0.0.0 pandora.net
 0.0.0.0 rawdevart.art
 0.0.0.0 sp.supercell.jp
+0.0.0.0 streameast.gold
 0.0.0.0 sukebei.nyaa.mom
+0.0.0.0 totalsport.fans
 0.0.0.0 vendas.falenet.com.br
 0.0.0.0 video.fanstream.jp
 0.0.0.0 video.tunefab.jp

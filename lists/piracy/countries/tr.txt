@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Türkiye (tr)
-# Domains: 100 | Updated: 2026-11-04
+# Domains: 103 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -65,6 +65,7 @@ hdfilm-izle.website.org
 *.justintvturkiyesh.vip
 *.korefilmizle.vip
 *.latestmodapks.com
+*.macizletv.net
 *.minidiziizle.com
 *.mp3indirdur.com.tr
 *.mp3indirdur.pro
@@ -84,6 +85,7 @@ museum.slavgorod.ru
 *.sonhdfilm.net
 spotify-mod-apk.en.filerox.com
 *.superfilmizle.org
+*.taraftarium.pro
 *.taraftarium24-aslan5.com
 *.taraftarium24-live3.com
 *.taraftarium24-patron.com
@@ -91,6 +93,7 @@ spotify-mod-apk.en.filerox.com
 *.taraftarium24-zeustv18.live
 *.taraftarium24-zeustv95.live
 *.taraftarium24.sx
+*.taraftarium24bjk26.com
 *.taraftarium24soturkiye.org
 *.taraftarium24turkiyetv.net
 *.torrentdevi.org

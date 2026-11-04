@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,251 | Updated: 2026-11-04
+# Domains: 1,265 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 0.0.0.0 2backpage.com
 0.0.0.0 321chat.com
 0.0.0.0 3n9wbv054n-amphtml.sullealideiricordi.it
+0.0.0.0 4.yanneko.net
 0.0.0.0 5y9nv9ytfw.troupedespatarins.fr
 0.0.0.0 6e1ksudjredns.chicecini.blog
 0.0.0.0 9fwpy9406a54-amphtml.nettoyagereunion.re
@@ -257,6 +258,7 @@
 0.0.0.0 cluj.abcescorte.com
 0.0.0.0 cname.minical.io
 0.0.0.0 coffeemeetsbagel.com
+0.0.0.0 colmar.sanslendemain.net
 0.0.0.0 colombiancupid.com
 0.0.0.0 commeetment.com
 0.0.0.0 conejox.com
@@ -274,6 +276,7 @@
 0.0.0.0 cupidescorts.co.uk
 0.0.0.0 cupidmedia.com
 0.0.0.0 czescort.com
+0.0.0.0 d57rp7k.nettoyagereunion.re
 0.0.0.0 dalechatea.me
 0.0.0.0 dardasha.com
 0.0.0.0 dardasha.net
@@ -286,6 +289,7 @@
 0.0.0.0 dev-web.sgrbk.com
 0.0.0.0 dhdjjvoxofo7.nettoyagereunion.re
 0.0.0.0 directory.acci.gr
+0.0.0.0 divaescort.com
 0.0.0.0 djdongdoes.djsch.kr
 0.0.0.0 dmboduvm2fku.leshuheka.blog
 0.0.0.0 dodavatele.epoptavka.cz
@@ -365,12 +369,14 @@
 0.0.0.0 erotik.markt.ch
 0.0.0.0 escort-directory.eu
 0.0.0.0 escort-directory.nl
+0.0.0.0 escort-galerie.de
 0.0.0.0 escort-ireland.com
 0.0.0.0 escort-side.dk
 0.0.0.0 escort-ua.com
 0.0.0.0 escort.club
 0.0.0.0 escort.com.ua
 0.0.0.0 escort.directory
+0.0.0.0 escort46.se
 0.0.0.0 escorta.com
 0.0.0.0 escortathens.webnode.gr
 0.0.0.0 escortbkk.com
@@ -384,6 +390,7 @@
 0.0.0.0 escortfans.com
 0.0.0.0 escortforum.be
 0.0.0.0 escortforum.cz
+0.0.0.0 escortforumgr.com
 0.0.0.0 escortforumit.xxx
 0.0.0.0 escorthub.org
 0.0.0.0 escortlistingsnearme.com
@@ -611,6 +618,7 @@
 0.0.0.0 kaufmich.com
 0.0.0.0 kazan.artmetall26.ru
 0.0.0.0 kazan1.5intim.com
+0.0.0.0 kazans-dosug.ru
 0.0.0.0 kelebek.org
 0.0.0.0 kelebekchat.com.tr
 0.0.0.0 kelebeksohbet.com
@@ -782,6 +790,7 @@
 0.0.0.0 nearbyhookups.co.uk
 0.0.0.0 nelspruit.dfs05.ru
 0.0.0.0 netcasino-life-hisshoho.jp
+0.0.0.0 new-york-city.bonepage.com
 0.0.0.0 new-york.ondate.com
 0.0.0.0 newbridge-escorts.alsilk.ru
 0.0.0.0 newbridge.level-web.ru
@@ -798,6 +807,7 @@
 0.0.0.0 old.coacha.com
 0.0.0.0 om-konkatsu.com
 0.0.0.0 omegla.chat
+0.0.0.0 omegla.org
 0.0.0.0 omegle-fun.com
 0.0.0.0 omegle.chat
 0.0.0.0 omegle.com
@@ -991,6 +1001,7 @@
 0.0.0.0 sexjobs.nl
 0.0.0.0 sexkontakte.at
 0.0.0.0 sexopretoria.com
+0.0.0.0 sexy-girls-live-video-chat3.apk.cafe
 0.0.0.0 shaadi.com
 0.0.0.0 shada-shatea.hotels-saudi-arabia.com
 0.0.0.0 shagle.com
@@ -1054,6 +1065,7 @@
 0.0.0.0 soyle.net
 0.0.0.0 spinchat.com
 0.0.0.0 springfield.bonepage.com
+0.0.0.0 ss.okasan.net
 0.0.0.0 ssags.bbon.ru
 0.0.0.0 staging.elkford.ca
 0.0.0.0 star-escorthk.com
@@ -1092,6 +1104,7 @@
 0.0.0.0 swinglifestyle.com
 0.0.0.0 swipr-make-snapchat-friends.softonic.nl
 0.0.0.0 swisschat.org
+0.0.0.0 sydney.bonepage.com
 0.0.0.0 synodous.enligne.ma
 0.0.0.0 syracuse.bonepage.com
 0.0.0.0 taay.soniadalka.pl
@@ -1187,6 +1200,7 @@
 0.0.0.0 ventura-county.bonepage.com
 0.0.0.0 vereeniging.escortlist.co.za
 0.0.0.0 vermont.bonepage.com
+0.0.0.0 viajes.bikespain.com
 0.0.0.0 vialetescortservice.nl
 0.0.0.0 victoria-bc.bonepage.com
 0.0.0.0 videochatar.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Vietnam (vn)
-# Domains: 102 | Updated: 2026-11-04
+# Domains: 112 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,6 +16,7 @@ benyu.qom.vn
 *.cliphotvn.net
 *.cliphotvnz.beauty
 *.cliphotvnz.cyou
+*.cliphotvnz.monster
 *.clipphot69.xyz
 *.cophimsexhay.com
 *.cumshopsextoy.com
@@ -24,6 +25,7 @@ benyu.qom.vn
 *.dochoitinhducxtoy.com
 *.drloves.vn
 *.enguardia.co
+*.filmsexviet.com
 *.foxietoy.com
 *.gunshop.vn
 *.hangngon.blog
@@ -44,6 +46,8 @@ i.clipviet.blog
 *.nam18.vn
 *.nuhoangkhoaicam.vn
 *.oichin.net
+*.phe69.forum
+*.phevkl.dog
 *.phim18vn.top
 *.phimnhe.tv
 *.phimnong.net
@@ -55,12 +59,15 @@ i.clipviet.blog
 *.phimsextapthe69.com
 *.phimsexvietsubx.blog
 *.phimsexvietvelo.com
+*.phimsub.blog
 *.phimxex.net
+*.qmhsexvn.com
 *.qmhsexza.net
 *.rungrung.vn
 s1.sexheo.blog
 *.santasheaven.ch
 *.setishop.com
+*.sexchinavn.blog
 *.sexhayvc.tv
 *.sexhotviet.com
 *.sexngot.blog
@@ -92,9 +99,12 @@ s1.sexheo.blog
 tmscsp.scoripfragin.blog
 *.trungdochoi.com
 *.viet69.be
+*.viet69hays.live
 *.viet69hihi.net
 *.viet69z.blog
+*.vietsex-tvpro.com
 *.vintoy.vn
+*.viwaphd.blog
 *.vnsextop1.pro
 *.vntoy.vn
 *.xamvn18.blog

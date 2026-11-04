@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 215 | Updated: 2026-11-04
+# Domains: 216 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -145,6 +145,7 @@
 0.0.0.0 nakitbahis.cam
 0.0.0.0 nakitbahis.com
 0.0.0.0 nakitbahisgiris.wiki
+0.0.0.0 north.asarecycling.com
 0.0.0.0 online.hubbardcity.com
 0.0.0.0 onwin.com
 0.0.0.0 oonwin.com

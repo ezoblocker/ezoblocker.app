@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 416 | Updated: 2026-11-04
+# Domains: 426 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -59,6 +59,7 @@
 0.0.0.0 dekoora.store
 0.0.0.0 dev-forms-engine-api.brisbane.qld.gov.au
 0.0.0.0 direttagoal.it
+0.0.0.0 djmattdaddy.com
 0.0.0.0 dooball99.top
 0.0.0.0 drecov.pandaoffice.com
 0.0.0.0 edu.gebbs.com
@@ -184,6 +185,7 @@
 0.0.0.0 livehd71.top
 0.0.0.0 livehd73.com
 0.0.0.0 livehd7live.site
+0.0.0.0 livehd7matche.com
 0.0.0.0 livehd7pro.xyz
 0.0.0.0 livehd7watch.com
 0.0.0.0 livekoora.com
@@ -202,13 +204,16 @@
 0.0.0.0 livetv.tv-vlaanderen.be
 0.0.0.0 liveyallashot0.xyz
 0.0.0.0 llsflwjo.riverpeak.lat
+0.0.0.0 lockoora.top
 0.0.0.0 m.3smedi.co.kr
 0.0.0.0 m.acestream.net
 0.0.0.0 m.goalddlive.com
 0.0.0.0 m.snrtbotola.ma
+0.0.0.0 macizletv.net
 0.0.0.0 mecze24.pl
 0.0.0.0 methstreams.digital
 0.0.0.0 mlbbite.plus
+0.0.0.0 muave.hanoifc.com.vn
 0.0.0.0 muayded789.com
 0.0.0.0 multicanaishdtv.com.br
 0.0.0.0 mystreameast.fun
@@ -301,6 +306,7 @@
 0.0.0.0 start.sportdigital.de
 0.0.0.0 streamcode.fit
 0.0.0.0 streameast.beauty
+0.0.0.0 streameast.gold
 0.0.0.0 streameast.to
 0.0.0.0 streameasti.site
 0.0.0.0 streameastmirror.com
@@ -320,6 +326,7 @@
 0.0.0.0 swissiptv.online
 0.0.0.0 swissiptv.tv
 0.0.0.0 t.matec.kr
+0.0.0.0 taraftarium.pro
 0.0.0.0 taraftarium24-aslan5.com
 0.0.0.0 taraftarium24-live3.com
 0.0.0.0 taraftarium24-patron.com
@@ -327,6 +334,7 @@
 0.0.0.0 taraftarium24-zeustv18.live
 0.0.0.0 taraftarium24-zeustv95.live
 0.0.0.0 taraftarium24.sx
+0.0.0.0 taraftarium24bjk26.com
 0.0.0.0 taraftarium24soturkiye.org
 0.0.0.0 taraftarium24turkiyetv.net
 0.0.0.0 tarjeta-roja.live
@@ -353,6 +361,7 @@
 0.0.0.0 tarjetarojatvonline.site
 0.0.0.0 the-futbollibre.com
 0.0.0.0 today-yalla-shoot.com
+0.0.0.0 totalsport.fans
 0.0.0.0 totalsportek.org.im
 0.0.0.0 totalsportek1.is
 0.0.0.0 totalsportek1.li
@@ -402,6 +411,7 @@
 0.0.0.0 xoilacvbc.tv
 0.0.0.0 xoilacvbe.tv
 0.0.0.0 xoilacvbm.tv
+0.0.0.0 xoilacvbq.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv

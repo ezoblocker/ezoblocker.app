@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating, Greece (gr)
-! Domains: 14 | Updated: 2026-11-04
+! Domains: 15 | Updated: 2026-11-04
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/countries/gr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,5 +16,6 @@
 ||greekschat.com^
 |m.maccosmetics.gr^
 |m.xlist.gr^
+|new-york-city.bonepage.com^
 |opa.chat-room.gr^
 |synodous.enligne.ma^

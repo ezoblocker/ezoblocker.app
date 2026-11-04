@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Belgium (be)
-# Domains: 33 | Updated: 2026-11-04
+# Domains: 34 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/be.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -15,6 +15,7 @@
 0.0.0.0 chatiw.com
 0.0.0.0 chatiw.im
 0.0.0.0 chatrandom.com
+0.0.0.0 colmar.sanslendemain.net
 0.0.0.0 coomeet.com.tr
 0.0.0.0 escort-directory.eu
 0.0.0.0 escort-directory.nl

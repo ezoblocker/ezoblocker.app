@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Vietnam (vn)
-# Domains: 72 | Updated: 2026-11-04
+# Domains: 74 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -29,6 +29,7 @@
 0.0.0.0 motphimmoi.org
 0.0.0.0 motphimtv.club
 0.0.0.0 motphimtv.im
+0.0.0.0 muave.hanoifc.com.vn
 0.0.0.0 phimmoi.cat
 0.0.0.0 phimmoi.doraflixvn.com
 0.0.0.0 phimmoic.nl
@@ -67,6 +68,7 @@
 0.0.0.0 xoilacvbc.tv
 0.0.0.0 xoilacvbe.tv
 0.0.0.0 xoilacvbm.tv
+0.0.0.0 xoilacvbq.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv

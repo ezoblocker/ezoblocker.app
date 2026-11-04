@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 401 | Updated: 2026-11-04
+# Domains: 403 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -255,6 +255,7 @@
 0.0.0.0 ntu.ff.or.kr
 0.0.0.0 old.coacha.com
 0.0.0.0 omegla.chat
+0.0.0.0 omegla.org
 0.0.0.0 omegle-fun.com
 0.0.0.0 omegle.chat
 0.0.0.0 omegle.com
@@ -319,6 +320,7 @@
 0.0.0.0 sexchat.ru
 0.0.0.0 sexchatroom.de
 0.0.0.0 sexchatttttt.chatovod.com
+0.0.0.0 sexy-girls-live-video-chat3.apk.cafe
 0.0.0.0 shada-shatea.hotels-saudi-arabia.com
 0.0.0.0 shagle.com
 0.0.0.0 shagle.tv

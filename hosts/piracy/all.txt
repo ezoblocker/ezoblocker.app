@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,099 | Updated: 2026-11-04
+# Domains: 1,114 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -218,6 +218,7 @@
 0.0.0.0 diziyou.info
 0.0.0.0 diziyou.one
 0.0.0.0 diziyou.vip
+0.0.0.0 djmattdaddy.com
 0.0.0.0 dnsrepo.noc.org
 0.0.0.0 dontorrent.blog
 0.0.0.0 dontorrent.club
@@ -365,6 +366,7 @@
 0.0.0.0 gogoanime.by
 0.0.0.0 gogoanime.co.bz
 0.0.0.0 gogoanime.co.ke
+0.0.0.0 gogoanime.com.bz
 0.0.0.0 gogoanime.ms
 0.0.0.0 gogoanime.or.at
 0.0.0.0 gogoanimes.co.im
@@ -562,6 +564,7 @@
 0.0.0.0 livehd71.top
 0.0.0.0 livehd73.com
 0.0.0.0 livehd7live.site
+0.0.0.0 livehd7matche.com
 0.0.0.0 livehd7pro.xyz
 0.0.0.0 livehd7watch.com
 0.0.0.0 livekoora.com
@@ -579,7 +582,9 @@
 0.0.0.0 livetv.life
 0.0.0.0 livetv.tv-vlaanderen.be
 0.0.0.0 liveyallashot0.xyz
+0.0.0.0 lk21layarkaca21.online
 0.0.0.0 llsflwjo.riverpeak.lat
+0.0.0.0 lockoora.top
 0.0.0.0 locopelis.com
 0.0.0.0 lordfilm-hd.mirfilm.net
 0.0.0.0 lordfilm-ru0.cc
@@ -592,6 +597,7 @@
 0.0.0.0 m.goalddlive.com
 0.0.0.0 m.kino-sokol.pl
 0.0.0.0 m.snrtbotola.ma
+0.0.0.0 macizletv.net
 0.0.0.0 maltcasinotv28.com
 0.0.0.0 mangadex.dev
 0.0.0.0 mangadex.live
@@ -644,6 +650,7 @@
 0.0.0.0 moviesflixzip.xyz
 0.0.0.0 mp3indirdur.com.tr
 0.0.0.0 mp3indirdur.pro
+0.0.0.0 muave.hanoifc.com.vn
 0.0.0.0 muayded789.com
 0.0.0.0 multicanaisbr.com
 0.0.0.0 multicanaishdtv.com.br
@@ -688,6 +695,7 @@
 0.0.0.0 otakudesu.io
 0.0.0.0 otakudesu.pw
 0.0.0.0 otakushinden.com
+0.0.0.0 overflix.download
 0.0.0.0 oxtorrent.art
 0.0.0.0 oxtorrent.site
 0.0.0.0 oyunindir.cafe
@@ -781,6 +789,7 @@
 0.0.0.0 rebahinxxi3.mom
 0.0.0.0 redecanais.host
 0.0.0.0 redecanais.in
+0.0.0.0 redecanais.locker
 0.0.0.0 redecanais.solutions
 0.0.0.0 redecanais4k.my
 0.0.0.0 redecanaisfhd.my
@@ -896,6 +905,7 @@
 0.0.0.0 start.sportdigital.de
 0.0.0.0 streamcode.fit
 0.0.0.0 streameast.beauty
+0.0.0.0 streameast.gold
 0.0.0.0 streameast.to
 0.0.0.0 streameasti.site
 0.0.0.0 streameastmirror.com
@@ -922,6 +932,7 @@
 0.0.0.0 swissiptv.online
 0.0.0.0 swissiptv.tv
 0.0.0.0 t.matec.kr
+0.0.0.0 taraftarium.pro
 0.0.0.0 taraftarium24-aslan5.com
 0.0.0.0 taraftarium24-live3.com
 0.0.0.0 taraftarium24-patron.com
@@ -929,6 +940,7 @@
 0.0.0.0 taraftarium24-zeustv18.live
 0.0.0.0 taraftarium24-zeustv95.live
 0.0.0.0 taraftarium24.sx
+0.0.0.0 taraftarium24bjk26.com
 0.0.0.0 taraftarium24soturkiye.org
 0.0.0.0 taraftarium24turkiyetv.net
 0.0.0.0 tarjeta-roja.live
@@ -969,6 +981,7 @@
 0.0.0.0 torrentgalaxy.hair
 0.0.0.0 torrentoyunindir.co
 0.0.0.0 torrenttrackerslist.com
+0.0.0.0 totalsport.fans
 0.0.0.0 totalsportek.org.im
 0.0.0.0 totalsportek1.is
 0.0.0.0 totalsportek1.li
@@ -1024,6 +1037,7 @@
 0.0.0.0 viprow.pro
 0.0.0.0 virtualtour.lisztacademy.hu
 0.0.0.0 visioncine-1.com.br
+0.0.0.0 vizer.best
 0.0.0.0 vizer.biz
 0.0.0.0 vizer.website
 0.0.0.0 vizerhd.lat
@@ -1079,6 +1093,7 @@
 0.0.0.0 xoilacvbc.tv
 0.0.0.0 xoilacvbe.tv
 0.0.0.0 xoilacvbm.tv
+0.0.0.0 xoilacvbq.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv

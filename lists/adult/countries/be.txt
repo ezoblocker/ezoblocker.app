@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Belgium (be)
-# Domains: 28 | Updated: 2026-11-04
+# Domains: 30 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/be.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 *.boozyshop.nl
 *.charnel-club.be
 *.cocolamar.be
+*.damaxbdsm.com
 *.desirel.be
 *.dorcel-b2b.com
 *.dorcel-store.com
@@ -17,6 +18,7 @@
 *.kempel.nl
 *.klantcontact.nl
 *.lextase.be
+*.lottelust.nl
 *.lovelysecret.be
 *.notino.be
 *.orchidtoys.com

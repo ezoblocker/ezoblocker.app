@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 181 | Updated: 2026-11-04
+# Domains: 182 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -21,6 +21,7 @@
 0.0.0.0 browsec.cx
 0.0.0.0 browsecvps.net
 0.0.0.0 browsecvps.org
+0.0.0.0 browsecvps.work
 0.0.0.0 browserscan.net
 0.0.0.0 cameleo-xyz.webscorechecker.com
 0.0.0.0 cameleo.org

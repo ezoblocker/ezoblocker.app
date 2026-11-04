@@ -1,9 +1,10 @@
 ! Title: EZOBLOCKER Adult, India (in)
-! Domains: 69 | Updated: 2026-11-04
+! Domains: 71 | Updated: 2026-11-04
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/in.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+|5jhejlckw-stylesheet.nettoyagereunion.re^
 ||adultproductsindia.com^
 ||adultscare.com^
 ||adultsextoysindia.com^
@@ -57,6 +58,7 @@
 ||pronhouse.rest^
 ||pronhouse.space^
 ||secretkink.com^
+||sextoyinhyderabad.com^
 ||sextoys-india.shop^
 ||sexvideohindi.blog^
 ||sexvideos.works^

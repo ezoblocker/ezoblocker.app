@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Switzerland (ch)
-# Domains: 59 | Updated: 2026-11-04
+# Domains: 62 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ch.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -23,10 +23,12 @@
 0.0.0.0 eisenherzglobal.de
 0.0.0.0 erotik.markt.ch
 0.0.0.0 erotikland.ch
+0.0.0.0 f4f.at
 0.0.0.0 fantasylugano.ch
 0.0.0.0 fashionboutix.ch
 0.0.0.0 folsomeurope.berlin
 0.0.0.0 funline.ch
+0.0.0.0 heisseanzeigen.at
 0.0.0.0 iafi.info
 0.0.0.0 inserotik.ch
 0.0.0.0 intimshop.sk
@@ -59,6 +61,7 @@
 0.0.0.0 sinful.ch
 0.0.0.0 swisscam.com.br
 0.0.0.0 temptations.dk
+0.0.0.0 thekidsfunfactory.ca
 0.0.0.0 untamed.love
 0.0.0.0 verdener-auktion-online.com
 0.0.0.0 viamax.eu

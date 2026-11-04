@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 341 | Updated: 2026-11-04
+# Domains: 407 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,8 +7,11 @@
 0.0.0.0 0hfagy5-css-import.run-transport.re
 0.0.0.0 0jilqa.kurt-mechanik.ch
 0.0.0.0 112sexshop.com
+0.0.0.0 2mrdqfz9ht76.nettoyagereunion.re
 0.0.0.0 31keyifliseyirler32.shop
 0.0.0.0 31keyifliseyirler37.shop
+0.0.0.0 31vaktixc6.cyou
+0.0.0.0 31vaktixc6.lat
 0.0.0.0 31vqkticx13.click
 0.0.0.0 31vqkticx14.click
 0.0.0.0 31vqkticx16.cfd
@@ -19,17 +22,21 @@
 0.0.0.0 444shop.com.tr
 0.0.0.0 5geoescort.club
 0.0.0.0 66seks-hikayeleri.yeahh.com
+0.0.0.0 77ply.lol
 0.0.0.0 7vipremium.com
 0.0.0.0 abuse.fit
 0.0.0.0 adamandeva.shop
 0.0.0.0 adanaceyhanescort.xyz
+0.0.0.0 adapazari-escort.xyz
 0.0.0.0 adiyamanescortbayanda.xyz
 0.0.0.0 adulttoybox.biz
 0.0.0.0 agorshop.com
 0.0.0.0 alanyaredescot.vip
 0.0.0.0 alaylisekerleme.com
+0.0.0.0 altyazilihdturkceporno.online
 0.0.0.0 altyazilihubxt12.site
 0.0.0.0 altyazilihubxt7.lat
+0.0.0.0 altyazilipornofilmi.info
 0.0.0.0 altyzhub30.site
 0.0.0.0 amlaks5.shop
 0.0.0.0 ankaraescortbayanx.com
@@ -47,6 +54,8 @@
 0.0.0.0 askimyavas201.live
 0.0.0.0 askimyavas204.live
 0.0.0.0 askimyavas206.live
+0.0.0.0 askimyavas210.live
+0.0.0.0 askimyavas211.live
 0.0.0.0 atasehiraktif.click
 0.0.0.0 atasehirescort8.uno
 0.0.0.0 atasehirescortlari.com
@@ -59,8 +68,11 @@
 0.0.0.0 bestturks29.com
 0.0.0.0 bestturks31.com
 0.0.0.0 bestturks34.com
+0.0.0.0 bestturks38.com
+0.0.0.0 bestturks39.com
 0.0.0.0 bestturksgiris.com
 0.0.0.0 bestturksgiris1.com
+0.0.0.0 beylikduzubayan1.com
 0.0.0.0 beylikduzuescort.com
 0.0.0.0 beylikduzuescort22.sbs
 0.0.0.0 beylikduzuescortkadin.com
@@ -70,6 +82,7 @@
 0.0.0.0 bodrumtr.com
 0.0.0.0 bonporto.fr
 0.0.0.0 brazzers2.life
+0.0.0.0 bursa-escortlar.com
 0.0.0.0 bursabayanescortlar.xyz
 0.0.0.0 bursaelite.com
 0.0.0.0 canlisex.org
@@ -78,6 +91,8 @@
 0.0.0.0 cesmeescortred.xyz
 0.0.0.0 cimcime173.live
 0.0.0.0 cimcime174.live
+0.0.0.0 cimcime178.live
+0.0.0.0 cimcime179.live
 0.0.0.0 cinselmobilsohbet.com
 0.0.0.0 cinselsohbet.com
 0.0.0.0 cinselsohbet.org
@@ -88,7 +103,9 @@
 0.0.0.0 corumescortred.xyz
 0.0.0.0 dahahizli160.live
 0.0.0.0 dahahizli162.live
+0.0.0.0 dahahizli166.live
 0.0.0.0 dame.com
+0.0.0.0 derinceservisi.site
 0.0.0.0 dialogistanbul.com
 0.0.0.0 discreetlife.ca
 0.0.0.0 diyarbakirescortkuz.xyz
@@ -101,6 +118,8 @@
 0.0.0.0 doeda109.click
 0.0.0.0 doedahd.com
 0.0.0.0 dolores1.skin
+0.0.0.0 dolores2.skin
+0.0.0.0 dorthy2.best
 0.0.0.0 drov.fr
 0.0.0.0 elinavip.com
 0.0.0.0 eliteescorts.agency
@@ -113,6 +132,7 @@
 0.0.0.0 erotikshopankara.org
 0.0.0.0 erox.com.tr
 0.0.0.0 escburda.com
+0.0.0.0 escort-bayan.com
 0.0.0.0 escortbayanlar.com
 0.0.0.0 escortbursam.com
 0.0.0.0 escortizmirkiz.info
@@ -124,6 +144,7 @@
 0.0.0.0 escortsinpakistan.online
 0.0.0.0 escortsite.biz
 0.0.0.0 escortsites.org
+0.0.0.0 escortssonia.com
 0.0.0.0 escortstacey.com
 0.0.0.0 eskort.news
 0.0.0.0 eskortadresi.com
@@ -131,6 +152,7 @@
 0.0.0.0 europescortguide.com
 0.0.0.0 fantastik-seks-hikayeleri-6.yeahh.com
 0.0.0.0 fantasygiftsnj.com
+0.0.0.0 fanteziescort.fun
 0.0.0.0 fcampmodels.online
 0.0.0.0 fethiyeescorts1.site
 0.0.0.0 filmkuzusu.vip
@@ -138,22 +160,34 @@
 0.0.0.0 gaziantepbayanescort.com
 0.0.0.0 gaziantepbayanlar.com
 0.0.0.0 gecekutusu.com
+0.0.0.0 getxh.blog
 0.0.0.0 gizemlisexshop.com
 0.0.0.0 gizliyanim.com
 0.0.0.0 hdabla.one
 0.0.0.0 hdabla76.click
+0.0.0.0 hdabla87.click
 0.0.0.0 hentaiadam.com
 0.0.0.0 honeybirdette.com
+0.0.0.0 honora2.skin
 0.0.0.0 hulyahalat.com
 0.0.0.0 icgiyimist.com
+0.0.0.0 ifsadunyasi2.com
+0.0.0.0 ifsadunyasi3.com
 0.0.0.0 ifsaizlevakti.com
+0.0.0.0 ifsaizlevakti4.com
+0.0.0.0 ifsaizlevakti6.com
 0.0.0.0 ifsakeyfi.com
+0.0.0.0 ifsakeyfi6.com
+0.0.0.0 ifsakeyfi7.com
 0.0.0.0 ifsaklubu.com
 0.0.0.0 ifsamekani.com
+0.0.0.0 ifsameydani5.com
+0.0.0.0 ifsameydani6.com
 0.0.0.0 ifsatube46.lat
 0.0.0.0 ifsatube69.lat
 0.0.0.0 ifsatube73.lat
 0.0.0.0 ifsatube74.lat
+0.0.0.0 ifsatube79.lat
 0.0.0.0 ifsaturk.com
 0.0.0.0 ifsavideolari.com
 0.0.0.0 imeldax31.cfd
@@ -162,7 +196,9 @@
 0.0.0.0 istanbul12.com
 0.0.0.0 istanbularkadasilan.com
 0.0.0.0 istanbuldur.com
+0.0.0.0 istanbulescortglow.click
 0.0.0.0 istanbulilanbul.com
+0.0.0.0 istanbulmasozbayan.site
 0.0.0.0 istanbulseksshop.com
 0.0.0.0 isvicresohbet.gen.tr
 0.0.0.0 izmirescort.info
@@ -171,14 +207,17 @@
 0.0.0.0 jokershop.com.tr
 0.0.0.0 kadikoyescort1.world
 0.0.0.0 kadikoyescort9.uno
+0.0.0.0 kadrajtr.cfd
 0.0.0.0 kamababa20.com
 0.0.0.0 kanadasohbet.gen.tr
 0.0.0.0 kayseriescort.one
 0.0.0.0 kayseriescortun.shop
 0.0.0.0 kayserimerkez-escort.site
+0.0.0.0 kefcededeescorts10.xyz
 0.0.0.0 kibana.compactorstore.com
 0.0.0.0 kirmizicadde.com
 0.0.0.0 kissers.com.tr
+0.0.0.0 kocaeliescortix.com
 0.0.0.0 konyaeskortlar.com
 0.0.0.0 kusadasiindeks.com
 0.0.0.0 lcwaikiki.de
@@ -199,6 +238,7 @@
 0.0.0.0 markamama.com.tr
 0.0.0.0 marmarisescortvip.top
 0.0.0.0 mersin1.com
+0.0.0.0 mersinescortrehberi.com
 0.0.0.0 mersinim1.com
 0.0.0.0 mobil.yalovapusula.com
 0.0.0.0 mobilcinselsohbet.com
@@ -217,16 +257,22 @@
 0.0.0.0 papelerias.com.es
 0.0.0.0 papimlor.site
 0.0.0.0 papyonshop.com
+0.0.0.0 pariescorts.com
 0.0.0.0 pavla.guru
 0.0.0.0 pendikseksshop.com
 0.0.0.0 pleasurebetter.com
 0.0.0.0 pompatube45.pw
+0.0.0.0 porno80cb.site
+0.0.0.0 porno80cc.site
 0.0.0.0 porno80cv.site
 0.0.0.0 porno900.click
 0.0.0.0 pornobat.life
 0.0.0.0 pornocu15.site
+0.0.0.0 pornodoeda45.shop
+0.0.0.0 pornoiz18.shop
 0.0.0.0 pornoizlehane.com
 0.0.0.0 pornozaz86.site
+0.0.0.0 pornozaz87.site
 0.0.0.0 positive-vibrations.hr
 0.0.0.0 pureloveshop.com.tr
 0.0.0.0 rainvipxescort.net
@@ -253,6 +299,7 @@
 0.0.0.0 sexwell.bg
 0.0.0.0 shibariturk.com
 0.0.0.0 siirtescortbayanda.xyz
+0.0.0.0 sirinevlerescortara.site
 0.0.0.0 sisliescort.site
 0.0.0.0 sisliescort0312.uno
 0.0.0.0 sititaly.it
@@ -268,11 +315,16 @@
 0.0.0.0 telefondasexhatti.com
 0.0.0.0 terbiyesizzler.com
 0.0.0.0 terresaintezarlor.re
+0.0.0.0 tgturkifsa6.lat
 0.0.0.0 theeskisehir.com
 0.0.0.0 trescortgirls.com
 0.0.0.0 turk-ifsa23.com
+0.0.0.0 turkaltyaziporno.info
 0.0.0.0 turkceerotikfilmcx.cfd
+0.0.0.0 turkceporna13.shop
 0.0.0.0 turkceporna7.shop
+0.0.0.0 turkceporna8.cfd
+0.0.0.0 turkceporna8.shop
 0.0.0.0 turkcepornoaltyazi.shop
 0.0.0.0 turkcepornohane.com
 0.0.0.0 turkhub150.cfd
@@ -281,8 +333,11 @@
 0.0.0.0 turkifsa.cc
 0.0.0.0 turkifsa103.com
 0.0.0.0 turkifsa105.com
+0.0.0.0 turkifsa18.best
 0.0.0.0 turkifsa34.lat
 0.0.0.0 turkifsa37.lat
+0.0.0.0 turkifsa42.lat
+0.0.0.0 turkifsa43.lat
 0.0.0.0 turkifsa7.best
 0.0.0.0 turkifsa93.com
 0.0.0.0 turkifsa98.com
@@ -293,14 +348,18 @@
 0.0.0.0 turkifsaclub218.sbs
 0.0.0.0 turkifsaclub220.sbs
 0.0.0.0 turkifsaclub221.sbs
+0.0.0.0 turkifsaclub225.sbs
+0.0.0.0 turkifsaclub226.sbs
 0.0.0.0 turkifsago18.site
 0.0.0.0 turkifsago19.site
 0.0.0.0 turkifsago20.site
 0.0.0.0 turkifsago21.site
+0.0.0.0 turkifsago23.site
 0.0.0.0 turkifsahane.com
 0.0.0.0 turkifsalife70.lat
 0.0.0.0 turkifsalifenl.site
 0.0.0.0 turkifsalifenl2.site
+0.0.0.0 turkifsalifenl3.site
 0.0.0.0 turkifsami.net
 0.0.0.0 turkifsamin.org
 0.0.0.0 turkifsatube.dad
@@ -308,9 +367,12 @@
 0.0.0.0 turkifsatube24.xyz
 0.0.0.0 turkifsatube26.xyz
 0.0.0.0 turkifsatube28.xyz
+0.0.0.0 turkifsatube31.xyz
 0.0.0.0 turkifsazone.sbs
 0.0.0.0 turkisherotica.com
 0.0.0.0 turkporno61.lat
+0.0.0.0 turkporno65.lat
+0.0.0.0 turkporno67.lat
 0.0.0.0 turktelegramifsalar.com
 0.0.0.0 turkzzers.net
 0.0.0.0 umraniyeescort11.uno
@@ -328,6 +390,7 @@
 0.0.0.0 vipumraniyeescort.com.tr
 0.0.0.0 wanda.best
 0.0.0.0 wanda1.best
+0.0.0.0 wanda1.wtf
 0.0.0.0 wescort.co.uk
 0.0.0.0 wvw.betim-guncelgiris.live
 0.0.0.0 xnovix.com
@@ -335,6 +398,9 @@
 0.0.0.0 yavasgir168.live
 0.0.0.0 yavasgir170.live
 0.0.0.0 yavasgir171.live
+0.0.0.0 yavasgir174.live
+0.0.0.0 yavasgir175.live
+0.0.0.0 yavasgir176.live
 0.0.0.0 yerelsohbet.net
 0.0.0.0 yetiskin.org
 0.0.0.0 yetiskinsohbet.com.tr

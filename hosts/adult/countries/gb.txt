@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, United Kingdom (gb)
-# Domains: 47 | Updated: 2026-11-04
+# Domains: 49 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,6 +13,7 @@
 0.0.0.0 bednerdz.com
 0.0.0.0 buzzy.co.uk
 0.0.0.0 cam2camsites.com
+0.0.0.0 camforum.co.uk
 0.0.0.0 clonezonedirect.co.uk
 0.0.0.0 cloudclimax.co.uk
 0.0.0.0 cs0jyax-amphtml.kamszlif.com.pl
@@ -49,5 +50,6 @@
 0.0.0.0 unihornofficial.com
 0.0.0.0 uqxzif.extracontent.fr
 0.0.0.0 webcamsex4u.co.uk
+0.0.0.0 www.win.aatcc.org
 0.0.0.0 xepn.com
 0.0.0.0 yourpleasuretoys.com

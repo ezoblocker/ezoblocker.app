@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, illegal sports streams
-! Domains: 416 | Updated: 2026-11-04
+! Domains: 426 | Updated: 2026-11-04
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/piracy-sports.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -59,6 +59,7 @@
 ||dekoora.store^
 |dev-forms-engine-api.brisbane.qld.gov.au^
 ||direttagoal.it^
+||djmattdaddy.com^
 ||dooball99.top^
 |drecov.pandaoffice.com^
 |edu.gebbs.com^
@@ -184,6 +185,7 @@
 ||livehd71.top^
 ||livehd73.com^
 ||livehd7live.site^
+||livehd7matche.com^
 ||livehd7pro.xyz^
 ||livehd7watch.com^
 ||livekoora.com^
@@ -202,13 +204,16 @@
 |livetv.tv-vlaanderen.be^
 ||liveyallashot0.xyz^
 |llsflwjo.riverpeak.lat^
+||lockoora.top^
 |m.3smedi.co.kr^
 |m.acestream.net^
 |m.goalddlive.com^
 |m.snrtbotola.ma^
+||macizletv.net^
 ||mecze24.pl^
 ||methstreams.digital^
 ||mlbbite.plus^
+|muave.hanoifc.com.vn^
 ||muayded789.com^
 ||multicanaishdtv.com.br^
 ||mystreameast.fun^
@@ -301,6 +306,7 @@
 |start.sportdigital.de^
 ||streamcode.fit^
 ||streameast.beauty^
+||streameast.gold^
 ||streameast.to^
 ||streameasti.site^
 ||streameastmirror.com^
@@ -320,6 +326,7 @@
 ||swissiptv.online^
 ||swissiptv.tv^
 |t.matec.kr^
+||taraftarium.pro^
 ||taraftarium24-aslan5.com^
 ||taraftarium24-live3.com^
 ||taraftarium24-patron.com^
@@ -327,6 +334,7 @@
 ||taraftarium24-zeustv18.live^
 ||taraftarium24-zeustv95.live^
 ||taraftarium24.sx^
+||taraftarium24bjk26.com^
 ||taraftarium24soturkiye.org^
 ||taraftarium24turkiyetv.net^
 ||tarjeta-roja.live^
@@ -353,6 +361,7 @@
 ||tarjetarojatvonline.site^
 ||the-futbollibre.com^
 ||today-yalla-shoot.com^
+||totalsport.fans^
 ||totalsportek.org.im^
 ||totalsportek1.is^
 ||totalsportek1.li^
@@ -402,6 +411,7 @@
 ||xoilacvbc.tv^
 ||xoilacvbe.tv^
 ||xoilacvbm.tv^
+||xoilacvbq.tv^
 ||xoilacvn.app^
 ||xoilacvn.net^
 ||xoilacxbk.tv^

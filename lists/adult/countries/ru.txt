@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Russia (ru)
-# Domains: 33 | Updated: 2026-11-04
+# Domains: 34 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/ru.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -35,5 +35,6 @@ msk.ros-spravka.ru
 *.sexystyle.ru
 *.smartsextoys.ru
 *.stripmag.ru
+telegram.botlist.ru
 *.tochka-lubvi.ru
 *.toy31.ru

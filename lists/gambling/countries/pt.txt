@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Portugal (pt)
-# Domains: 20 | Updated: 2026-11-04
+# Domains: 21 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/countries/pt.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -19,6 +19,7 @@ betboo.jogo.com.br
 *.ktotv.com
 *.leonbet.com.br
 *.leoncasinojeux.com
+*.lsports.eu
 *.melhorbingo.com
 *.mostbetjoga-pt.com
 *.nostrabet.pt
