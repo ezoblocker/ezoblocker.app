@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 611 | Updated: 2026-11-04
+# Domains: 612 | Updated: 2026-11-04
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -300,6 +300,7 @@ g.ezoic.net
 gateway-b.offerwall.unity3d.com
 gateway.prod.anzu-us.com
 *.gdl.bytegle.site
+gecko-pangle-sg.byteoversea.com
 *.gexperiments1.com
 *.gexperiments2.com
 *.gexperiments3.com
