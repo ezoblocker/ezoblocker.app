@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 94,932 | Updated: 2026-11-05
+# Domains: 94,926 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -371,6 +371,7 @@
 0.0.0.0 aa0whatsappsex.pages.dev
 0.0.0.0 aacess-slush-walleet.pages.dev
 0.0.0.0 aacunt-logn-trezor.pages.dev
+0.0.0.0 aadcdn.secure.microsoftonlline.officexyv.work
 0.0.0.0 aadhar-uidai.in
 0.0.0.0 aadharhelpcenter.info
 0.0.0.0 aalibaba451-a76.workers.dev
@@ -10134,7 +10135,6 @@
 0.0.0.0 bzds49w0-web-telegram-org.pages.dev
 0.0.0.0 bzst-finanzamt-online-de.com.es
 0.0.0.0 c-1-whats-app.com.cn
-0.0.0.0 c-ar-whatsapp.com.cn
 0.0.0.0 c-enter--trezo-io-en.pages.dev
 0.0.0.0 c-enter-trezo--io-en.pages.dev
 0.0.0.0 c-enter-trezo-io--en.pages.dev
@@ -15396,7 +15396,6 @@
 0.0.0.0 cyrpto-uphld-login.pages.dev
 0.0.0.0 czh5ikd6-appleid.pages.dev
 0.0.0.0 czytac-user-coinbaseaml-623591.pages.dev
-0.0.0.0 d-ar-whatsapp.com.cn
 0.0.0.0 d-bb-whatsapp.com.cn
 0.0.0.0 d-c-whats-app.hl.cn
 0.0.0.0 d-cc-whatsapp.com.cn
@@ -18106,7 +18105,6 @@
 0.0.0.0 docusign-secure-document-access-portal.pages.dev
 0.0.0.0 docusign-tdbank.com.ph
 0.0.0.0 docusign-via-docusign1.pages.dev
-0.0.0.0 docusignappsupport.help
 0.0.0.0 docusignverif.pages.dev
 0.0.0.0 docusignverify.cyou
 0.0.0.0 docx-exxodus-web3.pages.dev
@@ -18646,7 +18644,6 @@
 0.0.0.0 e--uphold--login.pages.dev
 0.0.0.0 e--xodus--web.pages.dev
 0.0.0.0 e-an-whatsapp.com.cn
-0.0.0.0 e-ar-whatsapp.com.cn
 0.0.0.0 e-bb-whatsapp.com.cn
 0.0.0.0 e-challanw.cc
 0.0.0.0 e-challanx.cc
@@ -26126,6 +26123,7 @@
 0.0.0.0 fixcryptoissues.pages.dev
 0.0.0.0 fixed-float.ink
 0.0.0.0 fixedfloat-1p0.pages.dev
+0.0.0.0 fixedfloat.us
 0.0.0.0 fixsolflare.pages.dev
 0.0.0.0 fixworldlibertyfinancial.pages.dev
 0.0.0.0 fjordvaultix.org
@@ -26482,6 +26480,7 @@
 0.0.0.0 gaminiloginas.pages.dev
 0.0.0.0 gamma.springbig-wallet-3.click
 0.0.0.0 gangstasparadiserobloxid2022.pages.dev
+0.0.0.0 garantiabanking.com
 0.0.0.0 garantibbva-belastingdienst.ph
 0.0.0.0 garantibbva-glsgroup.com.ph
 0.0.0.0 garantibbva-incometax.ph
@@ -29075,7 +29074,6 @@
 0.0.0.0 gytdftghjyutyrtdrsrtdytuy67565edfgufydtrytuy9u8t7rytdfyhgj.pages.dev
 0.0.0.0 h--ome--en-ledgr.pages.dev
 0.0.0.0 h-1-whats-app.com.cn
-0.0.0.0 h-at-whatsapp.com.cn
 0.0.0.0 h-ec-whatsapp.com.cn
 0.0.0.0 h-im-whatsapp.com.cn
 0.0.0.0 h-ob-whatsapp.com.cn
@@ -30914,7 +30912,6 @@
 0.0.0.0 hk-whatapps.com.cn
 0.0.0.0 hk-whatsaspp-cmp.hk.cn
 0.0.0.0 hk-whatsaspp-dsz.hk.cn
-0.0.0.0 hk-whatsaspp-fcu.hk.cn
 0.0.0.0 hk-whatsaspp-gaz.hk.cn
 0.0.0.0 hk-whatsaspp-gpt.hk.cn
 0.0.0.0 hk-whatsaspp-hlv.hk.cn
@@ -33805,6 +33802,7 @@
 0.0.0.0 hrs-trezr-io.pages.dev
 0.0.0.0 hsbc-id-verification.pages.dev
 0.0.0.0 hsbc-savings-bank-las-pinas-city-metro-manila-branch.ph
+0.0.0.0 hsbc-support.work
 0.0.0.0 hsbcgate.pages.dev
 0.0.0.0 hse-whats-app.com.cn
 0.0.0.0 ht-phantom-wellet.pages.dev
@@ -52103,6 +52101,7 @@
 0.0.0.0 login.microsoftonline-sharepoint.zelvantaaa.world
 0.0.0.0 login.robinhood4good.online
 0.0.0.0 login.samsung-mobile.it
+0.0.0.0 login.secure.microsoftonlline.officexyv.work
 0.0.0.0 login.sharepoint-auth-50e.workers.dev
 0.0.0.0 login.smsexpress.online
 0.0.0.0 login3-mygovf9-en-help-dashboard-sign-in-to-mygovgf63f.pages.dev
@@ -56933,7 +56932,6 @@
 0.0.0.0 n-dax-login.pages.dev
 0.0.0.0 n-daxlogin.pages.dev
 0.0.0.0 n-daxloging.pages.dev
-0.0.0.0 n-er-whatsapp.com.cn
 0.0.0.0 n-i-whatsapp.com.cn
 0.0.0.0 n-im-whatsapp.com.cn
 0.0.0.0 n-j-whats-app.com.cn
@@ -64960,7 +64958,6 @@
 0.0.0.0 qystoriax.cyou
 0.0.0.0 qz-apss-whatapp.com.cn
 0.0.0.0 r--robinhood--com--login.pages.dev
-0.0.0.0 r-an-whatsapp.com.cn
 0.0.0.0 r-ob-whatsapp.com.cn
 0.0.0.0 r-obinhoodlogins.pages.dev
 0.0.0.0 r-q-whats-app.hl.cn
@@ -75267,7 +75264,6 @@
 0.0.0.0 support-apple-in.info
 0.0.0.0 support-apple-verification.ph
 0.0.0.0 support-apple.com.de
-0.0.0.0 support-apple.group
 0.0.0.0 support-appledgr-learn.pages.dev
 0.0.0.0 support-appleid-apple-secure-identity.ph
 0.0.0.0 support-appleld.com.ph
@@ -77610,7 +77606,6 @@
 0.0.0.0 testingtrezor.pages.dev
 0.0.0.0 testmetamask.pages.dev
 0.0.0.0 testnet-zksync.pages.dev
-0.0.0.0 tevecoria.work
 0.0.0.0 tevehyzel.top
 0.0.0.0 texequicks.xyz
 0.0.0.0 texeroxxsy.work
@@ -81902,7 +81897,6 @@
 0.0.0.0 trezor-suite-downlodd.pages.dev
 0.0.0.0 trezor-suite-dwnload.pages.dev
 0.0.0.0 trezor-suite-manage-wallet.pages.dev
-0.0.0.0 trezor-suite-online.com
 0.0.0.0 trezor-suite-s.pages.dev
 0.0.0.0 trezor-suite-sd.pages.dev
 0.0.0.0 trezor-suite-sm-yeg.pages.dev
@@ -86213,7 +86207,6 @@
 0.0.0.0 u-ib-whatsapp.com.cn
 0.0.0.0 u-live-ledgr-app.pages.dev
 0.0.0.0 u-live-ledgr.pages.dev
-0.0.0.0 u-op-whatsapp.com.cn
 0.0.0.0 u-phntom.pages.dev
 0.0.0.0 u-uphold-loggi.pages.dev
 0.0.0.0 u-v-whats-app.hl.cn
@@ -89312,7 +89305,6 @@
 0.0.0.0 w-enledgrlive.pages.dev
 0.0.0.0 w-exodusweb.pages.dev
 0.0.0.0 w-hard-trzrwallet.pages.dev
-0.0.0.0 w-in-whatsapp.com.cn
 0.0.0.0 w-ledgeerlive.pages.dev
 0.0.0.0 w-ledgelivelogin.pages.dev
 0.0.0.0 w-ledgelivewallet.pages.dev
@@ -89902,6 +89894,7 @@
 0.0.0.0 wallet-x-ledgerliv.pages.dev
 0.0.0.0 wallet-x-ledgerlive.pages.dev
 0.0.0.0 wallet.btech-k8xw2r.xyz
+0.0.0.0 wallet.ooffice365.com
 0.0.0.0 walletconnect-dapps.pages.dev
 0.0.0.0 walletconnectdappresolution.pages.dev
 0.0.0.0 walletconnectdappsfix.pages.dev
@@ -93621,6 +93614,7 @@
 0.0.0.0 www-binance.pages.dev
 0.0.0.0 www-bitbuy-login.pages.dev
 0.0.0.0 www-bitstamp-login.pages.dev
+0.0.0.0 www-bmo-com-onlinebanking.cyou
 0.0.0.0 www-bybit-login.pages.dev
 0.0.0.0 www-coinbase--help.pages.dev
 0.0.0.0 www-coinbase-login.pages.dev

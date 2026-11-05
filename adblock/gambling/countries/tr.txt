@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, Türkiye (tr)
-! Domains: 216 | Updated: 2026-11-05
+! Domains: 218 | Updated: 2026-11-05
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -107,6 +107,7 @@
 ||ikasbet.net^
 ||imajbet.com^
 ||imajbetapp.com^
+||imajbetresmigunceel.vip^
 ||jetbahis.co^
 ||kingdenemebonusu.com^
 ||kodikosbonus.com^
@@ -127,6 +128,7 @@
 ||marsbahis-nico.vip^
 ||marsbahis-relax.vip^
 ||marsbahis01.com^
+||marsbahiscasinoburada.com^
 ||matadorbet.com^
 ||matadorbet.net^
 ||maxwin.cx^

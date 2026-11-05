@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 612 | Updated: 2026-11-05
+# Domains: 619 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -141,6 +141,7 @@
 0.0.0.0 bannerassets.subserohost.com
 0.0.0.0 banners.livepartners.com
 0.0.0.0 bannerspace.net
+0.0.0.0 bapi.userreport.com
 0.0.0.0 be-agent.teqblaze.io
 0.0.0.0 bedrockplatform.bid
 0.0.0.0 betbqj.donlgx.net
@@ -342,6 +343,7 @@
 0.0.0.0 jambojar-prebid.attekmi.co
 0.0.0.0 jdpmedia-prebid.attekmi.co
 0.0.0.0 jp.a.viddea.com
+0.0.0.0 js.mchncdn.com
 0.0.0.0 js.outcomesx.net
 0.0.0.0 js.ssp.cadent.com
 0.0.0.0 js2.mchncdn.com
@@ -349,6 +351,7 @@
 0.0.0.0 kaminoretail.io
 0.0.0.0 kbnt.com
 0.0.0.0 kntxy.com
+0.0.0.0 kssp.kbntx.ch
 0.0.0.0 kubico-adhosting.com
 0.0.0.0 kubico-advertisement.com
 0.0.0.0 lacunads.ushareit.com
@@ -417,6 +420,7 @@
 0.0.0.0 pbjs.xe.works
 0.0.0.0 pbs-js.prebid-ownadx.com
 0.0.0.0 pbs.bidelerate.com
+0.0.0.0 pbs.dailyhunt.in
 0.0.0.0 pbs.elementaltv.io
 0.0.0.0 pbs.kiviads.live
 0.0.0.0 pbs.mobkoi.com
@@ -427,6 +431,7 @@
 0.0.0.0 pfsrvs.com
 0.0.0.0 ping.channel99.io
 0.0.0.0 pitk.unioneeu.com
+0.0.0.0 player-cdn.beachfrontmedia.com
 0.0.0.0 player.adswag.ai
 0.0.0.0 playerserve.com
 0.0.0.0 plrsrvcs.com
@@ -515,6 +520,8 @@
 0.0.0.0 srvagm.de
 0.0.0.0 srvrtag.com
 0.0.0.0 ssp-cookie.logan.ai
+0.0.0.0 ssp.adrelevantis.com
+0.0.0.0 ssp.astraone.io
 0.0.0.0 ssp.dauup.com
 0.0.0.0 ssp.disqus.com
 0.0.0.0 ssp.smoot.ai
