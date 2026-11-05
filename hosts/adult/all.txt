@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 2,303 | Updated: 2026-11-04
+# Domains: 2,305 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -116,7 +116,6 @@
 0.0.0.0 altyazilihdturkceporno.online
 0.0.0.0 altyazilihubxt12.site
 0.0.0.0 altyazilihubxt7.lat
-0.0.0.0 altyazilipornofilmi.info
 0.0.0.0 altyzhub30.site
 0.0.0.0 amanthy.com
 0.0.0.0 americasexshop.com.ar
@@ -790,6 +789,7 @@
 0.0.0.0 hangngon.blog
 0.0.0.0 hangngon.tv
 0.0.0.0 harmonystore.co.uk
+0.0.0.0 haysex.wtf
 0.0.0.0 hazoosexshop.com.br
 0.0.0.0 hdabla.one
 0.0.0.0 hdabla76.click
@@ -998,6 +998,7 @@
 0.0.0.0 kookooshop.gr
 0.0.0.0 kras-sex.ru
 0.0.0.0 kusadasiindeks.com
+0.0.0.0 kusadasivideos.com
 0.0.0.0 l-shop.ua
 0.0.0.0 laboutiqueduhard.fr
 0.0.0.0 ladiesnight.nl
@@ -1500,6 +1501,7 @@
 0.0.0.0 pornoromania.3xforum.ro
 0.0.0.0 pornos2.com
 0.0.0.0 pornosalo.com.ua
+0.0.0.0 pornotuga.com
 0.0.0.0 pornoturkce5.online
 0.0.0.0 pornozaz86.site
 0.0.0.0 pornozaz87.site

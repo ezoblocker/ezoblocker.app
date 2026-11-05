@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 398,764 | Updated: 2026-11-04
+# Domains: 398,753 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -36073,7 +36073,6 @@
 0.0.0.0 bad-ems-spielbank.com.de
 0.0.0.0 bad-fussing-spielbank.com.de
 0.0.0.0 bad-fussingspielbank.de
-0.0.0.0 bad-homburg-casino.com
 0.0.0.0 bad-homburgspielbank.de
 0.0.0.0 bad-oeynhausen-casino.com
 0.0.0.0 bad-pyrmont-spielbank.com.de
@@ -44829,7 +44828,6 @@
 0.0.0.0 bet365ph7.com
 0.0.0.0 bet365ph8.com
 0.0.0.0 bet365pokerbot-com.pages.dev
-0.0.0.0 bet365vietnambet.com
 0.0.0.0 bet365vndbet.com
 0.0.0.0 bet366betting.com
 0.0.0.0 bet385casino.com
@@ -117536,7 +117534,6 @@
 0.0.0.0 catcasino-wji.top
 0.0.0.0 catcasino-wjy.top
 0.0.0.0 catcasino-wkb.top
-0.0.0.0 catcasino-wkg.top
 0.0.0.0 catcasino-wkl.top
 0.0.0.0 catcasino-wmp.top
 0.0.0.0 catcasino-wmt.top
@@ -139375,7 +139372,6 @@
 0.0.0.0 duffspincasino.uk
 0.0.0.0 duffspincasino.win
 0.0.0.0 duffspincasinologin.com
-0.0.0.0 duisburg-casino.com
 0.0.0.0 duisburg-spielbank.com
 0.0.0.0 duisburg-spielbank.com.de
 0.0.0.0 duisburg-spielbank.de
@@ -145261,10 +145257,12 @@
 0.0.0.0 extrabet888net-free-scatter.pages.dev
 0.0.0.0 extrabetadres.com
 0.0.0.0 extrabetadresler.com
+0.0.0.0 extrabetgiris.casino
 0.0.0.0 extrabetgiris.info
 0.0.0.0 extrabetgiris.mobi
 0.0.0.0 extrabetgirisi.com
 0.0.0.0 extrabetgirisimiz.com
+0.0.0.0 extrabetgirislinki.live
 0.0.0.0 extrabethizlierisim.com
 0.0.0.0 extrabetresmi.vip
 0.0.0.0 extrabetresmii.com
@@ -147247,6 +147245,7 @@
 0.0.0.0 famefad-mixparlay.pages.dev
 0.0.0.0 famefad-slotgacor.pages.dev
 0.0.0.0 famewex-casino-online.pages.dev
+0.0.0.0 famewex-casino.online
 0.0.0.0 family-casino.com
 0.0.0.0 family-casino.de
 0.0.0.0 family-game-online-casino-be.com
@@ -151128,7 +151127,6 @@
 0.0.0.0 forbescasino-cz.org
 0.0.0.0 forbescasino-cz1.org
 0.0.0.0 forbescasino-official.cz
-0.0.0.0 forbescasino-sk.com
 0.0.0.0 forbescasino.at
 0.0.0.0 forbescasino.club
 0.0.0.0 forbescasino.co.at
@@ -173417,7 +173415,6 @@
 0.0.0.0 hermescasinos.pages.dev
 0.0.0.0 hermescasinouk.com
 0.0.0.0 hermespgslot.com
-0.0.0.0 hermesrichesslots.download
 0.0.0.0 hermesvipcasino.org
 0.0.0.0 hernaudedka-casino.com
 0.0.0.0 hernaudedka-casino.cz
@@ -175258,7 +175255,6 @@
 0.0.0.0 hogarsanroque-albaslot.pages.dev
 0.0.0.0 hogeinzetcasino.nl
 0.0.0.0 hohenesyburgcasino.com
-0.0.0.0 hohensyburg-casino.com
 0.0.0.0 hohensyburg-spielbank.com
 0.0.0.0 hohensyburgspielcasino.de
 0.0.0.0 hohokiwin.com
@@ -210125,7 +210121,6 @@
 0.0.0.0 linksitus-slotgacor-online-x10000.pages.dev
 0.0.0.0 linksitus-slotgacor-qqgaruda777.pages.dev
 0.0.0.0 linksituslotgacor.pages.dev
-0.0.0.0 linksituspokeronline.com
 0.0.0.0 linksitusslot.co
 0.0.0.0 linksitusslot.net
 0.0.0.0 linksitusslot777.co
@@ -230916,7 +230911,6 @@
 0.0.0.0 melhorescasinosonline.pt
 0.0.0.0 melhorescasinosonline2026.com
 0.0.0.0 melhorescasinosonlineportugal.pt
-0.0.0.0 melhorescasinosonlines.com
 0.0.0.0 melhorescasinosportugal.games
 0.0.0.0 melhorescasinosportugal.pt
 0.0.0.0 melhorescasinosptonline.com
@@ -234669,7 +234663,6 @@
 0.0.0.0 mm88casino4.net
 0.0.0.0 mm88casino4bet.bet
 0.0.0.0 mm88casino6.net
-0.0.0.0 mm88casino7.net
 0.0.0.0 mm88ddhomebet.com
 0.0.0.0 mm89casino.com
 0.0.0.0 mm8betsportcasino.com
@@ -269118,7 +269111,6 @@
 0.0.0.0 paypal-casinos.uk
 0.0.0.0 paypalcasino-es.pages.dev
 0.0.0.0 paypalcasino.biz
-0.0.0.0 paypalcasino.casino
 0.0.0.0 paypalcasino.co.com
 0.0.0.0 paypalcasino.fi
 0.0.0.0 paypalcasino.gr
@@ -312638,7 +312630,6 @@
 0.0.0.0 shazamonlinecasino.com
 0.0.0.0 shbbetcasinobet.com
 0.0.0.0 shbbethomebet.com
-0.0.0.0 shbet-0.team
 0.0.0.0 shbet-11042025.pages.dev
 0.0.0.0 shbet-80.com
 0.0.0.0 shbet-bangla.net
@@ -312680,7 +312671,6 @@
 0.0.0.0 shbet.digital
 0.0.0.0 shbet.energy
 0.0.0.0 shbet.expert
-0.0.0.0 shbet.feedback
 0.0.0.0 shbet.fm
 0.0.0.0 shbet.foo
 0.0.0.0 shbet.food
@@ -312712,7 +312702,6 @@
 0.0.0.0 shbet.sbs
 0.0.0.0 shbet.so
 0.0.0.0 shbet.st
-0.0.0.0 shbet.sydney
 0.0.0.0 shbet.taxi
 0.0.0.0 shbet.team
 0.0.0.0 shbet.tech

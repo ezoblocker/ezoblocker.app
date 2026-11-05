@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 91,537 | Updated: 2026-11-04
+# Domains: 91,514 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -341,7 +341,6 @@
 0.0.0.0 a-doc-welletesodus3.pages.dev
 0.0.0.0 a-ec-whatsapp.com.cn
 0.0.0.0 a-f-whats-app.com.cn
-0.0.0.0 a-in-whatsapp.com.cn
 0.0.0.0 a-krakenlogin.pages.dev
 0.0.0.0 a-pps-ledgrlive-en-us.pages.dev
 0.0.0.0 a-trezor-io-start.pages.dev
@@ -4032,7 +4031,6 @@
 0.0.0.0 approve-krakn-log.pages.dev
 0.0.0.0 approve.bank.stanic.io
 0.0.0.0 approved-epayments-yajaira-perez-secured-portal.pages.dev
-0.0.0.0 approvesllerrconfrmationppage.shop
 0.0.0.0 apps----trzre----desktop.pages.dev
 0.0.0.0 apps---ldgre-live.pages.dev
 0.0.0.0 apps---live-laedger.pages.dev
@@ -4823,7 +4821,6 @@
 0.0.0.0 att-yahoo.casssandrasheking.workers.dev
 0.0.0.0 att-yahoo.mt-chan.workers.dev
 0.0.0.0 att-yahoo.yourattmail.workers.dev
-0.0.0.0 attic-whatsapp.com.cn
 0.0.0.0 attinc.pages.dev
 0.0.0.0 attttttttttt.pages.dev
 0.0.0.0 attttttttttttttttttttt.pages.dev
@@ -9653,6 +9650,7 @@
 0.0.0.0 cache-netflix-com.pages.dev
 0.0.0.0 cachegoogle.ss74.workers.dev
 0.0.0.0 cachegrid.ru
+0.0.0.0 cadastronetempresas.app
 0.0.0.0 caillourobloxid.pages.dev
 0.0.0.0 caixa-applesupport.com.ph
 0.0.0.0 caixa-expresso-online.pages.dev
@@ -14655,6 +14653,7 @@
 0.0.0.0 cut2fxpd-teiegarm.pages.dev
 0.0.0.0 cuteboyrobloxavatars.pages.dev
 0.0.0.0 cuucoin-login.pages.dev
+0.0.0.0 cuz-bank-bsi.com
 0.0.0.0 cv-letsvpn.com.cn
 0.0.0.0 cw-trezor-suite.pages.dev
 0.0.0.0 cw-w-hatsapp.com.cn
@@ -25377,7 +25376,6 @@
 0.0.0.0 fullcopecqact.top
 0.0.0.0 fullcopecqr.top
 0.0.0.0 fun-suite-en-us-trez.pages.dev
-0.0.0.0 fun-whatapp.hl.cn
 0.0.0.0 fundacao-santander-site.pages.dev
 0.0.0.0 funnyrobloxsongids2024.pages.dev
 0.0.0.0 funwhatsappsex.pages.dev
@@ -25410,7 +25408,6 @@
 0.0.0.0 fzxtla5o-teiegarm.pages.dev
 0.0.0.0 g-h-whats-app.hl.cn
 0.0.0.0 g-mini-login.pages.dev
-0.0.0.0 g-ou-whatsapp.com.cn
 0.0.0.0 g-uide-live-ledgr-com.pages.dev
 0.0.0.0 g5kekfol-teiegarm.pages.dev
 0.0.0.0 g5whatsappsex.pages.dev
@@ -25481,11 +25478,9 @@
 0.0.0.0 gb-whatsapp.in
 0.0.0.0 gb-whatsapp.pages.dev
 0.0.0.0 gbn-trezor-suite.pages.dev
-0.0.0.0 gbwhatsap.app
 0.0.0.0 gbwhatsapp-3cq.pages.dev
 0.0.0.0 gbwhatsapp.io.in
 0.0.0.0 gbwhatsapp.pages.dev
-0.0.0.0 gbwhatsapp.xyz
 0.0.0.0 gbwhatsappfree.net
 0.0.0.0 gbwhatsappold.pages.dev
 0.0.0.0 gcash-bpi-transfer.pages.dev
@@ -27938,10 +27933,8 @@
 0.0.0.0 h-at-whatsapp.com.cn
 0.0.0.0 h-ec-whatsapp.com.cn
 0.0.0.0 h-im-whatsapp.com.cn
-0.0.0.0 h-in-whatsapp.com.cn
 0.0.0.0 h-ob-whatsapp.com.cn
 0.0.0.0 h-omepage-trzzor.pages.dev
-0.0.0.0 h-ou-whatsapp.com.cn
 0.0.0.0 h-roobin-hoood-logn.pages.dev
 0.0.0.0 h-w-hatsapp.com.cn
 0.0.0.0 h-webexodus-work.pages.dev
@@ -33139,7 +33132,6 @@
 0.0.0.0 icloud-app-in.ph
 0.0.0.0 icloud-app.center
 0.0.0.0 icloud-apple.es
-0.0.0.0 icloud-apple.sa.com
 0.0.0.0 icloud-appsa.info
 0.0.0.0 icloud-assistance.us
 0.0.0.0 icloud-auth-es.com
@@ -36782,7 +36774,6 @@
 0.0.0.0 istanbulkart.can.re
 0.0.0.0 istart-ledger.pages.dev
 0.0.0.0 istart-trezr-cdn.pages.dev
-0.0.0.0 isupport-apple.info
 0.0.0.0 isupport-help.info
 0.0.0.0 it-notify-17b8-e46drp.pages.dev
 0.0.0.0 it-paypal.vip
@@ -37156,7 +37147,6 @@
 0.0.0.0 izmitunix.net
 0.0.0.0 izv-whatsapp.com.cn
 0.0.0.0 j-1-whats-app.com.cn
-0.0.0.0 j-er-whatsapp.com.cn
 0.0.0.0 j-i-whats-app.hl.cn
 0.0.0.0 j-v-whats-app.com.cn
 0.0.0.0 j-w-hatsapp.com.cn
@@ -37707,7 +37697,6 @@
 0.0.0.0 jutaan-hadiah-dewa618net.pages.dev
 0.0.0.0 juwa-999-apk-download-for-android-no-verification.pages.dev
 0.0.0.0 jv-whatsapp.com.cn
-0.0.0.0 jw-binance.com.cn
 0.0.0.0 jynareth16-1haven.pages.dev
 0.0.0.0 jynareth16-1vault.pages.dev
 0.0.0.0 jyq4vmxz.pages.dev
@@ -37719,7 +37708,6 @@
 0.0.0.0 k-coin-login-co.pages.dev
 0.0.0.0 k-coin-login-us.pages.dev
 0.0.0.0 k-coin-login.pages.dev
-0.0.0.0 k-in-whatsapp.com.cn
 0.0.0.0 k-raken-login.pages.dev
 0.0.0.0 k-ucoin-login.pages.dev
 0.0.0.0 k-ucoinlog-in.pages.dev
@@ -50921,7 +50909,6 @@
 0.0.0.0 lokalna-ofeta32222.sbs
 0.0.0.0 lokalna-ofeta32987.sbs
 0.0.0.0 lokalna-ofeta3333.sbs
-0.0.0.0 lokalna-ofeta34546344.shop
 0.0.0.0 lokalna-ofeta3812.sbs
 0.0.0.0 lokalna-ofeta4.shop
 0.0.0.0 lokalna-ofeta44829063.shop
@@ -54527,7 +54514,6 @@
 0.0.0.0 mtn-banco-support.ph
 0.0.0.0 mudah4d-login-alt.pages.dev
 0.0.0.0 mudah4dclub.mudah4d.club
-0.0.0.0 muffin-whatsapp.com.cn
 0.0.0.0 multichainconnnect.pages.dev
 0.0.0.0 multichainodeauths.pages.dev
 0.0.0.0 multiconnect-metamsk.pages.dev
@@ -57957,7 +57943,6 @@
 0.0.0.0 one-trzr-io-strt.pages.dev
 0.0.0.0 onedrive-1mr.pages.dev
 0.0.0.0 onedrive-7w8.pages.dev
-0.0.0.0 onedrive-account-onboarding-view.document-view-388196375813.eu.cc
 0.0.0.0 onedrive-cloud-online.pages.dev
 0.0.0.0 onedrive-mcloud03.zhimeng.workers.dev
 0.0.0.0 onedrive-microailink.pages.dev
@@ -59542,7 +59527,6 @@
 0.0.0.0 parrox-biz-qentir-282620-etx.pages.dev
 0.0.0.0 parrox-biz-qentir-282620.pages.dev
 0.0.0.0 participants-megaeth.com
-0.0.0.0 partnersupportfacebook.com
 0.0.0.0 parvex-biz-zenqor-282620.pages.dev
 0.0.0.0 parvex-kentol-biz19-selpan-havrex-sp20ct12.pages.dev
 0.0.0.0 parvex-kilron-biz-helrox-falver-sp7ct12.pages.dev
@@ -61846,7 +61830,6 @@
 0.0.0.0 promptmanerixcap-digital.pages.dev
 0.0.0.0 pronik-zelvar-6f80ab-nyhh-hf2406vma.pages.dev
 0.0.0.0 proo-coinbased-lgn-en-io.pages.dev
-0.0.0.0 proposal-curvefinance.icu
 0.0.0.0 proposal-curvefinance.pages.dev
 0.0.0.0 proposal-layerzero.app
 0.0.0.0 proposal-moonwell.finance
@@ -63981,7 +63964,6 @@
 0.0.0.0 schwabstatus.com
 0.0.0.0 sco-ledger-lives.pages.dev
 0.0.0.0 scotiabank.com-signin-service.com
-0.0.0.0 scotiacancel.com
 0.0.0.0 scotiaconnect2fa-verify.com
 0.0.0.0 scotiaonline.pages.dev
 0.0.0.0 scrollairdrop-binance.pages.dev
@@ -74226,7 +74208,6 @@
 0.0.0.0 system-coinbas--ext.pages.dev
 0.0.0.0 system-start-trzor.pages.dev
 0.0.0.0 t-e-whats-app.com.cn
-0.0.0.0 t-en-whatsapp.com.cn
 0.0.0.0 t-im-whatsapp.com.cn
 0.0.0.0 t-mobile-capitalone.com
 0.0.0.0 t-ob-whatsapp.com.cn
@@ -74389,7 +74370,6 @@
 0.0.0.0 teiecalunmn.net
 0.0.0.0 teiecarilm.net
 0.0.0.0 teiecarilmm.net
-0.0.0.0 teiecarinn.net
 0.0.0.0 teiecaronmn.net
 0.0.0.0 teiecbhejd.wiki
 0.0.0.0 teieccjiby.wiki
@@ -74529,7 +74509,6 @@
 0.0.0.0 tejegnaovld.ink
 0.0.0.0 tejegnhpxco.fit
 0.0.0.0 tejegnhpxco.wiki
-0.0.0.0 tejegnhpxco.work
 0.0.0.0 tejegnpbxo.top
 0.0.0.0 tejegnpbxo.wiki
 0.0.0.0 tejegnqszuf.ink
@@ -83333,7 +83312,6 @@
 0.0.0.0 u-live-ledgr-app.pages.dev
 0.0.0.0 u-live-ledgr.pages.dev
 0.0.0.0 u-op-whatsapp.com.cn
-0.0.0.0 u-ou-whatsapp.com.cn
 0.0.0.0 u-phntom.pages.dev
 0.0.0.0 u-uphold-loggi.pages.dev
 0.0.0.0 u-v-whats-app.hl.cn
@@ -85425,6 +85403,7 @@
 0.0.0.0 usbank.docusig.workers.dev
 0.0.0.0 usbankaccountsuspended.pages.dev
 0.0.0.0 usbankpremium.live
+0.0.0.0 usbankverify.com
 0.0.0.0 usbridge-trezo.pages.dev
 0.0.0.0 usd-ledgr-wallet.pages.dev
 0.0.0.0 usd1-worldlibertyfinancial.pages.dev
@@ -85899,6 +85878,7 @@
 0.0.0.0 verify-coinbasehelp-learn.pages.dev
 0.0.0.0 verify-eurobank-id.icu
 0.0.0.0 verify-icloud-profile.pages.dev
+0.0.0.0 verify-icloud.services
 0.0.0.0 verify-mobile-banking-bdo.pages.dev
 0.0.0.0 verify-ndaxx-token.pages.dev
 0.0.0.0 verify-netflix.ser1v.workers.dev
@@ -85908,6 +85888,7 @@
 0.0.0.0 verify.usbank-online.workers.dev
 0.0.0.0 verifydocumentsoutlook6858authentication9xdschdgeasternp.pages.dev
 0.0.0.0 verifydocumentsoutlook6858authentication9xdvvv.pages.dev
+0.0.0.0 verifypaypal303.com
 0.0.0.0 verifysuccessfullvoicemicrosoftcompagesdev.pages.dev
 0.0.0.0 verifytiktok.pages.dev
 0.0.0.0 verifyziegen.de
@@ -88408,7 +88389,6 @@
 0.0.0.0 webcatsdaplapp.pages.dev
 0.0.0.0 webcheckerprofilemailenofficemicrosoftpagesandsecurityhttp.pages.dev
 0.0.0.0 webcoinbase.pages.dev
-0.0.0.0 webcup-whatapp.hl.cn
 0.0.0.0 webdisk-us-paypal.molnarweb.com
 0.0.0.0 webdisk-us-paypal.performance-led.com
 0.0.0.0 webdisk-us-paypal.pingidentity.gen.in
@@ -89528,7 +89508,6 @@
 0.0.0.0 whatsapp-joinnow.pages.dev
 0.0.0.0 whatsapp-jp.eu.cc
 0.0.0.0 whatsapp-jt.com.cn
-0.0.0.0 whatsapp-jv.com
 0.0.0.0 whatsapp-karim-now.pages.dev
 0.0.0.0 whatsapp-kingonlinebook-games.pages.dev
 0.0.0.0 whatsapp-ks.com.cn
@@ -91050,11 +91029,9 @@
 0.0.0.0 xyzverse.pages.dev
 0.0.0.0 xyzversefix.pages.dev
 0.0.0.0 xyzverseioo.pages.dev
-0.0.0.0 y-er-whatsapp.com.cn
 0.0.0.0 y-ib-whatsapp.com.cn
 0.0.0.0 y-im-whatsapp.com.cn
 0.0.0.0 y-iostart-trezer.pages.dev
-0.0.0.0 y-ou-whatsapp.com.cn
 0.0.0.0 y-z-whats-app.hl.cn
 0.0.0.0 y11whatsappsex.pages.dev
 0.0.0.0 y45adf6b-web-telegram-org.pages.dev

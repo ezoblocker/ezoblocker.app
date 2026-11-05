@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 400,070 | Updated: 2026-11-04
+# Domains: 400,059 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -36193,7 +36193,6 @@ ba-lan-vs-ao.nhadepbacgiang.com
 *.bad-ems-spielbank.com.de
 *.bad-fussing-spielbank.com.de
 *.bad-fussingspielbank.de
-*.bad-homburg-casino.com
 *.bad-homburgspielbank.de
 *.bad-oeynhausen-casino.com
 *.bad-pyrmont-spielbank.com.de
@@ -44975,7 +44974,6 @@ ba-lan-vs-ao.nhadepbacgiang.com
 *.bet365ph7.com
 *.bet365ph8.com
 *.bet365pokerbot-com.pages.dev
-*.bet365vietnambet.com
 *.bet365vndbet.com
 *.bet366betting.com
 *.bet385casino.com
@@ -117954,7 +117952,6 @@ casino-max-online-casino-fre.adelaidebeanbags.com.au
 *.catcasino-wji.top
 *.catcasino-wjy.top
 *.catcasino-wkb.top
-*.catcasino-wkg.top
 *.catcasino-wkl.top
 *.catcasino-wmp.top
 *.catcasino-wmt.top
@@ -139878,7 +139875,6 @@ dataportal.ponderful.eu
 *.duffspincasino.uk
 *.duffspincasino.win
 *.duffspincasinologin.com
-*.duisburg-casino.com
 *.duisburg-spielbank.com
 *.duisburg-spielbank.com.de
 *.duisburg-spielbank.de
@@ -145783,10 +145779,12 @@ eventos.duquedecaxias.rj.gov.br
 *.extrabet888net-free-scatter.pages.dev
 *.extrabetadres.com
 *.extrabetadresler.com
+*.extrabetgiris.casino
 *.extrabetgiris.info
 *.extrabetgiris.mobi
 *.extrabetgirisi.com
 *.extrabetgirisimiz.com
+*.extrabetgirislinki.live
 *.extrabethizlierisim.com
 *.extrabetresmi.vip
 *.extrabetresmii.com
@@ -147772,6 +147770,7 @@ eventos.duquedecaxias.rj.gov.br
 *.famefad-mixparlay.pages.dev
 *.famefad-slotgacor.pages.dev
 *.famewex-casino-online.pages.dev
+*.famewex-casino.online
 *.family-casino.com
 *.family-casino.de
 *.family-game-online-casino-be.com
@@ -151665,7 +151664,6 @@ eventos.duquedecaxias.rj.gov.br
 *.forbescasino-cz.org
 *.forbescasino-cz1.org
 *.forbescasino-official.cz
-*.forbescasino-sk.com
 *.forbescasino.at
 *.forbescasino.club
 *.forbescasino.co.at
@@ -174013,7 +174011,6 @@ haku.vainu.com
 *.hermescasinos.pages.dev
 *.hermescasinouk.com
 *.hermespgslot.com
-*.hermesrichesslots.download
 *.hermesvipcasino.org
 *.hernaudedka-casino.com
 *.hernaudedka-casino.cz
@@ -175859,7 +175856,6 @@ haku.vainu.com
 *.hogarsanroque-albaslot.pages.dev
 *.hogeinzetcasino.nl
 *.hohenesyburgcasino.com
-*.hohensyburg-casino.com
 *.hohensyburg-spielbank.com
 *.hohensyburgspielcasino.de
 *.hohokiwin.com
@@ -210809,7 +210805,6 @@ legacy.dillonheraldonline.com
 *.linksitus-slotgacor-qqgaruda777.pages.dev
 *.linksitusbola.com
 *.linksituslotgacor.pages.dev
-*.linksituspokeronline.com
 *.linksitusslot.co
 *.linksitusslot.net
 *.linksitusslot777.co
@@ -231660,7 +231655,6 @@ melbet-kladionica-plv.prirodnikamen.co.rs
 *.melhorescasinosonline.pt
 *.melhorescasinosonline2026.com
 *.melhorescasinosonlineportugal.pt
-*.melhorescasinosonlines.com
 *.melhorescasinosportugal.games
 *.melhorescasinosportugal.pt
 *.melhorescasinosptonline.com
@@ -235441,7 +235435,6 @@ mkzc.sorrelhorse.pl
 *.mm88casino4.net
 *.mm88casino4bet.bet
 *.mm88casino6.net
-*.mm88casino7.net
 *.mm88ddhomebet.com
 *.mm89casino.com
 *.mm8betsportcasino.com
@@ -270028,7 +270021,6 @@ participate.indices-culture.eu
 *.paypal-casinos.uk
 *.paypalcasino-es.pages.dev
 *.paypalcasino.biz
-*.paypalcasino.casino
 *.paypalcasino.co.com
 *.paypalcasino.fi
 *.paypalcasino.gr
@@ -313696,7 +313688,6 @@ sgi.sead.pi.gov.br
 *.shazamonlinecasino.com
 *.shbbetcasinobet.com
 *.shbbethomebet.com
-*.shbet-0.team
 *.shbet-11042025.pages.dev
 *.shbet-80.com
 *.shbet-bangla.net
@@ -313738,7 +313729,6 @@ sgi.sead.pi.gov.br
 *.shbet.digital
 *.shbet.energy
 *.shbet.expert
-*.shbet.feedback
 *.shbet.fm
 *.shbet.foo
 *.shbet.food
@@ -313770,7 +313760,6 @@ sgi.sead.pi.gov.br
 *.shbet.sbs
 *.shbet.so
 *.shbet.st
-*.shbet.sydney
 *.shbet.taxi
 *.shbet.team
 *.shbet.tech

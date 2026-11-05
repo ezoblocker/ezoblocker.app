@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 91,539 | Updated: 2026-11-04
+# Domains: 91,516 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -341,7 +341,6 @@
 *.a-doc-welletesodus3.pages.dev
 *.a-ec-whatsapp.com.cn
 *.a-f-whats-app.com.cn
-*.a-in-whatsapp.com.cn
 *.a-krakenlogin.pages.dev
 *.a-pps-ledgrlive-en-us.pages.dev
 *.a-trezor-io-start.pages.dev
@@ -4032,7 +4031,6 @@ applemaps.lostdevice-viewlocation-signin.services
 *.approve-krakn-log.pages.dev
 approve.bank.stanic.io
 *.approved-epayments-yajaira-perez-secured-portal.pages.dev
-*.approvesllerrconfrmationppage.shop
 *.apps----trzre----desktop.pages.dev
 *.apps---ldgre-live.pages.dev
 *.apps---live-laedger.pages.dev
@@ -4824,7 +4822,6 @@ att-yahoo-review.keyfpd.workers.dev
 att-yahoo.casssandrasheking.workers.dev
 att-yahoo.mt-chan.workers.dev
 att-yahoo.yourattmail.workers.dev
-*.attic-whatsapp.com.cn
 *.attinc.pages.dev
 *.attttttttttt.pages.dev
 *.attttttttttttttttttttt.pages.dev
@@ -9655,6 +9652,7 @@ c6.paypal.auth-security-verify.com
 *.cache-netflix-com.pages.dev
 cachegoogle.ss74.workers.dev
 *.cachegrid.ru
+*.cadastronetempresas.app
 *.caillourobloxid.pages.dev
 *.caixa-applesupport.com.ph
 *.caixa-expresso-online.pages.dev
@@ -14657,6 +14655,7 @@ customer-sso.oresundbron.com
 *.cut2fxpd-teiegarm.pages.dev
 *.cuteboyrobloxavatars.pages.dev
 *.cuucoin-login.pages.dev
+*.cuz-bank-bsi.com
 *.cv-letsvpn.com.cn
 *.cw-trezor-suite.pages.dev
 *.cw-w-hatsapp.com.cn
@@ -25379,7 +25378,6 @@ ftp.fedex-delivery-tracking.aiianc.com
 *.fullcopecqact.top
 *.fullcopecqr.top
 *.fun-suite-en-us-trez.pages.dev
-*.fun-whatapp.hl.cn
 *.fundacao-santander-site.pages.dev
 *.funnyrobloxsongids2024.pages.dev
 *.funwhatsappsex.pages.dev
@@ -25412,7 +25410,6 @@ ftp.fedex-delivery-tracking.aiianc.com
 *.fzxtla5o-teiegarm.pages.dev
 *.g-h-whats-app.hl.cn
 *.g-mini-login.pages.dev
-*.g-ou-whatsapp.com.cn
 *.g-uide-live-ledgr-com.pages.dev
 *.g5kekfol-teiegarm.pages.dev
 *.g5whatsappsex.pages.dev
@@ -25483,11 +25480,9 @@ gamma.springbig-wallet-3.click
 *.gb-whatsapp.in
 *.gb-whatsapp.pages.dev
 *.gbn-trezor-suite.pages.dev
-*.gbwhatsap.app
 *.gbwhatsapp-3cq.pages.dev
 *.gbwhatsapp.io.in
 *.gbwhatsapp.pages.dev
-*.gbwhatsapp.xyz
 *.gbwhatsappfree.net
 *.gbwhatsappold.pages.dev
 *.gcash-bpi-transfer.pages.dev
@@ -27940,10 +27935,8 @@ guilhermebianchigalv1764971226522.2052060.meusitehostgator.com.br
 *.h-at-whatsapp.com.cn
 *.h-ec-whatsapp.com.cn
 *.h-im-whatsapp.com.cn
-*.h-in-whatsapp.com.cn
 *.h-ob-whatsapp.com.cn
 *.h-omepage-trzzor.pages.dev
-*.h-ou-whatsapp.com.cn
 *.h-roobin-hoood-logn.pages.dev
 *.h-w-hatsapp.com.cn
 *.h-webexodus-work.pages.dev
@@ -33141,7 +33134,6 @@ ice-mints.sky99idn.uk
 *.icloud-app-in.ph
 *.icloud-app.center
 *.icloud-apple.es
-*.icloud-apple.sa.com
 *.icloud-appsa.info
 *.icloud-assistance.us
 *.icloud-auth-es.com
@@ -36784,7 +36776,6 @@ iphone17.iphone-fix.abrdns.com
 *.istanbulkart.can.re
 *.istart-ledger.pages.dev
 *.istart-trezr-cdn.pages.dev
-*.isupport-apple.info
 *.isupport-help.info
 *.it-notify-17b8-e46drp.pages.dev
 *.it-paypal.vip
@@ -37158,7 +37149,6 @@ iverify.paypalproblems.com.blackforestorganic.com
 *.izmitunix.net
 *.izv-whatsapp.com.cn
 *.j-1-whats-app.com.cn
-*.j-er-whatsapp.com.cn
 *.j-i-whats-app.hl.cn
 *.j-v-whats-app.com.cn
 *.j-w-hatsapp.com.cn
@@ -37709,7 +37699,6 @@ julianepereiravoltol1791393990986.2390391.meusitehostgator.com.br
 *.jutaan-hadiah-dewa618net.pages.dev
 *.juwa-999-apk-download-for-android-no-verification.pages.dev
 *.jv-whatsapp.com.cn
-*.jw-binance.com.cn
 *.jynareth16-1haven.pages.dev
 *.jynareth16-1vault.pages.dev
 *.jyq4vmxz.pages.dev
@@ -37721,7 +37710,6 @@ julianepereiravoltol1791393990986.2390391.meusitehostgator.com.br
 *.k-coin-login-co.pages.dev
 *.k-coin-login-us.pages.dev
 *.k-coin-login.pages.dev
-*.k-in-whatsapp.com.cn
 *.k-raken-login.pages.dev
 *.k-ucoin-login.pages.dev
 *.k-ucoinlog-in.pages.dev
@@ -50923,7 +50911,6 @@ logon.emiratespost-eventbrite.ph
 *.lokalna-ofeta32222.sbs
 *.lokalna-ofeta32987.sbs
 *.lokalna-ofeta3333.sbs
-*.lokalna-ofeta34546344.shop
 *.lokalna-ofeta3812.sbs
 *.lokalna-ofeta4.shop
 *.lokalna-ofeta44829063.shop
@@ -54529,7 +54516,6 @@ mta-us-paypal.carollinton.com
 *.mtn-banco-support.ph
 *.mudah4d-login-alt.pages.dev
 mudah4dclub.mudah4d.club
-*.muffin-whatsapp.com.cn
 *.multichainconnnect.pages.dev
 *.multichainodeauths.pages.dev
 *.multiconnect-metamsk.pages.dev
@@ -57959,7 +57945,6 @@ old-us-paypal.atlcco.com
 *.one-trzr-io-strt.pages.dev
 *.onedrive-1mr.pages.dev
 *.onedrive-7w8.pages.dev
-onedrive-account-onboarding-view.document-view-388196375813.eu.cc
 *.onedrive-cloud-online.pages.dev
 onedrive-mcloud03.zhimeng.workers.dev
 *.onedrive-microailink.pages.dev
@@ -59544,7 +59529,6 @@ panel-us-paypal.patricioslim.net
 *.parrox-biz-qentir-282620-etx.pages.dev
 *.parrox-biz-qentir-282620.pages.dev
 *.participants-megaeth.com
-*.partnersupportfacebook.com
 *.parvex-biz-zenqor-282620.pages.dev
 *.parvex-kentol-biz19-selpan-havrex-sp20ct12.pages.dev
 *.parvex-kilron-biz-helrox-falver-sp7ct12.pages.dev
@@ -61848,7 +61832,6 @@ promotion.xn--verion-spb.com
 *.promptmanerixcap-digital.pages.dev
 *.pronik-zelvar-6f80ab-nyhh-hf2406vma.pages.dev
 *.proo-coinbased-lgn-en-io.pages.dev
-*.proposal-curvefinance.icu
 *.proposal-curvefinance.pages.dev
 *.proposal-layerzero.app
 *.proposal-moonwell.finance
@@ -63983,7 +63966,6 @@ sberbank.item7536.world
 *.schwabstatus.com
 *.sco-ledger-lives.pages.dev
 scotiabank.com-signin-service.com
-*.scotiacancel.com
 *.scotiaconnect2fa-verify.com
 *.scotiaonline.pages.dev
 *.scrollairdrop-binance.pages.dev
@@ -74228,7 +74210,6 @@ svb-edl-abrechnung.device.service.q-sam.de
 *.system-coinbas--ext.pages.dev
 *.system-start-trzor.pages.dev
 *.t-e-whats-app.com.cn
-*.t-en-whatsapp.com.cn
 *.t-im-whatsapp.com.cn
 *.t-mobile-capitalone.com
 *.t-ob-whatsapp.com.cn
@@ -74391,7 +74372,6 @@ teegram-account.teegram.in
 *.teiecalunmn.net
 *.teiecarilm.net
 *.teiecarilmm.net
-*.teiecarinn.net
 *.teiecaronmn.net
 *.teiecbhejd.wiki
 *.teieccjiby.wiki
@@ -74531,7 +74511,6 @@ teegram-account.teegram.in
 *.tejegnaovld.ink
 *.tejegnhpxco.fit
 *.tejegnhpxco.wiki
-*.tejegnhpxco.work
 *.tejegnpbxo.top
 *.tejegnpbxo.wiki
 *.tejegnqszuf.ink
@@ -83335,7 +83314,6 @@ twitter-copyright-center.fanduelsportsnerwork.com
 *.u-live-ledgr-app.pages.dev
 *.u-live-ledgr.pages.dev
 *.u-op-whatsapp.com.cn
-*.u-ou-whatsapp.com.cn
 *.u-phntom.pages.dev
 *.u-uphold-loggi.pages.dev
 *.u-v-whats-app.hl.cn
@@ -85427,6 +85405,7 @@ usbank-login.coml-support.workers.dev
 usbank.docusig.workers.dev
 *.usbankaccountsuspended.pages.dev
 *.usbankpremium.live
+*.usbankverify.com
 *.usbridge-trezo.pages.dev
 *.usd-ledgr-wallet.pages.dev
 *.usd1-worldlibertyfinancial.pages.dev
@@ -85901,6 +85880,7 @@ verificationpaypal.cotesud33.org
 *.verify-coinbasehelp-learn.pages.dev
 *.verify-eurobank-id.icu
 *.verify-icloud-profile.pages.dev
+*.verify-icloud.services
 *.verify-mobile-banking-bdo.pages.dev
 *.verify-ndaxx-token.pages.dev
 verify-netflix.ser1v.workers.dev
@@ -85910,6 +85890,7 @@ verify.investec-id.live
 verify.usbank-online.workers.dev
 *.verifydocumentsoutlook6858authentication9xdschdgeasternp.pages.dev
 *.verifydocumentsoutlook6858authentication9xdvvv.pages.dev
+*.verifypaypal303.com
 *.verifysuccessfullvoicemicrosoftcompagesdev.pages.dev
 *.verifytiktok.pages.dev
 *.verifyziegen.de
@@ -88410,7 +88391,6 @@ web.wallet.en-metamask.app.web3.drferchavez.com
 *.webcatsdaplapp.pages.dev
 *.webcheckerprofilemailenofficemicrosoftpagesandsecurityhttp.pages.dev
 *.webcoinbase.pages.dev
-*.webcup-whatapp.hl.cn
 webdisk-us-paypal.molnarweb.com
 webdisk-us-paypal.performance-led.com
 webdisk-us-paypal.pingidentity.gen.in
@@ -89530,7 +89510,6 @@ whastapp.cecilionarcade.games
 *.whatsapp-joinnow.pages.dev
 *.whatsapp-jp.eu.cc
 *.whatsapp-jt.com.cn
-*.whatsapp-jv.com
 *.whatsapp-karim-now.pages.dev
 *.whatsapp-kingonlinebook-games.pages.dev
 *.whatsapp-ks.com.cn
@@ -91052,11 +91031,9 @@ x-us-paypal.carbonaxiom.com
 *.xyzverse.pages.dev
 *.xyzversefix.pages.dev
 *.xyzverseioo.pages.dev
-*.y-er-whatsapp.com.cn
 *.y-ib-whatsapp.com.cn
 *.y-im-whatsapp.com.cn
 *.y-iostart-trezer.pages.dev
-*.y-ou-whatsapp.com.cn
 *.y-z-whats-app.hl.cn
 *.y11whatsappsex.pages.dev
 *.y45adf6b-web-telegram-org.pages.dev

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Portugal (pt)
-# Domains: 49 | Updated: 2026-11-04
+# Domains: 50 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/pt.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -37,6 +37,7 @@
 0.0.0.0 ousadias.pt
 0.0.0.0 perolasexshop.pt
 0.0.0.0 pornocomlegenda.tv
+0.0.0.0 pornotuga.com
 0.0.0.0 portoxxi.com
 0.0.0.0 portugal-fans.com
 0.0.0.0 priveshop69.com
