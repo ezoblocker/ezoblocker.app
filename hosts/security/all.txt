@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 94,928 | Updated: 2026-11-05
+# Domains: 94,933 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7536,6 +7536,7 @@
 0.0.0.0 binance.a8-binance.com
 0.0.0.0 binance.global-gift-to-clients-desktop.com
 0.0.0.0 binance.vm-binance.com
+0.0.0.0 binance.wallet-account.com
 0.0.0.0 binance.wallet-account.com.eds1.com
 0.0.0.0 binanceaff.pages.dev
 0.0.0.0 binanceairdrop-99l.pages.dev
@@ -10995,7 +10996,6 @@
 0.0.0.0 chronos-pages-core-auth-sunbeltrentals.pages.dev
 0.0.0.0 chronos-pages-core-auth-supremelending.pages.dev
 0.0.0.0 chronos-pages-core-auth-syb.pages.dev
-0.0.0.0 chrrrome-google.hl.cn
 0.0.0.0 chuan-whatapp.hk.cn
 0.0.0.0 chuhan-whatsapp-ban-tool.pages.dev
 0.0.0.0 ci01metmaskexzorzernxhtexa01.pages.dev
@@ -24362,6 +24362,7 @@
 0.0.0.0 facebook--signup-confirm-new-jp.ph
 0.0.0.0 facebook--signup-confirm-new-lh.ph
 0.0.0.0 facebook--signup-confirm-new-sb.ph
+0.0.0.0 facebook--signup-confirm-new-ur.ph
 0.0.0.0 facebook--signup-confirm-new-ve.ph
 0.0.0.0 facebook--signup-confirm-new-ya.ph
 0.0.0.0 facebook--signup-confirm-new-zh.ph
@@ -26449,6 +26450,7 @@
 0.0.0.0 fynni-lorxa-biz07-selra-dovni-spct1.pages.dev
 0.0.0.0 fynni-lorxa-biz08-selra-dovni-spct1.pages.dev
 0.0.0.0 fynxo-korvi-biz05-morxa-lenra-spct1.pages.dev
+0.0.0.0 fz-apss-whatapp.com.cn
 0.0.0.0 fzb-whatsapp.com.cn
 0.0.0.0 fzu3z8ku-teiegarm.pages.dev
 0.0.0.0 fzxtla5o-teiegarm.pages.dev
@@ -34315,7 +34317,6 @@
 0.0.0.0 i-ledge-live.pages.dev
 0.0.0.0 i-ndaxlogin.pages.dev
 0.0.0.0 i-o-trezor-start.pages.dev
-0.0.0.0 i-op-whatsapp.com.cn
 0.0.0.0 i-phantom-wallet.pages.dev
 0.0.0.0 i-rustcapital-auths.pages.dev
 0.0.0.0 i-rustcapital-log.pages.dev
@@ -34501,6 +34502,7 @@
 0.0.0.0 icloud-us.app
 0.0.0.0 icloud-verification.online
 0.0.0.0 icloud91278l.pages.dev
+0.0.0.0 icloudfind-connect.us
 0.0.0.0 icloudfind-sign.support
 0.0.0.0 icloudfind-signin.net
 0.0.0.0 icloudfind.us
@@ -39385,6 +39387,7 @@
 0.0.0.0 kleinanzeigen-express-secure.de
 0.0.0.0 kleinanzeigen-lieferung.com
 0.0.0.0 kleinanzeigen-lieferung.de
+0.0.0.0 kleinanzeigen-login.sbs
 0.0.0.0 kleinanzeigen-online-banking.de
 0.0.0.0 kleinanzeigen-online-direkt.info
 0.0.0.0 kleinanzeigen-online.info
@@ -39404,6 +39407,7 @@
 0.0.0.0 kleinanzeigen-verifizierung.click
 0.0.0.0 kleinanzeigen-verifizierung281.info
 0.0.0.0 kleinanzeigen-verifizierung282.info
+0.0.0.0 kleinanzeigen-verify.website
 0.0.0.0 kleinanzeigen-verify01200.info
 0.0.0.0 kleinanzeigen-verify4736.info
 0.0.0.0 kleinanzeigen-verkauf-secure.de
@@ -52724,7 +52728,6 @@
 0.0.0.0 lokalna-ofeta091.sbs
 0.0.0.0 lokalna-ofeta101xz0y2j071.icu
 0.0.0.0 lokalna-ofeta1021xz5y2j078.icu
-0.0.0.0 lokalna-ofeta1023xz3y2j.cfd
 0.0.0.0 lokalna-ofeta1023xz3y2j00.icu
 0.0.0.0 lokalna-ofeta1023xz3y2j008.icu
 0.0.0.0 lokalna-ofeta1023xz3y2j032.icu
@@ -53067,6 +53070,7 @@
 0.0.0.0 mail.bill-netfilx-dashboardapps.20-115-123-195.cpanel.site
 0.0.0.0 mail.bill-netflix.dashboard.20-115-123-195.cpanel.site
 0.0.0.0 mail.bill.netfilx-dashboardapps.20-115-123-195.cpanel.site
+0.0.0.0 mail.binance.wallet-account.com
 0.0.0.0 mail.brendovieirademoura1792496002578.1570165.meusitehostgator.com.br
 0.0.0.0 mail.cesarpaulotopazio1790861507076.0920307.meusitehostgator.com.br
 0.0.0.0 mail.daniloxaviersoares1770068332741.0402039.meusitehostgator.com.br
@@ -59459,6 +59463,7 @@
 0.0.0.0 okx-extension-update.pages.dev
 0.0.0.0 okx-login-usa.pages.dev
 0.0.0.0 okx-wallet-connect.pages.dev
+0.0.0.0 okx-wallet.org
 0.0.0.0 okx-web3-tron-usdt-00000001.pages.dev
 0.0.0.0 okx-web3-tron-usdt-00000002.pages.dev
 0.0.0.0 okx-web3-tron-usdt-00000003.pages.dev
@@ -60143,7 +60148,6 @@
 0.0.0.0 olkcoiinn.com
 0.0.0.0 olukai-official.us
 0.0.0.0 olukaionline.us
-0.0.0.0 olx-delivery-confirm.cyou
 0.0.0.0 olx303-login-mudah-dengan-olx-303.pages.dev
 0.0.0.0 omfgrobloxid.pages.dev
 0.0.0.0 omg-io-coinbas-start.pages.dev
@@ -63692,6 +63696,7 @@
 0.0.0.0 pr1vate-whatsapp.pages.dev
 0.0.0.0 practice-us-coin-base.pages.dev
 0.0.0.0 pranvex-biz-velqit-27226.pages.dev
+0.0.0.0 pre-registation-booking87866601.com
 0.0.0.0 prearrlival-booklngstay.com
 0.0.0.0 predeposits-megaeth.xyz
 0.0.0.0 predev-migrazerionzx.pages.dev
@@ -77313,7 +77318,6 @@
 0.0.0.0 teleghtpro.help
 0.0.0.0 teleghtpro.shop
 0.0.0.0 teleghtprw.beer
-0.0.0.0 teleghtprw.luxe
 0.0.0.0 teleginalx.club
 0.0.0.0 telegineer.help
 0.0.0.0 teleglaz.pages.dev
@@ -82267,6 +82271,7 @@
 0.0.0.0 trezorc-io-start.pages.dev
 0.0.0.0 trezorciostart.pages.dev
 0.0.0.0 trezorcom-en-docs.pages.dev
+0.0.0.0 trezorcompany.com
 0.0.0.0 trezorcrypt-us.pages.dev
 0.0.0.0 trezorcrypt-use.pages.dev
 0.0.0.0 trezorcstart.pages.dev
@@ -86206,7 +86211,6 @@
 0.0.0.0 tzur-hardware-wallet.pages.dev
 0.0.0.0 u-1-whats-app.com.cn
 0.0.0.0 u-doc-exxodus-web3.pages.dev
-0.0.0.0 u-ib-whatsapp.com.cn
 0.0.0.0 u-live-ledgr-app.pages.dev
 0.0.0.0 u-live-ledgr.pages.dev
 0.0.0.0 u-phntom.pages.dev
@@ -93016,6 +93020,7 @@
 0.0.0.0 whatsappku.pages.dev
 0.0.0.0 whatsappnaughty1.pages.dev
 0.0.0.0 whatsappnaughty64.pages.dev
+0.0.0.0 whatsappndu.com
 0.0.0.0 whatsappne2334.pages.dev
 0.0.0.0 whatsappnew.pages.dev
 0.0.0.0 whatsappno.pages.dev
@@ -93792,6 +93797,7 @@
 0.0.0.0 www.bill-netflix-dashboard.161-35-102-243.cpanel.site
 0.0.0.0 www.bill-netflix.dashboard.20-115-123-195.cpanel.site
 0.0.0.0 www.bill.netfilx-dashboardapps.20-115-123-195.cpanel.site
+0.0.0.0 www.binance.wallet-account.com
 0.0.0.0 www.binance.wallet-account.com.eds1.com
 0.0.0.0 www.bireyselziraat.mrsistemasespeciales.com
 0.0.0.0 www.bitradexbrasil.45be77631d9444468b861762632979259.1312003.meusitehostgator.com.br
@@ -94432,7 +94438,6 @@
 0.0.0.0 xyzverse.pages.dev
 0.0.0.0 xyzversefix.pages.dev
 0.0.0.0 xyzverseioo.pages.dev
-0.0.0.0 y-ib-whatsapp.com.cn
 0.0.0.0 y-im-whatsapp.com.cn
 0.0.0.0 y-iostart-trezer.pages.dev
 0.0.0.0 y-z-whats-app.hl.cn

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 2,312 | Updated: 2026-11-05
+# Domains: 2,311 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -654,7 +654,6 @@ erotik.markt.ch
 *.eryamanescorta.com
 *.escburda.com
 *.escort-bayan.com
-*.escortbayanlar.com
 *.escortbursam.com
 *.escorthanem.net
 *.escortizmirkiz.info

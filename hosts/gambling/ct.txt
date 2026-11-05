@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 396,007 | Updated: 2026-11-05
+# Domains: 396,023 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -174529,7 +174529,6 @@
 0.0.0.0 holandcasino.com
 0.0.0.0 holandcasino.gr.com
 0.0.0.0 hold-and-win.cc
-0.0.0.0 holdandspinslotsph.top
 0.0.0.0 holdcasino.com
 0.0.0.0 holdem-poker-online-free.pages.dev
 0.0.0.0 holdem-poker-rules.co.uk
@@ -189904,6 +189903,7 @@
 0.0.0.0 joinwaktogel.org
 0.0.0.0 jojo-orjinaladresimiz2026nin-vip.pages.dev
 0.0.0.0 jojobet-71z.pages.dev
+0.0.0.0 jojobet-adresim-tr.org
 0.0.0.0 jojobet-bqb.pages.dev
 0.0.0.0 jojobet-demo.pages.dev
 0.0.0.0 jojobet-directgir-com-7fj.pages.dev
@@ -189911,12 +189911,15 @@
 0.0.0.0 jojobet-giris-online.pages.dev
 0.0.0.0 jojobet-hizligir-tr.online
 0.0.0.0 jojobet-official.com
+0.0.0.0 jojobet-orijinal-adres.com
 0.0.0.0 jojobet-resmi-girisi-com.pages.dev
 0.0.0.0 jojobet-resmitrgiris.com
+0.0.0.0 jojobet-sonadresix.icu
 0.0.0.0 jojobet-tr.com
 0.0.0.0 jojobet-turkiyeadresi-com.pages.dev
 0.0.0.0 jojobet.asia
 0.0.0.0 jojobet.cc
+0.0.0.0 jojobet.llc
 0.0.0.0 jojobet.ml
 0.0.0.0 jojobet.pw
 0.0.0.0 jojobet.world
@@ -189928,18 +189931,28 @@
 0.0.0.0 jojobetbra.com.br
 0.0.0.0 jojobetci.vip
 0.0.0.0 jojobetespana.shop
+0.0.0.0 jojobetgamecafe.com
+0.0.0.0 jojobetgercekgiris.com
 0.0.0.0 jojobetgift.com
 0.0.0.0 jojobetgiris-2026.com
 0.0.0.0 jojobetgiris-28g.pages.dev
 0.0.0.0 jojobetgiris.win
 0.0.0.0 jojobetgiris.xyz
+0.0.0.0 jojobetgiris13.com
+0.0.0.0 jojobetgirisyap.vip
 0.0.0.0 jojobetguncelgiris-blog.pages.dev
 0.0.0.0 jojobetguncelgiris.forum
+0.0.0.0 jojobetguncelsite.com
+0.0.0.0 jojobethoca2026.com
+0.0.0.0 jojobetin.vip
 0.0.0.0 jojobetjogo.com
 0.0.0.0 jojobetmob.com
 0.0.0.0 jojobetramazanbonusu.vip
 0.0.0.0 jojobetttt.pages.dev
+0.0.0.0 jojobettv2.com
+0.0.0.0 jojobettv3.com
 0.0.0.0 jojobetwin.pages.dev
+0.0.0.0 jojobetyenilenmis-giris.com
 0.0.0.0 jojocasino.uk
 0.0.0.0 jojocasino.uk.net
 0.0.0.0 jojofuncouk-pisangbet.pages.dev
@@ -190483,6 +190496,7 @@
 0.0.0.0 jokerbetcasino.mx
 0.0.0.0 jokerbetcasino.net
 0.0.0.0 jokerbetcasino.org
+0.0.0.0 jokerbetcasino.ro
 0.0.0.0 jokerbetcasino.uk
 0.0.0.0 jokerbetcasinocz-com-38be72fe.pages.dev
 0.0.0.0 jokerbetcasinoslots.co
@@ -192212,6 +192226,7 @@
 0.0.0.0 joycasino609.top
 0.0.0.0 joycasino77.com
 0.0.0.0 joycasino8.site
+0.0.0.0 joycasino83.sbs
 0.0.0.0 joycasino9.site
 0.0.0.0 joycasino93378.top
 0.0.0.0 joycasino9348.top
@@ -192450,6 +192465,7 @@
 0.0.0.0 jtaylorcasino.com
 0.0.0.0 jtcasino.xyz
 0.0.0.0 jtcasinoplay.life
+0.0.0.0 jtl.casino
 0.0.0.0 jtstage.xyz
 0.0.0.0 jttcasino.pro
 0.0.0.0 jtwinbet.com
@@ -197650,6 +197666,7 @@
 0.0.0.0 kingbet9.it.com
 0.0.0.0 kingbet9.store
 0.0.0.0 kingbet9.today
+0.0.0.0 kingbet9.website
 0.0.0.0 kingbet9.zone
 0.0.0.0 kingbet918.com
 0.0.0.0 kingbet96.app
@@ -287777,7 +287794,6 @@
 0.0.0.0 quatrocasinoonline-at.com
 0.0.0.0 quatrocasinoonline.app
 0.0.0.0 quatrocasinoonline.co.uk
-0.0.0.0 quatrocasinoquebec.com
 0.0.0.0 quatrocasinoreview.com
 0.0.0.0 quatrocasinos-at.com
 0.0.0.0 quatrocasinos-austria.at

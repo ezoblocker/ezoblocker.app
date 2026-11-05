@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling
-! Domains: 397,330 | Updated: 2026-11-05
+! Domains: 397,346 | Updated: 2026-11-05
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -175134,7 +175134,6 @@
 ||holandcasino.com^
 ||holandcasino.gr.com^
 ||hold-and-win.cc^
-||holdandspinslotsph.top^
 ||holdcasino.com^
 ||holdem-poker-online-free.pages.dev^
 ||holdem-poker-rules.co.uk^
@@ -190542,6 +190541,7 @@
 ||joinwaktogel.org^
 ||jojo-orjinaladresimiz2026nin-vip.pages.dev^
 ||jojobet-71z.pages.dev^
+||jojobet-adresim-tr.org^
 ||jojobet-bqb.pages.dev^
 ||jojobet-demo.pages.dev^
 ||jojobet-directgir-com-7fj.pages.dev^
@@ -190549,12 +190549,15 @@
 ||jojobet-giris-online.pages.dev^
 ||jojobet-hizligir-tr.online^
 ||jojobet-official.com^
+||jojobet-orijinal-adres.com^
 ||jojobet-resmi-girisi-com.pages.dev^
 ||jojobet-resmitrgiris.com^
+||jojobet-sonadresix.icu^
 ||jojobet-tr.com^
 ||jojobet-turkiyeadresi-com.pages.dev^
 ||jojobet.asia^
 ||jojobet.cc^
+||jojobet.llc^
 ||jojobet.ml^
 ||jojobet.pw^
 ||jojobet.world^
@@ -190566,18 +190569,28 @@
 ||jojobetbra.com.br^
 ||jojobetci.vip^
 ||jojobetespana.shop^
+||jojobetgamecafe.com^
+||jojobetgercekgiris.com^
 ||jojobetgift.com^
 ||jojobetgiris-2026.com^
 ||jojobetgiris-28g.pages.dev^
 ||jojobetgiris.win^
 ||jojobetgiris.xyz^
+||jojobetgiris13.com^
+||jojobetgirisyap.vip^
 ||jojobetguncelgiris-blog.pages.dev^
 ||jojobetguncelgiris.forum^
+||jojobetguncelsite.com^
+||jojobethoca2026.com^
+||jojobetin.vip^
 ||jojobetjogo.com^
 ||jojobetmob.com^
 ||jojobetramazanbonusu.vip^
 ||jojobetttt.pages.dev^
+||jojobettv2.com^
+||jojobettv3.com^
 ||jojobetwin.pages.dev^
+||jojobetyenilenmis-giris.com^
 ||jojocasino.uk^
 ||jojocasino.uk.net^
 ||jojofuncouk-pisangbet.pages.dev^
@@ -191122,6 +191135,7 @@
 ||jokerbetcasino.mx^
 ||jokerbetcasino.net^
 ||jokerbetcasino.org^
+||jokerbetcasino.ro^
 ||jokerbetcasino.uk^
 ||jokerbetcasinocz-com-38be72fe.pages.dev^
 ||jokerbetcasinoslots.co^
@@ -192853,6 +192867,7 @@
 ||joycasino609.top^
 ||joycasino77.com^
 ||joycasino8.site^
+||joycasino83.sbs^
 ||joycasino9.site^
 ||joycasino93378.top^
 ||joycasino9348.top^
@@ -193093,6 +193108,7 @@
 ||jtaylorcasino.com^
 ||jtcasino.xyz^
 ||jtcasinoplay.life^
+||jtl.casino^
 ||jtstage.xyz^
 ||jttcasino.pro^
 ||jtwinbet.com^
@@ -198316,6 +198332,7 @@
 ||kingbet9.it.com^
 ||kingbet9.store^
 ||kingbet9.today^
+||kingbet9.website^
 ||kingbet9.zone^
 ||kingbet918.com^
 ||kingbet96.app^
@@ -288784,7 +288801,6 @@
 ||quatrocasinoonline-at.com^
 ||quatrocasinoonline.app^
 ||quatrocasinoonline.co.uk^
-||quatrocasinoquebec.com^
 ||quatrocasinoreview.com^
 ||quatrocasinos-at.com^
 ||quatrocasinos-austria.at^
