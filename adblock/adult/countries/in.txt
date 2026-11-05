@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, India (in)
-! Domains: 71 | Updated: 2026-11-05
+! Domains: 74 | Updated: 2026-11-05
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/in.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,6 +16,7 @@
 ||desi49.deals^
 ||desi4u.net^
 ||desi52.rest^
+||desibp.guru^
 ||desidekho2.watch^
 ||desihoes.com^
 ||desikaka2.watch^
@@ -39,7 +40,9 @@
 ||intimocart.com^
 ||itspleasure.in^
 ||itspleazure.com^
+||jaminleather.com^
 ||kaamastra.com^
+||kamababa.digital^
 ||kamababa1.watch^
 ||kamasutra.com^
 ||leezus.com^

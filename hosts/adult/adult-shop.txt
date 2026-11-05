@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,334 | Updated: 2026-11-05
+# Domains: 1,339 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -20,6 +20,7 @@
 0.0.0.0 69shop.cz
 0.0.0.0 8989usagiya.co.jp
 0.0.0.0 aaaa.in.ua
+0.0.0.0 aashop.co.kr
 0.0.0.0 academy.sormas.org
 0.0.0.0 adamandeva.shop
 0.0.0.0 adamandevefranchise.com
@@ -308,6 +309,7 @@
 0.0.0.0 elartedelplacer.com
 0.0.0.0 elegantyou.com.pk
 0.0.0.0 elektro-motor.cz
+0.0.0.0 eligetujuguete.com
 0.0.0.0 elite-sexshop.ru
 0.0.0.0 ellipselingerie.com
 0.0.0.0 elmazen.com
@@ -477,6 +479,7 @@
 0.0.0.0 itspleasure.in
 0.0.0.0 itspleazure.com
 0.0.0.0 jaloo.es
+0.0.0.0 jaminleather.com
 0.0.0.0 jamisonmeats.com
 0.0.0.0 japijane.cl
 0.0.0.0 javtoys.com
@@ -550,6 +553,7 @@
 0.0.0.0 lescapricesdalice.fr
 0.0.0.0 lesfoliesducoeur.com
 0.0.0.0 lextase.be
+0.0.0.0 liberatorshop.eu
 0.0.0.0 libidi.com.br
 0.0.0.0 librerialuces.com
 0.0.0.0 liebenswert.at
@@ -1279,6 +1283,7 @@
 0.0.0.0 verdener-auktion-online.com
 0.0.0.0 viamax.eu
 0.0.0.0 viamax.se
+0.0.0.0 viamaxgroup.com
 0.0.0.0 vibrations.gr
 0.0.0.0 vibrator.pk
 0.0.0.0 vibratorsetb.com

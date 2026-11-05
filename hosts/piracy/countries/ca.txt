@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Canada (ca)
-# Domains: 34 | Updated: 2026-11-05
+# Domains: 35 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/ca.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -20,6 +20,7 @@
 0.0.0.0 iptvcanada.tv
 0.0.0.0 iptvcanadacofficiel.ca
 0.0.0.0 iptvcanadian.com
+0.0.0.0 istreameast.work
 0.0.0.0 mangadex.dev
 0.0.0.0 methstreams.digital
 0.0.0.0 mystreameast.fun

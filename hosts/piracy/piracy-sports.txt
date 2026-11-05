@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 425 | Updated: 2026-11-05
+# Domains: 429 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -68,6 +68,7 @@
 0.0.0.0 estonia.klaudiasimiot.pl
 0.0.0.0 famemma.tv
 0.0.0.0 fankoora.biz
+0.0.0.0 filmdozu.com
 0.0.0.0 filmora.wondershare.kr
 0.0.0.0 firstrows.net
 0.0.0.0 firstrowsports.be
@@ -133,6 +134,7 @@
 0.0.0.0 info.rugbypass.tv
 0.0.0.0 iptv-new-york.lionott.vu
 0.0.0.0 isportsurge.ws
+0.0.0.0 istreameast.work
 0.0.0.0 jestyayin.org
 0.0.0.0 jestyayingiris11.xyz
 0.0.0.0 jobboard.simplifaster.com
@@ -314,6 +316,7 @@
 0.0.0.0 streameasttop.com
 0.0.0.0 streameastv2.buzz
 0.0.0.0 streameastv2.mom
+0.0.0.0 streameastxyz.blog
 0.0.0.0 streamed.cyou
 0.0.0.0 streamonsport.blog
 0.0.0.0 streamonsport.lat
@@ -381,6 +384,7 @@
 0.0.0.0 tv.makeevka.com
 0.0.0.0 tv.sfl.ch
 0.0.0.0 tvsiir.co
+0.0.0.0 uimzxt.drapichrusty.pl
 0.0.0.0 v2-sportsurge.buzz
 0.0.0.0 vegasportsnetwork.com
 0.0.0.0 vendas.falenet.com.br

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, adult shops
-! Domains: 1,334 | Updated: 2026-11-05
+! Domains: 1,339 | Updated: 2026-11-05
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/adult-shop.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -20,6 +20,7 @@
 ||69shop.cz^
 ||8989usagiya.co.jp^
 ||aaaa.in.ua^
+||aashop.co.kr^
 |academy.sormas.org^
 ||adamandeva.shop^
 ||adamandevefranchise.com^
@@ -308,6 +309,7 @@
 ||elartedelplacer.com^
 ||elegantyou.com.pk^
 ||elektro-motor.cz^
+||eligetujuguete.com^
 ||elite-sexshop.ru^
 ||ellipselingerie.com^
 ||elmazen.com^
@@ -477,6 +479,7 @@
 ||itspleasure.in^
 ||itspleazure.com^
 ||jaloo.es^
+||jaminleather.com^
 ||jamisonmeats.com^
 ||japijane.cl^
 ||javtoys.com^
@@ -550,6 +553,7 @@
 ||lescapricesdalice.fr^
 ||lesfoliesducoeur.com^
 ||lextase.be^
+||liberatorshop.eu^
 ||libidi.com.br^
 ||librerialuces.com^
 ||liebenswert.at^
@@ -1279,6 +1283,7 @@
 ||verdener-auktion-online.com^
 ||viamax.eu^
 ||viamax.se^
+||viamaxgroup.com^
 ||vibrations.gr^
 ||vibrator.pk^
 ||vibratorsetb.com^

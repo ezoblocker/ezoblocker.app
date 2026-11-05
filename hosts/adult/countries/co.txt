@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Colombia (co)
-# Domains: 42 | Updated: 2026-11-05
+# Domains: 43 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/co.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,6 +13,7 @@
 0.0.0.0 climax.com.co
 0.0.0.0 distrisexcolombia.com
 0.0.0.0 dulcegatita.com.co
+0.0.0.0 eligetujuguete.com
 0.0.0.0 ellipselingerie.com
 0.0.0.0 eroticfeel.com
 0.0.0.0 erotikashop.cl

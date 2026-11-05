@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,265 | Updated: 2026-11-05
+# Domains: 1,270 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -409,6 +409,7 @@
 0.0.0.0 escortsireland.eu
 0.0.0.0 escortsites.org
 0.0.0.0 escortsnearby.com
+0.0.0.0 escortsx.com.au
 0.0.0.0 escortutrecht.nl
 0.0.0.0 esohbet.net
 0.0.0.0 esohbet.net.tr
@@ -586,6 +587,7 @@
 0.0.0.0 intim-vin.com
 0.0.0.0 intim-zp.net
 0.0.0.0 intimcity.com
+0.0.0.0 intimcity.sale
 0.0.0.0 intimdating.ru
 0.0.0.0 intimok.com
 0.0.0.0 ireland.redhotsocial.com
@@ -670,6 +672,7 @@
 0.0.0.0 login-sugarbook.rivernotebook.com
 0.0.0.0 london-escort-agency.co.uk
 0.0.0.0 london-ont.bonepage.com
+0.0.0.0 london.5escorts.com
 0.0.0.0 london.chaosads.co.uk
 0.0.0.0 londonescortguide.com
 0.0.0.0 loveplanet.ru
@@ -915,6 +918,7 @@
 0.0.0.0 prostitutkivlg.com
 0.0.0.0 prostitutkivoronezh.com
 0.0.0.0 przeznaczeni.pl
+0.0.0.0 pub15xd6wt.thomisdeva.blog
 0.0.0.0 publi24.ro
 0.0.0.0 puebla.seductoras.mx
 0.0.0.0 puk.oobben.com
@@ -1151,6 +1155,7 @@
 0.0.0.0 topescortbabes.com
 0.0.0.0 topescortitalia.it
 0.0.0.0 topescortnews.eu
+0.0.0.0 topescortworld.com
 0.0.0.0 toronto.bonepage.com
 0.0.0.0 torrenteagle.com
 0.0.0.0 townsville.5escorts.com

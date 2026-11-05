@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, Japan (jp)
-! Domains: 33 | Updated: 2026-11-05
+! Domains: 36 | Updated: 2026-11-05
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/countries/jp.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -15,11 +15,14 @@
 |dovik.ferit.hr^
 |entertainment.iid.co.jp^
 ||footybite.forum^
+|gogo.anime.com.ro^
 ||gogoanime.com.bz^
 ||gogoanimes.co.im^
 ||hesgoal.co.uk^
 |jp.videoproc.com^
 |katei.labo.jp^
+|kiss.anime.com.ro^
+||kissanimetv.dk^
 |lec.medilink-study.com^
 |lifestyle.assist-all.co.jp^
 ||livekoora.com^

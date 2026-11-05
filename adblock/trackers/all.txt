@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Trackers
-! Domains: 703 | Updated: 2026-11-05
+! Domains: 705 | Updated: 2026-11-05
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/trackers/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -161,6 +161,7 @@
 ||cookiesyncgotham.com^
 ||corewell-health-domain.oursprivacy.com^
 ||cptrack.de^
+||custom-track.segmetrics.io^
 ||custom.plausible.io^
 ||custom.withcabin.com^
 ||customer.etracker.com^
@@ -395,6 +396,7 @@
 ||sgtm-rp-imaging.woolytrack.org^
 ||sgtm-vxb-ball-bearings.woolytrack.org^
 ||sgtm-xcnyxh-rb.woolytrack.org^
+||sgtm.advatise.nl^
 ||sgtm.by^
 ||sgtm.nextanalytica.io^
 ||signal.contimo.app^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Ireland (ie)
-# Domains: 30 | Updated: 2026-11-05
+# Domains: 31 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/ie.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -31,6 +31,7 @@
 0.0.0.0 sportsstream.us
 0.0.0.0 streamcode.fit
 0.0.0.0 streameast.beauty
+0.0.0.0 streameastxyz.blog
 0.0.0.0 streamsport.ie
 0.0.0.0 torrentfreak.com
 0.0.0.0 vipbox1.com

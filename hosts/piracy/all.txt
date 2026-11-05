@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,113 | Updated: 2026-11-05
+# Domains: 1,122 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -362,6 +362,7 @@
 0.0.0.0 gnulahd.casa
 0.0.0.0 gnulahd.watch
 0.0.0.0 gnulas.lat
+0.0.0.0 gogo.anime.com.ro
 0.0.0.0 gogoanime.biz.in
 0.0.0.0 gogoanime.by
 0.0.0.0 gogoanime.co.bz
@@ -461,6 +462,7 @@
 0.0.0.0 isaiminimoviesda.com
 0.0.0.0 isaiminix.com
 0.0.0.0 isportsurge.ws
+0.0.0.0 istreameast.work
 0.0.0.0 it-ord.computersweden.se
 0.0.0.0 jateng.bulat.co.id
 0.0.0.0 jestyayin.org
@@ -500,11 +502,13 @@
 0.0.0.0 kinokrads.com
 0.0.0.0 kinozal-tv.com
 0.0.0.0 kinozal.me
+0.0.0.0 kiss.anime.com.ro
 0.0.0.0 kissanime-offcial.cyou
 0.0.0.0 kissanime.ax
 0.0.0.0 kissanime.com.cv
 0.0.0.0 kissanime.lu
 0.0.0.0 kissanime.quest
+0.0.0.0 kissanimetv.dk
 0.0.0.0 kissanimetv.lol
 0.0.0.0 kmanga.kodansha.com
 0.0.0.0 kooora.com
@@ -550,6 +554,7 @@
 0.0.0.0 lichphimmoi.com
 0.0.0.0 lifestyle.assist-all.co.jp
 0.0.0.0 limetorrent.net
+0.0.0.0 limetorrents.tv
 0.0.0.0 link.oploverz.ltd
 0.0.0.0 live.pcb.com.pk
 0.0.0.0 liveball.sx
@@ -734,6 +739,7 @@
 0.0.0.0 phimmoic.nl
 0.0.0.0 phimmoic.ws
 0.0.0.0 phimmoichill.autos
+0.0.0.0 phimmoii.bid
 0.0.0.0 phimmoii.my
 0.0.0.0 phimmoiw.to
 0.0.0.0 phutu.forumvi.com
@@ -913,6 +919,7 @@
 0.0.0.0 streameasttop.com
 0.0.0.0 streameastv2.buzz
 0.0.0.0 streameastv2.mom
+0.0.0.0 streameastxyz.blog
 0.0.0.0 streamed.cyou
 0.0.0.0 streamfab.dvdfab.fr
 0.0.0.0 streamingcommunityz.rip
@@ -966,6 +973,7 @@
 0.0.0.0 tarjetarojatvonline.site
 0.0.0.0 task.joby.com
 0.0.0.0 the-futbollibre.com
+0.0.0.0 thebolly4u.co.in
 0.0.0.0 thenaijaprey.org
 0.0.0.0 thenetnaija.com.ng
 0.0.0.0 thenetnaija.ng
@@ -1013,6 +1021,7 @@
 0.0.0.0 uaserials.my
 0.0.0.0 uaserials.vip
 0.0.0.0 ufilmizle.com
+0.0.0.0 uimzxt.drapichrusty.pl
 0.0.0.0 ultra-realistic-mod.apk.cafe
 0.0.0.0 ultrafilmizle.org
 0.0.0.0 usek-website-dev-h4gzccerh0gyeuf8.a02.azurefd.net

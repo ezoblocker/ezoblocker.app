@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Canada (ca)
-# Domains: 34 | Updated: 2026-11-05
+# Domains: 35 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/ca.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -24,6 +24,7 @@
 0.0.0.0 leolist.co
 0.0.0.0 leolist.vc
 0.0.0.0 london-ont.bonepage.com
+0.0.0.0 london.5escorts.com
 0.0.0.0 ottawa.bonepage.com
 0.0.0.0 regina.bonepage.com
 0.0.0.0 saskatoon.bonepage.com

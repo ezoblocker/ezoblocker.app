@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 185 | Updated: 2026-11-05
+# Domains: 187 | Updated: 2026-11-05
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -54,6 +54,7 @@ cnci.tech
 compooonents.com
 connect.bonicbd.com
 corewell-health-domain.oursprivacy.com
+custom-track.segmetrics.io
 custom.plausible.io
 custom.withcabin.com
 customer.etracker.com
@@ -127,6 +128,7 @@ sgtm-ixzz0u-43.woolytrack.org
 sgtm-rp-imaging.woolytrack.org
 sgtm-vxb-ball-bearings.woolytrack.org
 sgtm-xcnyxh-rb.woolytrack.org
+sgtm.advatise.nl
 sgtm.by
 sgtm.nextanalytica.io
 simpleanalyticsexternal.com

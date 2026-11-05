@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 1,113 | Updated: 2026-11-05
+! Domains: 1,122 | Updated: 2026-11-05
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -362,6 +362,7 @@
 ||gnulahd.casa^
 ||gnulahd.watch^
 ||gnulas.lat^
+|gogo.anime.com.ro^
 ||gogoanime.biz.in^
 ||gogoanime.by^
 ||gogoanime.co.bz^
@@ -461,6 +462,7 @@
 ||isaiminimoviesda.com^
 ||isaiminix.com^
 ||isportsurge.ws^
+||istreameast.work^
 |it-ord.computersweden.se^
 |jateng.bulat.co.id^
 ||jestyayin.org^
@@ -500,11 +502,13 @@
 ||kinokrads.com^
 ||kinozal-tv.com^
 ||kinozal.me^
+|kiss.anime.com.ro^
 ||kissanime-offcial.cyou^
 ||kissanime.ax^
 ||kissanime.com.cv^
 ||kissanime.lu^
 ||kissanime.quest^
+||kissanimetv.dk^
 ||kissanimetv.lol^
 |kmanga.kodansha.com^
 ||kooora.com^
@@ -550,6 +554,7 @@
 ||lichphimmoi.com^
 |lifestyle.assist-all.co.jp^
 ||limetorrent.net^
+||limetorrents.tv^
 |link.oploverz.ltd^
 |live.pcb.com.pk^
 ||liveball.sx^
@@ -734,6 +739,7 @@
 ||phimmoic.nl^
 ||phimmoic.ws^
 ||phimmoichill.autos^
+||phimmoii.bid^
 ||phimmoii.my^
 ||phimmoiw.to^
 |phutu.forumvi.com^
@@ -913,6 +919,7 @@
 ||streameasttop.com^
 ||streameastv2.buzz^
 ||streameastv2.mom^
+||streameastxyz.blog^
 ||streamed.cyou^
 |streamfab.dvdfab.fr^
 ||streamingcommunityz.rip^
@@ -966,6 +973,7 @@
 ||tarjetarojatvonline.site^
 |task.joby.com^
 ||the-futbollibre.com^
+||thebolly4u.co.in^
 ||thenaijaprey.org^
 ||thenetnaija.com.ng^
 ||thenetnaija.ng^
@@ -1013,6 +1021,7 @@
 ||uaserials.my^
 ||uaserials.vip^
 ||ufilmizle.com^
+|uimzxt.drapichrusty.pl^
 |ultra-realistic-mod.apk.cafe^
 ||ultrafilmizle.org^
 |usek-website-dev-h4gzccerh0gyeuf8.a02.azurefd.net^
