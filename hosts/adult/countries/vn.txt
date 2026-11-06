@@ -1,15 +1,19 @@
 # Title: EZOBLOCKER Adult, Vietnam (vn)
-# Domains: 112 | Updated: 2026-11-06
+# Domains: 120 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 123yeu.com
 0.0.0.0 arkana-muebles.com
 0.0.0.0 baocaosu249.com
 0.0.0.0 baocaosuhanoi.vn
 0.0.0.0 baocaosuhp.com
 0.0.0.0 benyu.qom.vn
 0.0.0.0 chuyentinhvn.webflow.io
+0.0.0.0 cineclate.com
+0.0.0.0 clipfull.blog
+0.0.0.0 cliphay.blog
 0.0.0.0 cliphot3x.blog
 0.0.0.0 cliphot69.cloud
 0.0.0.0 cliphotviet.pics
@@ -18,6 +22,7 @@
 0.0.0.0 cliphotvnz.cyou
 0.0.0.0 cliphotvnz.monster
 0.0.0.0 clipphot69.xyz
+0.0.0.0 clipvip.blog
 0.0.0.0 cophimsexhay.com
 0.0.0.0 cumshopsextoy.com
 0.0.0.0 dochoinam.com
@@ -36,6 +41,7 @@
 0.0.0.0 i.clipviet.blog
 0.0.0.0 javhdvn.org
 0.0.0.0 javnhe.tv
+0.0.0.0 javsuong.blog
 0.0.0.0 khocliphot.com
 0.0.0.0 kimonohana.com
 0.0.0.0 lovestore.vn
@@ -57,6 +63,7 @@
 0.0.0.0 phimsexhaynon.com
 0.0.0.0 phimsexhayx.blog
 0.0.0.0 phimsexhayxinh.com
+0.0.0.0 phimsexmoi.cc
 0.0.0.0 phimsextapthe69.com
 0.0.0.0 phimsexviet128.com
 0.0.0.0 phimsexvietsubx.blog
@@ -72,6 +79,7 @@
 0.0.0.0 sexhotviet.com
 0.0.0.0 sexngot.blog
 0.0.0.0 sexshop18.vn
+0.0.0.0 sexsuong.blog
 0.0.0.0 sextop1vn.click
 0.0.0.0 sextoyeu.com
 0.0.0.0 sextoyin.com

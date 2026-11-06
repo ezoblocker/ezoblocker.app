@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 1,122 | Updated: 2026-11-06
+! Domains: 1,131 | Updated: 2026-11-06
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -214,7 +214,10 @@
 ||diziizle.wiki^
 ||dizilab.cc^
 ||dizilab.to^
+||dizipal1825.com^
+||dizipal3009.com^
 ||dizipaliptv.com.tr^
+||dizipalorjinal19.com^
 ||diziyou.info^
 ||diziyou.one^
 ||diziyou.vip^
@@ -270,6 +273,7 @@
 ||filmix.moe^
 ||filmix.my^
 ||filmizle.ink^
+||filmizlebabam.icu^
 ||filmizledim.com^
 ||filmmakinesi.to^
 |filmora.wondershare.kr^
@@ -325,6 +329,7 @@
 ||futbol-libre.cam^
 ||futbolenlatv.es^
 ||futbolenvivocolombia.com^
+||futbolenvivomexico.com^
 ||futbolete.com^
 ||futbollibre.kim^
 ||futbollibreenvivo.net^
@@ -406,6 +411,7 @@
 ||hdrezka.my^
 ||hdrezka.pl^
 ||hellspy.to^
+||hemenfilmizle.icu^
 ||hesgoal.co.uk^
 ||hesgoal.ltd^
 ||hesgoal.plus^
@@ -436,6 +442,7 @@
 ||iptvcanada.io^
 ||iptvcanada.tv^
 ||iptvcanadacofficiel.ca^
+||iptvcanadaofficiel.ca^
 ||iptvcanadian.com^
 ||iptvespanapremium.com^
 ||iptvespanatv.pro^
@@ -918,6 +925,7 @@
 ||streameastonline.com^
 ||streameasttop.com^
 ||streameastv2.buzz^
+||streameastv2.click^
 ||streameastv2.mom^
 ||streameastxyz.blog^
 ||streamed.cyou^
@@ -977,6 +985,7 @@
 ||thenaijaprey.org^
 ||thenetnaija.com.ng^
 ||thenetnaija.ng^
+|tipperary.gaa.ie^
 ||tirexo.al^
 ||today-yalla-shoot.com^
 ||toonitalia.space^

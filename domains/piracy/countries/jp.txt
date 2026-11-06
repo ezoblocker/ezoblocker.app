@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Japan (jp)
-# Domains: 36 | Updated: 2026-11-06
+# Domains: 37 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -33,6 +33,7 @@ pandora.net
 rawdevart.art
 sp.supercell.jp
 streameast.gold
+streameastv2.click
 sukebei.nyaa.mom
 totalsport.fans
 vendas.falenet.com.br

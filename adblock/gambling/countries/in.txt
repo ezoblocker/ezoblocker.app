@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, India (in)
-! Domains: 34 | Updated: 2026-11-06
+! Domains: 37 | Updated: 2026-11-06
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/in.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,7 +16,9 @@
 ||gobet.com.au^
 ||indibetz.in^
 ||jeetwin.org.in^
+||jeetwin188.net^
 ||justgamblers.com^
+||liveblackjack.co^
 ||mahadevbook.game^
 |mumbai.infoisinfo.co.in^
 |network.crcna.org^
@@ -36,5 +38,6 @@
 ||tigerexch.ing^
 ||tigerexch.si^
 ||wazamba-kaszino.com^
+||wazambabet-si.com^
 ||world-777.site^
 ||world777.now^

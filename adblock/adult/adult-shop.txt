@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, adult shops
-! Domains: 1,339 | Updated: 2026-11-06
+! Domains: 1,353 | Updated: 2026-11-06
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/adult-shop.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 ||1001noites.com^
 ||112sexshop.com^
 ||123sexo.cl^
+||123yeu.com^
 ||18plus.com.ua^
 ||1a-erotikshops.de^
 ||1advd.ch^
@@ -132,6 +133,7 @@
 ||bestofeugene.com^
 ||bestvibe.pk^
 ||beus.com.br^
+||beyourlover.co.jp^
 |bid.bertoiaauctions.com^
 ||big-toys.com.ua^
 ||bitkiselshop.com.tr^
@@ -151,6 +153,7 @@
 ||bousens.com^
 ||boutique-bizarre.de^
 ||boutique-erotique.fr^
+||boutiqueaphrodite.ca^
 ||boutiqueduplaisir.fr^
 ||boutiqueerotica.com.uy^
 ||boutiqueluxuria.pt^
@@ -306,6 +309,7 @@
 ||eisen-herz.ch^
 ||eisenherz.ch^
 ||eisenherzglobal.de^
+||el-evolution.com^
 ||elartedelplacer.com^
 ||elegantyou.com.pk^
 ||elektro-motor.cz^
@@ -331,6 +335,7 @@
 ||erotic-shop.ro^
 ||erotic24.ro^
 ||eroticae.com^
+||eroticaintimates.com^
 ||eroticavip.ru^
 ||eroticcity.cz^
 ||eroticfeel.com^
@@ -369,6 +374,7 @@
 ||extasyshops.ca^
 ||factormujer.com^
 ||fairyloot.com^
+||fantasiesboutique.com^
 ||fantasmesecret.be^
 ||fantasygiftsnj.com^
 ||fantasylugano.ch^
@@ -395,6 +401,7 @@
 ||fogododesejo.pt^
 ||folsomeurope.berlin^
 ||foxietoy.com^
+||fraum.me^
 ||freakyfun.in^
 ||freebody.co.kr^
 ||frixx.pl^
@@ -548,6 +555,7 @@
 ||lavel.com.ua^
 ||lcwaikiki.de^
 ||leezus.com^
+||lefrivole.ru^
 ||lejournalintime.com^
 ||lelo.com.pk^
 ||lescapricesdalice.fr^
@@ -557,6 +565,7 @@
 ||libidi.com.br^
 ||librerialuces.com^
 ||liebenswert.at^
+||lilashop.com.tr^
 ||lilaw.pl^
 ||lilith-toys.com^
 ||linfini.co^
@@ -1060,6 +1069,7 @@
 ||sextoyin.com^
 ||sextoyinhyderabad.com^
 ||sextoypk.com^
+||sextoyreviews.uk^
 ||sextoys-india.shop^
 ||sextoys.cloudns.be^
 ||sextoys.co.uk^
@@ -1160,6 +1170,7 @@
 ||speeltjes.nl^
 ||spexter.com^
 ||spicerack.market^
+||stagimu.com^
 ||stagshop.com^
 ||stay-on.co^
 ||steeltoyz.com^
@@ -1240,6 +1251,7 @@
 ||toysecret.it^
 ||toyshub.pk^
 ||toysinpakistan.pk^
+||toysinpakistani.pk^
 ||toysrus.co.th^
 ||toytastisch.de^
 ||toyzpakistan.com^
@@ -1302,6 +1314,7 @@
 ||vuxen.dk^
 ||vuxen.se^
 ||vuxenkul.se^
+||w-russia.ru^
 ||we-vibe.com^
 ||webac-vibro.com^
 ||welcomelover.com^
@@ -1343,3 +1356,4 @@
 ||zolta.pl^
 ||zonaerotica.com.co^
 ||zonahotsexshop.cl^
+|zsh.caucidenic.blog^

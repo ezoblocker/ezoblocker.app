@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Russia (ru)
-# Domains: 34 | Updated: 2026-11-06
+# Domains: 37 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/adult/countries/ru.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 elite-sexshop.ru
 erolaif.ru
 eros55.ru
+fraum.me
 intim-market.ru
 intimestetik.ru
 intimoamore.ru
@@ -16,6 +17,7 @@ kazanova.shop
 kazanova.su
 kirov.fooby.ru
 kras-sex.ru
+lefrivole.ru
 lejournalintime.com
 love-toys.ru
 lovemarket.net
@@ -38,3 +40,4 @@ stripmag.ru
 telegram.botlist.ru
 tochka-lubvi.ru
 toy31.ru
+w-russia.ru

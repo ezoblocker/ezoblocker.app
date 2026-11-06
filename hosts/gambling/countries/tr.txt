@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 218 | Updated: 2026-11-06
+# Domains: 221 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 0.0.0.0 1427betvole.com
 0.0.0.0 41betmatik.com
 0.0.0.0 805piabet.com
+0.0.0.0 abfgd.chorc.co.uk
 0.0.0.0 abruzzo.fibrosicistica.it
 0.0.0.0 albenga.youngengineers.org
 0.0.0.0 anadolucasino.blog
@@ -142,6 +143,7 @@
 0.0.0.0 meritkingnet.com
 0.0.0.0 misje.diecezja.pl
 0.0.0.0 mobilbahisdestek1.com
+0.0.0.0 mostbet-mobile.net
 0.0.0.0 mostbet-resmi.co.com
 0.0.0.0 museum.slavgorod.ru
 0.0.0.0 nakitbahis.cam
@@ -180,6 +182,7 @@
 0.0.0.0 shipstampsociety.com
 0.0.0.0 slotsonlinecanada.com
 0.0.0.0 sonbahisgirislinki.live
+0.0.0.0 south.asarecycling.com
 0.0.0.0 spinazonke.io
 0.0.0.0 sugarstilettosstyle.com
 0.0.0.0 superbahis.guncel-giris.org

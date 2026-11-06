@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 619 | Updated: 2026-11-06
+# Domains: 618 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -210,7 +210,6 @@ cdn.dxtech.ai
 *.cdn.madisondsp.com
 *.cdn.om-meta.com
 cdn.orangeclickmedia.com
-*.cdn.r-adimg.com
 *.cdn.rmcbfmadtech.com
 *.cdn.rvty.net
 *.cdn.wearevyde.com

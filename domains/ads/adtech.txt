@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, adtech
-# Domains: 307 | Updated: 2026-11-06
+# Domains: 306 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/ads/adtech.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -120,7 +120,6 @@ cdn.bighappy.co
 cdn.liftoffintl-creatives.io
 cdn.madisondsp.com
 cdn.om-meta.com
-cdn.r-adimg.com
 cdn.rmcbfmadtech.com
 cdn.rvty.net
 cdn.wearevyde.com

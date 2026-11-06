@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Greece (gr)
-# Domains: 33 | Updated: 2026-11-06
+# Domains: 35 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/gr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -20,6 +20,7 @@
 market.regroup.gr
 *.megasexshop.gr
 *.miloxshop.gr
+*.mydesi20.com
 *.mytreats.gr
 *.ola4u.gr
 *.passionfruit.gr
@@ -37,3 +38,4 @@ market.regroup.gr
 *.vibrations.gr
 *.whitesmoke.gr
 *.xprivate.gr
+zsh.caucidenic.blog

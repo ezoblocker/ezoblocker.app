@@ -1,15 +1,19 @@
 ! Title: EZOBLOCKER Adult, Vietnam (vn)
-! Domains: 112 | Updated: 2026-11-06
+! Domains: 120 | Updated: 2026-11-06
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/vn.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+||123yeu.com^
 ||arkana-muebles.com^
 ||baocaosu249.com^
 ||baocaosuhanoi.vn^
 ||baocaosuhp.com^
 |benyu.qom.vn^
 ||chuyentinhvn.webflow.io^
+||cineclate.com^
+||clipfull.blog^
+||cliphay.blog^
 ||cliphot3x.blog^
 ||cliphot69.cloud^
 ||cliphotviet.pics^
@@ -18,6 +22,7 @@
 ||cliphotvnz.cyou^
 ||cliphotvnz.monster^
 ||clipphot69.xyz^
+||clipvip.blog^
 ||cophimsexhay.com^
 ||cumshopsextoy.com^
 ||dochoinam.com^
@@ -36,6 +41,7 @@
 |i.clipviet.blog^
 ||javhdvn.org^
 ||javnhe.tv^
+||javsuong.blog^
 ||khocliphot.com^
 ||kimonohana.com^
 ||lovestore.vn^
@@ -57,6 +63,7 @@
 ||phimsexhaynon.com^
 ||phimsexhayx.blog^
 ||phimsexhayxinh.com^
+||phimsexmoi.cc^
 ||phimsextapthe69.com^
 ||phimsexviet128.com^
 ||phimsexvietsubx.blog^
@@ -72,6 +79,7 @@
 ||sexhotviet.com^
 ||sexngot.blog^
 ||sexshop18.vn^
+||sexsuong.blog^
 ||sextop1vn.click^
 ||sextoyeu.com^
 ||sextoyin.com^

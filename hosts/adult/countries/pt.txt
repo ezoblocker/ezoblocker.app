@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Portugal (pt)
-# Domains: 50 | Updated: 2026-11-06
+# Domains: 51 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/pt.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 0.0.0.0 anesidora.net
 0.0.0.0 beus.com.br
 0.0.0.0 boutiqueluxuria.pt
+0.0.0.0 cambabes.fr
 0.0.0.0 compreintt.com.br
 0.0.0.0 control.pt
 0.0.0.0 cupidosshop.com

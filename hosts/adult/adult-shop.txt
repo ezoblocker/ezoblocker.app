@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,339 | Updated: 2026-11-06
+# Domains: 1,353 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 0.0.0.0 1001noites.com
 0.0.0.0 112sexshop.com
 0.0.0.0 123sexo.cl
+0.0.0.0 123yeu.com
 0.0.0.0 18plus.com.ua
 0.0.0.0 1a-erotikshops.de
 0.0.0.0 1advd.ch
@@ -132,6 +133,7 @@
 0.0.0.0 bestofeugene.com
 0.0.0.0 bestvibe.pk
 0.0.0.0 beus.com.br
+0.0.0.0 beyourlover.co.jp
 0.0.0.0 bid.bertoiaauctions.com
 0.0.0.0 big-toys.com.ua
 0.0.0.0 bitkiselshop.com.tr
@@ -151,6 +153,7 @@
 0.0.0.0 bousens.com
 0.0.0.0 boutique-bizarre.de
 0.0.0.0 boutique-erotique.fr
+0.0.0.0 boutiqueaphrodite.ca
 0.0.0.0 boutiqueduplaisir.fr
 0.0.0.0 boutiqueerotica.com.uy
 0.0.0.0 boutiqueluxuria.pt
@@ -306,6 +309,7 @@
 0.0.0.0 eisen-herz.ch
 0.0.0.0 eisenherz.ch
 0.0.0.0 eisenherzglobal.de
+0.0.0.0 el-evolution.com
 0.0.0.0 elartedelplacer.com
 0.0.0.0 elegantyou.com.pk
 0.0.0.0 elektro-motor.cz
@@ -331,6 +335,7 @@
 0.0.0.0 erotic-shop.ro
 0.0.0.0 erotic24.ro
 0.0.0.0 eroticae.com
+0.0.0.0 eroticaintimates.com
 0.0.0.0 eroticavip.ru
 0.0.0.0 eroticcity.cz
 0.0.0.0 eroticfeel.com
@@ -369,6 +374,7 @@
 0.0.0.0 extasyshops.ca
 0.0.0.0 factormujer.com
 0.0.0.0 fairyloot.com
+0.0.0.0 fantasiesboutique.com
 0.0.0.0 fantasmesecret.be
 0.0.0.0 fantasygiftsnj.com
 0.0.0.0 fantasylugano.ch
@@ -395,6 +401,7 @@
 0.0.0.0 fogododesejo.pt
 0.0.0.0 folsomeurope.berlin
 0.0.0.0 foxietoy.com
+0.0.0.0 fraum.me
 0.0.0.0 freakyfun.in
 0.0.0.0 freebody.co.kr
 0.0.0.0 frixx.pl
@@ -548,6 +555,7 @@
 0.0.0.0 lavel.com.ua
 0.0.0.0 lcwaikiki.de
 0.0.0.0 leezus.com
+0.0.0.0 lefrivole.ru
 0.0.0.0 lejournalintime.com
 0.0.0.0 lelo.com.pk
 0.0.0.0 lescapricesdalice.fr
@@ -557,6 +565,7 @@
 0.0.0.0 libidi.com.br
 0.0.0.0 librerialuces.com
 0.0.0.0 liebenswert.at
+0.0.0.0 lilashop.com.tr
 0.0.0.0 lilaw.pl
 0.0.0.0 lilith-toys.com
 0.0.0.0 linfini.co
@@ -1060,6 +1069,7 @@
 0.0.0.0 sextoyin.com
 0.0.0.0 sextoyinhyderabad.com
 0.0.0.0 sextoypk.com
+0.0.0.0 sextoyreviews.uk
 0.0.0.0 sextoys-india.shop
 0.0.0.0 sextoys.cloudns.be
 0.0.0.0 sextoys.co.uk
@@ -1160,6 +1170,7 @@
 0.0.0.0 speeltjes.nl
 0.0.0.0 spexter.com
 0.0.0.0 spicerack.market
+0.0.0.0 stagimu.com
 0.0.0.0 stagshop.com
 0.0.0.0 stay-on.co
 0.0.0.0 steeltoyz.com
@@ -1240,6 +1251,7 @@
 0.0.0.0 toysecret.it
 0.0.0.0 toyshub.pk
 0.0.0.0 toysinpakistan.pk
+0.0.0.0 toysinpakistani.pk
 0.0.0.0 toysrus.co.th
 0.0.0.0 toytastisch.de
 0.0.0.0 toyzpakistan.com
@@ -1302,6 +1314,7 @@
 0.0.0.0 vuxen.dk
 0.0.0.0 vuxen.se
 0.0.0.0 vuxenkul.se
+0.0.0.0 w-russia.ru
 0.0.0.0 we-vibe.com
 0.0.0.0 webac-vibro.com
 0.0.0.0 welcomelover.com
@@ -1343,3 +1356,4 @@
 0.0.0.0 zolta.pl
 0.0.0.0 zonaerotica.com.co
 0.0.0.0 zonahotsexshop.cl
+0.0.0.0 zsh.caucidenic.blog

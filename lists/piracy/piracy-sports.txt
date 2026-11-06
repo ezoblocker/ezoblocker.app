@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 429 | Updated: 2026-11-06
+# Domains: 432 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -99,6 +99,7 @@ french.visitkorea.or.kr
 *.futbol-libre.cam
 *.futbolenlatv.es
 *.futbolenvivocolombia.com
+*.futbolenvivomexico.com
 *.futbolete.com
 *.futbollibre.kim
 *.futbollibreenvivo.net
@@ -315,6 +316,7 @@ start.sportdigital.de
 *.streameastonline.com
 *.streameasttop.com
 *.streameastv2.buzz
+*.streameastv2.click
 *.streameastv2.mom
 *.streameastxyz.blog
 *.streamed.cyou
@@ -362,6 +364,7 @@ t.matec.kr
 *.tarjetarojatvonline.info
 *.tarjetarojatvonline.site
 *.the-futbollibre.com
+tipperary.gaa.ie
 *.today-yalla-shoot.com
 *.totalsport.fans
 *.totalsportek.org.im

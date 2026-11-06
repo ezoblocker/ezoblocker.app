@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Ukraine (ua)
-# Domains: 34 | Updated: 2026-11-06
+# Domains: 35 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/ua.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -32,6 +32,7 @@
 0.0.0.0 kiev-intimcity.nl
 0.0.0.0 kiev.moygorod.ua
 0.0.0.0 luck.kek-sik.com
+0.0.0.0 royals-intim.com
 0.0.0.0 topescort.com
 0.0.0.0 ua.bordelero.net
 0.0.0.0 uescort.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,270 | Updated: 2026-11-06
+# Domains: 1,275 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -269,6 +269,7 @@
 0.0.0.0 coomeet.com
 0.0.0.0 coomeet.com.tr
 0.0.0.0 coomeet.me
+0.0.0.0 coquinefr.pages.dev
 0.0.0.0 cosmohotties8.com
 0.0.0.0 cougarlife.com
 0.0.0.0 cougarlife.dating
@@ -951,6 +952,7 @@
 0.0.0.0 roksa.priv.pl
 0.0.0.0 roksa.sx
 0.0.0.0 roomchat.site
+0.0.0.0 royals-intim.com
 0.0.0.0 rubmaps.ch
 0.0.0.0 ruletka.chat
 0.0.0.0 rusdosug.com
@@ -1201,6 +1203,7 @@
 0.0.0.0 usasexguide.nl
 0.0.0.0 valenzuelaph.assortlist.com
 0.0.0.0 vancouver.bonepage.com
+0.0.0.0 vard.regionstockholm.se
 0.0.0.0 vard.skane.se
 0.0.0.0 ventura-county.bonepage.com
 0.0.0.0 vereeniging.escortlist.co.za
@@ -1221,6 +1224,7 @@
 0.0.0.0 vivastreet.ie
 0.0.0.0 volgograd-individualki-xes.click
 0.0.0.0 vuop4vp-stylesheet.nettoyagereunion.re
+0.0.0.0 w5sha47-css-import.nettoyagereunion.re
 0.0.0.0 wakuwaku-communications.com
 0.0.0.0 wakuwakufm.net
 0.0.0.0 waterford.swiftweb.ru
@@ -1230,6 +1234,7 @@
 0.0.0.0 webchat.5chat.it
 0.0.0.0 welkeonlinedatingsite.nl
 0.0.0.0 wellhello.com
+0.0.0.0 west.love-life.jp
 0.0.0.0 westcoastswingers.com
 0.0.0.0 wexford-escorts.kinoxit.ru
 0.0.0.0 wexford.kubuchet.ru

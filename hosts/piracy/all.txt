@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,122 | Updated: 2026-11-06
+# Domains: 1,131 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -214,7 +214,10 @@
 0.0.0.0 diziizle.wiki
 0.0.0.0 dizilab.cc
 0.0.0.0 dizilab.to
+0.0.0.0 dizipal1825.com
+0.0.0.0 dizipal3009.com
 0.0.0.0 dizipaliptv.com.tr
+0.0.0.0 dizipalorjinal19.com
 0.0.0.0 diziyou.info
 0.0.0.0 diziyou.one
 0.0.0.0 diziyou.vip
@@ -270,6 +273,7 @@
 0.0.0.0 filmix.moe
 0.0.0.0 filmix.my
 0.0.0.0 filmizle.ink
+0.0.0.0 filmizlebabam.icu
 0.0.0.0 filmizledim.com
 0.0.0.0 filmmakinesi.to
 0.0.0.0 filmora.wondershare.kr
@@ -325,6 +329,7 @@
 0.0.0.0 futbol-libre.cam
 0.0.0.0 futbolenlatv.es
 0.0.0.0 futbolenvivocolombia.com
+0.0.0.0 futbolenvivomexico.com
 0.0.0.0 futbolete.com
 0.0.0.0 futbollibre.kim
 0.0.0.0 futbollibreenvivo.net
@@ -406,6 +411,7 @@
 0.0.0.0 hdrezka.my
 0.0.0.0 hdrezka.pl
 0.0.0.0 hellspy.to
+0.0.0.0 hemenfilmizle.icu
 0.0.0.0 hesgoal.co.uk
 0.0.0.0 hesgoal.ltd
 0.0.0.0 hesgoal.plus
@@ -436,6 +442,7 @@
 0.0.0.0 iptvcanada.io
 0.0.0.0 iptvcanada.tv
 0.0.0.0 iptvcanadacofficiel.ca
+0.0.0.0 iptvcanadaofficiel.ca
 0.0.0.0 iptvcanadian.com
 0.0.0.0 iptvespanapremium.com
 0.0.0.0 iptvespanatv.pro
@@ -918,6 +925,7 @@
 0.0.0.0 streameastonline.com
 0.0.0.0 streameasttop.com
 0.0.0.0 streameastv2.buzz
+0.0.0.0 streameastv2.click
 0.0.0.0 streameastv2.mom
 0.0.0.0 streameastxyz.blog
 0.0.0.0 streamed.cyou
@@ -977,6 +985,7 @@
 0.0.0.0 thenaijaprey.org
 0.0.0.0 thenetnaija.com.ng
 0.0.0.0 thenetnaija.ng
+0.0.0.0 tipperary.gaa.ie
 0.0.0.0 tirexo.al
 0.0.0.0 today-yalla-shoot.com
 0.0.0.0 toonitalia.space
