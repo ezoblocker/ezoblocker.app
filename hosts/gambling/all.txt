@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 446,126 | Updated: 2026-11-06
+# Domains: 446,091 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -32078,7 +32078,6 @@
 0.0.0.0 apostacon.org
 0.0.0.0 apostaconfiavel.com.br
 0.0.0.0 apostacorreta.com
-0.0.0.0 apostacova.bet
 0.0.0.0 apostacova.com
 0.0.0.0 apostacova.online
 0.0.0.0 apostadasorte-web.pages.dev
@@ -32153,7 +32152,6 @@
 0.0.0.0 apostaimpar.pt
 0.0.0.0 apostaindex.com
 0.0.0.0 apostainteligente.pt
-0.0.0.0 apostajogo.casino
 0.0.0.0 apostajoy-pt.best
 0.0.0.0 apostaki.pt
 0.0.0.0 apostala-ar.com
@@ -32198,8 +32196,6 @@
 0.0.0.0 apostamaximo.com
 0.0.0.0 apostamaxpg.com
 0.0.0.0 apostamaxwin.fun
-0.0.0.0 apostames.bet
-0.0.0.0 apostames.casino
 0.0.0.0 apostames.com
 0.0.0.0 apostames.online
 0.0.0.0 apostamestre.bet
@@ -32601,9 +32597,6 @@
 0.0.0.0 apostaturbo.online
 0.0.0.0 apostaturfe.com.br
 0.0.0.0 apostaufc.com
-0.0.0.0 apostavale.casino
-0.0.0.0 apostavara.bet
-0.0.0.0 apostavara.casino
 0.0.0.0 apostavara.com
 0.0.0.0 apostavara.online
 0.0.0.0 apostavip.net.br
@@ -42252,7 +42245,6 @@
 0.0.0.0 banger-casino-18.pages.dev
 0.0.0.0 banger-casino-game-9.pages.dev
 0.0.0.0 banger-casino-my.com
-0.0.0.0 banger-casino.app
 0.0.0.0 banger-casino.com
 0.0.0.0 banger-casino.online
 0.0.0.0 banger-casino.org
@@ -57992,7 +57984,6 @@
 0.0.0.0 betonred.kiwi
 0.0.0.0 betonred.li
 0.0.0.0 betonred.ltd
-0.0.0.0 betonred.net.pl
 0.0.0.0 betonred.or.at
 0.0.0.0 betonred.org.es
 0.0.0.0 betonred.se
@@ -103821,7 +103812,6 @@
 0.0.0.0 casinofrumzispain-com.pages.dev
 0.0.0.0 casinofrumzispain.com
 0.0.0.0 casinofruta.fi
-0.0.0.0 casinofryd.bet
 0.0.0.0 casinofryd.com
 0.0.0.0 casinofs.de
 0.0.0.0 casinofuegoargentina.pages.dev
@@ -114586,7 +114576,6 @@
 0.0.0.0 casinoper.tv
 0.0.0.0 casinoper.website
 0.0.0.0 casinoperadresiniz.vip
-0.0.0.0 casinoperalada-online.com
 0.0.0.0 casinoperalada-online.pages.dev
 0.0.0.0 casinoperalada.online
 0.0.0.0 casinoperaladaspain-com.pages.dev
@@ -115604,7 +115593,6 @@
 0.0.0.0 casinopt10melhores.com
 0.0.0.0 casinopt10melhores.org
 0.0.0.0 casinoptions.com
-0.0.0.0 casinoptmaster.games
 0.0.0.0 casinopuanlari.cam
 0.0.0.0 casinopub-online.com
 0.0.0.0 casinopub.net
@@ -116129,7 +116117,6 @@
 0.0.0.0 casinoreglerna.se
 0.0.0.0 casinoregolare.it
 0.0.0.0 casinoregulado.games
-0.0.0.0 casinoreguladoportugal.casino
 0.0.0.0 casinorehab.com
 0.0.0.0 casinorehber.org
 0.0.0.0 casinorehberi-10.com
@@ -121312,7 +121299,6 @@
 0.0.0.0 casinostonevegas.cz
 0.0.0.0 casinostonevegas.de
 0.0.0.0 casinostop.guru
-0.0.0.0 casinostop.online
 0.0.0.0 casinostop10empt.com
 0.0.0.0 casinostop10empt.org
 0.0.0.0 casinostopchile.cl
@@ -130215,7 +130201,6 @@
 0.0.0.0 ccehsa-jualtoto.pages.dev
 0.0.0.0 cceteplice.cz
 0.0.0.0 ccggameslotid.top
-0.0.0.0 ccghighrtpslotsph.top
 0.0.0.0 cclaposta.com.mx
 0.0.0.0 cclce-ktp168-situsslotdepositdana.pages.dev
 0.0.0.0 ccobato.eu
@@ -160247,7 +160232,6 @@
 0.0.0.0 eyangpoker9.com
 0.0.0.0 eyangpokerapk.com
 0.0.0.0 eyangpokerc.com
-0.0.0.0 eyangpokeru.com
 0.0.0.0 eyangpokerx.com
 0.0.0.0 eyangslota.com
 0.0.0.0 eyangslotgacor.pages.dev
@@ -165305,7 +165289,6 @@
 0.0.0.0 fixbet188.com
 0.0.0.0 fixbet69.com
 0.0.0.0 fixbet777.org
-0.0.0.0 fixbet8120.com
 0.0.0.0 fixbet824.com
 0.0.0.0 fixbet88.bet
 0.0.0.0 fixbet88.mobi
@@ -168676,7 +168659,6 @@
 0.0.0.0 freeplaycasinohub.com
 0.0.0.0 freeplaycasinolist.com
 0.0.0.0 freeplayslots.com
-0.0.0.0 freeplayslotsph.top
 0.0.0.0 freepoker.eu
 0.0.0.0 freepoker4cash.com
 0.0.0.0 freepokerbank.com
@@ -184716,7 +184698,6 @@
 0.0.0.0 gpaycasinos.co.uk
 0.0.0.0 gpeijabarslotgacor777.pages.dev
 0.0.0.0 gperya-casino.com
-0.0.0.0 gperyacasino.com
 0.0.0.0 gperyaph1.com
 0.0.0.0 gperyaslot.com
 0.0.0.0 gpinas-casino.com
@@ -210066,7 +210047,6 @@
 0.0.0.0 jeuxcasino-gratuits.com
 0.0.0.0 jeuxcasino.ca
 0.0.0.0 jeuxcasino.com
-0.0.0.0 jeuxcasino.games
 0.0.0.0 jeuxcasino.pro
 0.0.0.0 jeuxcasino10.com
 0.0.0.0 jeuxcasino24.net
@@ -257000,7 +256980,6 @@
 0.0.0.0 melbet-zzf1.top
 0.0.0.0 melbet.ad
 0.0.0.0 melbet.biz.in
-0.0.0.0 melbet.biz.ua
 0.0.0.0 melbet.ceo
 0.0.0.0 melbet.co.com
 0.0.0.0 melbet.com.cm
@@ -257720,7 +257699,6 @@
 0.0.0.0 melbettv.com
 0.0.0.0 melbetu0.com
 0.0.0.0 melbetua-site.com
-0.0.0.0 melbetua.com.ua
 0.0.0.0 melbetua.org
 0.0.0.0 melbetuk.com
 0.0.0.0 melbeturkey.com
@@ -262178,7 +262156,6 @@
 0.0.0.0 mm88casino4.co
 0.0.0.0 mm88casino4.net
 0.0.0.0 mm88casino4bet.bet
-0.0.0.0 mm88casino6.net
 0.0.0.0 mm88ddhomebet.com
 0.0.0.0 mm88iibet.com
 0.0.0.0 mm89casino.com
@@ -280469,6 +280446,7 @@
 0.0.0.0 ninecasinoslovenija.com
 0.0.0.0 ninecasinoslovenija.si
 0.0.0.0 ninecasinoslovensko-com.pages.dev
+0.0.0.0 ninecasinospain.top
 0.0.0.0 ninecasinospielen.de
 0.0.0.0 ninecasinospil.dk
 0.0.0.0 ninecasinospin.com
@@ -281896,6 +281874,7 @@
 0.0.0.0 nocryingatthecasino.com
 0.0.0.0 nocryingincasino.fun
 0.0.0.0 nocryinginthecasino.pages.dev
+0.0.0.0 nocryinginthecasinobot.com
 0.0.0.0 noctra-social-casino.pages.dev
 0.0.0.0 nocturnal-casino.fr
 0.0.0.0 nocturnalcasino-at-35164.pages.dev
@@ -285008,6 +284987,7 @@
 0.0.0.0 nrgcasino.si
 0.0.0.0 nrgcasino.uk.net
 0.0.0.0 nrl-sports-betting.club
+0.0.0.0 nrm.casino
 0.0.0.0 nrmeatscasino.com.au
 0.0.0.0 nrnrcasino.com.br
 0.0.0.0 nrw-spielbank.com
@@ -300411,7 +300391,6 @@
 0.0.0.0 paypal-casino.io
 0.0.0.0 paypal-casinos.uk
 0.0.0.0 paypalcasino-es.pages.dev
-0.0.0.0 paypalcasino.biz
 0.0.0.0 paypalcasino.co.com
 0.0.0.0 paypalcasino.fi
 0.0.0.0 paypalcasino.gr
@@ -326337,15 +326316,12 @@
 0.0.0.0 rain-bet-casino.it
 0.0.0.0 rain-bet-casino.org
 0.0.0.0 rain-betcasino-net-988.pages.dev
-0.0.0.0 rain-betcasino-org-uk.pages.dev
 0.0.0.0 rain-betcasino.com
 0.0.0.0 rain-betcasino.it
 0.0.0.0 rain-betcasino.net
-0.0.0.0 rain-betcasino.org
 0.0.0.0 rain-rajabandotdamai19.pages.dev
 0.0.0.0 rainbet-aktionscode.de
 0.0.0.0 rainbet-alternatives.com
-0.0.0.0 rainbet-alternatives.pages.dev
 0.0.0.0 rainbet-anmelden.de
 0.0.0.0 rainbet-app.de
 0.0.0.0 rainbet-app.es
@@ -326355,13 +326331,10 @@
 0.0.0.0 rainbet-aus-live.pages.dev
 0.0.0.0 rainbet-aus-online.pages.dev
 0.0.0.0 rainbet-aus.com
-0.0.0.0 rainbet-bet-com.pages.dev
 0.0.0.0 rainbet-bet.com
 0.0.0.0 rainbet-canada-casino.ca
 0.0.0.0 rainbet-canada.co
 0.0.0.0 rainbet-cas1no.fr
-0.0.0.0 rainbet-casino-be-be479b87.pages.dev
-0.0.0.0 rainbet-casino-bet-com.pages.dev
 0.0.0.0 rainbet-casino-bonus.com
 0.0.0.0 rainbet-casino-ca.net
 0.0.0.0 rainbet-casino-cad.com
@@ -326415,7 +326388,6 @@
 0.0.0.0 rainbet-official-au.com
 0.0.0.0 rainbet-online.nz
 0.0.0.0 rainbet-online.org
-0.0.0.0 rainbet-play-com.pages.dev
 0.0.0.0 rainbet-play.com
 0.0.0.0 rainbet-play.nl
 0.0.0.0 rainbet-pokies.com
@@ -326452,7 +326424,6 @@
 0.0.0.0 rainbetag.com
 0.0.0.0 rainbetapp.app
 0.0.0.0 rainbetbonus.nl
-0.0.0.0 rainbetca.pages.dev
 0.0.0.0 rainbetcas-au.com
 0.0.0.0 rainbetcasino-at.eu.com
 0.0.0.0 rainbetcasino-australia.com
@@ -326482,7 +326453,6 @@
 0.0.0.0 rainbetcasinoitalia.com
 0.0.0.0 rainbetcasinoitalia.it
 0.0.0.0 rainbetcasinoofficial.net
-0.0.0.0 rainbetcasinoonline-es-8195c4cc.pages.dev
 0.0.0.0 rainbetcasinoonline.de
 0.0.0.0 rainbetcasinoonline.es
 0.0.0.0 rainbetcasinoportugal.com
@@ -326505,7 +326475,6 @@
 0.0.0.0 rainbetmobilecasino.com
 0.0.0.0 rainbetmodels.com
 0.0.0.0 rainbetmx.com
-0.0.0.0 rainbetnederland-nl.pages.dev
 0.0.0.0 rainbetnederland.net
 0.0.0.0 rainbetnederland.org
 0.0.0.0 rainbetnorway.com
@@ -326518,7 +326487,6 @@
 0.0.0.0 rainbetonline.com
 0.0.0.0 rainbetonline.net
 0.0.0.0 rainbetpartners.com
-0.0.0.0 rainbetplay-org-uk.pages.dev
 0.0.0.0 rainbetplays.ca
 0.0.0.0 rainbetpokiesau.com
 0.0.0.0 rainbetportugal.com
@@ -326526,7 +326494,6 @@
 0.0.0.0 rainbets-au.in.net
 0.0.0.0 rainbets-canada.ca
 0.0.0.0 rainbets-casino.ca
-0.0.0.0 rainbets.at
 0.0.0.0 rainbets.co
 0.0.0.0 rainbets.co.no
 0.0.0.0 rainbets.gr
@@ -350067,7 +350034,6 @@
 0.0.0.0 shbet.poker
 0.0.0.0 shbet.promo
 0.0.0.0 shbet.quest
-0.0.0.0 shbet.racing
 0.0.0.0 shbet.rentals
 0.0.0.0 shbet.sbs
 0.0.0.0 shbet.shop
@@ -354325,7 +354291,6 @@
 0.0.0.0 skyrainbet.it
 0.0.0.0 skyrainbet.net
 0.0.0.0 skyrainbet.pl
-0.0.0.0 skyrainbetcasino-it.pages.dev
 0.0.0.0 skyrainbetcasino.de
 0.0.0.0 skyrainbetcasino.fr
 0.0.0.0 skyrainbetcasino.it

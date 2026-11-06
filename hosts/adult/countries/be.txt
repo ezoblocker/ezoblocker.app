@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Belgium (be)
-# Domains: 30 | Updated: 2026-11-06
+# Domains: 31 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/be.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -32,5 +32,6 @@
 0.0.0.0 trustedshops.nl
 0.0.0.0 webcam-sex.nl
 0.0.0.0 webcam.vlaanderen
+0.0.0.0 webxcams.eu
 0.0.0.0 willie.be
 0.0.0.0 xtremeliege.be

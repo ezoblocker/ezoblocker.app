@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,353 | Updated: 2026-11-06
+# Domains: 1,357 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -168,6 +168,7 @@
 0.0.0.0 bunnyroom.co.kr
 0.0.0.0 buttman.com.ar
 0.0.0.0 buttplug.io
+0.0.0.0 buylovetoy.com
 0.0.0.0 buzzy.co.uk
 0.0.0.0 byann.pl
 0.0.0.0 byplay.es
@@ -625,6 +626,7 @@
 0.0.0.0 lovenjoy.co.in
 0.0.0.0 lovepiececlub-shop.com
 0.0.0.0 lovers.rs
+0.0.0.0 loversplayground.com
 0.0.0.0 loversshop.com.au
 0.0.0.0 loversstores.com
 0.0.0.0 lovesense.ro
@@ -972,6 +974,7 @@
 0.0.0.0 sensualsecrets.com.co
 0.0.0.0 sensualshop.it
 0.0.0.0 senzia.store
+0.0.0.0 serenksexshop.com
 0.0.0.0 serez.co
 0.0.0.0 setishop.com
 0.0.0.0 sex-live.eu
@@ -1229,6 +1232,7 @@
 0.0.0.0 tiendaerotica.cl
 0.0.0.0 tiendaeroticapasiones.com
 0.0.0.0 tiendaeroticavip.com
+0.0.0.0 tiendafetichista.com
 0.0.0.0 tiendapoppers.com
 0.0.0.0 tiendavenus.com
 0.0.0.0 tipli.ro
