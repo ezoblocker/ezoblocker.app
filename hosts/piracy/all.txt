@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,131 | Updated: 2026-11-06
+# Domains: 1,130 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -215,9 +215,7 @@
 0.0.0.0 dizilab.cc
 0.0.0.0 dizilab.to
 0.0.0.0 dizipal1825.com
-0.0.0.0 dizipal3009.com
 0.0.0.0 dizipaliptv.com.tr
-0.0.0.0 dizipalorjinal19.com
 0.0.0.0 diziyou.info
 0.0.0.0 diziyou.one
 0.0.0.0 diziyou.vip
@@ -641,6 +639,7 @@
 0.0.0.0 mkvcinemaapp.com.in
 0.0.0.0 mkvcinemas.com.w3snoop.com
 0.0.0.0 mkvcinemas.org
+0.0.0.0 mkvcinemass.blog
 0.0.0.0 mlbbite.plus
 0.0.0.0 mobile.coivl.net
 0.0.0.0 monoschinos2.net

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Türkiye (tr)
-! Domains: 406 | Updated: 2026-11-06
+! Domains: 396 | Updated: 2026-11-06
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -54,7 +54,6 @@
 ||askimyavas204.live^
 ||askimyavas206.live^
 ||askimyavas210.live^
-||askimyavas211.live^
 ||atasehiraktif.click^
 ||atasehirescort8.uno^
 ||atasehirescortlari.com^
@@ -72,7 +71,6 @@
 ||bestturksgiris.com^
 ||bestturksgiris1.com^
 ||beylikduzuescort.com^
-||beylikduzuescort22.sbs^
 ||beylikduzuescortkadin.com^
 ||bitkiselshop.com.tr^
 ||bodrumangels.com^
@@ -90,7 +88,6 @@
 ||cimcime173.live^
 ||cimcime174.live^
 ||cimcime178.live^
-||cimcime179.live^
 ||cinselmobilsohbet.com^
 ||cinselsohbet.com^
 ||cinselsohbet.org^
@@ -101,7 +98,6 @@
 ||corumescortred.xyz^
 ||dahahizli160.live^
 ||dahahizli162.live^
-||dahahizli166.live^
 ||dame.com^
 ||derinceservisi.site^
 ||dialogistanbul.com^
@@ -116,8 +112,6 @@
 ||doeda109.click^
 ||doedahd.com^
 ||dolores1.skin^
-||dolores2.skin^
-||dorthy2.best^
 ||drov.fr^
 ||elinavip.com^
 ||eliteescorts.agency^
@@ -193,7 +187,6 @@
 ||istanbul12.com^
 ||istanbularkadasilan.com^
 ||istanbuldur.com^
-||istanbulescortglow.click^
 ||istanbulilanbul.com^
 ||istanbulmasozbayan.site^
 ||istanbulseksshop.com^
@@ -387,9 +380,7 @@
 ||viperotikfilm6.skin^
 ||vipsa.com^
 ||vipumraniyeescort.com.tr^
-||wanda.best^
 ||wanda1.best^
-||wanda1.wtf^
 ||wescort.co.uk^
 |wvw.betim-guncelgiris.live^
 ||xnovix.com^
@@ -399,7 +390,6 @@
 ||yavasgir171.live^
 ||yavasgir174.live^
 ||yavasgir175.live^
-||yavasgir176.live^
 ||yerelsohbet.net^
 ||yetiskin.org^
 ||yetiskinsohbet.com.tr^

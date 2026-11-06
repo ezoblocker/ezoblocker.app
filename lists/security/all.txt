@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 94,563 | Updated: 2026-11-06
+# Domains: 94,552 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -4035,7 +4035,6 @@ appleidcdn.willirich.com
 *.appleidgr-9e4d-rrz5ao.pages.dev
 *.appleidgr-9e4d-s4xa9p.pages.dev
 *.appleidiforgot.us
-*.appleidinc.web.id
 *.appleidinformations.ph
 *.appleidinl.pages.dev
 *.appleidinn.pages.dev
@@ -8184,7 +8183,6 @@ bolivia-bcp.promasterde.workers.dev
 *.booking-confirmation082026app.com
 *.booking-confirmation178368app.com
 *.booking-confirmation180826app.com
-*.booking-confirmation229368app.com
 *.booking-confirmation290826app.com
 *.booking-confirmation328368app.com
 *.booking-confirmation5400912.com
@@ -12031,7 +12029,6 @@ codemonclercn2023-dev.veganslab.xyz
 *.coiinbasepro-logn--help.pages.dev
 *.coiinbasewallet.pages.dev
 *.coiinbse--pro-loggon.pages.dev
-*.coiincheeck.com
 *.coiinone-logiin--ooooath.pages.dev
 *.coiinpro-logn-access.pages.dev
 *.coiins-base-logiin-en.pages.dev
@@ -15312,7 +15309,6 @@ customer-sso.oresundbron.com
 *.customer-support-system-customer-help-unit.pages.dev
 *.customer-support-system-faq-help-center.pages.dev
 *.customer-support-system-feedback-help-desk.pages.dev
-*.customers-paypal-services-de.com
 *.customervoicemicrosofpdffile.pages.dev
 *.customervoicemicrosoftcom.pages.dev
 *.customervoicemicrosoftcomfilepageverrifypdf.pages.dev
@@ -27848,6 +27844,7 @@ get-apple-id.iipa.cc
 *.gimni-login-eu.pages.dev
 *.gimni-login.pages.dev
 *.gingerlx-netflix-app-design.pages.dev
+*.gioco-digitale-login.org
 *.girlpussyonlyfanss.pages.dev
 *.giseladeairtm.com
 *.git-ndax-login.pages.dev
@@ -34267,7 +34264,6 @@ icloud-authenticator.wuselino.org
 *.icloud-content-sale.ph
 *.icloud-content-support.ph
 *.icloud-en-us.info
-*.icloud-find-2026.com
 *.icloud-find-alert.net.ph
 *.icloud-find-com.app
 *.icloud-find-devices-location.com.ph
@@ -34321,7 +34317,6 @@ icloud-authenticator.wuselino.org
 *.icloud-login-cn9.pages.dev
 *.icloud-login-metrobank.com.ph
 *.icloud-login.help
-*.icloud-login.online
 *.icloud-login.pages.dev
 *.icloud-logina.ph
 *.icloud-loginmetrobank.com.ph
@@ -56014,7 +56009,6 @@ microsofthotmailmorteza.mortezaghaffaria-e18.workers.dev
 *.microsoftonline-sharepoint.live
 *.microsoftsecuredlogin.pages.dev
 *.microsoftsecurity-1y1.pages.dev
-*.microsoftsetup.com
 *.microsoftsupport.pages.dev
 *.microsoftsupportnumbr.pages.dev
 *.microsoftsupportofficial.pages.dev
@@ -63829,6 +63823,7 @@ private-zz45tf3adfdkp67j.gov-sg.zoomonprem.com
 *.professional-trezro-io.pages.dev
 profile-activation.xfinity-bill.workers.dev
 *.profile-meta-msk-login.pages.dev
+*.profile-recover-ledger.com
 *.prog-ledgelive.pages.dev
 *.prog-trezoiostart.pages.dev
 *.prog-trezosuitedownload.pages.dev
@@ -64048,7 +64043,6 @@ promotion.xn--verion-spb.com
 *.pronik-zelvar-6f80ab-nyhh-hf2406vma.pages.dev
 *.proo-coinbased-lgn-en-io.pages.dev
 *.proper-coinspro-en-us.pages.dev
-*.proposal-aethir.xyz
 *.proposal-curvefinance.pages.dev
 *.proposal-layerzero.app
 *.proposal-moonwell.finance
@@ -64788,7 +64782,6 @@ quiz-us-paypal.extrusiondies.tw
 *.qystoriax.cyou
 *.qz-apss-whatapp.com.cn
 *.r--robinhood--com--login.pages.dev
-*.r-ob-whatsapp.com.cn
 *.r-obinhoodlogins.pages.dev
 *.r-q-whats-app.hl.cn
 *.r-roobinhood-login.pages.dev
@@ -73303,7 +73296,6 @@ stericycle.appleid-support-security-verify.212-227-255-11.cpanel.site
 *.stitchesrobloxid.pages.dev
 stl.acct-microsoft-0nline-c0m-sign-3secvl.48-214-144-196.cpanel.site
 *.stock-coinbase.com
-*.stone-whatsapp.com
 *.stor-treazriostrt.pages.dev
 *.storage-online-wetransfer.com
 *.store--ledgerlive--es.pages.dev
@@ -76030,6 +76022,7 @@ support-google.portal-sigin-document.icu
 *.support-opnsea-help.pages.dev
 *.support-opnsea-info.pages.dev
 *.support-page-trezr-eng.pages.dev
+*.support-pago-netflix.com
 *.support-pancakeswap.pages.dev
 *.support-pay2pal-24x7-desk.pages.dev
 *.support-paypal.pages.dev
@@ -88983,7 +88976,6 @@ vuelingsupport.veuling.com
 *.w-logn-save-trz.pages.dev
 *.w-meta-coin-logn.pages.dev
 *.w-meta-msk-en.pages.dev
-*.w-op-whatsapp.com.cn
 *.w-public-metamsk.pages.dev
 *.w-trezr-en-us.pages.dev
 *.w-vw-whatsapp.com.cn
@@ -92927,14 +92919,12 @@ whatsappemails.alert.synergytop.com
 *.whatssapp-j.com.cn
 *.whatssapp-k.com.cn
 *.whatssapp-l.com.cn
-*.whatssapp-m.com.cn
 *.whatssapp-n.com.cn
 *.whatssapp-o.com.cn
 *.whatssapp-p.com.cn
 *.whatssapp-q.com.cn
 *.whatssapp-r.com.cn
 *.whatssapp-s.com.cn
-*.whatssapp-t.com.cn
 *.whatssapp-u.com.cn
 *.whatssapp-v.com.cn
 *.whatssapp-w.com.cn
@@ -94075,7 +94065,6 @@ x-us-paypal.carbonaxiom.com
 *.xyzverse.pages.dev
 *.xyzversefix.pages.dev
 *.xyzverseioo.pages.dev
-*.y-im-whatsapp.com.cn
 *.y-iostart-trezer.pages.dev
 *.y-z-whats-app.hl.cn
 *.y11whatsappsex.pages.dev

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 406 | Updated: 2026-11-06
+# Domains: 396 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -54,7 +54,6 @@
 0.0.0.0 askimyavas204.live
 0.0.0.0 askimyavas206.live
 0.0.0.0 askimyavas210.live
-0.0.0.0 askimyavas211.live
 0.0.0.0 atasehiraktif.click
 0.0.0.0 atasehirescort8.uno
 0.0.0.0 atasehirescortlari.com
@@ -72,7 +71,6 @@
 0.0.0.0 bestturksgiris.com
 0.0.0.0 bestturksgiris1.com
 0.0.0.0 beylikduzuescort.com
-0.0.0.0 beylikduzuescort22.sbs
 0.0.0.0 beylikduzuescortkadin.com
 0.0.0.0 bitkiselshop.com.tr
 0.0.0.0 bodrumangels.com
@@ -90,7 +88,6 @@
 0.0.0.0 cimcime173.live
 0.0.0.0 cimcime174.live
 0.0.0.0 cimcime178.live
-0.0.0.0 cimcime179.live
 0.0.0.0 cinselmobilsohbet.com
 0.0.0.0 cinselsohbet.com
 0.0.0.0 cinselsohbet.org
@@ -101,7 +98,6 @@
 0.0.0.0 corumescortred.xyz
 0.0.0.0 dahahizli160.live
 0.0.0.0 dahahizli162.live
-0.0.0.0 dahahizli166.live
 0.0.0.0 dame.com
 0.0.0.0 derinceservisi.site
 0.0.0.0 dialogistanbul.com
@@ -116,8 +112,6 @@
 0.0.0.0 doeda109.click
 0.0.0.0 doedahd.com
 0.0.0.0 dolores1.skin
-0.0.0.0 dolores2.skin
-0.0.0.0 dorthy2.best
 0.0.0.0 drov.fr
 0.0.0.0 elinavip.com
 0.0.0.0 eliteescorts.agency
@@ -193,7 +187,6 @@
 0.0.0.0 istanbul12.com
 0.0.0.0 istanbularkadasilan.com
 0.0.0.0 istanbuldur.com
-0.0.0.0 istanbulescortglow.click
 0.0.0.0 istanbulilanbul.com
 0.0.0.0 istanbulmasozbayan.site
 0.0.0.0 istanbulseksshop.com
@@ -387,9 +380,7 @@
 0.0.0.0 viperotikfilm6.skin
 0.0.0.0 vipsa.com
 0.0.0.0 vipumraniyeescort.com.tr
-0.0.0.0 wanda.best
 0.0.0.0 wanda1.best
-0.0.0.0 wanda1.wtf
 0.0.0.0 wescort.co.uk
 0.0.0.0 wvw.betim-guncelgiris.live
 0.0.0.0 xnovix.com
@@ -399,7 +390,6 @@
 0.0.0.0 yavasgir171.live
 0.0.0.0 yavasgir174.live
 0.0.0.0 yavasgir175.live
-0.0.0.0 yavasgir176.live
 0.0.0.0 yerelsohbet.net
 0.0.0.0 yetiskin.org
 0.0.0.0 yetiskinsohbet.com.tr

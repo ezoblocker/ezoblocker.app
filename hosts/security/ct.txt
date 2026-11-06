@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 94,561 | Updated: 2026-11-06
+# Domains: 94,550 | Updated: 2026-11-06
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -4035,7 +4035,6 @@
 0.0.0.0 appleidgr-9e4d-rrz5ao.pages.dev
 0.0.0.0 appleidgr-9e4d-s4xa9p.pages.dev
 0.0.0.0 appleidiforgot.us
-0.0.0.0 appleidinc.web.id
 0.0.0.0 appleidinformations.ph
 0.0.0.0 appleidinl.pages.dev
 0.0.0.0 appleidinn.pages.dev
@@ -8182,7 +8181,6 @@
 0.0.0.0 booking-confirmation082026app.com
 0.0.0.0 booking-confirmation178368app.com
 0.0.0.0 booking-confirmation180826app.com
-0.0.0.0 booking-confirmation229368app.com
 0.0.0.0 booking-confirmation290826app.com
 0.0.0.0 booking-confirmation328368app.com
 0.0.0.0 booking-confirmation5400912.com
@@ -12029,7 +12027,6 @@
 0.0.0.0 coiinbasepro-logn--help.pages.dev
 0.0.0.0 coiinbasewallet.pages.dev
 0.0.0.0 coiinbse--pro-loggon.pages.dev
-0.0.0.0 coiincheeck.com
 0.0.0.0 coiinone-logiin--ooooath.pages.dev
 0.0.0.0 coiinpro-logn-access.pages.dev
 0.0.0.0 coiins-base-logiin-en.pages.dev
@@ -15310,7 +15307,6 @@
 0.0.0.0 customer-support-system-customer-help-unit.pages.dev
 0.0.0.0 customer-support-system-faq-help-center.pages.dev
 0.0.0.0 customer-support-system-feedback-help-desk.pages.dev
-0.0.0.0 customers-paypal-services-de.com
 0.0.0.0 customervoicemicrosofpdffile.pages.dev
 0.0.0.0 customervoicemicrosoftcom.pages.dev
 0.0.0.0 customervoicemicrosoftcomfilepageverrifypdf.pages.dev
@@ -27846,6 +27842,7 @@
 0.0.0.0 gimni-login-eu.pages.dev
 0.0.0.0 gimni-login.pages.dev
 0.0.0.0 gingerlx-netflix-app-design.pages.dev
+0.0.0.0 gioco-digitale-login.org
 0.0.0.0 girlpussyonlyfanss.pages.dev
 0.0.0.0 giseladeairtm.com
 0.0.0.0 git-ndax-login.pages.dev
@@ -34265,7 +34262,6 @@
 0.0.0.0 icloud-content-sale.ph
 0.0.0.0 icloud-content-support.ph
 0.0.0.0 icloud-en-us.info
-0.0.0.0 icloud-find-2026.com
 0.0.0.0 icloud-find-alert.net.ph
 0.0.0.0 icloud-find-com.app
 0.0.0.0 icloud-find-devices-location.com.ph
@@ -34319,7 +34315,6 @@
 0.0.0.0 icloud-login-cn9.pages.dev
 0.0.0.0 icloud-login-metrobank.com.ph
 0.0.0.0 icloud-login.help
-0.0.0.0 icloud-login.online
 0.0.0.0 icloud-login.pages.dev
 0.0.0.0 icloud-logina.ph
 0.0.0.0 icloud-loginmetrobank.com.ph
@@ -56012,7 +56007,6 @@
 0.0.0.0 microsoftonline-sharepoint.live
 0.0.0.0 microsoftsecuredlogin.pages.dev
 0.0.0.0 microsoftsecurity-1y1.pages.dev
-0.0.0.0 microsoftsetup.com
 0.0.0.0 microsoftsupport.pages.dev
 0.0.0.0 microsoftsupportnumbr.pages.dev
 0.0.0.0 microsoftsupportofficial.pages.dev
@@ -63827,6 +63821,7 @@
 0.0.0.0 professional-trezro-io.pages.dev
 0.0.0.0 profile-activation.xfinity-bill.workers.dev
 0.0.0.0 profile-meta-msk-login.pages.dev
+0.0.0.0 profile-recover-ledger.com
 0.0.0.0 prog-ledgelive.pages.dev
 0.0.0.0 prog-trezoiostart.pages.dev
 0.0.0.0 prog-trezosuitedownload.pages.dev
@@ -64046,7 +64041,6 @@
 0.0.0.0 pronik-zelvar-6f80ab-nyhh-hf2406vma.pages.dev
 0.0.0.0 proo-coinbased-lgn-en-io.pages.dev
 0.0.0.0 proper-coinspro-en-us.pages.dev
-0.0.0.0 proposal-aethir.xyz
 0.0.0.0 proposal-curvefinance.pages.dev
 0.0.0.0 proposal-layerzero.app
 0.0.0.0 proposal-moonwell.finance
@@ -64786,7 +64780,6 @@
 0.0.0.0 qystoriax.cyou
 0.0.0.0 qz-apss-whatapp.com.cn
 0.0.0.0 r--robinhood--com--login.pages.dev
-0.0.0.0 r-ob-whatsapp.com.cn
 0.0.0.0 r-obinhoodlogins.pages.dev
 0.0.0.0 r-q-whats-app.hl.cn
 0.0.0.0 r-roobinhood-login.pages.dev
@@ -73301,7 +73294,6 @@
 0.0.0.0 stitchesrobloxid.pages.dev
 0.0.0.0 stl.acct-microsoft-0nline-c0m-sign-3secvl.48-214-144-196.cpanel.site
 0.0.0.0 stock-coinbase.com
-0.0.0.0 stone-whatsapp.com
 0.0.0.0 stor-treazriostrt.pages.dev
 0.0.0.0 storage-online-wetransfer.com
 0.0.0.0 store--ledgerlive--es.pages.dev
@@ -76028,6 +76020,7 @@
 0.0.0.0 support-opnsea-help.pages.dev
 0.0.0.0 support-opnsea-info.pages.dev
 0.0.0.0 support-page-trezr-eng.pages.dev
+0.0.0.0 support-pago-netflix.com
 0.0.0.0 support-pancakeswap.pages.dev
 0.0.0.0 support-pay2pal-24x7-desk.pages.dev
 0.0.0.0 support-paypal.pages.dev
@@ -88981,7 +88974,6 @@
 0.0.0.0 w-logn-save-trz.pages.dev
 0.0.0.0 w-meta-coin-logn.pages.dev
 0.0.0.0 w-meta-msk-en.pages.dev
-0.0.0.0 w-op-whatsapp.com.cn
 0.0.0.0 w-public-metamsk.pages.dev
 0.0.0.0 w-trezr-en-us.pages.dev
 0.0.0.0 w-vw-whatsapp.com.cn
@@ -92925,14 +92917,12 @@
 0.0.0.0 whatssapp-j.com.cn
 0.0.0.0 whatssapp-k.com.cn
 0.0.0.0 whatssapp-l.com.cn
-0.0.0.0 whatssapp-m.com.cn
 0.0.0.0 whatssapp-n.com.cn
 0.0.0.0 whatssapp-o.com.cn
 0.0.0.0 whatssapp-p.com.cn
 0.0.0.0 whatssapp-q.com.cn
 0.0.0.0 whatssapp-r.com.cn
 0.0.0.0 whatssapp-s.com.cn
-0.0.0.0 whatssapp-t.com.cn
 0.0.0.0 whatssapp-u.com.cn
 0.0.0.0 whatssapp-v.com.cn
 0.0.0.0 whatssapp-w.com.cn
@@ -94073,7 +94063,6 @@
 0.0.0.0 xyzverse.pages.dev
 0.0.0.0 xyzversefix.pages.dev
 0.0.0.0 xyzverseioo.pages.dev
-0.0.0.0 y-im-whatsapp.com.cn
 0.0.0.0 y-iostart-trezer.pages.dev
 0.0.0.0 y-z-whats-app.hl.cn
 0.0.0.0 y11whatsappsex.pages.dev
