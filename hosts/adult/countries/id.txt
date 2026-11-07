@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Indonesia (id)
-# Domains: 48 | Updated: 2026-11-06
+# Domains: 52 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/id.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -29,6 +29,7 @@
 0.0.0.0 etamo.bsv-coswig.de
 0.0.0.0 fantasysexgoods.com
 0.0.0.0 gairahtv.space
+0.0.0.0 indo18.rent
 0.0.0.0 indo18.team
 0.0.0.0 indobokepav.com
 0.0.0.0 indoteknik.com
@@ -36,13 +37,16 @@
 0.0.0.0 javindosub.cc
 0.0.0.0 javtoys.com
 0.0.0.0 kemenagtimortengahselatan.com
+0.0.0.0 kingbokep.si
 0.0.0.0 kingbokep1.net
+0.0.0.0 masterpitching.com
 0.0.0.0 mediabokep.com.de
 0.0.0.0 mediapemersatubangsa.com
 0.0.0.0 mooreok.govbuilt.com
 0.0.0.0 ngulum.space
 0.0.0.0 nikmatindo.online
 0.0.0.0 nrwrza.villageplett.co.za
+0.0.0.0 okebokep.lol
 0.0.0.0 onecondoms.id
 0.0.0.0 playbokep.art
 0.0.0.0 pokoyuface.cerdenergy.it

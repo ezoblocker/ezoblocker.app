@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Piracy, Chile (cl)
-# Domains: 15 | Updated: 2026-11-06
+# Domains: 16 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/cl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 cuevana3.boo
 0.0.0.0 cuevanaserie.pro
+0.0.0.0 librefutbolapk.com
 0.0.0.0 pelotalibre.today
 0.0.0.0 pelotalibreenvivo.cl
 0.0.0.0 pelotalibreplus.com

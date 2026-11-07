@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 409 | Updated: 2026-11-06
+# Domains: 412 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -112,6 +112,7 @@
 0.0.0.0 doeda104.click
 0.0.0.0 doeda108.click
 0.0.0.0 doeda109.click
+0.0.0.0 doeda114.click
 0.0.0.0 doedahd.com
 0.0.0.0 dolores1.skin
 0.0.0.0 drov.fr
@@ -191,6 +192,8 @@
 0.0.0.0 istanbul12.com
 0.0.0.0 istanbularkadasilan.com
 0.0.0.0 istanbuldur.com
+0.0.0.0 istanbulescort.app
+0.0.0.0 istanbulhotescorts.com
 0.0.0.0 istanbulilanbul.com
 0.0.0.0 istanbulmasozbayan.site
 0.0.0.0 istanbulseksshop.com

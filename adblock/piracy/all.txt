@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 1,130 | Updated: 2026-11-06
+! Domains: 1,133 | Updated: 2026-11-07
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -548,6 +548,7 @@
 ||kuttymovies.vip^
 ||kuttymovies.win^
 |l111oqg-amphtml.propolonia.be^
+|l1z0d4rsucr-stylesheet.nettoyagereunion.re^
 ||latestmodapks.com^
 ||layarkaca21.monster^
 ||layarkaca21bank.com^
@@ -556,6 +557,7 @@
 |leisure.harianjogja.com^
 |library.sunshinecoast.qld.gov.au^
 ||librefutbol.vip^
+||librefutbolapk.com^
 ||lichphimmoi.com^
 |lifestyle.assist-all.co.jp^
 ||limetorrent.net^
@@ -672,6 +674,7 @@
 ||mycima.watch^
 ||myflixer.com.co^
 ||mynetnaija.ng^
+||mysportsurge.fit^
 ||mystreameast.fun^
 ||myvipbox.com^
 ||naijaloaded.com.ng^

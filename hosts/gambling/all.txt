@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 446,091 | Updated: 2026-11-06
+# Domains: 446,094 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -267671,6 +267671,7 @@
 0.0.0.0 mostbet-official-zerkalo.com
 0.0.0.0 mostbet-official.az
 0.0.0.0 mostbet-official.bet
+0.0.0.0 mostbet-official.help
 0.0.0.0 mostbet-official.one
 0.0.0.0 mostbet-official.se
 0.0.0.0 mostbet-officla1.ru
@@ -287327,6 +287328,7 @@
 0.0.0.0 obi999-slotstarx.pages.dev
 0.0.0.0 obibet.org
 0.0.0.0 obitotoslot.club
+0.0.0.0 objektifahaber.org
 0.0.0.0 oblsport-kem.ru
 0.0.0.0 obor138-bsnp-situsslot.pages.dev
 0.0.0.0 obor138-casino-putrasentosaprakarsa.pages.dev
@@ -345808,6 +345810,7 @@
 0.0.0.0 santafe-casino.site
 0.0.0.0 santagg-slot-gacor-malam-ini.pages.dev
 0.0.0.0 santaipoker.org
+0.0.0.0 santamariatalca.cl
 0.0.0.0 santana777-menang-slot.pages.dev
 0.0.0.0 santanderbetslots.pages.dev
 0.0.0.0 santandercasino-es.pages.dev

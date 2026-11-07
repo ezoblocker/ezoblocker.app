@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 432 | Updated: 2026-11-06
+# Domains: 434 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -175,6 +175,7 @@ kora4live.surf
 koraliveivo.com
 koraonline.quest
 librefutbol.vip
+librefutbolapk.com
 live.pcb.com.pk
 liveball.sx
 livebola.com
@@ -219,6 +220,7 @@ mlbbite.plus
 muave.hanoifc.com.vn
 muayded789.com
 multicanaishdtv.com.br
+mysportsurge.fit
 mystreameast.fun
 myvipbox.com
 nbabite.info

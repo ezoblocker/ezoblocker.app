@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Germany (de)
-# Domains: 78 | Updated: 2026-11-06
+# Domains: 80 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/de.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,6 +16,7 @@
 0.0.0.0 camsexdeutsch.com
 0.0.0.0 charlottedewinter.com
 0.0.0.0 danichou.de
+0.0.0.0 daqgtp.com
 0.0.0.0 dessousshop.de
 0.0.0.0 deutscheamateure24.com
 0.0.0.0 deutscheonlyfansmodels.de
@@ -53,6 +54,7 @@
 0.0.0.0 orion-store.de
 0.0.0.0 other-nature.de
 0.0.0.0 peitschenhandel.de
+0.0.0.0 pinkysexcam.com
 0.0.0.0 primepro247.com
 0.0.0.0 rawrcave.com
 0.0.0.0 red-life.com

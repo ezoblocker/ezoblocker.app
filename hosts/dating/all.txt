@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,275 | Updated: 2026-11-06
+# Domains: 1,278 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -352,6 +352,7 @@
 0.0.0.0 elitecupid.com
 0.0.0.0 eliteescortamsterdam.com
 0.0.0.0 eliteescortsaustralia.au
+0.0.0.0 elitemanilaescorts.com
 0.0.0.0 elitepartner.de
 0.0.0.0 elitesingles.com
 0.0.0.0 elitislamievlilik.com
@@ -468,6 +469,7 @@
 0.0.0.0 fujoho.jp
 0.0.0.0 fundacionchatlatino.org
 0.0.0.0 fundmysugarbaby.com
+0.0.0.0 fuse.jukujoya.jp
 0.0.0.0 gabile.net
 0.0.0.0 gabilesohbet.net
 0.0.0.0 gaigoi.date
@@ -725,6 +727,7 @@
 0.0.0.0 mclassbrasil.com.br
 0.0.0.0 medan.putrispa.com
 0.0.0.0 meet-japan.bnextmedia.com
+0.0.0.0 meet.omlete.ru
 0.0.0.0 meet.xcanto.com
 0.0.0.0 meetanescort.info
 0.0.0.0 meetescortsnearme.com
