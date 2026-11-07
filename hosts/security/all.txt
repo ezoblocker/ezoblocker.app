@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 95,333 | Updated: 2026-11-07
+# Domains: 95,331 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -3839,6 +3839,7 @@
 0.0.0.0 appeal-meta-view-fb.pages.dev
 0.0.0.0 appeal-meta-view-wv.pages.dev
 0.0.0.0 appeal-official-facebook.pages.dev
+0.0.0.0 appeal-youtube.com
 0.0.0.0 appfrax-finance.pages.dev
 0.0.0.0 appie-verifier.support
 0.0.0.0 appio-started.pages.dev
@@ -6663,6 +6664,7 @@
 0.0.0.0 bao-whatapp.hk.cn
 0.0.0.0 barber-whatsapp.com.cn
 0.0.0.0 barclays-insurance-services.ph
+0.0.0.0 barclays-onlinebanking-deutschland.com
 0.0.0.0 barclays-support.com
 0.0.0.0 barclaysbank.co
 0.0.0.0 baridge-treazors.pages.dev
@@ -8243,7 +8245,6 @@
 0.0.0.0 booklng-payds.com
 0.0.0.0 booklng-pays.com
 0.0.0.0 booklng-prearrlivalmesgs.com
-0.0.0.0 booklng-reserve.com
 0.0.0.0 booklng-resupadatestay.com
 0.0.0.0 booklng-stayguestypaga.com
 0.0.0.0 booklng-updatarrlivalstay.com
@@ -13281,7 +13282,6 @@
 0.0.0.0 coinbasefastfix.pages.dev
 0.0.0.0 coinbasefastrectify.pages.dev
 0.0.0.0 coinbasefaultrectify.pages.dev
-0.0.0.0 coinbaseglobals.info
 0.0.0.0 coinbasehelp-3cj.pages.dev
 0.0.0.0 coinbasehelp-us.pages.dev
 0.0.0.0 coinbasehelp.pages.dev
@@ -26265,7 +26265,6 @@
 0.0.0.0 florivex-haven.pages.dev
 0.0.0.0 flossrobloxid.pages.dev
 0.0.0.0 flow-w-hatsapp.com.cn
-0.0.0.0 flow-whatapp.com.cn
 0.0.0.0 flpkart.sale-start.live
 0.0.0.0 flute-whatsapp.com.cn
 0.0.0.0 flutterwave-ingbank.com.ph
@@ -39030,7 +39029,6 @@
 0.0.0.0 jonarivo-weximora.pages.dev
 0.0.0.0 jonesroad-beauty-guide.pages.dev
 0.0.0.0 jonesroadbeauty-sell.com
-0.0.0.0 jonesroadbeauty-store.com
 0.0.0.0 jonesroadbeautysell.com
 0.0.0.0 jonireva-polunire.pages.dev
 0.0.0.0 jonoriva-kelunaro.pages.dev
@@ -52367,6 +52365,7 @@
 0.0.0.0 login.linkedin.com-verification.link
 0.0.0.0 login.microsftonline.kfca-sa.com
 0.0.0.0 login.microsoftonline-sharepoint.zelvantaaa.world
+0.0.0.0 login.onuris-my-sharepiont.com
 0.0.0.0 login.robinhood4good.online
 0.0.0.0 login.samsung-mobile.it
 0.0.0.0 login.secure.microsoftonlline.officexyv.work
@@ -59178,7 +59177,6 @@
 0.0.0.0 nw-ttrezorr-strt.pages.dev
 0.0.0.0 nwe-trzorio-cdn.pages.dev
 0.0.0.0 nwe-whatapp.com.cn
-0.0.0.0 nwnawow-russiansdiplomrussiansdiplomrussiansdiplom-russiansdip2.click
 0.0.0.0 nxb-w-hatsapp.hl.cn
 0.0.0.0 nxf-w-hatsapp.hl.cn
 0.0.0.0 nxq-whatsapp.com.cn
@@ -64209,7 +64207,6 @@
 0.0.0.0 privatewhatsapprooms.pages.dev
 0.0.0.0 privatewhatssapp.pages.dev
 0.0.0.0 privatttts33x.pages.dev
-0.0.0.0 pro-app-whatsapp.com.cn
 0.0.0.0 pro-base-coinbse.pages.dev
 0.0.0.0 pro-bridge-trzrio-en.pages.dev
 0.0.0.0 pro-browser-extensionn.pages.dev
@@ -66220,6 +66217,7 @@
 0.0.0.0 robinhood-w-support.pages.dev
 0.0.0.0 robinhood-x-login-en-us.pages.dev
 0.0.0.0 robinhoodaccessprofileverify.pages.dev
+0.0.0.0 robinhoodalert.com
 0.0.0.0 robinhoodassetrecoverygroupllc.com
 0.0.0.0 robinhoodassetsrecovery.com
 0.0.0.0 robinhoodl-se-ogin.pages.dev

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Security
-! Domains: 95,333 | Updated: 2026-11-07
+! Domains: 95,331 | Updated: 2026-11-07
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -3839,6 +3839,7 @@
 ||appeal-meta-view-fb.pages.dev^
 ||appeal-meta-view-wv.pages.dev^
 ||appeal-official-facebook.pages.dev^
+||appeal-youtube.com^
 ||appfrax-finance.pages.dev^
 ||appie-verifier.support^
 ||appio-started.pages.dev^
@@ -6663,6 +6664,7 @@
 ||bao-whatapp.hk.cn^
 ||barber-whatsapp.com.cn^
 ||barclays-insurance-services.ph^
+||barclays-onlinebanking-deutschland.com^
 ||barclays-support.com^
 ||barclaysbank.co^
 ||baridge-treazors.pages.dev^
@@ -8243,7 +8245,6 @@
 ||booklng-payds.com^
 ||booklng-pays.com^
 ||booklng-prearrlivalmesgs.com^
-||booklng-reserve.com^
 ||booklng-resupadatestay.com^
 ||booklng-stayguestypaga.com^
 ||booklng-updatarrlivalstay.com^
@@ -13281,7 +13282,6 @@
 ||coinbasefastfix.pages.dev^
 ||coinbasefastrectify.pages.dev^
 ||coinbasefaultrectify.pages.dev^
-||coinbaseglobals.info^
 ||coinbasehelp-3cj.pages.dev^
 ||coinbasehelp-us.pages.dev^
 ||coinbasehelp.pages.dev^
@@ -26265,7 +26265,6 @@
 ||florivex-haven.pages.dev^
 ||flossrobloxid.pages.dev^
 ||flow-w-hatsapp.com.cn^
-||flow-whatapp.com.cn^
 |flpkart.sale-start.live^
 ||flute-whatsapp.com.cn^
 ||flutterwave-ingbank.com.ph^
@@ -39030,7 +39029,6 @@
 ||jonarivo-weximora.pages.dev^
 ||jonesroad-beauty-guide.pages.dev^
 ||jonesroadbeauty-sell.com^
-||jonesroadbeauty-store.com^
 ||jonesroadbeautysell.com^
 ||jonireva-polunire.pages.dev^
 ||jonoriva-kelunaro.pages.dev^
@@ -52367,6 +52365,7 @@
 |login.linkedin.com-verification.link^
 |login.microsftonline.kfca-sa.com^
 |login.microsoftonline-sharepoint.zelvantaaa.world^
+|login.onuris-my-sharepiont.com^
 |login.robinhood4good.online^
 |login.samsung-mobile.it^
 |login.secure.microsoftonlline.officexyv.work^
@@ -59178,7 +59177,6 @@
 ||nw-ttrezorr-strt.pages.dev^
 ||nwe-trzorio-cdn.pages.dev^
 ||nwe-whatapp.com.cn^
-||nwnawow-russiansdiplomrussiansdiplomrussiansdiplom-russiansdip2.click^
 ||nxb-w-hatsapp.hl.cn^
 ||nxf-w-hatsapp.hl.cn^
 ||nxq-whatsapp.com.cn^
@@ -64209,7 +64207,6 @@
 ||privatewhatsapprooms.pages.dev^
 ||privatewhatssapp.pages.dev^
 ||privatttts33x.pages.dev^
-||pro-app-whatsapp.com.cn^
 ||pro-base-coinbse.pages.dev^
 ||pro-bridge-trzrio-en.pages.dev^
 ||pro-browser-extensionn.pages.dev^
@@ -66220,6 +66217,7 @@
 ||robinhood-w-support.pages.dev^
 ||robinhood-x-login-en-us.pages.dev^
 ||robinhoodaccessprofileverify.pages.dev^
+||robinhoodalert.com^
 ||robinhoodassetrecoverygroupllc.com^
 ||robinhoodassetsrecovery.com^
 ||robinhoodl-se-ogin.pages.dev^
