@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, ad exchange endpoints from Prebid.js / Prebid Server adapters
-# Domains: 272 | Updated: 2026-11-07
+# Domains: 273 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/ads/prebid.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -114,7 +114,6 @@ ferio.bid
 fran.frvr.com
 g.ezoic.net
 ghb.app.copper6.com
-ghb.bidder.jmgads.com
 ghb.console.indicue.com
 ghb.hb.streamkey.net
 ghb.pgamssp.com
@@ -171,6 +170,7 @@ player-cdn.beachfrontmedia.com
 player.adswag.ai
 prebid-apac.attekmi.co
 prebid-eu.attekmi.co
+prebid-server.ioadx.com
 prebid-srv.mtflll-system.live
 prebid-srv.xe.works
 prebid-us-east-1.getblue.io
@@ -179,9 +179,9 @@ prebid.attekmi.co
 prebid.axis-marketplace.com
 prebid.chocolateplatform.co
 prebid.cht.hinet.net
-prebid.display.io
 prebid.ecdrsvc.com
 prebid.eu-central-1.bidder.mediakeys.io
+prebid.ioadx.com
 prebid.melozen.com
 prebid.mes.glomex.cloud
 prebid.optinadserving.com
@@ -247,6 +247,7 @@ sync.sweetgum.io
 sync.tagoras.io
 sync.theagenticx.ai
 sync.twist.win
+sync.v5prebid.datablocks.net
 sync.zxyvrtd.com
 sync2.adnetwork.agency
 syncbf.bidfuse.com

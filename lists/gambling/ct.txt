@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 497,126 | Updated: 2026-11-07
+# Domains: 497,122 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -60394,7 +60394,6 @@
 *.betgaranti1600.com
 *.betgaranti1607.com
 *.betgaranti1766.com
-*.betgaranti2026gunceladres.com
 *.betgaranti4.com
 *.betgaranti9817.com
 *.betgaranti9902.com
@@ -153013,7 +153012,6 @@
 *.cosmocasino.ie
 *.cosmocasino.in
 *.cosmocasino.ink
-*.cosmocasino.it
 *.cosmocasino.me
 *.cosmocasino.me.uk
 *.cosmocasino.net.pl
@@ -308326,7 +308324,6 @@
 *.neonwin-casinoz.com
 *.neonwin-casinoz.org
 *.neonwin-cazino.org
-*.neonwin-cazinos.top
 *.neonwincasino.pages.dev
 *.neonwincasino777.com
 *.neonwincasinos.com
@@ -355270,7 +355267,6 @@
 *.posido-casino-it.org
 *.posido-casino-nl-com-5867ee.pages.dev
 *.posido-casino-no.com
-*.posido-casino-online.es
 *.posido-casino-pt.bet
 *.posido-casino-pt.com
 *.posido-casino-pt.net
@@ -368628,6 +368624,7 @@
 *.restbet-guncel-oyunlari-top.pages.dev
 *.restbet-kazanclibahis-top.pages.dev
 *.restbet-mobil-oyunlar-top.pages.dev
+*.restbet-mobiletr.vip
 *.restbet-oyun-dunyasi-top.pages.dev
 *.restbet-oyun-girisi-top.pages.dev
 *.restbet-oyunlari-top.pages.dev
@@ -368636,6 +368633,7 @@
 *.restbet-vip-girisi-top.pages.dev
 *.restbet-vip-kazanclar-top.pages.dev
 *.restbet-vip-oyunlar-top.pages.dev
+*.restbet-vip.live
 *.restbet-yenigiris-xyz.pages.dev
 *.restbet.com.de
 *.restbet.top
@@ -368875,6 +368873,7 @@
 *.retrobetgame.com
 *.retrobetgaming.com
 *.retrobetgiris.link
+*.retrobetgiris.mobi
 *.retrobetgiris.org
 *.retrobetgit.com
 *.retrobetguncelgiris.com
@@ -369570,6 +369569,7 @@
 *.rezoncasino9073.xyz
 *.rfbellagio.org
 *.rfgteknoloji.com.tr
+*.rfl.casino
 *.rfroidmoncourtois.fr
 *.rg777-casino.com
 *.rg777casino.com
@@ -372356,7 +372356,6 @@
 *.riobetcasino-swi.top
 *.riobetcasino-sws.top
 *.riobetcasino-sxp.top
-*.riobetcasino-sy.top
 *.riobetcasino-syg.top
 *.riobetcasino-syk.top
 *.riobetcasino-szk.top
@@ -385415,6 +385414,7 @@
 *.sanvipcasino.com
 *.sanvipcasinobet.com
 *.sanycanada.com
+*.sao.casino
 *.sao789casinobet.com
 *.sao79homebet.com
 *.saojoaocasino.com
@@ -429975,7 +429975,6 @@
 *.sunnybet-casinos.com
 *.sunnybet-casinos.de
 *.sunnybet-eu-21235.pages.dev
-*.sunnybetcasino-online.com
 *.sunnybetcasino.at
 *.sunnybetcasino.com
 *.sunnybetcasino.cz
@@ -435653,7 +435652,6 @@
 *.telegram-casino.biz
 *.telegram-casino.de
 *.telegram-casino.games
-*.telegram-casino.net
 *.telegram-casino.nl
 *.telegram-casinos.com
 *.telegram-slot-frontend.pages.dev
@@ -437752,7 +437750,6 @@
 *.thehippodromeonlinecasino-casino.pages.dev
 *.thehippodromeonlinecasino-games.pages.dev
 *.thehippodromeonlinecasino-vip.pages.dev
-*.thehippodromeonlinecasino.co.uk
 *.thehippodromeonlinecasino.me.uk
 *.theholyluck-casino.nl
 *.theholyluck-casinos-nl.nl
@@ -448840,7 +448837,6 @@
 *.tsarscasinoo.de
 *.tsarscasinoonline.com.de
 *.tsarscasinoonline.de
-*.tsarscasinopl.com
 *.tsarscasinoplay.com
 *.tsarscasinopolska.com
 *.tsarscasinopt-com.pages.dev

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 95,331 | Updated: 2026-11-07
+# Domains: 95,307 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -2526,7 +2526,6 @@
 0.0.0.0 andax-login.pages.dev
 0.0.0.0 andes-rendivo.org
 0.0.0.0 android-apk-gratis.com
-0.0.0.0 android-app-whatsapp.com.cn
 0.0.0.0 android-waves-whatsapp-plus-v19.pages.dev
 0.0.0.0 andromeda-stream.pages.dev
 0.0.0.0 anekke-espana.com
@@ -13290,7 +13289,6 @@
 0.0.0.0 coinbasehelpdesk.pages.dev
 0.0.0.0 coinbasehompage.pages.dev
 0.0.0.0 coinbaseidentityverification.fanduelsportsnetworkk.com
-0.0.0.0 coinbaseidentityverification.linkedinl.com
 0.0.0.0 coinbaselgin.pages.dev
 0.0.0.0 coinbaselgn.pages.dev
 0.0.0.0 coinbaselink.pages.dev
@@ -26517,7 +26515,6 @@
 0.0.0.0 fullcopecqact.top
 0.0.0.0 fullcopecqr.top
 0.0.0.0 fun-suite-en-us-trez.pages.dev
-0.0.0.0 fun-whatapp.hl.cn
 0.0.0.0 fundacao-santander-site.pages.dev
 0.0.0.0 funnyrobloxsongids2024.pages.dev
 0.0.0.0 funwhatsappsex.pages.dev
@@ -26528,7 +26525,6 @@
 0.0.0.0 future-banking-system-solution.pages.dev
 0.0.0.0 futurebinance.com
 0.0.0.0 futurixedgeai-click.pages.dev
-0.0.0.0 fv-w-hatsapp.hl.cn
 0.0.0.0 fv-whats-app.hl.cn
 0.0.0.0 fw-whats-app.com.cn
 0.0.0.0 fwlink-docusign-verify.workers.dev
@@ -28121,7 +28117,6 @@
 0.0.0.0 glf-whats-app.com.cn
 0.0.0.0 glitchy-myjobscorner-amazon.pages.dev
 0.0.0.0 global-desktop-ledgr.pages.dev
-0.0.0.0 global-web-whatsapp.com.cn
 0.0.0.0 globaleliteprobittsinc.com
 0.0.0.0 globeihotelservlce.cc
 0.0.0.0 glornivex-krenthivor.pages.dev
@@ -40890,7 +40885,6 @@
 0.0.0.0 laigerlive-wallet--page.pages.dev
 0.0.0.0 laijer-live--app.pages.dev
 0.0.0.0 laijerlive--logn.pages.dev
-0.0.0.0 laim-whatsapp.com.cn
 0.0.0.0 lajeer-liveapp.pages.dev
 0.0.0.0 lak-whats-app.com.cn
 0.0.0.0 lamwale1.pages.dev
@@ -52983,7 +52977,6 @@
 0.0.0.0 lokalna-ofeta101xz0y2j071.icu
 0.0.0.0 lokalna-ofeta1021xz5y2j078.icu
 0.0.0.0 lokalna-ofeta1023xz3y2j.cfd
-0.0.0.0 lokalna-ofeta1023xz3y2j00.icu
 0.0.0.0 lokalna-ofeta1023xz3y2j008.icu
 0.0.0.0 lokalna-ofeta1023xz3y2j032.icu
 0.0.0.0 lokalna-ofeta1028xz3y2j065.icu
@@ -53015,7 +53008,6 @@
 0.0.0.0 lokalna-ofeta65.sbs
 0.0.0.0 lokalna-ofeta664.sbs
 0.0.0.0 lokalna-ofeta66814.shop
-0.0.0.0 lokalna-ofeta671.sbs
 0.0.0.0 lokalna-ofeta671344.shop
 0.0.0.0 lokalna-ofeta77173.shop
 0.0.0.0 lokalna-ofeta79182.shop
@@ -53928,7 +53920,6 @@
 0.0.0.0 mbdfinacials-mig.pages.dev
 0.0.0.0 mbdfinacials.pages.dev
 0.0.0.0 mc-tejegram.com
-0.0.0.0 mc-w-hatsapp.hl.cn
 0.0.0.0 mc-whats-app.hl.cn
 0.0.0.0 mc-whatssapp.com.cn
 0.0.0.0 mcj-whatsapp.com.cn
@@ -56604,7 +56595,6 @@
 0.0.0.0 mobile-online-banking-bdo.pages.dev
 0.0.0.0 mobile-solaxy.pages.dev
 0.0.0.0 mobile-web-ledgrlive.pages.dev
-0.0.0.0 mobile-web-whatsapp.com.cn
 0.0.0.0 mobilesecure-chase.com
 0.0.0.0 mobywatel-nowy-flow.pages.dev
 0.0.0.0 model-exorex-100.site
@@ -58700,7 +58690,6 @@
 0.0.0.0 news-live-ledgr.pages.dev
 0.0.0.0 news-suiite.pages.dev
 0.0.0.0 news-trzr-strt.pages.dev
-0.0.0.0 news-web-whatsapp.com.cn
 0.0.0.0 newsecurevvallet.pages.dev
 0.0.0.0 newseo-nos138-join.pages.dev
 0.0.0.0 newsite-kiraattechnology.pages.dev
@@ -62879,7 +62868,6 @@
 0.0.0.0 paypall.com.pl
 0.0.0.0 paypall.pages.dev
 0.0.0.0 paypalloans.pages.dev
-0.0.0.0 paypallogin.edgeaiweb.com
 0.0.0.0 paypalme.pages.dev
 0.0.0.0 paypalplus.pages.dev
 0.0.0.0 paypalreward.pages.dev
@@ -62909,8 +62897,6 @@
 0.0.0.0 pc-app-whatsapp.com.cn
 0.0.0.0 pc-down-whatapp.hl.cn
 0.0.0.0 pc-load-letter-color.printer.in.goog
-0.0.0.0 pc-news-whatsapp.com.cn
-0.0.0.0 pc-web-whatsapp.com.cn
 0.0.0.0 pdbkohfg.medicare-benefit-verification-portal.161-35-102-243.cpanel.site
 0.0.0.0 pdf-robinhodlogin.pages.dev
 0.0.0.0 pdf-whatsapp.com.cn
@@ -65256,7 +65242,6 @@
 0.0.0.0 qnbfinansbank.limetop.com
 0.0.0.0 qnv-whatsapp.com.cn
 0.0.0.0 qnwjnh6k9zosnbxu04p4q8g8zf8bkyo-ec4k0-0-u65p07qw9qzkn-7j0p.pages.dev
-0.0.0.0 qoder-whatapp.hl.cn
 0.0.0.0 qoin--login-app.pages.dev
 0.0.0.0 qoin-coinbase-login.pages.dev
 0.0.0.0 qoinbase--wallet-cdn.pages.dev
@@ -65500,7 +65485,6 @@
 0.0.0.0 ralunexo-vitemora.pages.dev
 0.0.0.0 ram-suite-trezor.pages.dev
 0.0.0.0 randevu-mhrs-takvim.cfd
-0.0.0.0 randevuhzmtlerburdsas.store
 0.0.0.0 random-us-paypal.pingidentity.gen.in
 0.0.0.0 ranimorto-velunirex.pages.dev
 0.0.0.0 ranixo-biz-senvix-12260.pages.dev
@@ -77365,7 +77349,6 @@
 0.0.0.0 tech-ldgrelive.pages.dev
 0.0.0.0 tech-ldgrwalet.pages.dev
 0.0.0.0 tech-metmask-eng-us.pages.dev
-0.0.0.0 tech-news-whatsapp.com.cn
 0.0.0.0 tech-start-io-trezrr.pages.dev
 0.0.0.0 techcombank-proximus.ph
 0.0.0.0 techcombank-zus-applesupport.ph
@@ -77437,7 +77420,6 @@
 0.0.0.0 teiedxqjfu.club
 0.0.0.0 teiedxqjfu.ink
 0.0.0.0 teiedxqjfu.top
-0.0.0.0 teiegalinn.net
 0.0.0.0 teiegalomn.net
 0.0.0.0 teiegalonm.net
 0.0.0.0 teiegalormn.net
@@ -77796,7 +77778,6 @@
 0.0.0.0 telegramzhongwen-com-cn.pages.dev
 0.0.0.0 telegrmx.pages.dev
 0.0.0.0 telegroxxs.luxe
-0.0.0.0 telegrrram.com
 0.0.0.0 telegrrram.pages.dev
 0.0.0.0 telegxxsab.bond
 0.0.0.0 telegxxsab.cyou
@@ -78397,7 +78378,6 @@
 0.0.0.0 tokenpoketprimx-cdn-kr8.lol
 0.0.0.0 tokenpoketvip-cdn-d4.lol
 0.0.0.0 tokenpoketvip-gw-de0.lol
-0.0.0.0 tokenpoketvip-gw-de8.lol
 0.0.0.0 tokenpoketvipi-dist-de4.lol
 0.0.0.0 tokenpoketzone31-cdn-hk89.cfd
 0.0.0.0 tokensale-worldlibertyfinancial.pages.dev
@@ -89196,7 +89176,6 @@
 0.0.0.0 verifimybooklng.com
 0.0.0.0 veriflcationforposhers.com
 0.0.0.0 verifld.com
-0.0.0.0 veriflink.shop
 0.0.0.0 verify--metamask-io.pages.dev
 0.0.0.0 verify--z607.com
 0.0.0.0 verify-account-bdo-banking.pages.dev
@@ -93122,7 +93101,6 @@
 0.0.0.0 whatsapp-xxx-naughty17.pages.dev
 0.0.0.0 whatsapp-xxx-naughty18.pages.dev
 0.0.0.0 whatsapp-ye.com.cn
-0.0.0.0 whatsapp-zhapp.com
 0.0.0.0 whatsapp00x.pages.dev
 0.0.0.0 whatsapp0nly.pages.dev
 0.0.0.0 whatsapp0nlyy.pages.dev
@@ -93206,7 +93184,6 @@
 0.0.0.0 whatsappdatenew.pages.dev
 0.0.0.0 whatsappdatespecialsarah.pages.dev
 0.0.0.0 whatsappdatess.pages.dev
-0.0.0.0 whatsappeij.com
 0.0.0.0 whatsappelena.pages.dev
 0.0.0.0 whatsappemails.alert.synergytop.com
 0.0.0.0 whatsappen.pages.dev
@@ -93893,7 +93870,6 @@
 0.0.0.0 worldlibertyfinancialunlock.pages.dev
 0.0.0.0 worldlibertyfinancialz.pages.dev
 0.0.0.0 worldlibertyfinanciial.pages.dev
-0.0.0.0 worldlibertyfinanclal.com
 0.0.0.0 worldlibertyfinanclal.pages.dev
 0.0.0.0 worldpingtelegramchannel.jeris34891.workers.dev
 0.0.0.0 worrk--trzr-io--start.pages.dev

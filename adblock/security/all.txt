@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Security
-! Domains: 95,331 | Updated: 2026-11-07
+! Domains: 95,307 | Updated: 2026-11-07
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -2526,7 +2526,6 @@
 ||andax-login.pages.dev^
 ||andes-rendivo.org^
 ||android-apk-gratis.com^
-||android-app-whatsapp.com.cn^
 ||android-waves-whatsapp-plus-v19.pages.dev^
 ||andromeda-stream.pages.dev^
 ||anekke-espana.com^
@@ -13290,7 +13289,6 @@
 ||coinbasehelpdesk.pages.dev^
 ||coinbasehompage.pages.dev^
 |coinbaseidentityverification.fanduelsportsnetworkk.com^
-|coinbaseidentityverification.linkedinl.com^
 ||coinbaselgin.pages.dev^
 ||coinbaselgn.pages.dev^
 ||coinbaselink.pages.dev^
@@ -26517,7 +26515,6 @@
 ||fullcopecqact.top^
 ||fullcopecqr.top^
 ||fun-suite-en-us-trez.pages.dev^
-||fun-whatapp.hl.cn^
 ||fundacao-santander-site.pages.dev^
 ||funnyrobloxsongids2024.pages.dev^
 ||funwhatsappsex.pages.dev^
@@ -26528,7 +26525,6 @@
 ||future-banking-system-solution.pages.dev^
 ||futurebinance.com^
 ||futurixedgeai-click.pages.dev^
-||fv-w-hatsapp.hl.cn^
 ||fv-whats-app.hl.cn^
 ||fw-whats-app.com.cn^
 ||fwlink-docusign-verify.workers.dev^
@@ -28121,7 +28117,6 @@
 ||glf-whats-app.com.cn^
 ||glitchy-myjobscorner-amazon.pages.dev^
 ||global-desktop-ledgr.pages.dev^
-||global-web-whatsapp.com.cn^
 ||globaleliteprobittsinc.com^
 ||globeihotelservlce.cc^
 ||glornivex-krenthivor.pages.dev^
@@ -40890,7 +40885,6 @@
 ||laigerlive-wallet--page.pages.dev^
 ||laijer-live--app.pages.dev^
 ||laijerlive--logn.pages.dev^
-||laim-whatsapp.com.cn^
 ||lajeer-liveapp.pages.dev^
 ||lak-whats-app.com.cn^
 ||lamwale1.pages.dev^
@@ -52983,7 +52977,6 @@
 ||lokalna-ofeta101xz0y2j071.icu^
 ||lokalna-ofeta1021xz5y2j078.icu^
 ||lokalna-ofeta1023xz3y2j.cfd^
-||lokalna-ofeta1023xz3y2j00.icu^
 ||lokalna-ofeta1023xz3y2j008.icu^
 ||lokalna-ofeta1023xz3y2j032.icu^
 ||lokalna-ofeta1028xz3y2j065.icu^
@@ -53015,7 +53008,6 @@
 ||lokalna-ofeta65.sbs^
 ||lokalna-ofeta664.sbs^
 ||lokalna-ofeta66814.shop^
-||lokalna-ofeta671.sbs^
 ||lokalna-ofeta671344.shop^
 ||lokalna-ofeta77173.shop^
 ||lokalna-ofeta79182.shop^
@@ -53928,7 +53920,6 @@
 ||mbdfinacials-mig.pages.dev^
 ||mbdfinacials.pages.dev^
 ||mc-tejegram.com^
-||mc-w-hatsapp.hl.cn^
 ||mc-whats-app.hl.cn^
 ||mc-whatssapp.com.cn^
 ||mcj-whatsapp.com.cn^
@@ -56604,7 +56595,6 @@
 ||mobile-online-banking-bdo.pages.dev^
 ||mobile-solaxy.pages.dev^
 ||mobile-web-ledgrlive.pages.dev^
-||mobile-web-whatsapp.com.cn^
 ||mobilesecure-chase.com^
 ||mobywatel-nowy-flow.pages.dev^
 ||model-exorex-100.site^
@@ -58700,7 +58690,6 @@
 ||news-live-ledgr.pages.dev^
 ||news-suiite.pages.dev^
 ||news-trzr-strt.pages.dev^
-||news-web-whatsapp.com.cn^
 ||newsecurevvallet.pages.dev^
 ||newseo-nos138-join.pages.dev^
 ||newsite-kiraattechnology.pages.dev^
@@ -62879,7 +62868,6 @@
 ||paypall.com.pl^
 ||paypall.pages.dev^
 ||paypalloans.pages.dev^
-|paypallogin.edgeaiweb.com^
 ||paypalme.pages.dev^
 ||paypalplus.pages.dev^
 ||paypalreward.pages.dev^
@@ -62909,8 +62897,6 @@
 ||pc-app-whatsapp.com.cn^
 ||pc-down-whatapp.hl.cn^
 |pc-load-letter-color.printer.in.goog^
-||pc-news-whatsapp.com.cn^
-||pc-web-whatsapp.com.cn^
 |pdbkohfg.medicare-benefit-verification-portal.161-35-102-243.cpanel.site^
 ||pdf-robinhodlogin.pages.dev^
 ||pdf-whatsapp.com.cn^
@@ -65256,7 +65242,6 @@
 |qnbfinansbank.limetop.com^
 ||qnv-whatsapp.com.cn^
 ||qnwjnh6k9zosnbxu04p4q8g8zf8bkyo-ec4k0-0-u65p07qw9qzkn-7j0p.pages.dev^
-||qoder-whatapp.hl.cn^
 ||qoin--login-app.pages.dev^
 ||qoin-coinbase-login.pages.dev^
 ||qoinbase--wallet-cdn.pages.dev^
@@ -65500,7 +65485,6 @@
 ||ralunexo-vitemora.pages.dev^
 ||ram-suite-trezor.pages.dev^
 ||randevu-mhrs-takvim.cfd^
-||randevuhzmtlerburdsas.store^
 |random-us-paypal.pingidentity.gen.in^
 ||ranimorto-velunirex.pages.dev^
 ||ranixo-biz-senvix-12260.pages.dev^
@@ -77365,7 +77349,6 @@
 ||tech-ldgrelive.pages.dev^
 ||tech-ldgrwalet.pages.dev^
 ||tech-metmask-eng-us.pages.dev^
-||tech-news-whatsapp.com.cn^
 ||tech-start-io-trezrr.pages.dev^
 ||techcombank-proximus.ph^
 ||techcombank-zus-applesupport.ph^
@@ -77437,7 +77420,6 @@
 ||teiedxqjfu.club^
 ||teiedxqjfu.ink^
 ||teiedxqjfu.top^
-||teiegalinn.net^
 ||teiegalomn.net^
 ||teiegalonm.net^
 ||teiegalormn.net^
@@ -77796,7 +77778,6 @@
 ||telegramzhongwen-com-cn.pages.dev^
 ||telegrmx.pages.dev^
 ||telegroxxs.luxe^
-||telegrrram.com^
 ||telegrrram.pages.dev^
 ||telegxxsab.bond^
 ||telegxxsab.cyou^
@@ -78397,7 +78378,6 @@
 ||tokenpoketprimx-cdn-kr8.lol^
 ||tokenpoketvip-cdn-d4.lol^
 ||tokenpoketvip-gw-de0.lol^
-||tokenpoketvip-gw-de8.lol^
 ||tokenpoketvipi-dist-de4.lol^
 ||tokenpoketzone31-cdn-hk89.cfd^
 ||tokensale-worldlibertyfinancial.pages.dev^
@@ -89196,7 +89176,6 @@
 ||verifimybooklng.com^
 ||veriflcationforposhers.com^
 ||verifld.com^
-||veriflink.shop^
 ||verify--metamask-io.pages.dev^
 ||verify--z607.com^
 ||verify-account-bdo-banking.pages.dev^
@@ -93122,7 +93101,6 @@
 ||whatsapp-xxx-naughty17.pages.dev^
 ||whatsapp-xxx-naughty18.pages.dev^
 ||whatsapp-ye.com.cn^
-||whatsapp-zhapp.com^
 ||whatsapp00x.pages.dev^
 ||whatsapp0nly.pages.dev^
 ||whatsapp0nlyy.pages.dev^
@@ -93206,7 +93184,6 @@
 ||whatsappdatenew.pages.dev^
 ||whatsappdatespecialsarah.pages.dev^
 ||whatsappdatess.pages.dev^
-||whatsappeij.com^
 ||whatsappelena.pages.dev^
 |whatsappemails.alert.synergytop.com^
 ||whatsappen.pages.dev^
@@ -93893,7 +93870,6 @@
 ||worldlibertyfinancialunlock.pages.dev^
 ||worldlibertyfinancialz.pages.dev^
 ||worldlibertyfinanciial.pages.dev^
-||worldlibertyfinanclal.com^
 ||worldlibertyfinanclal.pages.dev^
 |worldpingtelegramchannel.jeris34891.workers.dev^
 ||worrk--trzr-io--start.pages.dev^

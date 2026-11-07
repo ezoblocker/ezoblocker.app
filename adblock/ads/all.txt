@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Ads
-! Domains: 625 | Updated: 2026-11-07
+! Domains: 627 | Updated: 2026-11-07
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/ads/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -305,7 +305,6 @@
 ||gexperiments3.com^
 ||gexperiments4.com^
 |ghb.app.copper6.com^
-|ghb.bidder.jmgads.com^
 |ghb.console.indicue.com^
 |ghb.hb.streamkey.net^
 |ghb.pgamssp.com^
@@ -439,6 +438,7 @@
 ||polarcdn-static.com^
 |prebid-apac.attekmi.co^
 |prebid-eu.attekmi.co^
+|prebid-server.ioadx.com^
 |prebid-srv.mtflll-system.live^
 |prebid-srv.xe.works^
 |prebid-us-east-1.getblue.io^
@@ -448,9 +448,9 @@
 |prebid.axis-marketplace.com^
 |prebid.chocolateplatform.co^
 |prebid.cht.hinet.net^
-|prebid.display.io^
 |prebid.ecdrsvc.com^
 |prebid.eu-central-1.bidder.mediakeys.io^
+|prebid.ioadx.com^
 |prebid.melozen.com^
 |prebid.mes.glomex.cloud^
 |prebid.optinadserving.com^
@@ -530,6 +530,7 @@
 |ssp.disqus.com^
 ||ssp.smoot.ai^
 |stackup-prebid.attekmi.co^
+||static.adserver.pm^
 ||static.bettergroup.fr^
 ||static.go2perseo.com^
 ||static.highvibes.media^
@@ -561,6 +562,7 @@
 |sync.tagoras.io^
 |sync.theagenticx.ai^
 |sync.twist.win^
+|sync.v5prebid.datablocks.net^
 |sync.zxyvrtd.com^
 |sync2.adnetwork.agency^
 |syncbf.bidfuse.com^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, ad exchange endpoints from Prebid.js / Prebid Server adapters
-# Domains: 272 | Updated: 2026-11-07
+# Domains: 273 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/prebid.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -114,7 +114,6 @@
 0.0.0.0 fran.frvr.com
 0.0.0.0 g.ezoic.net
 0.0.0.0 ghb.app.copper6.com
-0.0.0.0 ghb.bidder.jmgads.com
 0.0.0.0 ghb.console.indicue.com
 0.0.0.0 ghb.hb.streamkey.net
 0.0.0.0 ghb.pgamssp.com
@@ -171,6 +170,7 @@
 0.0.0.0 player.adswag.ai
 0.0.0.0 prebid-apac.attekmi.co
 0.0.0.0 prebid-eu.attekmi.co
+0.0.0.0 prebid-server.ioadx.com
 0.0.0.0 prebid-srv.mtflll-system.live
 0.0.0.0 prebid-srv.xe.works
 0.0.0.0 prebid-us-east-1.getblue.io
@@ -179,9 +179,9 @@
 0.0.0.0 prebid.axis-marketplace.com
 0.0.0.0 prebid.chocolateplatform.co
 0.0.0.0 prebid.cht.hinet.net
-0.0.0.0 prebid.display.io
 0.0.0.0 prebid.ecdrsvc.com
 0.0.0.0 prebid.eu-central-1.bidder.mediakeys.io
+0.0.0.0 prebid.ioadx.com
 0.0.0.0 prebid.melozen.com
 0.0.0.0 prebid.mes.glomex.cloud
 0.0.0.0 prebid.optinadserving.com
@@ -247,6 +247,7 @@
 0.0.0.0 sync.tagoras.io
 0.0.0.0 sync.theagenticx.ai
 0.0.0.0 sync.twist.win
+0.0.0.0 sync.v5prebid.datablocks.net
 0.0.0.0 sync.zxyvrtd.com
 0.0.0.0 sync2.adnetwork.agency
 0.0.0.0 syncbf.bidfuse.com

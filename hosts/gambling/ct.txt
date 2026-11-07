@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 497,126 | Updated: 2026-11-07
+# Domains: 497,122 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -60394,7 +60394,6 @@
 0.0.0.0 betgaranti1600.com
 0.0.0.0 betgaranti1607.com
 0.0.0.0 betgaranti1766.com
-0.0.0.0 betgaranti2026gunceladres.com
 0.0.0.0 betgaranti4.com
 0.0.0.0 betgaranti9817.com
 0.0.0.0 betgaranti9902.com
@@ -153013,7 +153012,6 @@
 0.0.0.0 cosmocasino.ie
 0.0.0.0 cosmocasino.in
 0.0.0.0 cosmocasino.ink
-0.0.0.0 cosmocasino.it
 0.0.0.0 cosmocasino.me
 0.0.0.0 cosmocasino.me.uk
 0.0.0.0 cosmocasino.net.pl
@@ -308326,7 +308324,6 @@
 0.0.0.0 neonwin-casinoz.com
 0.0.0.0 neonwin-casinoz.org
 0.0.0.0 neonwin-cazino.org
-0.0.0.0 neonwin-cazinos.top
 0.0.0.0 neonwincasino.pages.dev
 0.0.0.0 neonwincasino777.com
 0.0.0.0 neonwincasinos.com
@@ -355270,7 +355267,6 @@
 0.0.0.0 posido-casino-it.org
 0.0.0.0 posido-casino-nl-com-5867ee.pages.dev
 0.0.0.0 posido-casino-no.com
-0.0.0.0 posido-casino-online.es
 0.0.0.0 posido-casino-pt.bet
 0.0.0.0 posido-casino-pt.com
 0.0.0.0 posido-casino-pt.net
@@ -368628,6 +368624,7 @@
 0.0.0.0 restbet-guncel-oyunlari-top.pages.dev
 0.0.0.0 restbet-kazanclibahis-top.pages.dev
 0.0.0.0 restbet-mobil-oyunlar-top.pages.dev
+0.0.0.0 restbet-mobiletr.vip
 0.0.0.0 restbet-oyun-dunyasi-top.pages.dev
 0.0.0.0 restbet-oyun-girisi-top.pages.dev
 0.0.0.0 restbet-oyunlari-top.pages.dev
@@ -368636,6 +368633,7 @@
 0.0.0.0 restbet-vip-girisi-top.pages.dev
 0.0.0.0 restbet-vip-kazanclar-top.pages.dev
 0.0.0.0 restbet-vip-oyunlar-top.pages.dev
+0.0.0.0 restbet-vip.live
 0.0.0.0 restbet-yenigiris-xyz.pages.dev
 0.0.0.0 restbet.com.de
 0.0.0.0 restbet.top
@@ -368875,6 +368873,7 @@
 0.0.0.0 retrobetgame.com
 0.0.0.0 retrobetgaming.com
 0.0.0.0 retrobetgiris.link
+0.0.0.0 retrobetgiris.mobi
 0.0.0.0 retrobetgiris.org
 0.0.0.0 retrobetgit.com
 0.0.0.0 retrobetguncelgiris.com
@@ -369570,6 +369569,7 @@
 0.0.0.0 rezoncasino9073.xyz
 0.0.0.0 rfbellagio.org
 0.0.0.0 rfgteknoloji.com.tr
+0.0.0.0 rfl.casino
 0.0.0.0 rfroidmoncourtois.fr
 0.0.0.0 rg777-casino.com
 0.0.0.0 rg777casino.com
@@ -372356,7 +372356,6 @@
 0.0.0.0 riobetcasino-swi.top
 0.0.0.0 riobetcasino-sws.top
 0.0.0.0 riobetcasino-sxp.top
-0.0.0.0 riobetcasino-sy.top
 0.0.0.0 riobetcasino-syg.top
 0.0.0.0 riobetcasino-syk.top
 0.0.0.0 riobetcasino-szk.top
@@ -385415,6 +385414,7 @@
 0.0.0.0 sanvipcasino.com
 0.0.0.0 sanvipcasinobet.com
 0.0.0.0 sanycanada.com
+0.0.0.0 sao.casino
 0.0.0.0 sao789casinobet.com
 0.0.0.0 sao79homebet.com
 0.0.0.0 saojoaocasino.com
@@ -429975,7 +429975,6 @@
 0.0.0.0 sunnybet-casinos.com
 0.0.0.0 sunnybet-casinos.de
 0.0.0.0 sunnybet-eu-21235.pages.dev
-0.0.0.0 sunnybetcasino-online.com
 0.0.0.0 sunnybetcasino.at
 0.0.0.0 sunnybetcasino.com
 0.0.0.0 sunnybetcasino.cz
@@ -435653,7 +435652,6 @@
 0.0.0.0 telegram-casino.biz
 0.0.0.0 telegram-casino.de
 0.0.0.0 telegram-casino.games
-0.0.0.0 telegram-casino.net
 0.0.0.0 telegram-casino.nl
 0.0.0.0 telegram-casinos.com
 0.0.0.0 telegram-slot-frontend.pages.dev
@@ -437752,7 +437750,6 @@
 0.0.0.0 thehippodromeonlinecasino-casino.pages.dev
 0.0.0.0 thehippodromeonlinecasino-games.pages.dev
 0.0.0.0 thehippodromeonlinecasino-vip.pages.dev
-0.0.0.0 thehippodromeonlinecasino.co.uk
 0.0.0.0 thehippodromeonlinecasino.me.uk
 0.0.0.0 theholyluck-casino.nl
 0.0.0.0 theholyluck-casinos-nl.nl
@@ -448840,7 +448837,6 @@
 0.0.0.0 tsarscasinoo.de
 0.0.0.0 tsarscasinoonline.com.de
 0.0.0.0 tsarscasinoonline.de
-0.0.0.0 tsarscasinopl.com
 0.0.0.0 tsarscasinoplay.com
 0.0.0.0 tsarscasinopolska.com
 0.0.0.0 tsarscasinopt-com.pages.dev
