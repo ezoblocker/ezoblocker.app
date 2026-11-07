@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 617 | Updated: 2026-11-07
+# Domains: 624 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -41,7 +41,6 @@
 0.0.0.0 ads-flipp.com
 0.0.0.0 ads-pbs.adops.streamvisionmedia.com
 0.0.0.0 ads-pbs.ads-altstarmedia.com
-0.0.0.0 ads-pbs.ads-rtbdemand.com
 0.0.0.0 ads-pbs.bidder-embi.media
 0.0.0.0 ads-pbs.marketplace-anzu.io
 0.0.0.0 ads-pbs.ortb.tech
@@ -93,6 +92,7 @@
 0.0.0.0 adverty-cloudflare.com
 0.0.0.0 advgbid.com
 0.0.0.0 adx-sg.billowlink.com
+0.0.0.0 adx.exiber.com
 0.0.0.0 adx.io
 0.0.0.0 aj2670.bid
 0.0.0.0 alchemyx.live
@@ -159,7 +159,6 @@
 0.0.0.0 bidder-us-east-1.getblue.io
 0.0.0.0 bidder.apester.com
 0.0.0.0 bidder.onomagic.com
-0.0.0.0 bidder.qwarry.co
 0.0.0.0 bidder.viously.com
 0.0.0.0 bidder.yaleo.com
 0.0.0.0 bids.ws
@@ -410,6 +409,7 @@
 0.0.0.0 pbam.orangeclickmedia.com
 0.0.0.0 pbid.lemmamedia.com
 0.0.0.0 pbidj.lemmamedia.com
+0.0.0.0 pbjs.algotoro.com
 0.0.0.0 pbjs.iqzonertb.live
 0.0.0.0 pbjs.kiviads.live
 0.0.0.0 pbjs.league-m.media
@@ -425,6 +425,7 @@
 0.0.0.0 pbs.prebid-ownadx.com
 0.0.0.0 pbs.prebrid.tv
 0.0.0.0 pbsadverxo.com
+0.0.0.0 pbscache.admaxmedia.io
 0.0.0.0 personaly.bid
 0.0.0.0 pfsrvs.com
 0.0.0.0 ping.channel99.io
@@ -440,11 +441,13 @@
 0.0.0.0 prebid-srv.mtflll-system.live
 0.0.0.0 prebid-srv.xe.works
 0.0.0.0 prebid-us-east-1.getblue.io
+0.0.0.0 prebid.admaxmedia.io
 0.0.0.0 prebid.anyclip.com
 0.0.0.0 prebid.attekmi.co
 0.0.0.0 prebid.axis-marketplace.com
 0.0.0.0 prebid.chocolateplatform.co
 0.0.0.0 prebid.cht.hinet.net
+0.0.0.0 prebid.display.io
 0.0.0.0 prebid.ecdrsvc.com
 0.0.0.0 prebid.eu-central-1.bidder.mediakeys.io
 0.0.0.0 prebid.melozen.com
@@ -462,6 +465,7 @@
 0.0.0.0 public.sonatalocal.com
 0.0.0.0 pubsmart-prebid.attekmi.co
 0.0.0.0 px-us-e.floxis.tech
+0.0.0.0 qwarry.co
 0.0.0.0 raaslab.tech
 0.0.0.0 radiantfusion-prebid.attekmi.co
 0.0.0.0 rcdn.kervinteractive.com
@@ -499,6 +503,7 @@
 0.0.0.0 s.oa.opera.com
 0.0.0.0 s2s.sportslocalmedia.com
 0.0.0.0 sdk-orchestrator.tapresearch.com
+0.0.0.0 sdk.algotoro.com
 0.0.0.0 semseoymas.com
 0.0.0.0 semseoymas.net
 0.0.0.0 serve.aderserve.com
@@ -531,6 +536,7 @@
 0.0.0.0 static.retailspotads.com
 0.0.0.0 static2.creative-serving.org
 0.0.0.0 stats.feeltapmobi.com
+0.0.0.0 streamads.exiber.com
 0.0.0.0 svas.skoiy.xyz
 0.0.0.0 sync-ssp.adsmovil.com
 0.0.0.0 sync.adipolo.live
@@ -566,6 +572,7 @@
 0.0.0.0 tags.stailamedia.com
 0.0.0.0 tangooserver.com
 0.0.0.0 taol-srv.net
+0.0.0.0 thedigitaleffect.com
 0.0.0.0 tkprebid.aotter.net
 0.0.0.0 tmsrv.net
 0.0.0.0 tpadx.com

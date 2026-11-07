@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Ads
-! Domains: 617 | Updated: 2026-11-07
+! Domains: 624 | Updated: 2026-11-07
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/ads/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -41,7 +41,6 @@
 |ads-flipp.com^
 |ads-pbs.adops.streamvisionmedia.com^
 |ads-pbs.ads-altstarmedia.com^
-|ads-pbs.ads-rtbdemand.com^
 |ads-pbs.bidder-embi.media^
 |ads-pbs.marketplace-anzu.io^
 |ads-pbs.ortb.tech^
@@ -93,6 +92,7 @@
 ||adverty-cloudflare.com^
 ||advgbid.com^
 |adx-sg.billowlink.com^
+||adx.exiber.com^
 ||adx.io^
 ||aj2670.bid^
 |alchemyx.live^
@@ -159,7 +159,6 @@
 |bidder-us-east-1.getblue.io^
 |bidder.apester.com^
 |bidder.onomagic.com^
-|bidder.qwarry.co^
 |bidder.viously.com^
 |bidder.yaleo.com^
 |bids.ws^
@@ -410,6 +409,7 @@
 |pbam.orangeclickmedia.com^
 |pbid.lemmamedia.com^
 |pbidj.lemmamedia.com^
+||pbjs.algotoro.com^
 |pbjs.iqzonertb.live^
 |pbjs.kiviads.live^
 |pbjs.league-m.media^
@@ -425,6 +425,7 @@
 |pbs.prebid-ownadx.com^
 |pbs.prebrid.tv^
 |pbsadverxo.com^
+||pbscache.admaxmedia.io^
 ||personaly.bid^
 ||pfsrvs.com^
 ||ping.channel99.io^
@@ -440,11 +441,13 @@
 |prebid-srv.mtflll-system.live^
 |prebid-srv.xe.works^
 |prebid-us-east-1.getblue.io^
+||prebid.admaxmedia.io^
 |prebid.anyclip.com^
 |prebid.attekmi.co^
 |prebid.axis-marketplace.com^
 |prebid.chocolateplatform.co^
 |prebid.cht.hinet.net^
+|prebid.display.io^
 |prebid.ecdrsvc.com^
 |prebid.eu-central-1.bidder.mediakeys.io^
 |prebid.melozen.com^
@@ -462,6 +465,7 @@
 ||public.sonatalocal.com^
 |pubsmart-prebid.attekmi.co^
 |px-us-e.floxis.tech^
+||qwarry.co^
 ||raaslab.tech^
 |radiantfusion-prebid.attekmi.co^
 ||rcdn.kervinteractive.com^
@@ -499,6 +503,7 @@
 |s.oa.opera.com^
 |s2s.sportslocalmedia.com^
 |sdk-orchestrator.tapresearch.com^
+||sdk.algotoro.com^
 ||semseoymas.com^
 ||semseoymas.net^
 ||serve.aderserve.com^
@@ -531,6 +536,7 @@
 ||static.retailspotads.com^
 ||static2.creative-serving.org^
 ||stats.feeltapmobi.com^
+||streamads.exiber.com^
 ||svas.skoiy.xyz^
 |sync-ssp.adsmovil.com^
 |sync.adipolo.live^
@@ -566,6 +572,7 @@
 ||tags.stailamedia.com^
 ||tangooserver.com^
 ||taol-srv.net^
+||thedigitaleffect.com^
 |tkprebid.aotter.net^
 ||tmsrv.net^
 ||tpadx.com^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 2,388 | Updated: 2026-11-07
+# Domains: 2,387 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -246,7 +246,6 @@
 0.0.0.0 berluti.com
 0.0.0.0 besame.com
 0.0.0.0 besiktaseskort.org
-0.0.0.0 beste-onlyfans-models.de
 0.0.0.0 bestlovesexdoll.com
 0.0.0.0 bestmalluxxx.com
 0.0.0.0 bestofeugene.com

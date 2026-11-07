@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, ad exchange endpoints from Prebid.js / Prebid Server adapters
-# Domains: 272 | Updated: 2026-11-07
+# Domains: 271 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/prebid.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,7 +22,6 @@
 0.0.0.0 ads-flipp.com
 0.0.0.0 ads-pbs.adops.streamvisionmedia.com
 0.0.0.0 ads-pbs.ads-altstarmedia.com
-0.0.0.0 ads-pbs.ads-rtbdemand.com
 0.0.0.0 ads-pbs.bidder-embi.media
 0.0.0.0 ads-pbs.marketplace-anzu.io
 0.0.0.0 ads-pbs.ortb.tech
@@ -70,7 +69,6 @@
 0.0.0.0 bidder-us-east-1.getblue.io
 0.0.0.0 bidder.apester.com
 0.0.0.0 bidder.onomagic.com
-0.0.0.0 bidder.qwarry.co
 0.0.0.0 bidder.viously.com
 0.0.0.0 bidder.yaleo.com
 0.0.0.0 bids.ws
@@ -180,6 +178,7 @@
 0.0.0.0 prebid.axis-marketplace.com
 0.0.0.0 prebid.chocolateplatform.co
 0.0.0.0 prebid.cht.hinet.net
+0.0.0.0 prebid.display.io
 0.0.0.0 prebid.ecdrsvc.com
 0.0.0.0 prebid.eu-central-1.bidder.mediakeys.io
 0.0.0.0 prebid.melozen.com

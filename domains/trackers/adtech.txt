@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, adtech
-# Domains: 456 | Updated: 2026-11-07
+# Domains: 461 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/trackers/adtech.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -31,10 +31,12 @@ aaa.snipes.nl
 aaa.snipes.pl
 aaa.solebox.com
 aaa.t-travel.com
+accountinsight.cloud
 act.hyscore.io
 action.metaffiliation.com
 activate.cdw.com
 activate.cdwg.com
+ad.dyntracker.com
 ad.dyntracker.de
 ad1.dyntracker.com
 adloop.centerparcs.be
@@ -55,6 +57,7 @@ analytics.mobileacademy.com
 analytics.rezonence.com
 api.assertcom.de
 api.edkt.io
+api.highfivve.com
 api.webgains.io
 artefact.paul-hewitt.com
 arttrk.com
@@ -225,6 +228,7 @@ sdk.kairosfire.com
 signal.contimo.app
 sk.ht
 sp-trk.com
+spxtrck.baur.de
 staex.aida.de
 static.lm-tracking.com
 stats.jeengweb.com
@@ -409,6 +413,7 @@ trck.planbnetzero.com
 trck.polarstern-energie.de
 trck.postbank.de
 trck.potluck.de
+trck.precisionx.com
 trck.privileg.at
 trck.q-cells.de
 trck.quelle.de

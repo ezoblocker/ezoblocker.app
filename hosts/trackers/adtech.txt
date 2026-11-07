@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, adtech
-# Domains: 456 | Updated: 2026-11-07
+# Domains: 461 | Updated: 2026-11-07
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/adtech.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -31,10 +31,12 @@
 0.0.0.0 aaa.snipes.pl
 0.0.0.0 aaa.solebox.com
 0.0.0.0 aaa.t-travel.com
+0.0.0.0 accountinsight.cloud
 0.0.0.0 act.hyscore.io
 0.0.0.0 action.metaffiliation.com
 0.0.0.0 activate.cdw.com
 0.0.0.0 activate.cdwg.com
+0.0.0.0 ad.dyntracker.com
 0.0.0.0 ad.dyntracker.de
 0.0.0.0 ad1.dyntracker.com
 0.0.0.0 adloop.centerparcs.be
@@ -55,6 +57,7 @@
 0.0.0.0 analytics.rezonence.com
 0.0.0.0 api.assertcom.de
 0.0.0.0 api.edkt.io
+0.0.0.0 api.highfivve.com
 0.0.0.0 api.webgains.io
 0.0.0.0 artefact.paul-hewitt.com
 0.0.0.0 arttrk.com
@@ -225,6 +228,7 @@
 0.0.0.0 signal.contimo.app
 0.0.0.0 sk.ht
 0.0.0.0 sp-trk.com
+0.0.0.0 spxtrck.baur.de
 0.0.0.0 staex.aida.de
 0.0.0.0 static.lm-tracking.com
 0.0.0.0 stats.jeengweb.com
@@ -409,6 +413,7 @@
 0.0.0.0 trck.polarstern-energie.de
 0.0.0.0 trck.postbank.de
 0.0.0.0 trck.potluck.de
+0.0.0.0 trck.precisionx.com
 0.0.0.0 trck.privileg.at
 0.0.0.0 trck.q-cells.de
 0.0.0.0 trck.quelle.de

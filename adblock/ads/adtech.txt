@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Ads, adtech
-! Domains: 306 | Updated: 2026-11-07
+! Domains: 314 | Updated: 2026-11-07
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/ads/adtech.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -51,6 +51,7 @@
 ||adventivecdn.com^
 ||adverty-cloudflare.com^
 ||advgbid.com^
+||adx.exiber.com^
 ||adx.io^
 ||aj2670.bid^
 ||alvolia.com^
@@ -227,6 +228,8 @@
 ||openmass.io^
 ||optoutadserving.com^
 ||paradoxgroup.co^
+||pbjs.algotoro.com^
+||pbscache.admaxmedia.io^
 ||personaly.bid^
 ||pfsrvs.com^
 ||ping.channel99.io^
@@ -234,11 +237,13 @@
 ||plrsrvcs.com^
 ||pmsrv.co^
 ||polarcdn-static.com^
+||prebid.admaxmedia.io^
 ||precisify-ads.com^
 ||primoadserver.com^
 ||prov9ads.com^
 ||provenpixel.com^
 ||public.sonatalocal.com^
+||qwarry.co^
 ||raaslab.tech^
 ||rcdn.kervinteractive.com^
 ||resources.playablefactory.app^
@@ -250,6 +255,7 @@
 ||rtb.segmint.net^
 ||rtb.servicesadmedia.com^
 ||rtbads.position2.com^
+||sdk.algotoro.com^
 ||semseoymas.com^
 ||semseoymas.net^
 ||serve.aderserve.com^
@@ -274,6 +280,7 @@
 ||static.retailspotads.com^
 ||static2.creative-serving.org^
 ||stats.feeltapmobi.com^
+||streamads.exiber.com^
 ||svas.skoiy.xyz^
 ||t.adctv.com^
 ||tag.score-media.de^
@@ -281,6 +288,7 @@
 ||tags.stailamedia.com^
 ||tangooserver.com^
 ||taol-srv.net^
+||thedigitaleffect.com^
 ||tmsrv.net^
 ||tpadx.com^
 ||tqe36.flx10.com^
