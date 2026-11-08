@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 2,416 | Updated: 2026-11-08
+# Domains: 2,414 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -619,7 +619,6 @@
 0.0.0.0 emiratesleaks.com
 0.0.0.0 emiratesporn.com
 0.0.0.0 en-cam4-us.com
-0.0.0.0 enguardia.co
 0.0.0.0 eof0qwxvf.esswe10.lt
 0.0.0.0 epoptavka.cz
 0.0.0.0 ero315.com
@@ -1588,6 +1587,7 @@
 0.0.0.0 pornoizle.cam
 0.0.0.0 pornoizlehane.com
 0.0.0.0 pornoklub.com
+0.0.0.0 pornoliana1.skin
 0.0.0.0 pornolik.pl
 0.0.0.0 pornoload.com
 0.0.0.0 pornonu.nl
@@ -1598,7 +1598,6 @@
 0.0.0.0 pornoturkce5.online
 0.0.0.0 pornozaz86.site
 0.0.0.0 pornozaz87.site
-0.0.0.0 pornstar.pl
 0.0.0.0 pornvhd.net
 0.0.0.0 porr93.com
 0.0.0.0 porrtube.com
@@ -2262,7 +2261,6 @@
 0.0.0.0 villagecenterfl.govbuilt.com
 0.0.0.0 vintoy.vn
 0.0.0.0 violetboutique.net
-0.0.0.0 vip-escorts.co.uk
 0.0.0.0 viperotikfilm2.skin
 0.0.0.0 viperotikfilm3.skin
 0.0.0.0 viperotikfilm4.skin

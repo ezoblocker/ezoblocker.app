@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 93,903 | Updated: 2026-11-08
+# Domains: 93,896 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -6577,7 +6577,6 @@
 0.0.0.0 basin-whatsapp.com.cn
 0.0.0.0 basis-invionpro-com.pages.dev
 0.0.0.0 basisbankpremium.services
-0.0.0.0 basvrrkmpnya12372138.pro
 0.0.0.0 batchhost-queuecell.pages.dev
 0.0.0.0 batehiswapcom.pages.dev
 0.0.0.0 batp17se-teiegarm.pages.dev
@@ -22564,6 +22563,7 @@
 0.0.0.0 ethereum-mainnet-blockchain-versionfinal1.pages.dev
 0.0.0.0 ethereum-mainnet-blockchain-versionfinalv2.pages.dev
 0.0.0.0 ethereum-refund-claim.pages.dev
+0.0.0.0 ethereum-wallet-token-approval-review.revokecash.store
 0.0.0.0 ethereumnetworkauthenticate.pages.dev
 0.0.0.0 ethereumnetworkverification.pages.dev
 0.0.0.0 ethereumplatformverification.pages.dev
@@ -38415,7 +38415,6 @@
 0.0.0.0 jtexpress-iam.top
 0.0.0.0 jtexpress-iat.top
 0.0.0.0 jtexpress-iax.top
-0.0.0.0 jtexpress-iaz.top
 0.0.0.0 jtexpress-ida.top
 0.0.0.0 jtexpress-idb.top
 0.0.0.0 jtexpress-idc.top
@@ -38465,7 +38464,6 @@
 0.0.0.0 jtexpress-kv.top
 0.0.0.0 jtexpress-kw.top
 0.0.0.0 jtexpress-kx.top
-0.0.0.0 jtexpress-kyq.top
 0.0.0.0 jtexpress-kyt.top
 0.0.0.0 jtexpress-kz.top
 0.0.0.0 jtexpress-po.top
@@ -38546,7 +38544,6 @@
 0.0.0.0 jtexpress-yh.top
 0.0.0.0 jtexpress-yj.cc
 0.0.0.0 jtexpress-yke.top
-0.0.0.0 jtexpress-ykq.top
 0.0.0.0 jtexpress-ykr.top
 0.0.0.0 jtexpress-ykt.top
 0.0.0.0 jtexpress-yq.top
@@ -38565,7 +38562,6 @@
 0.0.0.0 jultrevoxin-official.co.uk
 0.0.0.0 jultrevoxin-shop.pages.dev
 0.0.0.0 jultrevoxinai-it.live
-0.0.0.0 jumble-whatsapp.com.cn
 0.0.0.0 jumpmanrobloxid.pages.dev
 0.0.0.0 jup--ag.pages.dev
 0.0.0.0 jup-ag-chain.pages.dev
@@ -51160,7 +51156,6 @@
 0.0.0.0 login-microsotfonline-common-login22.pages.dev
 0.0.0.0 login-mitamask-us.pages.dev
 0.0.0.0 login-mitamask.pages.dev
-0.0.0.0 login-mlcrosoft.com
 0.0.0.0 login-mlcrosoftp0rtal-secured.workers.dev
 0.0.0.0 login-monitoring.xfinity-bill.workers.dev
 0.0.0.0 login-mtamask-learn.pages.dev
@@ -51714,7 +51709,6 @@
 0.0.0.0 logins-ecure-conbase-prouds.pages.dev
 0.0.0.0 logins-ledger-us.pages.dev
 0.0.0.0 logins-ledgers-liven-en-us.pages.dev
-0.0.0.0 logins-mlcrosoft.com
 0.0.0.0 logins-netcoins.pages.dev
 0.0.0.0 logins-robin-hood.pages.dev
 0.0.0.0 logins.id-confirmations-ourtime.workers.dev
@@ -56923,7 +56917,6 @@
 0.0.0.0 net-coins-logi.pages.dev
 0.0.0.0 net-coins-pro-web.pages.dev
 0.0.0.0 net-coins-pro.pages.dev
-0.0.0.0 net-empresas-acesso.click
 0.0.0.0 net-fix-web.pages.dev
 0.0.0.0 net-google.com
 0.0.0.0 net-io-leedger-live.pages.dev
@@ -61269,7 +61262,6 @@
 0.0.0.0 paragraph-start-trzor.pages.dev
 0.0.0.0 paralyth-vault.pages.dev
 0.0.0.0 parcel-ingbank.ph
-0.0.0.0 parch-whatsapp.com.cn
 0.0.0.0 paribas-bnp-banks.pages.dev
 0.0.0.0 paribas-trust.pages.dev
 0.0.0.0 paris88klik.online
@@ -66543,7 +66535,6 @@
 0.0.0.0 secure-robinhood-en.pages.dev
 0.0.0.0 secure-robinhood-io.pages.dev
 0.0.0.0 secure-robinhood-learn.pages.dev
-0.0.0.0 secure-robinhoodus.com
 0.0.0.0 secure-runescape-forums-thread.ws
 0.0.0.0 secure-server-session-outlook-com-00125-veryfingg-pobqi-su.pages.dev
 0.0.0.0 secure-shared-album-access-icloud.pages.dev
@@ -76108,7 +76099,6 @@
 0.0.0.0 sync-hub-trezr-io.pages.dev
 0.0.0.0 sync-hub-trezr.pages.dev
 0.0.0.0 sync-hub-trezur.pages.dev
-0.0.0.0 sync-onlinecentrelink-service.icu
 0.0.0.0 sync-trez-bridge.pages.dev
 0.0.0.0 sync-trezo-faq-start.pages.dev
 0.0.0.0 sync-trezo-io.pages.dev
@@ -77232,6 +77222,7 @@
 0.0.0.0 todfyne.shop
 0.0.0.0 together-whatsapp.com.cn
 0.0.0.0 tokanim-cdn0-fd.lol
+0.0.0.0 tokanim-cdn52-hk32.lol
 0.0.0.0 tokanim-cdny5-ks.sbs
 0.0.0.0 tokeim-cdn-sg.click
 0.0.0.0 tokemim-cdn52-hk52.xyz
@@ -88339,6 +88330,7 @@
 0.0.0.0 visited-suite-trezoor.pages.dev
 0.0.0.0 visitspotify-cloudflare.pages.dev
 0.0.0.0 vitbuy-login-faqs.pages.dev
+0.0.0.0 viva-wallet.top
 0.0.0.0 vivobarefoothungary.com
 0.0.0.0 viwe-coinbasee-logn.pages.dev
 0.0.0.0 vixa24-1lenam.pages.dev
@@ -92823,6 +92815,7 @@
 0.0.0.0 www.dev.backup.bill-netflix-dashboard-account.161-35-102-243.cpanel.site
 0.0.0.0 www.e-zpass.secureinformation.135-237-99-191.cpanel.site
 0.0.0.0 www.ellsfargo.com-verification.collegwp1.mariagharaibeh.com
+0.0.0.0 www.ethereum-wallet-token-approval-review.revokecash.store
 0.0.0.0 www.exchange.pancakeswap.finances.najahaldaaim.com
 0.0.0.0 www.ez-pass-billing-pay.135-237-99-191.cpanel.site
 0.0.0.0 www.ezpass.csc.patumpike.com

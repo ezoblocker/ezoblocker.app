@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Security, ct
-! Domains: 93,903 | Updated: 2026-11-08
+! Domains: 93,896 | Updated: 2026-11-08
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -6577,7 +6577,6 @@
 ||basin-whatsapp.com.cn^
 ||basis-invionpro-com.pages.dev^
 ||basisbankpremium.services^
-||basvrrkmpnya12372138.pro^
 ||batchhost-queuecell.pages.dev^
 ||batehiswapcom.pages.dev^
 ||batp17se-teiegarm.pages.dev^
@@ -22564,6 +22563,7 @@
 ||ethereum-mainnet-blockchain-versionfinal1.pages.dev^
 ||ethereum-mainnet-blockchain-versionfinalv2.pages.dev^
 ||ethereum-refund-claim.pages.dev^
+|ethereum-wallet-token-approval-review.revokecash.store^
 ||ethereumnetworkauthenticate.pages.dev^
 ||ethereumnetworkverification.pages.dev^
 ||ethereumplatformverification.pages.dev^
@@ -38415,7 +38415,6 @@
 ||jtexpress-iam.top^
 ||jtexpress-iat.top^
 ||jtexpress-iax.top^
-||jtexpress-iaz.top^
 ||jtexpress-ida.top^
 ||jtexpress-idb.top^
 ||jtexpress-idc.top^
@@ -38465,7 +38464,6 @@
 ||jtexpress-kv.top^
 ||jtexpress-kw.top^
 ||jtexpress-kx.top^
-||jtexpress-kyq.top^
 ||jtexpress-kyt.top^
 ||jtexpress-kz.top^
 ||jtexpress-po.top^
@@ -38546,7 +38544,6 @@
 ||jtexpress-yh.top^
 ||jtexpress-yj.cc^
 ||jtexpress-yke.top^
-||jtexpress-ykq.top^
 ||jtexpress-ykr.top^
 ||jtexpress-ykt.top^
 ||jtexpress-yq.top^
@@ -38565,7 +38562,6 @@
 ||jultrevoxin-official.co.uk^
 ||jultrevoxin-shop.pages.dev^
 ||jultrevoxinai-it.live^
-||jumble-whatsapp.com.cn^
 ||jumpmanrobloxid.pages.dev^
 ||jup--ag.pages.dev^
 ||jup-ag-chain.pages.dev^
@@ -51160,7 +51156,6 @@
 ||login-microsotfonline-common-login22.pages.dev^
 ||login-mitamask-us.pages.dev^
 ||login-mitamask.pages.dev^
-||login-mlcrosoft.com^
 ||login-mlcrosoftp0rtal-secured.workers.dev^
 |login-monitoring.xfinity-bill.workers.dev^
 ||login-mtamask-learn.pages.dev^
@@ -51714,7 +51709,6 @@
 ||logins-ecure-conbase-prouds.pages.dev^
 ||logins-ledger-us.pages.dev^
 ||logins-ledgers-liven-en-us.pages.dev^
-||logins-mlcrosoft.com^
 ||logins-netcoins.pages.dev^
 ||logins-robin-hood.pages.dev^
 |logins.id-confirmations-ourtime.workers.dev^
@@ -56923,7 +56917,6 @@
 ||net-coins-logi.pages.dev^
 ||net-coins-pro-web.pages.dev^
 ||net-coins-pro.pages.dev^
-||net-empresas-acesso.click^
 ||net-fix-web.pages.dev^
 ||net-google.com^
 ||net-io-leedger-live.pages.dev^
@@ -61269,7 +61262,6 @@
 ||paragraph-start-trzor.pages.dev^
 ||paralyth-vault.pages.dev^
 ||parcel-ingbank.ph^
-||parch-whatsapp.com.cn^
 ||paribas-bnp-banks.pages.dev^
 ||paribas-trust.pages.dev^
 ||paris88klik.online^
@@ -66543,7 +66535,6 @@
 ||secure-robinhood-en.pages.dev^
 ||secure-robinhood-io.pages.dev^
 ||secure-robinhood-learn.pages.dev^
-||secure-robinhoodus.com^
 ||secure-runescape-forums-thread.ws^
 ||secure-server-session-outlook-com-00125-veryfingg-pobqi-su.pages.dev^
 ||secure-shared-album-access-icloud.pages.dev^
@@ -76108,7 +76099,6 @@
 ||sync-hub-trezr-io.pages.dev^
 ||sync-hub-trezr.pages.dev^
 ||sync-hub-trezur.pages.dev^
-||sync-onlinecentrelink-service.icu^
 ||sync-trez-bridge.pages.dev^
 ||sync-trezo-faq-start.pages.dev^
 ||sync-trezo-io.pages.dev^
@@ -77232,6 +77222,7 @@
 ||todfyne.shop^
 ||together-whatsapp.com.cn^
 ||tokanim-cdn0-fd.lol^
+||tokanim-cdn52-hk32.lol^
 ||tokanim-cdny5-ks.sbs^
 ||tokeim-cdn-sg.click^
 ||tokemim-cdn52-hk52.xyz^
@@ -88339,6 +88330,7 @@
 ||visited-suite-trezoor.pages.dev^
 ||visitspotify-cloudflare.pages.dev^
 ||vitbuy-login-faqs.pages.dev^
+||viva-wallet.top^
 ||vivobarefoothungary.com^
 ||viwe-coinbasee-logn.pages.dev^
 ||vixa24-1lenam.pages.dev^
@@ -92823,6 +92815,7 @@
 |www.dev.backup.bill-netflix-dashboard-account.161-35-102-243.cpanel.site^
 |www.e-zpass.secureinformation.135-237-99-191.cpanel.site^
 |www.ellsfargo.com-verification.collegwp1.mariagharaibeh.com^
+|www.ethereum-wallet-token-approval-review.revokecash.store^
 |www.exchange.pancakeswap.finances.najahaldaaim.com^
 |www.ez-pass-billing-pay.135-237-99-191.cpanel.site^
 |www.ezpass.csc.patumpike.com^
