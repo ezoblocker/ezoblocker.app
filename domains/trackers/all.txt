@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 710 | Updated: 2026-11-08
+# Domains: 712 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -421,6 +421,8 @@ stape.at
 stape.au
 stape.be
 stape.bg
+stape.biz
+stape.ca
 stape.cc
 stape.cloud
 stape.co
