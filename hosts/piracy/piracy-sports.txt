@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 434 | Updated: 2026-11-07
+# Domains: 448 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -29,14 +29,18 @@
 0.0.0.0 buffstreamsapp.com
 0.0.0.0 buffstreamz.fun
 0.0.0.0 cakhia14.com
+0.0.0.0 cakhia21.tv
 0.0.0.0 cakhia4.org
 0.0.0.0 cakhia6tv.tv
 0.0.0.0 cakhiatv.college
 0.0.0.0 cakhiatv.fit
 0.0.0.0 cakhiatvc.group
+0.0.0.0 cakhiatvhh.tv
+0.0.0.0 cakhiaxb.cc
 0.0.0.0 cakhiaxs.tv
 0.0.0.0 cakhiazbm.tv
 0.0.0.0 cakhiazbp.tv
+0.0.0.0 cakhiazcw.tv
 0.0.0.0 canlimacizlet.altervista.org
 0.0.0.0 cepi.cb.ce.gov.br
 0.0.0.0 cityofsurrey.perfectmind.com
@@ -243,6 +247,7 @@
 0.0.0.0 pirlotv.bar
 0.0.0.0 pirlotv.dog
 0.0.0.0 pirlotv.download
+0.0.0.0 pirlotv.guru
 0.0.0.0 pirlotv.la
 0.0.0.0 pirlotv.plus
 0.0.0.0 pirlotv.red
@@ -251,6 +256,10 @@
 0.0.0.0 pirlotv.win
 0.0.0.0 pirlotv1.live
 0.0.0.0 pirlotvapk.net
+0.0.0.0 pirlotvhd.asia
+0.0.0.0 pirlotvhd.kim
+0.0.0.0 pirlotvhd.shop
+0.0.0.0 pirlotvhq.me
 0.0.0.0 pirlotvplay.online
 0.0.0.0 pirlotvv.org
 0.0.0.0 premierleague.com
@@ -288,6 +297,8 @@
 0.0.0.0 socolivet.cv
 0.0.0.0 socolivetvz.top
 0.0.0.0 socolivev.co
+0.0.0.0 socolivez.cv
+0.0.0.0 socolivezh.top
 0.0.0.0 socolivezq.tv
 0.0.0.0 socolivezw.tv
 0.0.0.0 sp.supercell.jp
@@ -316,6 +327,7 @@
 0.0.0.0 streameasti.site
 0.0.0.0 streameastmirror.com
 0.0.0.0 streameastonline.com
+0.0.0.0 streameasts.live
 0.0.0.0 streameasttop.com
 0.0.0.0 streameastv2.buzz
 0.0.0.0 streameastv2.click
@@ -366,6 +378,7 @@
 0.0.0.0 tarjetarojatvonline.info
 0.0.0.0 tarjetarojatvonline.site
 0.0.0.0 the-futbollibre.com
+0.0.0.0 thstreameast.xyz
 0.0.0.0 tipperary.gaa.ie
 0.0.0.0 today-yalla-shoot.com
 0.0.0.0 totalsport.fans
@@ -416,6 +429,7 @@
 0.0.0.0 xoilactvbm.cc
 0.0.0.0 xoilactvttbdg.tv
 0.0.0.0 xoilacvba.tv
+0.0.0.0 xoilacvbb.tv
 0.0.0.0 xoilacvbc.tv
 0.0.0.0 xoilacvbe.tv
 0.0.0.0 xoilacvbm.tv

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Netherlands (nl)
-# Domains: 51 | Updated: 2026-11-07
+# Domains: 53 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/nl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -21,6 +21,7 @@
 0.0.0.0 hello-nancy.tenereteam.com
 0.0.0.0 kimholland.nl
 0.0.0.0 kinkytijd.nl
+0.0.0.0 kraina-doznan.pl
 0.0.0.0 ladiesnight.nl
 0.0.0.0 livestrip.ch
 0.0.0.0 mailfemale.com
@@ -39,6 +40,7 @@
 0.0.0.0 onlysense.nl
 0.0.0.0 ontopoflove.nl
 0.0.0.0 pabo.nl
+0.0.0.0 passion.bg
 0.0.0.0 poppers-store.nl
 0.0.0.0 purelust.com
 0.0.0.0 sex-chatten.nl

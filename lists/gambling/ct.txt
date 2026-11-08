@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 497,122 | Updated: 2026-11-07
+# Domains: 497,117 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -56230,7 +56230,6 @@
 *.bet4cuci.io
 *.bet4cuci.live
 *.bet4cuci.news
-*.bet4cuci.online
 *.bet4cuci.pw
 *.bet4cuci.store
 *.bet4cuci.tech
@@ -63879,7 +63878,6 @@
 *.betnjet27.com
 *.betnjet29.com
 *.betnjet30.com
-*.betnjet88.com
 *.betnjetbet.com
 *.betnjetcas-com.pages.dev
 *.betnjetcas.com
@@ -91293,7 +91291,6 @@
 *.captaincooks-casino.bet
 *.captaincooks-casino.co.cz
 *.captaincooks-casino.co.uk
-*.captaincooks-casino.com
 *.captaincooks-casino.it.com
 *.captaincooks-casino.nz
 *.captaincooks-casino.online
@@ -130290,7 +130287,6 @@
 *.casinos-pandaluckslot-online.pages.dev
 *.casinos-para-high-rollers.com
 *.casinos-payments-com.pages.dev
-*.casinos-paypal.org
 *.casinos-peaches.nl
 *.casinos-peaches.uk
 *.casinos-pelican.com
@@ -207691,7 +207687,6 @@
 *.grosvenorcasino-nottingham.com
 *.grosvenorcasino-plymouth.com
 *.grosvenorcasino-sunderland.com
-*.grosvenorcasino-uk.top
 *.grosvenorcasino-walsall.com
 *.grosvenorcasino.co.com
 *.grosvenorcasino.co.scot
@@ -326321,7 +326316,6 @@
 *.onlinecasinotop5.com
 *.onlinecasinotopcanada-ca.pages.dev
 *.onlinecasinotopcanada.ca
-*.onlinecasinotopdeutschland.org
 *.onlinecasinotopic.com
 *.onlinecasinotoplist.com
 *.onlinecasinotopliste.com
@@ -363686,7 +363680,6 @@
 *.rainbow-spins-casino-uk.com
 *.rainbow-spins-casino.co.uk
 *.rainbowbells.com
-*.rainbowcasino-online.com
 *.rainbowcasino.ca
 *.rainbowcasino.uk
 *.rainbowcasino.uk.com
@@ -403204,6 +403197,7 @@
 *.slotlair-9.pages.dev
 *.slotlair-art.pages.dev
 *.slotlair-avis.site
+*.slotlair-avis.website
 *.slotlair-blog.pages.dev
 *.slotlair-casino-3.pages.dev
 *.slotlair-casino-7.pages.dev
@@ -403236,8 +403230,10 @@
 *.slotlair-fr.fr
 *.slotlair-fr.online
 *.slotlair-fr.org
+*.slotlair-fr.website
 *.slotlair-france.online
 *.slotlair-france.site
+*.slotlair-france.website
 *.slotlair-gambling-game.pages.dev
 *.slotlair-game-fr.pages.dev
 *.slotlair-gb.online
@@ -406226,6 +406222,7 @@
 *.slotscasino.com.ua
 *.slotscasino.in.net
 *.slotscasino.pt
+*.slotscasino.tech
 *.slotscasino.vu
 *.slotscasino.win
 *.slotscasinoau.com
@@ -427973,7 +427970,6 @@
 *.starzbet-uk-com-8af3b02e.pages.dev
 *.starzbet.at
 *.starzbet.bio
-*.starzbet.biz
 *.starzbet.ch
 *.starzbet.com
 *.starzbet.com.de
@@ -468255,7 +468251,6 @@
 *.visabetplay.vip
 *.visabetsports.net
 *.visabetting-au.com
-*.visabetting-se.com
 *.visabirdholidays.com
 *.visacasino.co.com
 *.visacasino.de.com

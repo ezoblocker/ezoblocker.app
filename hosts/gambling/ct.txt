@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 497,122 | Updated: 2026-11-07
+# Domains: 497,117 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -56230,7 +56230,6 @@
 0.0.0.0 bet4cuci.io
 0.0.0.0 bet4cuci.live
 0.0.0.0 bet4cuci.news
-0.0.0.0 bet4cuci.online
 0.0.0.0 bet4cuci.pw
 0.0.0.0 bet4cuci.store
 0.0.0.0 bet4cuci.tech
@@ -63879,7 +63878,6 @@
 0.0.0.0 betnjet27.com
 0.0.0.0 betnjet29.com
 0.0.0.0 betnjet30.com
-0.0.0.0 betnjet88.com
 0.0.0.0 betnjetbet.com
 0.0.0.0 betnjetcas-com.pages.dev
 0.0.0.0 betnjetcas.com
@@ -91293,7 +91291,6 @@
 0.0.0.0 captaincooks-casino.bet
 0.0.0.0 captaincooks-casino.co.cz
 0.0.0.0 captaincooks-casino.co.uk
-0.0.0.0 captaincooks-casino.com
 0.0.0.0 captaincooks-casino.it.com
 0.0.0.0 captaincooks-casino.nz
 0.0.0.0 captaincooks-casino.online
@@ -130290,7 +130287,6 @@
 0.0.0.0 casinos-pandaluckslot-online.pages.dev
 0.0.0.0 casinos-para-high-rollers.com
 0.0.0.0 casinos-payments-com.pages.dev
-0.0.0.0 casinos-paypal.org
 0.0.0.0 casinos-peaches.nl
 0.0.0.0 casinos-peaches.uk
 0.0.0.0 casinos-pelican.com
@@ -207691,7 +207687,6 @@
 0.0.0.0 grosvenorcasino-nottingham.com
 0.0.0.0 grosvenorcasino-plymouth.com
 0.0.0.0 grosvenorcasino-sunderland.com
-0.0.0.0 grosvenorcasino-uk.top
 0.0.0.0 grosvenorcasino-walsall.com
 0.0.0.0 grosvenorcasino.co.com
 0.0.0.0 grosvenorcasino.co.scot
@@ -326321,7 +326316,6 @@
 0.0.0.0 onlinecasinotop5.com
 0.0.0.0 onlinecasinotopcanada-ca.pages.dev
 0.0.0.0 onlinecasinotopcanada.ca
-0.0.0.0 onlinecasinotopdeutschland.org
 0.0.0.0 onlinecasinotopic.com
 0.0.0.0 onlinecasinotoplist.com
 0.0.0.0 onlinecasinotopliste.com
@@ -363686,7 +363680,6 @@
 0.0.0.0 rainbow-spins-casino-uk.com
 0.0.0.0 rainbow-spins-casino.co.uk
 0.0.0.0 rainbowbells.com
-0.0.0.0 rainbowcasino-online.com
 0.0.0.0 rainbowcasino.ca
 0.0.0.0 rainbowcasino.uk
 0.0.0.0 rainbowcasino.uk.com
@@ -403204,6 +403197,7 @@
 0.0.0.0 slotlair-9.pages.dev
 0.0.0.0 slotlair-art.pages.dev
 0.0.0.0 slotlair-avis.site
+0.0.0.0 slotlair-avis.website
 0.0.0.0 slotlair-blog.pages.dev
 0.0.0.0 slotlair-casino-3.pages.dev
 0.0.0.0 slotlair-casino-7.pages.dev
@@ -403236,8 +403230,10 @@
 0.0.0.0 slotlair-fr.fr
 0.0.0.0 slotlair-fr.online
 0.0.0.0 slotlair-fr.org
+0.0.0.0 slotlair-fr.website
 0.0.0.0 slotlair-france.online
 0.0.0.0 slotlair-france.site
+0.0.0.0 slotlair-france.website
 0.0.0.0 slotlair-gambling-game.pages.dev
 0.0.0.0 slotlair-game-fr.pages.dev
 0.0.0.0 slotlair-gb.online
@@ -406226,6 +406222,7 @@
 0.0.0.0 slotscasino.com.ua
 0.0.0.0 slotscasino.in.net
 0.0.0.0 slotscasino.pt
+0.0.0.0 slotscasino.tech
 0.0.0.0 slotscasino.vu
 0.0.0.0 slotscasino.win
 0.0.0.0 slotscasinoau.com
@@ -427973,7 +427970,6 @@
 0.0.0.0 starzbet-uk-com-8af3b02e.pages.dev
 0.0.0.0 starzbet.at
 0.0.0.0 starzbet.bio
-0.0.0.0 starzbet.biz
 0.0.0.0 starzbet.ch
 0.0.0.0 starzbet.com
 0.0.0.0 starzbet.com.de
@@ -468255,7 +468251,6 @@
 0.0.0.0 visabetplay.vip
 0.0.0.0 visabetsports.net
 0.0.0.0 visabetting-au.com
-0.0.0.0 visabetting-se.com
 0.0.0.0 visabirdholidays.com
 0.0.0.0 visacasino.co.com
 0.0.0.0 visacasino.de.com

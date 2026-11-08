@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 95,305 | Updated: 2026-11-07
+# Domains: 95,298 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -18755,7 +18755,6 @@
 0.0.0.0 earth-en-ledgr-io.pages.dev
 0.0.0.0 easily-trrezo-wllet.pages.dev
 0.0.0.0 eastsiderobloxid.pages.dev
-0.0.0.0 eastwest-abank.com
 0.0.0.0 easy-app-whatsapp.com.cn
 0.0.0.0 easy-bank-credit.com
 0.0.0.0 easy-coinbase-login.pages.dev
@@ -26214,7 +26213,6 @@
 0.0.0.0 fixworldlibertyfinancial.pages.dev
 0.0.0.0 fjordvaultix.org
 0.0.0.0 fk-gateio.com.cn
-0.0.0.0 flank-whatsapp.com.cn
 0.0.0.0 flare-foundations.live
 0.0.0.0 flare-sync.pages.dev
 0.0.0.0 flare-trizo-suite.pages.dev
@@ -52994,7 +52992,6 @@
 0.0.0.0 lokalna-ofeta32987.sbs
 0.0.0.0 lokalna-ofeta3333.sbs
 0.0.0.0 lokalna-ofeta34546344.shop
-0.0.0.0 lokalna-ofeta3812.sbs
 0.0.0.0 lokalna-ofeta458974.sbs
 0.0.0.0 lokalna-ofeta47677.sbs
 0.0.0.0 lokalna-ofeta48.sbs
@@ -53139,7 +53136,6 @@
 0.0.0.0 lunoravex-qetinapol.pages.dev
 0.0.0.0 luntrapaycore-club.pages.dev
 0.0.0.0 luprixapp.cfd
-0.0.0.0 lurch-whatsapp.com.cn
 0.0.0.0 lurex-output.pages.dev
 0.0.0.0 lurino-biz-senvix-29126.pages.dev
 0.0.0.0 luromenta-xaviroque.pages.dev
@@ -56801,7 +56797,6 @@
 0.0.0.0 multipancakeswapdapps.pages.dev
 0.0.0.0 multipost-linkedin-formatter3.pages.dev
 0.0.0.0 multiverseresolvechain.pages.dev
-0.0.0.0 munch-whatsapp.com.cn
 0.0.0.0 murder-mystery-2-skin-script-download-mobile-free.pages.dev
 0.0.0.0 musk-login.pages.dev
 0.0.0.0 mussiolarqeng.com.paulamariamussiol1776279379535.2482240.meusitehostgator.com.br
@@ -65279,7 +65274,6 @@
 0.0.0.0 qu-coin-log-in.pages.dev
 0.0.0.0 qu-coin-login.pages.dev
 0.0.0.0 quackityrobloxavatar.pages.dev
-0.0.0.0 quaint-whatsapp.com.cn
 0.0.0.0 qualifys-xaman.pages.dev
 0.0.0.0 quality-assurance-monitoring-review-standards.pages.dev
 0.0.0.0 quantavex-haven.pages.dev
@@ -92056,7 +92050,6 @@
 0.0.0.0 webwhats-app.com.cn
 0.0.0.0 webzeriondapp.pages.dev
 0.0.0.0 wecometrezor.pages.dev
-0.0.0.0 wedge-whatsapp.com.cn
 0.0.0.0 wedgierobloxid.pages.dev
 0.0.0.0 weeb3-wallet-exodus.pages.dev
 0.0.0.0 weemz3oj-teiegarm.pages.dev

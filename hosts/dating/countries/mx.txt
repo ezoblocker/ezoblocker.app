@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Mexico (mx)
-# Domains: 15 | Updated: 2026-11-07
+# Domains: 16 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/mx.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 hispano.orixon.org
 0.0.0.0 locanto.com.mx
 0.0.0.0 locanto.us
+0.0.0.0 mejhldgs69zy.dorenuga.blog
 0.0.0.0 mx.loquovip.com
 0.0.0.0 mx.pander.pro
 0.0.0.0 mx.sustitutas.com

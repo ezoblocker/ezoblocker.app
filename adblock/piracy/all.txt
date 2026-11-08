@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 1,132 | Updated: 2026-11-07
+! Domains: 1,151 | Updated: 2026-11-08
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 |0jb7na1ub3-amphtml.sear.lu^
 ||123movieputlockers.com^
 ||123moviesflix.me^
+||123moviesfree.mobi^
 ||123moviesx.cc^
 ||123putlockers.me^
 ||1337x.com.im^
@@ -128,14 +129,18 @@
 ||buffstreamsapp.com^
 ||buffstreamz.fun^
 ||cakhia14.com^
+||cakhia21.tv^
 ||cakhia4.org^
 ||cakhia6tv.tv^
 ||cakhiatv.college^
 ||cakhiatv.fit^
 ||cakhiatvc.group^
+||cakhiatvhh.tv^
+||cakhiaxb.cc^
 ||cakhiaxs.tv^
 ||cakhiazbm.tv^
 ||cakhiazbp.tv^
+||cakhiazcw.tv^
 ||canlimacizlet.altervista.org^
 ||cb01.channel^
 ||cb01official.uno^
@@ -594,6 +599,7 @@
 |livetv.tv-vlaanderen.be^
 ||liveyallashot0.xyz^
 ||lk21layarkaca21.online^
+||lk21layarkaca21.shop^
 |llsflwjo.riverpeak.lat^
 ||lockoora.top^
 ||locopelis.com^
@@ -627,6 +633,7 @@
 ||megafilmeshd.help^
 ||megafilmeshd.homes^
 ||megafilmeshd.press^
+||megafilmeshd1.online^
 ||mejortorrent.cc^
 ||mejortorrent.eu^
 ||mejortorrent.mov^
@@ -762,6 +769,7 @@
 ||pirlotv.bar^
 ||pirlotv.dog^
 ||pirlotv.download^
+||pirlotv.guru^
 ||pirlotv.la^
 ||pirlotv.plus^
 ||pirlotv.red^
@@ -770,6 +778,10 @@
 ||pirlotv.win^
 ||pirlotv1.live^
 ||pirlotvapk.net^
+||pirlotvhd.asia^
+||pirlotvhd.kim^
+||pirlotvhd.shop^
+||pirlotvhq.me^
 ||pirlotvplay.online^
 ||pirlotvv.org^
 |pixpretty.tenorshare.ai^
@@ -787,6 +799,7 @@
 ||primewire1.buzz^
 ||primewire1.mom^
 ||primewires.org^
+|print.halleonard.com.au^
 |produtor.adagri.ce.gov.br^
 ||proiptvcanada.ca^
 ||projectfreetv-official.lol^
@@ -876,6 +889,7 @@
 |sismrae.sead.pi.gov.br^
 ||smartiptv.irish^
 ||soap2day4.me^
+||soap2dayforever.com^
 ||soap2dayhd.cc^
 ||soap2days.ac^
 ||soap2daytv.me^
@@ -890,6 +904,8 @@
 ||socolivet.cv^
 ||socolivetvz.top^
 ||socolivev.co^
+||socolivez.cv^
+||socolivezh.top^
 ||socolivezq.tv^
 ||socolivezw.tv^
 ||solarmovies.com.co^
@@ -924,6 +940,7 @@
 ||streameasti.site^
 ||streameastmirror.com^
 ||streameastonline.com^
+||streameasts.live^
 ||streameasttop.com^
 ||streameastv2.buzz^
 ||streameastv2.click^
@@ -986,6 +1003,7 @@
 ||thenaijaprey.org^
 ||thenetnaija.com.ng^
 ||thenetnaija.ng^
+||thstreameast.xyz^
 |tipperary.gaa.ie^
 ||tirexo.al^
 ||today-yalla-shoot.com^
@@ -1108,6 +1126,7 @@
 ||xoilactvbm.cc^
 ||xoilactvttbdg.tv^
 ||xoilacvba.tv^
+||xoilacvbb.tv^
 ||xoilacvbc.tv^
 ||xoilacvbe.tv^
 ||xoilacvbm.tv^

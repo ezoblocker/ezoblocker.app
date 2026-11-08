@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Japan (jp)
-# Domains: 40 | Updated: 2026-11-07
+# Domains: 43 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/adult/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@ adultgoods-sale.com
 adultshop-navi.com
 adulttoys.jp
 adulttoysspot.com
+alert.shop-bell.com
 anzen1.net
 at-usagiya.com
 beyourlover.co.jp
@@ -27,7 +28,9 @@ ginza-soleil.jp
 hotpowers.jp
 javhd-master.com
 javlib.com
+jokegoods.info
 kandup.jp
+lovecosmetic.jp
 lovegoods.org
 lovemate.com
 lovepiececlub-shop.com

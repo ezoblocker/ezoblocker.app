@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 95,307 | Updated: 2026-11-07
+# Domains: 95,300 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -18757,7 +18757,6 @@ e-zpass.secureinformation.135-237-99-191.cpanel.site
 *.earth-en-ledgr-io.pages.dev
 *.easily-trrezo-wllet.pages.dev
 *.eastsiderobloxid.pages.dev
-*.eastwest-abank.com
 *.easy-app-whatsapp.com.cn
 *.easy-bank-credit.com
 *.easy-coinbase-login.pages.dev
@@ -26216,7 +26215,6 @@ files-graph-microsoft-com.proxy.aauth.dev
 *.fixworldlibertyfinancial.pages.dev
 *.fjordvaultix.org
 *.fk-gateio.com.cn
-*.flank-whatsapp.com.cn
 *.flare-foundations.live
 *.flare-sync.pages.dev
 *.flare-trizo-suite.pages.dev
@@ -52996,7 +52994,6 @@ logon.emiratespost-eventbrite.ph
 *.lokalna-ofeta32987.sbs
 *.lokalna-ofeta3333.sbs
 *.lokalna-ofeta34546344.shop
-*.lokalna-ofeta3812.sbs
 *.lokalna-ofeta458974.sbs
 *.lokalna-ofeta47677.sbs
 *.lokalna-ofeta48.sbs
@@ -53141,7 +53138,6 @@ luisgonzaloruizbetan1777986890810.0101163.meusitehostgator.com.br
 *.lunoravex-qetinapol.pages.dev
 *.luntrapaycore-club.pages.dev
 *.luprixapp.cfd
-*.lurch-whatsapp.com.cn
 *.lurex-output.pages.dev
 *.lurino-biz-senvix-29126.pages.dev
 *.luromenta-xaviroque.pages.dev
@@ -56803,7 +56799,6 @@ mta-us-paypal.carollinton.com
 *.multipancakeswapdapps.pages.dev
 *.multipost-linkedin-formatter3.pages.dev
 *.multiverseresolvechain.pages.dev
-*.munch-whatsapp.com.cn
 *.murder-mystery-2-skin-script-download-mobile-free.pages.dev
 *.musk-login.pages.dev
 mussiolarqeng.com.paulamariamussiol1776279379535.2482240.meusitehostgator.com.br
@@ -65281,7 +65276,6 @@ qnbfinansbank.limetop.com
 *.qu-coin-log-in.pages.dev
 *.qu-coin-login.pages.dev
 *.quackityrobloxavatar.pages.dev
-*.quaint-whatsapp.com.cn
 *.qualifys-xaman.pages.dev
 *.quality-assurance-monitoring-review-standards.pages.dev
 *.quantavex-haven.pages.dev
@@ -92058,7 +92052,6 @@ webscr-login.cgi-bin-webscr-cmd-login-up.9a1.com
 *.webwhats-app.com.cn
 *.webzeriondapp.pages.dev
 *.wecometrezor.pages.dev
-*.wedge-whatsapp.com.cn
 *.wedgierobloxid.pages.dev
 *.weeb3-wallet-exodus.pages.dev
 *.weemz3oj-teiegarm.pages.dev

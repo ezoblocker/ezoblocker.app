@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,132 | Updated: 2026-11-07
+# Domains: 1,151 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 0.0.0.0 0jb7na1ub3-amphtml.sear.lu
 0.0.0.0 123movieputlockers.com
 0.0.0.0 123moviesflix.me
+0.0.0.0 123moviesfree.mobi
 0.0.0.0 123moviesx.cc
 0.0.0.0 123putlockers.me
 0.0.0.0 1337x.com.im
@@ -128,14 +129,18 @@
 0.0.0.0 buffstreamsapp.com
 0.0.0.0 buffstreamz.fun
 0.0.0.0 cakhia14.com
+0.0.0.0 cakhia21.tv
 0.0.0.0 cakhia4.org
 0.0.0.0 cakhia6tv.tv
 0.0.0.0 cakhiatv.college
 0.0.0.0 cakhiatv.fit
 0.0.0.0 cakhiatvc.group
+0.0.0.0 cakhiatvhh.tv
+0.0.0.0 cakhiaxb.cc
 0.0.0.0 cakhiaxs.tv
 0.0.0.0 cakhiazbm.tv
 0.0.0.0 cakhiazbp.tv
+0.0.0.0 cakhiazcw.tv
 0.0.0.0 canlimacizlet.altervista.org
 0.0.0.0 cb01.channel
 0.0.0.0 cb01official.uno
@@ -594,6 +599,7 @@
 0.0.0.0 livetv.tv-vlaanderen.be
 0.0.0.0 liveyallashot0.xyz
 0.0.0.0 lk21layarkaca21.online
+0.0.0.0 lk21layarkaca21.shop
 0.0.0.0 llsflwjo.riverpeak.lat
 0.0.0.0 lockoora.top
 0.0.0.0 locopelis.com
@@ -627,6 +633,7 @@
 0.0.0.0 megafilmeshd.help
 0.0.0.0 megafilmeshd.homes
 0.0.0.0 megafilmeshd.press
+0.0.0.0 megafilmeshd1.online
 0.0.0.0 mejortorrent.cc
 0.0.0.0 mejortorrent.eu
 0.0.0.0 mejortorrent.mov
@@ -762,6 +769,7 @@
 0.0.0.0 pirlotv.bar
 0.0.0.0 pirlotv.dog
 0.0.0.0 pirlotv.download
+0.0.0.0 pirlotv.guru
 0.0.0.0 pirlotv.la
 0.0.0.0 pirlotv.plus
 0.0.0.0 pirlotv.red
@@ -770,6 +778,10 @@
 0.0.0.0 pirlotv.win
 0.0.0.0 pirlotv1.live
 0.0.0.0 pirlotvapk.net
+0.0.0.0 pirlotvhd.asia
+0.0.0.0 pirlotvhd.kim
+0.0.0.0 pirlotvhd.shop
+0.0.0.0 pirlotvhq.me
 0.0.0.0 pirlotvplay.online
 0.0.0.0 pirlotvv.org
 0.0.0.0 pixpretty.tenorshare.ai
@@ -787,6 +799,7 @@
 0.0.0.0 primewire1.buzz
 0.0.0.0 primewire1.mom
 0.0.0.0 primewires.org
+0.0.0.0 print.halleonard.com.au
 0.0.0.0 produtor.adagri.ce.gov.br
 0.0.0.0 proiptvcanada.ca
 0.0.0.0 projectfreetv-official.lol
@@ -876,6 +889,7 @@
 0.0.0.0 sismrae.sead.pi.gov.br
 0.0.0.0 smartiptv.irish
 0.0.0.0 soap2day4.me
+0.0.0.0 soap2dayforever.com
 0.0.0.0 soap2dayhd.cc
 0.0.0.0 soap2days.ac
 0.0.0.0 soap2daytv.me
@@ -890,6 +904,8 @@
 0.0.0.0 socolivet.cv
 0.0.0.0 socolivetvz.top
 0.0.0.0 socolivev.co
+0.0.0.0 socolivez.cv
+0.0.0.0 socolivezh.top
 0.0.0.0 socolivezq.tv
 0.0.0.0 socolivezw.tv
 0.0.0.0 solarmovies.com.co
@@ -924,6 +940,7 @@
 0.0.0.0 streameasti.site
 0.0.0.0 streameastmirror.com
 0.0.0.0 streameastonline.com
+0.0.0.0 streameasts.live
 0.0.0.0 streameasttop.com
 0.0.0.0 streameastv2.buzz
 0.0.0.0 streameastv2.click
@@ -986,6 +1003,7 @@
 0.0.0.0 thenaijaprey.org
 0.0.0.0 thenetnaija.com.ng
 0.0.0.0 thenetnaija.ng
+0.0.0.0 thstreameast.xyz
 0.0.0.0 tipperary.gaa.ie
 0.0.0.0 tirexo.al
 0.0.0.0 today-yalla-shoot.com
@@ -1108,6 +1126,7 @@
 0.0.0.0 xoilactvbm.cc
 0.0.0.0 xoilactvttbdg.tv
 0.0.0.0 xoilacvba.tv
+0.0.0.0 xoilacvbb.tv
 0.0.0.0 xoilacvbc.tv
 0.0.0.0 xoilacvbe.tv
 0.0.0.0 xoilacvbm.tv

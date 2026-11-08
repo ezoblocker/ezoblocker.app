@@ -1,13 +1,15 @@
 # Title: EZOBLOCKER Adult, Ireland (ie)
-# Domains: 44 | Updated: 2026-11-07
+# Domains: 46 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ie.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 10bestwebcams.com
 0.0.0.0 adultcamreviewer.com
 0.0.0.0 adultfantasy.ie
 0.0.0.0 adultsextoys.ie
 0.0.0.0 adultsitecompass.com
+0.0.0.0 cams.valuecom.com
 0.0.0.0 camsiteradar.com
 0.0.0.0 camstargirl.com
 0.0.0.0 cantonese.sheik.co.uk

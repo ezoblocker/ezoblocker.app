@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Spain (es)
-# Domains: 49 | Updated: 2026-11-07
+# Domains: 50 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/es.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -43,6 +43,7 @@
 0.0.0.0 pirlotv.bar
 0.0.0.0 pirlotv.dog
 0.0.0.0 pirlotv1.live
+0.0.0.0 pirlotvhd.kim
 0.0.0.0 poseidonhd2.co
 0.0.0.0 repelis.casa
 0.0.0.0 repelis.mom

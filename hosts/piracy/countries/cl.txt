@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Chile (cl)
-# Domains: 16 | Updated: 2026-11-07
+# Domains: 20 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/cl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,9 +12,13 @@
 0.0.0.0 pelotalibreplus.com
 0.0.0.0 pelotalibreplus.pe
 0.0.0.0 pelotalibretv1.biz
+0.0.0.0 pirlotv.guru
 0.0.0.0 pirlotv.la
 0.0.0.0 pirlotv.plus
 0.0.0.0 pirlotv.sh
+0.0.0.0 pirlotvhd.asia
+0.0.0.0 pirlotvhd.shop
+0.0.0.0 pirlotvhq.me
 0.0.0.0 rojadirecta.com.co
 0.0.0.0 rojadirectas.cc
 0.0.0.0 tarjetarojatvonline.info

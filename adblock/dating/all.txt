@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating
-! Domains: 1,278 | Updated: 2026-11-07
+! Domains: 1,283 | Updated: 2026-11-08
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -400,6 +400,7 @@
 ||escortnews.be^
 ||escortnews.com^
 ||escortnews.eu^
+||escortoglasi.com^
 ||escortradar.com^
 ||escortrankings.uk^
 ||escorts-ie.eu^
@@ -524,6 +525,7 @@
 ||gulfdate.com^
 |gupshupzone.chatovod.com^
 |halifax.5escorts.ca^
+|hampton-roads.bonepage.com^
 ||happn.com^
 ||happyescorts.com^
 ||happymail.co.jp^
@@ -735,11 +737,13 @@
 ||meetic.pt^
 ||meeticaffinity.pt^
 ||meetme.com^
+|mejhldgs69zy.dorenuga.blog^
 |members.richlovelinks.com^
 |membre.jetunoo.fr^
 ||menuplancul.com^
 ||mexicancupid.com^
 |miami.bonepage.com^
+|michigan.bonepage.com^
 |milano.trovagnocca.com^
 ||mileroticos.com^
 ||militarycupid.com^
@@ -783,6 +787,7 @@
 ||mysugardaddy.nl^
 |mzansi-chatrooms.apk.gold^
 ||mzansiescorts.com^
+|n.ashoo.io^
 |n.breaknews.com^
 |nagoya.rimokura.com^
 ||naijachat.com^

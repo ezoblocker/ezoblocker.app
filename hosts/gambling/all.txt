@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 498,475 | Updated: 2026-11-07
+# Domains: 498,477 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -45262,6 +45262,7 @@
 0.0.0.0 bahisbeti.com
 0.0.0.0 bahisbilgileri.net
 0.0.0.0 bahisbom160.com
+0.0.0.0 bahisbom161.com
 0.0.0.0 bahisbomcasino.com
 0.0.0.0 bahisbonusu.com
 0.0.0.0 bahiscasino-anlik.icu
@@ -56382,7 +56383,6 @@
 0.0.0.0 bet4cuci.io
 0.0.0.0 bet4cuci.live
 0.0.0.0 bet4cuci.news
-0.0.0.0 bet4cuci.online
 0.0.0.0 bet4cuci.pw
 0.0.0.0 bet4cuci.store
 0.0.0.0 bet4cuci.tech
@@ -64106,7 +64106,6 @@
 0.0.0.0 betnjet27.com
 0.0.0.0 betnjet29.com
 0.0.0.0 betnjet30.com
-0.0.0.0 betnjet88.com
 0.0.0.0 betnjetbet.com
 0.0.0.0 betnjetcas-com.pages.dev
 0.0.0.0 betnjetcas.com
@@ -67359,6 +67358,7 @@
 0.0.0.0 betsat1850.com
 0.0.0.0 betsat1852.com
 0.0.0.0 betsat1853.com
+0.0.0.0 betsat1854.com
 0.0.0.0 betsat2.com
 0.0.0.0 betsat7.com
 0.0.0.0 betsat8.com
@@ -68880,6 +68880,7 @@
 0.0.0.0 bettabets.co.za
 0.0.0.0 bettabetscasino.co.uk
 0.0.0.0 bettabetscasino.uk
+0.0.0.0 bettacasinos.com
 0.0.0.0 bettanocasino.de
 0.0.0.0 bettanocasino.ro
 0.0.0.0 bettarget-casino-uk.com
@@ -91653,7 +91654,6 @@
 0.0.0.0 captaincooks-casino.bet
 0.0.0.0 captaincooks-casino.co.cz
 0.0.0.0 captaincooks-casino.co.uk
-0.0.0.0 captaincooks-casino.com
 0.0.0.0 captaincooks-casino.it.com
 0.0.0.0 captaincooks-casino.nz
 0.0.0.0 captaincooks-casino.online
@@ -130704,7 +130704,6 @@
 0.0.0.0 casinos-pandaluckslot-online.pages.dev
 0.0.0.0 casinos-para-high-rollers.com
 0.0.0.0 casinos-payments-com.pages.dev
-0.0.0.0 casinos-paypal.org
 0.0.0.0 casinos-peaches.nl
 0.0.0.0 casinos-peaches.uk
 0.0.0.0 casinos-pelican.com
@@ -145631,6 +145630,7 @@
 0.0.0.0 cheekycasino.gb.net
 0.0.0.0 cheekycasino.net
 0.0.0.0 cheekycasino.org
+0.0.0.0 cheekypunter.com
 0.0.0.0 cheekyrichcasino.com
 0.0.0.0 cheekywincasino.com
 0.0.0.0 cheers-butik.pl
@@ -208288,7 +208288,6 @@
 0.0.0.0 grosvenorcasino-nottingham.com
 0.0.0.0 grosvenorcasino-plymouth.com
 0.0.0.0 grosvenorcasino-sunderland.com
-0.0.0.0 grosvenorcasino-uk.top
 0.0.0.0 grosvenorcasino-walsall.com
 0.0.0.0 grosvenorcasino.co.com
 0.0.0.0 grosvenorcasino.co.scot
@@ -327236,7 +327235,6 @@
 0.0.0.0 onlinecasinotop5.com
 0.0.0.0 onlinecasinotopcanada-ca.pages.dev
 0.0.0.0 onlinecasinotopcanada.ca
-0.0.0.0 onlinecasinotopdeutschland.org
 0.0.0.0 onlinecasinotopic.com
 0.0.0.0 onlinecasinotoplist.com
 0.0.0.0 onlinecasinotopliste.com
@@ -338397,6 +338395,7 @@
 0.0.0.0 pharmaresearchlibrary-tvtoto.pages.dev
 0.0.0.0 pharosslotgacor.pages.dev
 0.0.0.0 phatayaph.com
+0.0.0.0 phb.marblebay.world
 0.0.0.0 phbahiscasino.ph
 0.0.0.0 phbcgame.ph
 0.0.0.0 phbeonbet.com
@@ -364718,7 +364717,6 @@
 0.0.0.0 rainbow-spins-casino-uk.com
 0.0.0.0 rainbow-spins-casino.co.uk
 0.0.0.0 rainbowbells.com
-0.0.0.0 rainbowcasino-online.com
 0.0.0.0 rainbowcasino.ca
 0.0.0.0 rainbowcasino.uk
 0.0.0.0 rainbowcasino.uk.com
@@ -404324,6 +404322,7 @@
 0.0.0.0 slotlair-9.pages.dev
 0.0.0.0 slotlair-art.pages.dev
 0.0.0.0 slotlair-avis.site
+0.0.0.0 slotlair-avis.website
 0.0.0.0 slotlair-blog.pages.dev
 0.0.0.0 slotlair-casino-3.pages.dev
 0.0.0.0 slotlair-casino-7.pages.dev
@@ -404356,8 +404355,10 @@
 0.0.0.0 slotlair-fr.fr
 0.0.0.0 slotlair-fr.online
 0.0.0.0 slotlair-fr.org
+0.0.0.0 slotlair-fr.website
 0.0.0.0 slotlair-france.online
 0.0.0.0 slotlair-france.site
+0.0.0.0 slotlair-france.website
 0.0.0.0 slotlair-gambling-game.pages.dev
 0.0.0.0 slotlair-game-fr.pages.dev
 0.0.0.0 slotlair-gb.online
@@ -407347,6 +407348,7 @@
 0.0.0.0 slotscasino.com.ua
 0.0.0.0 slotscasino.in.net
 0.0.0.0 slotscasino.pt
+0.0.0.0 slotscasino.tech
 0.0.0.0 slotscasino.vu
 0.0.0.0 slotscasino.win
 0.0.0.0 slotscasinoau.com
@@ -429137,7 +429139,6 @@
 0.0.0.0 starzbet-uk-com-8af3b02e.pages.dev
 0.0.0.0 starzbet.at
 0.0.0.0 starzbet.bio
-0.0.0.0 starzbet.biz
 0.0.0.0 starzbet.ch
 0.0.0.0 starzbet.com
 0.0.0.0 starzbet.com.de
@@ -469372,6 +469373,7 @@
 0.0.0.0 vipzinos.nl
 0.0.0.0 vipzyngapokerchips.com
 0.0.0.0 virabet-tr-bigsemantic-bp-newreg-copymda.pages.dev
+0.0.0.0 virabet376.com
 0.0.0.0 virajbet283.com
 0.0.0.0 viral-agenolx-en.pages.dev
 0.0.0.0 viral-basis-game-bikin-chuaksss-edatoto-login-togel-macau.pages.dev
@@ -469532,7 +469534,6 @@
 0.0.0.0 visabetplay.vip
 0.0.0.0 visabetsports.net
 0.0.0.0 visabetting-au.com
-0.0.0.0 visabetting-se.com
 0.0.0.0 visabirdholidays.com
 0.0.0.0 visacasino.co.com
 0.0.0.0 visacasino.de.com
@@ -492689,6 +492690,7 @@
 0.0.0.0 xziatogel-49o.pages.dev
 0.0.0.0 xziatogel.pages.dev
 0.0.0.0 xziatogelx.pages.dev
+0.0.0.0 xzqq.housecanteen.com.au
 0.0.0.0 y088casinobet.com
 0.0.0.0 y3betbc.com
 0.0.0.0 y3betbr9.com

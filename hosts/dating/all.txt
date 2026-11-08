@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,278 | Updated: 2026-11-07
+# Domains: 1,283 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -400,6 +400,7 @@
 0.0.0.0 escortnews.be
 0.0.0.0 escortnews.com
 0.0.0.0 escortnews.eu
+0.0.0.0 escortoglasi.com
 0.0.0.0 escortradar.com
 0.0.0.0 escortrankings.uk
 0.0.0.0 escorts-ie.eu
@@ -524,6 +525,7 @@
 0.0.0.0 gulfdate.com
 0.0.0.0 gupshupzone.chatovod.com
 0.0.0.0 halifax.5escorts.ca
+0.0.0.0 hampton-roads.bonepage.com
 0.0.0.0 happn.com
 0.0.0.0 happyescorts.com
 0.0.0.0 happymail.co.jp
@@ -735,11 +737,13 @@
 0.0.0.0 meetic.pt
 0.0.0.0 meeticaffinity.pt
 0.0.0.0 meetme.com
+0.0.0.0 mejhldgs69zy.dorenuga.blog
 0.0.0.0 members.richlovelinks.com
 0.0.0.0 membre.jetunoo.fr
 0.0.0.0 menuplancul.com
 0.0.0.0 mexicancupid.com
 0.0.0.0 miami.bonepage.com
+0.0.0.0 michigan.bonepage.com
 0.0.0.0 milano.trovagnocca.com
 0.0.0.0 mileroticos.com
 0.0.0.0 militarycupid.com
@@ -783,6 +787,7 @@
 0.0.0.0 mysugardaddy.nl
 0.0.0.0 mzansi-chatrooms.apk.gold
 0.0.0.0 mzansiescorts.com
+0.0.0.0 n.ashoo.io
 0.0.0.0 n.breaknews.com
 0.0.0.0 nagoya.rimokura.com
 0.0.0.0 naijachat.com

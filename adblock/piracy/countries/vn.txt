@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, Vietnam (vn)
-! Domains: 75 | Updated: 2026-11-07
+! Domains: 82 | Updated: 2026-11-08
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/countries/vn.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,14 +12,18 @@
 ||90phutzat.tv^
 ||90phutzax.tv^
 ||cakhia14.com^
+||cakhia21.tv^
 ||cakhia4.org^
 ||cakhia6tv.tv^
 ||cakhiatv.college^
 ||cakhiatv.fit^
 ||cakhiatvc.group^
+||cakhiatvhh.tv^
+||cakhiaxb.cc^
 ||cakhiaxs.tv^
 ||cakhiazbm.tv^
 ||cakhiazbp.tv^
+||cakhiazcw.tv^
 |edu.gebbs.com^
 |jobboard.simplifaster.com^
 ||lichphimmoi.com^
@@ -50,6 +54,8 @@
 ||socolivet.cv^
 ||socolivetvz.top^
 ||socolivev.co^
+||socolivez.cv^
+||socolivezh.top^
 ||socolivezq.tv^
 ||socolivezw.tv^
 ||tructiep90phuttv.club^
@@ -66,6 +72,7 @@
 ||xoilactvbm.cc^
 ||xoilactvttbdg.tv^
 ||xoilacvba.tv^
+||xoilacvbb.tv^
 ||xoilacvbc.tv^
 ||xoilacvbe.tv^
 ||xoilacvbm.tv^

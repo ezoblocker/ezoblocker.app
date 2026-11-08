@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, France (fr)
-# Domains: 54 | Updated: 2026-11-07
+# Domains: 56 | Updated: 2026-11-08
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/fr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -29,6 +29,7 @@
 0.0.0.0 ideedudesir.fr
 0.0.0.0 jacquieetmichel-contacts.com
 0.0.0.0 jacquieetmichelstore.com
+0.0.0.0 jadelingerie.fr
 0.0.0.0 laboutiqueduhard.fr
 0.0.0.0 lafrancecoquine.net
 0.0.0.0 lescapricesdalice.fr
@@ -41,6 +42,7 @@
 0.0.0.0 passagedudesir.com
 0.0.0.0 plan-cul-fr.fr
 0.0.0.0 plancul-gratuit.fr
+0.0.0.0 poppers-pascher.com
 0.0.0.0 pornhubz.net
 0.0.0.0 porno-francais.click
 0.0.0.0 pornocrados.com

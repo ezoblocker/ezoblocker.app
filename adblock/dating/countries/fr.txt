@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating, France (fr)
-! Domains: 14 | Updated: 2026-11-07
+! Domains: 16 | Updated: 2026-11-08
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/countries/fr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,11 +7,13 @@
 |chambery.sanslendemain.net^
 |chat.europnet.org^
 ||chatlibertingratuit.fr^
+|hampton-roads.bonepage.com^
 ||jecontacte.com^
 |marseille.sanslendemain.net^
 ||meetic.fr^
 |membre.jetunoo.fr^
 ||menuplancul.com^
+|michigan.bonepage.com^
 |missouri.bonepage.com^
 |paris.sanslendemain.net^
 ||plancul-gratuit.fr^
