@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 1,184 | Updated: 2026-11-09
+! Domains: 1,178 | Updated: 2026-11-09
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,7 +8,6 @@
 |0jb7na1ub3-amphtml.sear.lu^
 ||123movieputlockers.com^
 ||123moviesflix.me^
-||123moviesfree.mobi^
 ||123moviesfullme.com^
 ||123moviesgo.cc^
 ||123putlockers.me^
@@ -188,7 +187,6 @@
 ||cuevana3.boo^
 ||cuevana3.re^
 ||cuevana3.sc^
-||cuevana3w.pro^
 ||cuevanaa1.pro^
 ||cuevanaserie.pro^
 ||cuevanatv.vip^
@@ -288,7 +286,6 @@
 ||filmmakinesi.to^
 |filmora.wondershare.kr^
 ||filmpalast.de^
-||filmpertutti.courses^
 ||filmywap.poker^
 ||filmyzilla.holiday^
 ||filmyzilla1.in^
@@ -687,7 +684,6 @@
 ||muayded789.com^
 ||multicanaisbr.com^
 ||multicanaishdtv.com.br^
-||multicanaistv.wiki^
 |museum.slavgorod.ru^
 |mxhomy556.nettoyagereunion.re^
 ||mycima-official.bitbucket.io^
@@ -825,7 +821,6 @@
 ||projectfreetv-official.lol^
 ||projectfreetvm.lol^
 ||pusatfilm.id^
-||putlockerproxy.org^
 ||quicksportstv.com^
 ||rapidgators.net^
 ||rarbg.bg^
@@ -914,7 +909,6 @@
 |sismrae.sead.pi.gov.br^
 ||smartiptv.irish^
 ||soap2day4.me^
-||soap2dayforever.com^
 ||soap2dayhd.cc^
 ||soap2days.ac^
 ||soap2daytv.me^

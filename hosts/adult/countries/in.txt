@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, India (in)
-# Domains: 77 | Updated: 2026-11-09
+# Domains: 76 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/in.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -59,7 +59,6 @@
 0.0.0.0 mysextoysindia.com
 0.0.0.0 naughtynights.in
 0.0.0.0 onlinefuntoys.com
-0.0.0.0 pornvideos.rest
 0.0.0.0 privypleasures.com
 0.0.0.0 pronhouse.rest
 0.0.0.0 pronhouse.space

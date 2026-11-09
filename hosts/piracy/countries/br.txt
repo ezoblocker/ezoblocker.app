@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Brazil (br)
-# Domains: 69 | Updated: 2026-11-09
+# Domains: 68 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/br.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -35,7 +35,6 @@
 0.0.0.0 membros.baixedetudo.net.br
 0.0.0.0 multicanaisbr.com
 0.0.0.0 multicanaishdtv.com.br
-0.0.0.0 multicanaistv.wiki
 0.0.0.0 overflix.download
 0.0.0.0 pirlotv-futbol-en-vivo-directo.apps112.com
 0.0.0.0 pirlotv.shop

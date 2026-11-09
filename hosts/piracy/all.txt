@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,184 | Updated: 2026-11-09
+# Domains: 1,178 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,7 +8,6 @@
 0.0.0.0 0jb7na1ub3-amphtml.sear.lu
 0.0.0.0 123movieputlockers.com
 0.0.0.0 123moviesflix.me
-0.0.0.0 123moviesfree.mobi
 0.0.0.0 123moviesfullme.com
 0.0.0.0 123moviesgo.cc
 0.0.0.0 123putlockers.me
@@ -188,7 +187,6 @@
 0.0.0.0 cuevana3.boo
 0.0.0.0 cuevana3.re
 0.0.0.0 cuevana3.sc
-0.0.0.0 cuevana3w.pro
 0.0.0.0 cuevanaa1.pro
 0.0.0.0 cuevanaserie.pro
 0.0.0.0 cuevanatv.vip
@@ -288,7 +286,6 @@
 0.0.0.0 filmmakinesi.to
 0.0.0.0 filmora.wondershare.kr
 0.0.0.0 filmpalast.de
-0.0.0.0 filmpertutti.courses
 0.0.0.0 filmywap.poker
 0.0.0.0 filmyzilla.holiday
 0.0.0.0 filmyzilla1.in
@@ -687,7 +684,6 @@
 0.0.0.0 muayded789.com
 0.0.0.0 multicanaisbr.com
 0.0.0.0 multicanaishdtv.com.br
-0.0.0.0 multicanaistv.wiki
 0.0.0.0 museum.slavgorod.ru
 0.0.0.0 mxhomy556.nettoyagereunion.re
 0.0.0.0 mycima-official.bitbucket.io
@@ -825,7 +821,6 @@
 0.0.0.0 projectfreetv-official.lol
 0.0.0.0 projectfreetvm.lol
 0.0.0.0 pusatfilm.id
-0.0.0.0 putlockerproxy.org
 0.0.0.0 quicksportstv.com
 0.0.0.0 rapidgators.net
 0.0.0.0 rarbg.bg
@@ -914,7 +909,6 @@
 0.0.0.0 sismrae.sead.pi.gov.br
 0.0.0.0 smartiptv.irish
 0.0.0.0 soap2day4.me
-0.0.0.0 soap2dayforever.com
 0.0.0.0 soap2dayhd.cc
 0.0.0.0 soap2days.ac
 0.0.0.0 soap2daytv.me

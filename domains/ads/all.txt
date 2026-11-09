@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 627 | Updated: 2026-11-09
+# Domains: 625 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -322,7 +322,6 @@ hb.hyperbrainz.com
 hb.incrementxserv.com
 hb.justbidit2.xyz
 hb.stngo.com
-hb.sweetgum.io
 hcurvecdn.com
 hermes.aidemsrv.com
 hmidssp.com
@@ -558,7 +557,6 @@ sync.pubrise.ai
 sync.revantage.io
 sync.spoutroserve.com
 sync.ssmas.com
-sync.sweetgum.io
 sync.tagoras.io
 sync.theagenticx.ai
 sync.twist.win

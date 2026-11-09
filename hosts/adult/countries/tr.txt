@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 418 | Updated: 2026-11-09
+# Domains: 415 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -87,7 +87,6 @@
 0.0.0.0 canlisex.org
 0.0.0.0 canlisexsohbethatti.net
 0.0.0.0 certification.ntop.com
-0.0.0.0 cesmeescortred.xyz
 0.0.0.0 cimcime173.live
 0.0.0.0 cimcime174.live
 0.0.0.0 cimcime178.live
@@ -135,7 +134,6 @@
 0.0.0.0 escortbursam.com
 0.0.0.0 escortgirls-bern.com
 0.0.0.0 escortizmirkiz.info
-0.0.0.0 escortlar251.xyz
 0.0.0.0 escortlar253.xyz
 0.0.0.0 escortnews.com
 0.0.0.0 escortnews.info
@@ -144,8 +142,6 @@
 0.0.0.0 escortsinpakistan.online
 0.0.0.0 escortsite.biz
 0.0.0.0 escortsites.org
-0.0.0.0 escortssonia.com
-0.0.0.0 escortstacey.com
 0.0.0.0 eskort.news
 0.0.0.0 eskortadresi.com
 0.0.0.0 eskortpro2.world
@@ -280,6 +276,7 @@
 0.0.0.0 pornocu15.site
 0.0.0.0 pornocudayi43.com
 0.0.0.0 pornocudayi50.com
+0.0.0.0 pornocudayi56.com
 0.0.0.0 pornodoeda45.shop
 0.0.0.0 pornoiz18.shop
 0.0.0.0 pornoizlehane.com
