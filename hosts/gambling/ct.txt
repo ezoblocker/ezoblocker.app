@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 657,260 | Updated: 2026-11-09
+# Domains: 657,236 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -80669,7 +80669,6 @@
 0.0.0.0 betgarantiguncelgiris.net
 0.0.0.0 betgarantiguncelgirisi.com
 0.0.0.0 betgarantitv1357.com
-0.0.0.0 betgarantitv1570.com
 0.0.0.0 betgarantiuyelik.com
 0.0.0.0 betgarantix.com
 0.0.0.0 betgarantiyenigiris.com
@@ -88575,7 +88574,6 @@
 0.0.0.0 betriviera-es.pages.dev
 0.0.0.0 betriviera-fr.org
 0.0.0.0 betriviera-francais-com-be4fcb.pages.dev
-0.0.0.0 betriviera-francais.com
 0.0.0.0 betriviera-france-com.pages.dev
 0.0.0.0 betriviera-france-net-08fa71.pages.dev
 0.0.0.0 betriviera-france.net
@@ -88588,9 +88586,7 @@
 0.0.0.0 betriviera-pt.com
 0.0.0.0 betriviera-radio-fm-920af68b.pages.dev
 0.0.0.0 betriviera-sam-rituel-beaute-fr.pages.dev
-0.0.0.0 betriviera.biz
 0.0.0.0 betriviera.de
-0.0.0.0 betriviera.info
 0.0.0.0 betriviera.io
 0.0.0.0 betriviera.life
 0.0.0.0 betriviera.org
@@ -107227,7 +107223,6 @@
 0.0.0.0 bodystressreleaseorg-10rajadewa.pages.dev
 0.0.0.0 boeken-2000.nl
 0.0.0.0 boekwinkelminotaurus.nl
-0.0.0.0 bof-casino-inloggen.nl
 0.0.0.0 bof-casino-login-nl-com.pages.dev
 0.0.0.0 bof-casino-login-nl.com
 0.0.0.0 bof-casino-nederland-nl.nl
@@ -193903,7 +193898,6 @@
 0.0.0.0 coinpoker.vin
 0.0.0.0 coinpoker.vu
 0.0.0.0 coinpoker.world
-0.0.0.0 coinpoker1.com
 0.0.0.0 coinpoker11.com
 0.0.0.0 coinpoker12.com
 0.0.0.0 coinpoker13.com
@@ -359087,7 +359081,6 @@
 0.0.0.0 madcasino1.ca
 0.0.0.0 madcasino1.co
 0.0.0.0 madcasino1.de
-0.0.0.0 madcasino1.fr
 0.0.0.0 madcasino1.se
 0.0.0.0 madcasino1.top
 0.0.0.0 madcasino1.uk
@@ -479811,7 +479804,6 @@
 0.0.0.0 rainbet-fi.bet
 0.0.0.0 rainbet-fi.fi
 0.0.0.0 rainbet-finland.com
-0.0.0.0 rainbet-fra.fr
 0.0.0.0 rainbet-france.com
 0.0.0.0 rainbet-games.ru
 0.0.0.0 rainbet-gb-org-uk-cd2.pages.dev
@@ -480030,7 +480022,6 @@
 0.0.0.0 rainbett.im
 0.0.0.0 rainbettcasino.ca
 0.0.0.0 rainbettfr.com
-0.0.0.0 rainbetvip.com
 0.0.0.0 rainbetvipmx.com
 0.0.0.0 rainbetwebsite.com
 0.0.0.0 rainbetx.de
@@ -487450,7 +487441,6 @@
 0.0.0.0 revecasino.com
 0.0.0.0 revengeoflokimegaways-top.pages.dev
 0.0.0.0 reverieorleans.com
-0.0.0.0 revery-casino.com
 0.0.0.0 revery-play-art.pages.dev
 0.0.0.0 revery-play-bonus.com
 0.0.0.0 revery-play-casino-fr.pages.dev
@@ -487473,7 +487463,6 @@
 0.0.0.0 revery-play.co.uk
 0.0.0.0 revery-play.com.gr
 0.0.0.0 revery-play.de
-0.0.0.0 revery-play.fr
 0.0.0.0 revery-play.io
 0.0.0.0 revery-play.live
 0.0.0.0 revery-play.net
@@ -487484,7 +487473,6 @@
 0.0.0.0 revery-plays-casino-com.pages.dev
 0.0.0.0 revery-plays.nl
 0.0.0.0 revery-plays.uk
-0.0.0.0 reverycasino.com
 0.0.0.0 reverycasino.eu
 0.0.0.0 reveryplay-1-nl.pages.dev
 0.0.0.0 reveryplay-casino-de-com-16a84151.pages.dev
@@ -487518,8 +487506,6 @@
 0.0.0.0 reveryplay-pt-20521.pages.dev
 0.0.0.0 reveryplay-si-20368.pages.dev
 0.0.0.0 reveryplay-uk-com-6ac654.pages.dev
-0.0.0.0 reveryplay.bet
-0.0.0.0 reveryplay.casino
 0.0.0.0 reveryplay.co.nl
 0.0.0.0 reveryplay.co.uk
 0.0.0.0 reveryplay.guru
@@ -516660,7 +516646,6 @@
 0.0.0.0 shbet9999.net
 0.0.0.0 shbet9999.org
 0.0.0.0 shbeta.cfd
-0.0.0.0 shbeta.pro
 0.0.0.0 shbeta.win
 0.0.0.0 shbeta1.app
 0.0.0.0 shbeta9.com
@@ -565852,7 +565837,6 @@
 0.0.0.0 starzbet-de.com
 0.0.0.0 starzbet-de.pages.dev
 0.0.0.0 starzbet-de2.pages.dev
-0.0.0.0 starzbet-durdurulamaz.com
 0.0.0.0 starzbet-gir2live.pages.dev
 0.0.0.0 starzbet-giris.art
 0.0.0.0 starzbet-gr.pages.dev
@@ -609902,7 +609886,6 @@
 0.0.0.0 vavecasinos-fr.com
 0.0.0.0 vavecasinos-pt.com
 0.0.0.0 vavecasinos-uk.com
-0.0.0.0 vavecasinos.be
 0.0.0.0 vavecasinos.co.uk
 0.0.0.0 vavecasinos.de
 0.0.0.0 vavecasinos.es
@@ -633379,7 +633362,6 @@
 0.0.0.0 winbeast-casino.co.com
 0.0.0.0 winbeast-casino.co.nl
 0.0.0.0 winbeast-casino.co.uk
-0.0.0.0 winbeast-casino.com
 0.0.0.0 winbeast-casino.com.gr
 0.0.0.0 winbeast-casino.fr
 0.0.0.0 winbeast-casino.it
@@ -633434,7 +633416,6 @@
 0.0.0.0 winbeast.nl
 0.0.0.0 winbeast.pro
 0.0.0.0 winbeast.radio.fm
-0.0.0.0 winbeast.site
 0.0.0.0 winbeast.uk.net
 0.0.0.0 winbeast1.cz
 0.0.0.0 winbeast1.uk
@@ -633492,12 +633473,10 @@
 0.0.0.0 winbeastnl.net
 0.0.0.0 winbeastnl.nl
 0.0.0.0 winbeastonlinecasino.nl
-0.0.0.0 winbeasts-casino.com
 0.0.0.0 winbeasts-nl.pages.dev
 0.0.0.0 winbeasts.co.nl
 0.0.0.0 winbeasts.com
 0.0.0.0 winbeasts.cz
-0.0.0.0 winbeasts.net
 0.0.0.0 winbeastscasino.com
 0.0.0.0 winbeastscasino.uk
 0.0.0.0 winbeastsnl-nl.pages.dev
@@ -650348,9 +650327,7 @@
 0.0.0.0 ybets21.io
 0.0.0.0 ybets3.it.com
 0.0.0.0 ybets3.one
-0.0.0.0 ybets333.net
 0.0.0.0 ybets36.io
-0.0.0.0 ybets6.io
 0.0.0.0 ybetscasino-au.com
 0.0.0.0 ybetscasino-bonus-de-4l1.pages.dev
 0.0.0.0 ybetscasino-bonus.de
@@ -651685,7 +651662,6 @@
 0.0.0.0 yonibet-info.pages.dev
 0.0.0.0 yonibet-io-com-9b419571.pages.dev
 0.0.0.0 yonibet-io.com
-0.0.0.0 yonibet-io.online
 0.0.0.0 yonibet-it.com
 0.0.0.0 yonibet-legal-fr.com
 0.0.0.0 yonibet-no.com

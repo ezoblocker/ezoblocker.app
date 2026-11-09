@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Security
-! Domains: 93,143 | Updated: 2026-11-09
+! Domains: 93,117 | Updated: 2026-11-09
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -2213,6 +2213,7 @@
 ||airtm4.com^
 ||airwallexdeskchat.com^
 ||airwallexservices.com^
+||airwallexwhitelist.com^
 ||aj-whats-app.com.cn^
 ||ajb-whatsapp.com.cn^
 ||ajx-whats-app.com.cn^
@@ -3791,7 +3792,6 @@
 ||apple-help.pages.dev^
 ||apple-icloud-lawsuit-claim.pages.dev^
 ||apple-icloud-service.ph^
-||apple-icloud-verify.us^
 ||apple-id-account-verification-support.net.ph^
 ||apple-id-store-information.pages.dev^
 ||apple-id-support.center^
@@ -7111,7 +7111,6 @@
 ||beta-tiktok.pages.dev^
 ||beta-trezo-io.pages.dev^
 ||beta-whatsapp-contac-center.pages.dev^
-||betalingsgaranti.com^
 ||betanoappdownload-org.pages.dev^
 ||betanoappdownload-vip.pages.dev^
 ||betgarantiadres.com^
@@ -7184,7 +7183,6 @@
 ||bin-trezorr-bridge.pages.dev^
 ||binance-17g.pages.dev^
 ||binance-1id.pages.dev^
-||binance-absa-signin.ph^
 ||binance-academy.pages.dev^
 ||binance-ai-click.pages.dev^
 ||binance-airdrop-2p2.pages.dev^
@@ -13779,9 +13777,6 @@
 ||confirmation-id128.com^
 ||confirmation-id131.com^
 ||confirmation-id132.com^
-||confirmation-id72.com^
-||confirmation-id73.com^
-||confirmation-id75.com^
 ||confirmation-id76.com^
 ||confirmation-id8492027.com^
 ||confirmation-ourtime.workers.dev^
@@ -14592,10 +14587,8 @@
 ||craken-log-en.pages.dev^
 ||crashrobloxid.pages.dev^
 ||cratos-cratosroyalbetgirs.com^
-||cratosroyalbet-gen-tr.xyz^
 ||cratosroyalbet-gir.vip^
 ||cratosroyalbet-girisimiz.icu^
-||cratosroyalbetgirisleri.cc^
 ||crcyptocom-login.pages.dev^
 ||crd-metamsk-login.pages.dev^
 ||cre-ate-robinhod-login.pages.dev^
@@ -15323,9 +15316,7 @@
 ||depop-veriff.world^
 ||depop-verification-help727472.help^
 ||depop-verificationpage891581.click^
-||depop-verify-order.info^
 ||depop-verify-part.com^
-||depop-verify.shop^
 ||depop-verify.space^
 ||depop-verifypage0787.shop^
 ||depop-verifyseller82938.shop^
@@ -17490,7 +17481,6 @@
 ||docss-ledger-us.pages.dev^
 ||docss-ledgger-us.pages.dev^
 ||docstrezzr-wallet.pages.dev^
-||doctormartenscl.com^
 ||doctormartensnl.com^
 ||docu-onedrive-view.cc^
 ||docu-signature-online-doc-service.pages.dev^
@@ -23673,7 +23663,6 @@
 ||facebook--login-verification-email.ph^
 ||facebook--login-warning.ph^
 ||facebook--page-admin-alert.ph^
-||facebook--profile-verification.ph^
 ||facebook--security-confirmation-now.ph^
 ||facebook--security-immediate-verify.ph^
 ||facebook--security-warning-login.ph^
@@ -23738,8 +23727,6 @@
 ||facebook--status-account-locked-unblock-now-link.ph^
 ||facebook--status-account-lockedout-error-check-blocked-delete.ph^
 ||facebook--status-account-lockedout-support2.ph^
-||facebook--status-account-timeout-warning.ph^
-||facebook--status-account-warning-issued.ph^
 ||facebook--verification-request.ph^
 ||facebook-1tq.pages.dev^
 ||facebook-5bq.pages.dev^
@@ -23786,7 +23773,6 @@
 ||facebook-costumizable-blocked.ph^
 ||facebook-costumizable-warning-26.ph^
 ||facebook-costumizable-warning-30.ph^
-||facebook-countdown-claim-now.ph^
 ||facebook-countdown-claim-quickly.ph^
 ||facebook-countdown-gift-now.ph^
 ||facebook-countdown-reward-now.ph^
@@ -23861,7 +23847,6 @@
 ||facebook-recovery-account58-tw.ph^
 ||facebook-recovery-account70-tw.ph^
 ||facebook-scam-alert-password.ph^
-||facebook-security-login-im-account-recovery.ph^
 ||facebook-security-login-im-wizards-watch-alert.ph^
 ||facebook-security-password-change-support.ph^
 ||facebook-security-password-recovery.ph^
@@ -25840,7 +25825,6 @@
 ||gate-io-logins.pages.dev^
 ||gate-ior.com.cn^
 ||gate-ledgger-com-start.pages.dev^
-||gate-w-hatsapp.com.cn^
 ||gateio-exchange.pages.dev^
 ||gateio-exchanges.pages.dev^
 ||gateio-login.pages.dev^
@@ -28372,8 +28356,12 @@
 ||gxrd-web-whatsapp.hk.cn^
 ||gyfgoogleweb.workers.dev^
 ||gym-sharksindia.com^
+||gymshark-kuwait.com^
 ||gymshark-life.com^
 ||gymshark.pages.dev^
+||gymsharkaedubai.com^
+||gymsharkauaustralia.com^
+||gymsharkcacanada.com^
 ||gymsharkjapanonline.com^
 ||gymsharkleggingsireland.com^
 ||gymsharkshops.com^
@@ -33415,7 +33403,6 @@
 ||hub-uphold-com.pages.dev^
 ||hub-us-desktop-ledgar.pages.dev^
 ||hub-w-hatsapp.com.cn^
-||hub-whotsaapp.hl.cn^
 ||hub-x-metamsk-login.pages.dev^
 ||hubb-trezerr-io-j.pages.dev^
 ||hubb-trezerr-io-p.pages.dev^
@@ -34686,7 +34673,6 @@
 ||instagram-recover.pages.dev^
 ||instagram-recovery-expert-access.ph^
 ||instagram-recovery-help.ph^
-||instagram-recovery-helpdesk-main.ph^
 ||instagram-reset-recovery.ph^
 ||instagram-secure-access.ph^
 ||instagram-security-login-im-problem.ph^
@@ -37739,7 +37725,6 @@
 ||j-wh-atsapp.com.cn^
 ||j-wha-tsapp.com.cn^
 ||j-what-sapp.com.cn^
-||j-whats-app.com.cn^
 ||j-whats-app.hl.cn^
 ||j-whats-app.sh.cn^
 ||j-whatsa-pp.com.cn^
@@ -38190,7 +38175,6 @@
 ||jtexpress-tya.top^
 ||jtexpress-tyf.top^
 ||jtexpress-tyh.top^
-||jtexpress-tyr.top^
 ||jtexpress-tys.top^
 ||jtexpress-tz.top^
 ||jtexpress-xb.top^
@@ -38660,7 +38644,6 @@
 ||know-ur-bridge-trzr.pages.dev^
 ||know-walet-ledgr.pages.dev^
 ||know-wallet-ledgr.pages.dev^
-||knowledge-whatsapp.com.cn^
 ||knu-whatsapp.com.cn^
 ||ko-uyf-whatsapp.com.cn^
 ||koccuin-login.pages.dev^
@@ -39075,7 +39058,6 @@
 ||krecon-logiin-cloud-en.pages.dev^
 ||krecon-logiin-cloud.pages.dev^
 ||kredi-ingbank.ph^
-||kredimvodafone.ph^
 ||kreken-login-us.pages.dev^
 ||krekexx-loginz-us.pages.dev^
 ||kreknn-login.pages.dev^
@@ -39435,7 +39417,6 @@
 ||kynavor17-1haven.pages.dev^
 ||kynavor17-1vault.pages.dev^
 ||kynza-jivro-biz-heltra-novex.pages.dev^
-||kyro-whatapt.hl.cn^
 ||kyy7x50z-teiegarm.pages.dev^
 ||kz-ccc-whatsapp.com.cn^
 ||kz-whatsapp.com.cn^
@@ -51776,7 +51757,6 @@
 ||lokalna-ofeta534563.shop^
 ||lokalna-ofeta54378.shop^
 ||lokalna-ofeta56436753.shop^
-||lokalna-ofeta65.sbs^
 ||lokalna-ofeta664.sbs^
 ||lokalna-ofeta671344.shop^
 ||lokalna-ofeta79182.shop^
@@ -56833,7 +56813,6 @@
 ||netflix-comments.pages.dev^
 ||netflix-cq1.pages.dev^
 ||netflix-cs5.pages.dev^
-||netflix-customer-activation-logon-verify.ph^
 ||netflix-device-support.ph^
 ||netflix-ehb.pages.dev^
 ||netflix-family-affair.pages.dev^
@@ -64950,7 +64929,6 @@
 ||rsrvasid-botuqqe701.com^
 ||rst-wemixit.com^
 ||rsxfan-whatsapp.hk.cn^
-||rt-apss-whatapp.com.cn^
 ||rt-letsvpn.com.cn^
 ||rt-whats-app.com.cn^
 ||rtewadsfgfhguoytrew4wetrytuyiukhgf2kuytrdfgchfgjuyft2.pages.dev^
@@ -74756,7 +74734,6 @@
 ||support-login-trezor.pages.dev^
 ||support-login-uphold-io-us.pages.dev^
 ||support-login-uphuldd-us.pages.dev^
-||support-mail-apple.co^
 ||support-mercari.link^
 ||support-meta-khs.pages.dev^
 ||support-meta-logn.pages.dev^
@@ -75433,7 +75410,6 @@
 ||swisspost-securepay.help^
 ||swisspost-securepay.info^
 ||swisspost-sicherpay.click^
-||swisspost43425.cfd^
 ||swisspostpay.com^
 ||swisspostweb.app^
 ||switch-lotemax-2u.com^
@@ -75767,7 +75743,6 @@
 ||tejegbfnrty.click^
 ||tejegbnydq.work^
 ||tejegbqjtn.work^
-||tejegbtrnso.fit^
 ||tejegckfap.fit^
 ||tejegckfap.work^
 ||tejegcrjtw.click^
@@ -76654,12 +76629,12 @@
 ||tokenpocketwallet-pro.pages.dev^
 ||tokenpocketwallet.pages.dev^
 ||tokenpocketxyz.pages.dev^
-||tokenpoket-sg-cdn.click^
 ||tokenpoket.me.uk^
 ||tokenpoket.pages.dev^
 ||tokenpoketapp-relay-jp11.cyou^
 ||tokenpoketapp70-relay-hk72.xyz^
 ||tokenpoketgo-gw-uk12.xyz^
+||tokenpoketnow-dist-de08.lol^
 ||tokenpoketnow-pop-kr48.xyz^
 ||tokenpoketnow54-pop-hk83.lol^
 ||tokenpoketprimx-cdn-kr8.lol^
@@ -92753,7 +92728,6 @@
 ||ybc-whatsapp.com.cn^
 ||ycu-whatsapp.com.cn^
 ||ydz-whatsapp.com.cn^
-||yeet-whatsapp.com.cn^
 ||yeezy-supply.de^
 ||yeezys.ro^
 ||yellowrobloxlogo.pages.dev^
