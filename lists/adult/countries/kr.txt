@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, South Korea (kr)
-# Domains: 55 | Updated: 2026-11-08
+# Domains: 57 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/kr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -36,6 +36,7 @@ k386fzx.kiwanisturnhout.be
 m.av19.org
 m.namdo.biz
 m.sexywoo.co.kr
+m.xn--h49ak9g3ze6zr01a837a.com
 *.myloveyou.co.kr
 *.nightmall.co.kr
 nightmall.linkstory.co.kr
@@ -58,4 +59,5 @@ nightmall.linkstory.co.kr
 *.xn--av19-eh4pq56h.com
 *.xn--o39an5bf2p1yd8xin3lwgv.com
 *.xshopkrmall.com
+*.yadong16.com
 *.yadongkorea.app

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, Vietnam (vn)
-! Domains: 82 | Updated: 2026-11-08
+! Domains: 84 | Updated: 2026-11-09
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/countries/vn.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 ||90phut.dev^
 ||90phutt.co^
 ||90phutzal.tv^
+||90phutzan.tv^
 ||90phutzas.tv^
 ||90phutzat.tv^
 ||90phutzax.tv^
@@ -63,6 +64,7 @@
 ||tvhayx.org^
 ||xoilac1.help^
 ||xoilac3.cc^
+||xoilac365xb.cc^
 ||xoilac5.top^
 ||xoilaclivettbdad.tv^
 ||xoilaclivettbds.tv^

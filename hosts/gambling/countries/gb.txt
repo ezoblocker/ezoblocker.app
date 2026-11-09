@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Gambling, United Kingdom (gb)
-# Domains: 40 | Updated: 2026-11-08
+# Domains: 48 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 5topcasino.co.uk
 0.0.0.0 allgamestopsites.co
+0.0.0.0 amulette.co.uk
 0.0.0.0 bestgamstopcompare.net
 0.0.0.0 betrating.org
 0.0.0.0 casino-apps.net
@@ -18,8 +19,11 @@
 0.0.0.0 colden-common-cc.co.uk
 0.0.0.0 community54.com
 0.0.0.0 computerdisposals.co.uk
+0.0.0.0 cpath.co.uk
 0.0.0.0 elanlaserclinics.co.uk
+0.0.0.0 flash-film.co.uk
 0.0.0.0 immersionvr.co.uk
+0.0.0.0 makenobones.co.uk
 0.0.0.0 mediatornetwork.org
 0.0.0.0 miracle-casinos.com
 0.0.0.0 myzeo.co.uk
@@ -32,8 +36,11 @@
 0.0.0.0 nonstopjungle.co
 0.0.0.0 normantewfamilyhistory.org.uk
 0.0.0.0 notongamstopcasinos.co
+0.0.0.0 opx.co.uk
 0.0.0.0 piotrbuildinganddecorations.co.uk
 0.0.0.0 playnodeposit.com
+0.0.0.0 prideinlabour.org.uk
+0.0.0.0 richardhawleyforum.co.uk
 0.0.0.0 rtscenic.co.uk
 0.0.0.0 songwriteronline.co.uk
 0.0.0.0 staidansprimary.co.uk
@@ -42,5 +49,6 @@
 0.0.0.0 stargambling.net
 0.0.0.0 unlimitedgamstopfree.com
 0.0.0.0 vavadacasinocz.com
+0.0.0.0 vistaroofinglincoln.co.uk
 0.0.0.0 worldclassarena.org
 0.0.0.0 wsmacademy.co.uk

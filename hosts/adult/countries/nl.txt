@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Netherlands (nl)
-# Domains: 53 | Updated: 2026-11-08
+# Domains: 55 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/nl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -43,6 +43,7 @@
 0.0.0.0 passion.bg
 0.0.0.0 poppers-store.nl
 0.0.0.0 purelust.com
+0.0.0.0 server.algeriatimes.net
 0.0.0.0 sex-chatten.nl
 0.0.0.0 sex-webcams-live.com
 0.0.0.0 sexshopgay.nl
@@ -53,6 +54,7 @@
 0.0.0.0 speeltjes.nl
 0.0.0.0 stouteschatten.com
 0.0.0.0 tesstesst.nl
+0.0.0.0 tr8cg.com
 0.0.0.0 web-x-cam.nl
 0.0.0.0 webcamsex.deals
 0.0.0.0 webcamsexnu.nl

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Brazil (br)
-# Domains: 65 | Updated: 2026-11-08
+# Domains: 69 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/countries/br.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -35,6 +35,7 @@ farmacia.vilhena.ro.gov.br
 membros.baixedetudo.net.br
 *.multicanaisbr.com
 *.multicanaishdtv.com.br
+*.multicanaistv.wiki
 *.overflix.download
 pirlotv-futbol-en-vivo-directo.apps112.com
 *.pirlotv.shop
@@ -43,9 +44,11 @@ pirlotv-futbol-en-vivo-directo.apps112.com
 portaleducacional.unisanta.br
 produtor.adagri.ce.gov.br
 *.rbdflix.com
+*.redecanais.company
 *.redecanais.host
 *.redecanais.in
 *.redecanais.locker
+*.redecanais.red
 *.redecanais.solutions
 *.redecanais4k.my
 *.redecanaisfhd.my
@@ -61,6 +64,7 @@ sia.aracati.ce.gov.br
 sismrae.sead.pi.gov.br
 *.superflix51.lol
 *.superflix52.lol
+*.superflix53.lol
 *.topflix.com.br
 *.topflix.ia.br
 tributario.piracicaba.sp.gov.br

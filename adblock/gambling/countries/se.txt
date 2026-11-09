@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, Sweden (se)
-! Domains: 28 | Updated: 2026-11-08
+! Domains: 29 | Updated: 2026-11-09
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/se.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,6 +16,7 @@
 ||casinomamma.com^
 ||casinorino.se^
 ||cyrusbonus.se^
+|direct.smsparsi.ir^
 ||duxcasino.eu^
 ||ggaff.bet^
 |ggbet-casino-4-ywf.tervarinne.fi^

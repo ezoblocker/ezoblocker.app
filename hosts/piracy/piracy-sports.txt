@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 448 | Updated: 2026-11-08
+# Domains: 460 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@
 0.0.0.0 90phut.dev
 0.0.0.0 90phutt.co
 0.0.0.0 90phutzal.tv
+0.0.0.0 90phutzan.tv
 0.0.0.0 90phutzas.tv
 0.0.0.0 90phutzat.tv
 0.0.0.0 90phutzax.tv
@@ -83,6 +84,7 @@
 0.0.0.0 footybite.dev
 0.0.0.0 footybite.football
 0.0.0.0 footybite.forum
+0.0.0.0 footybite.futbol
 0.0.0.0 footybite.gold
 0.0.0.0 footybite.im
 0.0.0.0 footybite.live
@@ -108,6 +110,7 @@
 0.0.0.0 futbollibre.kim
 0.0.0.0 futbollibreenvivo.net
 0.0.0.0 futbollibrefullhd.org
+0.0.0.0 futbollibregol.org
 0.0.0.0 futbollibretvhd.co
 0.0.0.0 futbolyconsolas.es
 0.0.0.0 futemax.at
@@ -244,6 +247,7 @@
 0.0.0.0 pelotalibreplus.pe
 0.0.0.0 pelotalibretv1.biz
 0.0.0.0 pirlotv-futbol-en-vivo-directo.apps112.com
+0.0.0.0 pirlotv-hd.asia
 0.0.0.0 pirlotv.bar
 0.0.0.0 pirlotv.dog
 0.0.0.0 pirlotv.download
@@ -253,6 +257,7 @@
 0.0.0.0 pirlotv.red
 0.0.0.0 pirlotv.sh
 0.0.0.0 pirlotv.shop
+0.0.0.0 pirlotv.tools
 0.0.0.0 pirlotv.win
 0.0.0.0 pirlotv1.live
 0.0.0.0 pirlotvapk.net
@@ -271,6 +276,7 @@
 0.0.0.0 rojadirectaes.cloud
 0.0.0.0 rojadirectafullhd.net
 0.0.0.0 rojadirectafulltv.org
+0.0.0.0 rojadirectaonline.me
 0.0.0.0 rojadirectas.business
 0.0.0.0 rojadirectas.cc
 0.0.0.0 rojadirectatv.city
@@ -279,6 +285,7 @@
 0.0.0.0 rojadirectatvplay.com
 0.0.0.0 rojadirectatvplay.net
 0.0.0.0 rojadirectatvplay.org
+0.0.0.0 rojadirectaya.com
 0.0.0.0 s1s.designq.kr
 0.0.0.0 saas.spochak.com
 0.0.0.0 scoreman123.com
@@ -327,6 +334,7 @@
 0.0.0.0 streameasti.site
 0.0.0.0 streameastmirror.com
 0.0.0.0 streameastonline.com
+0.0.0.0 streameastpro.pro
 0.0.0.0 streameasts.live
 0.0.0.0 streameasttop.com
 0.0.0.0 streameastv2.buzz
@@ -364,12 +372,14 @@
 0.0.0.0 tarjetaroja.surf
 0.0.0.0 tarjetarojadirecta.biz
 0.0.0.0 tarjetarojadirecta.es
+0.0.0.0 tarjetarojadirecta.me
 0.0.0.0 tarjetarojadirectatv.me
 0.0.0.0 tarjetarojaenvivo.online
 0.0.0.0 tarjetarojaonline.info
 0.0.0.0 tarjetarojaonline.pro
 0.0.0.0 tarjetarojaonlineinfo.site
 0.0.0.0 tarjetarojatv.boats
+0.0.0.0 tarjetarojatv.cam
 0.0.0.0 tarjetarojatv.mobi
 0.0.0.0 tarjetarojatvenvivo.me
 0.0.0.0 tarjetarojatvhd.live
@@ -386,6 +396,7 @@
 0.0.0.0 totalsportek1.is
 0.0.0.0 totalsportek1.li
 0.0.0.0 totalsportek1.online
+0.0.0.0 totalsporteke.online
 0.0.0.0 totalsportekhd.live
 0.0.0.0 totalsporteki.fit
 0.0.0.0 totalsporteki.icu
@@ -420,6 +431,7 @@
 0.0.0.0 www.mae.gov.bi
 0.0.0.0 xoilac1.help
 0.0.0.0 xoilac3.cc
+0.0.0.0 xoilac365xb.cc
 0.0.0.0 xoilac5.top
 0.0.0.0 xoilaclivettbdad.tv
 0.0.0.0 xoilaclivettbds.tv

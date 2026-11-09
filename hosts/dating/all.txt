@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,283 | Updated: 2026-11-08
+# Domains: 1,300 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -158,6 +158,7 @@
 0.0.0.0 carijodohclub.blogspot.com
 0.0.0.0 carlow.level-web.ru
 0.0.0.0 casual.encounters.uk
+0.0.0.0 casualencountersusvibe.com
 0.0.0.0 cca.mhcc.com
 0.0.0.0 cennetim.com
 0.0.0.0 central-florida.floridaguntrader.com
@@ -449,6 +450,7 @@
 0.0.0.0 filipinocupid.com
 0.0.0.0 filmora.wondershare.com.ru
 0.0.0.0 findescortsnearme.com
+0.0.0.0 flarecasualencounters.com
 0.0.0.0 flingster.com
 0.0.0.0 flirt-mature.net
 0.0.0.0 flirt-style.ru
@@ -554,11 +556,19 @@
 0.0.0.0 honeychat.bot
 0.0.0.0 hongkongcupid.com
 0.0.0.0 hookupburst.com
+0.0.0.0 hookupchase.com
 0.0.0.0 hookupclique.com
+0.0.0.0 hookupdash.com
 0.0.0.0 hookupflare.com
 0.0.0.0 hookupfluent.com
 0.0.0.0 hookupiter.com
+0.0.0.0 hookupmatchr.vip
+0.0.0.0 hookupmaven.com
+0.0.0.0 hookuppilot.com
+0.0.0.0 hookuprealm.com
 0.0.0.0 hookups365.com.au
+0.0.0.0 hookupsamericaedge.com
+0.0.0.0 hookupsstateszone.com
 0.0.0.0 hookuptide.com
 0.0.0.0 hossohbet.com
 0.0.0.0 hotescortnearme.com
@@ -602,6 +612,7 @@
 0.0.0.0 isvicresohbet.gen.tr
 0.0.0.0 ivana-models-escortservice.de
 0.0.0.0 jackd.com
+0.0.0.0 jackson-tn.bonepage.com
 0.0.0.0 jacksonville.bonepage.com
 0.0.0.0 japancupid.com
 0.0.0.0 jdate.com
@@ -795,6 +806,7 @@
 0.0.0.0 naijasinglesconnect.com
 0.0.0.0 namoroonline.com.br
 0.0.0.0 naronameso.meletstevewedding.fr
+0.0.0.0 nashville.bonepage.com
 0.0.0.0 nasipse.com
 0.0.0.0 nastyhookups.com
 0.0.0.0 navan.kubuchet.ru
@@ -896,6 +908,8 @@
 0.0.0.0 plancul-gratuit.fr
 0.0.0.0 plentyoffish.com
 0.0.0.0 pof.com
+0.0.0.0 pointcasualencounters.com
+0.0.0.0 pointhookups.com
 0.0.0.0 polokwane.dfs05.ru
 0.0.0.0 pontianak.putrispa.com
 0.0.0.0 pop.mil-al.co.kr
@@ -1113,6 +1127,7 @@
 0.0.0.0 swingers.club
 0.0.0.0 swingers.theadulthub.com
 0.0.0.0 swingersclublist.com
+0.0.0.0 swingersnearme.co.uk
 0.0.0.0 swingersplay.com
 0.0.0.0 swingersplaylive.com
 0.0.0.0 swinglifestyle.com
@@ -1141,6 +1156,7 @@
 0.0.0.0 tapple.me
 0.0.0.0 tchatche.com
 0.0.0.0 tchatplancul.fr
+0.0.0.0 tempohookups.com
 0.0.0.0 tescort.com
 0.0.0.0 thaicupid.com
 0.0.0.0 thaiflirting.com
@@ -1209,6 +1225,7 @@
 0.0.0.0 urdu.chat.org.in
 0.0.0.0 us.ondate.com
 0.0.0.0 usasexguide.nl
+0.0.0.0 uscasualencounters.com
 0.0.0.0 valenzuelaph.assortlist.com
 0.0.0.0 vancouver.bonepage.com
 0.0.0.0 vard.regionstockholm.se

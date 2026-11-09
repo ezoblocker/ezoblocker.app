@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,371 | Updated: 2026-11-08
+# Domains: 1,394 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -191,6 +191,7 @@
 0.0.0.0 channel.beep-shop.com
 0.0.0.0 charlottedewinter.com
 0.0.0.0 charnel-club.be
+0.0.0.0 cheiroderosa.com.br
 0.0.0.0 cherrybanana.com.au
 0.0.0.0 chickadeeswoodentoys.com
 0.0.0.0 christineleduc.be
@@ -223,6 +224,7 @@
 0.0.0.0 corse.mx
 0.0.0.0 cosettes.co.za
 0.0.0.0 couplestoythailand.family.blog
+0.0.0.0 criteria-white-label.novadata.com.br
 0.0.0.0 cultura.cartagena.es
 0.0.0.0 cumshopsextoy.com
 0.0.0.0 cupidbaba.com
@@ -251,6 +253,7 @@
 0.0.0.0 deliveryabelgrano.com.ar
 0.0.0.0 deliveryaltopalermo.com.ar
 0.0.0.0 depaarsekeizerin.nl
+0.0.0.0 desejoeamor.com.br
 0.0.0.0 deseovibrante.cl
 0.0.0.0 desirel.at
 0.0.0.0 desirel.be
@@ -375,6 +378,7 @@
 0.0.0.0 eufory.de
 0.0.0.0 eurobattle.net
 0.0.0.0 eurovisex.com
+0.0.0.0 evit.it
 0.0.0.0 exclusivasex.com.br
 0.0.0.0 extasy.com.ar
 0.0.0.0 extasyshops.ca
@@ -430,6 +434,7 @@
 0.0.0.0 girlsgetoff.com
 0.0.0.0 gizemlisexshop.com
 0.0.0.0 gizliyanim.com
+0.0.0.0 glamourseduction.store
 0.0.0.0 goldcondom.com
 0.0.0.0 goodvibres.com.br
 0.0.0.0 goota.com.ar
@@ -446,11 +451,13 @@
 0.0.0.0 hazoosexshop.com.br
 0.0.0.0 hello-nancy.tenereteam.com
 0.0.0.0 hellonancy.com
+0.0.0.0 herotica.ro
 0.0.0.0 high-tide.com.au
 0.0.0.0 himmelriket.se
 0.0.0.0 honeybirdette.com
 0.0.0.0 hopnato.cz
 0.0.0.0 hotfrog.ie
+0.0.0.0 hotmilklingerie.com
 0.0.0.0 hotpowers.jp
 0.0.0.0 hotsexshop.com.br
 0.0.0.0 houseerotic.com
@@ -558,6 +565,7 @@
 0.0.0.0 lapepa.com.co
 0.0.0.0 lareinadeparis.com
 0.0.0.0 lareynadelmayoreo.com
+0.0.0.0 lasantinimodaintima.com.br
 0.0.0.0 lasexshopencasa.es
 0.0.0.0 latelylovely.com
 0.0.0.0 latiendasexygt.shop
@@ -590,6 +598,7 @@
 0.0.0.0 lojadoprazer.com.br
 0.0.0.0 lojaifody.com.br
 0.0.0.0 lojalibb.com.br
+0.0.0.0 lojaousadia.com.br
 0.0.0.0 lolamontez.co.za
 0.0.0.0 lolatoys.com
 0.0.0.0 lolipop.com.mx
@@ -686,6 +695,7 @@
 0.0.0.0 magazinuldesah.ro
 0.0.0.0 magic-x.ch
 0.0.0.0 magicamerica.it
+0.0.0.0 magiclove.com.br
 0.0.0.0 magicmenshop.com
 0.0.0.0 magicmotion.vn
 0.0.0.0 mahremdukkani.com
@@ -904,6 +914,7 @@
 0.0.0.0 pureromance.com
 0.0.0.0 qlist.app
 0.0.0.0 queer.de
+0.0.0.0 quiosquesexshop.com.br
 0.0.0.0 rabattcode.de
 0.0.0.0 rainbowstation.nyc
 0.0.0.0 rajwa.shop
@@ -916,6 +927,7 @@
 0.0.0.0 redpleasures.ca
 0.0.0.0 redshop24.pl
 0.0.0.0 redvelvet.ch
+0.0.0.0 redvelvet.it
 0.0.0.0 refform.pl
 0.0.0.0 regalatelo.cl
 0.0.0.0 regulation.co.uk
@@ -936,6 +948,7 @@
 0.0.0.0 s-shop24.ru
 0.0.0.0 s-world.at
 0.0.0.0 s69.com.ua
+0.0.0.0 saaclothing.com
 0.0.0.0 saadatcom.com
 0.0.0.0 sabora.ro
 0.0.0.0 saklikeyf.com
@@ -1090,6 +1103,7 @@
 0.0.0.0 sextoys.co.uk
 0.0.0.0 sextoys.gr
 0.0.0.0 sextoys.ie
+0.0.0.0 sextoys4u.eu
 0.0.0.0 sextoyscenter.net
 0.0.0.0 sextoysegy.com
 0.0.0.0 sextoyserotica.com.au
@@ -1113,12 +1127,14 @@
 0.0.0.0 sexyliving.com
 0.0.0.0 sexypet.co.kr
 0.0.0.0 sexyshop.cl
+0.0.0.0 sexyshopestasy.it
 0.0.0.0 sexyshopqeros.it
 0.0.0.0 sexyshopstore.com
 0.0.0.0 sexyshopticino.ch
 0.0.0.0 sexystyle.ru
 0.0.0.0 sexywawa.com
 0.0.0.0 sexyworld.gr
+0.0.0.0 sh-womenstore.com
 0.0.0.0 sheer.ar
 0.0.0.0 sheio.cz
 0.0.0.0 shespot.co.uk
@@ -1144,6 +1160,7 @@
 0.0.0.0 shoppie.nl
 0.0.0.0 shopsexmachine.com
 0.0.0.0 shopsextoy.com.vn
+0.0.0.0 shopthaonguyen-store.com
 0.0.0.0 shoptinhai.org
 0.0.0.0 shoptraitim.com
 0.0.0.0 shopvochong24h.com
@@ -1215,6 +1232,7 @@
 0.0.0.0 tenga.com.my
 0.0.0.0 tenga.my
 0.0.0.0 tentacaomodas.com.br
+0.0.0.0 tentacaoshoppe.com
 0.0.0.0 tentazionivelate.com
 0.0.0.0 tesstesst.nl
 0.0.0.0 thaisextoy.com
@@ -1277,6 +1295,7 @@
 0.0.0.0 tramagliadario.it
 0.0.0.0 travesuraseroticas69.com
 0.0.0.0 triplexshop.gr
+0.0.0.0 trumasecrets.com
 0.0.0.0 trungdochoi.com
 0.0.0.0 trustedshops.at
 0.0.0.0 trustedshops.it
@@ -1287,6 +1306,7 @@
 0.0.0.0 tuerotica.com
 0.0.0.0 tulipan.pl
 0.0.0.0 tulipasexshop.meudesconto.org
+0.0.0.0 tumando.co
 0.0.0.0 tutkusexshop.net
 0.0.0.0 uberkinky.com
 0.0.0.0 uglybaby.shop
@@ -1305,12 +1325,14 @@
 0.0.0.0 varietypleasure.com.au
 0.0.0.0 vartamayoreo.mx
 0.0.0.0 vavoomshop.co.kr
+0.0.0.0 velora-intim.ro
 0.0.0.0 velviawellness.com
 0.0.0.0 venize.de
 0.0.0.0 venus.net.pl
 0.0.0.0 venusenvy.ca
 0.0.0.0 venusexx.ueniweb.com
 0.0.0.0 verdener-auktion-online.com
+0.0.0.0 vexatoys.com
 0.0.0.0 viamax.eu
 0.0.0.0 viamax.se
 0.0.0.0 viamaxgroup.com
@@ -1349,6 +1371,7 @@
 0.0.0.0 willie.be
 0.0.0.0 woxxx-erotiksupermarkt.de
 0.0.0.0 xanadushop.co.za
+0.0.0.0 xfarma.it
 0.0.0.0 xl-shop.com
 0.0.0.0 xn--bstvuxenleksaker-vnb.se
 0.0.0.0 xoxostore.pk

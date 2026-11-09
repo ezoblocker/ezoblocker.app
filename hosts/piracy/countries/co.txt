@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Colombia (co)
-# Domains: 39 | Updated: 2026-11-08
+# Domains: 43 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/co.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,20 +13,24 @@
 0.0.0.0 futbolenvivomexico.com
 0.0.0.0 futbolete.com
 0.0.0.0 futbollibre.kim
+0.0.0.0 futbollibregol.org
 0.0.0.0 futbollibretvhd.co
 0.0.0.0 futbolyconsolas.es
 0.0.0.0 librefutbol.vip
 0.0.0.0 pelisplus3.town
 0.0.0.0 pelisplushd3.com
 0.0.0.0 pelisplusmx.co
+0.0.0.0 pirlotv-hd.asia
 0.0.0.0 pirlotv.download
 0.0.0.0 pirlotv.red
+0.0.0.0 pirlotv.tools
 0.0.0.0 pirlotv.win
 0.0.0.0 pirlotvapk.net
 0.0.0.0 pirlotvplay.online
 0.0.0.0 pirlotvv.org
 0.0.0.0 repelisplus.casa
 0.0.0.0 rojadirectafulltv.org
+0.0.0.0 rojadirectaonline.me
 0.0.0.0 tarjeta-roja.live
 0.0.0.0 tarjetaroja.love
 0.0.0.0 tarjetaroja.mba

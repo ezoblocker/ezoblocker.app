@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Vietnam (vn)
-# Domains: 133 | Updated: 2026-11-08
+# Domains: 140 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,8 +16,11 @@
 0.0.0.0 cineclate.com
 0.0.0.0 clipfull.blog
 0.0.0.0 cliphay.blog
+0.0.0.0 clipheo.blog
 0.0.0.0 cliphot3x.blog
+0.0.0.0 cliphot3x.lat
 0.0.0.0 cliphot69.cloud
+0.0.0.0 cliphotnhat-vn.com
 0.0.0.0 cliphotviet.pics
 0.0.0.0 cliphotvn.net
 0.0.0.0 cliphotvn.uk
@@ -84,6 +87,7 @@
 0.0.0.0 s1.sexheo.blog
 0.0.0.0 santasheaven.ch
 0.0.0.0 setishop.com
+0.0.0.0 sex88.blog
 0.0.0.0 sexchinavn.blog
 0.0.0.0 sexhayvc.tv
 0.0.0.0 sexhotviet.com
@@ -91,6 +95,7 @@
 0.0.0.0 sexphim.blog
 0.0.0.0 sexshop18.vn
 0.0.0.0 sexsuong.blog
+0.0.0.0 sexthich.blog
 0.0.0.0 sextop1vn.click
 0.0.0.0 sextoyeu.com
 0.0.0.0 sextoyin.com
@@ -111,6 +116,7 @@
 0.0.0.0 shopkiss.vn
 0.0.0.0 shopnguoilon.com.vn
 0.0.0.0 shopsextoy.com.vn
+0.0.0.0 shopthaonguyen-store.com
 0.0.0.0 shoptinhai.org
 0.0.0.0 shoptraitim.com
 0.0.0.0 shopvochong24h.com
@@ -134,6 +140,7 @@
 0.0.0.0 xtoyvietnam.com
 0.0.0.0 xxviet.net
 0.0.0.0 xxvn.link
+0.0.0.0 yeugai18.com
 0.0.0.0 z.clipviet.blog
 0.0.0.0 zesyxr0fyd-amphtml.kristigaskola.lv
 0.0.0.0 zohup.net

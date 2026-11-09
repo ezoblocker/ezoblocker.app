@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Piracy, South Korea (kr)
-# Domains: 25 | Updated: 2026-11-08
+# Domains: 27 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/countries/kr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 a.ezhp.co.kr
+ab6bi4wjw4-amphtml.zetacolor.it
 chunga.inpiad.co.kr
 filmora.wondershare.kr
 fishing.adcomm.kr
@@ -26,6 +27,7 @@ sportsclub.sports.or.kr
 t.matec.kr
 tvmon.com.co
 tvmon1.com
+tvmon33.com
 tvmons.org
 viet.jajag.me
 yozm.wishket.com

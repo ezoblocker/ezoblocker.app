@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, adult shops
-! Domains: 1,371 | Updated: 2026-11-08
+! Domains: 1,394 | Updated: 2026-11-09
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/adult-shop.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -191,6 +191,7 @@
 |channel.beep-shop.com^
 ||charlottedewinter.com^
 ||charnel-club.be^
+||cheiroderosa.com.br^
 ||cherrybanana.com.au^
 ||chickadeeswoodentoys.com^
 ||christineleduc.be^
@@ -223,6 +224,7 @@
 ||corse.mx^
 ||cosettes.co.za^
 |couplestoythailand.family.blog^
+|criteria-white-label.novadata.com.br^
 |cultura.cartagena.es^
 ||cumshopsextoy.com^
 ||cupidbaba.com^
@@ -251,6 +253,7 @@
 ||deliveryabelgrano.com.ar^
 ||deliveryaltopalermo.com.ar^
 ||depaarsekeizerin.nl^
+||desejoeamor.com.br^
 ||deseovibrante.cl^
 ||desirel.at^
 ||desirel.be^
@@ -375,6 +378,7 @@
 ||eufory.de^
 ||eurobattle.net^
 ||eurovisex.com^
+||evit.it^
 ||exclusivasex.com.br^
 ||extasy.com.ar^
 ||extasyshops.ca^
@@ -430,6 +434,7 @@
 ||girlsgetoff.com^
 ||gizemlisexshop.com^
 ||gizliyanim.com^
+||glamourseduction.store^
 ||goldcondom.com^
 ||goodvibres.com.br^
 ||goota.com.ar^
@@ -446,11 +451,13 @@
 ||hazoosexshop.com.br^
 |hello-nancy.tenereteam.com^
 ||hellonancy.com^
+||herotica.ro^
 ||high-tide.com.au^
 ||himmelriket.se^
 ||honeybirdette.com^
 ||hopnato.cz^
 ||hotfrog.ie^
+||hotmilklingerie.com^
 ||hotpowers.jp^
 ||hotsexshop.com.br^
 ||houseerotic.com^
@@ -558,6 +565,7 @@
 ||lapepa.com.co^
 ||lareinadeparis.com^
 ||lareynadelmayoreo.com^
+||lasantinimodaintima.com.br^
 ||lasexshopencasa.es^
 ||latelylovely.com^
 ||latiendasexygt.shop^
@@ -590,6 +598,7 @@
 ||lojadoprazer.com.br^
 ||lojaifody.com.br^
 ||lojalibb.com.br^
+||lojaousadia.com.br^
 ||lolamontez.co.za^
 ||lolatoys.com^
 ||lolipop.com.mx^
@@ -686,6 +695,7 @@
 ||magazinuldesah.ro^
 ||magic-x.ch^
 ||magicamerica.it^
+||magiclove.com.br^
 ||magicmenshop.com^
 ||magicmotion.vn^
 ||mahremdukkani.com^
@@ -904,6 +914,7 @@
 ||pureromance.com^
 ||qlist.app^
 ||queer.de^
+||quiosquesexshop.com.br^
 ||rabattcode.de^
 ||rainbowstation.nyc^
 ||rajwa.shop^
@@ -916,6 +927,7 @@
 ||redpleasures.ca^
 ||redshop24.pl^
 ||redvelvet.ch^
+||redvelvet.it^
 ||refform.pl^
 ||regalatelo.cl^
 ||regulation.co.uk^
@@ -936,6 +948,7 @@
 ||s-shop24.ru^
 ||s-world.at^
 ||s69.com.ua^
+||saaclothing.com^
 ||saadatcom.com^
 ||sabora.ro^
 ||saklikeyf.com^
@@ -1090,6 +1103,7 @@
 ||sextoys.co.uk^
 ||sextoys.gr^
 ||sextoys.ie^
+||sextoys4u.eu^
 ||sextoyscenter.net^
 ||sextoysegy.com^
 ||sextoyserotica.com.au^
@@ -1113,12 +1127,14 @@
 ||sexyliving.com^
 ||sexypet.co.kr^
 ||sexyshop.cl^
+||sexyshopestasy.it^
 ||sexyshopqeros.it^
 ||sexyshopstore.com^
 ||sexyshopticino.ch^
 ||sexystyle.ru^
 ||sexywawa.com^
 ||sexyworld.gr^
+||sh-womenstore.com^
 ||sheer.ar^
 ||sheio.cz^
 ||shespot.co.uk^
@@ -1144,6 +1160,7 @@
 ||shoppie.nl^
 ||shopsexmachine.com^
 ||shopsextoy.com.vn^
+||shopthaonguyen-store.com^
 ||shoptinhai.org^
 ||shoptraitim.com^
 ||shopvochong24h.com^
@@ -1215,6 +1232,7 @@
 ||tenga.com.my^
 ||tenga.my^
 ||tentacaomodas.com.br^
+||tentacaoshoppe.com^
 ||tentazionivelate.com^
 ||tesstesst.nl^
 ||thaisextoy.com^
@@ -1277,6 +1295,7 @@
 ||tramagliadario.it^
 ||travesuraseroticas69.com^
 ||triplexshop.gr^
+||trumasecrets.com^
 ||trungdochoi.com^
 ||trustedshops.at^
 ||trustedshops.it^
@@ -1287,6 +1306,7 @@
 ||tuerotica.com^
 ||tulipan.pl^
 |tulipasexshop.meudesconto.org^
+||tumando.co^
 ||tutkusexshop.net^
 ||uberkinky.com^
 ||uglybaby.shop^
@@ -1305,12 +1325,14 @@
 ||varietypleasure.com.au^
 ||vartamayoreo.mx^
 ||vavoomshop.co.kr^
+||velora-intim.ro^
 ||velviawellness.com^
 ||venize.de^
 ||venus.net.pl^
 ||venusenvy.ca^
 |venusexx.ueniweb.com^
 ||verdener-auktion-online.com^
+||vexatoys.com^
 ||viamax.eu^
 ||viamax.se^
 ||viamaxgroup.com^
@@ -1349,6 +1371,7 @@
 ||willie.be^
 ||woxxx-erotiksupermarkt.de^
 ||xanadushop.co.za^
+||xfarma.it^
 ||xl-shop.com^
 ||xn--bstvuxenleksaker-vnb.se^
 ||xoxostore.pk^

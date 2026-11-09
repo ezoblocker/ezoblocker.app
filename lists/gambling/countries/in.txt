@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, India (in)
-# Domains: 38 | Updated: 2026-11-08
+# Domains: 39 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/countries/in.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -24,6 +24,7 @@
 mumbai.infoisinfo.co.in
 network.crcna.org
 pink-city.infoisinfo.co.in
+*.playlotus365.com
 *.pure-win.ink
 *.purewin.casino
 *.purewin.lk

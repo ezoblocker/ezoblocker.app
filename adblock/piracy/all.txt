@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 1,150 | Updated: 2026-11-08
+! Domains: 1,184 | Updated: 2026-11-09
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,8 @@
 ||123movieputlockers.com^
 ||123moviesflix.me^
 ||123moviesfree.mobi^
+||123moviesfullme.com^
+||123moviesgo.cc^
 ||123putlockers.me^
 ||1337x.com.im^
 ||1kuttymovies.pro^
@@ -21,6 +23,7 @@
 ||90phut.dev^
 ||90phutt.co^
 ||90phutzal.tv^
+||90phutzan.tv^
 ||90phutzas.tv^
 ||90phutzat.tv^
 ||90phutzax.tv^
@@ -42,6 +45,7 @@
 ||9xmovies.watch^
 |a.ezhp.co.kr^
 |a.happydouga.jp^
+|ab6bi4wjw4-amphtml.zetacolor.it^
 ||acestreamid.com^
 |admin.avalie.pi.gov.br^
 |agenda.ipece.ce.gov.br^
@@ -121,6 +125,7 @@
 ||bolly4uz.com^
 ||bombuj.si^
 ||boraverfilmes.top^
+|brm7hazb-amphtml.lackierprofi.ch^
 |browse.tonton.com.my^
 ||btuga.pt^
 ||buffstreams.ch^
@@ -158,6 +163,7 @@
 ||cine-calidad.mom^
 ||cinecalidad.company^
 ||cinecalidad2.cc^
+||cinecalidad2.li^
 ||cinecalidadonline.xyz^
 |cityofsurrey.perfectmind.com^
 |clare.gaa.ie^
@@ -182,6 +188,7 @@
 ||cuevana3.boo^
 ||cuevana3.re^
 ||cuevana3.sc^
+||cuevana3w.pro^
 ||cuevanaa1.pro^
 ||cuevanaserie.pro^
 ||cuevanatv.vip^
@@ -239,7 +246,9 @@
 ||egybesstt.bond^
 ||egybesstt.forum^
 ||egybesstt.homes^
+||egybesstt.ink^
 ||egybesstt.lol^
+||egybesstt.rest^
 ||egybesstt.space^
 ||egybesstt.today^
 ||egybest-real.bitbucket.io^
@@ -292,6 +301,7 @@
 ||flixmovie.xyz^
 ||fmoviee.app^
 ||fmoviezs.top^
+||fmyflixer.com^
 ||footballbet.gr^
 ||footybite.boats^
 ||footybite.com.co^
@@ -299,6 +309,7 @@
 ||footybite.dev^
 ||footybite.football^
 ||footybite.forum^
+||footybite.futbol^
 ||footybite.gold^
 ||footybite.im^
 ||footybite.live^
@@ -335,6 +346,7 @@
 ||futbollibre.kim^
 ||futbollibreenvivo.net^
 ||futbollibrefullhd.org^
+||futbollibregol.org^
 ||futbollibretvhd.co^
 ||futbolyconsolas.es^
 ||futemax.at^
@@ -354,6 +366,7 @@
 |geoikp.operandum-project.eu^
 |getlive.pcb.com.pk^
 ||getoziptv.com^
+||gnula.asia^
 ||gnula.autos^
 ||gnula.beer^
 ||gnula.boats^
@@ -366,6 +379,7 @@
 ||gnula.skin^
 ||gnula.xin^
 ||gnulahd.casa^
+||gnulahd.space^
 ||gnulahd.watch^
 ||gnulas.lat^
 |gogo.anime.com.ro^
@@ -381,6 +395,7 @@
 ||gogoanimes.watch^
 ||gogoanimez.buzz^
 ||gogoanimez.online^
+||gomovies.soy^
 ||gomovieshd.today^
 |google-play.en.softmany.com^
 ||grandpashabet7567.com^
@@ -672,11 +687,13 @@
 ||muayded789.com^
 ||multicanaisbr.com^
 ||multicanaishdtv.com.br^
+||multicanaistv.wiki^
 |museum.slavgorod.ru^
 |mxhomy556.nettoyagereunion.re^
 ||mycima-official.bitbucket.io^
 ||mycima.si^
 ||mycima.watch^
+||mycimaa.cc^
 ||myflixer.com.co^
 ||mynetnaija.ng^
 ||mysportsurge.fit^
@@ -739,6 +756,7 @@
 ||pelisplushd.mx^
 ||pelisplushd.one^
 ||pelisplushd.rip^
+||pelisplushd.xin^
 ||pelisplushd3.com^
 ||pelisplusmx.co^
 ||pelisplusvip.com^
@@ -765,6 +783,7 @@
 ||pinoymovieshub.org^
 ||piratebayproxylist.github.io^
 |pirlotv-futbol-en-vivo-directo.apps112.com^
+||pirlotv-hd.asia^
 ||pirlotv.bar^
 ||pirlotv.dog^
 ||pirlotv.download^
@@ -774,6 +793,7 @@
 ||pirlotv.red^
 ||pirlotv.sh^
 ||pirlotv.shop^
+||pirlotv.tools^
 ||pirlotv.win^
 ||pirlotv1.live^
 ||pirlotvapk.net^
@@ -796,6 +816,7 @@
 ||primewire-offcial.cyou^
 ||primewire.gy^
 ||primewire1.buzz^
+||primewire1.cyou^
 ||primewire1.mom^
 ||primewires.org^
 |print.halleonard.com.au^
@@ -813,9 +834,11 @@
 |rebahinfilm.myr.id^
 ||rebahingg.com^
 ||rebahinxxi3.mom^
+||redecanais.company^
 ||redecanais.host^
 ||redecanais.in^
 ||redecanais.locker^
+||redecanais.red^
 ||redecanais.solutions^
 ||redecanais4k.my^
 ||redecanaisfhd.my^
@@ -835,6 +858,7 @@
 ||repelis24.shop^
 ||repelis24.watch^
 ||repelisplus.autos^
+||repelisplus.beauty^
 ||repelisplus.casa^
 ||repelisplus.company^
 ||repelisplus.fit^
@@ -852,6 +876,7 @@
 ||rojadirectaes.cloud^
 ||rojadirectafullhd.net^
 ||rojadirectafulltv.org^
+||rojadirectaonline.me^
 ||rojadirectas.business^
 ||rojadirectas.cc^
 ||rojadirectatv.city^
@@ -860,6 +885,7 @@
 ||rojadirectatvplay.com^
 ||rojadirectatvplay.net^
 ||rojadirectatvplay.org^
+||rojadirectaya.com^
 ||rutracker-net.ru^
 |s1s.designq.kr^
 |saas.spochak.com^
@@ -939,6 +965,7 @@
 ||streameasti.site^
 ||streameastmirror.com^
 ||streameastonline.com^
+||streameastpro.pro^
 ||streameasts.live^
 ||streameasttop.com^
 ||streameastv2.buzz^
@@ -959,6 +986,7 @@
 ||superfilmizle.org^
 ||superflix51.lol^
 ||superflix52.lol^
+||superflix53.lol^
 ||supersportbet.com^
 ||supersportschools.com^
 ||swissiptv.online^
@@ -983,12 +1011,14 @@
 ||tarjetaroja.surf^
 ||tarjetarojadirecta.biz^
 ||tarjetarojadirecta.es^
+||tarjetarojadirecta.me^
 ||tarjetarojadirectatv.me^
 ||tarjetarojaenvivo.online^
 ||tarjetarojaonline.info^
 ||tarjetarojaonline.pro^
 ||tarjetarojaonlineinfo.site^
 ||tarjetarojatv.boats^
+||tarjetarojatv.cam^
 ||tarjetarojatv.mobi^
 ||tarjetarojatvenvivo.me^
 ||tarjetarojatvhd.live^
@@ -1020,6 +1050,7 @@
 ||totalsportek1.is^
 ||totalsportek1.li^
 ||totalsportek1.online^
+||totalsporteke.online^
 ||totalsportekhd.live^
 ||totalsporteki.fit^
 ||totalsporteki.icu^
@@ -1042,6 +1073,7 @@
 ||tvhayx.org^
 ||tvmon.com.co^
 ||tvmon1.com^
+||tvmon33.com^
 ||tvmons.org^
 ||tvsiir.co^
 ||uaserials.me^
@@ -1099,6 +1131,7 @@
 ||wemyycima.bond^
 ||wemyycima.site^
 ||wiflix.al^
+||wiflix.quest^
 ||wolfmax4k.com^
 ||wolfmax4k.net^
 ||worldfree4u.events^
@@ -1116,6 +1149,7 @@
 |www2.gema.org^
 ||xoilac1.help^
 ||xoilac3.cc^
+||xoilac365xb.cc^
 ||xoilac5.top^
 ||xoilaclivettbdad.tv^
 ||xoilaclivettbds.tv^

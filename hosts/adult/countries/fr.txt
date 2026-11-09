@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, France (fr)
-# Domains: 56 | Updated: 2026-11-08
+# Domains: 59 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/fr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -23,6 +23,7 @@
 0.0.0.0 escorts69.fr
 0.0.0.0 fera-daemon.com
 0.0.0.0 gaystore.fr
+0.0.0.0 glamourseduction.store
 0.0.0.0 goldcondom.com
 0.0.0.0 hypnoze.fr
 0.0.0.0 iaporn.net
@@ -58,5 +59,7 @@
 0.0.0.0 sexyavenue.com
 0.0.0.0 sinful.fr
 0.0.0.0 sopigalle.com
+0.0.0.0 tumando.co
 0.0.0.0 universpharmacie.fr
 0.0.0.0 vivasexe.com
+0.0.0.0 xpipole.com

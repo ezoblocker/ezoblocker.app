@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 405 | Updated: 2026-11-08
+# Domains: 406 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -216,6 +216,7 @@
 0.0.0.0 laflamak.com
 0.0.0.0 lavinsta.com
 0.0.0.0 livechat.sex-czech.cz
+0.0.0.0 liver.doneru.jp
 0.0.0.0 lp.yoom.fun
 0.0.0.0 m.appstory.co.kr
 0.0.0.0 m.dreamersforum.nl

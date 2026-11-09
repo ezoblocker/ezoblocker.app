@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Saudi Arabia (sa)
-# Domains: 42 | Updated: 2026-11-08
+# Domains: 44 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/sa.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -15,7 +15,9 @@
 0.0.0.0 egybesstt.bond
 0.0.0.0 egybesstt.forum
 0.0.0.0 egybesstt.homes
+0.0.0.0 egybesstt.ink
 0.0.0.0 egybesstt.lol
+0.0.0.0 egybesstt.rest
 0.0.0.0 egybesstt.space
 0.0.0.0 egybesstt.today
 0.0.0.0 faselhd.beer

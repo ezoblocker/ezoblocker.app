@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, United States (us)
-# Domains: 35 | Updated: 2026-11-08
+# Domains: 36 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -31,6 +31,7 @@
 0.0.0.0 piratebayproxylist.github.io
 0.0.0.0 pma2.iethe.com.br
 0.0.0.0 primewire1.buzz
+0.0.0.0 primewire1.cyou
 0.0.0.0 primewire1.mom
 0.0.0.0 projectfreetvm.lol
 0.0.0.0 putlockerproxy.org

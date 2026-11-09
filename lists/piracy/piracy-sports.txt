@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 448 | Updated: 2026-11-08
+# Domains: 460 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@
 *.90phut.dev
 *.90phutt.co
 *.90phutzal.tv
+*.90phutzan.tv
 *.90phutzas.tv
 *.90phutzat.tv
 *.90phutzax.tv
@@ -83,6 +84,7 @@ filmora.wondershare.kr
 *.footybite.dev
 *.footybite.football
 *.footybite.forum
+*.footybite.futbol
 *.footybite.gold
 *.footybite.im
 *.footybite.live
@@ -108,6 +110,7 @@ french.visitkorea.or.kr
 *.futbollibre.kim
 *.futbollibreenvivo.net
 *.futbollibrefullhd.org
+*.futbollibregol.org
 *.futbollibretvhd.co
 *.futbolyconsolas.es
 *.futemax.at
@@ -244,6 +247,7 @@ nyc-dsp1.kavanga.com
 *.pelotalibreplus.pe
 *.pelotalibretv1.biz
 pirlotv-futbol-en-vivo-directo.apps112.com
+*.pirlotv-hd.asia
 *.pirlotv.bar
 *.pirlotv.dog
 *.pirlotv.download
@@ -253,6 +257,7 @@ pirlotv-futbol-en-vivo-directo.apps112.com
 *.pirlotv.red
 *.pirlotv.sh
 *.pirlotv.shop
+*.pirlotv.tools
 *.pirlotv.win
 *.pirlotv1.live
 *.pirlotvapk.net
@@ -271,6 +276,7 @@ pirlotv-futbol-en-vivo-directo.apps112.com
 *.rojadirectaes.cloud
 *.rojadirectafullhd.net
 *.rojadirectafulltv.org
+*.rojadirectaonline.me
 *.rojadirectas.business
 *.rojadirectas.cc
 *.rojadirectatv.city
@@ -279,6 +285,7 @@ pirlotv-futbol-en-vivo-directo.apps112.com
 *.rojadirectatvplay.com
 *.rojadirectatvplay.net
 *.rojadirectatvplay.org
+*.rojadirectaya.com
 s1s.designq.kr
 saas.spochak.com
 *.scoreman123.com
@@ -327,6 +334,7 @@ start.sportdigital.de
 *.streameasti.site
 *.streameastmirror.com
 *.streameastonline.com
+*.streameastpro.pro
 *.streameasts.live
 *.streameasttop.com
 *.streameastv2.buzz
@@ -364,12 +372,14 @@ t.matec.kr
 *.tarjetaroja.surf
 *.tarjetarojadirecta.biz
 *.tarjetarojadirecta.es
+*.tarjetarojadirecta.me
 *.tarjetarojadirectatv.me
 *.tarjetarojaenvivo.online
 *.tarjetarojaonline.info
 *.tarjetarojaonline.pro
 *.tarjetarojaonlineinfo.site
 *.tarjetarojatv.boats
+*.tarjetarojatv.cam
 *.tarjetarojatv.mobi
 *.tarjetarojatvenvivo.me
 *.tarjetarojatvhd.live
@@ -386,6 +396,7 @@ tipperary.gaa.ie
 *.totalsportek1.is
 *.totalsportek1.li
 *.totalsportek1.online
+*.totalsporteke.online
 *.totalsportekhd.live
 *.totalsporteki.fit
 *.totalsporteki.icu
@@ -420,6 +431,7 @@ welcome.blasttv.ph
 www.mae.gov.bi
 *.xoilac1.help
 *.xoilac3.cc
+*.xoilac365xb.cc
 *.xoilac5.top
 *.xoilaclivettbdad.tv
 *.xoilaclivettbds.tv

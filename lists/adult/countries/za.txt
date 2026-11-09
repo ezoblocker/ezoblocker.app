@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, South Africa (za)
-# Domains: 45 | Updated: 2026-11-08
+# Domains: 47 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,7 @@
 *.bestofeugene.com
 *.chickadeeswoodentoys.com
 *.cosettes.co.za
+criteria-white-label.novadata.com.br
 *.daydreamerstore.com
 *.deardesire.co.za
 *.edutoyzone.com
@@ -37,6 +38,7 @@
 mirror.kumi.systems
 *.moodtime.co.za
 *.mysexshop.co.za
+*.mzansicoloureds.co.za
 *.nyobarings.com
 *.oliviagrey.co.za
 *.onenightonly.co.za

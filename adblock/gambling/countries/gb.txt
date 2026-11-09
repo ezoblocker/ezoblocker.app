@@ -1,11 +1,12 @@
 ! Title: EZOBLOCKER Gambling, United Kingdom (gb)
-! Domains: 40 | Updated: 2026-11-08
+! Domains: 48 | Updated: 2026-11-09
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/gb.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||5topcasino.co.uk^
 ||allgamestopsites.co^
+||amulette.co.uk^
 ||bestgamstopcompare.net^
 ||betrating.org^
 ||casino-apps.net^
@@ -18,8 +19,11 @@
 ||colden-common-cc.co.uk^
 ||community54.com^
 ||computerdisposals.co.uk^
+||cpath.co.uk^
 ||elanlaserclinics.co.uk^
+||flash-film.co.uk^
 ||immersionvr.co.uk^
+||makenobones.co.uk^
 ||mediatornetwork.org^
 ||miracle-casinos.com^
 ||myzeo.co.uk^
@@ -32,8 +36,11 @@
 ||nonstopjungle.co^
 ||normantewfamilyhistory.org.uk^
 ||notongamstopcasinos.co^
+||opx.co.uk^
 ||piotrbuildinganddecorations.co.uk^
 ||playnodeposit.com^
+||prideinlabour.org.uk^
+||richardhawleyforum.co.uk^
 ||rtscenic.co.uk^
 ||songwriteronline.co.uk^
 ||staidansprimary.co.uk^
@@ -42,5 +49,6 @@
 ||stargambling.net^
 ||unlimitedgamstopfree.com^
 ||vavadacasinocz.com^
+||vistaroofinglincoln.co.uk^
 ||worldclassarena.org^
 ||wsmacademy.co.uk^

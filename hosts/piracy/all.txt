@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,150 | Updated: 2026-11-08
+# Domains: 1,184 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,8 @@
 0.0.0.0 123movieputlockers.com
 0.0.0.0 123moviesflix.me
 0.0.0.0 123moviesfree.mobi
+0.0.0.0 123moviesfullme.com
+0.0.0.0 123moviesgo.cc
 0.0.0.0 123putlockers.me
 0.0.0.0 1337x.com.im
 0.0.0.0 1kuttymovies.pro
@@ -21,6 +23,7 @@
 0.0.0.0 90phut.dev
 0.0.0.0 90phutt.co
 0.0.0.0 90phutzal.tv
+0.0.0.0 90phutzan.tv
 0.0.0.0 90phutzas.tv
 0.0.0.0 90phutzat.tv
 0.0.0.0 90phutzax.tv
@@ -42,6 +45,7 @@
 0.0.0.0 9xmovies.watch
 0.0.0.0 a.ezhp.co.kr
 0.0.0.0 a.happydouga.jp
+0.0.0.0 ab6bi4wjw4-amphtml.zetacolor.it
 0.0.0.0 acestreamid.com
 0.0.0.0 admin.avalie.pi.gov.br
 0.0.0.0 agenda.ipece.ce.gov.br
@@ -121,6 +125,7 @@
 0.0.0.0 bolly4uz.com
 0.0.0.0 bombuj.si
 0.0.0.0 boraverfilmes.top
+0.0.0.0 brm7hazb-amphtml.lackierprofi.ch
 0.0.0.0 browse.tonton.com.my
 0.0.0.0 btuga.pt
 0.0.0.0 buffstreams.ch
@@ -158,6 +163,7 @@
 0.0.0.0 cine-calidad.mom
 0.0.0.0 cinecalidad.company
 0.0.0.0 cinecalidad2.cc
+0.0.0.0 cinecalidad2.li
 0.0.0.0 cinecalidadonline.xyz
 0.0.0.0 cityofsurrey.perfectmind.com
 0.0.0.0 clare.gaa.ie
@@ -182,6 +188,7 @@
 0.0.0.0 cuevana3.boo
 0.0.0.0 cuevana3.re
 0.0.0.0 cuevana3.sc
+0.0.0.0 cuevana3w.pro
 0.0.0.0 cuevanaa1.pro
 0.0.0.0 cuevanaserie.pro
 0.0.0.0 cuevanatv.vip
@@ -239,7 +246,9 @@
 0.0.0.0 egybesstt.bond
 0.0.0.0 egybesstt.forum
 0.0.0.0 egybesstt.homes
+0.0.0.0 egybesstt.ink
 0.0.0.0 egybesstt.lol
+0.0.0.0 egybesstt.rest
 0.0.0.0 egybesstt.space
 0.0.0.0 egybesstt.today
 0.0.0.0 egybest-real.bitbucket.io
@@ -292,6 +301,7 @@
 0.0.0.0 flixmovie.xyz
 0.0.0.0 fmoviee.app
 0.0.0.0 fmoviezs.top
+0.0.0.0 fmyflixer.com
 0.0.0.0 footballbet.gr
 0.0.0.0 footybite.boats
 0.0.0.0 footybite.com.co
@@ -299,6 +309,7 @@
 0.0.0.0 footybite.dev
 0.0.0.0 footybite.football
 0.0.0.0 footybite.forum
+0.0.0.0 footybite.futbol
 0.0.0.0 footybite.gold
 0.0.0.0 footybite.im
 0.0.0.0 footybite.live
@@ -335,6 +346,7 @@
 0.0.0.0 futbollibre.kim
 0.0.0.0 futbollibreenvivo.net
 0.0.0.0 futbollibrefullhd.org
+0.0.0.0 futbollibregol.org
 0.0.0.0 futbollibretvhd.co
 0.0.0.0 futbolyconsolas.es
 0.0.0.0 futemax.at
@@ -354,6 +366,7 @@
 0.0.0.0 geoikp.operandum-project.eu
 0.0.0.0 getlive.pcb.com.pk
 0.0.0.0 getoziptv.com
+0.0.0.0 gnula.asia
 0.0.0.0 gnula.autos
 0.0.0.0 gnula.beer
 0.0.0.0 gnula.boats
@@ -366,6 +379,7 @@
 0.0.0.0 gnula.skin
 0.0.0.0 gnula.xin
 0.0.0.0 gnulahd.casa
+0.0.0.0 gnulahd.space
 0.0.0.0 gnulahd.watch
 0.0.0.0 gnulas.lat
 0.0.0.0 gogo.anime.com.ro
@@ -381,6 +395,7 @@
 0.0.0.0 gogoanimes.watch
 0.0.0.0 gogoanimez.buzz
 0.0.0.0 gogoanimez.online
+0.0.0.0 gomovies.soy
 0.0.0.0 gomovieshd.today
 0.0.0.0 google-play.en.softmany.com
 0.0.0.0 grandpashabet7567.com
@@ -672,11 +687,13 @@
 0.0.0.0 muayded789.com
 0.0.0.0 multicanaisbr.com
 0.0.0.0 multicanaishdtv.com.br
+0.0.0.0 multicanaistv.wiki
 0.0.0.0 museum.slavgorod.ru
 0.0.0.0 mxhomy556.nettoyagereunion.re
 0.0.0.0 mycima-official.bitbucket.io
 0.0.0.0 mycima.si
 0.0.0.0 mycima.watch
+0.0.0.0 mycimaa.cc
 0.0.0.0 myflixer.com.co
 0.0.0.0 mynetnaija.ng
 0.0.0.0 mysportsurge.fit
@@ -739,6 +756,7 @@
 0.0.0.0 pelisplushd.mx
 0.0.0.0 pelisplushd.one
 0.0.0.0 pelisplushd.rip
+0.0.0.0 pelisplushd.xin
 0.0.0.0 pelisplushd3.com
 0.0.0.0 pelisplusmx.co
 0.0.0.0 pelisplusvip.com
@@ -765,6 +783,7 @@
 0.0.0.0 pinoymovieshub.org
 0.0.0.0 piratebayproxylist.github.io
 0.0.0.0 pirlotv-futbol-en-vivo-directo.apps112.com
+0.0.0.0 pirlotv-hd.asia
 0.0.0.0 pirlotv.bar
 0.0.0.0 pirlotv.dog
 0.0.0.0 pirlotv.download
@@ -774,6 +793,7 @@
 0.0.0.0 pirlotv.red
 0.0.0.0 pirlotv.sh
 0.0.0.0 pirlotv.shop
+0.0.0.0 pirlotv.tools
 0.0.0.0 pirlotv.win
 0.0.0.0 pirlotv1.live
 0.0.0.0 pirlotvapk.net
@@ -796,6 +816,7 @@
 0.0.0.0 primewire-offcial.cyou
 0.0.0.0 primewire.gy
 0.0.0.0 primewire1.buzz
+0.0.0.0 primewire1.cyou
 0.0.0.0 primewire1.mom
 0.0.0.0 primewires.org
 0.0.0.0 print.halleonard.com.au
@@ -813,9 +834,11 @@
 0.0.0.0 rebahinfilm.myr.id
 0.0.0.0 rebahingg.com
 0.0.0.0 rebahinxxi3.mom
+0.0.0.0 redecanais.company
 0.0.0.0 redecanais.host
 0.0.0.0 redecanais.in
 0.0.0.0 redecanais.locker
+0.0.0.0 redecanais.red
 0.0.0.0 redecanais.solutions
 0.0.0.0 redecanais4k.my
 0.0.0.0 redecanaisfhd.my
@@ -835,6 +858,7 @@
 0.0.0.0 repelis24.shop
 0.0.0.0 repelis24.watch
 0.0.0.0 repelisplus.autos
+0.0.0.0 repelisplus.beauty
 0.0.0.0 repelisplus.casa
 0.0.0.0 repelisplus.company
 0.0.0.0 repelisplus.fit
@@ -852,6 +876,7 @@
 0.0.0.0 rojadirectaes.cloud
 0.0.0.0 rojadirectafullhd.net
 0.0.0.0 rojadirectafulltv.org
+0.0.0.0 rojadirectaonline.me
 0.0.0.0 rojadirectas.business
 0.0.0.0 rojadirectas.cc
 0.0.0.0 rojadirectatv.city
@@ -860,6 +885,7 @@
 0.0.0.0 rojadirectatvplay.com
 0.0.0.0 rojadirectatvplay.net
 0.0.0.0 rojadirectatvplay.org
+0.0.0.0 rojadirectaya.com
 0.0.0.0 rutracker-net.ru
 0.0.0.0 s1s.designq.kr
 0.0.0.0 saas.spochak.com
@@ -939,6 +965,7 @@
 0.0.0.0 streameasti.site
 0.0.0.0 streameastmirror.com
 0.0.0.0 streameastonline.com
+0.0.0.0 streameastpro.pro
 0.0.0.0 streameasts.live
 0.0.0.0 streameasttop.com
 0.0.0.0 streameastv2.buzz
@@ -959,6 +986,7 @@
 0.0.0.0 superfilmizle.org
 0.0.0.0 superflix51.lol
 0.0.0.0 superflix52.lol
+0.0.0.0 superflix53.lol
 0.0.0.0 supersportbet.com
 0.0.0.0 supersportschools.com
 0.0.0.0 swissiptv.online
@@ -983,12 +1011,14 @@
 0.0.0.0 tarjetaroja.surf
 0.0.0.0 tarjetarojadirecta.biz
 0.0.0.0 tarjetarojadirecta.es
+0.0.0.0 tarjetarojadirecta.me
 0.0.0.0 tarjetarojadirectatv.me
 0.0.0.0 tarjetarojaenvivo.online
 0.0.0.0 tarjetarojaonline.info
 0.0.0.0 tarjetarojaonline.pro
 0.0.0.0 tarjetarojaonlineinfo.site
 0.0.0.0 tarjetarojatv.boats
+0.0.0.0 tarjetarojatv.cam
 0.0.0.0 tarjetarojatv.mobi
 0.0.0.0 tarjetarojatvenvivo.me
 0.0.0.0 tarjetarojatvhd.live
@@ -1020,6 +1050,7 @@
 0.0.0.0 totalsportek1.is
 0.0.0.0 totalsportek1.li
 0.0.0.0 totalsportek1.online
+0.0.0.0 totalsporteke.online
 0.0.0.0 totalsportekhd.live
 0.0.0.0 totalsporteki.fit
 0.0.0.0 totalsporteki.icu
@@ -1042,6 +1073,7 @@
 0.0.0.0 tvhayx.org
 0.0.0.0 tvmon.com.co
 0.0.0.0 tvmon1.com
+0.0.0.0 tvmon33.com
 0.0.0.0 tvmons.org
 0.0.0.0 tvsiir.co
 0.0.0.0 uaserials.me
@@ -1099,6 +1131,7 @@
 0.0.0.0 wemyycima.bond
 0.0.0.0 wemyycima.site
 0.0.0.0 wiflix.al
+0.0.0.0 wiflix.quest
 0.0.0.0 wolfmax4k.com
 0.0.0.0 wolfmax4k.net
 0.0.0.0 worldfree4u.events
@@ -1116,6 +1149,7 @@
 0.0.0.0 www2.gema.org
 0.0.0.0 xoilac1.help
 0.0.0.0 xoilac3.cc
+0.0.0.0 xoilac365xb.cc
 0.0.0.0 xoilac5.top
 0.0.0.0 xoilaclivettbdad.tv
 0.0.0.0 xoilaclivettbds.tv

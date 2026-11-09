@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Italy (it)
-! Domains: 44 | Updated: 2026-11-08
+! Domains: 50 | Updated: 2026-11-09
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/it.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,10 +17,12 @@
 ||doll.shop^
 ||dream-x.ch^
 ||easyfarma.it^
+||evit.it^
 ||farmamia.net^
 ||greta.shop^
 ||gsdoll.com^
 ||hackerpornfest.com^
+||hotmilklingerie.com^
 ||igoodsnovelties.com^
 ||iltempiodellamore.com^
 ||justmary.com^
@@ -37,7 +39,9 @@
 ||pornlinkhub.com^
 ||qlist.app^
 ||ragazzeonlyfans.it^
+||redvelvet.it^
 ||sexjujube.it^
+||sexyshopestasy.it^
 ||sexyshopqeros.it^
 ||sexyshopstore.com^
 ||tentazionivelate.com^
@@ -46,5 +50,7 @@
 ||toysecret.it^
 ||tramagliadario.it^
 ||trustedshops.it^
+||vexatoys.com^
 ||videochatitaliana.com^
+||xfarma.it^
 ||yoxo.it^
