@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,300 | Updated: 2026-11-09
+# Domains: 1,301 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -333,6 +333,7 @@
 0.0.0.0 dubaiescortspage.com
 0.0.0.0 dubaiescortsstars.com
 0.0.0.0 dubaiescortstars.com
+0.0.0.0 dubaihotties.com
 0.0.0.0 durban.bonepage.com
 0.0.0.0 east-london.dfs05.ru
 0.0.0.0 ec.diatrend.com

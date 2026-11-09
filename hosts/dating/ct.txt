@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, ct
-# Domains: 25 | Updated: 2026-11-09
+# Domains: 26 | Updated: 2026-11-09
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 coquinefr.pages.dev
 0.0.0.0 cosmohotties8.com
 0.0.0.0 dogging-bh.top
+0.0.0.0 dubaihotties.com
 0.0.0.0 enjoy-onlinecasino.jp
 0.0.0.0 eroapps.com
 0.0.0.0 faridabadcallgirl.com
