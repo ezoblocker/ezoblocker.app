@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 189 | Updated: 2026-11-10
+# Domains: 190 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -169,6 +169,7 @@
 0.0.0.0 stape.pw
 0.0.0.0 stape.st
 0.0.0.0 stape.tech
+0.0.0.0 stape.us
 0.0.0.0 stape.vip
 0.0.0.0 stats-origin.analyze.swiss
 0.0.0.0 t.servero.io

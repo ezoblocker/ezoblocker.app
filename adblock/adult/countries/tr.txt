@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Türkiye (tr)
-! Domains: 436 | Updated: 2026-11-10
+! Domains: 434 | Updated: 2026-11-10
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -252,7 +252,6 @@
 ||mutva.com^
 ||mytorontoescort.info^
 ||nazira1.wtf^
-||new-pron.online^
 ||newseskort.site^
 ||newseskorts.shop^
 ||noktashop.com.tr^
@@ -271,7 +270,6 @@
 ||porn80xb.cyou^
 ||porn80xv.click^
 ||pornabby.lol^
-||porno80cb.site^
 ||porno80cc.site^
 ||porno80cj.site^
 ||porno80ck.site^

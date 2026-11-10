@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,187 | Updated: 2026-11-10
+# Domains: 1,186 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -346,7 +346,6 @@
 0.0.0.0 futbollibre.kim
 0.0.0.0 futbollibreenvivo.net
 0.0.0.0 futbollibrefullhd.org
-0.0.0.0 futbollibregol.org
 0.0.0.0 futbollibretvhd.co
 0.0.0.0 futbolyconsolas.es
 0.0.0.0 futemax.at
@@ -396,7 +395,6 @@
 0.0.0.0 gogoanimes.watch
 0.0.0.0 gogoanimez.buzz
 0.0.0.0 gogoanimez.online
-0.0.0.0 gomovies.soy
 0.0.0.0 gomovieshd.today
 0.0.0.0 google-play.en.softmany.com
 0.0.0.0 grandpashabet7567.com
@@ -768,6 +766,7 @@
 0.0.0.0 pelotalibreplus.pe
 0.0.0.0 pelotalibretv1.biz
 0.0.0.0 pezzottoiptv.com
+0.0.0.0 ph-panaloko.com
 0.0.0.0 phimmoi.cat
 0.0.0.0 phimmoi.doraflixvn.com
 0.0.0.0 phimmoic.nl

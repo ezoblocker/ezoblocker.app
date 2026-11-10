@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 2,518 | Updated: 2026-11-10
+# Domains: 2,516 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -174,6 +174,7 @@
 0.0.0.0 arabsex.name
 0.0.0.0 arabsex2.lat
 0.0.0.0 arabsex4a.lol
+0.0.0.0 arabsex4b.lol
 0.0.0.0 arabsexcams.com
 0.0.0.0 arabsexmovies.net
 0.0.0.0 arabsextubes.net
@@ -460,6 +461,7 @@
 0.0.0.0 coomerr.com
 0.0.0.0 coomersu1.com
 0.0.0.0 cophimsexhay.com
+0.0.0.0 cophimsexviet.com
 0.0.0.0 corner.inc
 0.0.0.0 corner69.hr
 0.0.0.0 corse.mx
@@ -1412,7 +1414,6 @@
 0.0.0.0 nederporn.tv
 0.0.0.0 neekarabi.com
 0.0.0.0 netu.ro
-0.0.0.0 new-pron.online
 0.0.0.0 newfinearts.com
 0.0.0.0 newseskort.site
 0.0.0.0 newseskorts.shop
@@ -1539,7 +1540,6 @@
 0.0.0.0 phimsexvietxinh.com
 0.0.0.0 phimsexvn22.com
 0.0.0.0 phimsub.blog
-0.0.0.0 phimxex.net
 0.0.0.0 picansex.com
 0.0.0.0 picmo.jp
 0.0.0.0 pinayflix.ac
@@ -1608,7 +1608,6 @@
 0.0.0.0 porndoe.com.de
 0.0.0.0 pornflix.to
 0.0.0.0 pornforarab.com
-0.0.0.0 pornhubz.net
 0.0.0.0 pornlinkhub.com
 0.0.0.0 pornlinks18.com
 0.0.0.0 pornmk.com
@@ -1618,7 +1617,6 @@
 0.0.0.0 porno-turkce.com
 0.0.0.0 porno.surf
 0.0.0.0 porno365.plus
-0.0.0.0 porno80cb.site
 0.0.0.0 porno80cc.site
 0.0.0.0 porno80cj.site
 0.0.0.0 porno80ck.site
@@ -1869,7 +1867,6 @@
 0.0.0.0 sexmarket.ru
 0.0.0.0 sexmy3x.com
 0.0.0.0 sexngot.blog
-0.0.0.0 sexnikha.com
 0.0.0.0 sexocasual.pt
 0.0.0.0 sexonic.eu
 0.0.0.0 sexopolis.gr
@@ -2353,6 +2350,7 @@
 0.0.0.0 viet69hays.live
 0.0.0.0 viet69z.blog
 0.0.0.0 vietsex-tvpro.com
+0.0.0.0 vietsexx.blog
 0.0.0.0 viewporn.one
 0.0.0.0 villagecenterfl.govbuilt.com
 0.0.0.0 vintoy.vn

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 464 | Updated: 2026-11-10
+# Domains: 463 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -110,7 +110,6 @@
 0.0.0.0 futbollibre.kim
 0.0.0.0 futbollibreenvivo.net
 0.0.0.0 futbollibrefullhd.org
-0.0.0.0 futbollibregol.org
 0.0.0.0 futbollibretvhd.co
 0.0.0.0 futbolyconsolas.es
 0.0.0.0 futemax.at
