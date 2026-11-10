@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, United States (us)
-# Domains: 77 | Updated: 2026-11-09
+# Domains: 78 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -50,6 +50,7 @@
 0.0.0.0 massachusetts.bonepage.com
 0.0.0.0 miami.bonepage.com
 0.0.0.0 nashville.bonepage.com
+0.0.0.0 new-orleans.bonepage.com
 0.0.0.0 orange-county.bonepage.com
 0.0.0.0 pointcasualencounters.com
 0.0.0.0 portland-me.bonepage.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 93,106 | Updated: 2026-11-09
+# Domains: 93,101 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1195,6 +1195,7 @@
 0.0.0.0 account.ccustoms.shop
 0.0.0.0 account.com-microsoft-onedrive.ca
 0.0.0.0 account.com-microsoftonline-ondrive.ca
+0.0.0.0 account.com-onedrive-folder.com
 0.0.0.0 account.deutsche-whiskys.shop
 0.0.0.0 account.deutsche-zentral-akademie.com
 0.0.0.0 account.elektr-de.shop
@@ -2147,7 +2148,6 @@
 0.0.0.0 ai-ndaxxe-logine.pages.dev
 0.0.0.0 ai-net-coins-logn.pages.dev
 0.0.0.0 ai-project--trezo--io.pages.dev
-0.0.0.0 ai-sk-whatsapp.com.cn
 0.0.0.0 ai-start-ldg-r-live.pages.dev
 0.0.0.0 ai-start-ledger.pages.dev
 0.0.0.0 ai-start-trazu.pages.dev
@@ -3915,7 +3915,6 @@
 0.0.0.0 appleid-secure-notified-home-base-database.com.ph
 0.0.0.0 appleid-security-update-verify.ph
 0.0.0.0 appleid-set.com
-0.0.0.0 appleid-signin.com
 0.0.0.0 appleid-soporte.es
 0.0.0.0 appleid-store-authorized-payment-securedata-updated.com.ph
 0.0.0.0 appleid-support-kx-z-apple.com.ph
@@ -6218,6 +6217,7 @@
 0.0.0.0 aux-adobeacrobat466547783doc.pages.dev
 0.0.0.0 available-ledger-hardware-wallet.pages.dev
 0.0.0.0 avaltrix.click
+0.0.0.0 avanzasupport.com
 0.0.0.0 avelnix-biz-korpat-14126.pages.dev
 0.0.0.0 avelnix-biz-kortax-1626.pages.dev
 0.0.0.0 avelnix-biz-siltox-8126.pages.dev
@@ -7109,6 +7109,7 @@
 0.0.0.0 beta-tiktok.pages.dev
 0.0.0.0 beta-trezo-io.pages.dev
 0.0.0.0 beta-whatsapp-contac-center.pages.dev
+0.0.0.0 betalingsgaranti.com
 0.0.0.0 betanoappdownload-org.pages.dev
 0.0.0.0 betanoappdownload-vip.pages.dev
 0.0.0.0 betgarantiadres.com
@@ -7218,6 +7219,7 @@
 0.0.0.0 binance-secure.pages.dev
 0.0.0.0 binance-security.pages.dev
 0.0.0.0 binance-si.com.cn
+0.0.0.0 binance-signin.com
 0.0.0.0 binance-signup-guide.pages.dev
 0.0.0.0 binance-site.hl.cn
 0.0.0.0 binance-site.pages.dev
@@ -7269,6 +7271,7 @@
 0.0.0.0 binances5cs869.pages.dev
 0.0.0.0 binanceszo2s.pages.dev
 0.0.0.0 binancetx.com
+0.0.0.0 binanceverify.site
 0.0.0.0 binancewallet-frontend.pages.dev
 0.0.0.0 binancewallet.app
 0.0.0.0 binancewallet.pages.dev
@@ -7619,6 +7622,7 @@
 0.0.0.0 blockchainswallet.pages.dev
 0.0.0.0 blockchainverification.pages.dev
 0.0.0.0 blockchainwallet.pages.dev
+0.0.0.0 blockchainwallets.xyz
 0.0.0.0 blockdag---networks.pages.dev
 0.0.0.0 blockdag--network.pages.dev
 0.0.0.0 blockdag--networks.pages.dev
@@ -14587,6 +14591,7 @@
 0.0.0.0 cratos-cratosroyalbetgirs.com
 0.0.0.0 cratosroyalbet-gir.vip
 0.0.0.0 cratosroyalbet-girisimiz.icu
+0.0.0.0 cratosroyalbetgirisleri.cc
 0.0.0.0 crcyptocom-login.pages.dev
 0.0.0.0 crd-metamsk-login.pages.dev
 0.0.0.0 cre-ate-robinhod-login.pages.dev
@@ -15328,7 +15333,6 @@
 0.0.0.0 depopverifhelp.rest
 0.0.0.0 depopverificationprocess58912.click
 0.0.0.0 depopverificationprocess75982.click
-0.0.0.0 depopverificationsupport2512.help
 0.0.0.0 depopverificationsupport8284.help
 0.0.0.0 depopverifyid-8326521.sbs
 0.0.0.0 depopverifysupp.click
@@ -16341,7 +16345,6 @@
 0.0.0.0 dhdhd1fht.pages.dev
 0.0.0.0 dhdhdhhdud7363.workers.dev
 0.0.0.0 dhfhfhbddbbxdbnxx.pages.dev
-0.0.0.0 dhi-whatsapp.com.cn
 0.0.0.0 dhjopv-whatsapp.hk.cn
 0.0.0.0 dhl-delivery-online-addresmismatch-kfjes76yjhkmjh4b2323k2b.pages.dev
 0.0.0.0 dhl-delivery-system-signin.pages.dev
@@ -22380,7 +22383,6 @@
 0.0.0.0 etrezior-bridge.pages.dev
 0.0.0.0 etrust-wallet.pages.dev
 0.0.0.0 etsy-verif-shop.pages.dev
-0.0.0.0 etsy-verification-shop.info
 0.0.0.0 etsy-verify.cfd
 0.0.0.0 etsyv139.com
 0.0.0.0 etsyverification.cfd
@@ -25197,7 +25199,6 @@
 0.0.0.0 feloriva-dumirexa.pages.dev
 0.0.0.0 feloriva-walexiro.pages.dev
 0.0.0.0 felvuro-mpt-zanqeri-t4d9ka68.pages.dev
-0.0.0.0 feno-whatapt.hl.cn
 0.0.0.0 fenolura-moxarive.pages.dev
 0.0.0.0 fenoriva-xanupite.pages.dev
 0.0.0.0 fenorixa-pulatine.pages.dev
@@ -27315,6 +27316,7 @@
 0.0.0.0 gls-groupworld.com
 0.0.0.0 gls-grovp.vu
 0.0.0.0 gls-grupservice.com
+0.0.0.0 gls.parcel-status.info
 0.0.0.0 glsgroup-aapi-namestar.com.ph
 0.0.0.0 glsgroup-abnamro-kinotam.com.ph
 0.0.0.0 glsgroup-abo-caixa.ph
@@ -30176,6 +30178,7 @@
 0.0.0.0 hitechebank.com
 0.0.0.0 hitiktokseller.com
 0.0.0.0 hivonarka-turemaxil.pages.dev
+0.0.0.0 hizliodemeceza.info
 0.0.0.0 hjasbdkjhasbdasd.pages.dev
 0.0.0.0 hjhjhj.hjkkjjk.workers.dev
 0.0.0.0 hjhjhj7778.vip
@@ -33048,6 +33051,7 @@
 0.0.0.0 hrlp-ledger-log-in.pages.dev
 0.0.0.0 hrlp-update-ledgeer.pages.dev
 0.0.0.0 hs-binance.com.cn
+0.0.0.0 hsbc-bank.live
 0.0.0.0 hsbc-id-verification.pages.dev
 0.0.0.0 hsbc-savings-bank-las-pinas-city-metro-manila-branch.ph
 0.0.0.0 hsbc-support.work
@@ -33742,6 +33746,7 @@
 0.0.0.0 icloud-ug.co
 0.0.0.0 icloud-us.app
 0.0.0.0 icloud-verification.online
+0.0.0.0 icloud.com-id-support.ink
 0.0.0.0 icloud91278l.pages.dev
 0.0.0.0 icloudapp.cn
 0.0.0.0 icloudfind-connect.us
@@ -33883,7 +33888,6 @@
 0.0.0.0 immediate-edge-hr.live
 0.0.0.0 immediate-edge-italy.top
 0.0.0.0 immediate-edge-platform.com
-0.0.0.0 immediate-edge-trade.live
 0.0.0.0 immediate-edge.co.in
 0.0.0.0 immediate-edge.co.za
 0.0.0.0 immediate-edge.today
@@ -38054,7 +38058,6 @@
 0.0.0.0 jtexpress-ea.top
 0.0.0.0 jtexpress-eb.top
 0.0.0.0 jtexpress-ec.top
-0.0.0.0 jtexpress-ed.top
 0.0.0.0 jtexpress-ef.top
 0.0.0.0 jtexpress-eg.cc
 0.0.0.0 jtexpress-el.top
@@ -38146,8 +38149,6 @@
 0.0.0.0 jtexpress-rx.top
 0.0.0.0 jtexpress-ry.top
 0.0.0.0 jtexpress-rz.top
-0.0.0.0 jtexpress-sgr.top
-0.0.0.0 jtexpress-sgt.top
 0.0.0.0 jtexpress-sgu.top
 0.0.0.0 jtexpress-sna.top
 0.0.0.0 jtexpress-snb.top
@@ -38160,7 +38161,6 @@
 0.0.0.0 jtexpress-tc.top
 0.0.0.0 jtexpress-tj.top
 0.0.0.0 jtexpress-tk.top
-0.0.0.0 jtexpress-tke.top
 0.0.0.0 jtexpress-tl.top
 0.0.0.0 jtexpress-tn.top
 0.0.0.0 jtexpress-to.top
@@ -38181,11 +38181,9 @@
 0.0.0.0 jtexpress-xn.top
 0.0.0.0 jtexpress-xv.top
 0.0.0.0 jtexpress-xz.top
-0.0.0.0 jtexpress-ye.top
 0.0.0.0 jtexpress-yj.cc
 0.0.0.0 jtexpress-ykr.top
 0.0.0.0 jtexpress-ykt.top
-0.0.0.0 jtexpress-ys.top
 0.0.0.0 jtexpress-yx.cc
 0.0.0.0 jtexpress-yz.cc
 0.0.0.0 jtj-whatsapp.com.cn
@@ -40979,7 +40977,6 @@
 0.0.0.0 lean-coinbase-pro.pages.dev
 0.0.0.0 lean-trezor-io-bridge.pages.dev
 0.0.0.0 leanrn-liveledgr.pages.dev
-0.0.0.0 leap-whatapp.hl.cn
 0.0.0.0 lear-ledger-com-start.pages.dev
 0.0.0.0 lear-ledgercomstart.pages.dev
 0.0.0.0 lear-ledgr-dkstop-eng.pages.dev
@@ -50212,6 +50209,7 @@
 0.0.0.0 login-cdn-trezor-ccnn.pages.dev
 0.0.0.0 login-cdn-trezor.pages.dev
 0.0.0.0 login-charleschwab.pages.dev
+0.0.0.0 login-chasebank.online
 0.0.0.0 login-checkpoint.xfinity-bill.workers.dev
 0.0.0.0 login-cionbase-com.pages.dev
 0.0.0.0 login-coiin-base-pro-us.pages.dev
@@ -51730,7 +51728,6 @@
 0.0.0.0 lokalna-ofeta102xz5y2j079.icu
 0.0.0.0 lokalna-ofeta109xz0y2j031.icu
 0.0.0.0 lokalna-ofeta12621.sbs
-0.0.0.0 lokalna-ofeta1322.sbs
 0.0.0.0 lokalna-ofeta1554243.shop
 0.0.0.0 lokalna-ofeta213.sbs
 0.0.0.0 lokalna-ofeta2221.sbs
@@ -52533,7 +52530,6 @@
 0.0.0.0 mastercard-arbeitsagentur.ph
 0.0.0.0 mastercard-khanacademy-bancolombia.ph
 0.0.0.0 mastercard-kotak.ph
-0.0.0.0 mastercard.ayabank.us
 0.0.0.0 mata-mski-login-helped.pages.dev
 0.0.0.0 mata-wallet-help.pages.dev
 0.0.0.0 matamashk-login-en.pages.dev
@@ -60733,6 +60729,7 @@
 0.0.0.0 paragraph-start-trzor.pages.dev
 0.0.0.0 paralyth-vault.pages.dev
 0.0.0.0 parcel-ingbank.ph
+0.0.0.0 parcel-mondialrelay.com
 0.0.0.0 paribas-bnp-banks.pages.dev
 0.0.0.0 paribas-trust.pages.dev
 0.0.0.0 paris88klik.online
@@ -63643,7 +63640,6 @@
 0.0.0.0 puttiktokdown-lol.pages.dev
 0.0.0.0 puzzle-whatsapp.com.cn
 0.0.0.0 puzzlerobloxid.pages.dev
-0.0.0.0 px-whats-app.com.cn
 0.0.0.0 pxtiktok-02.pages.dev
 0.0.0.0 pxx-whatsapp.com.cn
 0.0.0.0 py-apss-whatapp.com.cn
@@ -66286,6 +66282,7 @@
 0.0.0.0 security-kucoine.pages.dev
 0.0.0.0 security-ledgrcom--eng.pages.dev
 0.0.0.0 security-ledgrcom-eng.pages.dev
+0.0.0.0 security-mail-lnstagram.org
 0.0.0.0 security-metamask-walet-extension.pages.dev
 0.0.0.0 security-policies-astro.pages.dev
 0.0.0.0 security-pron-hub-coinbas.pages.dev
@@ -67374,7 +67371,6 @@
 0.0.0.0 soriv-fenor-biz-helan-morax-nd11kt12.pages.dev
 0.0.0.0 sorivo-biz-zenqel-21126.pages.dev
 0.0.0.0 sorleq-monter-biz-vilqa-qentor-sp8ct12.pages.dev
-0.0.0.0 soro-whatapt.hl.cn
 0.0.0.0 sorryrobloxid.pages.dev
 0.0.0.0 sorteio-bonus-reinautica.pages.dev
 0.0.0.0 sorvelio.click
@@ -72151,10 +72147,10 @@
 0.0.0.0 stat-trezor-io.pages.dev
 0.0.0.0 stated-trezorio-en-us.pages.dev
 0.0.0.0 statement-viewonce-givesusquotes-sharepoint.pages.dev
-0.0.0.0 statementaccountonlineserviceupdate.info
 0.0.0.0 static-embedded-sites-booking-com.pages.dev
 0.0.0.0 static-login.com-microsoft-onedrive.ca
 0.0.0.0 static-login.com-microsoftonline-ondrive.ca
+0.0.0.0 static-login.com-onedrive-folder.com
 0.0.0.0 stating-trezio.pages.dev
 0.0.0.0 stattrec-trezer-io.pages.dev
 0.0.0.0 stature-invexor-ai.net
@@ -73787,6 +73783,7 @@
 0.0.0.0 suport-upphold-walet-auth.pages.dev
 0.0.0.0 suport-walllet-trezor.pages.dev
 0.0.0.0 suporteacessonetempresas.com
+0.0.0.0 suportebradesco.app
 0.0.0.0 suportenegocios.online
 0.0.0.0 suports-io-trzor.pages.dev
 0.0.0.0 suportt-hrdware-trzor-walet.pages.dev
@@ -74761,6 +74758,7 @@
 0.0.0.0 support-metmask-io-extension.pages.dev
 0.0.0.0 support-metmask-log-authd.pages.dev
 0.0.0.0 support-mettamesk-help.pages.dev
+0.0.0.0 support-mondialrelay-service.com
 0.0.0.0 support-mtamask-log.pages.dev
 0.0.0.0 support-mtamask-login.pages.dev
 0.0.0.0 support-mtamask-wellet.pages.dev
@@ -75705,7 +75703,6 @@
 0.0.0.0 tejecoreteje.fit
 0.0.0.0 tejecoreteje.top
 0.0.0.0 tejecorporat.fit
-0.0.0.0 tejecrplxq.ink
 0.0.0.0 tejecrtfuog.club
 0.0.0.0 tejecvlgmup.click
 0.0.0.0 tejecvlgmup.club
@@ -75879,7 +75876,6 @@
 0.0.0.0 tejejqtfwae.ink
 0.0.0.0 tejejqtfwae.work
 0.0.0.0 tejejunction.ink
-0.0.0.0 tejejupitera.work
 0.0.0.0 tejejupiterc.wiki
 0.0.0.0 tejejuxlbk.beauty
 0.0.0.0 tejejuxlbk.skin
@@ -75921,6 +75917,7 @@
 0.0.0.0 teleghtpro.help
 0.0.0.0 teleghtpro.shop
 0.0.0.0 teleghtprw.beer
+0.0.0.0 teleghtprw.luxe
 0.0.0.0 teleginalx.club
 0.0.0.0 teleginalx.help
 0.0.0.0 telegineer.shop
@@ -76026,9 +76023,6 @@
 0.0.0.0 telegrrram.pages.dev
 0.0.0.0 telegxxsab.bond
 0.0.0.0 telegxxsab.cyou
-0.0.0.0 telejkoign.click
-0.0.0.0 telejkoign.club
-0.0.0.0 telejkoign.help
 0.0.0.0 telejkoign.shop
 0.0.0.0 telejorlds.club
 0.0.0.0 telejunmyo.wiki
@@ -76534,6 +76528,7 @@
 0.0.0.0 tm-whatapp.com.cn
 0.0.0.0 tmobile-0nline-support-d.pages.dev
 0.0.0.0 tmobileclaim.com
+0.0.0.0 tmobilesupport.xyz
 0.0.0.0 tmp-whatapp.hl.cn
 0.0.0.0 tmr-whats-app.com.cn
 0.0.0.0 tmvf-whatsapp.com.cn
@@ -91562,7 +91557,7 @@
 0.0.0.0 winsshdvwdfuwdyfqjdkfuquldfyfdiyqfidfyidfdifddfhdfd.pages.dev
 0.0.0.0 winter-whatsapp.com.cn
 0.0.0.0 winziyuan2024.pages.dev
-0.0.0.0 wio-whatapp.com.cn
+0.0.0.0 wise-bank.xyz
 0.0.0.0 wise-support.online
 0.0.0.0 wit-ledger-live.pages.dev
 0.0.0.0 with--logn-terzor-io-eng.pages.dev
@@ -92058,6 +92053,7 @@
 0.0.0.0 www.login-microsoftonline-com-common-oauth2.144-208-66-57.cpanel.site
 0.0.0.0 www.login-netflix-en-us-dashboard.13-78-137-60.cpanel.site
 0.0.0.0 www.login-netflix-page.13-78-137-60.cpanel.site
+0.0.0.0 www.login.googel.trade
 0.0.0.0 www.login.system-paypal.ws
 0.0.0.0 www.login.target.secureserver.verification.remmagazine.net
 0.0.0.0 www.ltxiewiw.pdbkohfg.medicare-benefit-verification-portal.161-35-102-243.cpanel.site
@@ -92089,7 +92085,6 @@
 0.0.0.0 www.mail.netflix.memberaccess-recovery.87-130-90-094.cpanel.site
 0.0.0.0 www.mail.ztyvmkvc.medicare-benefit-verification-portal.161-35-102-243.cpanel.site
 0.0.0.0 www.masmovil.informagedevelop.com
-0.0.0.0 www.mastercard.ayabank.us
 0.0.0.0 www.medicare-benefit-verification-portal.161-35-102-243.cpanel.site
 0.0.0.0 www.meine.postbank.de.login.bsolutions.tech
 0.0.0.0 www.metro-liquidators.metro-liquidators.site

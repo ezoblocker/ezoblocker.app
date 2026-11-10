@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Poland (pl)
-# Domains: 65 | Updated: 2026-11-09
+# Domains: 67 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/pl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 0.0.0.0 annmarie.pl
 0.0.0.0 bagatelle.sklep.pl
 0.0.0.0 beztabu.com
+0.0.0.0 bikeever.pl
 0.0.0.0 boonga.pl
 0.0.0.0 byann.pl
 0.0.0.0 centrumerotyki.com.pl
@@ -59,6 +60,7 @@
 0.0.0.0 sklep-intymny.pl
 0.0.0.0 sklep-strefaintymna.pl
 0.0.0.0 sklepeuforia.pl
+0.0.0.0 studiomatsch.de
 0.0.0.0 tgax.polskielobby.pl
 0.0.0.0 theprive.pl
 0.0.0.0 topsexshop.pl

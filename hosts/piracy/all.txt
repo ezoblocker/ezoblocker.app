@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,178 | Updated: 2026-11-09
+# Domains: 1,187 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -36,6 +36,7 @@
 0.0.0.0 9anime.or.at
 0.0.0.0 9animepro.com
 0.0.0.0 9animes.ro
+0.0.0.0 9animetv.pics
 0.0.0.0 9animetv.vg
 0.0.0.0 9animetvs.pro
 0.0.0.0 9jaflaver.com
@@ -78,6 +79,7 @@
 0.0.0.0 aniwatch.co.at
 0.0.0.0 aniwatch.co.bz
 0.0.0.0 aniwatch.com.bz
+0.0.0.0 aniwatch.net.in
 0.0.0.0 aniwatch.page
 0.0.0.0 aniwatch.rest
 0.0.0.0 aniwatchtv.ro
@@ -280,6 +282,7 @@
 0.0.0.0 filmix.gg
 0.0.0.0 filmix.moe
 0.0.0.0 filmix.my
+0.0.0.0 filmix.pw
 0.0.0.0 filmizle.ink
 0.0.0.0 filmizlebabam.icu
 0.0.0.0 filmizledim.com
@@ -353,6 +356,7 @@
 0.0.0.0 futemax.insure
 0.0.0.0 futemax.med
 0.0.0.0 futemax.partners
+0.0.0.0 futemax.rodeo
 0.0.0.0 futemax.ventures
 0.0.0.0 futemax99.shop
 0.0.0.0 fzmovies.live
@@ -547,6 +551,7 @@
 0.0.0.0 kooral.top
 0.0.0.0 kooralive-koora.live
 0.0.0.0 kooralive.beer
+0.0.0.0 kooralive.diy
 0.0.0.0 kooralive07.com
 0.0.0.0 kooralivematch.club
 0.0.0.0 kooramatch.club
@@ -584,6 +589,7 @@
 0.0.0.0 livebola.net
 0.0.0.0 liveekoora.com
 0.0.0.0 livehd7.buzz
+0.0.0.0 livehd7.fit
 0.0.0.0 livehd7.forum
 0.0.0.0 livehd7.quest
 0.0.0.0 livehd7.uno
@@ -874,6 +880,7 @@
 0.0.0.0 rojadirectaonline.me
 0.0.0.0 rojadirectas.business
 0.0.0.0 rojadirectas.cc
+0.0.0.0 rojadirectatv.asia
 0.0.0.0 rojadirectatv.city
 0.0.0.0 rojadirectatv.skin
 0.0.0.0 rojadirectatvmas.org
@@ -1077,6 +1084,7 @@
 0.0.0.0 uimzxt.drapichrusty.pl
 0.0.0.0 ultra-realistic-mod.apk.cafe
 0.0.0.0 ultrafilmizle.org
+0.0.0.0 usasiz.dedadeno.blog
 0.0.0.0 usek-website-dev-h4gzccerh0gyeuf8.a02.azurefd.net
 0.0.0.0 usenet1.de
 0.0.0.0 usenetreviewz.com
@@ -1139,6 +1147,7 @@
 0.0.0.0 www.kino.nowytarg.pl
 0.0.0.0 www.mae.gov.bi
 0.0.0.0 www.openjournals.ijaar.org
+0.0.0.0 www.shop.lppa.org
 0.0.0.0 www.tosho3704.tokyo-bousai.or.jp
 0.0.0.0 www2.gema.org
 0.0.0.0 xoilac1.help

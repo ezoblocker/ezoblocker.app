@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Vietnam (vn)
-# Domains: 138 | Updated: 2026-11-09
+# Domains: 148 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 baocaosuhanoi.vn
 0.0.0.0 baocaosuhp.com
 0.0.0.0 benyu.qom.vn
+0.0.0.0 bigbullshop.vn
 0.0.0.0 cc-park.com
 0.0.0.0 chuyentinhvn.webflow.io
 0.0.0.0 cineclate.com
@@ -37,6 +38,7 @@
 0.0.0.0 dochoitinhducxtoy.com
 0.0.0.0 drloves.vn
 0.0.0.0 filmsexviet.com
+0.0.0.0 flower-emau.com
 0.0.0.0 foxietoy.com
 0.0.0.0 gunshop.vn
 0.0.0.0 hangngon.blog
@@ -63,24 +65,31 @@
 0.0.0.0 nam18.vn
 0.0.0.0 nuhoangkhoaicam.vn
 0.0.0.0 oichin.net
+0.0.0.0 phaixemsex1.online
 0.0.0.0 phe69.forum
 0.0.0.0 phevkl.dog
 0.0.0.0 phim18vn.top
 0.0.0.0 phimnhe.tv
 0.0.0.0 phimnong.net
+0.0.0.0 phimsexaz.net
 0.0.0.0 phimsexhaychon.com
 0.0.0.0 phimsexhaylu.com
 0.0.0.0 phimsexhaynon.com
 0.0.0.0 phimsexhayxinh.com
+0.0.0.0 phimsexhayz.net
+0.0.0.0 phimsexme.com
 0.0.0.0 phimsexmoi.cc
 0.0.0.0 phimsextapthe.net
 0.0.0.0 phimsextapthe69.com
 0.0.0.0 phimsexviet128.com
+0.0.0.0 phimsexvietnon.com
 0.0.0.0 phimsexvietsubx.blog
+0.0.0.0 phimsexvietxinh.com
 0.0.0.0 phimsexvn22.com
 0.0.0.0 phimsub.blog
 0.0.0.0 phimxex.net
 0.0.0.0 qmhsexza.net
+0.0.0.0 qmhsexzg.com
 0.0.0.0 rungrung.vn
 0.0.0.0 s1.sexheo.blog
 0.0.0.0 santasheaven.ch
@@ -104,6 +113,7 @@
 0.0.0.0 sexvietdam.blog
 0.0.0.0 sexvn88hd.blog
 0.0.0.0 sexvnme.com
+0.0.0.0 sexvnn-tv.blog
 0.0.0.0 shop18cm.com
 0.0.0.0 shopadam.vn
 0.0.0.0 shopbaocaosupro.com

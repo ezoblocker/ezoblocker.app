@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, adult shops
-! Domains: 1,394 | Updated: 2026-11-09
+! Domains: 1,406 | Updated: 2026-11-10
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/adult-shop.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -140,6 +140,8 @@
 ||beyourlover.co.jp^
 |bid.bertoiaauctions.com^
 ||big-toys.com.ua^
+||bigbullshop.vn^
+||bikeever.pl^
 ||bitkiselshop.com.tr^
 ||blackknighterotica.com.au^
 ||blueboutique.com^
@@ -263,6 +265,7 @@
 ||desirel.ro^
 ||desirel.se^
 ||dessousshop.de^
+||diipsecret.com^
 ||dildoking.de^
 ||discreetlife.ca^
 ||distribuidorasexshop.com.br^
@@ -446,6 +449,7 @@
 ||guiacereza.com^
 ||gunshop.vn^
 ||gutscheincode.org^
+||gutscheine.at^
 ||gw-corp.com^
 ||harmonystore.co.uk^
 ||hazoosexshop.com.br^
@@ -551,6 +555,7 @@
 ||kondomeriet.com^
 ||kondomeriet.se^
 ||kookooshop.gr^
+||kortingscode.be^
 ||kraina-doznan.pl^
 ||kras-sex.ru^
 ||l-shop.ua^
@@ -560,6 +565,8 @@
 ||ladybox.kr^
 ||ladyjane.co.za^
 ||ladykonfidential.com^
+||lamagiahot.com^
+||lamor.nl^
 ||lamora.online^
 ||lamurr.com.ua^
 ||lapepa.com.co^
@@ -727,6 +734,7 @@
 ||meindampfershop.de^
 ||melojena.com^
 ||melopasogoma.com^
+||meraki-shop.de^
 ||messen.de^
 ||metalshop.es^
 ||mibelleza.uy^
@@ -793,6 +801,7 @@
 ||nodex.ie^
 ||noktashop.com.tr^
 ||nooitmeersaai.nl^
+|nordfriesland.city-map.de^
 ||noroz.pk^
 ||notino.be^
 ||novum-erotik.de^
@@ -958,9 +967,11 @@
 ||salvajesexstore.com^
 ||samanta.pl^
 ||samsunsens.com^
+||satisfeel.com.br^
 ||satisfyer.com^
 ||sauvage.com.ar^
 ||savageboutique.com.ar^
+||scala-nl.com^
 ||scandals.love^
 ||schwarzer-reiter.com^
 ||secretafterdark.com^
@@ -1333,6 +1344,7 @@
 |venusexx.ueniweb.com^
 ||verdener-auktion-online.com^
 ||vexatoys.com^
+||viaa.nl^
 ||viamax.eu^
 ||viamax.se^
 ||viamaxgroup.com^

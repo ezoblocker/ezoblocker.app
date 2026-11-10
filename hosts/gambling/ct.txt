@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 657,236 | Updated: 2026-11-09
+# Domains: 657,223 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -122903,7 +122903,6 @@
 0.0.0.0 casea-casino-online-de.com
 0.0.0.0 casea-casino-online.co.uk
 0.0.0.0 casea-casino-online.com
-0.0.0.0 casea-casino-online.de
 0.0.0.0 casea-casino-online.it
 0.0.0.0 casea-casino-online.uk
 0.0.0.0 casea-casino-pl.pages.dev
@@ -133746,7 +133745,6 @@
 0.0.0.0 casino-moonwin.org
 0.0.0.0 casino-moonwin.uk
 0.0.0.0 casino-moose-jaw.com
-0.0.0.0 casino-moosejaw.ca
 0.0.0.0 casino-morebonus.com
 0.0.0.0 casino-moro-spin-at.pages.dev
 0.0.0.0 casino-moro-spin.at
@@ -139374,7 +139372,6 @@
 0.0.0.0 casino-villa.com
 0.0.0.0 casino-villarddelans.com
 0.0.0.0 casino-ville.com
-0.0.0.0 casino-villento.co.uk
 0.0.0.0 casino-villento.com
 0.0.0.0 casino-villers-sur-mer.com
 0.0.0.0 casino-villers-sur-mer.fr
@@ -139813,7 +139810,6 @@
 0.0.0.0 casino-win-beatz.pages.dev
 0.0.0.0 casino-win-bet-nl-nl-373.pages.dev
 0.0.0.0 casino-win-bet-nl.nl
-0.0.0.0 casino-win-gram.games
 0.0.0.0 casino-win-hero.nl
 0.0.0.0 casino-win-kingdom-app.pages.dev
 0.0.0.0 casino-win-kingdom-casino-france.pages.dev
@@ -323305,7 +323301,6 @@
 0.0.0.0 kinggame-casino.org
 0.0.0.0 kinggame-onlinecasino.com
 0.0.0.0 kinggamecasino.info
-0.0.0.0 kinggamecasinologin.com
 0.0.0.0 kinggameslotapp.com
 0.0.0.0 kinggamesslots.com
 0.0.0.0 kinggamevip.org
@@ -405434,7 +405429,6 @@
 0.0.0.0 neonwin-odds.top
 0.0.0.0 neonwin-poker.top
 0.0.0.0 neonwin-progressive.top
-0.0.0.0 neonwin-quads.top
 0.0.0.0 neonwin-raise.top
 0.0.0.0 neonwin-roulette.top
 0.0.0.0 neonwin-split.top
@@ -405442,7 +405436,6 @@
 0.0.0.0 neonwin-stand.top
 0.0.0.0 neonwin-tell.top
 0.0.0.0 neonwin-underdog.top
-0.0.0.0 neonwin-victory.top
 0.0.0.0 neonwin-vip.top
 0.0.0.0 neonwin-wager.top
 0.0.0.0 neonwin-whale.top
@@ -405465,7 +405458,6 @@
 0.0.0.0 neonwincasinos.com
 0.0.0.0 neonwincasinos.top
 0.0.0.0 neonwincasinoz.com
-0.0.0.0 neonwincasinoz.top
 0.0.0.0 neonwincazinos.com
 0.0.0.0 neonwincazinos.top
 0.0.0.0 neonwincazinoz.top
@@ -406147,7 +406139,6 @@
 0.0.0.0 nesinecasinoclub.icu
 0.0.0.0 nesinecasinogirislerimiz.cam
 0.0.0.0 nesinecasinoglive.icu
-0.0.0.0 nessinecasinogiris.com
 0.0.0.0 nestasportsbetting.com
 0.0.0.0 nestor-motel.pl
 0.0.0.0 net-bahis-giris81.icu
@@ -411942,7 +411933,6 @@
 0.0.0.0 nl-zonder-cruks-casino-com-6894607a.pages.dev
 0.0.0.0 nl1-amonbet.com
 0.0.0.0 nl52--casinolab.com
-0.0.0.0 nl81--casinolab.com
 0.0.0.0 nlbestcasino.com
 0.0.0.0 nlbestcasinos.com
 0.0.0.0 nlbetninja.nl
@@ -422847,7 +422837,6 @@
 0.0.0.0 olivercasino-it.it
 0.0.0.0 olivercasino.at
 0.0.0.0 olivercasino.co.at
-0.0.0.0 olivercasino.com
 0.0.0.0 olivercasino.cz
 0.0.0.0 olivercasino.es
 0.0.0.0 olivercasino.fi
@@ -428396,7 +428385,6 @@
 0.0.0.0 onlinecasinopaysafenl.com
 0.0.0.0 onlinecasinopc.com
 0.0.0.0 onlinecasinophilippines.co.com
-0.0.0.0 onlinecasinophilippines.net
 0.0.0.0 onlinecasinophilippines.ph
 0.0.0.0 onlinecasinopirate.com
 0.0.0.0 onlinecasinopiraten.com
@@ -648195,7 +648183,6 @@
 0.0.0.0 xenacasino.net
 0.0.0.0 xenacasino2.gr
 0.0.0.0 xenacasino24.com
-0.0.0.0 xenacasinoonline.gr
 0.0.0.0 xenacazino.gr.com
 0.0.0.0 xenadiadiktyakakazino.gr
 0.0.0.0 xenagreececasino.gr.com

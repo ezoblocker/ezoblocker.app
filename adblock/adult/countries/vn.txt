@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Vietnam (vn)
-! Domains: 138 | Updated: 2026-11-09
+! Domains: 148 | Updated: 2026-11-10
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/vn.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 ||baocaosuhanoi.vn^
 ||baocaosuhp.com^
 |benyu.qom.vn^
+||bigbullshop.vn^
 ||cc-park.com^
 ||chuyentinhvn.webflow.io^
 ||cineclate.com^
@@ -37,6 +38,7 @@
 ||dochoitinhducxtoy.com^
 ||drloves.vn^
 ||filmsexviet.com^
+||flower-emau.com^
 ||foxietoy.com^
 ||gunshop.vn^
 ||hangngon.blog^
@@ -63,24 +65,31 @@
 ||nam18.vn^
 ||nuhoangkhoaicam.vn^
 ||oichin.net^
+||phaixemsex1.online^
 ||phe69.forum^
 ||phevkl.dog^
 ||phim18vn.top^
 ||phimnhe.tv^
 ||phimnong.net^
+||phimsexaz.net^
 ||phimsexhaychon.com^
 ||phimsexhaylu.com^
 ||phimsexhaynon.com^
 ||phimsexhayxinh.com^
+||phimsexhayz.net^
+||phimsexme.com^
 ||phimsexmoi.cc^
 ||phimsextapthe.net^
 ||phimsextapthe69.com^
 ||phimsexviet128.com^
+||phimsexvietnon.com^
 ||phimsexvietsubx.blog^
+||phimsexvietxinh.com^
 ||phimsexvn22.com^
 ||phimsub.blog^
 ||phimxex.net^
 ||qmhsexza.net^
+||qmhsexzg.com^
 ||rungrung.vn^
 |s1.sexheo.blog^
 ||santasheaven.ch^
@@ -104,6 +113,7 @@
 ||sexvietdam.blog^
 ||sexvn88hd.blog^
 ||sexvnme.com^
+||sexvnn-tv.blog^
 ||shop18cm.com^
 ||shopadam.vn^
 ||shopbaocaosupro.com^

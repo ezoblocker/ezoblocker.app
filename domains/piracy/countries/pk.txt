@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, PK (pk)
-# Domains: 24 | Updated: 2026-11-09
+# Domains: 25 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/countries/pk.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -28,3 +28,4 @@ totalsportsman.com
 worldfree4u.events
 worldfree4u.forum
 ww1.hindimovies.to
+www.shop.lppa.org

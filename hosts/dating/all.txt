@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,301 | Updated: 2026-11-09
+# Domains: 1,304 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -560,6 +560,7 @@
 0.0.0.0 hookupchase.com
 0.0.0.0 hookupclique.com
 0.0.0.0 hookupdash.com
+0.0.0.0 hookuper.com
 0.0.0.0 hookupflare.com
 0.0.0.0 hookupfluent.com
 0.0.0.0 hookupiter.com
@@ -815,6 +816,7 @@
 0.0.0.0 nearbyhookups.co.uk
 0.0.0.0 nelspruit.dfs05.ru
 0.0.0.0 netcasino-life-hisshoho.jp
+0.0.0.0 new-orleans.bonepage.com
 0.0.0.0 new-york-city.bonepage.com
 0.0.0.0 new-york.ondate.com
 0.0.0.0 newbridge-escorts.alsilk.ru
@@ -974,6 +976,7 @@
 0.0.0.0 regina.bonepage.com
 0.0.0.0 roksa.priv.pl
 0.0.0.0 roksa.sx
+0.0.0.0 roksati.pl
 0.0.0.0 roomchat.site
 0.0.0.0 royals-intim.com
 0.0.0.0 rubmaps.ch

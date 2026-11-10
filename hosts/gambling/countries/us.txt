@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, United States (us)
-# Domains: 15 | Updated: 2026-11-09
+# Domains: 16 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 0.0.0.0 bettingalternative.link
 0.0.0.0 bonus.com
 0.0.0.0 bookmakersreview.com
+0.0.0.0 casino-sites.pro
 0.0.0.0 chumbalite.com
 0.0.0.0 globalpokerindex.com
 0.0.0.0 globalpokersites.com

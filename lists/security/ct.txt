@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 93,106 | Updated: 2026-11-09
+# Domains: 93,101 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1195,6 +1195,7 @@ account.bys-insta-store-76319.com
 account.ccustoms.shop
 account.com-microsoft-onedrive.ca
 account.com-microsoftonline-ondrive.ca
+account.com-onedrive-folder.com
 account.deutsche-whiskys.shop
 account.deutsche-zentral-akademie.com
 account.elektr-de.shop
@@ -2147,7 +2148,6 @@ adobereadersplugin.porr-groups.com
 *.ai-ndaxxe-logine.pages.dev
 *.ai-net-coins-logn.pages.dev
 *.ai-project--trezo--io.pages.dev
-*.ai-sk-whatsapp.com.cn
 *.ai-start-ldg-r-live.pages.dev
 *.ai-start-ledger.pages.dev
 *.ai-start-trazu.pages.dev
@@ -3915,7 +3915,6 @@ appleid-apple.manage.mmidubai.com
 *.appleid-secure-notified-home-base-database.com.ph
 *.appleid-security-update-verify.ph
 *.appleid-set.com
-*.appleid-signin.com
 *.appleid-soporte.es
 *.appleid-store-authorized-payment-securedata-updated.com.ph
 *.appleid-support-kx-z-apple.com.ph
@@ -6218,6 +6217,7 @@ auuth.migrate-files.workers.dev
 *.aux-adobeacrobat466547783doc.pages.dev
 *.available-ledger-hardware-wallet.pages.dev
 *.avaltrix.click
+*.avanzasupport.com
 *.avelnix-biz-korpat-14126.pages.dev
 *.avelnix-biz-kortax-1626.pages.dev
 *.avelnix-biz-siltox-8126.pages.dev
@@ -7109,6 +7109,7 @@ bantuan-tng2.my-live.biz.id
 *.beta-tiktok.pages.dev
 *.beta-trezo-io.pages.dev
 *.beta-whatsapp-contac-center.pages.dev
+*.betalingsgaranti.com
 *.betanoappdownload-org.pages.dev
 *.betanoappdownload-vip.pages.dev
 *.betgarantiadres.com
@@ -7218,6 +7219,7 @@ binance-cms-latest.elxaxa.workers.dev
 *.binance-secure.pages.dev
 *.binance-security.pages.dev
 *.binance-si.com.cn
+*.binance-signin.com
 *.binance-signup-guide.pages.dev
 *.binance-site.hl.cn
 *.binance-site.pages.dev
@@ -7269,6 +7271,7 @@ binancecom.huangyuzhang.workers.dev
 *.binances5cs869.pages.dev
 *.binanceszo2s.pages.dev
 *.binancetx.com
+*.binanceverify.site
 *.binancewallet-frontend.pages.dev
 *.binancewallet.app
 *.binancewallet.pages.dev
@@ -7619,6 +7622,7 @@ bitpie.com.download.biepie.info
 *.blockchainswallet.pages.dev
 *.blockchainverification.pages.dev
 *.blockchainwallet.pages.dev
+*.blockchainwallets.xyz
 *.blockdag---networks.pages.dev
 *.blockdag--network.pages.dev
 *.blockdag--networks.pages.dev
@@ -14587,6 +14591,7 @@ cpcontacts.subscription-netflix-id49875.comfreestorelink.me.66-96-84-66.cpanel.s
 *.cratos-cratosroyalbetgirs.com
 *.cratosroyalbet-gir.vip
 *.cratosroyalbet-girisimiz.icu
+*.cratosroyalbetgirisleri.cc
 *.crcyptocom-login.pages.dev
 *.crd-metamsk-login.pages.dev
 *.cre-ate-robinhod-login.pages.dev
@@ -15328,7 +15333,6 @@ demo.mail.netflix.memberaccess-recovery.161-35-102-243.cpanel.site
 *.depopverifhelp.rest
 *.depopverificationprocess58912.click
 *.depopverificationprocess75982.click
-*.depopverificationsupport2512.help
 *.depopverificationsupport8284.help
 *.depopverifyid-8326521.sbs
 *.depopverifysupp.click
@@ -16341,7 +16345,6 @@ dhaval-onlinemicrosoft.login-office.workers.dev
 *.dhdhd1fht.pages.dev
 *.dhdhdhhdud7363.workers.dev
 *.dhfhfhbddbbxdbnxx.pages.dev
-*.dhi-whatsapp.com.cn
 *.dhjopv-whatsapp.hk.cn
 *.dhl-delivery-online-addresmismatch-kfjes76yjhkmjh4b2323k2b.pages.dev
 *.dhl-delivery-system-signin.pages.dev
@@ -22380,7 +22383,6 @@ ethereum-wallet-token-approval-review.revokecash.store
 *.etrezior-bridge.pages.dev
 *.etrust-wallet.pages.dev
 *.etsy-verif-shop.pages.dev
-*.etsy-verification-shop.info
 *.etsy-verify.cfd
 *.etsyv139.com
 *.etsyverification.cfd
@@ -25197,7 +25199,6 @@ fedex-stgus-etr.pelesys.com
 *.feloriva-dumirexa.pages.dev
 *.feloriva-walexiro.pages.dev
 *.felvuro-mpt-zanqeri-t4d9ka68.pages.dev
-*.feno-whatapt.hl.cn
 *.fenolura-moxarive.pages.dev
 *.fenoriva-xanupite.pages.dev
 *.fenorixa-pulatine.pages.dev
@@ -27315,6 +27316,7 @@ get-apple-id.iipa.cc
 *.gls-groupworld.com
 *.gls-grovp.vu
 *.gls-grupservice.com
+gls.parcel-status.info
 *.glsgroup-aapi-namestar.com.ph
 *.glsgroup-abnamro-kinotam.com.ph
 *.glsgroup-abo-caixa.ph
@@ -30176,6 +30178,7 @@ heweltharchinsoles.best-shopping-here.online
 *.hitechebank.com
 *.hitiktokseller.com
 *.hivonarka-turemaxil.pages.dev
+*.hizliodemeceza.info
 *.hjasbdkjhasbdasd.pages.dev
 hjhjhj.hjkkjjk.workers.dev
 *.hjhjhj7778.vip
@@ -33048,6 +33051,7 @@ hr-sso.unicredit-platform-sk.com
 *.hrlp-ledger-log-in.pages.dev
 *.hrlp-update-ledgeer.pages.dev
 *.hs-binance.com.cn
+*.hsbc-bank.live
 *.hsbc-id-verification.pages.dev
 *.hsbc-savings-bank-las-pinas-city-metro-manila-branch.ph
 *.hsbc-support.work
@@ -33742,6 +33746,7 @@ icloud-authenticator.wuselino.org
 *.icloud-ug.co
 *.icloud-us.app
 *.icloud-verification.online
+icloud.com-id-support.ink
 *.icloud91278l.pages.dev
 *.icloudapp.cn
 *.icloudfind-connect.us
@@ -33883,7 +33888,6 @@ immediate-edge-fr.amzinvst.com
 *.immediate-edge-hr.live
 *.immediate-edge-italy.top
 *.immediate-edge-platform.com
-*.immediate-edge-trade.live
 *.immediate-edge.co.in
 *.immediate-edge.co.za
 *.immediate-edge.today
@@ -38054,7 +38058,6 @@ jt-express-brazil.asmontech.online
 *.jtexpress-ea.top
 *.jtexpress-eb.top
 *.jtexpress-ec.top
-*.jtexpress-ed.top
 *.jtexpress-ef.top
 *.jtexpress-eg.cc
 *.jtexpress-el.top
@@ -38146,8 +38149,6 @@ jt-express-brazil.asmontech.online
 *.jtexpress-rx.top
 *.jtexpress-ry.top
 *.jtexpress-rz.top
-*.jtexpress-sgr.top
-*.jtexpress-sgt.top
 *.jtexpress-sgu.top
 *.jtexpress-sna.top
 *.jtexpress-snb.top
@@ -38160,7 +38161,6 @@ jt-express-brazil.asmontech.online
 *.jtexpress-tc.top
 *.jtexpress-tj.top
 *.jtexpress-tk.top
-*.jtexpress-tke.top
 *.jtexpress-tl.top
 *.jtexpress-tn.top
 *.jtexpress-to.top
@@ -38181,11 +38181,9 @@ jt-express-brazil.asmontech.online
 *.jtexpress-xn.top
 *.jtexpress-xv.top
 *.jtexpress-xz.top
-*.jtexpress-ye.top
 *.jtexpress-yj.cc
 *.jtexpress-ykr.top
 *.jtexpress-ykt.top
-*.jtexpress-ys.top
 *.jtexpress-yx.cc
 *.jtexpress-yz.cc
 *.jtj-whatsapp.com.cn
@@ -40979,7 +40977,6 @@ layanan.garuda88llc.shop
 *.lean-coinbase-pro.pages.dev
 *.lean-trezor-io-bridge.pages.dev
 *.leanrn-liveledgr.pages.dev
-*.leap-whatapp.hl.cn
 *.lear-ledger-com-start.pages.dev
 *.lear-ledgercomstart.pages.dev
 *.lear-ledgr-dkstop-eng.pages.dev
@@ -50212,6 +50209,7 @@ login-att.coms-support.workers.dev
 *.login-cdn-trezor-ccnn.pages.dev
 *.login-cdn-trezor.pages.dev
 *.login-charleschwab.pages.dev
+*.login-chasebank.online
 login-checkpoint.xfinity-bill.workers.dev
 *.login-cionbase-com.pages.dev
 *.login-coiin-base-pro-us.pages.dev
@@ -51730,7 +51728,6 @@ logon.emiratespost-eventbrite.ph
 *.lokalna-ofeta102xz5y2j079.icu
 *.lokalna-ofeta109xz0y2j031.icu
 *.lokalna-ofeta12621.sbs
-*.lokalna-ofeta1322.sbs
 *.lokalna-ofeta1554243.shop
 *.lokalna-ofeta213.sbs
 *.lokalna-ofeta2221.sbs
@@ -52533,7 +52530,6 @@ masmovil.telemaxcomunicaciones.com
 *.mastercard-arbeitsagentur.ph
 *.mastercard-khanacademy-bancolombia.ph
 *.mastercard-kotak.ph
-mastercard.ayabank.us
 *.mata-mski-login-helped.pages.dev
 *.mata-wallet-help.pages.dev
 *.matamashk-login-en.pages.dev
@@ -60733,6 +60729,7 @@ panel-us-paypal.patricioslim.net
 *.paragraph-start-trzor.pages.dev
 *.paralyth-vault.pages.dev
 *.parcel-ingbank.ph
+*.parcel-mondialrelay.com
 *.paribas-bnp-banks.pages.dev
 *.paribas-trust.pages.dev
 *.paris88klik.online
@@ -63643,7 +63640,6 @@ pusat-bantuan-tokopedia.magr.web.id
 *.puttiktokdown-lol.pages.dev
 *.puzzle-whatsapp.com.cn
 *.puzzlerobloxid.pages.dev
-*.px-whats-app.com.cn
 *.pxtiktok-02.pages.dev
 *.pxx-whatsapp.com.cn
 *.py-apss-whatapp.com.cn
@@ -66286,6 +66282,7 @@ security-authorization.advanced-coinbase.workers.dev
 *.security-kucoine.pages.dev
 *.security-ledgrcom--eng.pages.dev
 *.security-ledgrcom-eng.pages.dev
+*.security-mail-lnstagram.org
 *.security-metamask-walet-extension.pages.dev
 *.security-policies-astro.pages.dev
 *.security-pron-hub-coinbas.pages.dev
@@ -67374,7 +67371,6 @@ sol.cryptomus.com.9182736.link
 *.soriv-fenor-biz-helan-morax-nd11kt12.pages.dev
 *.sorivo-biz-zenqel-21126.pages.dev
 *.sorleq-monter-biz-vilqa-qentor-sp8ct12.pages.dev
-*.soro-whatapt.hl.cn
 *.sorryrobloxid.pages.dev
 *.sorteio-bonus-reinautica.pages.dev
 *.sorvelio.click
@@ -72151,10 +72147,10 @@ staging.dev.backup.bill-netflix-dashboard-account.161-35-102-243.cpanel.site
 *.stat-trezor-io.pages.dev
 *.stated-trezorio-en-us.pages.dev
 *.statement-viewonce-givesusquotes-sharepoint.pages.dev
-*.statementaccountonlineserviceupdate.info
 *.static-embedded-sites-booking-com.pages.dev
 static-login.com-microsoft-onedrive.ca
 static-login.com-microsoftonline-ondrive.ca
+static-login.com-onedrive-folder.com
 *.stating-trezio.pages.dev
 *.stattrec-trezer-io.pages.dev
 *.stature-invexor-ai.net
@@ -73787,6 +73783,7 @@ super-sharefileauth-c29c.farrkhosravi.workers.dev
 *.suport-upphold-walet-auth.pages.dev
 *.suport-walllet-trezor.pages.dev
 *.suporteacessonetempresas.com
+*.suportebradesco.app
 *.suportenegocios.online
 *.suports-io-trzor.pages.dev
 *.suportt-hrdware-trzor-walet.pages.dev
@@ -74761,6 +74758,7 @@ support-google.portal-sigin-document.icu
 *.support-metmask-io-extension.pages.dev
 *.support-metmask-log-authd.pages.dev
 *.support-mettamesk-help.pages.dev
+*.support-mondialrelay-service.com
 *.support-mtamask-log.pages.dev
 *.support-mtamask-login.pages.dev
 *.support-mtamask-wellet.pages.dev
@@ -75705,7 +75703,6 @@ teegram-account.teegram.in
 *.tejecoreteje.fit
 *.tejecoreteje.top
 *.tejecorporat.fit
-*.tejecrplxq.ink
 *.tejecrtfuog.club
 *.tejecvlgmup.click
 *.tejecvlgmup.club
@@ -75879,7 +75876,6 @@ teegram-account.teegram.in
 *.tejejqtfwae.ink
 *.tejejqtfwae.work
 *.tejejunction.ink
-*.tejejupitera.work
 *.tejejupiterc.wiki
 *.tejejuxlbk.beauty
 *.tejejuxlbk.skin
@@ -75921,6 +75917,7 @@ teegram-account.teegram.in
 *.teleghtpro.help
 *.teleghtpro.shop
 *.teleghtprw.beer
+*.teleghtprw.luxe
 *.teleginalx.club
 *.teleginalx.help
 *.telegineer.shop
@@ -76026,9 +76023,6 @@ telegram.org.authenticate.dnsterm.com
 *.telegrrram.pages.dev
 *.telegxxsab.bond
 *.telegxxsab.cyou
-*.telejkoign.click
-*.telejkoign.club
-*.telejkoign.help
 *.telejkoign.shop
 *.telejorlds.club
 *.telejunmyo.wiki
@@ -76534,6 +76528,7 @@ tlqhanhk.bamrcuny.medicare-benefit-verification-portal.161-35-102-243.cpanel.sit
 *.tm-whatapp.com.cn
 *.tmobile-0nline-support-d.pages.dev
 *.tmobileclaim.com
+*.tmobilesupport.xyz
 *.tmp-whatapp.hl.cn
 *.tmr-whats-app.com.cn
 *.tmvf-whatsapp.com.cn
@@ -91562,7 +91557,7 @@ wildberrie.jumia-vip.shop
 *.winsshdvwdfuwdyfqjdkfuquldfyfdiyqfidfyidfdifddfhdfd.pages.dev
 *.winter-whatsapp.com.cn
 *.winziyuan2024.pages.dev
-*.wio-whatapp.com.cn
+*.wise-bank.xyz
 *.wise-support.online
 *.wit-ledger-live.pages.dev
 *.with--logn-terzor-io-eng.pages.dev
@@ -92058,6 +92053,7 @@ www.lloyds.verify-gb.com.block-payee.com
 www.login-microsoftonline-com-common-oauth2.144-208-66-57.cpanel.site
 www.login-netflix-en-us-dashboard.13-78-137-60.cpanel.site
 www.login-netflix-page.13-78-137-60.cpanel.site
+www.login.googel.trade
 www.login.system-paypal.ws
 www.login.target.secureserver.verification.remmagazine.net
 www.ltxiewiw.pdbkohfg.medicare-benefit-verification-portal.161-35-102-243.cpanel.site
@@ -92089,7 +92085,6 @@ www.mail.netflix.memberaccess-recovery.85-202-13-022.cpanel.site
 www.mail.netflix.memberaccess-recovery.87-130-90-094.cpanel.site
 www.mail.ztyvmkvc.medicare-benefit-verification-portal.161-35-102-243.cpanel.site
 www.masmovil.informagedevelop.com
-www.mastercard.ayabank.us
 www.medicare-benefit-verification-portal.161-35-102-243.cpanel.site
 www.meine.postbank.de.login.bsolutions.tech
 www.metro-liquidators.metro-liquidators.site

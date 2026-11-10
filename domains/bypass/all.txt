@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 185 | Updated: 2026-11-09
+# Domains: 187 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -61,6 +61,7 @@ india-vpn.apk.cafe
 insights.streamuktvabroad.com
 ipfoxy.com
 isitblocked.com
+journal.kurasinstitute.com
 k-tunnel.net
 kb.biznetgio.com
 kb.cloudkilat.id
@@ -83,6 +84,7 @@ nextdns.io
 novada.com
 noxproxy.com
 nsocks.com
+nvtgonp.riverplanet.site
 ny.gn.fosun.com
 okeyproxy.com
 okkproxy.com

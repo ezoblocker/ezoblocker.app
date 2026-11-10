@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, Saudi Arabia (sa)
-! Domains: 44 | Updated: 2026-11-09
+! Domains: 45 | Updated: 2026-11-10
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/countries/sa.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -29,6 +29,7 @@
 ||kooratv.club^
 ||koraliveivo.com^
 ||livehd7.buzz^
+||livehd7.fit^
 ||livehd7.forum^
 ||livehd7.quest^
 ||livehd7.uno^

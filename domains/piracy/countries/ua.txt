@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Piracy, Ukraine (ua)
-# Domains: 30 | Updated: 2026-11-09
+# Domains: 31 | Updated: 2026-11-10
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/countries/ua.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 filmix.ac
 filmix.gg
+filmix.pw
 hd.8lordserial.skin
 hdrezka.fi
 hdrezka.my

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, ct
-! Domains: 657,236 | Updated: 2026-11-09
+! Domains: 657,223 | Updated: 2026-11-10
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -122903,7 +122903,6 @@
 ||casea-casino-online-de.com^
 ||casea-casino-online.co.uk^
 ||casea-casino-online.com^
-||casea-casino-online.de^
 ||casea-casino-online.it^
 ||casea-casino-online.uk^
 ||casea-casino-pl.pages.dev^
@@ -133746,7 +133745,6 @@
 ||casino-moonwin.org^
 ||casino-moonwin.uk^
 ||casino-moose-jaw.com^
-||casino-moosejaw.ca^
 ||casino-morebonus.com^
 ||casino-moro-spin-at.pages.dev^
 ||casino-moro-spin.at^
@@ -139374,7 +139372,6 @@
 ||casino-villa.com^
 ||casino-villarddelans.com^
 ||casino-ville.com^
-||casino-villento.co.uk^
 ||casino-villento.com^
 ||casino-villers-sur-mer.com^
 ||casino-villers-sur-mer.fr^
@@ -139813,7 +139810,6 @@
 ||casino-win-beatz.pages.dev^
 ||casino-win-bet-nl-nl-373.pages.dev^
 ||casino-win-bet-nl.nl^
-||casino-win-gram.games^
 ||casino-win-hero.nl^
 ||casino-win-kingdom-app.pages.dev^
 ||casino-win-kingdom-casino-france.pages.dev^
@@ -323305,7 +323301,6 @@
 ||kinggame-casino.org^
 ||kinggame-onlinecasino.com^
 ||kinggamecasino.info^
-||kinggamecasinologin.com^
 ||kinggameslotapp.com^
 ||kinggamesslots.com^
 ||kinggamevip.org^
@@ -405434,7 +405429,6 @@
 ||neonwin-odds.top^
 ||neonwin-poker.top^
 ||neonwin-progressive.top^
-||neonwin-quads.top^
 ||neonwin-raise.top^
 ||neonwin-roulette.top^
 ||neonwin-split.top^
@@ -405442,7 +405436,6 @@
 ||neonwin-stand.top^
 ||neonwin-tell.top^
 ||neonwin-underdog.top^
-||neonwin-victory.top^
 ||neonwin-vip.top^
 ||neonwin-wager.top^
 ||neonwin-whale.top^
@@ -405465,7 +405458,6 @@
 ||neonwincasinos.com^
 ||neonwincasinos.top^
 ||neonwincasinoz.com^
-||neonwincasinoz.top^
 ||neonwincazinos.com^
 ||neonwincazinos.top^
 ||neonwincazinoz.top^
@@ -406147,7 +406139,6 @@
 ||nesinecasinoclub.icu^
 ||nesinecasinogirislerimiz.cam^
 ||nesinecasinoglive.icu^
-||nessinecasinogiris.com^
 ||nestasportsbetting.com^
 ||nestor-motel.pl^
 ||net-bahis-giris81.icu^
@@ -411942,7 +411933,6 @@
 ||nl-zonder-cruks-casino-com-6894607a.pages.dev^
 ||nl1-amonbet.com^
 ||nl52--casinolab.com^
-||nl81--casinolab.com^
 ||nlbestcasino.com^
 ||nlbestcasinos.com^
 ||nlbetninja.nl^
@@ -422847,7 +422837,6 @@
 ||olivercasino-it.it^
 ||olivercasino.at^
 ||olivercasino.co.at^
-||olivercasino.com^
 ||olivercasino.cz^
 ||olivercasino.es^
 ||olivercasino.fi^
@@ -428396,7 +428385,6 @@
 ||onlinecasinopaysafenl.com^
 ||onlinecasinopc.com^
 ||onlinecasinophilippines.co.com^
-||onlinecasinophilippines.net^
 ||onlinecasinophilippines.ph^
 ||onlinecasinopirate.com^
 ||onlinecasinopiraten.com^
@@ -648195,7 +648183,6 @@
 ||xenacasino.net^
 ||xenacasino2.gr^
 ||xenacasino24.com^
-||xenacasinoonline.gr^
 ||xenacazino.gr.com^
 ||xenadiadiktyakakazino.gr^
 ||xenagreececasino.gr.com^
