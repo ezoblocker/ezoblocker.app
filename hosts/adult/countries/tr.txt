@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 514 | Updated: 2026-11-11
+# Domains: 496 | Updated: 2026-11-11
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,7 +14,6 @@
 0.0.0.0 31vaktixc6.cyou
 0.0.0.0 31vaktixc6.lat
 0.0.0.0 31vktialtyazili.cyou
-0.0.0.0 31vktipornoalt.shop
 0.0.0.0 31vqkticx13.click
 0.0.0.0 31vqkticx14.click
 0.0.0.0 31vqkticx16.cfd
@@ -152,7 +151,6 @@
 0.0.0.0 eromega.com
 0.0.0.0 eros.hr
 0.0.0.0 erotikfilmizle.to
-0.0.0.0 erotikle3.lat
 0.0.0.0 erotikmagazam.com
 0.0.0.0 erotikshop.com.tr
 0.0.0.0 erotikshopankara.org
@@ -162,8 +160,6 @@
 0.0.0.0 escortbursam.com
 0.0.0.0 escortgirls-bern.com
 0.0.0.0 escortizmirkiz.info
-0.0.0.0 escortlar253.xyz
-0.0.0.0 escortlar425.xyz
 0.0.0.0 escortlar69.xyz
 0.0.0.0 escortnews.com
 0.0.0.0 escortnews.info
@@ -184,6 +180,7 @@
 0.0.0.0 fethiyeescorts1.site
 0.0.0.0 filmkuzusu.vip
 0.0.0.0 foms.skamil.pl
+0.0.0.0 fullerotiksite5.blog
 0.0.0.0 fullerotiksite6.blog
 0.0.0.0 gaziantepbayanescort.com
 0.0.0.0 gaziantepbayanlar.com
@@ -310,34 +307,22 @@
 0.0.0.0 pavla.guru
 0.0.0.0 pendikseksshop.com
 0.0.0.0 pht64mnpy-object-data.nettoyagereunion.re
-0.0.0.0 platinumshowgirls.com
 0.0.0.0 pleasurebetter.com
 0.0.0.0 pompatube45.pw
 0.0.0.0 porn80xa.lat
-0.0.0.0 porn80xb.cyou
-0.0.0.0 porn80xv.click
 0.0.0.0 pornabby.lol
 0.0.0.0 pornfilmcx17.click
 0.0.0.0 porno31hc.cyou
 0.0.0.0 porno31hd.cfd
 0.0.0.0 porno80cc.site
-0.0.0.0 porno80cj.site
-0.0.0.0 porno80ck.site
-0.0.0.0 porno80cl.site
 0.0.0.0 porno80cm.site
 0.0.0.0 porno80cn.site
 0.0.0.0 porno80cv.site
 0.0.0.0 porno900.click
 0.0.0.0 pornobat.life
-0.0.0.0 pornocu15.online
 0.0.0.0 pornocu15.shop
-0.0.0.0 pornocu15.site
 0.0.0.0 pornocu16.site
-0.0.0.0 pornocudayi43.com
 0.0.0.0 pornocudayi50.com
-0.0.0.0 pornocudayi56.com
-0.0.0.0 pornocudayi60.com
-0.0.0.0 pornocudayi64.com
 0.0.0.0 pornocukkk.com
 0.0.0.0 pornodoeda45.shop
 0.0.0.0 pornodoeda45.site
@@ -345,14 +330,11 @@
 0.0.0.0 pornoholly4.best
 0.0.0.0 pornoiz18.shop
 0.0.0.0 pornoizlehane.com
-0.0.0.0 pornokase12.click
-0.0.0.0 pornokase15.site
-0.0.0.0 pornokase17.site
+0.0.0.0 pornojan1.skin
 0.0.0.0 pornokase18.click
 0.0.0.0 pornolara4.blog
 0.0.0.0 pornoliana1.skin
 0.0.0.0 pornolou.skin
-0.0.0.0 pornovadi5.cyou
 0.0.0.0 pornozaz86.online
 0.0.0.0 pornozaz86.site
 0.0.0.0 pornozaz87.shop

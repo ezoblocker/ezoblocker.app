@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Security
-! Domains: 92,854 | Updated: 2026-11-11
+! Domains: 92,853 | Updated: 2026-11-11
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -3804,7 +3804,6 @@
 ||apple-localizar.info^
 ||apple-locates.help^
 ||apple-locating.help^
-||apple-location-device.com^
 ||apple-location.app^
 ||apple-location.co^
 ||apple-location.help^
@@ -4942,7 +4941,6 @@
 ||auric-hub.pages.dev^
 ||aurvenixt-click.pages.dev^
 ||aurvenixtplateforme-click.pages.dev^
-||aus-officialcentrelink-service.icu^
 ||auspost-custom-delivery.ph^
 ||aut-trezor-io-start.pages.dev^
 ||autconnn.workers.dev^
@@ -7170,6 +7168,7 @@
 ||bin-trezor-io-start.pages.dev^
 ||bin-trezorr-bridge.pages.dev^
 ||binance-17g.pages.dev^
+||binance-absa-signin.ph^
 ||binance-academy.pages.dev^
 ||binance-ai-click.pages.dev^
 ||binance-airdrop-2p2.pages.dev^
@@ -7207,7 +7206,6 @@
 ||binance-secure.pages.dev^
 ||binance-security.pages.dev^
 ||binance-si.com.cn^
-||binance-signin.com^
 ||binance-signup-guide.pages.dev^
 ||binance-site.hl.cn^
 ||binance-site.pages.dev^
@@ -7907,7 +7905,6 @@
 ||bonusparavoce.online^
 ||boogierobloxid.pages.dev^
 ||book-iostarttrez.pages.dev^
-||book-whatsapp.com.cn^
 ||booking-com-contact-number-uk.pages.dev^
 ||booking-com-italy-milano-grand-visconti-palace-mi.pages.dev^
 ||booking-com-italy-milano-grand-visconti-palace.pages.dev^
@@ -13765,7 +13762,6 @@
 ||confirm-grailed.com^
 |confirm-second-reader.lab.bankai.studio^
 |confirm-your-paypal-account.trainkook.com^
-||confirmation-advanced-reser91530842.com^
 ||confirmation-basic-package.info^
 ||confirmation-coinbase.com^
 |confirmation-id.buisakiesa.workers.dev^
@@ -15347,7 +15343,6 @@
 ||derixo-biz-quanty-28126.pages.dev^
 ||des-ktop-live-ledgrr.pages.dev^
 ||desbloqueiodemercadolivre-com-br.pages.dev^
-||desbloqueiodemercadolivre.com.br^
 ||desck-top-ledgr.pages.dev^
 ||descover--io--start--trasure.pages.dev^
 ||descover--live--desktop.pages.dev^
@@ -18213,7 +18208,6 @@
 ||egen-layer.pages.dev^
 ||egenlayer.pages.dev^
 ||egexodus-wallet.pages.dev^
-||egov-auservices-centrelink.top^
 ||egyptpostcs.cc^
 ||egyptpostxo.cc^
 ||ehp-tiktok-uk-dashboard.pages.dev^
@@ -23650,6 +23644,7 @@
 ||facebook--login-verification-email.ph^
 ||facebook--login-warning.ph^
 ||facebook--page-admin-alert.ph^
+||facebook--profile-verification.ph^
 ||facebook--security-confirmation-now.ph^
 ||facebook--security-immediate-verify.ph^
 ||facebook--security-warning-login.ph^
@@ -23660,6 +23655,7 @@
 ||facebook--send-account-locked.ph^
 ||facebook--signup-confirm-brf.ph^
 ||facebook--signup-confirm-eid.ph^
+||facebook--signup-confirm-exb.ph^
 ||facebook--signup-confirm-fmb.ph^
 ||facebook--signup-confirm-gbf.ph^
 ||facebook--signup-confirm-glc.ph^
@@ -23714,6 +23710,8 @@
 ||facebook--status-account-locked-unblock-now-link.ph^
 ||facebook--status-account-lockedout-error-check-blocked-delete.ph^
 ||facebook--status-account-lockedout-support2.ph^
+||facebook--status-account-timeout-warning.ph^
+||facebook--status-account-warning-issued.ph^
 ||facebook--verification-request.ph^
 ||facebook-1tq.pages.dev^
 ||facebook-5bq.pages.dev^
@@ -23760,6 +23758,7 @@
 ||facebook-costumizable-blocked.ph^
 ||facebook-costumizable-warning-26.ph^
 ||facebook-costumizable-warning-30.ph^
+||facebook-countdown-claim-now.ph^
 ||facebook-countdown-claim-quickly.ph^
 ||facebook-countdown-gift-now.ph^
 ||facebook-countdown-reward-now.ph^
@@ -23835,6 +23834,7 @@
 ||facebook-recovery-account58-tw.ph^
 ||facebook-recovery-account70-tw.ph^
 ||facebook-scam-alert-password.ph^
+||facebook-security-login-im-account-recovery.ph^
 ||facebook-security-login-im-wizards-watch-alert.ph^
 ||facebook-security-password-change-support.ph^
 ||facebook-security-password-recovery.ph^
@@ -25464,7 +25464,6 @@
 ||flxedfloat.pages.dev^
 ||flxedfloat.us^
 ||flyingtulip-allocation.live^
-||fmc-technologeis.com^
 ||fmiapple.center^
 ||fnaf1kantarobloxid2021.pages.dev^
 ||fnafrobloximage.pages.dev^
@@ -27617,6 +27616,7 @@
 ||group-whatsapp-join-sa.pages.dev^
 ||group-whatsappfree.pages.dev^
 ||group-whtsapp-for-booking-xx.pages.dev^
+||groupes-telegram-sexe.fun^
 ||groupwhatsapp-freexxx.pages.dev^
 ||groupwhatsapp-sexxx18-date.pages.dev^
 ||groupwhatsapp-xxx18-date.pages.dev^
@@ -30174,7 +30174,6 @@
 ||hk-whatsaspp-zsu.hk.cn^
 ||hkim-whatapp.hl.cn^
 ||hktelegram.asia^
-||hktelegram.vip^
 ||hkwhatsapp.eu.cc^
 ||hl-letsvpn.com.cn^
 ||hlp--desktop-ledgr.pages.dev^
@@ -33657,7 +33656,6 @@
 ||icloud-login-metrobank.com.ph^
 ||icloud-login.help^
 ||icloud-login.online^
-||icloud-login.org^
 ||icloud-login.pages.dev^
 ||icloud-login.ph^
 ||icloud-logina.ph^
@@ -34629,6 +34627,7 @@
 ||instagram-recover.pages.dev^
 ||instagram-recovery-expert-access.ph^
 ||instagram-recovery-help.ph^
+||instagram-recovery-helpdesk-main.ph^
 ||instagram-reset-recovery.ph^
 ||instagram-secure-access.ph^
 ||instagram-security-login-im-problem.ph^
@@ -38998,6 +38997,7 @@
 ||krecon-logiin-cloud-en.pages.dev^
 ||krecon-logiin-cloud.pages.dev^
 ||kredi-ingbank.ph^
+||kredimvodafone.ph^
 ||kreken-login-us.pages.dev^
 ||krekexx-loginz-us.pages.dev^
 ||kreknn-login.pages.dev^
@@ -48446,7 +48446,6 @@
 ||live-app-enledgr.pages.dev^
 ||live-app-ledger-en.pages.dev^
 ||live-app-ledger.pages.dev^
-||live-appleid.info^
 ||live-apps-ledgrio.pages.dev^
 ||live-auth-ledger.pages.dev^
 ||live-auth-ledgr.pages.dev^
@@ -51073,6 +51072,7 @@
 |login.linkedin.com-verification.link^
 |login.microsftonline.kfca-sa.com^
 |login.microsoftonline-sharepoint.zelvantaaa.world^
+|login.robinhood4good.online^
 |login.samsung-mobile.it^
 |login.secure.microsoftonlline.officexyv.work^
 |login.sharepoint-auth-50e.workers.dev^
@@ -55174,7 +55174,6 @@
 ||mscf-avvs-onilnee.workers.dev^
 ||mscluods-loginmlcrosoftoonlineauth.pages.dev^
 ||msg-app-whatsapp.com.cn^
-||msg-whatapps-web.com.cn^
 ||msgrenawayonlyfans.pages.dev^
 ||msklog.top^
 ||mso-24x7-support-help-centre.pages.dev^
@@ -56674,6 +56673,7 @@
 ||netflix-comments.pages.dev^
 ||netflix-cq1.pages.dev^
 ||netflix-cs5.pages.dev^
+||netflix-customer-activation-logon-verify.ph^
 ||netflix-device-support.ph^
 ||netflix-ehb.pages.dev^
 ||netflix-family-affair.pages.dev^
@@ -56790,7 +56790,6 @@
 |netflixhom-secur.5997.workers.dev^
 ||netflixing-hdtv.pages.dev^
 ||netflixlp.pages.dev^
-||netflixlux.com^
 ||netflixmagyarorszag.com^
 ||netflixmianfeikmjwz-96o.pages.dev^
 ||netflixmianfeikmjwz.pages.dev^
@@ -61151,6 +61150,7 @@
 ||paypal-i1yjl5iym4nq4ag.pages.dev^
 ||paypal-invoices.pages.dev^
 ||paypal-ivxnbq2g775j090.pages.dev^
+||paypal-konto-sicherheit.com^
 ||paypal-kyrjj8h9k6349z9.pages.dev^
 ||paypal-l3ko8wax6h61tc3.pages.dev^
 ||paypal-l638kmnrmajuonp.pages.dev^
@@ -62714,6 +62714,7 @@
 ||professional-trezro-io.pages.dev^
 |profile-activation.xfinity-bill.workers.dev^
 ||profile-meta-msk-login.pages.dev^
+||profile-recover-ledger.com^
 ||prog-ledgelive.pages.dev^
 ||prog-trezoiostart.pages.dev^
 ||prog-trezosuitedownload.pages.dev^
@@ -63787,7 +63788,6 @@
 ||raiffeisen-alahli-cibeg.ph^
 ||raiffeisen-mein-login.com^
 ||railgunrobloxid.pages.dev^
-||rain-whatsapp.com.cn^
 ||rakbank-dqirl.icu^
 ||rakbnkemiratesicloudauthenticate0.pages.dev^
 ||rakbnkemiratespostappleauth0.pages.dev^
@@ -66841,7 +66841,6 @@
 ||signinsamsungkey.com^
 ||signintrack-zerion.pages.dev^
 ||signinvodacomph.ph^
-||signinwith-microsoft.sbs^
 ||signn--coin-base.pages.dev^
 ||signn-coin-base.pages.dev^
 ||signnincoinbse-us.pages.dev^
@@ -75203,7 +75202,6 @@
 ||switchdexair-ark-com.pages.dev^
 ||switchdexairark.pro^
 ||switchlotemax-shop.pages.dev^
-||swwcrvu-russiandiplomrussiandiplomrussiandiplom-russiandiplom1.click^
 ||sxv-w-hatsapp.hl.cn^
 ||sxw-whatsapp.com.cn^
 ||sxwhatsapp.com^
@@ -75218,7 +75216,6 @@
 ||sync-hub-trezr-io.pages.dev^
 ||sync-hub-trezr.pages.dev^
 ||sync-hub-trezur.pages.dev^
-||sync-officialcentrelink-service.icu^
 ||sync-trez-bridge.pages.dev^
 ||sync-trezo-faq-start.pages.dev^
 ||sync-trezo-io.pages.dev^
@@ -75816,6 +75813,7 @@
 ||telegran.top^
 ||telegrmx.pages.dev^
 ||telegroxxs.luxe^
+||telegrrram.com^
 ||telegrrram.pages.dev^
 ||telegxxsab.bond^
 ||telegxxsab.cyou^
@@ -76428,6 +76426,7 @@
 ||tokenpoketvip-dist-kr91.lol^
 ||tokenpoketvip-gw-de0.lol^
 ||tokenpoketvipi-dist-de4.lol^
+||tokenpoketx-cdn-hk07.xyz^
 ||tokenpoketzone31-cdn-hk89.cfd^
 ||tokensale-worldlibertyfinancial.pages.dev^
 ||tokenzoomweb.com^

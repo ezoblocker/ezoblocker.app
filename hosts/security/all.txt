@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 92,854 | Updated: 2026-11-11
+# Domains: 92,853 | Updated: 2026-11-11
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -3804,7 +3804,6 @@
 0.0.0.0 apple-localizar.info
 0.0.0.0 apple-locates.help
 0.0.0.0 apple-locating.help
-0.0.0.0 apple-location-device.com
 0.0.0.0 apple-location.app
 0.0.0.0 apple-location.co
 0.0.0.0 apple-location.help
@@ -4942,7 +4941,6 @@
 0.0.0.0 auric-hub.pages.dev
 0.0.0.0 aurvenixt-click.pages.dev
 0.0.0.0 aurvenixtplateforme-click.pages.dev
-0.0.0.0 aus-officialcentrelink-service.icu
 0.0.0.0 auspost-custom-delivery.ph
 0.0.0.0 aut-trezor-io-start.pages.dev
 0.0.0.0 autconnn.workers.dev
@@ -7170,6 +7168,7 @@
 0.0.0.0 bin-trezor-io-start.pages.dev
 0.0.0.0 bin-trezorr-bridge.pages.dev
 0.0.0.0 binance-17g.pages.dev
+0.0.0.0 binance-absa-signin.ph
 0.0.0.0 binance-academy.pages.dev
 0.0.0.0 binance-ai-click.pages.dev
 0.0.0.0 binance-airdrop-2p2.pages.dev
@@ -7207,7 +7206,6 @@
 0.0.0.0 binance-secure.pages.dev
 0.0.0.0 binance-security.pages.dev
 0.0.0.0 binance-si.com.cn
-0.0.0.0 binance-signin.com
 0.0.0.0 binance-signup-guide.pages.dev
 0.0.0.0 binance-site.hl.cn
 0.0.0.0 binance-site.pages.dev
@@ -7907,7 +7905,6 @@
 0.0.0.0 bonusparavoce.online
 0.0.0.0 boogierobloxid.pages.dev
 0.0.0.0 book-iostarttrez.pages.dev
-0.0.0.0 book-whatsapp.com.cn
 0.0.0.0 booking-com-contact-number-uk.pages.dev
 0.0.0.0 booking-com-italy-milano-grand-visconti-palace-mi.pages.dev
 0.0.0.0 booking-com-italy-milano-grand-visconti-palace.pages.dev
@@ -13765,7 +13762,6 @@
 0.0.0.0 confirm-grailed.com
 0.0.0.0 confirm-second-reader.lab.bankai.studio
 0.0.0.0 confirm-your-paypal-account.trainkook.com
-0.0.0.0 confirmation-advanced-reser91530842.com
 0.0.0.0 confirmation-basic-package.info
 0.0.0.0 confirmation-coinbase.com
 0.0.0.0 confirmation-id.buisakiesa.workers.dev
@@ -15347,7 +15343,6 @@
 0.0.0.0 derixo-biz-quanty-28126.pages.dev
 0.0.0.0 des-ktop-live-ledgrr.pages.dev
 0.0.0.0 desbloqueiodemercadolivre-com-br.pages.dev
-0.0.0.0 desbloqueiodemercadolivre.com.br
 0.0.0.0 desck-top-ledgr.pages.dev
 0.0.0.0 descover--io--start--trasure.pages.dev
 0.0.0.0 descover--live--desktop.pages.dev
@@ -18213,7 +18208,6 @@
 0.0.0.0 egen-layer.pages.dev
 0.0.0.0 egenlayer.pages.dev
 0.0.0.0 egexodus-wallet.pages.dev
-0.0.0.0 egov-auservices-centrelink.top
 0.0.0.0 egyptpostcs.cc
 0.0.0.0 egyptpostxo.cc
 0.0.0.0 ehp-tiktok-uk-dashboard.pages.dev
@@ -23650,6 +23644,7 @@
 0.0.0.0 facebook--login-verification-email.ph
 0.0.0.0 facebook--login-warning.ph
 0.0.0.0 facebook--page-admin-alert.ph
+0.0.0.0 facebook--profile-verification.ph
 0.0.0.0 facebook--security-confirmation-now.ph
 0.0.0.0 facebook--security-immediate-verify.ph
 0.0.0.0 facebook--security-warning-login.ph
@@ -23660,6 +23655,7 @@
 0.0.0.0 facebook--send-account-locked.ph
 0.0.0.0 facebook--signup-confirm-brf.ph
 0.0.0.0 facebook--signup-confirm-eid.ph
+0.0.0.0 facebook--signup-confirm-exb.ph
 0.0.0.0 facebook--signup-confirm-fmb.ph
 0.0.0.0 facebook--signup-confirm-gbf.ph
 0.0.0.0 facebook--signup-confirm-glc.ph
@@ -23714,6 +23710,8 @@
 0.0.0.0 facebook--status-account-locked-unblock-now-link.ph
 0.0.0.0 facebook--status-account-lockedout-error-check-blocked-delete.ph
 0.0.0.0 facebook--status-account-lockedout-support2.ph
+0.0.0.0 facebook--status-account-timeout-warning.ph
+0.0.0.0 facebook--status-account-warning-issued.ph
 0.0.0.0 facebook--verification-request.ph
 0.0.0.0 facebook-1tq.pages.dev
 0.0.0.0 facebook-5bq.pages.dev
@@ -23760,6 +23758,7 @@
 0.0.0.0 facebook-costumizable-blocked.ph
 0.0.0.0 facebook-costumizable-warning-26.ph
 0.0.0.0 facebook-costumizable-warning-30.ph
+0.0.0.0 facebook-countdown-claim-now.ph
 0.0.0.0 facebook-countdown-claim-quickly.ph
 0.0.0.0 facebook-countdown-gift-now.ph
 0.0.0.0 facebook-countdown-reward-now.ph
@@ -23835,6 +23834,7 @@
 0.0.0.0 facebook-recovery-account58-tw.ph
 0.0.0.0 facebook-recovery-account70-tw.ph
 0.0.0.0 facebook-scam-alert-password.ph
+0.0.0.0 facebook-security-login-im-account-recovery.ph
 0.0.0.0 facebook-security-login-im-wizards-watch-alert.ph
 0.0.0.0 facebook-security-password-change-support.ph
 0.0.0.0 facebook-security-password-recovery.ph
@@ -25464,7 +25464,6 @@
 0.0.0.0 flxedfloat.pages.dev
 0.0.0.0 flxedfloat.us
 0.0.0.0 flyingtulip-allocation.live
-0.0.0.0 fmc-technologeis.com
 0.0.0.0 fmiapple.center
 0.0.0.0 fnaf1kantarobloxid2021.pages.dev
 0.0.0.0 fnafrobloximage.pages.dev
@@ -27617,6 +27616,7 @@
 0.0.0.0 group-whatsapp-join-sa.pages.dev
 0.0.0.0 group-whatsappfree.pages.dev
 0.0.0.0 group-whtsapp-for-booking-xx.pages.dev
+0.0.0.0 groupes-telegram-sexe.fun
 0.0.0.0 groupwhatsapp-freexxx.pages.dev
 0.0.0.0 groupwhatsapp-sexxx18-date.pages.dev
 0.0.0.0 groupwhatsapp-xxx18-date.pages.dev
@@ -30174,7 +30174,6 @@
 0.0.0.0 hk-whatsaspp-zsu.hk.cn
 0.0.0.0 hkim-whatapp.hl.cn
 0.0.0.0 hktelegram.asia
-0.0.0.0 hktelegram.vip
 0.0.0.0 hkwhatsapp.eu.cc
 0.0.0.0 hl-letsvpn.com.cn
 0.0.0.0 hlp--desktop-ledgr.pages.dev
@@ -33657,7 +33656,6 @@
 0.0.0.0 icloud-login-metrobank.com.ph
 0.0.0.0 icloud-login.help
 0.0.0.0 icloud-login.online
-0.0.0.0 icloud-login.org
 0.0.0.0 icloud-login.pages.dev
 0.0.0.0 icloud-login.ph
 0.0.0.0 icloud-logina.ph
@@ -34629,6 +34627,7 @@
 0.0.0.0 instagram-recover.pages.dev
 0.0.0.0 instagram-recovery-expert-access.ph
 0.0.0.0 instagram-recovery-help.ph
+0.0.0.0 instagram-recovery-helpdesk-main.ph
 0.0.0.0 instagram-reset-recovery.ph
 0.0.0.0 instagram-secure-access.ph
 0.0.0.0 instagram-security-login-im-problem.ph
@@ -38998,6 +38997,7 @@
 0.0.0.0 krecon-logiin-cloud-en.pages.dev
 0.0.0.0 krecon-logiin-cloud.pages.dev
 0.0.0.0 kredi-ingbank.ph
+0.0.0.0 kredimvodafone.ph
 0.0.0.0 kreken-login-us.pages.dev
 0.0.0.0 krekexx-loginz-us.pages.dev
 0.0.0.0 kreknn-login.pages.dev
@@ -48446,7 +48446,6 @@
 0.0.0.0 live-app-enledgr.pages.dev
 0.0.0.0 live-app-ledger-en.pages.dev
 0.0.0.0 live-app-ledger.pages.dev
-0.0.0.0 live-appleid.info
 0.0.0.0 live-apps-ledgrio.pages.dev
 0.0.0.0 live-auth-ledger.pages.dev
 0.0.0.0 live-auth-ledgr.pages.dev
@@ -51073,6 +51072,7 @@
 0.0.0.0 login.linkedin.com-verification.link
 0.0.0.0 login.microsftonline.kfca-sa.com
 0.0.0.0 login.microsoftonline-sharepoint.zelvantaaa.world
+0.0.0.0 login.robinhood4good.online
 0.0.0.0 login.samsung-mobile.it
 0.0.0.0 login.secure.microsoftonlline.officexyv.work
 0.0.0.0 login.sharepoint-auth-50e.workers.dev
@@ -55174,7 +55174,6 @@
 0.0.0.0 mscf-avvs-onilnee.workers.dev
 0.0.0.0 mscluods-loginmlcrosoftoonlineauth.pages.dev
 0.0.0.0 msg-app-whatsapp.com.cn
-0.0.0.0 msg-whatapps-web.com.cn
 0.0.0.0 msgrenawayonlyfans.pages.dev
 0.0.0.0 msklog.top
 0.0.0.0 mso-24x7-support-help-centre.pages.dev
@@ -56674,6 +56673,7 @@
 0.0.0.0 netflix-comments.pages.dev
 0.0.0.0 netflix-cq1.pages.dev
 0.0.0.0 netflix-cs5.pages.dev
+0.0.0.0 netflix-customer-activation-logon-verify.ph
 0.0.0.0 netflix-device-support.ph
 0.0.0.0 netflix-ehb.pages.dev
 0.0.0.0 netflix-family-affair.pages.dev
@@ -56790,7 +56790,6 @@
 0.0.0.0 netflixhom-secur.5997.workers.dev
 0.0.0.0 netflixing-hdtv.pages.dev
 0.0.0.0 netflixlp.pages.dev
-0.0.0.0 netflixlux.com
 0.0.0.0 netflixmagyarorszag.com
 0.0.0.0 netflixmianfeikmjwz-96o.pages.dev
 0.0.0.0 netflixmianfeikmjwz.pages.dev
@@ -61151,6 +61150,7 @@
 0.0.0.0 paypal-i1yjl5iym4nq4ag.pages.dev
 0.0.0.0 paypal-invoices.pages.dev
 0.0.0.0 paypal-ivxnbq2g775j090.pages.dev
+0.0.0.0 paypal-konto-sicherheit.com
 0.0.0.0 paypal-kyrjj8h9k6349z9.pages.dev
 0.0.0.0 paypal-l3ko8wax6h61tc3.pages.dev
 0.0.0.0 paypal-l638kmnrmajuonp.pages.dev
@@ -62714,6 +62714,7 @@
 0.0.0.0 professional-trezro-io.pages.dev
 0.0.0.0 profile-activation.xfinity-bill.workers.dev
 0.0.0.0 profile-meta-msk-login.pages.dev
+0.0.0.0 profile-recover-ledger.com
 0.0.0.0 prog-ledgelive.pages.dev
 0.0.0.0 prog-trezoiostart.pages.dev
 0.0.0.0 prog-trezosuitedownload.pages.dev
@@ -63787,7 +63788,6 @@
 0.0.0.0 raiffeisen-alahli-cibeg.ph
 0.0.0.0 raiffeisen-mein-login.com
 0.0.0.0 railgunrobloxid.pages.dev
-0.0.0.0 rain-whatsapp.com.cn
 0.0.0.0 rakbank-dqirl.icu
 0.0.0.0 rakbnkemiratesicloudauthenticate0.pages.dev
 0.0.0.0 rakbnkemiratespostappleauth0.pages.dev
@@ -66841,7 +66841,6 @@
 0.0.0.0 signinsamsungkey.com
 0.0.0.0 signintrack-zerion.pages.dev
 0.0.0.0 signinvodacomph.ph
-0.0.0.0 signinwith-microsoft.sbs
 0.0.0.0 signn--coin-base.pages.dev
 0.0.0.0 signn-coin-base.pages.dev
 0.0.0.0 signnincoinbse-us.pages.dev
@@ -75203,7 +75202,6 @@
 0.0.0.0 switchdexair-ark-com.pages.dev
 0.0.0.0 switchdexairark.pro
 0.0.0.0 switchlotemax-shop.pages.dev
-0.0.0.0 swwcrvu-russiandiplomrussiandiplomrussiandiplom-russiandiplom1.click
 0.0.0.0 sxv-w-hatsapp.hl.cn
 0.0.0.0 sxw-whatsapp.com.cn
 0.0.0.0 sxwhatsapp.com
@@ -75218,7 +75216,6 @@
 0.0.0.0 sync-hub-trezr-io.pages.dev
 0.0.0.0 sync-hub-trezr.pages.dev
 0.0.0.0 sync-hub-trezur.pages.dev
-0.0.0.0 sync-officialcentrelink-service.icu
 0.0.0.0 sync-trez-bridge.pages.dev
 0.0.0.0 sync-trezo-faq-start.pages.dev
 0.0.0.0 sync-trezo-io.pages.dev
@@ -75816,6 +75813,7 @@
 0.0.0.0 telegran.top
 0.0.0.0 telegrmx.pages.dev
 0.0.0.0 telegroxxs.luxe
+0.0.0.0 telegrrram.com
 0.0.0.0 telegrrram.pages.dev
 0.0.0.0 telegxxsab.bond
 0.0.0.0 telegxxsab.cyou
@@ -76428,6 +76426,7 @@
 0.0.0.0 tokenpoketvip-dist-kr91.lol
 0.0.0.0 tokenpoketvip-gw-de0.lol
 0.0.0.0 tokenpoketvipi-dist-de4.lol
+0.0.0.0 tokenpoketx-cdn-hk07.xyz
 0.0.0.0 tokenpoketzone31-cdn-hk89.cfd
 0.0.0.0 tokensale-worldlibertyfinancial.pages.dev
 0.0.0.0 tokenzoomweb.com

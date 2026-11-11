@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Vietnam (vn)
-# Domains: 154 | Updated: 2026-11-11
+# Domains: 137 | Updated: 2026-11-11
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -33,7 +33,6 @@
 0.0.0.0 clipphot69.xyz
 0.0.0.0 clipvip.blog
 0.0.0.0 cophimsexhay.com
-0.0.0.0 cophimsexviet.com
 0.0.0.0 cumshopsextoy.com
 0.0.0.0 dochoinam.com
 0.0.0.0 dochoitinhduc4u.com
@@ -44,7 +43,6 @@
 0.0.0.0 foxietoy.com
 0.0.0.0 gunshop.vn
 0.0.0.0 hangngon.blog
-0.0.0.0 haysex.wtf
 0.0.0.0 heo3x.pro
 0.0.0.0 htvc.com.vn
 0.0.0.0 i.clipviet.blog
@@ -67,7 +65,6 @@
 0.0.0.0 nam18.vn
 0.0.0.0 nuhoangkhoaicam.vn
 0.0.0.0 oichin.net
-0.0.0.0 phaixemsex1.online
 0.0.0.0 phe69.forum
 0.0.0.0 phe69.today
 0.0.0.0 phevkl.dog
@@ -75,31 +72,20 @@
 0.0.0.0 phimmupx.blog
 0.0.0.0 phimnhe.tv
 0.0.0.0 phimnong.net
-0.0.0.0 phimsexaz.net
 0.0.0.0 phimsexhaychon.com
 0.0.0.0 phimsexhaylu.com
 0.0.0.0 phimsexhaynon.com
 0.0.0.0 phimsexhayxinh.com
-0.0.0.0 phimsexhayz.net
-0.0.0.0 phimsexme.com
 0.0.0.0 phimsexmoi.cc
-0.0.0.0 phimsextapthe.net
 0.0.0.0 phimsextapthe69.com
-0.0.0.0 phimsexviet128.com
-0.0.0.0 phimsexvietnon.com
 0.0.0.0 phimsexvietsubx.blog
-0.0.0.0 phimsexvietxinh.com
-0.0.0.0 phimsexvn22.com
 0.0.0.0 phimsub.blog
 0.0.0.0 qmhsexhd.com
 0.0.0.0 qmhsexza.net
-0.0.0.0 qmhsexzg.com
 0.0.0.0 rungrung.vn
 0.0.0.0 s1.sexheo.blog
 0.0.0.0 santasheaven.ch
 0.0.0.0 setishop.com
-0.0.0.0 sex88.blog
-0.0.0.0 sexchinavn.blog
 0.0.0.0 sexhayvc.tv
 0.0.0.0 sexhotviet.com
 0.0.0.0 sexngot.blog
@@ -116,7 +102,6 @@
 0.0.0.0 sexvietclub.com
 0.0.0.0 sexvietdam.blog
 0.0.0.0 sexvn88hd.blog
-0.0.0.0 sexvnme.com
 0.0.0.0 sexvnn-tv.blog
 0.0.0.0 shop18cm.com
 0.0.0.0 shopadam.vn
@@ -136,7 +121,6 @@
 0.0.0.0 snapshop.vn
 0.0.0.0 sphimsex.net
 0.0.0.0 tmscsp.scoripfragin.blog
-0.0.0.0 top1sexvn.com
 0.0.0.0 trungdochoi.com
 0.0.0.0 viet69.be
 0.0.0.0 viet69hays.live
@@ -145,7 +129,6 @@
 0.0.0.0 vietsexx.blog
 0.0.0.0 vintoy.vn
 0.0.0.0 viwaphd.blog
-0.0.0.0 vnsextop1.pro
 0.0.0.0 vntoy.vn
 0.0.0.0 xamvn18.blog
 0.0.0.0 xemsexvnonline.net
