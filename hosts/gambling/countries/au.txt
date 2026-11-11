@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Australia (au)
-# Domains: 40 | Updated: 2026-11-10
+# Domains: 48 | Updated: 2026-11-11
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/au.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,21 +12,27 @@
 0.0.0.0 bettacasinos.com
 0.0.0.0 bitstarzmirrors.com
 0.0.0.0 casino-max-online-casino-fre.adelaidebeanbags.com.au
+0.0.0.0 centralfloridatop5.com
 0.0.0.0 cherrygold-online.com
 0.0.0.0 cherrygold.it
 0.0.0.0 clintonandco.co.uk
+0.0.0.0 consciouscompanymedia.com
+0.0.0.0 espers.io
 0.0.0.0 fairgo-casinoaus.com
 0.0.0.0 fairgocasinoaus.com
 0.0.0.0 fairgocasinoreviews.com
 0.0.0.0 greenwingaudio.com
 0.0.0.0 joefortune.co.nz
 0.0.0.0 joefortuneonlinepokies.club
+0.0.0.0 laccrc2021.org
 0.0.0.0 nodepositau.com
 0.0.0.0 nodepositfriend.org
 0.0.0.0 nominimumdeposit-casinos-uk.com
 0.0.0.0 officialtrevorjackson.com
 0.0.0.0 onlinepokies.com.au
+0.0.0.0 outbackluck.com
 0.0.0.0 ozwincasino.website
+0.0.0.0 pluralofyou.org
 0.0.0.0 pokiespro.com
 0.0.0.0 prism-casino.ca
 0.0.0.0 prismcasino7.com
@@ -36,10 +42,12 @@
 0.0.0.0 redstagcasino-au.net
 0.0.0.0 redstagscasinos.com
 0.0.0.0 rich-casino.biz
+0.0.0.0 sfpark.org
 0.0.0.0 sistersite.com
 0.0.0.0 slots-of-vegas.com
 0.0.0.0 the-australian-online-pokies.com
 0.0.0.0 thebestaustralianonlinepokies.com
+0.0.0.0 thesistersite.co.uk
 0.0.0.0 uptownpokies-aussie.com
 0.0.0.0 uptownpokies-casino.com
 0.0.0.0 wildcasino-eu.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 92,906 | Updated: 2026-11-10
+# Domains: 92,843 | Updated: 2026-11-11
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1195,10 +1195,7 @@ account.bys-insta-store-58094.com
 account.bys-insta-store-67796.com
 account.bys-insta-store-76319.com
 account.ccustoms.shop
-account.com-microsoft-onedrive-auth.com
 account.com-microsoft-onedrive.ca
-account.com-microsoftonline-ondrive.ca
-account.com-onedrive-folder.com
 account.deutsche-whiskys.shop
 account.deutsche-zentral-akademie.com
 account.elektr-de.shop
@@ -1466,7 +1463,6 @@ adobe-rnoiminxugzppoxcultnuyrc.pages.dev
 adobe-rygrpepozxgexnomibundzfl.pages.dev
 adobe-update-7or.pages.dev
 adobe-update.pages.dev
-adobeacrobatapk.com
 adobeacrobatdoc5.pages.dev
 adobedoc-cloud.top
 adobedoc-pdf.dillmintol.com
@@ -6497,7 +6493,6 @@ basecoinlogin-access.pages.dev
 based--chrome-x-metamsk.pages.dev
 based-coiin-lgn-pro-web.pages.dev
 based-trezo-en.pages.dev
-baseim-whatapp.hl.cn
 basekoin-login-access.pages.dev
 baselogin-coinbase.pages.dev
 basepro-login.pages.dev
@@ -7101,7 +7096,6 @@ beta-tezor-io.pages.dev
 beta-tiktok.pages.dev
 beta-trezo-io.pages.dev
 beta-whatsapp-contac-center.pages.dev
-betalingsgaranti.com
 betanoappdownload-org.pages.dev
 betanoappdownload-vip.pages.dev
 betgarantiadres.com
@@ -7257,7 +7251,6 @@ binancegate.com
 binancei.com
 binanceleverage.com
 binancemarkats.com
-binancen.app
 binanceok.pages.dev
 binancepay-trade.pages.dev
 binanceplay-bet.pages.dev
@@ -7852,7 +7845,6 @@ bloxbountyroblox.pages.dev
 bloxburg-free-robux.pages.dev
 bloxianarobloxid.pages.dev
 bloxlink-en1.pages.dev
-blsp-at-otzyvi.click
 bluevault-dexeris-ai.com
 bluevault-dexeris.org
 bluevaultdexerisai.com
@@ -11560,16 +11552,11 @@ cmf-whatsapp.com.cn
 cmor178a-whatsapp-01f342b2.codewords.run.codewords.run
 cmstart-ledgerr.wasmer.app
 cmstart-ledgr.pages.dev
-cn-api-whatsapp.com.cn
 cn-binanceguanwang.com
-cn-cli-whatsapp.com.cn
 cn-flow-whatsapp.com.cn
-cn-hash-whatsapp.com.cn
 cn-live-ledgr.pages.dev
-cn-mesh-whatsapp.com.cn
 cn-pc-fifaclub.com.cn
 cn-port-whatsapp.com.cn
-cn-site-whatsapp.com.cn
 cn-telegram-app.pages.dev
 cn-trezor-io-start.pages.dev
 cn-whatsapp-whatsapp.com.cn
@@ -13783,7 +13770,6 @@ confirmation-id.buisakiesa.workers.dev
 confirmation-id.datings-idn.workers.dev
 confirmation-id.members-authenticated.workers.dev
 confirmation-id123.com
-confirmation-id125.com
 confirmation-id126.com
 confirmation-id127.com
 confirmation-id128.com
@@ -14799,7 +14785,6 @@ cucoin-login.pages.dev
 cucoinn-fit.pages.dev
 cucorobloxid.pages.dev
 cuenta-banco-santander.com
-cuentanetfilx.com
 cuentarut-bancoestado.pages.dev
 cukoiin-log-page.pages.dev
 cukoinnlogin--sso.pages.dev
@@ -14865,7 +14850,6 @@ d-e-f-whatsapp.com.cn
 d-epo-p-verif12.cfd
 d-er-whatsapp.com.cn
 d-h-q-whatsapp.com.cn
-d-jk-whatsapp.com.cn
 d-ocexodusweb.pages.dev
 d-u-whatsapp.com.cn
 d1rtq8s9-web-telegram-org.pages.dev
@@ -22359,7 +22343,6 @@ ethereum-mainnet-blockchain-versionfinal1.pages.dev
 ethereum-mainnet-blockchain-versionfinalv2.pages.dev
 ethereum-refund-claim.pages.dev
 ethereum-sniperbot.pages.dev
-ethereum-wallet-token-approval-review.revokecash.store
 ethereumnetworkauthenticate.pages.dev
 ethereumnetworkverification.pages.dev
 ethereumplatformverification.pages.dev
@@ -25116,7 +25099,6 @@ fast-extn-coinbase.pages.dev
 fast-gemiini---us.pages.dev
 fast-gemini-login.pages.dev
 fast-trezor-suite.pages.dev
-fastertradingfx.org
 fastex-whatsapp.pages.dev
 fastflowvaltrix-soft-com.pages.dev
 fastim-whatapp.hl.cn
@@ -25350,7 +25332,6 @@ fintrixselect.com
 finvexa.top
 finvorium-ai.com
 finvoriumai.com
-fire-whatsapp.com.cn
 firefliesrobloxid.pages.dev
 firelightfi-fxrp.pages.dev
 firelightfi.pages.dev
@@ -26141,7 +26122,6 @@ ger-strt-ledgercom.pages.dev
 ger-trzrio-strt.pages.dev
 gerador-link-whatsapp.workers.dev
 gerdiak1.pages.dev
-gerenciamentopjempresa.digital
 gerenciamentopjnetempresas.app
 gesicherte-adobe-pdf-dokumente.pages.dev
 gestion-vignette-verification.com.ipcm-ucc.cd
@@ -27301,7 +27281,6 @@ gls-groupsi.com
 gls-groupworld.com
 gls-grovp.vu
 gls-grupservice.com
-gls.parcel-status.info
 glsgroup-aapi-namestar.com.ph
 glsgroup-abnamro-kinotam.com.ph
 glsgroup-abo-caixa.ph
@@ -27635,7 +27614,6 @@ group-whatsapp-2ex.pages.dev
 group-whatsapp-join-sa.pages.dev
 group-whatsappfree.pages.dev
 group-whtsapp-for-booking-xx.pages.dev
-groupes-telegram-sexe.fun
 groupwhatsapp-freexxx.pages.dev
 groupwhatsapp-sexxx18-date.pages.dev
 groupwhatsapp-xxx18-date.pages.dev
@@ -30156,7 +30134,6 @@ hitamskatter.site
 hitechebank.com
 hitiktokseller.com
 hivonarka-turemaxil.pages.dev
-hizliodemeceza.info
 hjasbdkjhasbdasd.pages.dev
 hjhjhj.hjkkjjk.workers.dev
 hjhjhj7778.vip
@@ -33028,7 +33005,6 @@ hrlp-ledger-live-faq-us.pages.dev
 hrlp-ledger-log-in.pages.dev
 hrlp-update-ledgeer.pages.dev
 hs-binance.com.cn
-hsbc-bank.live
 hsbc-id-verification.pages.dev
 hsbc-savings-bank-las-pinas-city-metro-manila-branch.ph
 hsbc-support.work
@@ -33725,7 +33701,6 @@ icloud-ubicacion-iphone.com
 icloud-ug.co
 icloud-us.app
 icloud-verification.online
-icloud.com-id-support.ink
 icloud91278l.pages.dev
 icloudapp.cn
 icloudfind-connect.us
@@ -37342,7 +37317,6 @@ it-trazor-suite.pages.dev
 it-treezor-io.pages.dev
 it-trexor-suite.pages.dev
 it-trzor-eng-us.pages.dev
-it-whatapp.com.cn
 it-whatapp.hl.cn
 it8x5ahd-web-teiegram-org.pages.dev
 italy-bitcointraderai.top
@@ -38139,7 +38113,6 @@ jtexpress-tn.top
 jtexpress-to.top
 jtexpress-tp.top
 jtexpress-tv.top
-jtexpress-tx.top
 jtexpress-tya.top
 jtexpress-tyf.top
 jtexpress-tyh.top
@@ -51094,7 +51067,6 @@ login.icloud7.pro
 login.linkedin.com-verification.link
 login.microsftonline.kfca-sa.com
 login.microsoftonline-sharepoint.zelvantaaa.world
-login.onuris-my-sharepiont.com
 login.samsung-mobile.it
 login.secure.microsoftonlline.officexyv.work
 login.sharepoint-auth-50e.workers.dev
@@ -51653,12 +51625,10 @@ logz-con-based-prxn-hlp.pages.dev
 lohin-web-trezr.pages.dev
 loja-tiktok-oficial.shop
 lokalna-ofenta98754.biz
-lokalna-ofera010019.shop
 lokalna-ofera03212.shop
 lokalna-ofera21378.sbs
 lokalna-ofera218.sbs
 lokalna-ofera5684546.sbs
-lokalna-ofera89348348.shop
 lokalna-ofera89994875.sbs
 lokalna-ofera91291230.sbs
 lokalna-ofera91872.shop
@@ -51705,7 +51675,6 @@ lokalna-ofeta482.sbs
 lokalna-ofeta528514.shop
 lokalna-ofeta534563.shop
 lokalna-ofeta54378.shop
-lokalna-ofeta56436753.shop
 lokalna-ofeta664.sbs
 lokalna-ofeta671344.shop
 lokalna-ofeta79182.shop
@@ -52614,7 +52583,6 @@ mega-yingxionglianmengtouzhu-online.com
 mehrdadkho3ravi.workers.dev
 mein-dhl-lieferung.ph
 meine.postbank.de.login.bsolutions.tech
-meinpaket-myhermes.com
 meinprivates1312-21whatsapp-5758x5p3r9g81u.pages.dev
 meituan-account-tdbank.com.ph
 melaro-biz-senvix-29126.pages.dev
@@ -54957,7 +54925,6 @@ migros-cumulus.com
 migros-digitalinsert-dev.aplimax.dev
 migros-digitalinsert.aplimax.dev
 migros-lmzqvra.rest
-migros-shops.click
 migros-zuerich.app.couponplus.ch
 migros-zuerich.app.messageplus.ch
 migros-zuerich.app.ticketplus.ch
@@ -54977,7 +54944,6 @@ migross.re-print.it
 mijn-factuur-kpn.com
 miladesmaiilzadeh9.workers.dev
 militaryradiochatterrobloxid.pages.dev
-milk-whatsapp.com.cn
 milktycoonrobloxcodes.pages.dev
 miller-3-betty-24-peak-agreement.pages.dev
 milu21-1nexil.pages.dev
@@ -56579,7 +56545,6 @@ netcons-cdn-sso-hpl.pages.dev
 netcons-x-logns-en-cloud.pages.dev
 netcouin-login.pages.dev
 netcxoin-login.pages.dev
-netempresarial.net
 netempresarialacesso.digital
 netempresasapp.digital
 netempresasatualizar.chat
@@ -60502,7 +60467,6 @@ pair-explorerzerion0i.pages.dev
 pair-token-zerion0i.pages.dev
 paket-dhl-tracking.com
 paketdatenanalyseserviceundreportingplattformzentrum.pages.dev
-pakete-myhermes.com
 paketversand.pages.dev
 paketzustellungsservice.com
 paki-lumo-biz-sari-nexo-sp12ct3.pages.dev
@@ -60579,6 +60543,7 @@ pancakeswapc.pages.dev
 pancakeswapclaim.pages.dev
 pancakeswapfi.pages.dev
 pancakeswapfinance-catamoto.pages.dev
+pancakeswapfinance.net
 pancakeswapfinances.pages.dev
 pancakeswapfinances.world
 pancakeswapfinnance.pages.dev
@@ -60607,7 +60572,6 @@ papecoinairdropclaim.pages.dev
 paragraph-start-trzor.pages.dev
 paralyth-vault.pages.dev
 parcel-ingbank.ph
-parcel-mondialrelay.com
 paribas-bnp-banks.pages.dev
 paribas-trust.pages.dev
 paris88klik.online
@@ -61180,7 +61144,6 @@ paypal-helpcenter.boutiquemane.com
 paypal-i1yjl5iym4nq4ag.pages.dev
 paypal-invoices.pages.dev
 paypal-ivxnbq2g775j090.pages.dev
-paypal-konto-sicherheit.com
 paypal-kyrjj8h9k6349z9.pages.dev
 paypal-l3ko8wax6h61tc3.pages.dev
 paypal-l638kmnrmajuonp.pages.dev
@@ -62743,7 +62706,6 @@ producttrzosui.pages.dev
 professional-trezro-io.pages.dev
 profile-activation.xfinity-bill.workers.dev
 profile-meta-msk-login.pages.dev
-profile-recover-ledger.com
 prog-ledgelive.pages.dev
 prog-trezoiostart.pages.dev
 prog-trezosuitedownload.pages.dev
@@ -64108,7 +64070,6 @@ rezor-start-log-page.pages.dev
 rezosuite.pages.dev
 rf-letsvpn.com.cn
 rf-whatssapp.com.cn
-rfqteamsmeeting.com
 rg-whatssapp.com.cn
 rge-whatsapp.com.cn
 rh-kuailian.com.cn
@@ -64533,7 +64494,6 @@ robinhood-usa-login.pages.dev
 robinhood-w-support.pages.dev
 robinhood-x-login-en-us.pages.dev
 robinhoodaccessprofileverify.pages.dev
-robinhoodalert.com
 robinhoodassetrecoverygroupllc.com
 robinhoodassetsrecovery.com
 robinhoodl-se-ogin.pages.dev
@@ -66122,7 +66082,6 @@ secureee----logiiin---trezzrrrr.pages.dev
 secureee----logiin---trezrrrrr.pages.dev
 secureee---logiin---account----robiinhood.pages.dev
 secureee---walllettt---upholddd.pages.dev
-secureforgeledger.com
 securego-login.info
 secureledger-help.pages.dev
 securelogin-netcoins-com.pages.dev
@@ -66149,7 +66108,6 @@ security-issues-apple.ph
 security-kucoine.pages.dev
 security-ledgrcom--eng.pages.dev
 security-ledgrcom-eng.pages.dev
-security-mail-lnstagram.org
 security-metamask-walet-extension.pages.dev
 security-policies-astro.pages.dev
 security-pron-hub-coinbas.pages.dev
@@ -71993,10 +71951,7 @@ stat-trezor-io.pages.dev
 stated-trezorio-en-us.pages.dev
 statement-viewonce-givesusquotes-sharepoint.pages.dev
 static-embedded-sites-booking-com.pages.dev
-static-login.com-microsoft-onedrive-auth.com
 static-login.com-microsoft-onedrive.ca
-static-login.com-microsoftonline-ondrive.ca
-static-login.com-onedrive-folder.com
 stating-trezio.pages.dev
 stattrec-trezer-io.pages.dev
 stature-invexor-ai.net
@@ -73624,7 +73579,6 @@ suport-uphuldd-logiin.pages.dev
 suport-upphold-walet-auth.pages.dev
 suport-walllet-trezor.pages.dev
 suporteacessonetempresas.com
-suportebradesco.app
 suportenegocios.online
 suports-io-trzor.pages.dev
 suportt-hrdware-trzor-walet.pages.dev
@@ -74596,7 +74550,6 @@ support-metmask-extension.pages.dev
 support-metmask-io-extension.pages.dev
 support-metmask-log-authd.pages.dev
 support-mettamesk-help.pages.dev
-support-mondialrelay-service.com
 support-mtamask-log.pages.dev
 support-mtamask-login.pages.dev
 support-mtamask-wellet.pages.dev
@@ -75057,7 +75010,6 @@ support.agbank.com
 support.amzaon.workers.dev
 support.apple.es.find-device.online
 support.broadview-engie.com
-support.com-microsoft-onedrive-auth.com
 support.dashboard.alpha.bankom.su
 support.grab-cash-now.com
 support.llydsbank.com
@@ -75753,7 +75705,6 @@ teleghtpro.club
 teleghtpro.help
 teleghtpro.shop
 teleghtprw.beer
-teleghtprw.luxe
 teleginalx.club
 teleginalx.help
 telegineer.shop
@@ -75872,8 +75823,6 @@ teleroxroc.cyou
 teleroxxog.club
 teleroxxos.shop
 teleroxxsw.click
-teleusfrig.beer
-teleusfrig.luxe
 televroxxs.luxe
 televroxxs.yoga
 telexxsbri.shop
@@ -75883,7 +75832,6 @@ telexxsbrw.yoga
 telexxshyr.click
 telexxshyr.club
 telexxshyr.help
-telexxskis.shop
 telexxslog.shop
 telexxsoig.bond
 telexxsoig.luxe
@@ -76193,7 +76141,6 @@ the-replacements-on-netflix.pages.dev
 the-xylmedunqoravel.com
 theakhydrojug.com
 theanhydrojug.com
-theaohydrojug.com
 theaphydrojug.com
 thebarclaysbankuk.pages.dev
 thebenderwayroblox.pages.dev
@@ -76462,7 +76409,6 @@ tokenpoket.pages.dev
 tokenpoketapp-relay-jp11.cyou
 tokenpoketapp70-relay-hk72.xyz
 tokenpoketgo-gw-uk12.xyz
-tokenpoketnow-dist-de08.lol
 tokenpoketnow-pop-kr48.xyz
 tokenpoketnow54-pop-hk83.lol
 tokenpoketprimx-cdn-kr8.lol
@@ -76471,7 +76417,6 @@ tokenpoketvip-cdn-d4.lol
 tokenpoketvip-dist-kr91.lol
 tokenpoketvip-gw-de0.lol
 tokenpoketvipi-dist-de4.lol
-tokenpoketx-cdn-hk07.xyz
 tokenpoketzone31-cdn-hk89.cfd
 tokensale-worldlibertyfinancial.pages.dev
 tokenzoomweb.com
@@ -87031,10 +86976,6 @@ verificationinstagram.pages.dev
 verificationpage-91382.shop
 verificationpage-seller.click
 verificationpage.life
-verificationpage.net
-verificationpage.shop
-verificationpage3.shop
-verificationpage3121.pro
 verificationpaypal.cotesud33.org
 verifiedbinance.com
 verifiedcapitalone1com.pages.dev
@@ -89558,7 +89499,6 @@ webapptrezo.pages.dev
 webar-trezor-waller.pages.dev
 webbase-whatapp.com.cn
 webbitget.pages.dev
-webbitvavos.top
 webbrowser-bridge-trezr-es.pages.dev
 webcatsdaplapp.pages.dev
 webcheckerprofilemailenofficemicrosoftpagesandsecurityhttp.pages.dev
@@ -91371,7 +91311,6 @@ windows-security-alert.pages.dev
 winsshdvwdfuwdyfqjdkfuquldfyfdiyqfidfyidfdifddfhdfd.pages.dev
 winter-whatsapp.com.cn
 winziyuan2024.pages.dev
-wise-bank.xyz
 wise-support.online
 wit-ledger-live.pages.dev
 with--logn-terzor-io-eng.pages.dev
@@ -91619,7 +91558,6 @@ www-dana-grtis-ambil10-20jt-silahkanambil.pages.dev
 www-danaid-grtis-ambil10-20jt-silahkanambil.pages.dev
 www-depop-securitycheck.rest
 www-facebook-com-commande-article-482941850.pages.dev
-www-find-icloud-mail.com
 www-google-ads-busness-login.ssdi.co.in
 www-googleapis.claimant1.click
 www-googleapis.indomesinq.click
@@ -91839,7 +91777,6 @@ www.ddbtfdhl.pdbkohfg.medicare-benefit-verification-portal.161-35-102-243.cpanel
 www.dev.backup.bill-netflix-dashboard-account.161-35-102-243.cpanel.site
 www.e-zpass.secureinformation.135-237-99-191.cpanel.site
 www.ellsfargo.com-verification.collegwp1.mariagharaibeh.com
-www.ethereum-wallet-token-approval-review.revokecash.store
 www.exchange.pancakeswap.finances.najahaldaaim.com
 www.ez-pass-billing-pay.135-237-99-191.cpanel.site
 www.ezpass.csc.patumpike.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Australia (au)
-# Domains: 16 | Updated: 2026-11-10
+# Domains: 17 | Updated: 2026-11-11
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/au.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,7 @@
 0.0.0.0 kissanime.ax
 0.0.0.0 kissanime.com.cv
 0.0.0.0 kissanime.quest
+0.0.0.0 kissanimetv.to
 0.0.0.0 library.sunshinecoast.qld.gov.au
 0.0.0.0 myvipbox.com
 0.0.0.0 oziptv.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, South Korea (kr)
-# Domains: 57 | Updated: 2026-11-10
+# Domains: 59 | Updated: 2026-11-11
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/kr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -24,10 +24,12 @@
 0.0.0.0 fishing.adcomm.kr
 0.0.0.0 freebody.co.kr
 0.0.0.0 jogaeparty204.com
+0.0.0.0 jogaeparty206.com
 0.0.0.0 joynjoy.com
 0.0.0.0 juicycat.kr
 0.0.0.0 jupian.co.kr
 0.0.0.0 juso.one
+0.0.0.0 jusolabel10.com
 0.0.0.0 k386fzx.kiwanisturnhout.be
 0.0.0.0 ladybox.kr
 0.0.0.0 loma-store.com

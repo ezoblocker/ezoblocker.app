@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, United Kingdom (gb)
-! Domains: 48 | Updated: 2026-11-10
+! Domains: 64 | Updated: 2026-11-11
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/gb.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,8 +7,10 @@
 ||5topcasino.co.uk^
 ||allgamestopsites.co^
 ||amulette.co.uk^
+||avenuemanagement.co.uk^
 ||bestgamstopcompare.net^
 ||betrating.org^
+||brightontreesurgeon.co.uk^
 ||casino-apps.net^
 ||casino80.com^
 ||casinosuknongamstopgames.co^
@@ -20,14 +22,23 @@
 ||community54.com^
 ||computerdisposals.co.uk^
 ||cpath.co.uk^
+||easthopecaravanandcamping.co.uk^
 ||elanlaserclinics.co.uk^
+||enzo-aesthetic.co.uk^
 ||flash-film.co.uk^
+||glassfrogdigital.uk^
 ||immersionvr.co.uk^
+||j27accountants.co.uk^
+||lolfoundation.co.uk^
 ||makenobones.co.uk^
 ||mediatornetwork.org^
 ||miracle-casinos.com^
+||monks-crane.co.uk^
+||mvmwindowfilms.co.uk^
 ||myzeo.co.uk^
+||neverheardofthem.co.uk^
 ||newgamstopgames.org^
+||newhansongrangeholidays.co.uk^
 ||nodepositoffers.co.uk^
 ||non-gamstopcasinos.net^
 ||nongamestop.ing^
@@ -39,7 +50,9 @@
 ||opx.co.uk^
 ||piotrbuildinganddecorations.co.uk^
 ||playnodeposit.com^
+||premiervend.co.uk^
 ||prideinlabour.org.uk^
+||reginalddhunter.co.uk^
 ||richardhawleyforum.co.uk^
 ||rtscenic.co.uk^
 ||songwriteronline.co.uk^
@@ -47,6 +60,9 @@
 ||stardacasinogb.com^
 ||stardaclub.co.uk^
 ||stargambling.net^
+||stone-tilers-bath.co.uk^
+||thecottageinnnetley.co.uk^
+||thetoycentre.co.uk^
 ||unlimitedgamstopfree.com^
 ||vavadacasinocz.com^
 ||vistaroofinglincoln.co.uk^

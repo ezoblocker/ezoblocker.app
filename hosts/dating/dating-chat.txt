@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 406 | Updated: 2026-11-10
+# Domains: 407 | Updated: 2026-11-11
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -89,6 +89,7 @@
 0.0.0.0 chathub.tv
 0.0.0.0 chathub1.com
 0.0.0.0 chathubapp.com
+0.0.0.0 chatib.buzz
 0.0.0.0 chatib.us
 0.0.0.0 chatikfm.ru
 0.0.0.0 chatindonesia.com

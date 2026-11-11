@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Saudi Arabia (sa)
-# Domains: 10 | Updated: 2026-11-10
+# Domains: 15 | Updated: 2026-11-11
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/sa.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,11 @@
 0.0.0.0 1wins.community
 0.0.0.0 bestarabiccasinos.com
 0.0.0.0 emiratescasino.online
+0.0.0.0 joycasino-628.top
+0.0.0.0 joycasino-aza.top
+0.0.0.0 joycasino-ocu.top
+0.0.0.0 joycasino-slot.pro
+0.0.0.0 joycasino-yro.top
 0.0.0.0 kazinoarabi.com
 0.0.0.0 melbetmaroc.cc
 0.0.0.0 menacasino.com

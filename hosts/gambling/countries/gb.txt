@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, United Kingdom (gb)
-# Domains: 48 | Updated: 2026-11-10
+# Domains: 64 | Updated: 2026-11-11
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,8 +7,10 @@
 0.0.0.0 5topcasino.co.uk
 0.0.0.0 allgamestopsites.co
 0.0.0.0 amulette.co.uk
+0.0.0.0 avenuemanagement.co.uk
 0.0.0.0 bestgamstopcompare.net
 0.0.0.0 betrating.org
+0.0.0.0 brightontreesurgeon.co.uk
 0.0.0.0 casino-apps.net
 0.0.0.0 casino80.com
 0.0.0.0 casinosuknongamstopgames.co
@@ -20,14 +22,23 @@
 0.0.0.0 community54.com
 0.0.0.0 computerdisposals.co.uk
 0.0.0.0 cpath.co.uk
+0.0.0.0 easthopecaravanandcamping.co.uk
 0.0.0.0 elanlaserclinics.co.uk
+0.0.0.0 enzo-aesthetic.co.uk
 0.0.0.0 flash-film.co.uk
+0.0.0.0 glassfrogdigital.uk
 0.0.0.0 immersionvr.co.uk
+0.0.0.0 j27accountants.co.uk
+0.0.0.0 lolfoundation.co.uk
 0.0.0.0 makenobones.co.uk
 0.0.0.0 mediatornetwork.org
 0.0.0.0 miracle-casinos.com
+0.0.0.0 monks-crane.co.uk
+0.0.0.0 mvmwindowfilms.co.uk
 0.0.0.0 myzeo.co.uk
+0.0.0.0 neverheardofthem.co.uk
 0.0.0.0 newgamstopgames.org
+0.0.0.0 newhansongrangeholidays.co.uk
 0.0.0.0 nodepositoffers.co.uk
 0.0.0.0 non-gamstopcasinos.net
 0.0.0.0 nongamestop.ing
@@ -39,7 +50,9 @@
 0.0.0.0 opx.co.uk
 0.0.0.0 piotrbuildinganddecorations.co.uk
 0.0.0.0 playnodeposit.com
+0.0.0.0 premiervend.co.uk
 0.0.0.0 prideinlabour.org.uk
+0.0.0.0 reginalddhunter.co.uk
 0.0.0.0 richardhawleyforum.co.uk
 0.0.0.0 rtscenic.co.uk
 0.0.0.0 songwriteronline.co.uk
@@ -47,6 +60,9 @@
 0.0.0.0 stardacasinogb.com
 0.0.0.0 stardaclub.co.uk
 0.0.0.0 stargambling.net
+0.0.0.0 stone-tilers-bath.co.uk
+0.0.0.0 thecottageinnnetley.co.uk
+0.0.0.0 thetoycentre.co.uk
 0.0.0.0 unlimitedgamstopfree.com
 0.0.0.0 vavadacasinocz.com
 0.0.0.0 vistaroofinglincoln.co.uk

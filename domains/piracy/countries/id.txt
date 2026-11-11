@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Indonesia (id)
-# Domains: 38 | Updated: 2026-11-10
+# Domains: 40 | Updated: 2026-11-11
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/countries/id.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,7 +22,9 @@ livebola.com
 livebola.net
 lk21layarkaca21.online
 lk21layarkaca21.shop
+lk21layarkaca21.xyz
 llsflwjo.riverpeak.lat
+nontonfilm.fc2.net
 oploverz.ch
 oploverz.site
 otakudesu.blog

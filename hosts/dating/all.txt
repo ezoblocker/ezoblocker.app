@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,305 | Updated: 2026-11-10
+# Domains: 1,309 | Updated: 2026-11-11
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -196,6 +196,7 @@
 0.0.0.0 chathub.tv
 0.0.0.0 chathub1.com
 0.0.0.0 chathubapp.com
+0.0.0.0 chatib.buzz
 0.0.0.0 chatib.us
 0.0.0.0 chatikfm.ru
 0.0.0.0 chatindonesia.com
@@ -405,6 +406,7 @@
 0.0.0.0 escortoglasi.com
 0.0.0.0 escortradar.com
 0.0.0.0 escortrankings.uk
+0.0.0.0 escortrscosworth.com
 0.0.0.0 escorts-ie.eu
 0.0.0.0 escorts.cz
 0.0.0.0 escortsandbabes.com.au
@@ -1009,6 +1011,7 @@
 0.0.0.0 scruff.com
 0.0.0.0 seeking.com
 0.0.0.0 seitensprung-fibel.de
+0.0.0.0 seitensprung21.ch
 0.0.0.0 seo.imaiko.com
 0.0.0.0 service.link.link
 0.0.0.0 servicii.primariatm.ro
@@ -1091,6 +1094,7 @@
 0.0.0.0 sohbetx.net
 0.0.0.0 sohbetyeri.com.tr
 0.0.0.0 sohbetyeri.net
+0.0.0.0 sop.klifairs.ch
 0.0.0.0 sosyalgeveze.net
 0.0.0.0 south-carolina.bonepage.com
 0.0.0.0 southafricancupid.com

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, Australia (au)
-! Domains: 40 | Updated: 2026-11-10
+! Domains: 48 | Updated: 2026-11-11
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/au.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,21 +12,27 @@
 ||bettacasinos.com^
 ||bitstarzmirrors.com^
 |casino-max-online-casino-fre.adelaidebeanbags.com.au^
+||centralfloridatop5.com^
 ||cherrygold-online.com^
 ||cherrygold.it^
 ||clintonandco.co.uk^
+||consciouscompanymedia.com^
+||espers.io^
 ||fairgo-casinoaus.com^
 ||fairgocasinoaus.com^
 ||fairgocasinoreviews.com^
 ||greenwingaudio.com^
 ||joefortune.co.nz^
 ||joefortuneonlinepokies.club^
+||laccrc2021.org^
 ||nodepositau.com^
 ||nodepositfriend.org^
 ||nominimumdeposit-casinos-uk.com^
 ||officialtrevorjackson.com^
 ||onlinepokies.com.au^
+||outbackluck.com^
 ||ozwincasino.website^
+||pluralofyou.org^
 ||pokiespro.com^
 ||prism-casino.ca^
 ||prismcasino7.com^
@@ -36,10 +42,12 @@
 ||redstagcasino-au.net^
 ||redstagscasinos.com^
 ||rich-casino.biz^
+||sfpark.org^
 ||sistersite.com^
 ||slots-of-vegas.com^
 ||the-australian-online-pokies.com^
 ||thebestaustralianonlinepokies.com^
+||thesistersite.co.uk^
 ||uptownpokies-aussie.com^
 ||uptownpokies-casino.com^
 ||wildcasino-eu.com^

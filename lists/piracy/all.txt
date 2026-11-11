@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,186 | Updated: 2026-11-10
+# Domains: 1,194 | Updated: 2026-11-11
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -125,6 +125,7 @@ beinsports.satellite-tv.tv
 *.bola365.today
 *.bolly4uz.com
 *.bombuj.si
+*.bongdatv.me
 *.boraverfilmes.top
 brm7hazb-amphtml.lackierprofi.ch
 browse.tonton.com.my
@@ -532,6 +533,7 @@ kiss.anime.com.ro
 *.kissanime.quest
 *.kissanimetv.dk
 *.kissanimetv.lol
+*.kissanimetv.to
 kmanga.kodansha.com
 *.kooora.com
 kooora.misrlinks.com
@@ -615,6 +617,7 @@ livetv.tv-vlaanderen.be
 *.liveyallashot0.xyz
 *.lk21layarkaca21.online
 *.lk21layarkaca21.shop
+*.lk21layarkaca21.xyz
 llsflwjo.riverpeak.lat
 *.lockoora.top
 *.locopelis.com
@@ -716,6 +719,7 @@ new.touchcric.com
 *.nflbites.today
 ngb.to.dewebc.com
 nollywood.naijaremix.com
+nontonfilm.fc2.net
 *.northiptv.com
 *.nung2hdd.com
 *.nungfree4k.com
@@ -811,6 +815,8 @@ player.wholesale-iptv.nl
 pma2.iethe.com.br
 *.pobreflixhd.fit
 *.pobreflixmovie.my
+*.pobreflixtvfree.click
+*.pobreflixtvfree.lol
 portaleducacional.unisanta.br
 *.poseidonhd2.co
 *.premierleague.com
@@ -926,10 +932,12 @@ sismrae.sead.pi.gov.br
 *.socolive75.tv
 *.socolivef.cc
 *.socolivei.cc
+*.socolivept.top
 *.socolivet.cv
 *.socolivetvz.top
 *.socolivev.co
 *.socolivez.cv
+*.socolivezam.tv
 *.socolivezh.top
 *.socolivezq.tv
 *.socolivezw.tv

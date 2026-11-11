@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, ct
-! Domains: 724,644 | Updated: 2026-11-10
+! Domains: 724,628 | Updated: 2026-11-11
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -74895,7 +74895,6 @@
 ||bdm-betcasino.fr^
 ||bdm-bets.it^
 ||bdmamubet.com^
-||bdmarvelbet.com^
 ||bdmarvelbet.net^
 ||bdmbet--casino-com.pages.dev^
 ||bdmbet--casino.com^
@@ -113169,7 +113168,6 @@
 ||bitstarzcasino.pl^
 ||bitstarzcasino.review^
 ||bitstarzcasino.uk^
-||bitstarzcasino.us^
 ||bitstarzcasino.vip^
 ||bitstarzcasino.world^
 ||bitstarzcasinoapp.com^
@@ -130973,7 +130971,6 @@
 ||bwin-kasino.com^
 ||bwin-khelo.net^
 ||bwin-online-casino-uk.com^
-||bwin-online-casino.com^
 ||bwin-online-casinos.com^
 ||bwin-online.de^
 ||bwin-onlineslots.com^
@@ -151329,7 +151326,6 @@
 ||casino-sinaia.ro^
 ||casino-sinlicencia-espana.es^
 ||casino-sinlicencia.es^
-||casino-sisal.org^
 ||casino-sisatoto-portal-masuk.pages.dev^
 ||casino-sister-sites.com^
 ||casino-sisters.com^
@@ -158204,7 +158200,6 @@
 ||casinobagdad.pe^
 ||casinobahamar.com^
 ||casinobahigo.com^
-||casinobahigo.li^
 ||casinobahis.online^
 ||casinobahisbet.com^
 ||casinobahrain.com^
@@ -247190,7 +247185,6 @@
 ||eng-en-shufflecasino.com^
 ||eng-fanduelcasino.com^
 ||eng-gamdom.com^
-||eng-hardrockbet.com^
 ||eng-luckylandcasino.com^
 ||eng-melbet.com^
 ||eng-modocasino.com^
@@ -305227,7 +305221,6 @@
 ||hitnspin-casino.info.pl^
 ||hitnspin-casino.io^
 ||hitnspin-casino.it^
-||hitnspin-casino.net^
 ||hitnspin-casino.no^
 ||hitnspin-casino.online^
 ||hitnspin-casino.pro^
@@ -373420,7 +373413,6 @@
 ||lexcasino-exx.ru^
 ||lexcasino-german.de^
 ||lexcasino-germany-de.pages.dev^
-||lexcasino-germany.de^
 ||lexcasino-hu.com^
 ||lexcasino-it.com^
 ||lexcasino-net-pl-70411.pages.dev^
@@ -435366,7 +435358,6 @@
 ||mrbet96.co^
 ||mrbet96.com^
 ||mrbet96.net^
-||mrbet96au.com^
 ||mrbet96aus.com^
 ||mrbet96mantap.pages.dev^
 ||mrbet96mantap.site^
@@ -525048,7 +525039,6 @@
 ||quatrocasino-ca.net^
 ||quatrocasino-ca.org^
 ||quatrocasino-ca.pages.dev^
-||quatrocasino-canada.ca^
 ||quatrocasino-casino-anmeldung.pages.dev^
 ||quatrocasino-casino-app.pages.dev^
 ||quatrocasino-casino-bonus.pages.dev^
@@ -575436,7 +575426,6 @@
 ||skybetng.net^
 ||skybetnl-com.pages.dev^
 ||skybetslot.net^
-||skybetspielen.de^
 ||skybetsportwetten.de^
 ||skybetstarcasino.com^
 ||skybingo-casino.com^
@@ -622067,7 +622056,6 @@
 ||stanleybetspielen.de^
 ||stanleybetsportwetten.de^
 ||stanleybetuk.com^
-||stanleybetwetten.de^
 ||stanleybetz.com^
 ||stanleycups.cz^
 ||stantoncasino.com^
@@ -628013,7 +628001,6 @@
 ||superbetine.com^
 ||superbetinegir.com^
 ||superbetinfirsatlar.com^
-||superbeting.net^
 ||superbeting.top^
 ||superbetingeliyor.com^
 ||superbetingir.com^
@@ -629412,7 +629399,6 @@
 ||surebetscomunidad.com^
 ||surebetservices.com^
 ||surebetsg.app^
-||surebetsg.asia^
 ||surebetsg.biz^
 ||surebetsg.co^
 ||surebetsg.com^
@@ -656569,7 +656555,6 @@
 ||turkbetspor.com^
 ||turkbetwin.top^
 ||turkbetyeniadres.com^
-||turkcasino.click^
 ||turkcasinobzhsm.za.com^
 ||turkcasinolarigiris.online^
 ||turkcasinoqavx.za.com^
@@ -664915,7 +664900,6 @@
 ||valleyviewcasino.com^
 ||valleyviewcasinop.com^
 ||vallon-pont-darc.com^
-||valmontcasino.com^
 ||valobet.site^
 ||valocasino.com^
 ||valohoki-slotonline.pages.dev^

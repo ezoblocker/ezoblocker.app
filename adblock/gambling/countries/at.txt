@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, Austria (at)
-! Domains: 28 | Updated: 2026-11-10
+! Domains: 32 | Updated: 2026-11-11
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/at.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,15 +7,18 @@
 ||absorber-kuehlbox.de^
 ||affairstorememberonline.com^
 ||bestarabiccasinos.co^
+||bluespringchiropractic.com^
 ||casino-playboom.com^
 ||casinobelgique10.com^
 ||casinodolfwin.net^
 ||casinoonlineslovenija.com^
 ||casinooversikt.net^
+||ccstpaul.com^
 ||demoslot.com^
 ||dolf-win.at^
 ||dolfwincasino.at^
 ||free-spinsnodeposit.co.uk^
+||fycory.com^
 ||hansa-center.de^
 ||hell-spincasino.at^
 ||hellspinkasino-at.com^
@@ -32,3 +35,4 @@
 ||testcasino.at^
 ||vulkanvegas.de^
 ||xn--tierheim-schningen-o3b.de^
+||xn--utlndskacasino-7hb.se^

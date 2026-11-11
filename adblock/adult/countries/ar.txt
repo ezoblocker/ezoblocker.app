@@ -1,9 +1,10 @@
 ! Title: EZOBLOCKER Adult, Argentina (ar)
-! Domains: 37 | Updated: 2026-11-10
+! Domains: 38 | Updated: 2026-11-11
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/ar.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+||bakanal.es^
 ||bangover.com.ar^
 ||bellesaimes.com^
 ||boutiqueerotica.com.uy^

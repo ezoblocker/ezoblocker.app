@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Brazil (br)
-# Domains: 51 | Updated: 2026-11-10
+# Domains: 53 | Updated: 2026-11-11
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/countries/br.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@ app.aviator.co
 *.bancasdobicho.com.br
 betpix-login.bnstratamentotermico.com.br
 betpix-login.presbiteroscnp.org
+betpix-login.rastu.io
 *.betsemcadastro.com
 *.betssemverificacao.com
 *.betwinner.tv
@@ -23,6 +24,7 @@ caf.natal.rn.gov.br
 *.casinosonlineargentina.net
 *.cassinosbrasil.net
 cidadao.saude.al.gov.br
+cpanel.canta.rr.gov.br
 decportal.maceio.al.gov.br
 *.deunoposte.app.br
 *.deunopostenacional.com.br

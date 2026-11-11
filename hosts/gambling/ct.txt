@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 724,644 | Updated: 2026-11-10
+# Domains: 724,628 | Updated: 2026-11-11
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -74895,7 +74895,6 @@
 0.0.0.0 bdm-betcasino.fr
 0.0.0.0 bdm-bets.it
 0.0.0.0 bdmamubet.com
-0.0.0.0 bdmarvelbet.com
 0.0.0.0 bdmarvelbet.net
 0.0.0.0 bdmbet--casino-com.pages.dev
 0.0.0.0 bdmbet--casino.com
@@ -113169,7 +113168,6 @@
 0.0.0.0 bitstarzcasino.pl
 0.0.0.0 bitstarzcasino.review
 0.0.0.0 bitstarzcasino.uk
-0.0.0.0 bitstarzcasino.us
 0.0.0.0 bitstarzcasino.vip
 0.0.0.0 bitstarzcasino.world
 0.0.0.0 bitstarzcasinoapp.com
@@ -130973,7 +130971,6 @@
 0.0.0.0 bwin-kasino.com
 0.0.0.0 bwin-khelo.net
 0.0.0.0 bwin-online-casino-uk.com
-0.0.0.0 bwin-online-casino.com
 0.0.0.0 bwin-online-casinos.com
 0.0.0.0 bwin-online.de
 0.0.0.0 bwin-onlineslots.com
@@ -151329,7 +151326,6 @@
 0.0.0.0 casino-sinaia.ro
 0.0.0.0 casino-sinlicencia-espana.es
 0.0.0.0 casino-sinlicencia.es
-0.0.0.0 casino-sisal.org
 0.0.0.0 casino-sisatoto-portal-masuk.pages.dev
 0.0.0.0 casino-sister-sites.com
 0.0.0.0 casino-sisters.com
@@ -158204,7 +158200,6 @@
 0.0.0.0 casinobagdad.pe
 0.0.0.0 casinobahamar.com
 0.0.0.0 casinobahigo.com
-0.0.0.0 casinobahigo.li
 0.0.0.0 casinobahis.online
 0.0.0.0 casinobahisbet.com
 0.0.0.0 casinobahrain.com
@@ -247190,7 +247185,6 @@
 0.0.0.0 eng-en-shufflecasino.com
 0.0.0.0 eng-fanduelcasino.com
 0.0.0.0 eng-gamdom.com
-0.0.0.0 eng-hardrockbet.com
 0.0.0.0 eng-luckylandcasino.com
 0.0.0.0 eng-melbet.com
 0.0.0.0 eng-modocasino.com
@@ -305227,7 +305221,6 @@
 0.0.0.0 hitnspin-casino.info.pl
 0.0.0.0 hitnspin-casino.io
 0.0.0.0 hitnspin-casino.it
-0.0.0.0 hitnspin-casino.net
 0.0.0.0 hitnspin-casino.no
 0.0.0.0 hitnspin-casino.online
 0.0.0.0 hitnspin-casino.pro
@@ -373420,7 +373413,6 @@
 0.0.0.0 lexcasino-exx.ru
 0.0.0.0 lexcasino-german.de
 0.0.0.0 lexcasino-germany-de.pages.dev
-0.0.0.0 lexcasino-germany.de
 0.0.0.0 lexcasino-hu.com
 0.0.0.0 lexcasino-it.com
 0.0.0.0 lexcasino-net-pl-70411.pages.dev
@@ -435366,7 +435358,6 @@
 0.0.0.0 mrbet96.co
 0.0.0.0 mrbet96.com
 0.0.0.0 mrbet96.net
-0.0.0.0 mrbet96au.com
 0.0.0.0 mrbet96aus.com
 0.0.0.0 mrbet96mantap.pages.dev
 0.0.0.0 mrbet96mantap.site
@@ -525048,7 +525039,6 @@
 0.0.0.0 quatrocasino-ca.net
 0.0.0.0 quatrocasino-ca.org
 0.0.0.0 quatrocasino-ca.pages.dev
-0.0.0.0 quatrocasino-canada.ca
 0.0.0.0 quatrocasino-casino-anmeldung.pages.dev
 0.0.0.0 quatrocasino-casino-app.pages.dev
 0.0.0.0 quatrocasino-casino-bonus.pages.dev
@@ -575436,7 +575426,6 @@
 0.0.0.0 skybetng.net
 0.0.0.0 skybetnl-com.pages.dev
 0.0.0.0 skybetslot.net
-0.0.0.0 skybetspielen.de
 0.0.0.0 skybetsportwetten.de
 0.0.0.0 skybetstarcasino.com
 0.0.0.0 skybingo-casino.com
@@ -622067,7 +622056,6 @@
 0.0.0.0 stanleybetspielen.de
 0.0.0.0 stanleybetsportwetten.de
 0.0.0.0 stanleybetuk.com
-0.0.0.0 stanleybetwetten.de
 0.0.0.0 stanleybetz.com
 0.0.0.0 stanleycups.cz
 0.0.0.0 stantoncasino.com
@@ -628013,7 +628001,6 @@
 0.0.0.0 superbetine.com
 0.0.0.0 superbetinegir.com
 0.0.0.0 superbetinfirsatlar.com
-0.0.0.0 superbeting.net
 0.0.0.0 superbeting.top
 0.0.0.0 superbetingeliyor.com
 0.0.0.0 superbetingir.com
@@ -629412,7 +629399,6 @@
 0.0.0.0 surebetscomunidad.com
 0.0.0.0 surebetservices.com
 0.0.0.0 surebetsg.app
-0.0.0.0 surebetsg.asia
 0.0.0.0 surebetsg.biz
 0.0.0.0 surebetsg.co
 0.0.0.0 surebetsg.com
@@ -656569,7 +656555,6 @@
 0.0.0.0 turkbetspor.com
 0.0.0.0 turkbetwin.top
 0.0.0.0 turkbetyeniadres.com
-0.0.0.0 turkcasino.click
 0.0.0.0 turkcasinobzhsm.za.com
 0.0.0.0 turkcasinolarigiris.online
 0.0.0.0 turkcasinoqavx.za.com
@@ -664915,7 +664900,6 @@
 0.0.0.0 valleyviewcasino.com
 0.0.0.0 valleyviewcasinop.com
 0.0.0.0 vallon-pont-darc.com
-0.0.0.0 valmontcasino.com
 0.0.0.0 valobet.site
 0.0.0.0 valocasino.com
 0.0.0.0 valohoki-slotonline.pages.dev
