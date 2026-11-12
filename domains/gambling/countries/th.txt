@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Thailand (th)
-# Domains: 30 | Updated: 2026-11-12
+# Domains: 32 | Updated: 2026-11-12
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/gambling/countries/th.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,7 +12,9 @@ empleo.somosaited.org
 joker123myanmar.com
 lucabet.net
 lucabet168.admin.clinicaaguiars.com
+lucabet168.aws-327.aws.melbourneit.com.au
 lucabet168.connect.olgchs.org
+lucabet168plus.aws-327.aws.melbourneit.com.au
 lucabet168plus.go.aaply.app
 lucabet8v.co
 maisonthreads.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, cname
-# Domains: 190 | Updated: 2026-11-12
+# Domains: 191 | Updated: 2026-11-12
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/cname.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -82,6 +82,7 @@
 0.0.0.0 hard.al
 0.0.0.0 hitbox.com
 0.0.0.0 hosting.jitsu.com
+0.0.0.0 initxa.com
 0.0.0.0 innocraft.cloud
 0.0.0.0 iocnt.net
 0.0.0.0 jtracs.com

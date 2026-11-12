@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Trackers
-! Domains: 713 | Updated: 2026-11-12
+! Domains: 762 | Updated: 2026-11-12
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/trackers/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -41,15 +41,21 @@
 ||activate.cdw.com^
 ||activate.cdwg.com^
 ||activitystream.com^
+||ad-broker-prod.smartcasttv.com^
+||ad-download-mam.hismarttv.com^
+||ad-imp.hismarttv.com^
 ||ad.dyntracker.com^
 ||ad.dyntracker.de^
+||ad.lgappstv.com^
 ||ad1.dyntracker.com^
+||adconsent.samsungrs.com^
 ||adloop.centerparcs.be^
 ||adloop.centerparcs.de^
 ||adloop.centerparcs.fr^
 ||adloop.centerparcs.nl^
 ||adloop.pierreetvacances.com^
 ||ads-monitor.xyz^
+||ads-portal-cdn.vidaatv.net^
 ||adsimp.com^
 ||adtimizer.co^
 ||adtimizer.com^
@@ -63,12 +69,16 @@
 ||ahdmw.com^
 ||ahdmx.com^
 ||ahdmy.com^
+||aic-gfts.lge.com^
+||aic-ngfts.lge.com^
 ||akedo.gg^
+||al-smetrics.vizio.com^
 ||alma-domain.oursprivacy.com^
 ||analytics.bighappy.co^
 ||analytics.mobileacademy.com^
 ||analytics.rezonence.com^
 ||analytics.usehardal.com^
+||android-promo.titanos.tv^
 ||apachedigital.io^
 ||api.adsping.io^
 ||api.assertcom.de^
@@ -108,6 +118,8 @@
 ||awsdus.api.c0nnectthed0ts.com^
 ||aytrk.net^
 ||bc-sync.com^
+||beacon-partner.web.roku.com^
+||beacon.web.roku.com^
 ||birch.asia^
 ||birch.click^
 ||birch.events^
@@ -124,6 +136,7 @@
 ||brello-domain.oursprivacy.com^
 |buusjcvujpo-pwt.donlgx.net^
 ||ca.alketech.eu^
+||call.me.sel.sony.com^
 ||capialmap.com^
 ||capig.datah04.com^
 ||capig.taggrs.cloud^
@@ -138,6 +151,7 @@
 |cdp.cloud.unity3d.com^
 ||cerebro.services^
 ||citymaster.io^
+||cjpowercast.com^
 ||cm4l4nnzk0007nbvfvact8d7p-signal.usehardal.com^
 ||cm4setzmy00096kyek6qmxkba-signal.usehardal.com^
 ||cm4wrdj6o000ksamvz1gih4wu-signal.usehardal.com^
@@ -149,12 +163,15 @@
 ||cname.trackgo.io^
 ||cname.truemetrics.eu^
 ||cnci.tech^
+||collect-eu-fy2014.myhomescreen.tv^
+||collect-us-fy2014.myhomescreen.tv^
 |collect.saas.castbox.fm^
 ||collector.pbimetrics.com^
 ||commander1.com^
 ||compooonents.com^
 |config.uca.cloud.unity3d.com^
 ||connect.bonicbd.com^
+||content-engagement-metrics.smartcasttv.com^
 ||context-api.brainnordic.com^
 ||controlium.net^
 |conversions.af-sdk.net^
@@ -171,9 +188,11 @@
 |d1fcoizt7mje85.cloudfront.net^
 |d2epnp0vokbtl7.cloudfront.net^
 |d8lmy5wyiokrq.cloudfront.net^
+||data.mistat.intl.miui.com^
 ||data.tagual.com^
 ||databridge.tdbtrk.com^
 ||datalayer.p7s1.io^
+||dis.inscape.tv^
 ||discover-tech.io^
 |discovertech-alb-100966113.us-east-1.elb.amazonaws.com^
 |discovertech.us.auth0.com^
@@ -190,6 +209,7 @@
 ||easym.gasag.de^
 ||edge.funneltrack.com^
 ||edgetag.io^
+||eic-gfts.lge.com^
 ||emtag.net^
 |engagements.appsflyer.com^
 ||eu-1.tagmanagerserverside.it^
@@ -200,6 +220,7 @@
 ||events.014on.com^
 ||everestengagement.com^
 ||ew3.io^
+||experiments-prod.smartcasttv.com^
 ||external.simpleanalytics.com^
 ||f0analytics.com^
 ||fallback.capiplatform.com^
@@ -211,6 +232,8 @@
 |fyywngzynts-tax.pareci.net^
 ||fzero.live^
 ||g.voler-nutix.com^
+||game.internetat.tv^
+||gamespromotion.samsungcloudsolution.com^
 ||gateway.tracklabs.com.br^
 |gator.uba.ap-southeast-1.volces.com^
 |gcdsdk.af-sdk.net^
@@ -220,12 +243,18 @@
 ||gtm.quarx.uk^
 ||hard.al^
 |hb-fwfou.donlgx.net^
+||hbbtv-track.redbutton.de^
 ||hitbox.com^
 ||hosting.jitsu.com^
+||ibis.lgappstv.com^
+||ibs.lgappstv.com^
+||ibsstat.lgappstv.com^
 ||img.odbot.co.uk^
 ||impptk.com^
+||impression-proxy-prod.smartcasttv.com^
 |inapps.af-sdk.net^
 ||inistrack.net^
+||initxa.com^
 ||innocraft.cloud^
 ||intelos.io^
 ||iocnt.net^
@@ -237,6 +266,8 @@
 ||koalametrics.com^
 ||kueez.website^
 |launches.af-sdk.net^
+||lgad.cjpowercast.com.edgesuite.net^
+||lgtvcommon.com^
 ||m.exactag.com^
 ||madgicx.ai^
 ||marketing.net.brillen.at^
@@ -253,6 +284,7 @@
 ||metrics.brandnamic.tech^
 |metrics.sdkbox.com^
 ||metrics.skoiy.xyz^
+||mistat.intl.miui.com.edgesuite.net^
 ||mmtro.com^
 ||mndtrk.com^
 ||mr-in.com^
@@ -277,7 +309,9 @@
 ||p.factual.com^
 ||package.leadjourney.io^
 ||perpys-stats.exe.xyz^
+||personalization-prod.smartcasttv.com^
 ||phgeulerian.t2omedia.com^
+||philips-android-promo.titanos.tv^
 ||phoenix-childrens-domain.oursprivacy.com^
 |pia.af-sdk.net^
 ||piwik.cynapsis.de^
@@ -298,8 +332,10 @@
 ||postview.devk.de^
 ||powerium.net^
 ||pragtag.com^
+||premium-videos.telly.com^
 ||prod-ping.swat-adping.com^
 |prodregistryv2.org^
+||promotions-prod.smartcasttv.com^
 ||proxyhog.com^
 ||pulse.synergy.net.au^
 ||pv.aramisauto.com^
@@ -363,7 +399,10 @@
 ||px.springtime-sun.com^
 ||px.yadore-targeting.com^
 ||pxl.wallymatters.com^
+||qoe.samsungcloud.tv^
+||qt2-ngfts.lge.com^
 ||raaslab-analytics.com^
+||redbutton-adproxy-lb-prod.redbutton.de^
 ||redirect271.tagcommander.com^
 ||redirect341.tagcommander.com^
 ||redirect342.tagcommander.com^
@@ -380,11 +419,16 @@
 ||remerge.events^
 ||remindmewhere.app^
 ||resono.io^
+||rlog4.vizio.com^
+||rlog_sem.vizio.com^
 ||rmsi-player.de^
 ||rockets666.com^
 ||s.synoint.com^
 ||sage-dental.oursprivacy.com^
+||samsungadhub.net^
+||samsungads.net^
 ||sanoma-sst.fi^
+||sas.samsungcloudsolution.com^
 ||savvytrack.nl^
 ||sc.omtrdc.net^
 ||screentr.com^
@@ -452,6 +496,7 @@
 ||stats-origin.analyze.swiss^
 ||stats.jeengweb.com^
 |supercent-kr-receiver.thinkingai.io^
+||svwindow.samsungcloudsolution.com^
 ||sync-pixel.com^
 ||sync-service.net^
 ||t.adtrcknet.com^
@@ -551,6 +596,7 @@
 ||track.madington.com^
 ||track.panxostack.com^
 ||track.pixelfly.io^
+||track.sr.roku.com^
 ||track.streamedby.com^
 ||track.subserohost.com^
 ||track.trackcombo.com^
@@ -691,8 +737,11 @@
 ||trk.r4u.be^
 ||trustlayersdk.com^
 ||trytagging.com^
+||tvinteractive.tv^
 |us.i.posthog.com^
 ||us.sgtm.space^
+||usage-eu-fy2014.myhomescreen.tv^
+||usage-us-fy2014.myhomescreen.tv^
 ||usercentrics-sst.io^
 ||usercentrics.io^
 ||utiq-aws.net^

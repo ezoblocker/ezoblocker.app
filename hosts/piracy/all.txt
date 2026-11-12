@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,193 | Updated: 2026-11-12
+# Domains: 1,195 | Updated: 2026-11-12
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -363,6 +363,7 @@
 0.0.0.0 fztvseries.live
 0.0.0.0 fztvseries.ng
 0.0.0.0 game-23.adhijasa.com
+0.0.0.0 gamebet.cfd
 0.0.0.0 geoikp.operandum-project.eu
 0.0.0.0 getlive.pcb.com.pk
 0.0.0.0 getoziptv.com
@@ -670,6 +671,7 @@
 0.0.0.0 monoschinos2.net
 0.0.0.0 mooreok.govbuilt.com
 0.0.0.0 mostbet-fit.pages.dev
+0.0.0.0 mostbet.fit
 0.0.0.0 motphimchill.hair
 0.0.0.0 motphimchilll.fun
 0.0.0.0 motphimmoi.org

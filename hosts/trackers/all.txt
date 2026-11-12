@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 713 | Updated: 2026-11-12
+# Domains: 762 | Updated: 2026-11-12
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -41,15 +41,21 @@
 0.0.0.0 activate.cdw.com
 0.0.0.0 activate.cdwg.com
 0.0.0.0 activitystream.com
+0.0.0.0 ad-broker-prod.smartcasttv.com
+0.0.0.0 ad-download-mam.hismarttv.com
+0.0.0.0 ad-imp.hismarttv.com
 0.0.0.0 ad.dyntracker.com
 0.0.0.0 ad.dyntracker.de
+0.0.0.0 ad.lgappstv.com
 0.0.0.0 ad1.dyntracker.com
+0.0.0.0 adconsent.samsungrs.com
 0.0.0.0 adloop.centerparcs.be
 0.0.0.0 adloop.centerparcs.de
 0.0.0.0 adloop.centerparcs.fr
 0.0.0.0 adloop.centerparcs.nl
 0.0.0.0 adloop.pierreetvacances.com
 0.0.0.0 ads-monitor.xyz
+0.0.0.0 ads-portal-cdn.vidaatv.net
 0.0.0.0 adsimp.com
 0.0.0.0 adtimizer.co
 0.0.0.0 adtimizer.com
@@ -63,12 +69,16 @@
 0.0.0.0 ahdmw.com
 0.0.0.0 ahdmx.com
 0.0.0.0 ahdmy.com
+0.0.0.0 aic-gfts.lge.com
+0.0.0.0 aic-ngfts.lge.com
 0.0.0.0 akedo.gg
+0.0.0.0 al-smetrics.vizio.com
 0.0.0.0 alma-domain.oursprivacy.com
 0.0.0.0 analytics.bighappy.co
 0.0.0.0 analytics.mobileacademy.com
 0.0.0.0 analytics.rezonence.com
 0.0.0.0 analytics.usehardal.com
+0.0.0.0 android-promo.titanos.tv
 0.0.0.0 apachedigital.io
 0.0.0.0 api.adsping.io
 0.0.0.0 api.assertcom.de
@@ -108,6 +118,8 @@
 0.0.0.0 awsdus.api.c0nnectthed0ts.com
 0.0.0.0 aytrk.net
 0.0.0.0 bc-sync.com
+0.0.0.0 beacon-partner.web.roku.com
+0.0.0.0 beacon.web.roku.com
 0.0.0.0 birch.asia
 0.0.0.0 birch.click
 0.0.0.0 birch.events
@@ -124,6 +136,7 @@
 0.0.0.0 brello-domain.oursprivacy.com
 0.0.0.0 buusjcvujpo-pwt.donlgx.net
 0.0.0.0 ca.alketech.eu
+0.0.0.0 call.me.sel.sony.com
 0.0.0.0 capialmap.com
 0.0.0.0 capig.datah04.com
 0.0.0.0 capig.taggrs.cloud
@@ -138,6 +151,7 @@
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 cerebro.services
 0.0.0.0 citymaster.io
+0.0.0.0 cjpowercast.com
 0.0.0.0 cm4l4nnzk0007nbvfvact8d7p-signal.usehardal.com
 0.0.0.0 cm4setzmy00096kyek6qmxkba-signal.usehardal.com
 0.0.0.0 cm4wrdj6o000ksamvz1gih4wu-signal.usehardal.com
@@ -149,12 +163,15 @@
 0.0.0.0 cname.trackgo.io
 0.0.0.0 cname.truemetrics.eu
 0.0.0.0 cnci.tech
+0.0.0.0 collect-eu-fy2014.myhomescreen.tv
+0.0.0.0 collect-us-fy2014.myhomescreen.tv
 0.0.0.0 collect.saas.castbox.fm
 0.0.0.0 collector.pbimetrics.com
 0.0.0.0 commander1.com
 0.0.0.0 compooonents.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 connect.bonicbd.com
+0.0.0.0 content-engagement-metrics.smartcasttv.com
 0.0.0.0 context-api.brainnordic.com
 0.0.0.0 controlium.net
 0.0.0.0 conversions.af-sdk.net
@@ -171,9 +188,11 @@
 0.0.0.0 d1fcoizt7mje85.cloudfront.net
 0.0.0.0 d2epnp0vokbtl7.cloudfront.net
 0.0.0.0 d8lmy5wyiokrq.cloudfront.net
+0.0.0.0 data.mistat.intl.miui.com
 0.0.0.0 data.tagual.com
 0.0.0.0 databridge.tdbtrk.com
 0.0.0.0 datalayer.p7s1.io
+0.0.0.0 dis.inscape.tv
 0.0.0.0 discover-tech.io
 0.0.0.0 discovertech-alb-100966113.us-east-1.elb.amazonaws.com
 0.0.0.0 discovertech.us.auth0.com
@@ -190,6 +209,7 @@
 0.0.0.0 easym.gasag.de
 0.0.0.0 edge.funneltrack.com
 0.0.0.0 edgetag.io
+0.0.0.0 eic-gfts.lge.com
 0.0.0.0 emtag.net
 0.0.0.0 engagements.appsflyer.com
 0.0.0.0 eu-1.tagmanagerserverside.it
@@ -200,6 +220,7 @@
 0.0.0.0 events.014on.com
 0.0.0.0 everestengagement.com
 0.0.0.0 ew3.io
+0.0.0.0 experiments-prod.smartcasttv.com
 0.0.0.0 external.simpleanalytics.com
 0.0.0.0 f0analytics.com
 0.0.0.0 fallback.capiplatform.com
@@ -211,6 +232,8 @@
 0.0.0.0 fyywngzynts-tax.pareci.net
 0.0.0.0 fzero.live
 0.0.0.0 g.voler-nutix.com
+0.0.0.0 game.internetat.tv
+0.0.0.0 gamespromotion.samsungcloudsolution.com
 0.0.0.0 gateway.tracklabs.com.br
 0.0.0.0 gator.uba.ap-southeast-1.volces.com
 0.0.0.0 gcdsdk.af-sdk.net
@@ -220,12 +243,18 @@
 0.0.0.0 gtm.quarx.uk
 0.0.0.0 hard.al
 0.0.0.0 hb-fwfou.donlgx.net
+0.0.0.0 hbbtv-track.redbutton.de
 0.0.0.0 hitbox.com
 0.0.0.0 hosting.jitsu.com
+0.0.0.0 ibis.lgappstv.com
+0.0.0.0 ibs.lgappstv.com
+0.0.0.0 ibsstat.lgappstv.com
 0.0.0.0 img.odbot.co.uk
 0.0.0.0 impptk.com
+0.0.0.0 impression-proxy-prod.smartcasttv.com
 0.0.0.0 inapps.af-sdk.net
 0.0.0.0 inistrack.net
+0.0.0.0 initxa.com
 0.0.0.0 innocraft.cloud
 0.0.0.0 intelos.io
 0.0.0.0 iocnt.net
@@ -237,6 +266,8 @@
 0.0.0.0 koalametrics.com
 0.0.0.0 kueez.website
 0.0.0.0 launches.af-sdk.net
+0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+0.0.0.0 lgtvcommon.com
 0.0.0.0 m.exactag.com
 0.0.0.0 madgicx.ai
 0.0.0.0 marketing.net.brillen.at
@@ -253,6 +284,7 @@
 0.0.0.0 metrics.brandnamic.tech
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 metrics.skoiy.xyz
+0.0.0.0 mistat.intl.miui.com.edgesuite.net
 0.0.0.0 mmtro.com
 0.0.0.0 mndtrk.com
 0.0.0.0 mr-in.com
@@ -277,7 +309,9 @@
 0.0.0.0 p.factual.com
 0.0.0.0 package.leadjourney.io
 0.0.0.0 perpys-stats.exe.xyz
+0.0.0.0 personalization-prod.smartcasttv.com
 0.0.0.0 phgeulerian.t2omedia.com
+0.0.0.0 philips-android-promo.titanos.tv
 0.0.0.0 phoenix-childrens-domain.oursprivacy.com
 0.0.0.0 pia.af-sdk.net
 0.0.0.0 piwik.cynapsis.de
@@ -298,8 +332,10 @@
 0.0.0.0 postview.devk.de
 0.0.0.0 powerium.net
 0.0.0.0 pragtag.com
+0.0.0.0 premium-videos.telly.com
 0.0.0.0 prod-ping.swat-adping.com
 0.0.0.0 prodregistryv2.org
+0.0.0.0 promotions-prod.smartcasttv.com
 0.0.0.0 proxyhog.com
 0.0.0.0 pulse.synergy.net.au
 0.0.0.0 pv.aramisauto.com
@@ -363,7 +399,10 @@
 0.0.0.0 px.springtime-sun.com
 0.0.0.0 px.yadore-targeting.com
 0.0.0.0 pxl.wallymatters.com
+0.0.0.0 qoe.samsungcloud.tv
+0.0.0.0 qt2-ngfts.lge.com
 0.0.0.0 raaslab-analytics.com
+0.0.0.0 redbutton-adproxy-lb-prod.redbutton.de
 0.0.0.0 redirect271.tagcommander.com
 0.0.0.0 redirect341.tagcommander.com
 0.0.0.0 redirect342.tagcommander.com
@@ -380,11 +419,16 @@
 0.0.0.0 remerge.events
 0.0.0.0 remindmewhere.app
 0.0.0.0 resono.io
+0.0.0.0 rlog4.vizio.com
+0.0.0.0 rlog_sem.vizio.com
 0.0.0.0 rmsi-player.de
 0.0.0.0 rockets666.com
 0.0.0.0 s.synoint.com
 0.0.0.0 sage-dental.oursprivacy.com
+0.0.0.0 samsungadhub.net
+0.0.0.0 samsungads.net
 0.0.0.0 sanoma-sst.fi
+0.0.0.0 sas.samsungcloudsolution.com
 0.0.0.0 savvytrack.nl
 0.0.0.0 sc.omtrdc.net
 0.0.0.0 screentr.com
@@ -452,6 +496,7 @@
 0.0.0.0 stats-origin.analyze.swiss
 0.0.0.0 stats.jeengweb.com
 0.0.0.0 supercent-kr-receiver.thinkingai.io
+0.0.0.0 svwindow.samsungcloudsolution.com
 0.0.0.0 sync-pixel.com
 0.0.0.0 sync-service.net
 0.0.0.0 t.adtrcknet.com
@@ -551,6 +596,7 @@
 0.0.0.0 track.madington.com
 0.0.0.0 track.panxostack.com
 0.0.0.0 track.pixelfly.io
+0.0.0.0 track.sr.roku.com
 0.0.0.0 track.streamedby.com
 0.0.0.0 track.subserohost.com
 0.0.0.0 track.trackcombo.com
@@ -691,8 +737,11 @@
 0.0.0.0 trk.r4u.be
 0.0.0.0 trustlayersdk.com
 0.0.0.0 trytagging.com
+0.0.0.0 tvinteractive.tv
 0.0.0.0 us.i.posthog.com
 0.0.0.0 us.sgtm.space
+0.0.0.0 usage-eu-fy2014.myhomescreen.tv
+0.0.0.0 usage-us-fy2014.myhomescreen.tv
 0.0.0.0 usercentrics-sst.io
 0.0.0.0 usercentrics.io
 0.0.0.0 utiq-aws.net

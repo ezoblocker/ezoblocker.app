@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,309 | Updated: 2026-11-12
+# Domains: 1,310 | Updated: 2026-11-12
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -954,6 +954,7 @@
 0.0.0.0 pussy-laufhaus.at
 0.0.0.0 putana74.net
 0.0.0.0 putanamama-vlg.top
+0.0.0.0 putas-ibiza.es
 0.0.0.0 puticlubs.com
 0.0.0.0 quackquack.in
 0.0.0.0 rakipsizsohbet.net

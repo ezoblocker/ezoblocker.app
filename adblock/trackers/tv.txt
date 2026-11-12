@@ -1,0 +1,54 @@
+! Title: EZOBLOCKER Trackers, tv
+! Domains: 48 | Updated: 2026-11-12
+! Homepage: https://github.com/ezoblocker/ezoblocker.app
+! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/trackers/tv.txt
+! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
+! App: https://ezoblocker.app
+||ad-broker-prod.smartcasttv.com^
+||ad-download-mam.hismarttv.com^
+||ad-imp.hismarttv.com^
+||ad.lgappstv.com^
+||adconsent.samsungrs.com^
+||ads-portal-cdn.vidaatv.net^
+||aic-gfts.lge.com^
+||aic-ngfts.lge.com^
+||al-smetrics.vizio.com^
+||android-promo.titanos.tv^
+||beacon-partner.web.roku.com^
+||beacon.web.roku.com^
+||call.me.sel.sony.com^
+||cjpowercast.com^
+||collect-eu-fy2014.myhomescreen.tv^
+||collect-us-fy2014.myhomescreen.tv^
+||content-engagement-metrics.smartcasttv.com^
+||data.mistat.intl.miui.com^
+||dis.inscape.tv^
+||eic-gfts.lge.com^
+||experiments-prod.smartcasttv.com^
+||game.internetat.tv^
+||gamespromotion.samsungcloudsolution.com^
+||hbbtv-track.redbutton.de^
+||ibis.lgappstv.com^
+||ibs.lgappstv.com^
+||ibsstat.lgappstv.com^
+||impression-proxy-prod.smartcasttv.com^
+||lgad.cjpowercast.com.edgesuite.net^
+||lgtvcommon.com^
+||mistat.intl.miui.com.edgesuite.net^
+||personalization-prod.smartcasttv.com^
+||philips-android-promo.titanos.tv^
+||premium-videos.telly.com^
+||promotions-prod.smartcasttv.com^
+||qoe.samsungcloud.tv^
+||qt2-ngfts.lge.com^
+||redbutton-adproxy-lb-prod.redbutton.de^
+||rlog4.vizio.com^
+||rlog_sem.vizio.com^
+||samsungadhub.net^
+||samsungads.net^
+||sas.samsungcloudsolution.com^
+||svwindow.samsungcloudsolution.com^
+||track.sr.roku.com^
+||tvinteractive.tv^
+||usage-eu-fy2014.myhomescreen.tv^
+||usage-us-fy2014.myhomescreen.tv^

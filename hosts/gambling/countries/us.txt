@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, United States (us)
-# Domains: 16 | Updated: 2026-11-12
+# Domains: 17 | Updated: 2026-11-12
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -20,3 +20,4 @@
 0.0.0.0 sweepsy.com
 0.0.0.0 thenodeposit.com
 0.0.0.0 uspoker.com
+0.0.0.0 vwhtx.com

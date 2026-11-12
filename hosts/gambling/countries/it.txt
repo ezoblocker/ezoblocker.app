@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Italy (it)
-# Domains: 30 | Updated: 2026-11-12
+# Domains: 31 | Updated: 2026-11-12
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/it.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 0.0.0.0 bestlaheadshots.com
 0.0.0.0 betwinner-eu.com
 0.0.0.0 betwinner.co.it
+0.0.0.0 betwinneritalia.net
 0.0.0.0 casadelcostume.com
 0.0.0.0 casino-stranieri.com
 0.0.0.0 casinononaamslive.it

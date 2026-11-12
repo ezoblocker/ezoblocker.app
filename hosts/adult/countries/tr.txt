@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 496 | Updated: 2026-11-12
+# Domains: 497 | Updated: 2026-11-12
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -92,6 +92,7 @@
 0.0.0.0 beylikduzuesc.uno
 0.0.0.0 beylikduzuescort.com
 0.0.0.0 beylikduzuescortkadin.com
+0.0.0.0 beylikduzuescortlari.xyz
 0.0.0.0 bibi10.site
 0.0.0.0 bitkiselshop.com.tr
 0.0.0.0 bodrumangels.com
@@ -290,7 +291,6 @@
 0.0.0.0 mobilexh.life
 0.0.0.0 movieshark.com
 0.0.0.0 mutva.com
-0.0.0.0 mytorontoescort.info
 0.0.0.0 nazira1.wtf
 0.0.0.0 newseskort.site
 0.0.0.0 newseskorts.shop
@@ -386,6 +386,7 @@
 0.0.0.0 tayf.ist
 0.0.0.0 telefondasexhatti.com
 0.0.0.0 telegramifsagruplari.com
+0.0.0.0 temptingescorts.com
 0.0.0.0 terbiyesizzler.com
 0.0.0.0 terresaintezarlor.re
 0.0.0.0 tgturkifsa6.lat
