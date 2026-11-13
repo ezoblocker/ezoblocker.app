@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 2,614 | Updated: 2026-11-13
+# Domains: 2,615 | Updated: 2026-11-13
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -636,6 +636,7 @@
 0.0.0.0 dorcel-b2b.com
 0.0.0.0 dorcel-store.com
 0.0.0.0 dorcelstore.com
+0.0.0.0 dorthy2.best
 0.0.0.0 doxxes.love
 0.0.0.0 dream-x.ch
 0.0.0.0 dreamsptystore.com
@@ -688,7 +689,6 @@
 0.0.0.0 epoptavka.cz
 0.0.0.0 ero315.com
 0.0.0.0 erocraves.com
-0.0.0.0 erofilm.co
 0.0.0.0 erokatuu.com
 0.0.0.0 erolaif.ru
 0.0.0.0 eromarkt.nl
@@ -1602,7 +1602,6 @@
 0.0.0.0 phimsexhaylu.com
 0.0.0.0 phimsexhaynon.com
 0.0.0.0 phimsexhayxinh.com
-0.0.0.0 phimsexmoi.cc
 0.0.0.0 phimsextapthe69.com
 0.0.0.0 phimsexvietsubx.blog
 0.0.0.0 phimsub.blog
@@ -1674,6 +1673,7 @@
 0.0.0.0 pornfilmcx17.click
 0.0.0.0 pornflix.to
 0.0.0.0 pornforarab.com
+0.0.0.0 pornhubz.net
 0.0.0.0 pornlinkhub.com
 0.0.0.0 pornlinks18.com
 0.0.0.0 pornmk.com
@@ -1896,6 +1896,7 @@
 0.0.0.0 sex-shop69.cz
 0.0.0.0 sex-toys.bg
 0.0.0.0 sex-versand.com
+0.0.0.0 sex-viet69.com
 0.0.0.0 sex-webcams-live.com
 0.0.0.0 sex.vlaanderen
 0.0.0.0 sexalarab.tv
