@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,418 | Updated: 2026-11-12
+# Domains: 1,423 | Updated: 2026-11-13
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -93,6 +93,7 @@ alert.shop-bell.com
 *.arzumshop.com.tr
 *.asexshop.gr
 *.askari-jagd.at
+*.askerotikshop.com.tr
 *.asosloja.com.br
 *.at-usagiya.com
 *.atacado.com
@@ -257,6 +258,7 @@ cultura.cartagena.es
 *.delighttoys.in
 *.deliveryabelgrano.com.ar
 *.deliveryaltopalermo.com.ar
+demo.technophoria.co.id
 *.depaarsekeizerin.nl
 *.desejoeamor.com.br
 *.deseovibrante.cl
@@ -632,6 +634,7 @@ kirov.fooby.ru
 *.loveberry.gr
 *.lovebuddy.se
 *.lovecosmetic.jp
+*.lovecoupons.com.au
 *.lovecraft.co.za
 *.lovedepot.com
 *.lovedovey.com
@@ -817,6 +820,7 @@ nordfriesland.city-map.de
 *.nuhoangkhoaicam.vn
 *.o-diaries.com
 *.obchodumotyla.cz
+*.oboticario.com.co
 *.obsessive.com
 *.officialtoys.pk
 *.ohmylove.cl
@@ -1191,6 +1195,7 @@ shhhsexshop.kyte.site
 *.shyman.co.kr
 *.siamsextoys.com
 *.siamtenga.com
+*.sieuthinguoilon.com
 *.siliconehousein.com
 *.siliconelovers.com
 *.simplypleasure.com

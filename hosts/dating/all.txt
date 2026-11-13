@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,310 | Updated: 2026-11-12
+# Domains: 1,313 | Updated: 2026-11-13
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -485,12 +485,14 @@
 0.0.0.0 gaigoiquynhon6.net
 0.0.0.0 gaigoitv5.net
 0.0.0.0 gaigoitv6.net
+0.0.0.0 gaigoitv7.net
 0.0.0.0 gaigoivc.now
 0.0.0.0 gaigoivip.net
 0.0.0.0 gaito.uk
 0.0.0.0 gaito16.fit
 0.0.0.0 gaito18.fit
 0.0.0.0 gaito20.fit
+0.0.0.0 gaito26.fit
 0.0.0.0 galati.abcescorte.com
 0.0.0.0 galati.escortela.net
 0.0.0.0 gama-cazino.store
@@ -1192,6 +1194,7 @@
 0.0.0.0 topescortnews.eu
 0.0.0.0 topescortworld.com
 0.0.0.0 topherpesdatingsites.com
+0.0.0.0 toronto.5escorts.ca
 0.0.0.0 toronto.bonepage.com
 0.0.0.0 torrenteagle.com
 0.0.0.0 townsville.5escorts.com

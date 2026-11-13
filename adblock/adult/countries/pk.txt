@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, PK (pk)
-! Domains: 57 | Updated: 2026-11-12
+! Domains: 62 | Updated: 2026-11-13
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/pk.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@
 ||darazcod.com.pk^
 ||daraztoy.com.pk^
 ||daraztoys.pk^
+||desiporn.life^
 ||easytoys.pk^
 ||ebaytoy.pk^
 ||elegantyou.com.pk^
@@ -35,6 +36,8 @@
 ||martshop.pk^
 ||masaporn.city^
 ||missclassy.pk^
+||mmsdude.com^
+||mydesi.co.im^
 ||mydesi18.com^
 ||noroz.pk^
 ||officialtoys.pk^
@@ -54,6 +57,7 @@
 ||toysinpakistan.pk^
 ||toysinpakistani.pk^
 ||toyzpakistan.com^
+||uncutprime.org^
 ||vibrator.pk^
 ||viralgf10.com^
 ||viralgf13.com^
@@ -61,3 +65,4 @@
 ||xoxostore.pk^
 ||xtoys.pk^
 ||xtoyshub.pk^
+||xxxvideosmax.com^

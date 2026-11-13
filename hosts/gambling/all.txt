@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 758,664 | Updated: 2026-11-12
+# Domains: 758,683 | Updated: 2026-11-13
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -2202,6 +2202,8 @@
 0.0.0.0 123bcasinos.com
 0.0.0.0 123bet-khelo.com
 0.0.0.0 123bet.lv
+0.0.0.0 123bet.members.petaluma.com.au
+0.0.0.0 123bet.xin
 0.0.0.0 123betaposta.com
 0.0.0.0 123betbets.com
 0.0.0.0 123betbrl.com
@@ -30816,6 +30818,7 @@
 0.0.0.0 945hilbet.com
 0.0.0.0 946tumbet.com
 0.0.0.0 9475-casino.pages.dev
+0.0.0.0 948hilbet.com
 0.0.0.0 94betbets.com
 0.0.0.0 94betcasino.com
 0.0.0.0 94bets10.com
@@ -41712,6 +41715,7 @@
 0.0.0.0 alicebet-casino.com
 0.0.0.0 aliceboyes-flokitoto.pages.dev
 0.0.0.0 aliceboyes-slotthai.pages.dev
+0.0.0.0 alicelebrigant-dieteticienne.fr
 0.0.0.0 alicesgardengenk.be
 0.0.0.0 alicesprings-casino.com
 0.0.0.0 alicespringscasino-au-com.pages.dev
@@ -51898,6 +51902,7 @@
 0.0.0.0 antirungkatspin189.pages.dev
 0.0.0.0 antirungkatunsur.pages.dev
 0.0.0.0 antislotonline.com
+0.0.0.0 antisopore.it
 0.0.0.0 antitelemarketer-mdgwin.pages.dev
 0.0.0.0 antivalidasi-tag4dtotosgp.pages.dev
 0.0.0.0 antnest-pokergacor-idnpoker.pages.dev
@@ -257864,6 +257869,7 @@
 0.0.0.0 enjoycasinocruises.com
 0.0.0.0 enjoycasinoslots.com
 0.0.0.0 enjoyslotslot.com
+0.0.0.0 enkahuis.nl
 0.0.0.0 enlacebrinsatotoslotson.pages.dev
 0.0.0.0 enlargeyourbetting.com
 0.0.0.0 enligne-casino.fr
@@ -264260,6 +264266,7 @@
 0.0.0.0 fabulousvegascasino.org
 0.0.0.0 fabulousvegascasino.org.uk
 0.0.0.0 fabulousvegascasino.uk
+0.0.0.0 fabuplusmagazine.com
 0.0.0.0 facai-casino.com
 0.0.0.0 facaitotomax.art
 0.0.0.0 facaitotomax.asia
@@ -334938,6 +334945,7 @@
 0.0.0.0 instentcasino.com
 0.0.0.0 instiperjogjaxslotgacor.pages.dev
 0.0.0.0 institusi-pendidikan-slotgacor.pages.dev
+0.0.0.0 institut-laurence.fr
 0.0.0.0 institut-pelatihan-togel-online-berjayatogel.pages.dev
 0.0.0.0 institutalaqsha-k1nggslott.pages.dev
 0.0.0.0 institute-burungbet.pages.dev
@@ -427829,6 +427837,7 @@
 0.0.0.0 mcphillipsstationcasino.ca
 0.0.0.0 mcpoker.org
 0.0.0.0 mcqcasino.org
+0.0.0.0 mcrb-kalt.ru
 0.0.0.0 mctogel-haitogel.art
 0.0.0.0 mcuanwin88.buzz
 0.0.0.0 mcuanwin88.net
@@ -450831,6 +450840,7 @@
 0.0.0.0 mostbet-official.run
 0.0.0.0 mostbet-official.se
 0.0.0.0 mostbet-official.site
+0.0.0.0 mostbet-official.style
 0.0.0.0 mostbet-official.us.org
 0.0.0.0 mostbet-officla1.ru
 0.0.0.0 mostbet-offiziell.de
@@ -497549,6 +497559,7 @@
 0.0.0.0 oscar-spincasino.es
 0.0.0.0 oscar-spincasino.gr
 0.0.0.0 oscarcasino-ca.eu
+0.0.0.0 oscarniteclub.se
 0.0.0.0 oscarpresentationskills-com-resmi-ugdewa.pages.dev
 0.0.0.0 oscarspin-1-at-13de01ee.pages.dev
 0.0.0.0 oscarspin-1-net.pages.dev
@@ -507454,6 +507465,7 @@
 0.0.0.0 pedro4d-daftarslot.pages.dev
 0.0.0.0 peds-anakslot-gokil.pages.dev
 0.0.0.0 peds-gov-anakslot.pages.dev
+0.0.0.0 pedzelek.bdpn.pl
 0.0.0.0 peergamecasino.co.uk
 0.0.0.0 peerysportsbook.com
 0.0.0.0 peesidentoto.club
@@ -509960,6 +509972,7 @@
 0.0.0.0 pfbetslots.com
 0.0.0.0 pfbetvv.com
 0.0.0.0 pferderennendewetten.com
+0.0.0.0 pferderennenerklart.com
 0.0.0.0 pferdewetten-de.com
 0.0.0.0 pferdewetten24.org
 0.0.0.0 pferdewettende.com
@@ -544534,6 +544547,7 @@
 0.0.0.0 probet706.com
 0.0.0.0 probet707.com
 0.0.0.0 probet709.com
+0.0.0.0 probet710.com
 0.0.0.0 probet855livertp2024.pages.dev
 0.0.0.0 probet88-andalan-slot-gacor.pages.dev
 0.0.0.0 probet88-apk.pages.dev
@@ -551811,6 +551825,7 @@
 0.0.0.0 rabona-sk.org
 0.0.0.0 rabona-sl.com
 0.0.0.0 rabona-slots.com
+0.0.0.0 rabona-slovakia.net
 0.0.0.0 rabona-slovenia.com
 0.0.0.0 rabona-slovenia.si
 0.0.0.0 rabona-sportfogadas.com
@@ -629457,6 +629472,8 @@
 0.0.0.0 sonbahis732.com
 0.0.0.0 sonbahis733.com
 0.0.0.0 sonbahis735.com
+0.0.0.0 sonbahis741.com
+0.0.0.0 sonbahis742.com
 0.0.0.0 sonbahisgirislinki.live
 0.0.0.0 sonbahissiteleri1.com
 0.0.0.0 sonbuktijp.xyz
@@ -709877,6 +709894,7 @@
 0.0.0.0 vicecasino.nl
 0.0.0.0 vicecasinos.com
 0.0.0.0 vicecityspin.xyz
+0.0.0.0 viche.info
 0.0.0.0 vici-bet-1.pages.dev
 0.0.0.0 vici-bet-casino.de
 0.0.0.0 vici-bet-casino.gr
@@ -726281,6 +726299,7 @@
 0.0.0.0 whynotbet-sk-42777.pages.dev
 0.0.0.0 whynotbetcasino.com
 0.0.0.0 whyse.co
+0.0.0.0 wi.bestmonitoringtools.com
 0.0.0.0 wi55casinobet.com
 0.0.0.0 wi88casinobet.com
 0.0.0.0 wia-am-bichelsee.ch

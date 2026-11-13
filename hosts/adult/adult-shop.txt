@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,418 | Updated: 2026-11-12
+# Domains: 1,423 | Updated: 2026-11-13
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -93,6 +93,7 @@
 0.0.0.0 arzumshop.com.tr
 0.0.0.0 asexshop.gr
 0.0.0.0 askari-jagd.at
+0.0.0.0 askerotikshop.com.tr
 0.0.0.0 asosloja.com.br
 0.0.0.0 at-usagiya.com
 0.0.0.0 atacado.com
@@ -257,6 +258,7 @@
 0.0.0.0 delighttoys.in
 0.0.0.0 deliveryabelgrano.com.ar
 0.0.0.0 deliveryaltopalermo.com.ar
+0.0.0.0 demo.technophoria.co.id
 0.0.0.0 depaarsekeizerin.nl
 0.0.0.0 desejoeamor.com.br
 0.0.0.0 deseovibrante.cl
@@ -632,6 +634,7 @@
 0.0.0.0 loveberry.gr
 0.0.0.0 lovebuddy.se
 0.0.0.0 lovecosmetic.jp
+0.0.0.0 lovecoupons.com.au
 0.0.0.0 lovecraft.co.za
 0.0.0.0 lovedepot.com
 0.0.0.0 lovedovey.com
@@ -817,6 +820,7 @@
 0.0.0.0 nuhoangkhoaicam.vn
 0.0.0.0 o-diaries.com
 0.0.0.0 obchodumotyla.cz
+0.0.0.0 oboticario.com.co
 0.0.0.0 obsessive.com
 0.0.0.0 officialtoys.pk
 0.0.0.0 ohmylove.cl
@@ -1191,6 +1195,7 @@
 0.0.0.0 shyman.co.kr
 0.0.0.0 siamsextoys.com
 0.0.0.0 siamtenga.com
+0.0.0.0 sieuthinguoilon.com
 0.0.0.0 siliconehousein.com
 0.0.0.0 siliconelovers.com
 0.0.0.0 simplypleasure.com

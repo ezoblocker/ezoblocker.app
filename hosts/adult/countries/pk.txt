@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, PK (pk)
-# Domains: 57 | Updated: 2026-11-12
+# Domains: 62 | Updated: 2026-11-13
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/pk.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@
 0.0.0.0 darazcod.com.pk
 0.0.0.0 daraztoy.com.pk
 0.0.0.0 daraztoys.pk
+0.0.0.0 desiporn.life
 0.0.0.0 easytoys.pk
 0.0.0.0 ebaytoy.pk
 0.0.0.0 elegantyou.com.pk
@@ -35,6 +36,8 @@
 0.0.0.0 martshop.pk
 0.0.0.0 masaporn.city
 0.0.0.0 missclassy.pk
+0.0.0.0 mmsdude.com
+0.0.0.0 mydesi.co.im
 0.0.0.0 mydesi18.com
 0.0.0.0 noroz.pk
 0.0.0.0 officialtoys.pk
@@ -54,6 +57,7 @@
 0.0.0.0 toysinpakistan.pk
 0.0.0.0 toysinpakistani.pk
 0.0.0.0 toyzpakistan.com
+0.0.0.0 uncutprime.org
 0.0.0.0 vibrator.pk
 0.0.0.0 viralgf10.com
 0.0.0.0 viralgf13.com
@@ -61,3 +65,4 @@
 0.0.0.0 xoxostore.pk
 0.0.0.0 xtoys.pk
 0.0.0.0 xtoyshub.pk
+0.0.0.0 xxxvideosmax.com

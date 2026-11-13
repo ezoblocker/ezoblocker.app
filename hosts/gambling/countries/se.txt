@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Sweden (se)
-# Domains: 30 | Updated: 2026-11-12
+# Domains: 32 | Updated: 2026-11-13
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/se.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -28,7 +28,9 @@
 0.0.0.0 nomini-lmu.tervarinne.fi
 0.0.0.0 nominiboards.com
 0.0.0.0 novibet-roulette-ujp.itawebitalia.it
+0.0.0.0 oscarniteclub.se
 0.0.0.0 paynplaycasinoonline.com
+0.0.0.0 rabona-slovakia.net
 0.0.0.0 rabonasports.org
 0.0.0.0 speltips.se
 0.0.0.0 svenskacasinosajten.se

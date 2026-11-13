@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 497 | Updated: 2026-11-12
+# Domains: 500 | Updated: 2026-11-13
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -39,6 +39,7 @@
 0.0.0.0 alanyaredescot.vip
 0.0.0.0 alaylisekerleme.com
 0.0.0.0 allmodels.info
+0.0.0.0 altyazili.org
 0.0.0.0 altyazilihdturkceporno.online
 0.0.0.0 altyazilihubxt12.site
 0.0.0.0 altyazilihubxt15.click
@@ -63,6 +64,7 @@
 0.0.0.0 armonishop.com
 0.0.0.0 artvinescortbulucu.xyz
 0.0.0.0 arzumshop.com.tr
+0.0.0.0 askerotikshop.com.tr
 0.0.0.0 askimyavas201.live
 0.0.0.0 askimyavas204.live
 0.0.0.0 askimyavas206.live
@@ -490,6 +492,7 @@
 0.0.0.0 yavasgir171.live
 0.0.0.0 yavasgir174.live
 0.0.0.0 yavasgir175.live
+0.0.0.0 yavasgir177.live
 0.0.0.0 yerelsohbet.net
 0.0.0.0 yetiskin.org
 0.0.0.0 yetiskinsohbet.com.tr

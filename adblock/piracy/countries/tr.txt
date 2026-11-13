@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, Türkiye (tr)
-! Domains: 104 | Updated: 2026-11-12
+! Domains: 108 | Updated: 2026-11-13
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -21,7 +21,10 @@
 ||diziizle.click^
 ||dizilab.cc^
 ||dizilab.to^
+||dizipal.rest^
+||dizipal1826.com^
 ||dizipaliptv.com.tr^
+||dizipalorjinal21.com^
 ||diziyou.info^
 ||diziyou.one^
 ||diziyou.vip^
@@ -29,6 +32,7 @@
 ||filmdozu.com^
 ||filmekseni.vip^
 ||filmiwebteizle.blogspot.com^
+||filmizlebabam.com^
 ||filmizlebabam.icu^
 ||filmizledim.com^
 ||filmmakinesi.to^

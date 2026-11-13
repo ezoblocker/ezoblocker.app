@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,195 | Updated: 2026-11-12
+# Domains: 1,202 | Updated: 2026-11-13
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -225,7 +225,10 @@ directory.acci.gr
 *.diziizle.wiki
 *.dizilab.cc
 *.dizilab.to
+*.dizipal.rest
+*.dizipal1826.com
 *.dizipaliptv.com.tr
+*.dizipalorjinal21.com
 *.diziyou.info
 *.diziyou.one
 *.diziyou.vip
@@ -284,6 +287,7 @@ farmacia.vilhena.ro.gov.br
 *.filmix.my
 *.filmix.pw
 *.filmizle.ink
+*.filmizlebabam.com
 *.filmizlebabam.icu
 *.filmizledim.com
 *.filmmakinesi.to
@@ -347,6 +351,7 @@ ftp.wpc.or.kr
 *.futbollibreenvivo.net
 *.futbollibrefullhd.org
 *.futbollibretvhd.co
+*.futbollibretvplay.org
 *.futbolyconsolas.es
 *.futemax.at
 *.futemax.gay
@@ -1071,6 +1076,7 @@ tipperary.gaa.ie
 tour.gra.uk.com
 *.trdiziizle.tv
 tributario.piracicaba.sp.gov.br
+*.truc-tiep-socolive.lol
 *.tructiep90phuttv.club
 *.ttbd-socolive.pro
 *.tufutbollibre.online
@@ -1173,6 +1179,7 @@ www2.gema.org
 *.xoilacvbb.tv
 *.xoilacvbc.tv
 *.xoilacvbe.tv
+*.xoilacvbi.tv
 *.xoilacvbm.tv
 *.xoilacvbq.tv
 *.xoilacvn.app

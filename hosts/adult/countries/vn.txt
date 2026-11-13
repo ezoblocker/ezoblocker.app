@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Vietnam (vn)
-# Domains: 137 | Updated: 2026-11-12
+# Domains: 145 | Updated: 2026-11-13
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,7 @@
 0.0.0.0 benyu.qom.vn
 0.0.0.0 bigbullshop.vn
 0.0.0.0 cc-park.com
+0.0.0.0 chim69.site
 0.0.0.0 chuyentinhvn.webflow.io
 0.0.0.0 cineclate.com
 0.0.0.0 clipfull.blog
@@ -32,6 +33,7 @@
 0.0.0.0 cliphotvnz.monster
 0.0.0.0 clipphot69.xyz
 0.0.0.0 clipvip.blog
+0.0.0.0 coisexvn.net
 0.0.0.0 cophimsexhay.com
 0.0.0.0 cumshopsextoy.com
 0.0.0.0 dochoinam.com
@@ -41,6 +43,7 @@
 0.0.0.0 filmsexviet.com
 0.0.0.0 flower-emau.com
 0.0.0.0 foxietoy.com
+0.0.0.0 gaicavetv.com
 0.0.0.0 gunshop.vn
 0.0.0.0 hangngon.blog
 0.0.0.0 heo3x.pro
@@ -86,6 +89,7 @@
 0.0.0.0 s1.sexheo.blog
 0.0.0.0 santasheaven.ch
 0.0.0.0 setishop.com
+0.0.0.0 sexgaixinh123.com
 0.0.0.0 sexhayvc.tv
 0.0.0.0 sexhotviet.com
 0.0.0.0 sexngot.blog
@@ -101,7 +105,9 @@
 0.0.0.0 sexviet88.co.uk
 0.0.0.0 sexvietclub.com
 0.0.0.0 sexvietdam.blog
+0.0.0.0 sexvietgaixinh.com
 0.0.0.0 sexvn88hd.blog
+0.0.0.0 sexvndep.com
 0.0.0.0 sexvnn-tv.blog
 0.0.0.0 shop18cm.com
 0.0.0.0 shopadam.vn
@@ -117,6 +123,7 @@
 0.0.0.0 shoptinhai.org
 0.0.0.0 shoptraitim.com
 0.0.0.0 shopvochong24h.com
+0.0.0.0 sieuthinguoilon.com
 0.0.0.0 smstore.vn
 0.0.0.0 snapshop.vn
 0.0.0.0 sphimsex.net
@@ -125,6 +132,7 @@
 0.0.0.0 viet69.be
 0.0.0.0 viet69hays.live
 0.0.0.0 viet69z.blog
+0.0.0.0 vietjav.co.uk
 0.0.0.0 vietsex-tvpro.com
 0.0.0.0 vietsexx.blog
 0.0.0.0 vintoy.vn

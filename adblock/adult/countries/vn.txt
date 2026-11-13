@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Vietnam (vn)
-! Domains: 137 | Updated: 2026-11-12
+! Domains: 145 | Updated: 2026-11-13
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/vn.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,7 @@
 |benyu.qom.vn^
 ||bigbullshop.vn^
 ||cc-park.com^
+||chim69.site^
 ||chuyentinhvn.webflow.io^
 ||cineclate.com^
 ||clipfull.blog^
@@ -32,6 +33,7 @@
 ||cliphotvnz.monster^
 ||clipphot69.xyz^
 ||clipvip.blog^
+||coisexvn.net^
 ||cophimsexhay.com^
 ||cumshopsextoy.com^
 ||dochoinam.com^
@@ -41,6 +43,7 @@
 ||filmsexviet.com^
 ||flower-emau.com^
 ||foxietoy.com^
+||gaicavetv.com^
 ||gunshop.vn^
 ||hangngon.blog^
 ||heo3x.pro^
@@ -86,6 +89,7 @@
 |s1.sexheo.blog^
 ||santasheaven.ch^
 ||setishop.com^
+||sexgaixinh123.com^
 ||sexhayvc.tv^
 ||sexhotviet.com^
 ||sexngot.blog^
@@ -101,7 +105,9 @@
 ||sexviet88.co.uk^
 ||sexvietclub.com^
 ||sexvietdam.blog^
+||sexvietgaixinh.com^
 ||sexvn88hd.blog^
+||sexvndep.com^
 ||sexvnn-tv.blog^
 ||shop18cm.com^
 ||shopadam.vn^
@@ -117,6 +123,7 @@
 ||shoptinhai.org^
 ||shoptraitim.com^
 ||shopvochong24h.com^
+||sieuthinguoilon.com^
 ||smstore.vn^
 ||snapshop.vn^
 ||sphimsex.net^
@@ -125,6 +132,7 @@
 ||viet69.be^
 ||viet69hays.live^
 ||viet69z.blog^
+||vietjav.co.uk^
 ||vietsex-tvpro.com^
 ||vietsexx.blog^
 ||vintoy.vn^
