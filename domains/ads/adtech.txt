@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, adtech
-# Domains: 314 | Updated: 2026-11-14
+# Domains: 316 | Updated: 2026-11-14
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/ads/adtech.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -214,6 +214,7 @@ media.sleeptrain.com
 media.toysrus.com
 media.tripping.com
 media.us.myflavia.com
+media1.elitefixtures.com
 mediadisplay.kabbage.com
 mediamgt.hottopic.com
 midas-adping.shareit-ecom.com
@@ -301,6 +302,7 @@ uber-adsystem.com
 udo.solutions
 up.video
 vast.adthos.com
+vhsrv.com
 vi-tag.net
 video.aryel.space
 videospace.betterbanners.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, ct
-# Domains: 28 | Updated: 2026-11-14
+# Domains: 29 | Updated: 2026-11-14
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,6 +22,7 @@
 0.0.0.0 lesbi.name
 0.0.0.0 lesbienne-france-fr.pages.dev
 0.0.0.0 lesbienne-france.fr
+0.0.0.0 maturesexdating.org
 0.0.0.0 missav123.ovh
 0.0.0.0 mostbet-official.lol
 0.0.0.0 netcasino-life-hisshoho.jp

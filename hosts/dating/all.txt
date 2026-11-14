@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,317 | Updated: 2026-11-14
+# Domains: 1,318 | Updated: 2026-11-14
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -744,6 +744,7 @@
 0.0.0.0 match.com
 0.0.0.0 matchmarry.com
 0.0.0.0 matrymonialne24.pl
+0.0.0.0 maturesexdating.org
 0.0.0.0 mclassbrasil.com.br
 0.0.0.0 medan.putrispa.com
 0.0.0.0 meet-japan.bnextmedia.com

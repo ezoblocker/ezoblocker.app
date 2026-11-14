@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 762 | Updated: 2026-11-14
+# Domains: 763 | Updated: 2026-11-14
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -454,6 +454,7 @@
 0.0.0.0 soureicdn.com
 0.0.0.0 sp-trk.com
 0.0.0.0 spxtrck.baur.de
+0.0.0.0 spxtrck.golighter.de
 0.0.0.0 sst.ibos.agency
 0.0.0.0 sst.metrito.com
 0.0.0.0 sst.websentiment.nl

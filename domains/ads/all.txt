@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 624 | Updated: 2026-11-14
+# Domains: 626 | Updated: 2026-11-14
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -378,6 +378,7 @@ media.sleeptrain.com
 media.toysrus.com
 media.tripping.com
 media.us.myflavia.com
+media1.elitefixtures.com
 mediadisplay.kabbage.com
 mediamgt.hottopic.com
 meta.rtb.hurelax.com
@@ -602,6 +603,7 @@ usync.rocketlab.ai
 usync.smxconv.com
 v.ex.co
 vast.adthos.com
+vhsrv.com
 vi-tag.net
 video.aryel.space
 videospace.betterbanners.com
