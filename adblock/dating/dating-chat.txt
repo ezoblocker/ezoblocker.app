@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating, chat rooms and random video chat
-! Domains: 407 | Updated: 2026-11-13
+! Domains: 408 | Updated: 2026-11-14
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/dating-chat.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -267,6 +267,7 @@
 ||omegle.online^
 ||omegle.webcam^
 ||omegleapp.me^
+||omeglefm.live^
 ||omeglelife.com^
 ||omegletv.net^
 ||omegleweb.com^

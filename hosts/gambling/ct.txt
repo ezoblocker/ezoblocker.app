@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 772,499 | Updated: 2026-11-13
+# Domains: 772,482 | Updated: 2026-11-14
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -988,6 +988,7 @@
 0.0.0.0 1004-thepokiesonline-help.pages.dev
 0.0.0.0 1004-thepokiesonline-site.pages.dev
 0.0.0.0 10040jojobet.com
+0.0.0.0 10054jojobet.com
 0.0.0.0 1008-royal-reels-casino-australia-site.pages.dev
 0.0.0.0 1009-the-pokies-casino-site.pages.dev
 0.0.0.0 1009-thepokies-sbs.pages.dev
@@ -64313,7 +64314,6 @@
 0.0.0.0 au-rainbet.com
 0.0.0.0 au-rainbet.live
 0.0.0.0 au-rainbet.net
-0.0.0.0 au-rainbets.net
 0.0.0.0 au-razedcasino-com.pages.dev
 0.0.0.0 au-razedcasino.com
 0.0.0.0 au-realz-casino-net-58da7571.pages.dev
@@ -84951,7 +84951,6 @@
 0.0.0.0 bestcasinoaus.com
 0.0.0.0 bestcasinoaus.org
 0.0.0.0 bestcasinobaccarat.com
-0.0.0.0 bestcasinobangladesh.online
 0.0.0.0 bestcasinobargain.com
 0.0.0.0 bestcasinobay.site
 0.0.0.0 bestcasinobet.co.uk
@@ -120835,7 +120834,6 @@
 0.0.0.0 bitstarz.ch
 0.0.0.0 bitstarz.co.at
 0.0.0.0 bitstarz.co.com
-0.0.0.0 bitstarz.co.it
 0.0.0.0 bitstarz.com.lv
 0.0.0.0 bitstarz.com.se
 0.0.0.0 bitstarz.de.com
@@ -139938,7 +139936,6 @@
 0.0.0.0 bwin-casino.org.pl
 0.0.0.0 bwin-casino.ph
 0.0.0.0 bwin-casino.pt
-0.0.0.0 bwin-casino.qpon
 0.0.0.0 bwin-casino.ro
 0.0.0.0 bwin-casino.se
 0.0.0.0 bwin-casino.uk.com
@@ -258723,7 +258720,6 @@
 0.0.0.0 ek33-casino.com
 0.0.0.0 ek333-casino.com
 0.0.0.0 ek333-win.com
-0.0.0.0 ek333casino.app
 0.0.0.0 ek333casino.bet
 0.0.0.0 ek333casino.co
 0.0.0.0 ek333casino.id
@@ -264826,7 +264822,6 @@
 0.0.0.0 eurobetscasino-de.com
 0.0.0.0 eurobetscasino-de.pages.dev
 0.0.0.0 eurobetscasino-es.com
-0.0.0.0 eurobetscasino-fr.com
 0.0.0.0 eurobetscasino-fr.eu.com
 0.0.0.0 eurobetscasino-it.pages.dev
 0.0.0.0 eurobetscasino-nl.pages.dev
@@ -268393,7 +268388,6 @@
 0.0.0.0 f8betv2.onl
 0.0.0.0 f8betv2.pro
 0.0.0.0 f8betv3.net
-0.0.0.0 f8betv31.win
 0.0.0.0 f8betv36.win
 0.0.0.0 f8betv8.net
 0.0.0.0 f8betviet.com
@@ -499071,7 +499065,6 @@
 0.0.0.0 online-casino-canada.info
 0.0.0.0 online-casino-canada.pages.dev
 0.0.0.0 online-casino-card-games.pages.dev
-0.0.0.0 online-casino-cards.com
 0.0.0.0 online-casino-cash-bonuses.com
 0.0.0.0 online-casino-check.com
 0.0.0.0 online-casino-chile.live
@@ -513311,7 +513304,6 @@
 0.0.0.0 parimatchcasino-at.eu.com
 0.0.0.0 parimatchcasino-be.eu.com
 0.0.0.0 parimatchcasino-ch.eu.com
-0.0.0.0 parimatchcasino-cz.com
 0.0.0.0 parimatchcasino-cz.cz
 0.0.0.0 parimatchcasino-cz.eu.com
 0.0.0.0 parimatchcasino-de.com
@@ -563033,14 +563025,11 @@
 0.0.0.0 rail-and-felt-poker.pages.dev
 0.0.0.0 railcitycasino.com
 0.0.0.0 rain-bet-casino.ca
-0.0.0.0 rain-bet-casino.eu.com
-0.0.0.0 rain-bet-casino.nl
 0.0.0.0 rain-bet-casino.nz
 0.0.0.0 rain-bet-casino.org
 0.0.0.0 rain-betcasino-net-988.pages.dev
 0.0.0.0 rain-betcasino.com
 0.0.0.0 rain-betcasino.net
-0.0.0.0 rain-betcasino.nl
 0.0.0.0 rain-rajabandotdamai19.pages.dev
 0.0.0.0 rain388-slotstorm.pages.dev
 0.0.0.0 rainbet-aktionscode.de
@@ -563052,7 +563041,6 @@
 0.0.0.0 rainbet-ar.com
 0.0.0.0 rainbet-at.com
 0.0.0.0 rainbet-au.co.com
-0.0.0.0 rainbet-au.in.net
 0.0.0.0 rainbet-aus-live.pages.dev
 0.0.0.0 rainbet-aus-online.pages.dev
 0.0.0.0 rainbet-aus.co
@@ -563078,8 +563066,6 @@
 0.0.0.0 rainbet-casino-online-canada.com
 0.0.0.0 rainbet-casino-online.de
 0.0.0.0 rainbet-casino-online24.de
-0.0.0.0 rainbet-casino-slots.com
-0.0.0.0 rainbet-casino.app
 0.0.0.0 rainbet-casino.be
 0.0.0.0 rainbet-casino.ca
 0.0.0.0 rainbet-casino.ch
@@ -563131,7 +563117,6 @@
 0.0.0.0 rainbet-it.pages.dev
 0.0.0.0 rainbet-italia-review.it
 0.0.0.0 rainbet-italia.it
-0.0.0.0 rainbet-mex.com
 0.0.0.0 rainbet-nl.nl
 0.0.0.0 rainbet-no-deposit-bonus.click
 0.0.0.0 rainbet-no.com
@@ -563149,7 +563134,6 @@
 0.0.0.0 rainbet-pokies.org
 0.0.0.0 rainbet-recensioni.it
 0.0.0.0 rainbet-referral-code.com
-0.0.0.0 rainbet-rewards.com
 0.0.0.0 rainbet-site.com
 0.0.0.0 rainbet-splash.com
 0.0.0.0 rainbet-suomi.fi
@@ -563189,7 +563173,6 @@
 0.0.0.0 rainbet.ws
 0.0.0.0 rainbet1.dk
 0.0.0.0 rainbet1.it
-0.0.0.0 rainbet1.nl
 0.0.0.0 rainbet2.de
 0.0.0.0 rainbet2026.com
 0.0.0.0 rainbet2casino.com
@@ -563217,7 +563200,6 @@
 0.0.0.0 rainbetcasino-australia.com
 0.0.0.0 rainbetcasino-austria.at
 0.0.0.0 rainbetcasino-bet-com.pages.dev
-0.0.0.0 rainbetcasino-br.com
 0.0.0.0 rainbetcasino-canada.org
 0.0.0.0 rainbetcasino-eu.com
 0.0.0.0 rainbetcasino-fr1-com.pages.dev
@@ -563365,7 +563347,6 @@
 0.0.0.0 rainbett.im
 0.0.0.0 rainbettcasino.ca
 0.0.0.0 rainbettfr.com
-0.0.0.0 rainbetus.net
 0.0.0.0 rainbetus.org
 0.0.0.0 rainbetuscasino.com
 0.0.0.0 rainbetuscasino.net
@@ -717226,7 +717207,6 @@
 0.0.0.0 vdcasinoguncel.vip
 0.0.0.0 vdcasinoguncelgiris.org
 0.0.0.0 vdcasinohemengiris.vip
-0.0.0.0 vdcasinolink.com
 0.0.0.0 vdcasinomgiris.com
 0.0.0.0 vdcasinomobilc.top
 0.0.0.0 vdcasinos.com
@@ -770814,10 +770794,13 @@
 0.0.0.0 zooma-casino25.ru
 0.0.0.0 zooma-casino26.ru
 0.0.0.0 zooma-casino269.online
+0.0.0.0 zooma-casino27.ru
+0.0.0.0 zooma-casino3.ru
 0.0.0.0 zooma-casino309.top
 0.0.0.0 zooma-casino31.ru
 0.0.0.0 zooma-casino4.ru
 0.0.0.0 zooma-casino582rs.top
+0.0.0.0 zooma-casino6.ru
 0.0.0.0 zooma-casino636.top
 0.0.0.0 zooma-casino777.online
 0.0.0.0 zooma-casino97.top

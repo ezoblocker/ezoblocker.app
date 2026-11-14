@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Adult, Portugal (pt)
-# Domains: 53 | Updated: 2026-11-13
+# Domains: 56 | Updated: 2026-11-14
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/pt.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.1001noites.com
+*.3hentai.net.br
 *.amoredesejo.com
 *.anesidora.net
 *.beus.com.br
@@ -21,6 +22,8 @@
 *.frutoproibido.com
 frutoproibido.pai.pt
 *.funsexyshop.pt
+*.hentaianime.cc
+*.hentaimania.net
 *.hotsexshop.com.br
 *.lasantinimodaintima.com.br
 *.lojaafrodite.com.br

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Indonesia (id)
-! Domains: 63 | Updated: 2026-11-13
+! Domains: 68 | Updated: 2026-11-14
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/id.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,7 @@
 ||bokebhub.farm^
 ||bokebhub.wtf^
 ||bokep-indo.net^
+||bokepboxid.com^
 ||bokepco.com^
 ||bokepcrot.ink^
 ||bokephdx.net^
@@ -28,6 +29,7 @@
 ||bokepviral.in^
 |botolempangan.berdesa.id^
 ||buttplug.io^
+||cacomvese.blog^
 |cupxq.gautengenduro.co.za^
 ||debordsetdesrives.fr^
 ||dicrotin.link^
@@ -36,6 +38,7 @@
 |etamo.bsv-coswig.de^
 ||fantasysexgoods.com^
 ||gairahtv.space^
+||hdbokep.my^
 ||indo18.rent^
 ||indo18.team^
 ||indobokepav.com^
@@ -46,12 +49,14 @@
 ||javtoys.com^
 |jpvdm.drapichrusty.pl^
 ||kamababa23.com^
+||kamababa25.com^
 ||kemenagtimortengahselatan.com^
 ||kingbokep.si^
 ||masterpitching.com^
 ||mediabokep.com.de^
 ||mediapemersatubangsa.com^
 |mooreok.govbuilt.com^
+||mydesi22.com^
 ||ngulum.space^
 ||nikmatindo.online^
 |nrwrza.villageplett.co.za^

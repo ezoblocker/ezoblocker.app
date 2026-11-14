@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, South Korea (kr)
-# Domains: 60 | Updated: 2026-11-13
+# Domains: 61 | Updated: 2026-11-14
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/adult/countries/kr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -64,3 +64,4 @@ xn--o39an5bf2p1yd8xin3lwgv.com
 xshopkrmall.com
 yadong16.com
 yadongkorea.app
+yobam.net

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 500 | Updated: 2026-11-13
+# Domains: 508 | Updated: 2026-11-14
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,7 +13,9 @@
 0.0.0.0 31vaktixc11.cfd
 0.0.0.0 31vaktixc6.cyou
 0.0.0.0 31vaktixc6.lat
+0.0.0.0 31vkti.sbs
 0.0.0.0 31vktialtyazili.cyou
+0.0.0.0 31vktialtyazilizx9.cfd
 0.0.0.0 31vqkticx13.click
 0.0.0.0 31vqkticx14.click
 0.0.0.0 31vqkticx16.cfd
@@ -44,6 +46,7 @@
 0.0.0.0 altyazilihubxt12.site
 0.0.0.0 altyazilihubxt15.click
 0.0.0.0 altyazilihubxt15.cyou
+0.0.0.0 altyazilihubxt17.cfd
 0.0.0.0 altyazilihubxt7.lat
 0.0.0.0 altyzhub30.site
 0.0.0.0 amlaks5.shop
@@ -78,6 +81,7 @@
 0.0.0.0 beddua.org
 0.0.0.0 behcetdayispecial.com
 0.0.0.0 besiktaseskort.org
+0.0.0.0 besterotiksite8.blog
 0.0.0.0 bestturks1.xyz
 0.0.0.0 bestturks2.xyz
 0.0.0.0 bestturks24.com
@@ -182,9 +186,12 @@
 0.0.0.0 fcampmodels.online
 0.0.0.0 fethiyeescorts1.site
 0.0.0.0 filmkuzusu.vip
+0.0.0.0 fogumeho.blog
 0.0.0.0 foms.skamil.pl
 0.0.0.0 fullerotiksite5.blog
 0.0.0.0 fullerotiksite6.blog
+0.0.0.0 fullerotiksite7.blog
+0.0.0.0 fulyaescortum.site
 0.0.0.0 gaziantepbayanescort.com
 0.0.0.0 gaziantepbayanlar.com
 0.0.0.0 gecekutusu.com
@@ -198,6 +205,7 @@
 0.0.0.0 hdalemi.com
 0.0.0.0 hderotik4.blog
 0.0.0.0 hderotik5.blog
+0.0.0.0 hderotik6.blog
 0.0.0.0 hdxporno98.lat
 0.0.0.0 hentaiadam.com
 0.0.0.0 honeybirdette.com

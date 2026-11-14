@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, France (fr)
-# Domains: 52 | Updated: 2026-11-13
+# Domains: 53 | Updated: 2026-11-14
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/countries/fr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -49,6 +49,7 @@ betwinner-connexion-3-rcd.animateur-esport.fr
 *.nominicasinologin.com
 *.nominifr.org
 *.orthodontie-nice.fr
+*.prestymotors.com
 *.rolldoradobelgie.com
 *.slotwolf.sbs
 *.vegasplus-fr.fr

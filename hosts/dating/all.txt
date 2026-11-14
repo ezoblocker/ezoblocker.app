@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,313 | Updated: 2026-11-13
+# Domains: 1,317 | Updated: 2026-11-14
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -311,6 +311,7 @@
 0.0.0.0 dosugbarchl.com
 0.0.0.0 dosugbarizh.com
 0.0.0.0 dosugbarnnv.info
+0.0.0.0 dosugbarnvt.com
 0.0.0.0 dosugbaroms.com
 0.0.0.0 dosugbarsam.org
 0.0.0.0 dosugcz-ru.ru
@@ -848,6 +849,7 @@
 0.0.0.0 omegle.online
 0.0.0.0 omegle.webcam
 0.0.0.0 omegleapp.me
+0.0.0.0 omeglefm.live
 0.0.0.0 omeglelife.com
 0.0.0.0 omegletv.net
 0.0.0.0 omegleweb.com
@@ -876,6 +878,7 @@
 0.0.0.0 osaka.chance.chat
 0.0.0.0 osaka.chatlady-mint.com
 0.0.0.0 osaka.club-valentine.com
+0.0.0.0 osaka.madam-rena.com
 0.0.0.0 ottawa.bonepage.com
 0.0.0.0 oudevrouwenchat.nl
 0.0.0.0 ourtime.com
@@ -905,6 +908,7 @@
 0.0.0.0 perm.5intim.com
 0.0.0.0 perth.5escorts.com
 0.0.0.0 perth.bonepage.com
+0.0.0.0 ph.tsbeauties.com
 0.0.0.0 photoprepagos.com
 0.0.0.0 pietermaritzburg.dfs05.ru
 0.0.0.0 pijatpanggilanbandung.com

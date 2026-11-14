@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Indonesia (id)
-# Domains: 32 | Updated: 2026-11-13
+# Domains: 34 | Updated: 2026-11-14
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/id.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@
 0.0.0.0 bandarbola855.com
 0.0.0.0 bola88you.com
 0.0.0.0 bonusslotterbesar.com
+0.0.0.0 budgetrooter.net
 0.0.0.0 clorah.com
 0.0.0.0 colt.gosignmeup.com
 0.0.0.0 dataportal.ponderful.eu
@@ -35,4 +36,5 @@
 0.0.0.0 sbo-heritage.pages.dev
 0.0.0.0 sbobet.cz
 0.0.0.0 sbobet88.is
+0.0.0.0 smritipatra.com
 0.0.0.0 soap2days.id

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 773,954 | Updated: 2026-11-13
+# Domains: 773,963 | Updated: 2026-11-14
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -998,6 +998,7 @@
 0.0.0.0 10045bets10.com
 0.0.0.0 10046bets10.com
 0.0.0.0 10047bets10.com
+0.0.0.0 10054jojobet.com
 0.0.0.0 1008-royal-reels-casino-australia-site.pages.dev
 0.0.0.0 1009-the-pokies-casino-site.pages.dev
 0.0.0.0 1009-thepokies-sbs.pages.dev
@@ -31329,6 +31330,7 @@
 0.0.0.0 946tumbet.com
 0.0.0.0 9475-casino.pages.dev
 0.0.0.0 948hilbet.com
+0.0.0.0 949hilbet.com
 0.0.0.0 94betbets.com
 0.0.0.0 94betcasino.com
 0.0.0.0 94betkk.com
@@ -39151,6 +39153,7 @@
 0.0.0.0 aijogobetbr.com
 0.0.0.0 aikhislotgacorheng.pages.dev
 0.0.0.0 ailand-megawin.pages.dev
+0.0.0.0 aileicisiddet.net
 0.0.0.0 ailivebetting.com
 0.0.0.0 ailivecasino.com
 0.0.0.0 aim-back-tototogel.pages.dev
@@ -64441,7 +64444,6 @@
 0.0.0.0 au-rainbet.com
 0.0.0.0 au-rainbet.live
 0.0.0.0 au-rainbet.net
-0.0.0.0 au-rainbets.net
 0.0.0.0 au-razedcasino-com.pages.dev
 0.0.0.0 au-razedcasino.com
 0.0.0.0 au-realz-casino-net-58da7571.pages.dev
@@ -67519,6 +67521,7 @@
 0.0.0.0 avrupabettv997.com
 0.0.0.0 avrupabettvzirvestr.pages.dev
 0.0.0.0 avslot-mobile.pages.dev
+0.0.0.0 avstod.se
 0.0.0.0 avtomati-777.org
 0.0.0.0 avtomati-igrovie.club
 0.0.0.0 avtomati-igrovie.online
@@ -84173,6 +84176,7 @@
 0.0.0.0 best-eu-casinos.com
 0.0.0.0 best-eu-casinos.net
 0.0.0.0 best-euro-casinos.com
+0.0.0.0 best-european-online-casinos.com
 0.0.0.0 best-european-onlinecasinos-com.pages.dev
 0.0.0.0 best-fast-withdrawal-casino-com.pages.dev
 0.0.0.0 best-fast-withdrawal-casino-gb-com.pages.dev
@@ -85111,7 +85115,6 @@
 0.0.0.0 bestcasinoaus.com
 0.0.0.0 bestcasinoaus.org
 0.0.0.0 bestcasinobaccarat.com
-0.0.0.0 bestcasinobangladesh.online
 0.0.0.0 bestcasinobargain.com
 0.0.0.0 bestcasinobay.site
 0.0.0.0 bestcasinobet.co.uk
@@ -92937,6 +92940,7 @@
 0.0.0.0 betcio1482.com
 0.0.0.0 betcio1483.com
 0.0.0.0 betcio1487.cam
+0.0.0.0 betcio1487.com
 0.0.0.0 betcio1533.com
 0.0.0.0 betcio1540.com
 0.0.0.0 betcio1545.com
@@ -95545,6 +95549,7 @@
 0.0.0.0 betgemcasino.uk
 0.0.0.0 betgemcasino.uk.net
 0.0.0.0 betgemcasinoa.com
+0.0.0.0 betgevin55.com
 0.0.0.0 betggslot.com
 0.0.0.0 betgirisbet.com
 0.0.0.0 betgit-2026giris.icu
@@ -104203,6 +104208,7 @@
 0.0.0.0 betregalcasino.de
 0.0.0.0 betregalcasino.org
 0.0.0.0 betregalcasino.uk.com
+0.0.0.0 betrehberi.com
 0.0.0.0 betrepublic-0807.com
 0.0.0.0 betrepublic-0935.com
 0.0.0.0 betrepublic-10-com-e2893d34.pages.dev
@@ -118480,6 +118486,7 @@
 0.0.0.0 biluckycasino.nl
 0.0.0.0 biluckycasinoreg.online
 0.0.0.0 biluckycasinox.com
+0.0.0.0 bilyonbahis1001.com
 0.0.0.0 bilyoner-casino.com
 0.0.0.0 bilyoner-tr.pages.dev
 0.0.0.0 bilyoner.co.com
@@ -121164,7 +121171,6 @@
 0.0.0.0 bitstarz.ch
 0.0.0.0 bitstarz.co.at
 0.0.0.0 bitstarz.co.com
-0.0.0.0 bitstarz.co.it
 0.0.0.0 bitstarz.com.lv
 0.0.0.0 bitstarz.com.se
 0.0.0.0 bitstarz.de.com
@@ -122568,6 +122574,7 @@
 0.0.0.0 bizzoukcasino.co.uk
 0.0.0.0 bizzowelcomebonus.casino
 0.0.0.0 bizzoxcasino-com-099c0a5f.pages.dev
+0.0.0.0 bizzway.pl
 0.0.0.0 bizzzocasino.ca
 0.0.0.0 bizzzocasino.eu
 0.0.0.0 bj-kaptenslot.pages.dev
@@ -129870,6 +129877,7 @@
 0.0.0.0 bonusonlinecasino.uk
 0.0.0.0 bonusonlinepoker.co.uk
 0.0.0.0 bonusonlinepokies.com
+0.0.0.0 bonuspala.com
 0.0.0.0 bonusparisportif.com
 0.0.0.0 bonuspariuri.net
 0.0.0.0 bonuspercasino.com
@@ -134711,6 +134719,7 @@
 0.0.0.0 brachialo-casino.de
 0.0.0.0 bracncbet.com
 0.0.0.0 brad-owen-poker-net-worth.pages.dev
+0.0.0.0 bradengates.com
 0.0.0.0 bradertotojitu.pages.dev
 0.0.0.0 bradertotortpxyz.pages.dev
 0.0.0.0 bradford-casino.pages.dev
@@ -138208,6 +138217,7 @@
 0.0.0.0 buddyspinro-com.pages.dev
 0.0.0.0 buddyspinz-nl.pages.dev
 0.0.0.0 budejitunet-apk-slot.pages.dev
+0.0.0.0 budgetrooter.net
 0.0.0.0 budislot-menang.pages.dev
 0.0.0.0 buditogel-v1p-1.pages.dev
 0.0.0.0 buditogel.pages.dev
@@ -140316,7 +140326,6 @@
 0.0.0.0 bwin-casino.org.pl
 0.0.0.0 bwin-casino.ph
 0.0.0.0 bwin-casino.pt
-0.0.0.0 bwin-casino.qpon
 0.0.0.0 bwin-casino.ro
 0.0.0.0 bwin-casino.se
 0.0.0.0 bwin-casino.uk.com
@@ -160469,6 +160478,7 @@
 0.0.0.0 casino-ramacasino.com
 0.0.0.0 casino-rank.pages.dev
 0.0.0.0 casino-ranker.org
+0.0.0.0 casino-ranking-jp.com
 0.0.0.0 casino-ranking-shortlist-method.pages.dev
 0.0.0.0 casino-rankings.pages.dev
 0.0.0.0 casino-rant.com.de
@@ -191472,6 +191482,7 @@
 0.0.0.0 casinoonlineindo.com
 0.0.0.0 casinoonlineindonesia.net
 0.0.0.0 casinoonlineinglesi.com
+0.0.0.0 casinoonlineinternacional.com
 0.0.0.0 casinoonlineinternacionales.space
 0.0.0.0 casinoonlineireland.co.com
 0.0.0.0 casinoonlineireland.eu.com
@@ -239137,6 +239148,7 @@
 0.0.0.0 damanvcasinos.org
 0.0.0.0 damanvcasinos.top
 0.0.0.0 damascushouse.ca
+0.0.0.0 damaslovakia.sk
 0.0.0.0 dambadijital.com.tr
 0.0.0.0 damblecasino.de
 0.0.0.0 damblecasino.fr
@@ -259278,7 +259290,6 @@
 0.0.0.0 ek33-casino.com
 0.0.0.0 ek333-casino.com
 0.0.0.0 ek333-win.com
-0.0.0.0 ek333casino.app
 0.0.0.0 ek333casino.bet
 0.0.0.0 ek333casino.co
 0.0.0.0 ek333casino.id
@@ -259333,6 +259344,7 @@
 0.0.0.0 ekolbetguncel.org
 0.0.0.0 ekoldenizcilik-slot10k.pages.dev
 0.0.0.0 ekoldenizcilik-slotgacor.pages.dev
+0.0.0.0 ekoliving.sk
 0.0.0.0 ekologisticatransportes-agenslotgacor138.pages.dev
 0.0.0.0 ekorqqslot-amp.pages.dev
 0.0.0.0 ekortogel.app
@@ -265398,7 +265410,6 @@
 0.0.0.0 eurobetscasino-de.com
 0.0.0.0 eurobetscasino-de.pages.dev
 0.0.0.0 eurobetscasino-es.com
-0.0.0.0 eurobetscasino-fr.com
 0.0.0.0 eurobetscasino-fr.eu.com
 0.0.0.0 eurobetscasino-it.pages.dev
 0.0.0.0 eurobetscasino-nl.pages.dev
@@ -268968,7 +268979,6 @@
 0.0.0.0 f8betv2.onl
 0.0.0.0 f8betv2.pro
 0.0.0.0 f8betv3.net
-0.0.0.0 f8betv31.win
 0.0.0.0 f8betv36.win
 0.0.0.0 f8betv8.net
 0.0.0.0 f8betviet.com
@@ -372408,6 +372418,7 @@
 0.0.0.0 kasynomostbet.com
 0.0.0.0 kasynoonline10.com
 0.0.0.0 kasynoonlinebonusbezdepozytu.com
+0.0.0.0 kasynoopinie.net
 0.0.0.0 kasynoorzel.eu
 0.0.0.0 kasynopistolo.com
 0.0.0.0 kasynopl.net
@@ -410684,6 +410695,7 @@
 0.0.0.0 lsports.eu
 0.0.0.0 lstsurf-asia-slot.pages.dev
 0.0.0.0 lsv-tech-carpresidenslot.pages.dev
+0.0.0.0 lt-eugroup.sk
 0.0.0.0 lt-lingtogel77sun.com
 0.0.0.0 lt-live-betnova-be.pages.dev
 0.0.0.0 lt-online-casino.co.uk
@@ -432896,6 +432908,7 @@
 0.0.0.0 maxacasinocz-cz-64f7e3a7.pages.dev
 0.0.0.0 maxacasinocz.cz
 0.0.0.0 maxacasinos-cz-58871.pages.dev
+0.0.0.0 maxandaegle.com
 0.0.0.0 maxbet-1-uk-com.pages.dev
 0.0.0.0 maxbet-1.pages.dev
 0.0.0.0 maxbet-9koi.pages.dev
@@ -446708,6 +446721,7 @@
 0.0.0.0 merso-bahis.net
 0.0.0.0 merso-bahis.org
 0.0.0.0 mersobahis-canli.icu
+0.0.0.0 mersobahis657.com
 0.0.0.0 mersobahisbet.com
 0.0.0.0 mersobahiscasino.com
 0.0.0.0 mersobahisgunceladresi.com
@@ -461936,6 +461950,7 @@
 0.0.0.0 mostbetcasinosite.com
 0.0.0.0 mostbetcasinoslots.bet
 0.0.0.0 mostbetcasinoslots.top
+0.0.0.0 mostbetcasinotipsuk.com
 0.0.0.0 mostbetcasinotop.cz
 0.0.0.0 mostbetcasinotr-com.pages.dev
 0.0.0.0 mostbetcasinotr.com
@@ -500040,7 +500055,6 @@
 0.0.0.0 online-casino-canada.info
 0.0.0.0 online-casino-canada.pages.dev
 0.0.0.0 online-casino-card-games.pages.dev
-0.0.0.0 online-casino-cards.com
 0.0.0.0 online-casino-cash-bonuses.com
 0.0.0.0 online-casino-check.com
 0.0.0.0 online-casino-chile.live
@@ -514315,7 +514329,6 @@
 0.0.0.0 parimatchcasino-at.eu.com
 0.0.0.0 parimatchcasino-be.eu.com
 0.0.0.0 parimatchcasino-ch.eu.com
-0.0.0.0 parimatchcasino-cz.com
 0.0.0.0 parimatchcasino-cz.cz
 0.0.0.0 parimatchcasino-cz.eu.com
 0.0.0.0 parimatchcasino-de.com
@@ -554062,6 +554075,7 @@
 0.0.0.0 prestigespins.email
 0.0.0.0 prestigiocasinos.com
 0.0.0.0 preston-oxford-betting-tips.pages.dev
+0.0.0.0 prestymotors.com
 0.0.0.0 pretendcasino.com
 0.0.0.0 pretty-wins-casino-uk.com
 0.0.0.0 prettycasinoonlinebetting.pages.dev
@@ -564141,14 +564155,11 @@
 0.0.0.0 rail-and-felt-poker.pages.dev
 0.0.0.0 railcitycasino.com
 0.0.0.0 rain-bet-casino.ca
-0.0.0.0 rain-bet-casino.eu.com
-0.0.0.0 rain-bet-casino.nl
 0.0.0.0 rain-bet-casino.nz
 0.0.0.0 rain-bet-casino.org
 0.0.0.0 rain-betcasino-net-988.pages.dev
 0.0.0.0 rain-betcasino.com
 0.0.0.0 rain-betcasino.net
-0.0.0.0 rain-betcasino.nl
 0.0.0.0 rain-rajabandotdamai19.pages.dev
 0.0.0.0 rain388-slotstorm.pages.dev
 0.0.0.0 rainbet-aktionscode.de
@@ -564160,7 +564171,6 @@
 0.0.0.0 rainbet-ar.com
 0.0.0.0 rainbet-at.com
 0.0.0.0 rainbet-au.co.com
-0.0.0.0 rainbet-au.in.net
 0.0.0.0 rainbet-aus-live.pages.dev
 0.0.0.0 rainbet-aus-online.pages.dev
 0.0.0.0 rainbet-aus.co
@@ -564186,8 +564196,6 @@
 0.0.0.0 rainbet-casino-online-canada.com
 0.0.0.0 rainbet-casino-online.de
 0.0.0.0 rainbet-casino-online24.de
-0.0.0.0 rainbet-casino-slots.com
-0.0.0.0 rainbet-casino.app
 0.0.0.0 rainbet-casino.be
 0.0.0.0 rainbet-casino.ca
 0.0.0.0 rainbet-casino.ch
@@ -564239,7 +564247,6 @@
 0.0.0.0 rainbet-it.pages.dev
 0.0.0.0 rainbet-italia-review.it
 0.0.0.0 rainbet-italia.it
-0.0.0.0 rainbet-mex.com
 0.0.0.0 rainbet-nl.nl
 0.0.0.0 rainbet-no-deposit-bonus.click
 0.0.0.0 rainbet-no.com
@@ -564257,7 +564264,6 @@
 0.0.0.0 rainbet-pokies.org
 0.0.0.0 rainbet-recensioni.it
 0.0.0.0 rainbet-referral-code.com
-0.0.0.0 rainbet-rewards.com
 0.0.0.0 rainbet-site.com
 0.0.0.0 rainbet-splash.com
 0.0.0.0 rainbet-suomi.fi
@@ -564297,7 +564303,6 @@
 0.0.0.0 rainbet.ws
 0.0.0.0 rainbet1.dk
 0.0.0.0 rainbet1.it
-0.0.0.0 rainbet1.nl
 0.0.0.0 rainbet2.de
 0.0.0.0 rainbet2026.com
 0.0.0.0 rainbet2casino.com
@@ -564325,7 +564330,6 @@
 0.0.0.0 rainbetcasino-australia.com
 0.0.0.0 rainbetcasino-austria.at
 0.0.0.0 rainbetcasino-bet-com.pages.dev
-0.0.0.0 rainbetcasino-br.com
 0.0.0.0 rainbetcasino-canada.org
 0.0.0.0 rainbetcasino-eu.com
 0.0.0.0 rainbetcasino-fr1-com.pages.dev
@@ -564473,7 +564477,6 @@
 0.0.0.0 rainbett.im
 0.0.0.0 rainbettcasino.ca
 0.0.0.0 rainbettfr.com
-0.0.0.0 rainbetus.net
 0.0.0.0 rainbetus.org
 0.0.0.0 rainbetuscasino.com
 0.0.0.0 rainbetuscasino.net
@@ -640095,6 +640098,7 @@
 0.0.0.0 smpnegeri4larangan-slotgacor-mayortogel.pages.dev
 0.0.0.0 smppoker.co
 0.0.0.0 smpypbyakcasino.pages.dev
+0.0.0.0 smritipatra.com
 0.0.0.0 sms-casino-sk.pages.dev
 0.0.0.0 sms-casino.at
 0.0.0.0 sms-casino.com
@@ -642236,6 +642240,7 @@
 0.0.0.0 sonbahis735.com
 0.0.0.0 sonbahis741.com
 0.0.0.0 sonbahis742.com
+0.0.0.0 sonbahis743.com
 0.0.0.0 sonbahisgirislinki.live
 0.0.0.0 sonbahissiteleri1.com
 0.0.0.0 sonbuktijp.xyz
@@ -662991,6 +662996,7 @@
 0.0.0.0 stacks-jackpot-wall.pages.dev
 0.0.0.0 stacksmartpoker.com
 0.0.0.0 stackspins.com
+0.0.0.0 stadion-rakovnik.cz
 0.0.0.0 stadion-spin-gacor.pages.dev
 0.0.0.0 stadion-zuerich.ch
 0.0.0.0 stadium-jakartabetting69.pages.dev
@@ -718577,7 +718583,6 @@
 0.0.0.0 vdcasinoguncel.vip
 0.0.0.0 vdcasinoguncelgiris.org
 0.0.0.0 vdcasinohemengiris.vip
-0.0.0.0 vdcasinolink.com
 0.0.0.0 vdcasinomgiris.com
 0.0.0.0 vdcasinomobilc.top
 0.0.0.0 vdcasinos.com
@@ -718622,6 +718627,7 @@
 0.0.0.0 vedoy777slots.com
 0.0.0.0 vedrecasino-de.de
 0.0.0.0 vedrecasino.de.com
+0.0.0.0 vedreve.cz
 0.0.0.0 veespincasino.com
 0.0.0.0 veez-casino-pl.pages.dev
 0.0.0.0 veez-casino.it
@@ -772269,10 +772275,13 @@
 0.0.0.0 zooma-casino25.ru
 0.0.0.0 zooma-casino26.ru
 0.0.0.0 zooma-casino269.online
+0.0.0.0 zooma-casino27.ru
+0.0.0.0 zooma-casino3.ru
 0.0.0.0 zooma-casino309.top
 0.0.0.0 zooma-casino31.ru
 0.0.0.0 zooma-casino4.ru
 0.0.0.0 zooma-casino582rs.top
+0.0.0.0 zooma-casino6.ru
 0.0.0.0 zooma-casino636.top
 0.0.0.0 zooma-casino777.online
 0.0.0.0 zooma-casino97.top

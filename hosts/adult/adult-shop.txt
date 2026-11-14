@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,423 | Updated: 2026-11-13
+# Domains: 1,426 | Updated: 2026-11-14
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -437,6 +437,7 @@
 0.0.0.0 gecekutusu.com
 0.0.0.0 geilstore.com
 0.0.0.0 gemaonlinestore.com
+0.0.0.0 geothek.org
 0.0.0.0 giggles.com
 0.0.0.0 gigo.com.co
 0.0.0.0 ginza-soleil.com
@@ -1417,12 +1418,14 @@
 0.0.0.0 yasakelmam.com
 0.0.0.0 yesboss.pl
 0.0.0.0 yessir.com.br
+0.0.0.0 yobam.net
 0.0.0.0 yoo.cz
 0.0.0.0 yourobsession.pl
 0.0.0.0 yourpleasuretoys.com
 0.0.0.0 yoxo.it
 0.0.0.0 zeidemayorista.com
 0.0.0.0 zetasexshop.com
+0.0.0.0 zipang-motomachi.com
 0.0.0.0 zolta.pl
 0.0.0.0 zonaerotica.com.co
 0.0.0.0 zonahotsexshop.cl

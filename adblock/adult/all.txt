@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult
-! Domains: 2,615 | Updated: 2026-11-13
+! Domains: 2,638 | Updated: 2026-11-14
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -31,7 +31,9 @@
 ||31vaktixc6.cyou^
 ||31vaktixc6.lat^
 ||31vaktixc9.cyou^
+||31vkti.sbs^
 ||31vktialtyazili.cyou^
+||31vktialtyazilizx9.cfd^
 ||31vqkticx13.click^
 ||31vqkticx14.click^
 ||31vqkticx16.cfd^
@@ -41,6 +43,7 @@
 ||31vqkticx21.site^
 ||31vqkticx7.cfd^
 ||31vqkticx7.click^
+||3hentai.net.br^
 ||444shop.com.tr^
 ||4love.ro^
 ||4playessentials.co.za^
@@ -134,6 +137,7 @@
 ||altyazilihubxt12.site^
 ||altyazilihubxt15.click^
 ||altyazilihubxt15.cyou^
+||altyazilihubxt17.cfd^
 ||altyazilihubxt7.lat^
 ||altyzhub30.site^
 ||alxnxx.net^
@@ -277,6 +281,7 @@
 ||berluti.com^
 ||besame.com^
 ||besiktaseskort.org^
+||besterotiksite8.blog^
 ||bestlovesexdoll.com^
 ||bestmalluxxx.com^
 ||bestofeugene.com^
@@ -327,6 +332,7 @@
 ||bokebhub.farm^
 ||bokebhub.wtf^
 ||bokep-indo.net^
+||bokepboxid.com^
 ||bokepco.com^
 ||bokepcrot.ink^
 ||bokephdx.net^
@@ -381,6 +387,7 @@
 ||buzzy.co.uk^
 ||byann.pl^
 ||byplay.es^
+||cacomvese.blog^
 ||cake-mayoreo.com^
 ||cake-sexshop.com^
 ||calendrierdelavent.com^
@@ -832,6 +839,7 @@
 ||flirtadultstore.com.au^
 ||flower-emau.com^
 ||fogododesejo.pt^
+||fogumeho.blog^
 ||folsomeurope.berlin^
 |foms.skamil.pl^
 ||foxietoy.com^
@@ -852,6 +860,8 @@
 ||fuegosexshop.com.co^
 ||fullerotiksite5.blog^
 ||fullerotiksite6.blog^
+||fullerotiksite7.blog^
+||fulyaescortum.site^
 ||funline.ch^
 ||funsexyshop.pt^
 ||funstasy.at^
@@ -871,6 +881,7 @@
 ||gekso.mobi^
 ||gemaonlinestore.com^
 |geoikp.operandum-project.eu^
+||geothek.org^
 ||germanxxx.vip^
 ||getxh.blog^
 ||giggles.com^
@@ -911,13 +922,17 @@
 ||hdabla76.click^
 ||hdabla87.click^
 ||hdalemi.com^
+||hdbokep.my^
 ||hderotik4.blog^
 ||hderotik5.blog^
+||hderotik6.blog^
 ||hdxporno98.lat^
 ||heisseanzeigen.at^
 |hello-nancy.tenereteam.com^
 ||hellonancy.com^
 ||hentaiadam.com^
+||hentaianime.cc^
+||hentaimania.net^
 ||heo3x.pro^
 ||herotica.ro^
 ||high-tide.com.au^
@@ -1101,6 +1116,7 @@
 ||kamababa19.com^
 ||kamababa20.com^
 ||kamababa23.com^
+||kamababa25.com^
 ||kamasutra.com^
 |kamery.humlnet.cz^
 ||kanadasohbet.gen.tr^
@@ -1445,6 +1461,7 @@
 ||mydesi.diy^
 ||mydesi18.com^
 ||mydesi20.com^
+||mydesi22.com^
 ||mydesix1.guru^
 ||mygiddi.com^
 ||myloveyou.co.kr^
@@ -1919,6 +1936,7 @@
 ||sexcindy2.best^
 ||sexcindy3.best^
 ||sexcordobashop.com.ar^
+||sexealafrancaise.com^
 ||sexescorts.net.in^
 ||sexgaixinh123.com^
 ||sexgood.com.ua^
@@ -2473,6 +2491,7 @@
 ||vpleather.com^
 ||vposteli.ua^
 ||vsexshopgdlalcala.com.mx^
+||vurigvlaanderen.be^
 ||vushstimulation.com^
 ||vuxen.dk^
 ||vuxen.se^
@@ -2543,8 +2562,10 @@
 ||xn--av19-eh4pq56h.com^
 ||xn--bstvuxenleksaker-vnb.se^
 ||xn--c3cyurv9a4a4a0h0b.com^
+||xn--l3caaa9iocxa.com^
 ||xn--l3caaaa6a6c9c4c0h4c.com^
 ||xn--l3caaaa6a6c9c4c0h4c.net^
+||xn--l3caaaaa1b0dwd9c8h9c.net^
 ||xn--l3caaaaaaa4qj4i.com^
 ||xn--l3caaaaaaaa5ska4j.com^
 ||xn--l3caq6a3c9fe6c.net^
@@ -2597,6 +2618,7 @@
 ||yetiskin.org^
 ||yetiskinsohbet.com.tr^
 ||yeugai18.com^
+||yobam.net^
 ||yoo.cz^
 ||yoshikkeh.com^
 ||yourobsession.pl^
@@ -2614,6 +2636,7 @@
 ||zevkdolu42.com^
 ||zevkdolu44.com^
 ||zevkdolu45.com^
+||zipang-motomachi.com^
 ||zohup.net^
 ||zolta.pl^
 ||zonaerotica.com.co^

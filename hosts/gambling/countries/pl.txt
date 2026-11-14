@@ -1,13 +1,15 @@
 # Title: EZOBLOCKER Gambling, Poland (pl)
-# Domains: 49 | Updated: 2026-11-13
+# Domains: 52 | Updated: 2026-11-14
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/pl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 22bet-poland.com
 0.0.0.0 advisorcasinos.com
+0.0.0.0 aileicisiddet.net
 0.0.0.0 betwinner.africa
 0.0.0.0 bezweryfikacjikasyno.com
+0.0.0.0 bizzway.pl
 0.0.0.0 bonusy-kasynowe.com
 0.0.0.0 bukmacher-legalny.pl
 0.0.0.0 bukmacherzy.com
@@ -29,6 +31,7 @@
 0.0.0.0 kasynoanalyzer.com
 0.0.0.0 kasynobezlicencji.com
 0.0.0.0 kasynoonline10.com
+0.0.0.0 kasynoopinie.net
 0.0.0.0 kasynoorzel.eu
 0.0.0.0 kasynopl.net
 0.0.0.0 legalnekasynopl.com

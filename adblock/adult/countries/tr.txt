@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Türkiye (tr)
-! Domains: 500 | Updated: 2026-11-13
+! Domains: 508 | Updated: 2026-11-14
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,7 +13,9 @@
 ||31vaktixc11.cfd^
 ||31vaktixc6.cyou^
 ||31vaktixc6.lat^
+||31vkti.sbs^
 ||31vktialtyazili.cyou^
+||31vktialtyazilizx9.cfd^
 ||31vqkticx13.click^
 ||31vqkticx14.click^
 ||31vqkticx16.cfd^
@@ -44,6 +46,7 @@
 ||altyazilihubxt12.site^
 ||altyazilihubxt15.click^
 ||altyazilihubxt15.cyou^
+||altyazilihubxt17.cfd^
 ||altyazilihubxt7.lat^
 ||altyzhub30.site^
 ||amlaks5.shop^
@@ -78,6 +81,7 @@
 ||beddua.org^
 ||behcetdayispecial.com^
 ||besiktaseskort.org^
+||besterotiksite8.blog^
 ||bestturks1.xyz^
 ||bestturks2.xyz^
 ||bestturks24.com^
@@ -182,9 +186,12 @@
 ||fcampmodels.online^
 ||fethiyeescorts1.site^
 ||filmkuzusu.vip^
+||fogumeho.blog^
 |foms.skamil.pl^
 ||fullerotiksite5.blog^
 ||fullerotiksite6.blog^
+||fullerotiksite7.blog^
+||fulyaescortum.site^
 ||gaziantepbayanescort.com^
 ||gaziantepbayanlar.com^
 ||gecekutusu.com^
@@ -198,6 +205,7 @@
 ||hdalemi.com^
 ||hderotik4.blog^
 ||hderotik5.blog^
+||hderotik6.blog^
 ||hdxporno98.lat^
 ||hentaiadam.com^
 ||honeybirdette.com^
