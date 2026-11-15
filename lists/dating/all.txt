@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,327 | Updated: 2026-11-15
+# Domains: 1,328 | Updated: 2026-11-15
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -471,6 +471,7 @@ forum2.live-show.com
 frageladan.isof.se
 free.adultxcamz.com
 *.freecam.chat
+*.fremdficken.at
 *.friendschatroom.net
 fruzo.apkpure.co.in
 *.fruzo.com

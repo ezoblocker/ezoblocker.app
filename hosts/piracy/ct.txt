@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, ct
-# Domains: 13 | Updated: 2026-11-15
+# Domains: 14 | Updated: 2026-11-15
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,6 +13,7 @@
 0.0.0.0 grandpashabet7567.com
 0.0.0.0 izlemac636.sbs
 0.0.0.0 izlemac649.sbs
+0.0.0.0 lxmovie-8d4.pages.dev
 0.0.0.0 maltcasinotv28.com
 0.0.0.0 mostbet-fit.pages.dev
 0.0.0.0 mostbet.fit

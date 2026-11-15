@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 2,640 | Updated: 2026-11-15
+# Domains: 2,641 | Updated: 2026-11-15
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -405,7 +405,6 @@ cams.valuecom.com
 *.camsiteradar.com
 *.camsodagear.com
 *.camstargirl.com
-*.camtlas.com
 *.canadiantubeflies.com
 *.canlisex.org
 *.canlisexsohbethatti.net
@@ -520,6 +519,7 @@ cupxq.gautengenduro.co.za
 *.czechspy.com
 *.czechtantra.com
 *.czerningasse29.at
+*.daavli.best
 *.daddylittlesecret.com
 *.dahahizli160.live
 *.dahahizli162.live
@@ -762,6 +762,7 @@ erotik.markt.ch
 *.escortbursam.com
 *.escorthanem.net
 *.escortizmirkiz.info
+*.escortlar251.xyz
 *.escortlar69.xyz
 *.escortnews.com
 *.escortnews.info
@@ -1941,7 +1942,6 @@ server.algeriatimes.net
 *.sexcordobashop.com.ar
 *.sexealafrancaise.com
 *.sexescorts.net.in
-*.sexgaixinh123.com
 *.sexgood.com.ua
 *.sexhatti.com.tr
 *.sexhatti.me
@@ -2502,6 +2502,7 @@ villagecenterfl.govbuilt.com
 *.w2rsolutions.com
 *.wanda.best
 *.wanda1.best
+*.wanda1.wtf
 *.we-vibe.com
 *.web-x-cam.nl
 *.webac-vibro.com
