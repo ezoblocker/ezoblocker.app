@@ -6,7 +6,7 @@
 
 [Website](https://ezoblocker.app) · [Google Play](https://play.google.com/store/apps/details?id=com.mrs.blckr) · [App Store](https://apps.apple.com/app/id6816853206) (coming soon)
 
-`885,257` domains · updated 2026-11-14 · refreshed every 6 hours
+`885,257` domains · updated 2026-11-15 · refreshed every 6 hours
 
 </div>
 
