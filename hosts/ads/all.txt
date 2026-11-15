@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 626 | Updated: 2026-11-15
+# Domains: 578 | Updated: 2026-11-15
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -53,7 +53,6 @@
 0.0.0.0 ads-pbs.scotty.orangeclickmedia.com
 0.0.0.0 ads-sg.momagic.com
 0.0.0.0 ads-sys.com
-0.0.0.0 ads.adswag.ai
 0.0.0.0 ads.biddertmz.com
 0.0.0.0 ads.euc.madsense.io
 0.0.0.0 ads.haloads.io
@@ -63,10 +62,8 @@
 0.0.0.0 ads.nuba.io
 0.0.0.0 ads.pulsedsp.com
 0.0.0.0 ads.purelocalmedia.de
-0.0.0.0 ads.sqadsrvr.com
 0.0.0.0 ads.surveymachine.io
 0.0.0.0 ads.theagenticx.ai
-0.0.0.0 ads.thechannelstore.tv
 0.0.0.0 ads.thenexusengine.com
 0.0.0.0 ads.use.madsense.io
 0.0.0.0 ads2.innovativeadserver.com
@@ -147,7 +144,6 @@
 0.0.0.0 betbqj.donlgx.net
 0.0.0.0 betcjeejoh.donlgx.net
 0.0.0.0 betdgh.donlgx.net
-0.0.0.0 bid.adswag.ai
 0.0.0.0 bid.asterio.ai
 0.0.0.0 bid.bedigitech.com
 0.0.0.0 bid.essrtb.com
@@ -155,11 +151,9 @@
 0.0.0.0 bid.revantage.io
 0.0.0.0 bid.rtbshark.com
 0.0.0.0 bidagent.xadchina.cn
-0.0.0.0 bidder-google.ecdrsvc.com
 0.0.0.0 bidder-us-east-1.getblue.io
 0.0.0.0 bidder.apester.com
 0.0.0.0 bidder.onomagic.com
-0.0.0.0 bidder.viously.com
 0.0.0.0 bidder.yaleo.com
 0.0.0.0 bids.ws
 0.0.0.0 bidsmind.pbsadverxo.com
@@ -261,25 +255,21 @@
 0.0.0.0 doubleclick.net
 0.0.0.0 dsp.brainx.tech
 0.0.0.0 dsp.rcoreads.com
-0.0.0.0 e.relay.bid
 0.0.0.0 east-api.harion-ma.com
 0.0.0.0 east-backend.mycodemedia.com
 0.0.0.0 east-node.verben.com
 0.0.0.0 eexsync.com
 0.0.0.0 eficiens-serving.com
-0.0.0.0 endpoint.anzumarketplace.com
 0.0.0.0 endpoint.copper6.com
 0.0.0.0 endpoint1.nativeagents.ai
 0.0.0.0 endpoint1.qt.io
 0.0.0.0 endpoint1.smoot.ai
 0.0.0.0 enzymic.co
 0.0.0.0 etargetcdn.com
-0.0.0.0 eu.a.viddea.com
 0.0.0.0 eu.axprtbggl.com
 0.0.0.0 eu.rtb.munimob123.com
 0.0.0.0 eu1.oraki.io
 0.0.0.0 eu2.adnetwork.agency
-0.0.0.0 ev.adswag.ai
 0.0.0.0 event-eu.ssp.taxssp.com
 0.0.0.0 event.ssp.taxssp.com
 0.0.0.0 exchange.adtonos.com
@@ -288,7 +278,6 @@
 0.0.0.0 exchange.tagoras.io
 0.0.0.0 featuredstory.io
 0.0.0.0 featuretv.bid
-0.0.0.0 felixads-prebid.attekmi.co
 0.0.0.0 ferio.bid
 0.0.0.0 fixfun.pareci.net
 0.0.0.0 fixhkl.pareci.net
@@ -308,18 +297,15 @@
 0.0.0.0 ghb.hb.streamkey.net
 0.0.0.0 ghb.pgamssp.com
 0.0.0.0 gmediation.com
-0.0.0.0 goldplayer.prod.gbadtech.io
 0.0.0.0 googletagservices.com
 0.0.0.0 growone.sg
 0.0.0.0 grxchange.gr
 0.0.0.0 gtarget.info
 0.0.0.0 gum.aidemsrv.com
-0.0.0.0 harrenmedia.pbsadverxo.com
 0.0.0.0 hb.appush.com
 0.0.0.0 hb.crackle.co.in
 0.0.0.0 hb.hyperbrainz.com
 0.0.0.0 hb.incrementxserv.com
-0.0.0.0 hb.justbidit2.xyz
 0.0.0.0 hb.stngo.com
 0.0.0.0 hcurvecdn.com
 0.0.0.0 hermes.aidemsrv.com
@@ -334,13 +320,8 @@
 0.0.0.0 ipdsrv.cloud
 0.0.0.0 ipdsrv.de
 0.0.0.0 iti-ad.com
-0.0.0.0 jambojar-apac-prebid.attekmi.co
-0.0.0.0 jambojar-prebid.attekmi.co
-0.0.0.0 jdpmedia-prebid.attekmi.co
-0.0.0.0 jp.a.viddea.com
 0.0.0.0 js.mchncdn.com
 0.0.0.0 js.outcomesx.net
-0.0.0.0 js.ssp.cadent.com
 0.0.0.0 js2.mchncdn.com
 0.0.0.0 jsrdn.com
 0.0.0.0 kaminoretail.io
@@ -356,8 +337,6 @@
 0.0.0.0 locsensads.com
 0.0.0.0 lunamedia.bid
 0.0.0.0 madington.io
-0.0.0.0 markapp-apac-prebid.attekmi.co
-0.0.0.0 markapp-prebid.attekmi.co
 0.0.0.0 matching.kubient.net
 0.0.0.0 media-adserver.com
 0.0.0.0 media-adserver2.com
@@ -394,7 +373,6 @@
 0.0.0.0 newadserver.com
 0.0.0.0 nexbid.uk
 0.0.0.0 npidpbs.com
-0.0.0.0 nxs.infy.tv
 0.0.0.0 o.clickiocdn.com
 0.0.0.0 openmass.io
 0.0.0.0 optoutadserving.com
@@ -406,8 +384,6 @@
 0.0.0.0 pb.anyrtb.com
 0.0.0.0 pb.optimizerx.com
 0.0.0.0 pbam.orangeclickmedia.com
-0.0.0.0 pbid.lemmamedia.com
-0.0.0.0 pbidj.lemmamedia.com
 0.0.0.0 pbjs.algotoro.com
 0.0.0.0 pbjs.iqzonertb.live
 0.0.0.0 pbjs.kiviads.live
@@ -457,7 +433,6 @@
 0.0.0.0 prebidjs-bids-us1.sonar-ads.com
 0.0.0.0 prebidjs-events-us1.sonar-ads.com
 0.0.0.0 prebidjs-sync-us1.sonar-ads.com
-0.0.0.0 precisify-ads.com
 0.0.0.0 primoadserver.com
 0.0.0.0 privacy.copper6.com
 0.0.0.0 prov9ads.com
@@ -484,13 +459,8 @@
 0.0.0.0 rtb.dochaseadx.com
 0.0.0.0 rtb.hx.compasonline.com
 0.0.0.0 rtb.iageengineering.net
-0.0.0.0 rtb.lane4.io
 0.0.0.0 rtb.lunamedia.live
-0.0.0.0 rtb.michao-ssp.com
-0.0.0.0 rtb.mtflll.com
 0.0.0.0 rtb.nexverse.ai
-0.0.0.0 rtb.pinelake.media
-0.0.0.0 rtb.relevate.health
 0.0.0.0 rtb.segmint.net
 0.0.0.0 rtb.servicesadmedia.com
 0.0.0.0 rtb.upremium.asia
@@ -522,13 +492,9 @@
 0.0.0.0 srv.yadoretargeting.com
 0.0.0.0 srvagm.de
 0.0.0.0 srvrtag.com
-0.0.0.0 ssp-cookie.logan.ai
-0.0.0.0 ssp.adrelevantis.com
-0.0.0.0 ssp.astraone.io
 0.0.0.0 ssp.dauup.com
 0.0.0.0 ssp.disqus.com
 0.0.0.0 ssp.smoot.ai
-0.0.0.0 stackup-prebid.attekmi.co
 0.0.0.0 static.adserver.pm
 0.0.0.0 static.bettergroup.fr
 0.0.0.0 static.go2perseo.com
@@ -540,7 +506,6 @@
 0.0.0.0 streamads.exiber.com
 0.0.0.0 svas.skoiy.xyz
 0.0.0.0 sync-ssp.adsmovil.com
-0.0.0.0 sync.adipolo.live
 0.0.0.0 sync.apester.com
 0.0.0.0 sync.copper6.com
 0.0.0.0 sync.ex.co
@@ -548,13 +513,9 @@
 0.0.0.0 sync.kiviads.com
 0.0.0.0 sync.lemmadigital.com
 0.0.0.0 sync.lunamedia.live
-0.0.0.0 sync.michao-ssp.com
-0.0.0.0 sync.nativeagents.ai
 0.0.0.0 sync.oraki.io
 0.0.0.0 sync.programmaticx.ai
-0.0.0.0 sync.progrtb.com
 0.0.0.0 sync.pubrise.ai
-0.0.0.0 sync.revantage.io
 0.0.0.0 sync.spoutroserve.com
 0.0.0.0 sync.ssmas.com
 0.0.0.0 sync.tagoras.io
@@ -563,8 +524,6 @@
 0.0.0.0 sync.v5prebid.datablocks.net
 0.0.0.0 sync.zxyvrtd.com
 0.0.0.0 sync2.adnetwork.agency
-0.0.0.0 syncbf.bidfuse.com
-0.0.0.0 t-us.blasto.ai
 0.0.0.0 t.adctv.com
 0.0.0.0 taetee.com
 0.0.0.0 tag-ssp.adsmovil.com
@@ -574,7 +533,6 @@
 0.0.0.0 tangooserver.com
 0.0.0.0 taol-srv.net
 0.0.0.0 thedigitaleffect.com
-0.0.0.0 tkprebid.aotter.net
 0.0.0.0 tmsrv.net
 0.0.0.0 tpadx.com
 0.0.0.0 tqe36.flx10.com
@@ -582,23 +540,17 @@
 0.0.0.0 track.adklip.net
 0.0.0.0 tracking.highvibes.media
 0.0.0.0 traffic1.rocketlab.ai
-0.0.0.0 tredio-prebid.attekmi.co
 0.0.0.0 trkio.co
 0.0.0.0 trtm.io
 0.0.0.0 u1.creativesbylugh.com
 0.0.0.0 uber-adsystem.com
 0.0.0.0 udo.solutions
-0.0.0.0 umframe.optinadserving.com
 0.0.0.0 up.video
 0.0.0.0 us-east-1.ingaa.xyz
 0.0.0.0 us-east-ep.engagemedia.tv
-0.0.0.0 us-east.progrtb.com
-0.0.0.0 us.a.viddea.com
 0.0.0.0 us.matterfull.co
-0.0.0.0 usads.harion-ma.com
 0.0.0.0 useast2.logan.ai
 0.0.0.0 user-sync.alkimi-onboarding.com
-0.0.0.0 usersync.mycodemedia.com
 0.0.0.0 usync.rocketlab.ai
 0.0.0.0 usync.smxconv.com
 0.0.0.0 v.ex.co

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Russia (ru)
-# Domains: 95 | Updated: 2026-11-15
+# Domains: 98 | Updated: 2026-11-15
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/countries/ru.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -44,6 +44,8 @@ filmora.wondershare.com.ru
 *.fotostrana.ru
 get.ashoo.io
 get.ashoo.me
+*.individualkikrasnoyarska.net
+intim.obyhiv.com
 *.intimcity.com
 *.intimcity.sale
 *.intimdating.ru
@@ -56,6 +58,7 @@ kry.pack-yo-bag.ru
 *.loveplanet.ru
 m.intimatlas.cz
 m.intimstory.com
+m.relaxmsk.com
 *.mamba.ru
 meet.omlete.ru
 mob.badanga.org

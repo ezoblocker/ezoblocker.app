@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 626 | Updated: 2026-11-15
+# Domains: 578 | Updated: 2026-11-15
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -53,7 +53,6 @@ ads-pbs.rtb-oveeo.com
 ads-pbs.scotty.orangeclickmedia.com
 ads-sg.momagic.com
 *.ads-sys.com
-*.ads.adswag.ai
 ads.biddertmz.com
 *.ads.euc.madsense.io
 ads.haloads.io
@@ -63,10 +62,8 @@ ads.madsense.io
 ads.nuba.io
 *.ads.pulsedsp.com
 *.ads.purelocalmedia.de
-*.ads.sqadsrvr.com
 *.ads.surveymachine.io
 ads.theagenticx.ai
-*.ads.thechannelstore.tv
 ads.thenexusengine.com
 *.ads.use.madsense.io
 *.ads2.innovativeadserver.com
@@ -147,7 +144,6 @@ be-agent.teqblaze.io
 betbqj.donlgx.net
 betcjeejoh.donlgx.net
 betdgh.donlgx.net
-bid.adswag.ai
 bid.asterio.ai
 bid.bedigitech.com
 bid.essrtb.com
@@ -155,11 +151,9 @@ bid.realry.com
 bid.revantage.io
 bid.rtbshark.com
 *.bidagent.xadchina.cn
-*.bidder-google.ecdrsvc.com
 bidder-us-east-1.getblue.io
 bidder.apester.com
 bidder.onomagic.com
-bidder.viously.com
 bidder.yaleo.com
 bids.ws
 bidsmind.pbsadverxo.com
@@ -261,25 +255,21 @@ directo.prebidserving.com
 *.doubleclick.net
 dsp.brainx.tech
 dsp.rcoreads.com
-e.relay.bid
 east-api.harion-ma.com
 east-backend.mycodemedia.com
 east-node.verben.com
 *.eexsync.com
 *.eficiens-serving.com
-endpoint.anzumarketplace.com
 endpoint.copper6.com
 endpoint1.nativeagents.ai
 endpoint1.qt.io
 endpoint1.smoot.ai
 *.enzymic.co
 *.etargetcdn.com
-eu.a.viddea.com
 *.eu.axprtbggl.com
 eu.rtb.munimob123.com
 eu1.oraki.io
 eu2.adnetwork.agency
-ev.adswag.ai
 event-eu.ssp.taxssp.com
 event.ssp.taxssp.com
 exchange.adtonos.com
@@ -288,7 +278,6 @@ exchange.programmaticx.ai
 exchange.tagoras.io
 *.featuredstory.io
 featuretv.bid
-felixads-prebid.attekmi.co
 ferio.bid
 fixfun.pareci.net
 fixhkl.pareci.net
@@ -308,18 +297,15 @@ ghb.console.indicue.com
 ghb.hb.streamkey.net
 ghb.pgamssp.com
 *.gmediation.com
-goldplayer.prod.gbadtech.io
 *.googletagservices.com
 *.growone.sg
 *.grxchange.gr
 *.gtarget.info
 gum.aidemsrv.com
-harrenmedia.pbsadverxo.com
 hb.appush.com
 hb.crackle.co.in
 hb.hyperbrainz.com
 hb.incrementxserv.com
-hb.justbidit2.xyz
 hb.stngo.com
 *.hcurvecdn.com
 *.hermes.aidemsrv.com
@@ -334,13 +320,8 @@ hmidssp.com
 *.ipdsrv.cloud
 *.ipdsrv.de
 *.iti-ad.com
-jambojar-apac-prebid.attekmi.co
-jambojar-prebid.attekmi.co
-jdpmedia-prebid.attekmi.co
-jp.a.viddea.com
 *.js.mchncdn.com
 *.js.outcomesx.net
-js.ssp.cadent.com
 *.js2.mchncdn.com
 *.jsrdn.com
 *.kaminoretail.io
@@ -356,8 +337,6 @@ lib-cdn.8pod.com
 *.locsensads.com
 lunamedia.bid
 *.madington.io
-markapp-apac-prebid.attekmi.co
-markapp-prebid.attekmi.co
 matching.kubient.net
 *.media-adserver.com
 *.media-adserver2.com
@@ -394,7 +373,6 @@ mraid.bigo.sg
 *.newadserver.com
 nexbid.uk
 *.npidpbs.com
-nxs.infy.tv
 o.clickiocdn.com
 *.openmass.io
 *.optoutadserving.com
@@ -406,8 +384,6 @@ panxo-sys.com
 pb.anyrtb.com
 pb.optimizerx.com
 pbam.orangeclickmedia.com
-pbid.lemmamedia.com
-pbidj.lemmamedia.com
 *.pbjs.algotoro.com
 pbjs.iqzonertb.live
 pbjs.kiviads.live
@@ -457,7 +433,6 @@ prebid.rtb.allegro.pl
 prebidjs-bids-us1.sonar-ads.com
 prebidjs-events-us1.sonar-ads.com
 prebidjs-sync-us1.sonar-ads.com
-*.precisify-ads.com
 *.primoadserver.com
 privacy.copper6.com
 *.prov9ads.com
@@ -484,13 +459,8 @@ rtb.dexerto.media
 rtb.dochaseadx.com
 rtb.hx.compasonline.com
 *.rtb.iageengineering.net
-rtb.lane4.io
 rtb.lunamedia.live
-rtb.michao-ssp.com
-rtb.mtflll.com
 rtb.nexverse.ai
-rtb.pinelake.media
-rtb.relevate.health
 *.rtb.segmint.net
 *.rtb.servicesadmedia.com
 rtb.upremium.asia
@@ -522,13 +492,9 @@ srv.adklip.net
 *.srv.yadoretargeting.com
 *.srvagm.de
 *.srvrtag.com
-ssp-cookie.logan.ai
-ssp.adrelevantis.com
-ssp.astraone.io
 ssp.dauup.com
 ssp.disqus.com
 *.ssp.smoot.ai
-stackup-prebid.attekmi.co
 *.static.adserver.pm
 *.static.bettergroup.fr
 *.static.go2perseo.com
@@ -540,7 +506,6 @@ stackup-prebid.attekmi.co
 *.streamads.exiber.com
 *.svas.skoiy.xyz
 sync-ssp.adsmovil.com
-sync.adipolo.live
 sync.apester.com
 sync.copper6.com
 sync.ex.co
@@ -548,13 +513,9 @@ sync.hx.compasonline.com
 sync.kiviads.com
 sync.lemmadigital.com
 sync.lunamedia.live
-sync.michao-ssp.com
-sync.nativeagents.ai
 sync.oraki.io
 sync.programmaticx.ai
-sync.progrtb.com
 sync.pubrise.ai
-sync.revantage.io
 sync.spoutroserve.com
 sync.ssmas.com
 sync.tagoras.io
@@ -563,8 +524,6 @@ sync.twist.win
 sync.v5prebid.datablocks.net
 sync.zxyvrtd.com
 sync2.adnetwork.agency
-syncbf.bidfuse.com
-t-us.blasto.ai
 *.t.adctv.com
 taetee.com
 tag-ssp.adsmovil.com
@@ -574,7 +533,6 @@ tag-ssp.adsmovil.com
 *.tangooserver.com
 *.taol-srv.net
 *.thedigitaleffect.com
-tkprebid.aotter.net
 *.tmsrv.net
 *.tpadx.com
 *.tqe36.flx10.com
@@ -582,23 +540,17 @@ tkprebid.aotter.net
 track.adklip.net
 *.tracking.highvibes.media
 traffic1.rocketlab.ai
-tredio-prebid.attekmi.co
 *.trkio.co
 *.trtm.io
 *.u1.creativesbylugh.com
 *.uber-adsystem.com
 *.udo.solutions
-umframe.optinadserving.com
 *.up.video
 us-east-1.ingaa.xyz
 us-east-ep.engagemedia.tv
-us-east.progrtb.com
-us.a.viddea.com
 us.matterfull.co
-usads.harion-ma.com
 useast2.logan.ai
 user-sync.alkimi-onboarding.com
-usersync.mycodemedia.com
 usync.rocketlab.ai
 usync.smxconv.com
 v.ex.co

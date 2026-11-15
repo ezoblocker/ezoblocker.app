@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, ad exchange endpoints from Prebid.js / Prebid Server adapters
-# Domains: 271 | Updated: 2026-11-15
+# Domains: 228 | Updated: 2026-11-15
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/ads/prebid.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -59,7 +59,6 @@ balancer.lmgssp.com
 balancer.mediayo.ai
 bapi.userreport.com
 be-agent.teqblaze.io
-bid.adswag.ai
 bid.asterio.ai
 bid.bedigitech.com
 bid.essrtb.com
@@ -69,7 +68,6 @@ bid.rtbshark.com
 bidder-us-east-1.getblue.io
 bidder.apester.com
 bidder.onomagic.com
-bidder.viously.com
 bidder.yaleo.com
 bids.ws
 bidsmind.pbsadverxo.com
@@ -91,25 +89,20 @@ cs.qt.io
 directo.prebidserving.com
 dsp.brainx.tech
 dsp.rcoreads.com
-e.relay.bid
 east-api.harion-ma.com
 east-backend.mycodemedia.com
 east-node.verben.com
-endpoint.anzumarketplace.com
 endpoint.copper6.com
 endpoint1.nativeagents.ai
 endpoint1.qt.io
 endpoint1.smoot.ai
-eu.a.viddea.com
 eu1.oraki.io
 eu2.adnetwork.agency
-ev.adswag.ai
 exchange.adtonos.com
 exchange.alkimi-onboarding.com
 exchange.programmaticx.ai
 exchange.tagoras.io
 featuretv.bid
-felixads-prebid.attekmi.co
 ferio.bid
 fran.frvr.com
 g.ezoic.net
@@ -117,30 +110,19 @@ ghb.app.copper6.com
 ghb.console.indicue.com
 ghb.hb.streamkey.net
 ghb.pgamssp.com
-goldplayer.prod.gbadtech.io
 gum.aidemsrv.com
-harrenmedia.pbsadverxo.com
 hb.appush.com
 hb.hyperbrainz.com
 hb.incrementxserv.com
-hb.justbidit2.xyz
 hb.stngo.com
 hmidssp.com
-jambojar-apac-prebid.attekmi.co
-jambojar-prebid.attekmi.co
-jdpmedia-prebid.attekmi.co
-jp.a.viddea.com
-js.ssp.cadent.com
 kssp.kbntx.ch
 lb-east.intenze.co
 lb.kiviads.com
 lib-cdn.8pod.com
 lunamedia.bid
-markapp-apac-prebid.attekmi.co
-markapp-prebid.attekmi.co
 matching.kubient.net
 nexbid.uk
-nxs.infy.tv
 o.clickiocdn.com
 ortb.richaudience.com
 ortb2.pubstar-ad.com
@@ -148,8 +130,6 @@ panxo-sys.com
 pb.anyrtb.com
 pb.optimizerx.com
 pbam.orangeclickmedia.com
-pbid.lemmamedia.com
-pbidj.lemmamedia.com
 pbjs.iqzonertb.live
 pbjs.kiviads.live
 pbjs.league-m.media
@@ -201,13 +181,8 @@ rtb.connektai.live
 rtb.dexerto.media
 rtb.dochaseadx.com
 rtb.hx.compasonline.com
-rtb.lane4.io
 rtb.lunamedia.live
-rtb.michao-ssp.com
-rtb.mtflll.com
 rtb.nexverse.ai
-rtb.pinelake.media
-rtb.relevate.health
 rtb.upremium.asia
 rtb.valuad.io
 rtb.vuukle.com
@@ -218,14 +193,9 @@ s.oa.opera.com
 s2s.sportslocalmedia.com
 service.gnetrtb.com
 srv.adklip.net
-ssp-cookie.logan.ai
-ssp.adrelevantis.com
-ssp.astraone.io
 ssp.dauup.com
 ssp.disqus.com
-stackup-prebid.attekmi.co
 sync-ssp.adsmovil.com
-sync.adipolo.live
 sync.apester.com
 sync.copper6.com
 sync.ex.co
@@ -233,13 +203,9 @@ sync.hx.compasonline.com
 sync.kiviads.com
 sync.lemmadigital.com
 sync.lunamedia.live
-sync.michao-ssp.com
-sync.nativeagents.ai
 sync.oraki.io
 sync.programmaticx.ai
-sync.progrtb.com
 sync.pubrise.ai
-sync.revantage.io
 sync.spoutroserve.com
 sync.ssmas.com
 sync.tagoras.io
@@ -248,23 +214,14 @@ sync.twist.win
 sync.v5prebid.datablocks.net
 sync.zxyvrtd.com
 sync2.adnetwork.agency
-syncbf.bidfuse.com
-t-us.blasto.ai
 taetee.com
 tag-ssp.adsmovil.com
-tkprebid.aotter.net
 track.adklip.net
 traffic1.rocketlab.ai
-tredio-prebid.attekmi.co
-umframe.optinadserving.com
 us-east-ep.engagemedia.tv
-us-east.progrtb.com
-us.a.viddea.com
 us.matterfull.co
-usads.harion-ma.com
 useast2.logan.ai
 user-sync.alkimi-onboarding.com
-usersync.mycodemedia.com
 usync.rocketlab.ai
 usync.smxconv.com
 v.ex.co

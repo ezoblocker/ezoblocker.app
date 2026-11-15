@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Colombia (co)
-# Domains: 43 | Updated: 2026-11-15
+# Domains: 45 | Updated: 2026-11-15
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/co.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -26,6 +26,8 @@
 0.0.0.0 pirlotv.tools
 0.0.0.0 pirlotv.win
 0.0.0.0 pirlotvapk.net
+0.0.0.0 pirlotvenhd.club
+0.0.0.0 pirlotvonoine.site
 0.0.0.0 pirlotvplay.online
 0.0.0.0 pirlotvv.org
 0.0.0.0 repelisplus.casa

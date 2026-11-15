@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Ireland (ie)
-# Domains: 47 | Updated: 2026-11-15
+# Domains: 52 | Updated: 2026-11-15
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/ie.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,10 +8,13 @@
 0.0.0.0 bray.kubuchet.ru
 0.0.0.0 carlow.level-web.ru
 0.0.0.0 chatinireland.com
+0.0.0.0 cheap-escort.shop
 0.0.0.0 clonmel.level-web.ru
 0.0.0.0 cupidescorts.co.uk
 0.0.0.0 empirescort.com
+0.0.0.0 escort-cheap.shop
 0.0.0.0 escort-ireland.com
+0.0.0.0 escort-near.shop
 0.0.0.0 escorthub.org
 0.0.0.0 escortrankings.uk
 0.0.0.0 escorts-ie.eu
@@ -21,6 +24,7 @@
 0.0.0.0 happyescorts.com
 0.0.0.0 hotescortnearme.com
 0.0.0.0 ie.xtonight.com
+0.0.0.0 independent-escort.shop
 0.0.0.0 ireland.redhotsocial.com
 0.0.0.0 irishchat.net
 0.0.0.0 irishmirror.ie
@@ -40,6 +44,7 @@
 0.0.0.0 pingadults.com
 0.0.0.0 portlaoise.superiorcleanerssc.com
 0.0.0.0 punternet.com
+0.0.0.0 service-escort.shop
 0.0.0.0 simpleescort.com
 0.0.0.0 strangermeetup.com
 0.0.0.0 strangerschat.in

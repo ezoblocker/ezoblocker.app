@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,426 | Updated: 2026-11-15
+# Domains: 1,428 | Updated: 2026-11-15
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -103,6 +103,7 @@
 0.0.0.0 aventurierotice.ro
 0.0.0.0 avenue-privee.com
 0.0.0.0 ayay.it
+0.0.0.0 ayisigierotica.com
 0.0.0.0 aysexshop.mx
 0.0.0.0 babylonloveshop.be
 0.0.0.0 babylonloveshop.com
@@ -492,6 +493,7 @@
 0.0.0.0 intim-market.ru
 0.0.0.0 intimate.pk
 0.0.0.0 intimatefashions.pk
+0.0.0.0 intimatemart.com
 0.0.0.0 intimax.ro
 0.0.0.0 intimelovestore.com.ar
 0.0.0.0 intimestetik.ru

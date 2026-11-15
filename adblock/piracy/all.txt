@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 1,202 | Updated: 2026-11-15
+! Domains: 1,207 | Updated: 2026-11-15
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -189,6 +189,7 @@
 ||cuevana3.boo^
 ||cuevana3.re^
 ||cuevana3.sc^
+||cuevana3ai.top^
 ||cuevanaa1.pro^
 ||cuevanaserie.pro^
 ||cuevanatv.vip^
@@ -432,6 +433,7 @@
 ||hellspy.to^
 ||hemenfilmizle.icu^
 ||hesgoal.co.uk^
+||hesgoal.download^
 ||hesgoal.ltd^
 ||hesgoal.plus^
 ||hesgoal.rocks^
@@ -808,10 +810,12 @@
 ||pirlotv.win^
 ||pirlotv1.live^
 ||pirlotvapk.net^
+||pirlotvenhd.club^
 ||pirlotvhd.asia^
 ||pirlotvhd.kim^
 ||pirlotvhd.shop^
 ||pirlotvhq.me^
+||pirlotvonoine.site^
 ||pirlotvplay.online^
 ||pirlotvv.org^
 |pixpretty.tenorshare.ai^
@@ -1194,6 +1198,7 @@
 |xznavkgp.ahrtaler-gourmetschmiede.de^
 ||yaacinetv.com^
 ||yabancidizi.news^
+||yalla1shoot.club^
 ||yallah-shooot.top^
 ||yallakora.cam^
 ||yallakora.com^

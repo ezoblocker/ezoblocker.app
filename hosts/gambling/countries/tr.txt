@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 234 | Updated: 2026-11-15
+# Domains: 237 | Updated: 2026-11-15
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -87,6 +87,7 @@
 0.0.0.0 celtabet.com.tr
 0.0.0.0 chromabeads.co.uk
 0.0.0.0 cmd368super.com
+0.0.0.0 crashking.co.uk
 0.0.0.0 croatia-bonusesfinder.com
 0.0.0.0 cybetic.com
 0.0.0.0 denemebonuslari.yachts
@@ -155,6 +156,7 @@
 0.0.0.0 nakitbahis.cam
 0.0.0.0 nakitbahis.com
 0.0.0.0 nakitbahisgiris.wiki
+0.0.0.0 nationalurbansquash.org
 0.0.0.0 north.asarecycling.com
 0.0.0.0 objektifahaber.org
 0.0.0.0 online.hubbardcity.com
@@ -209,6 +211,7 @@
 0.0.0.0 tektikla.net
 0.0.0.0 tempobetde.com
 0.0.0.0 theallergyfreewife.com
+0.0.0.0 tktkishkinda.org
 0.0.0.0 tr-marsbahis-2025.vip
 0.0.0.0 trbet908.com
 0.0.0.0 trbet972.com

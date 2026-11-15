@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, adtech
-# Domains: 316 | Updated: 2026-11-15
+# Domains: 311 | Updated: 2026-11-15
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/adtech.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -21,15 +21,12 @@
 0.0.0.0 ads-cdn-3p.digitalturbine.com
 0.0.0.0 ads-cdn.digitalturbine.com
 0.0.0.0 ads-sys.com
-0.0.0.0 ads.adswag.ai
 0.0.0.0 ads.euc.madsense.io
 0.0.0.0 ads.innovativeadserver.com
 0.0.0.0 ads.metroparent.com
 0.0.0.0 ads.pulsedsp.com
 0.0.0.0 ads.purelocalmedia.de
-0.0.0.0 ads.sqadsrvr.com
 0.0.0.0 ads.surveymachine.io
-0.0.0.0 ads.thechannelstore.tv
 0.0.0.0 ads.use.madsense.io
 0.0.0.0 ads2.innovativeadserver.com
 0.0.0.0 adserver.axelspringer.ad
@@ -81,7 +78,6 @@
 0.0.0.0 bannerspace.net
 0.0.0.0 bedrockplatform.bid
 0.0.0.0 bidagent.xadchina.cn
-0.0.0.0 bidder-google.ecdrsvc.com
 0.0.0.0 bidswitch.bidder.mediakeys.io
 0.0.0.0 bksnimages.com
 0.0.0.0 blockboardtech.com
@@ -238,7 +234,6 @@
 0.0.0.0 pmsrv.co
 0.0.0.0 polarcdn-static.com
 0.0.0.0 prebid.admaxmedia.io
-0.0.0.0 precisify-ads.com
 0.0.0.0 primoadserver.com
 0.0.0.0 prov9ads.com
 0.0.0.0 provenpixel.com

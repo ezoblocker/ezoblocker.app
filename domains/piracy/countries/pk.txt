@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, PK (pk)
-# Domains: 25 | Updated: 2026-11-15
+# Domains: 26 | Updated: 2026-11-15
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/countries/pk.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,6 +13,7 @@ footybite.boats
 footybite.football
 footybite.im
 getlive.pcb.com.pk
+hesgoal.download
 hesgoal.zone
 hesgoals.rest
 live.pcb.com.pk

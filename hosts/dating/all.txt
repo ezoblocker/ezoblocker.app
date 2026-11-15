@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,318 | Updated: 2026-11-15
+# Domains: 1,327 | Updated: 2026-11-15
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -238,6 +238,7 @@
 0.0.0.0 chatvideo.fun
 0.0.0.0 chatville.com
 0.0.0.0 chatza.co.za
+0.0.0.0 cheap-escort.shop
 0.0.0.0 checkerviet.cc
 0.0.0.0 chelyabinsk1.5intim.com
 0.0.0.0 chernigov.kek-sik.com
@@ -373,10 +374,12 @@
 0.0.0.0 erosprepagos.com.co
 0.0.0.0 erotickychat.net
 0.0.0.0 erotik.markt.ch
+0.0.0.0 escort-cheap.shop
 0.0.0.0 escort-directory.eu
 0.0.0.0 escort-directory.nl
 0.0.0.0 escort-galerie.de
 0.0.0.0 escort-ireland.com
+0.0.0.0 escort-near.shop
 0.0.0.0 escort-side.dk
 0.0.0.0 escort-ua.com
 0.0.0.0 escort.club
@@ -592,9 +595,11 @@
 0.0.0.0 in.zuli.in
 0.0.0.0 ind.incallup.com
 0.0.0.0 independent-escort-girls-abu-dhabi.b12sites.com
+0.0.0.0 independent-escort.shop
 0.0.0.0 indian-call-girls-ajman-t7mq.b12sites.com
 0.0.0.0 indiancupid.com
 0.0.0.0 indiaskokka.com
+0.0.0.0 individualkikrasnoyarska.net
 0.0.0.0 indonesiancupid.com
 0.0.0.0 internationalcupid.com
 0.0.0.0 internationalsexguide.nl
@@ -608,6 +613,7 @@
 0.0.0.0 intim-uslugi.info
 0.0.0.0 intim-vin.com
 0.0.0.0 intim-zp.net
+0.0.0.0 intim.obyhiv.com
 0.0.0.0 intimcity.com
 0.0.0.0 intimcity.sale
 0.0.0.0 intimdating.ru
@@ -719,6 +725,7 @@
 0.0.0.0 m.maccosmetics.gr
 0.0.0.0 m.members.duo.co.kr
 0.0.0.0 m.relaxchile.cl
+0.0.0.0 m.relaxmsk.com
 0.0.0.0 m.sweetglam.co.kr
 0.0.0.0 m.tottaa.com
 0.0.0.0 m.xlist.gr
@@ -1021,6 +1028,7 @@
 0.0.0.0 seitensprung-fibel.de
 0.0.0.0 seitensprung21.ch
 0.0.0.0 seo.imaiko.com
+0.0.0.0 service-escort.shop
 0.0.0.0 service.link.link
 0.0.0.0 servicii.primariatm.ro
 0.0.0.0 seslichat.com
@@ -1051,6 +1059,7 @@
 0.0.0.0 shagle.tv
 0.0.0.0 shaglechat.net
 0.0.0.0 shemaleclub.uk
+0.0.0.0 shokokai-konkatsu.com
 0.0.0.0 siberalem.com
 0.0.0.0 sibiu.abcescorte.com
 0.0.0.0 silverlove.com

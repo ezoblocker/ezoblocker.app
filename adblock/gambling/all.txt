@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling
-! Domains: 790,078 | Updated: 2026-11-15
+! Domains: 790,063 | Updated: 2026-11-15
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -32402,6 +32402,7 @@
 ||991jiliok.com^
 ||991tumbet.com^
 ||991vulkanvegas2.com^
+||9924tipobet.com^
 ||99254821.com^
 ||992bet-betbr.com^
 ||992betbetbr.com^
@@ -43115,7 +43116,6 @@
 ||alfcasinoonline.es^
 ||alfcasinopl-com.pages.dev^
 ||alfcasinopl.com^
-||alfcasinopoland.com^
 ||alfcasinopt-com.pages.dev^
 ||alfcasinopt.com^
 ||alfcasinos-co-uk-41d7ee7d.pages.dev^
@@ -72193,7 +72193,6 @@
 ||bahigo-casino-bonuslari.com^
 ||bahigo-casino-schweiz.com^
 ||bahigo-casino-wetten.com^
-||bahigo-casino.de^
 ||bahigo-casino.fr^
 ||bahigo-casinowetten.com^
 ||bahigo-kayit-ol.com^
@@ -89019,7 +89018,6 @@
 ||bet-365-espana.com^
 ||bet-365-itcasino-com-6927a20a.pages.dev^
 ||bet-365-krmobile-com-c19c5787.pages.dev^
-||bet-365-kz.com^
 ||bet-365-nl.nl^
 ||bet-365-nl.pages.dev^
 ||bet-365-nlcasino-com-a0e297ac.pages.dev^
@@ -123036,7 +123034,6 @@
 ||bitcasinovn.com^
 ||bitcoin-apuestas.com^
 ||bitcoin-aus-casinos.com^
-||bitcoin-betting-sites.com^
 ||bitcoin-betting.com^
 ||bitcoin-betting.net^
 ||bitcoin-casino-address-formats.pages.dev^
@@ -188667,7 +188664,6 @@
 ||casinoluxorpe.com^
 ||casinoluxschweiz.com^
 ||casinoluxth.pages.dev^
-||casinoluxury-canada.com^
 ||casinoluxury.at^
 ||casinoluxury.ch^
 ||casinoluxury.co.com^
@@ -189934,7 +189930,6 @@
 ||casinomaxbet.co.com^
 ||casinomaxbet.de^
 ||casinomaxbet.org^
-||casinomaxbet.ro^
 ||casinomaxbet.uk^
 ||casinomaxbetro-com.pages.dev^
 ||casinomaxbetro.com^
@@ -234880,6 +234875,7 @@
 ||crashinocasino.ro^
 ||crashinocasino.uk^
 ||crashinocasinon.com^
+||crashking.co.uk^
 ||crashloot-casino.buzz^
 ||crashoutcasino.co.uk^
 ||crashoutcasinos.com^
@@ -234925,6 +234921,7 @@
 ||cratosroyalbet1512.com^
 ||cratosroyalbet1515.com^
 ||cratosroyalbet1516.com^
+||cratosroyalbet1517.com^
 ||cratosroyalbet1705.com^
 ||cratosroyalbet2026.help^
 ||cratosroyalbet2507.com^
@@ -238018,7 +238015,6 @@
 ||crownscasino.app^
 ||crownscasino.co.uk^
 ||crownscasino.net^
-||crownscoinscasino.com^
 ||crownslotcasino.com^
 ||crownslotcasino.net^
 ||crownslotcasino.org^
@@ -247086,7 +247082,6 @@
 ||dedemancasinogiris.net^
 ||dedemancasinogiris.org^
 ||dedemancasinogirisi.com^
-||dedemancasinoguncel.com^
 ||dedemancasinoguncelgiris.com^
 ||dedemancasinoo.com^
 ||dedetizadoramarques-slot-gacor.pages.dev^
@@ -270310,7 +270305,6 @@
 ||ethereumcasino-bet-com.pages.dev^
 ||ethereumcasino-canada.ca^
 ||ethereumcasino.at^
-||ethereumcasino.bet^
 ||ethereumcasino.ca^
 ||ethereumcasino.co.nz^
 ||ethereumcasino.co.uk^
@@ -275474,6 +275468,7 @@
 ||fairplay-casinos.net^
 ||fairplay-khelo.com^
 ||fairplay-official-india.com^
+||fairplay.inc^
 ||fairplay247casino.com^
 ||fairplay77ph.com^
 ||fairplay8.net^
@@ -283610,7 +283605,6 @@
 ||fonbet-betting-it.pages.dev^
 ||fonbet-bonus-de.pages.dev^
 ||fonbet-bonus.com.kz^
-||fonbet-bonus.de^
 ||fonbet-bonus.kz^
 ||fonbet-ca.com^
 ||fonbet-casino-com.pages.dev^
@@ -283666,13 +283660,11 @@
 ||fonbet-slot.pages.dev^
 ||fonbet-sport.ru^
 ||fonbet-sportwetten-de.pages.dev^
-||fonbet-sportwetten.de^
 ||fonbet-start.ru^
 ||fonbet-uk.com^
 ||fonbet-us-us.pages.dev^
 ||fonbet-us.us^
 ||fonbet-wetten-de.pages.dev^
-||fonbet-wetten.de^
 ||fonbet-win-de.pages.dev^
 ||fonbet-win.de^
 ||fonbet-zocken-de.pages.dev^
@@ -324824,7 +324816,6 @@
 ||hardrockcasinogr-com.pages.dev^
 ||hardrockcasinogr.com^
 ||hardrockcasinonederland-nl-aa95cef4.pages.dev^
-||hardrockcasinonederland.nl^
 ||hardrockcasinonl.com^
 ||hardrockcasinonl.nl^
 ||hardrockcasinonorthernindiana.com^
@@ -340131,7 +340122,6 @@
 ||icefishingcasino.ro^
 ||icefishingcasino.se^
 ||icefishingcasino.uk^
-||icefishingcasino.win^
 ||icefishingcasinogame.com^
 ||icefishingcasinogame.pages.dev^
 ||icefishingcasinoindia.pages.dev^
@@ -465143,11 +465133,9 @@
 ||monopolycasino.org.pl^
 ||monopolycasino.org.uk^
 ||monopolycasino.pages.dev^
-||monopolycasino.pl^
 ||monopolycasino.ro^
 ||monopolycasino.sbs^
 ||monopolycasino.si^
-||monopolycasino.sk^
 ||monopolycasino.uk.com^
 ||monopolycasino.uk.net^
 ||monopolycasino.uno^
@@ -484184,6 +484172,7 @@
 ||nationalscasino.uk^
 ||nationalsportsbettingmonth.com^
 ||nationaltotoslot.pages.dev^
+||nationalurbansquash.org^
 ||nationbingocasino.co.uk^
 ||nationcasinos.com^
 ||nationwlatogel88.net^
@@ -492586,7 +492575,6 @@
 ||ninlaycasino-at.eu.com^
 ||ninlaycasino-ca.com^
 ||ninlaycasino-ch.com^
-||ninlaycasino-de.de^
 ||ninlaycasino-deutschland-de.pages.dev^
 ||ninlaycasino-deutschland.de^
 ||ninlaycasino-fi.eu.com^
@@ -498062,7 +498050,6 @@
 ||norsk-casino.io^
 ||norsk-casino.me^
 ||norsk-casinos.com^
-||norsk-slots.win^
 ||norska-casino.se^
 ||norska-casinon-se.click^
 ||norska-casinon-se.club^
@@ -574524,6 +574511,7 @@
 ||rabbitwins.email^
 ||rabbitwins.uk^
 ||rabensatelier.com^
+|rabet-botswana.trunkt.org^
 ||rabet.best^
 ||rabet.bet^
 ||rabet.biz^
@@ -701482,6 +701470,7 @@
 ||tktkbet.app^
 ||tktkbet.org^
 ||tktkbet.win^
+||tktkishkinda.org^
 ||tktslotcuan.com^
 ||tkvipbet.com^
 ||tkwin-slots.com^
@@ -737591,7 +737580,6 @@
 ||veraandjohnonlinecasino.com^
 ||verabet-br-app.pages.dev^
 ||verabet-br-net.pages.dev^
-||verabet-com.com^
 ||verabet-game.com^
 ||verabet-jogo.com^
 ||verabet.asia^
@@ -754186,7 +754174,6 @@
 ||weisscasino-vip.pages.dev^
 ||weisscasino-xyz.pages.dev^
 ||weisscasino.click^
-||weisscasino.club^
 ||weisscasino.co.com^
 ||weisscasino.co.cz^
 ||weisscasino.co.nl^
@@ -785995,7 +785982,6 @@
 ||zh-cn-texaspoker.org^
 ||zh-coinpoker.com^
 ||zh-content-ggpoker.com^
-||zh-esportsbet.com^
 ||zh-evpoker.com^
 ||zh-freeslotofficial.com^
 ||zh-game-poker.com^
@@ -787574,7 +787560,6 @@
 ||zodiac-casino-si.com^
 ||zodiac-casino-win.ca^
 ||zodiac-casino-win.org^
-||zodiac-casino.ch^
 ||zodiac-casino.co^
 ||zodiac-casino.co.com^
 ||zodiac-casino.co.cz^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 469 | Updated: 2026-11-15
+# Domains: 473 | Updated: 2026-11-15
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -128,6 +128,7 @@
 0.0.0.0 getlive.pcb.com.pk
 0.0.0.0 hdlivehd7.live
 0.0.0.0 hesgoal.co.uk
+0.0.0.0 hesgoal.download
 0.0.0.0 hesgoal.ltd
 0.0.0.0 hesgoal.plus
 0.0.0.0 hesgoal.rocks
@@ -265,10 +266,12 @@
 0.0.0.0 pirlotv.win
 0.0.0.0 pirlotv1.live
 0.0.0.0 pirlotvapk.net
+0.0.0.0 pirlotvenhd.club
 0.0.0.0 pirlotvhd.asia
 0.0.0.0 pirlotvhd.kim
 0.0.0.0 pirlotvhd.shop
 0.0.0.0 pirlotvhq.me
+0.0.0.0 pirlotvonoine.site
 0.0.0.0 pirlotvplay.online
 0.0.0.0 pirlotvv.org
 0.0.0.0 premierleague.com
@@ -464,6 +467,7 @@
 0.0.0.0 xoilacxbt.tv
 0.0.0.0 xoilacxxm.cc
 0.0.0.0 xoilaczcd.tv
+0.0.0.0 yalla1shoot.club
 0.0.0.0 yallah-shooot.top
 0.0.0.0 yallakora.cam
 0.0.0.0 yallakora.com
