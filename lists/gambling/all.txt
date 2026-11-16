@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 807,153 | Updated: 2026-11-15
+# Domains: 807,149 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -30395,7 +30395,6 @@
 *.888starz3-casino.biz
 *.888starz4-casino.biz
 *.888starz5-casino.biz
-*.888starzbet-ci.com
 *.888starzbet-partners.ru
 *.888starzbet.co.za
 *.888starzbet.es
@@ -117101,7 +117100,6 @@ betwinner-connexion-3-rcd.animateur-esport.fr
 *.betwinner-izhevsk.com
 *.betwinner-jit.com
 *.betwinner-k9.top
-*.betwinner-kazan.com
 *.betwinner-kemerovo.com
 *.betwinner-kenya.com
 *.betwinner-kenya.info
@@ -146935,7 +146933,6 @@ bonukset-ilman-kierratysta-lab.tervarinne.fi
 *.bycasinoinfo.com
 *.bycasinolu.com
 *.bycasinom.net
-*.bycasinon.com
 *.bycasinopartners.com
 *.bycasinotvzirvestr.pages.dev
 *.bycasinovideo.com
@@ -449873,7 +449870,6 @@ makati-city.infoisinfo-ph.com
 *.marvelcasino-ca.com
 *.marvelcasino-ch.com
 *.marvelcasino-ch.eu.com
-*.marvelcasino-cz.com
 *.marvelcasino-denmark-com.pages.dev
 *.marvelcasino-deutschland-de.pages.dev
 *.marvelcasino-deutschland.com

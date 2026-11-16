@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Security, ct
-! Domains: 86,297 | Updated: 2026-11-15
+! Domains: 86,291 | Updated: 2026-11-16
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7420,6 +7420,7 @@
 ||bmk88login.bet^
 ||bmk88login.net^
 ||bmo-mobile-alerts-banking.com.ph^
+||bmo-verification.com^
 ||bn-letsvpn.com.cn^
 ||bn-trezor-bridge.pages.dev^
 ||bn-trrezor-bridge.pages.dev^
@@ -9287,7 +9288,6 @@
 |cachegoogle.ss74.workers.dev^
 ||cachegrid.ru^
 ||cadastronetempresas.app^
-||cadastrosbradesco.com^
 ||caillourobloxid.pages.dev^
 ||caixa-expresso-online.pages.dev^
 ||caixa-secure-web-hml.pages.dev^
@@ -20983,7 +20983,6 @@
 ||ex-tenson-web-en.pages.dev^
 ||ex-tention-coin-base-eng.pages.dev^
 ||ex-trezorio.pages.dev^
-||ex-whats-app.com.cn^
 ||ex-xodu-sweb.pages.dev^
 ||ex-xodus--doc.pages.dev^
 ||ex-xodus-doc-web.pages.dev^
@@ -23496,7 +23495,6 @@
 ||fed-uphold--login.pages.dev^
 ||fedex-americanexpress.ph^
 ||fedex-applesupport-secure.com.ph^
-||fedex-courier.com^
 |fedex-delivery-tracking.aiianc.com^
 ||fedex-delivery.pages.dev^
 ||fedex-f.com^
@@ -54028,6 +54026,7 @@
 ||officl-suitstrzr.pages.dev^
 ||offiical-exod-s.pages.dev^
 ||offlce365loglmicrosoftonlineapplications.pages.dev^
+||offlcemial-updateeset.site^
 ||offline-ldgerlive-app.pages.dev^
 ||offmail-microonlineiogin.sbs^
 ||ofical-trzor.pages.dev^
@@ -57436,7 +57435,6 @@
 ||phase1-flaregovernance.xyz^
 ||phase2-firelightecosystem.pages.dev^
 ||phase2-flaregovernance.xyz^
-||phase2-flarenetwork.com^
 ||phase2-layerzeronetwork.pages.dev^
 ||phautom-wallet.pages.dev^
 ||phautom-wallets.pages.dev^
@@ -60500,7 +60498,6 @@
 ||rusts-wallet-browsser-extension.pages.dev^
 ||rutetoto-login-mudah-efisien.pages.dev^
 ||ruvrobloxid.pages.dev^
-||rv-whats-app.com.cn^
 ||rvinhood-login.pages.dev^
 ||rvohz53d-appleid.pages.dev^
 ||rwdsuilend.pages.dev^
@@ -70477,7 +70474,6 @@
 ||telexxsbrw.luxe^
 ||telexxsbrw.yoga^
 ||telexxshyr.click^
-||telexxshyr.club^
 ||telexxshyr.help^
 ||telexxslog.shop^
 ||telexxsoig.bond^
@@ -70649,7 +70645,6 @@
 ||tew-whatsapp.com.cn^
 ||texequicks.club^
 ||texequicks.xyz^
-||texeroxxsy.wiki^
 ||texeroxxsy.work^
 ||texezestpr.club^
 ||texolura-janorive.pages.dev^
@@ -80328,7 +80323,6 @@
 ||use-us-trez-start.pages.dev^
 ||use-wallttrzr---rr.pages.dev^
 ||use-web-app-ledgr-live.pages.dev^
-||use-whats-app.com.cn^
 ||used-coins-pro-engs.pages.dev^
 ||used-ledger-live--cdn.pages.dev^
 ||usee----wallleettt---trzrr.pages.dev^

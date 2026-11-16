@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 86,297 | Updated: 2026-11-15
+# Domains: 86,291 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7420,6 +7420,7 @@
 0.0.0.0 bmk88login.bet
 0.0.0.0 bmk88login.net
 0.0.0.0 bmo-mobile-alerts-banking.com.ph
+0.0.0.0 bmo-verification.com
 0.0.0.0 bn-letsvpn.com.cn
 0.0.0.0 bn-trezor-bridge.pages.dev
 0.0.0.0 bn-trrezor-bridge.pages.dev
@@ -9287,7 +9288,6 @@
 0.0.0.0 cachegoogle.ss74.workers.dev
 0.0.0.0 cachegrid.ru
 0.0.0.0 cadastronetempresas.app
-0.0.0.0 cadastrosbradesco.com
 0.0.0.0 caillourobloxid.pages.dev
 0.0.0.0 caixa-expresso-online.pages.dev
 0.0.0.0 caixa-secure-web-hml.pages.dev
@@ -20983,7 +20983,6 @@
 0.0.0.0 ex-tenson-web-en.pages.dev
 0.0.0.0 ex-tention-coin-base-eng.pages.dev
 0.0.0.0 ex-trezorio.pages.dev
-0.0.0.0 ex-whats-app.com.cn
 0.0.0.0 ex-xodu-sweb.pages.dev
 0.0.0.0 ex-xodus--doc.pages.dev
 0.0.0.0 ex-xodus-doc-web.pages.dev
@@ -23496,7 +23495,6 @@
 0.0.0.0 fed-uphold--login.pages.dev
 0.0.0.0 fedex-americanexpress.ph
 0.0.0.0 fedex-applesupport-secure.com.ph
-0.0.0.0 fedex-courier.com
 0.0.0.0 fedex-delivery-tracking.aiianc.com
 0.0.0.0 fedex-delivery.pages.dev
 0.0.0.0 fedex-f.com
@@ -54028,6 +54026,7 @@
 0.0.0.0 officl-suitstrzr.pages.dev
 0.0.0.0 offiical-exod-s.pages.dev
 0.0.0.0 offlce365loglmicrosoftonlineapplications.pages.dev
+0.0.0.0 offlcemial-updateeset.site
 0.0.0.0 offline-ldgerlive-app.pages.dev
 0.0.0.0 offmail-microonlineiogin.sbs
 0.0.0.0 ofical-trzor.pages.dev
@@ -57436,7 +57435,6 @@
 0.0.0.0 phase1-flaregovernance.xyz
 0.0.0.0 phase2-firelightecosystem.pages.dev
 0.0.0.0 phase2-flaregovernance.xyz
-0.0.0.0 phase2-flarenetwork.com
 0.0.0.0 phase2-layerzeronetwork.pages.dev
 0.0.0.0 phautom-wallet.pages.dev
 0.0.0.0 phautom-wallets.pages.dev
@@ -60500,7 +60498,6 @@
 0.0.0.0 rusts-wallet-browsser-extension.pages.dev
 0.0.0.0 rutetoto-login-mudah-efisien.pages.dev
 0.0.0.0 ruvrobloxid.pages.dev
-0.0.0.0 rv-whats-app.com.cn
 0.0.0.0 rvinhood-login.pages.dev
 0.0.0.0 rvohz53d-appleid.pages.dev
 0.0.0.0 rwdsuilend.pages.dev
@@ -70477,7 +70474,6 @@
 0.0.0.0 telexxsbrw.luxe
 0.0.0.0 telexxsbrw.yoga
 0.0.0.0 telexxshyr.click
-0.0.0.0 telexxshyr.club
 0.0.0.0 telexxshyr.help
 0.0.0.0 telexxslog.shop
 0.0.0.0 telexxsoig.bond
@@ -70649,7 +70645,6 @@
 0.0.0.0 tew-whatsapp.com.cn
 0.0.0.0 texequicks.club
 0.0.0.0 texequicks.xyz
-0.0.0.0 texeroxxsy.wiki
 0.0.0.0 texeroxxsy.work
 0.0.0.0 texezestpr.club
 0.0.0.0 texolura-janorive.pages.dev
@@ -80328,7 +80323,6 @@
 0.0.0.0 use-us-trez-start.pages.dev
 0.0.0.0 use-wallttrzr---rr.pages.dev
 0.0.0.0 use-web-app-ledgr-live.pages.dev
-0.0.0.0 use-whats-app.com.cn
 0.0.0.0 used-coins-pro-engs.pages.dev
 0.0.0.0 used-ledger-live--cdn.pages.dev
 0.0.0.0 usee----wallleettt---trzrr.pages.dev
