@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Mexico (mx)
-# Domains: 53 | Updated: 2026-11-16
+# Domains: 58 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/mx.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 0.0.0.0 ccuevana.today
 0.0.0.0 cuevanaa1.pro
 0.0.0.0 cuevanatv.vip
+0.0.0.0 cuevanavideo.me
 0.0.0.0 futbollibreenvivo.net
 0.0.0.0 futbollibrefullhd.org
 0.0.0.0 futbollibretvplus.com
@@ -17,6 +18,7 @@
 0.0.0.0 gnula.cc
 0.0.0.0 gnula.im
 0.0.0.0 gnula.one
+0.0.0.0 gnula.surf
 0.0.0.0 gnula.xin
 0.0.0.0 gnulahd.casa
 0.0.0.0 gnulahd.space
@@ -33,11 +35,14 @@
 0.0.0.0 pelisplusapkmax.com
 0.0.0.0 pelisplushd.mx
 0.0.0.0 pelisplushd.one
+0.0.0.0 pirlotv.team
 0.0.0.0 repelisplus.fit
 0.0.0.0 rojadirecta.cash
 0.0.0.0 rojadirecta.cloud
+0.0.0.0 rojadirectaatv.hair
 0.0.0.0 rojadirectaes.cloud
 0.0.0.0 rojadirectafullhd.net
+0.0.0.0 rojadirectaone.org
 0.0.0.0 rojadirectas.business
 0.0.0.0 rojadirectatv.asia
 0.0.0.0 rojadirectatv.city

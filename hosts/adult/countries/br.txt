@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Adult, Brazil (br)
-# Domains: 49 | Updated: 2026-11-16
+# Domains: 55 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/br.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 69sexline.com.br
+0.0.0.0 addalencerias.com
 0.0.0.0 amordeluxo.com.br
 0.0.0.0 asosloja.com.br
 0.0.0.0 atacado.com
@@ -13,6 +14,7 @@
 0.0.0.0 bellebras.com.br
 0.0.0.0 br.promocodie.com
 0.0.0.0 brinquedossexuais.pt
+0.0.0.0 canapuff.com
 0.0.0.0 cheiroderosa.com.br
 0.0.0.0 desejoeamor.com.br
 0.0.0.0 distribuidorasexshop.com.br
@@ -26,6 +28,7 @@
 0.0.0.0 goodvibres.com.br
 0.0.0.0 gruposdeputaria.net
 0.0.0.0 hazoosexshop.com.br
+0.0.0.0 inspirese.com.br
 0.0.0.0 julingerie.com.br
 0.0.0.0 libidi.com.br
 0.0.0.0 linksgrupos.com
@@ -38,15 +41,18 @@
 0.0.0.0 pantynova.com
 0.0.0.0 pluralsexshop.com.br
 0.0.0.0 pontoerotico.com.br
+0.0.0.0 prazercomale.com.br
 0.0.0.0 proibido.pt
 0.0.0.0 quiosquesexshop.com.br
 0.0.0.0 satisfeel.com.br
 0.0.0.0 secretboxsexshop.brbelacupom.com
 0.0.0.0 sexshopcampos.com.br
+0.0.0.0 sexshopouvidor.com.br
 0.0.0.0 sexuhlala.com.br
 0.0.0.0 sweetmysterysexshop.com.br
 0.0.0.0 tentacaomodas.com.br
 0.0.0.0 tentacaoshoppe.com
+0.0.0.0 toquesensato.com.br
 0.0.0.0 trumasecrets.com
 0.0.0.0 tulipasexshop.meudesconto.org
 0.0.0.0 villagecenterfl.govbuilt.com

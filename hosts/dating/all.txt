@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,328 | Updated: 2026-11-16
+# Domains: 1,343 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -292,6 +292,7 @@
 0.0.0.0 delhi.idbf.in
 0.0.0.0 dev-web.sgrbk.com
 0.0.0.0 dhdjjvoxofo7.nettoyagereunion.re
+0.0.0.0 dialhookups.com
 0.0.0.0 directory.acci.gr
 0.0.0.0 divaescort.com
 0.0.0.0 djdongdoes.djsch.kr
@@ -370,6 +371,7 @@
 0.0.0.0 eniyiseslichat.com
 0.0.0.0 enjoy-onlinecasino.jp
 0.0.0.0 enterchatroom.com
+0.0.0.0 ero.mpchat.com
 0.0.0.0 eroapps.com
 0.0.0.0 erosprepagos.com.co
 0.0.0.0 erotickychat.net
@@ -576,11 +578,13 @@
 0.0.0.0 hookupmatchr.vip
 0.0.0.0 hookupmaven.com
 0.0.0.0 hookuppilot.com
+0.0.0.0 hookupplex.com
 0.0.0.0 hookuprealm.com
 0.0.0.0 hookups365.com.au
 0.0.0.0 hookupsamericaedge.com
 0.0.0.0 hookupsstateszone.com
 0.0.0.0 hookuptide.com
+0.0.0.0 hookuptrace.com
 0.0.0.0 hossohbet.com
 0.0.0.0 hotescortnearme.com
 0.0.0.0 hotgirlsescortsmallorca.com
@@ -662,9 +666,12 @@
 0.0.0.0 kiev.moygorod.ua
 0.0.0.0 kiev.ukrgo.com
 0.0.0.0 kilkenny.level-web.ru
+0.0.0.0 killeen-temple-ft-hood.bonepage.com
 0.0.0.0 kimberley.dfs05.ru
+0.0.0.0 kitasenju.adire.jp
 0.0.0.0 kitchener.bonepage.com
 0.0.0.0 klescortmalaysia.com
+0.0.0.0 knoxville.bonepage.com
 0.0.0.0 knuddels.de
 0.0.0.0 kolaychat.org
 0.0.0.0 kolaysohbet.com
@@ -710,6 +717,7 @@
 0.0.0.0 lovoo.com
 0.0.0.0 lp.yoom.fun
 0.0.0.0 luck.kek-sik.com
+0.0.0.0 lushhookups.com
 0.0.0.0 luxy.com
 0.0.0.0 luzern.studio-elite.ch
 0.0.0.0 lynchburg.bonepage.com
@@ -925,6 +933,7 @@
 0.0.0.0 pingadults.com
 0.0.0.0 pinkcupid.com
 0.0.0.0 pinoychat.net
+0.0.0.0 pittsburgh.bonepage.com
 0.0.0.0 plancul-gratuit.fr
 0.0.0.0 plentyoffish.com
 0.0.0.0 pof.com
@@ -1010,6 +1019,7 @@
 0.0.0.0 sam.inozemdesign.ru
 0.0.0.0 sam.interactive-development.ru
 0.0.0.0 samara-chat.ru.gg
+0.0.0.0 samara.spravmer.ru
 0.0.0.0 santa-fe-taos.bonepage.com
 0.0.0.0 santiago.elsilencio.cl
 0.0.0.0 saopaulo.classificadosdegraca.com
@@ -1074,6 +1084,7 @@
 0.0.0.0 singleboerse.de
 0.0.0.0 singleboersen-aktuell.de
 0.0.0.0 singleboersen-vergleich.de
+0.0.0.0 sioux-city-ia.bonepage.com
 0.0.0.0 sioux-falls.bonepage.com
 0.0.0.0 siyahinci.net
 0.0.0.0 skipthegames.com
@@ -1149,12 +1160,14 @@
 0.0.0.0 supermekan.com
 0.0.0.0 svenskacams.se
 0.0.0.0 sverigedejt.se
+0.0.0.0 swift-hookups.com
 0.0.0.0 swingers-247.co.uk
 0.0.0.0 swingers.club
 0.0.0.0 swingers.theadulthub.com
 0.0.0.0 swingersclublist.com
 0.0.0.0 swingersnearme.co.uk
 0.0.0.0 swingersplay.com
+0.0.0.0 swingersplaycolorado.com
 0.0.0.0 swingersplaylive.com
 0.0.0.0 swinglifestyle.com
 0.0.0.0 swipr-make-snapchat-friends.softonic.nl
@@ -1258,6 +1271,7 @@
 0.0.0.0 vancouver.bonepage.com
 0.0.0.0 vard.regionstockholm.se
 0.0.0.0 vard.skane.se
+0.0.0.0 velvethookups.com
 0.0.0.0 ventura-county.bonepage.com
 0.0.0.0 vereeniging.escortlist.co.za
 0.0.0.0 vermont.bonepage.com
@@ -1328,6 +1342,7 @@
 0.0.0.0 zcheckerviet.com
 0.0.0.0 zcheckerviet.net
 0.0.0.0 zcheckerviet.vip
+0.0.0.0 zipcodeswingers.com
 0.0.0.0 znakomstva.ru
 0.0.0.0 znamost.cz
 0.0.0.0 zoosk.com

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Spain (es)
-! Domains: 40 | Updated: 2026-11-16
+! Domains: 42 | Updated: 2026-11-16
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/es.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,9 +9,11 @@
 ||comparar.net^
 ||condonesmix.com^
 ||dulcespecados.com^
+||erovibes.es^
 ||eurovisex.com^
 ||factormujer.com^
 ||gayout.com^
+||gearisle.com^
 ||jaloo.es^
 ||lamagiahot.com^
 ||lareinadeparis.com^

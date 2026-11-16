@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating, United States (us)
-! Domains: 78 | Updated: 2026-11-16
+! Domains: 89 | Updated: 2026-11-16
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/countries/us.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -24,6 +24,7 @@
 |chicago.bonepage.com^
 ||cougarlife.com^
 ||cougarlife.dating^
+||dialhookups.com^
 ||emeraldchat.com^
 ||escortlistingsnearme.com^
 |fargo-moorhead.bonepage.com^
@@ -37,21 +38,27 @@
 |hillsboro-il.virtalog.ru^
 ||hookupfluent.com^
 ||hookupmaven.com^
+||hookupplex.com^
 ||hookups365.com.au^
 ||hookupsamericaedge.com^
 ||hookupsstateszone.com^
+||hookuptrace.com^
 |humboldt-county.bonepage.com^
 |jackson-tn.bonepage.com^
 |jacksonville.bonepage.com^
 |kibana.compactorstore.com^
+|killeen-temple-ft-hood.bonepage.com^
+|knoxville.bonepage.com^
 ||listcrawler.app^
 ||listcrawler.eu^
+||lushhookups.com^
 |lynchburg.bonepage.com^
 |massachusetts.bonepage.com^
 |miami.bonepage.com^
 |nashville.bonepage.com^
 |new-orleans.bonepage.com^
 |orange-county.bonepage.com^
+|pittsburgh.bonepage.com^
 ||pointcasualencounters.com^
 |portland-me.bonepage.com^
 ||randomchat.social^
@@ -63,9 +70,11 @@
 |springfield.bonepage.com^
 ||starbackpage.com^
 ||sugardaddy.com^
+||swift-hookups.com^
 ||swingersclublist.com^
 ||swingersnearme.co.uk^
 ||swingersplay.com^
+||swingersplaycolorado.com^
 ||swingersplaylive.com^
 |syracuse.bonepage.com^
 |tampa-bay-area.bonepage.com^
@@ -78,7 +87,9 @@
 |tulsa.bonepage.com^
 ||usasexguide.nl^
 ||uscasualencounters.com^
+||velvethookups.com^
 |ventura-county.bonepage.com^
 ||westcoastswingers.com^
 |wichita.myescort.network^
 ||yesbackpage.com^
+||zipcodeswingers.com^

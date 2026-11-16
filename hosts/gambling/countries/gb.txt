@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, United Kingdom (gb)
-# Domains: 63 | Updated: 2026-11-16
+# Domains: 65 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,6 +17,7 @@
 0.0.0.0 casinosuknotongam.co
 0.0.0.0 casinouknongamstopgames.co
 0.0.0.0 casinouknotongam.co
+0.0.0.0 cheventing.co.uk
 0.0.0.0 cinnamon-lounge.co.uk
 0.0.0.0 colden-common-cc.co.uk
 0.0.0.0 community54.com
@@ -31,6 +32,7 @@
 0.0.0.0 j27accountants.co.uk
 0.0.0.0 lolfoundation.co.uk
 0.0.0.0 makenobones.co.uk
+0.0.0.0 masterfitterchallenge.co.uk
 0.0.0.0 mediatornetwork.org
 0.0.0.0 miracle-casinos.com
 0.0.0.0 monks-crane.co.uk

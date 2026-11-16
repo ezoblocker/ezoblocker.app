@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass, PK (pk)
-# Domains: 4 | Updated: 2026-11-16
+# Domains: 5 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/bypass/countries/pk.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,4 +7,5 @@
 0.0.0.0 india-vpn.apk.cafe
 0.0.0.0 ny.gn.fosun.com
 0.0.0.0 unblockyoutube.enic.pk
+0.0.0.0 vip-proxy-server-ff-1.modapkgood.com
 0.0.0.0 vpn-proxy-master.en.softmany.com

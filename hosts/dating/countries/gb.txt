@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, United Kingdom (gb)
-# Domains: 41 | Updated: 2026-11-16
+# Domains: 42 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -37,6 +37,7 @@
 0.0.0.0 nearbyhookups.co.uk
 0.0.0.0 omegle.online
 0.0.0.0 pointhookups.com
+0.0.0.0 sioux-city-ia.bonepage.com
 0.0.0.0 sugardaddy.co.uk
 0.0.0.0 sugardaddymanchester.co.uk
 0.0.0.0 swingers-247.co.uk

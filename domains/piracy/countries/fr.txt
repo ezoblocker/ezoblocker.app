@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Piracy, France (fr)
-# Domains: 10 | Updated: 2026-11-16
+# Domains: 11 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/countries/fr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+cpasmieux.team
 darkino.fr
 iptv-abonnement-france.youcan.store
 papystreaming.one

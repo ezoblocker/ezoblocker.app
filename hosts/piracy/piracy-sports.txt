@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 474 | Updated: 2026-11-16
+# Domains: 491 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 90phutt.co
 0.0.0.0 90phutzal.tv
 0.0.0.0 90phutzan.tv
+0.0.0.0 90phutzao.tv
 0.0.0.0 90phutzas.tv
 0.0.0.0 90phutzat.tv
 0.0.0.0 90phutzax.tv
@@ -25,19 +26,25 @@
 0.0.0.0 bestfreestreaming.org
 0.0.0.0 bola365.today
 0.0.0.0 bongdatv.me
+0.0.0.0 british.milarch.org
 0.0.0.0 browse.tonton.com.my
 0.0.0.0 buffstreams.ch
 0.0.0.0 buffstreams24.org
 0.0.0.0 buffstreamsapp.com
 0.0.0.0 buffstreamz.fun
+0.0.0.0 cakhia-10-link.art
 0.0.0.0 cakhia14.com
 0.0.0.0 cakhia21.tv
 0.0.0.0 cakhia4.org
+0.0.0.0 cakhia5.com
 0.0.0.0 cakhia6tv.tv
+0.0.0.0 cakhiadoday.com
 0.0.0.0 cakhiatv.college
 0.0.0.0 cakhiatv.fit
+0.0.0.0 cakhiatv.money
 0.0.0.0 cakhiatvc.group
 0.0.0.0 cakhiatvhh.tv
+0.0.0.0 cakhiavip.life
 0.0.0.0 cakhiaxb.cc
 0.0.0.0 cakhiaxs.tv
 0.0.0.0 cakhiazbm.tv
@@ -67,6 +74,7 @@
 0.0.0.0 direttagoal.it
 0.0.0.0 djmattdaddy.com
 0.0.0.0 dooball99.top
+0.0.0.0 dooballleague.com
 0.0.0.0 drecov.pandaoffice.com
 0.0.0.0 edu.gebbs.com
 0.0.0.0 elbotola.com
@@ -103,6 +111,7 @@
 0.0.0.0 freesport.com
 0.0.0.0 freesportscap.com
 0.0.0.0 french.visitkorea.or.kr
+0.0.0.0 futbol-libre.app
 0.0.0.0 futbol-libre.cam
 0.0.0.0 futbolenlatv.es
 0.0.0.0 futbolenvivocolombia.com
@@ -112,8 +121,8 @@
 0.0.0.0 futbollibreenvivo.net
 0.0.0.0 futbollibrefullhd.org
 0.0.0.0 futbollibretvhd.co
-0.0.0.0 futbollibretvplay.org
 0.0.0.0 futbollibretvplus.com
+0.0.0.0 futbollibreyape.com
 0.0.0.0 futbolyconsolas.es
 0.0.0.0 futemax.at
 0.0.0.0 futemax.gay
@@ -139,6 +148,7 @@
 0.0.0.0 hesgoalhd.com
 0.0.0.0 hesgoallive.quest
 0.0.0.0 hesgoals.nl
+0.0.0.0 hesgoals.one
 0.0.0.0 hesgoals.rest
 0.0.0.0 hesgoaltv.biz
 0.0.0.0 hesgoaltv.quest
@@ -263,6 +273,7 @@
 0.0.0.0 pirlotv.red
 0.0.0.0 pirlotv.sh
 0.0.0.0 pirlotv.shop
+0.0.0.0 pirlotv.team
 0.0.0.0 pirlotv.tools
 0.0.0.0 pirlotv.win
 0.0.0.0 pirlotv1.live
@@ -281,9 +292,12 @@
 0.0.0.0 rojadirecta.cash
 0.0.0.0 rojadirecta.cloud
 0.0.0.0 rojadirecta.com.co
+0.0.0.0 rojadirectaatv.hair
+0.0.0.0 rojadirectaenhd.live
 0.0.0.0 rojadirectaes.cloud
 0.0.0.0 rojadirectafullhd.net
 0.0.0.0 rojadirectafulltv.org
+0.0.0.0 rojadirectaone.org
 0.0.0.0 rojadirectaonline.me
 0.0.0.0 rojadirectas.business
 0.0.0.0 rojadirectas.cc
@@ -340,6 +354,7 @@
 0.0.0.0 start.sportdigital.de
 0.0.0.0 streamcode.fit
 0.0.0.0 streameast.beauty
+0.0.0.0 streameast.com.se
 0.0.0.0 streameast.gold
 0.0.0.0 streameast.to
 0.0.0.0 streameasti.site
@@ -411,12 +426,14 @@
 0.0.0.0 totalsportekhd.live
 0.0.0.0 totalsporteki.fit
 0.0.0.0 totalsporteki.icu
+0.0.0.0 totalsporteki.lol
 0.0.0.0 totalsportekl.is
 0.0.0.0 totalsportekplus.org
 0.0.0.0 totalsportscentral.com
 0.0.0.0 totalsportsindex.com
 0.0.0.0 totalsportsman.com
 0.0.0.0 tour.gra.uk.com
+0.0.0.0 trace.icheck.vn
 0.0.0.0 truc-tiep-socolive.lol
 0.0.0.0 tructiep90phuttv.club
 0.0.0.0 ttbd-socolive.pro

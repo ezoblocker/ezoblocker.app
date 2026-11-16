@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, illegal sports streams
-! Domains: 474 | Updated: 2026-11-16
+! Domains: 491 | Updated: 2026-11-16
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/piracy-sports.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 ||90phutt.co^
 ||90phutzal.tv^
 ||90phutzan.tv^
+||90phutzao.tv^
 ||90phutzas.tv^
 ||90phutzat.tv^
 ||90phutzax.tv^
@@ -25,19 +26,25 @@
 ||bestfreestreaming.org^
 ||bola365.today^
 ||bongdatv.me^
+|british.milarch.org^
 |browse.tonton.com.my^
 ||buffstreams.ch^
 ||buffstreams24.org^
 ||buffstreamsapp.com^
 ||buffstreamz.fun^
+||cakhia-10-link.art^
 ||cakhia14.com^
 ||cakhia21.tv^
 ||cakhia4.org^
+||cakhia5.com^
 ||cakhia6tv.tv^
+||cakhiadoday.com^
 ||cakhiatv.college^
 ||cakhiatv.fit^
+||cakhiatv.money^
 ||cakhiatvc.group^
 ||cakhiatvhh.tv^
+||cakhiavip.life^
 ||cakhiaxb.cc^
 ||cakhiaxs.tv^
 ||cakhiazbm.tv^
@@ -67,6 +74,7 @@
 ||direttagoal.it^
 ||djmattdaddy.com^
 ||dooball99.top^
+||dooballleague.com^
 |drecov.pandaoffice.com^
 |edu.gebbs.com^
 ||elbotola.com^
@@ -103,6 +111,7 @@
 ||freesport.com^
 ||freesportscap.com^
 |french.visitkorea.or.kr^
+||futbol-libre.app^
 ||futbol-libre.cam^
 ||futbolenlatv.es^
 ||futbolenvivocolombia.com^
@@ -112,8 +121,8 @@
 ||futbollibreenvivo.net^
 ||futbollibrefullhd.org^
 ||futbollibretvhd.co^
-||futbollibretvplay.org^
 ||futbollibretvplus.com^
+||futbollibreyape.com^
 ||futbolyconsolas.es^
 ||futemax.at^
 ||futemax.gay^
@@ -139,6 +148,7 @@
 ||hesgoalhd.com^
 ||hesgoallive.quest^
 ||hesgoals.nl^
+||hesgoals.one^
 ||hesgoals.rest^
 ||hesgoaltv.biz^
 ||hesgoaltv.quest^
@@ -263,6 +273,7 @@
 ||pirlotv.red^
 ||pirlotv.sh^
 ||pirlotv.shop^
+||pirlotv.team^
 ||pirlotv.tools^
 ||pirlotv.win^
 ||pirlotv1.live^
@@ -281,9 +292,12 @@
 ||rojadirecta.cash^
 ||rojadirecta.cloud^
 ||rojadirecta.com.co^
+||rojadirectaatv.hair^
+||rojadirectaenhd.live^
 ||rojadirectaes.cloud^
 ||rojadirectafullhd.net^
 ||rojadirectafulltv.org^
+||rojadirectaone.org^
 ||rojadirectaonline.me^
 ||rojadirectas.business^
 ||rojadirectas.cc^
@@ -340,6 +354,7 @@
 |start.sportdigital.de^
 ||streamcode.fit^
 ||streameast.beauty^
+||streameast.com.se^
 ||streameast.gold^
 ||streameast.to^
 ||streameasti.site^
@@ -411,12 +426,14 @@
 ||totalsportekhd.live^
 ||totalsporteki.fit^
 ||totalsporteki.icu^
+||totalsporteki.lol^
 ||totalsportekl.is^
 ||totalsportekplus.org^
 ||totalsportscentral.com^
 ||totalsportsindex.com^
 ||totalsportsman.com^
 |tour.gra.uk.com^
+|trace.icheck.vn^
 ||truc-tiep-socolive.lol^
 ||tructiep90phuttv.club^
 ||ttbd-socolive.pro^

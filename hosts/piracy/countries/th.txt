@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Thailand (th)
-# Domains: 20 | Updated: 2026-11-16
+# Domains: 21 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/th.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 0.0.0.0 7msport.com
 0.0.0.0 ballzaa.com
 0.0.0.0 dooball99.top
+0.0.0.0 dooballleague.com
 0.0.0.0 doonung2u.blogspot.com
 0.0.0.0 doonungfree.com
 0.0.0.0 kickzone.click

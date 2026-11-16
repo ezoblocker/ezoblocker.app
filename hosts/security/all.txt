@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 86,302 | Updated: 2026-11-16
+# Domains: 86,282 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -2365,7 +2365,6 @@
 0.0.0.0 api-cloudfix.pages.dev
 0.0.0.0 api-cobrandid-docusign-msonline.workers.dev
 0.0.0.0 api-coinbaes-extes.pages.dev
-0.0.0.0 api-key-coinbase.com
 0.0.0.0 api-linkedin-com.proxy.aauth.dev
 0.0.0.0 api-littlepepe.pages.dev
 0.0.0.0 api-pepeunchained.pages.dev
@@ -7024,7 +7023,6 @@
 0.0.0.0 bitpandalogin-eng-us.pages.dev
 0.0.0.0 bitpandaloginn.pages.dev
 0.0.0.0 bitpie-website.pages.dev
-0.0.0.0 bitpie.com.download.biepie.info
 0.0.0.0 bits-gold-logn.pages.dev
 0.0.0.0 bits-of-gold-logiin.pages.dev
 0.0.0.0 bits-of-gold-login-io-us.pages.dev
@@ -20995,7 +20993,6 @@
 0.0.0.0 exadus-wallet-web3.pages.dev
 0.0.0.0 exadus-wallet.pages.dev
 0.0.0.0 exadus-wallets.pages.dev
-0.0.0.0 example-whats-app.com.cn
 0.0.0.0 exaudus--wallet.pages.dev
 0.0.0.0 exaudus-wallet.pages.dev
 0.0.0.0 except-en-help-trzor.pages.dev
@@ -25775,7 +25772,6 @@
 0.0.0.0 googlehelp.studio
 0.0.0.0 googlehelp.team
 0.0.0.0 googlemeet-9vb.pages.dev
-0.0.0.0 googlemeet-join.com
 0.0.0.0 googlemeet-page.pages.dev
 0.0.0.0 googlemeet.lol
 0.0.0.0 googlemeet.pages.dev
@@ -26545,7 +26541,6 @@
 0.0.0.0 gymsharkty.com
 0.0.0.0 gynavotradeapp-com.pages.dev
 0.0.0.0 gytdftghjyutyrtdrsrtdytuy67565edfgufydtrytuy9u8t7rytdfyhgj.pages.dev
-0.0.0.0 gz-whatsapp.com.cn
 0.0.0.0 h--ome--en-ledgr.pages.dev
 0.0.0.0 h-1-whats-app.com.cn
 0.0.0.0 h-at-whatsapp.com.cn
@@ -36089,7 +36084,6 @@
 0.0.0.0 know-walet-ledgr.pages.dev
 0.0.0.0 know-wallet-ledgr.pages.dev
 0.0.0.0 knu-whatsapp.com.cn
-0.0.0.0 ko-uyf-whatsapp.com.cn
 0.0.0.0 kocuin-login.pages.dev
 0.0.0.0 koiinbase-extension.pages.dev
 0.0.0.0 koiinbasepro--logn.pages.dev
@@ -36790,7 +36784,6 @@
 0.0.0.0 kwaff47w-teiegarm.pages.dev
 0.0.0.0 kxb-w-hatsapp.hl.cn
 0.0.0.0 kxc-whatsapp.com.cn
-0.0.0.0 kxi-whatsapp.com.cn
 0.0.0.0 kyberswap-cqd.pages.dev
 0.0.0.0 kyberswap-one.pages.dev
 0.0.0.0 kyberswapckr.pages.dev
@@ -48298,7 +48291,6 @@
 0.0.0.0 lwedger-com-strt.pages.dev
 0.0.0.0 lwedger-live-login.pages.dev
 0.0.0.0 lwk-whatsapp.com.cn
-0.0.0.0 lwv-whatsapp.com.cn
 0.0.0.0 lww-danaa-ambil10-20jt-grtistunguapalagi.pages.dev
 0.0.0.0 lxz-whatsapp.com.cn
 0.0.0.0 ly-tgb-whatsapp.com.cn
@@ -57313,7 +57305,6 @@
 0.0.0.0 ph-antom-wallet.pages.dev
 0.0.0.0 ph-ens-acccount-center-helps-metabusiness.pages.dev
 0.0.0.0 ph-omt-walet.pages.dev
-0.0.0.0 ph-whats-app.com.cn
 0.0.0.0 pha-ntom-wallet.pages.dev
 0.0.0.0 phan-tom---wallet.pages.dev
 0.0.0.0 phan-tom-wa-llet.pages.dev
@@ -59676,7 +59667,6 @@
 0.0.0.0 recover-io-live-ledgr.pages.dev
 0.0.0.0 recover-marktplaats.nl
 0.0.0.0 recover-ndaxx-io.pages.dev
-0.0.0.0 recover-paypal-p73809.com
 0.0.0.0 recover-trezrr.pages.dev
 0.0.0.0 recoverfacebookaccount.pages.dev
 0.0.0.0 recovery--coinbasechromextension.pages.dev
@@ -60448,7 +60438,6 @@
 0.0.0.0 rsrvasid-botuqqe761.com
 0.0.0.0 rsxfan-whatsapp.hk.cn
 0.0.0.0 rt-letsvpn.com.cn
-0.0.0.0 rt-whats-app.com.cn
 0.0.0.0 rtewadsfgfhguoytrew4wetrytuyiukhgf2kuytrdfgchfgjuyft2.pages.dev
 0.0.0.0 ru-biin-hud-logn.pages.dev
 0.0.0.0 rubin-hood--login.pages.dev
@@ -62911,7 +62900,6 @@
 0.0.0.0 spotifypremiumz.pro
 0.0.0.0 spotifyrecover.pages.dev
 0.0.0.0 spotifyunlocked.pages.dev
-0.0.0.0 spotifyypremium.com
 0.0.0.0 spx37p-cointelegraph.com
 0.0.0.0 spx38k-cointelegraph.com
 0.0.0.0 sq-coinelogin.pages.dev
@@ -70082,7 +70070,6 @@
 0.0.0.0 teiecstywe.ink
 0.0.0.0 teiecstywe.work
 0.0.0.0 teiecuvuyy.ink
-0.0.0.0 teiecvbniq.club
 0.0.0.0 teiecvqaof.ink
 0.0.0.0 teiecyrugi.fit
 0.0.0.0 teiedayfkt.wiki
@@ -70476,7 +70463,6 @@
 0.0.0.0 teleroxroc.bond
 0.0.0.0 teleroxroc.cyou
 0.0.0.0 teleroxxog.club
-0.0.0.0 teleroxxos.shop
 0.0.0.0 teleroxxsw.click
 0.0.0.0 televroxxs.luxe
 0.0.0.0 televroxxs.yoga
@@ -70485,7 +70471,6 @@
 0.0.0.0 telexxsbrw.luxe
 0.0.0.0 telexxsbrw.yoga
 0.0.0.0 telexxshyr.click
-0.0.0.0 telexxshyr.help
 0.0.0.0 telexxslog.shop
 0.0.0.0 telexxsoig.bond
 0.0.0.0 telexxsoig.luxe
@@ -70656,8 +70641,6 @@
 0.0.0.0 tew-whatsapp.com.cn
 0.0.0.0 texequicks.club
 0.0.0.0 texequicks.xyz
-0.0.0.0 texeroxxsy.work
-0.0.0.0 texezestpr.club
 0.0.0.0 texolura-janorive.pages.dev
 0.0.0.0 tezeor-bridge-login.pages.dev
 0.0.0.0 tezer-io-strt.pages.dev
@@ -80614,7 +80597,6 @@
 0.0.0.0 vbucks32.pages.dev
 0.0.0.0 vbucksforyou.pages.dev
 0.0.0.0 vbucksprize.pages.dev
-0.0.0.0 vbx-whatsapp.cn
 0.0.0.0 vc-whats-app.com.cn
 0.0.0.0 vcallmewhatsapp.pages.dev
 0.0.0.0 vcs-telegramxxx.pages.dev
@@ -85929,7 +85911,6 @@
 0.0.0.0 yarnex-qulto-8ac913-hfbb.pages.dev
 0.0.0.0 yb-whats-app.com.cn
 0.0.0.0 ybc-whatsapp.com.cn
-0.0.0.0 ycu-whatsapp.com.cn
 0.0.0.0 ydz-whatsapp.com.cn
 0.0.0.0 yeezy-supply.de
 0.0.0.0 yeezys.ro
@@ -86150,7 +86131,6 @@
 0.0.0.0 ziraatkatilim.com.tr
 0.0.0.0 zivo-whatapt.hl.cn
 0.0.0.0 zixa24-1lorap.pages.dev
-0.0.0.0 zjc-whatsapp.com.cn
 0.0.0.0 zksync-15b.pages.dev
 0.0.0.0 zksync-1jb.pages.dev
 0.0.0.0 zksync-4gs.pages.dev

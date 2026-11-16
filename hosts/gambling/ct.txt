@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 805,658 | Updated: 2026-11-16
+# Domains: 805,652 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -33040,7 +33040,6 @@
 0.0.0.0 98bet-brl.com
 0.0.0.0 98bet-oficial.com
 0.0.0.0 98betcasinobet.com
-0.0.0.0 98betfb.com
 0.0.0.0 98betgratis.com
 0.0.0.0 98betinfo.com
 0.0.0.0 98betonred69.com
@@ -33212,7 +33211,6 @@
 0.0.0.0 9995betslot.com
 0.0.0.0 9995betway.com
 0.0.0.0 9996betaposta.com
-0.0.0.0 9996betfb.com
 0.0.0.0 9996betslot.com
 0.0.0.0 9997betbets.com
 0.0.0.0 9997betfb.com
@@ -36776,7 +36774,6 @@
 0.0.0.0 actioncasino1.ca
 0.0.0.0 actioncasino1.com
 0.0.0.0 actioncasino7.ca
-0.0.0.0 actioncasinocanada.ca
 0.0.0.0 actioncasinofr.eu.com
 0.0.0.0 actioncasinonz.com
 0.0.0.0 actioncasinoonline.de
@@ -199962,7 +199959,6 @@
 0.0.0.0 casinopayouts.ca
 0.0.0.0 casinopaypal.ca
 0.0.0.0 casinopaypal.ch
-0.0.0.0 casinopaypal.cl
 0.0.0.0 casinopays1.com
 0.0.0.0 casinopaysafe-de-4134.pages.dev
 0.0.0.0 casinopaysafe.cards
@@ -202781,7 +202777,6 @@
 0.0.0.0 casinorevodance.com
 0.0.0.0 casinorevolucion.com.mx
 0.0.0.0 casinorevolucion.mx
-0.0.0.0 casinorevolut.be
 0.0.0.0 casinorevolut.net
 0.0.0.0 casinorevolut.nl
 0.0.0.0 casinorevolut.no
@@ -790822,7 +790817,6 @@
 0.0.0.0 wow138slot.com
 0.0.0.0 wow138slot.org
 0.0.0.0 wow168casino.club
-0.0.0.0 wow168slot.bet
 0.0.0.0 wow178-slot-gacor.pages.dev
 0.0.0.0 wow228slot.com
 0.0.0.0 wow303slot.sbs

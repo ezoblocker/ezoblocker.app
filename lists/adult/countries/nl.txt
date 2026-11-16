@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Netherlands (nl)
-# Domains: 61 | Updated: 2026-11-16
+# Domains: 64 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/nl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -12,6 +12,7 @@
 *.christineleduc.be
 *.christineleduc.nl
 *.cupido.nl
+*.damesgenot.nl
 *.depaarsekeizerin.nl
 *.easytoys.nl
 *.eromarkt.nl
@@ -19,6 +20,7 @@
 *.erotiek-dates-online.nl
 *.evenflirten.nl
 *.freyashiphf.com
+*.gigi-unknownpleasures.com
 hello-nancy.tenereteam.com
 *.kimholland.nl
 *.kinkytijd.nl
@@ -55,6 +57,7 @@ server.algeriatimes.net
 *.sexy-shop-emmen.nl
 *.shoppie.nl
 *.sinful.nl
+*.sophiestoys.nl
 *.speeltjes.nl
 *.stoutefans.nl
 *.stouteschatten.com

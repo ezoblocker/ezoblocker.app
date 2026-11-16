@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, United States (us)
-# Domains: 78 | Updated: 2026-11-16
+# Domains: 89 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -24,6 +24,7 @@
 0.0.0.0 chicago.bonepage.com
 0.0.0.0 cougarlife.com
 0.0.0.0 cougarlife.dating
+0.0.0.0 dialhookups.com
 0.0.0.0 emeraldchat.com
 0.0.0.0 escortlistingsnearme.com
 0.0.0.0 fargo-moorhead.bonepage.com
@@ -37,21 +38,27 @@
 0.0.0.0 hillsboro-il.virtalog.ru
 0.0.0.0 hookupfluent.com
 0.0.0.0 hookupmaven.com
+0.0.0.0 hookupplex.com
 0.0.0.0 hookups365.com.au
 0.0.0.0 hookupsamericaedge.com
 0.0.0.0 hookupsstateszone.com
+0.0.0.0 hookuptrace.com
 0.0.0.0 humboldt-county.bonepage.com
 0.0.0.0 jackson-tn.bonepage.com
 0.0.0.0 jacksonville.bonepage.com
 0.0.0.0 kibana.compactorstore.com
+0.0.0.0 killeen-temple-ft-hood.bonepage.com
+0.0.0.0 knoxville.bonepage.com
 0.0.0.0 listcrawler.app
 0.0.0.0 listcrawler.eu
+0.0.0.0 lushhookups.com
 0.0.0.0 lynchburg.bonepage.com
 0.0.0.0 massachusetts.bonepage.com
 0.0.0.0 miami.bonepage.com
 0.0.0.0 nashville.bonepage.com
 0.0.0.0 new-orleans.bonepage.com
 0.0.0.0 orange-county.bonepage.com
+0.0.0.0 pittsburgh.bonepage.com
 0.0.0.0 pointcasualencounters.com
 0.0.0.0 portland-me.bonepage.com
 0.0.0.0 randomchat.social
@@ -63,9 +70,11 @@
 0.0.0.0 springfield.bonepage.com
 0.0.0.0 starbackpage.com
 0.0.0.0 sugardaddy.com
+0.0.0.0 swift-hookups.com
 0.0.0.0 swingersclublist.com
 0.0.0.0 swingersnearme.co.uk
 0.0.0.0 swingersplay.com
+0.0.0.0 swingersplaycolorado.com
 0.0.0.0 swingersplaylive.com
 0.0.0.0 syracuse.bonepage.com
 0.0.0.0 tampa-bay-area.bonepage.com
@@ -78,7 +87,9 @@
 0.0.0.0 tulsa.bonepage.com
 0.0.0.0 usasexguide.nl
 0.0.0.0 uscasualencounters.com
+0.0.0.0 velvethookups.com
 0.0.0.0 ventura-county.bonepage.com
 0.0.0.0 westcoastswingers.com
 0.0.0.0 wichita.myescort.network
 0.0.0.0 yesbackpage.com
+0.0.0.0 zipcodeswingers.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, United Kingdom (gb)
-# Domains: 55 | Updated: 2026-11-16
+# Domains: 61 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -20,6 +20,7 @@ brox.companyinsider.pl
 cs0jyax-amphtml.kamszlif.com.pl
 *.doggingbritain.co.uk
 *.doggingnews.co.uk
+*.englishlads.com
 *.eroticae.com
 *.fanse.co.uk
 *.fetchshop.co.uk
@@ -35,11 +36,15 @@ cs0jyax-amphtml.kamszlif.com.pl
 mobile.theparentingemporium.com
 *.moodsexshop.co.uk
 *.nicennaughty.co.uk
+*.numan.com
 *.pinkchannel.com
+*.playboxstore.co.uk
+*.playforever.co.uk
 *.promopro.co.uk
 *.saaclothing.com
 *.secretplay.co.uk
 *.sexshopsouthampton.co.uk
+*.sextech.co.uk
 *.sextoys.co.uk
 *.sexuallifestyle.co.uk
 *.sh-womenstore.com
@@ -50,6 +55,7 @@ mobile.theparentingemporium.com
 *.skintwo.com
 *.swglegends.com
 *.tenga.co.uk
+*.thelollipop.shop
 *.tidouk.com
 *.unihornofficial.com
 uqxzif.extracontent.fr

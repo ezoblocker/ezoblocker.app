@@ -1,11 +1,12 @@
 ! Title: EZOBLOCKER Gambling, Ukraine (ua)
-! Domains: 6 | Updated: 2026-11-16
+! Domains: 7 | Updated: 2026-11-16
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/ua.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||casinoreview.in.ua^
 ||mostbet.net.ua^
+|pin-up.6729.casino^
 ||pokeroff.ru^
 ||viche.info^
 ||vsprating.com.ua^

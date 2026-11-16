@@ -1,15 +1,17 @@
 # Title: EZOBLOCKER Gambling, Sweden (se)
-# Domains: 33 | Updated: 2026-11-16
+# Domains: 35 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/gambling/countries/se.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 avstod.se
+bankonbetbe.com
 bankonbetcasino.eu
 bonukset-ilman-kierratysta-lab.tervarinne.fi
 casinia-casino-es.net
 casinia-online.eu
 casinia-si.si
+casinia.stake-bonus.casino
 casiniacasino.com.se
 casinobonus.se
 casinocoach.se

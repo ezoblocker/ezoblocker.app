@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 807,149 | Updated: 2026-11-16
+# Domains: 807,159 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -33111,7 +33111,6 @@
 0.0.0.0 98bet-brl.com
 0.0.0.0 98bet-oficial.com
 0.0.0.0 98betcasinobet.com
-0.0.0.0 98betfb.com
 0.0.0.0 98betgratis.com
 0.0.0.0 98betinfo.com
 0.0.0.0 98betonred69.com
@@ -33284,7 +33283,6 @@
 0.0.0.0 9995betslot.com
 0.0.0.0 9995betway.com
 0.0.0.0 9996betaposta.com
-0.0.0.0 9996betfb.com
 0.0.0.0 9996betslot.com
 0.0.0.0 9997betbets.com
 0.0.0.0 9997betfb.com
@@ -36788,6 +36786,7 @@
 0.0.0.0 acornfuncasino.com
 0.0.0.0 acornridgecasino.com
 0.0.0.0 acorns-accounting-uus77-logo-slot.pages.dev
+0.0.0.0 acornsfun.com
 0.0.0.0 acqbets1.com
 0.0.0.0 acquadebellagio.com
 0.0.0.0 acquisitions-damaibet.pages.dev
@@ -36854,7 +36853,6 @@
 0.0.0.0 actioncasino1.ca
 0.0.0.0 actioncasino1.com
 0.0.0.0 actioncasino7.ca
-0.0.0.0 actioncasinocanada.ca
 0.0.0.0 actioncasinofr.eu.com
 0.0.0.0 actioncasinonz.com
 0.0.0.0 actioncasinoonline.de
@@ -74150,6 +74148,7 @@
 0.0.0.0 bahiscomguncelgiris.link
 0.0.0.0 bahisdeyizsongiris.com
 0.0.0.0 bahisfair-gunceladres.world
+0.0.0.0 bahisfair424.com
 0.0.0.0 bahisfaircasino.com
 0.0.0.0 bahisgirisadres.com
 0.0.0.0 bahishititbet.com
@@ -103042,6 +103041,7 @@
 0.0.0.0 betlotoo.com
 0.0.0.0 betlotox.com
 0.0.0.0 betlotus.com
+0.0.0.0 betloy.com
 0.0.0.0 betlub-slots.com
 0.0.0.0 betlubcasino.com
 0.0.0.0 betlubslot.com
@@ -110426,6 +110426,7 @@
 0.0.0.0 betsekizadres.com
 0.0.0.0 betsekizgiris.com
 0.0.0.0 betsemcadastro.com
+0.0.0.0 betsen725.com
 0.0.0.0 betsensecasino.co.uk
 0.0.0.0 betser-casino.fi
 0.0.0.0 betsercasino.com
@@ -149295,6 +149296,7 @@
 0.0.0.0 canadaslotspro.com
 0.0.0.0 canadaspiritcasino.bet
 0.0.0.0 canadasports-betting-com.pages.dev
+0.0.0.0 canadasportsbetting.ca
 0.0.0.0 canadasportsbetting.info
 0.0.0.0 canadasportsbook365.live
 0.0.0.0 canadatoponlinecasino.com
@@ -155290,6 +155292,7 @@
 0.0.0.0 casinia.si
 0.0.0.0 casinia.sk
 0.0.0.0 casinia.space
+0.0.0.0 casinia.stake-bonus.casino
 0.0.0.0 casinia.uk
 0.0.0.0 casinia.uk.com
 0.0.0.0 casinia.uk.net
@@ -200416,7 +200419,6 @@
 0.0.0.0 casinopayouts.ca
 0.0.0.0 casinopaypal.ca
 0.0.0.0 casinopaypal.ch
-0.0.0.0 casinopaypal.cl
 0.0.0.0 casinopays1.com
 0.0.0.0 casinopaysafe-de-4134.pages.dev
 0.0.0.0 casinopaysafe.cards
@@ -203237,7 +203239,6 @@
 0.0.0.0 casinorevodance.com
 0.0.0.0 casinorevolucion.com.mx
 0.0.0.0 casinorevolucion.mx
-0.0.0.0 casinorevolut.be
 0.0.0.0 casinorevolut.net
 0.0.0.0 casinorevolut.nl
 0.0.0.0 casinorevolut.no
@@ -226843,6 +226844,7 @@
 0.0.0.0 chestsofcaishen-slot.pages.dev
 0.0.0.0 chetvericov.ru
 0.0.0.0 chevalminiature-jualtoto.pages.dev
+0.0.0.0 cheventing.co.uk
 0.0.0.0 chexx-casino.com.de
 0.0.0.0 chexx-casino.de
 0.0.0.0 chexx.ai
@@ -246099,6 +246101,7 @@
 0.0.0.0 customcasinosuppliers.com
 0.0.0.0 customceramicpokerchip.com
 0.0.0.0 customerservice-andrienko-org-ibcbet.pages.dev
+0.0.0.0 customfurniturejacksonville.com
 0.0.0.0 customgrow.ca
 0.0.0.0 customizebostogelbiru.pages.dev
 0.0.0.0 customizedpoker.com
@@ -284688,6 +284691,7 @@
 0.0.0.0 fazi-bets-5x5.pages.dev
 0.0.0.0 fazi-bets-aru.pages.dev
 0.0.0.0 fazi-scommesse.pages.dev
+0.0.0.0 fazicompany.com
 0.0.0.0 fazobetai-aposta.com.br
 0.0.0.0 fazobetai-casino.com
 0.0.0.0 fazobetai-casino.pages.dev
@@ -450387,6 +450391,7 @@
 0.0.0.0 mastereshwar9339.com
 0.0.0.0 masterexabet88.store
 0.0.0.0 masterexabet88.xyz
+0.0.0.0 masterfitterchallenge.co.uk
 0.0.0.0 mastergaming.tech
 0.0.0.0 mastergraphix-slotmasterbet188-utama.pages.dev
 0.0.0.0 masterhackslot.pages.dev
@@ -476820,6 +476825,7 @@
 0.0.0.0 morecashpoker.com
 0.0.0.0 morecasino.net
 0.0.0.0 morechillipokies.com
+0.0.0.0 morefavor.com
 0.0.0.0 moreglorycasino.com
 0.0.0.0 morelli.tec.br
 0.0.0.0 morena-gdansk.pl
@@ -548846,6 +548852,7 @@
 0.0.0.0 pin-up-wins1.ru
 0.0.0.0 pin-up-world-casino.com
 0.0.0.0 pin-up-zerkalo-vhod.kz
+0.0.0.0 pin-up.6729.casino
 0.0.0.0 pin-up.be
 0.0.0.0 pin-up.global
 0.0.0.0 pin-up056-casino.kz
@@ -574649,6 +574656,7 @@
 0.0.0.0 posuslot-amp.pages.dev
 0.0.0.0 posuslot-situs-slot.pages.dev
 0.0.0.0 poswaktogel.org
+0.0.0.0 pot-stocks.com
 0.0.0.0 pota35-slot.pages.dev
 0.0.0.0 pota69slot.club
 0.0.0.0 potbet.online
@@ -578562,6 +578570,7 @@
 0.0.0.0 primepokerteam.com.br
 0.0.0.0 primepokerverse247.com
 0.0.0.0 primer88-slot-gacor.pages.dev
+0.0.0.0 primeradx.com
 0.0.0.0 primes-casino.es
 0.0.0.0 primes-casinos.es
 0.0.0.0 primescratchcards-casino-fi.fi
@@ -710975,6 +710984,7 @@
 0.0.0.0 thefarmassists.com
 0.0.0.0 thefatpirate-casino.pages.dev
 0.0.0.0 thefatpirate.net
+0.0.0.0 thefestival.com
 0.0.0.0 thefezbet.com
 0.0.0.0 thefictionalseedling.com
 0.0.0.0 thefieldclub-grandbet88.pages.dev
@@ -713839,6 +713849,7 @@
 0.0.0.0 ticketforpoker.com
 0.0.0.0 tickets-casinos-final.pages.dev
 0.0.0.0 tickets-casinos-v2.pages.dev
+0.0.0.0 tickets.cricket.co.za
 0.0.0.0 ticketslot.org
 0.0.0.0 tickpoker.com
 0.0.0.0 ticosports.com
@@ -792277,7 +792288,6 @@
 0.0.0.0 wow138slot.com
 0.0.0.0 wow138slot.org
 0.0.0.0 wow168casino.club
-0.0.0.0 wow168slot.bet
 0.0.0.0 wow178-slot-gacor.pages.dev
 0.0.0.0 wow228slot.com
 0.0.0.0 wow303slot.sbs

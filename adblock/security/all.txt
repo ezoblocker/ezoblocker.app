@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Security
-! Domains: 86,302 | Updated: 2026-11-16
+! Domains: 86,282 | Updated: 2026-11-16
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -2365,7 +2365,6 @@
 ||api-cloudfix.pages.dev^
 ||api-cobrandid-docusign-msonline.workers.dev^
 ||api-coinbaes-extes.pages.dev^
-||api-key-coinbase.com^
 |api-linkedin-com.proxy.aauth.dev^
 ||api-littlepepe.pages.dev^
 ||api-pepeunchained.pages.dev^
@@ -7024,7 +7023,6 @@
 ||bitpandalogin-eng-us.pages.dev^
 ||bitpandaloginn.pages.dev^
 ||bitpie-website.pages.dev^
-|bitpie.com.download.biepie.info^
 ||bits-gold-logn.pages.dev^
 ||bits-of-gold-logiin.pages.dev^
 ||bits-of-gold-login-io-us.pages.dev^
@@ -20995,7 +20993,6 @@
 ||exadus-wallet-web3.pages.dev^
 ||exadus-wallet.pages.dev^
 ||exadus-wallets.pages.dev^
-||example-whats-app.com.cn^
 ||exaudus--wallet.pages.dev^
 ||exaudus-wallet.pages.dev^
 ||except-en-help-trzor.pages.dev^
@@ -25775,7 +25772,6 @@
 ||googlehelp.studio^
 ||googlehelp.team^
 ||googlemeet-9vb.pages.dev^
-||googlemeet-join.com^
 ||googlemeet-page.pages.dev^
 ||googlemeet.lol^
 ||googlemeet.pages.dev^
@@ -26545,7 +26541,6 @@
 ||gymsharkty.com^
 ||gynavotradeapp-com.pages.dev^
 ||gytdftghjyutyrtdrsrtdytuy67565edfgufydtrytuy9u8t7rytdfyhgj.pages.dev^
-||gz-whatsapp.com.cn^
 ||h--ome--en-ledgr.pages.dev^
 ||h-1-whats-app.com.cn^
 ||h-at-whatsapp.com.cn^
@@ -36089,7 +36084,6 @@
 ||know-walet-ledgr.pages.dev^
 ||know-wallet-ledgr.pages.dev^
 ||knu-whatsapp.com.cn^
-||ko-uyf-whatsapp.com.cn^
 ||kocuin-login.pages.dev^
 ||koiinbase-extension.pages.dev^
 ||koiinbasepro--logn.pages.dev^
@@ -36790,7 +36784,6 @@
 ||kwaff47w-teiegarm.pages.dev^
 ||kxb-w-hatsapp.hl.cn^
 ||kxc-whatsapp.com.cn^
-||kxi-whatsapp.com.cn^
 ||kyberswap-cqd.pages.dev^
 ||kyberswap-one.pages.dev^
 ||kyberswapckr.pages.dev^
@@ -48298,7 +48291,6 @@
 ||lwedger-com-strt.pages.dev^
 ||lwedger-live-login.pages.dev^
 ||lwk-whatsapp.com.cn^
-||lwv-whatsapp.com.cn^
 ||lww-danaa-ambil10-20jt-grtistunguapalagi.pages.dev^
 ||lxz-whatsapp.com.cn^
 ||ly-tgb-whatsapp.com.cn^
@@ -57313,7 +57305,6 @@
 ||ph-antom-wallet.pages.dev^
 ||ph-ens-acccount-center-helps-metabusiness.pages.dev^
 ||ph-omt-walet.pages.dev^
-||ph-whats-app.com.cn^
 ||pha-ntom-wallet.pages.dev^
 ||phan-tom---wallet.pages.dev^
 ||phan-tom-wa-llet.pages.dev^
@@ -59676,7 +59667,6 @@
 ||recover-io-live-ledgr.pages.dev^
 ||recover-marktplaats.nl^
 ||recover-ndaxx-io.pages.dev^
-||recover-paypal-p73809.com^
 ||recover-trezrr.pages.dev^
 ||recoverfacebookaccount.pages.dev^
 ||recovery--coinbasechromextension.pages.dev^
@@ -60448,7 +60438,6 @@
 ||rsrvasid-botuqqe761.com^
 ||rsxfan-whatsapp.hk.cn^
 ||rt-letsvpn.com.cn^
-||rt-whats-app.com.cn^
 ||rtewadsfgfhguoytrew4wetrytuyiukhgf2kuytrdfgchfgjuyft2.pages.dev^
 ||ru-biin-hud-logn.pages.dev^
 ||rubin-hood--login.pages.dev^
@@ -62911,7 +62900,6 @@
 ||spotifypremiumz.pro^
 ||spotifyrecover.pages.dev^
 ||spotifyunlocked.pages.dev^
-||spotifyypremium.com^
 ||spx37p-cointelegraph.com^
 ||spx38k-cointelegraph.com^
 ||sq-coinelogin.pages.dev^
@@ -70082,7 +70070,6 @@
 ||teiecstywe.ink^
 ||teiecstywe.work^
 ||teiecuvuyy.ink^
-||teiecvbniq.club^
 ||teiecvqaof.ink^
 ||teiecyrugi.fit^
 ||teiedayfkt.wiki^
@@ -70476,7 +70463,6 @@
 ||teleroxroc.bond^
 ||teleroxroc.cyou^
 ||teleroxxog.club^
-||teleroxxos.shop^
 ||teleroxxsw.click^
 ||televroxxs.luxe^
 ||televroxxs.yoga^
@@ -70485,7 +70471,6 @@
 ||telexxsbrw.luxe^
 ||telexxsbrw.yoga^
 ||telexxshyr.click^
-||telexxshyr.help^
 ||telexxslog.shop^
 ||telexxsoig.bond^
 ||telexxsoig.luxe^
@@ -70656,8 +70641,6 @@
 ||tew-whatsapp.com.cn^
 ||texequicks.club^
 ||texequicks.xyz^
-||texeroxxsy.work^
-||texezestpr.club^
 ||texolura-janorive.pages.dev^
 ||tezeor-bridge-login.pages.dev^
 ||tezer-io-strt.pages.dev^
@@ -80614,7 +80597,6 @@
 ||vbucks32.pages.dev^
 ||vbucksforyou.pages.dev^
 ||vbucksprize.pages.dev^
-||vbx-whatsapp.cn^
 ||vc-whats-app.com.cn^
 ||vcallmewhatsapp.pages.dev^
 ||vcs-telegramxxx.pages.dev^
@@ -85929,7 +85911,6 @@
 ||yarnex-qulto-8ac913-hfbb.pages.dev^
 ||yb-whats-app.com.cn^
 ||ybc-whatsapp.com.cn^
-||ycu-whatsapp.com.cn^
 ||ydz-whatsapp.com.cn^
 ||yeezy-supply.de^
 ||yeezys.ro^
@@ -86150,7 +86131,6 @@
 ||ziraatkatilim.com.tr^
 ||zivo-whatapt.hl.cn^
 ||zixa24-1lorap.pages.dev^
-||zjc-whatsapp.com.cn^
 ||zksync-15b.pages.dev^
 ||zksync-1jb.pages.dev^
 ||zksync-4gs.pages.dev^

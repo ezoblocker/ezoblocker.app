@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Argentina (ar)
-# Domains: 21 | Updated: 2026-11-16
+# Domains: 22 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/countries/ar.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -13,6 +13,7 @@
 gwy.contdocagi.blog
 *.locopelis.com
 *.pelispedia.mov
+*.pelisplus-3.lat
 *.pelisplus.company
 *.pelisplushd.rip
 *.pelisplushd.xin

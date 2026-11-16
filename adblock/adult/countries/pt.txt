@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Portugal (pt)
-! Domains: 55 | Updated: 2026-11-16
+! Domains: 57 | Updated: 2026-11-16
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/pt.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,6 +16,7 @@
 ||cupidosshop.com^
 ||dreamsptystore.com^
 ||erosmania.com.br^
+||essencesexshop.com.br^
 ||facebelas.com^
 ||fanfindportugal.com^
 ||fogododesejo.pt^
@@ -38,6 +39,7 @@
 ||milemocoes.com.br^
 ||mistercock.pt^
 ||mysexshop.pt^
+||novitalingerie.com.br^
 ||onlinecambabes.com^
 |ooh.enbrevubca.blog^
 ||ousadias.pt^
