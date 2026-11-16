@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 237 | Updated: 2026-11-16
+# Domains: 239 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -51,6 +51,7 @@ antalya-korkuteli.chp.org.tr
 *.betsafe.ee
 *.betsatgiris1.com
 *.betsmovegiris.co
+*.betsmoveon.com
 *.betsmoveplus.com
 *.betticketbet.com
 *.bettilt.partners
@@ -125,6 +126,7 @@ antalya-korkuteli.chp.org.tr
 legacy.dillonheraldonline.com
 *.lordcasino.com.tr
 *.lordcasino.org
+*.lordcasinokayit.com
 m.index.nickswestside.com
 m.north.maxilashboston.com
 m.wi.borderlandsbrewing.com

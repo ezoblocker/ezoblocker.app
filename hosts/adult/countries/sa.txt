@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Saudi Arabia (sa)
-# Domains: 43 | Updated: 2026-11-16
+# Domains: 41 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/sa.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -37,13 +37,11 @@
 0.0.0.0 sexsati.sex
 0.0.0.0 sexsati11.skin
 0.0.0.0 sexsati12.skin
-0.0.0.0 sexsati13.skin
 0.0.0.0 sexsati8.skin
 0.0.0.0 shop-up.online
 0.0.0.0 xmxxx.link
 0.0.0.0 xnxx-arab1.com
 0.0.0.0 xnxx-arabe.com
 0.0.0.0 xnxx-arabs.cam
-0.0.0.0 xnxxarabxxx.cam
 0.0.0.0 xxx-masri.com
 0.0.0.0 zebzob.net

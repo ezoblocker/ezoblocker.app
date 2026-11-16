@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 2,704 | Updated: 2026-11-16
+# Domains: 2,703 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -143,6 +143,7 @@ alert.shop-bell.com
 *.altyazilihubxt17.cfd
 *.altyazilihubxt7.lat
 *.altyzhub30.site
+*.altyzhub34.site
 *.alxnxx.net
 *.amanthy.com
 *.americasexshop.com.ar
@@ -339,7 +340,6 @@ bmwlover.forumid.net
 *.bokebhub.wtf
 *.bokep-indo.net
 *.bokepbar.com
-*.bokepboxid.com
 *.bokepco.com
 *.bokepcrot.ink
 *.bokephdx.net
@@ -643,6 +643,7 @@ dkintimates.commercesuite.com.br
 *.dolloro.de
 *.dollsdownunder.com
 *.dolores1.skin
+*.dolores2.skin
 *.domaedoll.com
 *.domdom.com.my
 *.dominame.cl
@@ -786,6 +787,7 @@ erotik.markt.ch
 *.escortsinpakistan.online
 *.escortsite.biz
 *.escortsites.org
+*.escortstacey.com
 *.escortsultanbeyli.com
 *.esenyurtcicekevi.com
 *.esenyurtrehber.com
@@ -944,7 +946,6 @@ git.ngtech.co.il
 *.hdabla87.click
 *.hdalemi.com
 *.hdbokep.my
-*.hderotik4.blog
 *.hderotik5.blog
 *.hderotik6.blog
 *.hdxporno98.lat
@@ -1055,6 +1056,7 @@ i8fmzf4a54wk.nettoyagereunion.re
 *.istanbuldur.com
 *.istanbulescort.app
 *.istanbulescortfinest.xyz
+*.istanbulescortgrand.click
 *.istanbulescortpinar.com
 *.istanbuleskortara.com
 *.istanbulhotescorts.com
@@ -1731,7 +1733,6 @@ pokoyuface.cerdenergy.it
 *.pornfilmcx17.click
 *.pornflix.to
 *.pornforarab.com
-*.pornhubz.net
 *.pornlinkhub.com
 *.pornlinks18.com
 *.pornmk.com
@@ -2014,7 +2015,6 @@ server.algeriatimes.net
 *.sexsati.sex
 *.sexsati11.skin
 *.sexsati12.skin
-*.sexsati13.skin
 *.sexsati8.skin
 *.sexshop-24.gr
 *.sexshop-berceni.ro
@@ -2641,7 +2641,6 @@ xgr8j5t6f0pj.excellencetaxi78.fr
 *.xnxx-arabe.com
 *.xnxx-arabs.cam
 *.xnxx2.co.uk
-*.xnxxarabxxx.cam
 *.xnxxbest.com
 *.xoac.pro
 *.xoxostore.pk

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 514 | Updated: 2026-11-16
+# Domains: 517 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -49,6 +49,7 @@
 0.0.0.0 altyazilihubxt17.cfd
 0.0.0.0 altyazilihubxt7.lat
 0.0.0.0 altyzhub30.site
+0.0.0.0 altyzhub34.site
 0.0.0.0 amlaks5.shop
 0.0.0.0 ankara-escort1.sbs
 0.0.0.0 ankaraescortbayanx.com
@@ -151,6 +152,7 @@
 0.0.0.0 doedahd.com
 0.0.0.0 doedayeni.xyz
 0.0.0.0 dolores1.skin
+0.0.0.0 dolores2.skin
 0.0.0.0 dorthy2.best
 0.0.0.0 drov.fr
 0.0.0.0 elinavip.com
@@ -178,6 +180,7 @@
 0.0.0.0 escortsinpakistan.online
 0.0.0.0 escortsite.biz
 0.0.0.0 escortsites.org
+0.0.0.0 escortstacey.com
 0.0.0.0 eskort.news
 0.0.0.0 eskortadresi.com
 0.0.0.0 eskortpro2.world
@@ -207,7 +210,6 @@
 0.0.0.0 hdabla76.click
 0.0.0.0 hdabla87.click
 0.0.0.0 hdalemi.com
-0.0.0.0 hderotik4.blog
 0.0.0.0 hderotik5.blog
 0.0.0.0 hderotik6.blog
 0.0.0.0 hdxporno98.lat
@@ -248,6 +250,7 @@
 0.0.0.0 istanbuldur.com
 0.0.0.0 istanbulescort.app
 0.0.0.0 istanbulescortfinest.xyz
+0.0.0.0 istanbulescortgrand.click
 0.0.0.0 istanbulhotescorts.com
 0.0.0.0 istanbulilanbul.com
 0.0.0.0 istanbulmasozbayan.site

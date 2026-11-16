@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 514 | Updated: 2026-11-16
+# Domains: 517 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -49,6 +49,7 @@
 *.altyazilihubxt17.cfd
 *.altyazilihubxt7.lat
 *.altyzhub30.site
+*.altyzhub34.site
 *.amlaks5.shop
 *.ankara-escort1.sbs
 *.ankaraescortbayanx.com
@@ -151,6 +152,7 @@ certification.ntop.com
 *.doedahd.com
 *.doedayeni.xyz
 *.dolores1.skin
+*.dolores2.skin
 *.dorthy2.best
 *.drov.fr
 *.elinavip.com
@@ -178,6 +180,7 @@ certification.ntop.com
 *.escortsinpakistan.online
 *.escortsite.biz
 *.escortsites.org
+*.escortstacey.com
 *.eskort.news
 *.eskortadresi.com
 *.eskortpro2.world
@@ -207,7 +210,6 @@ foms.skamil.pl
 *.hdabla76.click
 *.hdabla87.click
 *.hdalemi.com
-*.hderotik4.blog
 *.hderotik5.blog
 *.hderotik6.blog
 *.hdxporno98.lat
@@ -248,6 +250,7 @@ i8fmzf4a54wk.nettoyagereunion.re
 *.istanbuldur.com
 *.istanbulescort.app
 *.istanbulescortfinest.xyz
+*.istanbulescortgrand.click
 *.istanbulhotescorts.com
 *.istanbulilanbul.com
 *.istanbulmasozbayan.site

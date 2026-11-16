@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,239 | Updated: 2026-11-16
+# Domains: 1,238 | Updated: 2026-11-16
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -722,7 +722,6 @@
 0.0.0.0 mycima.si
 0.0.0.0 mycima.watch
 0.0.0.0 mycimaa.cc
-0.0.0.0 mycimaa.monster
 0.0.0.0 myflixer.com.co
 0.0.0.0 myflixertv.pw
 0.0.0.0 mynetnaija.ng
