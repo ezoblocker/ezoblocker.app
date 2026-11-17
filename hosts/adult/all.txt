@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 2,710 | Updated: 2026-11-17
+# Domains: 2,713 | Updated: 2026-11-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -134,7 +134,6 @@
 0.0.0.0 alisbathroom.com
 0.0.0.0 all-arabs.online
 0.0.0.0 allmodels.info
-0.0.0.0 almoarbed.com
 0.0.0.0 alpornarab.com
 0.0.0.0 altyazili.org
 0.0.0.0 altyazilihubxt12.site
@@ -191,6 +190,7 @@
 0.0.0.0 arabsex2.lat
 0.0.0.0 arabsex3.lat
 0.0.0.0 arabsex4.lat
+0.0.0.0 arabsex4c.lol
 0.0.0.0 arabsex4e.lol
 0.0.0.0 arabsexcams.com
 0.0.0.0 arabsexmovies.net
@@ -410,6 +410,7 @@
 0.0.0.0 camsiteradar.com
 0.0.0.0 camsodagear.com
 0.0.0.0 camstargirl.com
+0.0.0.0 camtlas.com
 0.0.0.0 canadiantubeflies.com
 0.0.0.0 canapuff.com
 0.0.0.0 canlisex.org
@@ -896,7 +897,6 @@
 0.0.0.0 gayout.com
 0.0.0.0 gaysohbet.life
 0.0.0.0 gaystore.fr
-0.0.0.0 gaziantepbayanescort.com
 0.0.0.0 gaziantepbayanlar.com
 0.0.0.0 ge.mobilexh.blog
 0.0.0.0 gearisle.com
@@ -1664,6 +1664,7 @@
 0.0.0.0 phimsexhaynon.com
 0.0.0.0 phimsexhayxinh.com
 0.0.0.0 phimsexmy.click
+0.0.0.0 phimsexsuong.blog
 0.0.0.0 phimsextapthe69.com
 0.0.0.0 phimsexvietaa.com
 0.0.0.0 phimsexvietsubx.blog
@@ -1740,6 +1741,7 @@
 0.0.0.0 porndoe.com.de
 0.0.0.0 pornflix.to
 0.0.0.0 pornforarab.com
+0.0.0.0 pornhubz.net
 0.0.0.0 pornlinkhub.com
 0.0.0.0 pornlinks18.com
 0.0.0.0 pornmk.com
@@ -1752,7 +1754,6 @@
 0.0.0.0 porno80cc.site
 0.0.0.0 porno80cm.site
 0.0.0.0 porno80cn.site
-0.0.0.0 porno80cv.site
 0.0.0.0 porno80zr.org
 0.0.0.0 porno900.click
 0.0.0.0 pornoamlaks7.lat
@@ -1772,6 +1773,7 @@
 0.0.0.0 pornoizlehane.com
 0.0.0.0 pornojan1.skin
 0.0.0.0 pornokase18.click
+0.0.0.0 pornokase21.cyou
 0.0.0.0 pornoklub.com
 0.0.0.0 pornoliana1.skin
 0.0.0.0 pornolik.pl
@@ -2211,6 +2213,7 @@
 0.0.0.0 sinsationskingston.com
 0.0.0.0 sisliescort.site
 0.0.0.0 sisliescort0312.uno
+0.0.0.0 sisliescortara1.site
 0.0.0.0 sislioto.com
 0.0.0.0 sitereview.ro
 0.0.0.0 sititaly.it
