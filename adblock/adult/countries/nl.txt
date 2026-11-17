@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Netherlands (nl)
-! Domains: 64 | Updated: 2026-11-17
+! Domains: 66 | Updated: 2026-11-17
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/nl.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -27,6 +27,7 @@
 ||kortingscode.be^
 ||kraina-doznan.pl^
 ||ladiesnight.nl^
+||ladypleasure.nl^
 ||lamor.nl^
 ||livestrip.ch^
 ||mailfemale.com^
@@ -38,6 +39,7 @@
 ||naaktflix.nl^
 ||naaktfoto.nl^
 ||nachtkastje.nl^
+||nbrplaza.com^
 ||nederporn.tv^
 ||nooitmeersaai.nl^
 ||onlyfansmeiden.nl^

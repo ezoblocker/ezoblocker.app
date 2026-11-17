@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Brazil (br)
-# Domains: 55 | Updated: 2026-11-17
+# Domains: 56 | Updated: 2026-11-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/br.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -35,6 +35,7 @@
 0.0.0.0 lojadoprazer.com.br
 0.0.0.0 lojalibb.com.br
 0.0.0.0 lojaousadia.com.br
+0.0.0.0 lolla.com.br
 0.0.0.0 loungerie.com.br
 0.0.0.0 magiclove.com.br
 0.0.0.0 onlyporno.blog

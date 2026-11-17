@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Gambling, United Kingdom (gb)
-# Domains: 65 | Updated: 2026-11-17
+# Domains: 73 | Updated: 2026-11-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 5topcasino.co.uk
+0.0.0.0 adabschool.org
 0.0.0.0 allgamestopsites.co
 0.0.0.0 amulette.co.uk
 0.0.0.0 avenuemanagement.co.uk
@@ -23,9 +24,12 @@
 0.0.0.0 community54.com
 0.0.0.0 computerdisposals.co.uk
 0.0.0.0 cpath.co.uk
+0.0.0.0 deckingimport.co.uk
 0.0.0.0 easthopecaravanandcamping.co.uk
 0.0.0.0 elanlaserclinics.co.uk
+0.0.0.0 emdads.iphasetech.com
 0.0.0.0 enzo-aesthetic.co.uk
+0.0.0.0 firkinalehouse.co.uk
 0.0.0.0 flash-film.co.uk
 0.0.0.0 glassfrogdigital.uk
 0.0.0.0 immersionvr.co.uk
@@ -36,6 +40,7 @@
 0.0.0.0 mediatornetwork.org
 0.0.0.0 miracle-casinos.com
 0.0.0.0 monks-crane.co.uk
+0.0.0.0 mvir-cleaning.co.uk
 0.0.0.0 mvmwindowfilms.co.uk
 0.0.0.0 myzeo.co.uk
 0.0.0.0 neverheardofthem.co.uk
@@ -62,8 +67,11 @@
 0.0.0.0 stardaclub.co.uk
 0.0.0.0 stargambling.net
 0.0.0.0 stone-tilers-bath.co.uk
+0.0.0.0 suffolkheritagedirect.org.uk
+0.0.0.0 sussexsquash.org.uk
 0.0.0.0 thecottageinnnetley.co.uk
 0.0.0.0 thetoycentre.co.uk
+0.0.0.0 thevenuedressingcompany.co.uk
 0.0.0.0 unlimitedgamstopfree.com
 0.0.0.0 vavadacasinocz.com
 0.0.0.0 vistaroofinglincoln.co.uk

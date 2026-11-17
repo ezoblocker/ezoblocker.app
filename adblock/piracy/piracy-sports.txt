@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, illegal sports streams
-! Domains: 491 | Updated: 2026-11-17
+! Domains: 495 | Updated: 2026-11-17
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/piracy-sports.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -211,6 +211,7 @@
 ||livehd71.live^
 ||livehd71.top^
 ||livehd73.com^
+||livehd77.space^
 ||livehd7live.site^
 ||livehd7matche.com^
 ||livehd7pro.xyz^
@@ -297,6 +298,7 @@
 ||rojadirectaes.cloud^
 ||rojadirectafullhd.net^
 ||rojadirectafulltv.org^
+||rojadirectaliga.me^
 ||rojadirectaone.org^
 ||rojadirectaonline.me^
 ||rojadirectas.business^
@@ -357,6 +359,8 @@
 ||streameast.com.se^
 ||streameast.gold^
 ||streameast.to^
+||streameast.uno^
+||streameastapp.club^
 ||streameasti.site^
 ||streameastmirror.com^
 ||streameastonline.com^

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Poland (pl)
-! Domains: 70 | Updated: 2026-11-17
+! Domains: 73 | Updated: 2026-11-17
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/pl.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -32,6 +32,7 @@
 ||lovita.pl^
 ||makeup.pl^
 ||mamuski.de^
+||modelmaki.com^
 ||modernlove.pl^
 ||modny-sklep.pl^
 ||mybasic.pl^
@@ -48,6 +49,7 @@
 ||redarena.pl^
 ||redshop24.pl^
 ||refform.pl^
+||renahandmade.pl^
 ||roksa.priv.pl^
 ||samanta.pl^
 ||secretdelivery.pl^
@@ -59,6 +61,7 @@
 ||sexshop.com.pl^
 ||sexshop69.pl^
 ||sexshoppink.pl^
+||sklep-bdsm.com^
 ||sklep-intymny.pl^
 ||sklep-strefaintymna.pl^
 ||sklepeuforia.pl^

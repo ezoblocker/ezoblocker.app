@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Gambling, United Kingdom (gb)
-# Domains: 65 | Updated: 2026-11-17
+# Domains: 73 | Updated: 2026-11-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.5topcasino.co.uk
+*.adabschool.org
 *.allgamestopsites.co
 *.amulette.co.uk
 *.avenuemanagement.co.uk
@@ -23,9 +24,12 @@
 *.community54.com
 *.computerdisposals.co.uk
 *.cpath.co.uk
+*.deckingimport.co.uk
 *.easthopecaravanandcamping.co.uk
 *.elanlaserclinics.co.uk
+emdads.iphasetech.com
 *.enzo-aesthetic.co.uk
+*.firkinalehouse.co.uk
 *.flash-film.co.uk
 *.glassfrogdigital.uk
 *.immersionvr.co.uk
@@ -36,6 +40,7 @@
 *.mediatornetwork.org
 *.miracle-casinos.com
 *.monks-crane.co.uk
+*.mvir-cleaning.co.uk
 *.mvmwindowfilms.co.uk
 *.myzeo.co.uk
 *.neverheardofthem.co.uk
@@ -62,8 +67,11 @@
 *.stardaclub.co.uk
 *.stargambling.net
 *.stone-tilers-bath.co.uk
+*.suffolkheritagedirect.org.uk
+*.sussexsquash.org.uk
 *.thecottageinnnetley.co.uk
 *.thetoycentre.co.uk
+*.thevenuedressingcompany.co.uk
 *.unlimitedgamstopfree.com
 *.vavadacasinocz.com
 *.vistaroofinglincoln.co.uk

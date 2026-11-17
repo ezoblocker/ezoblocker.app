@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,466 | Updated: 2026-11-17
+# Domains: 1,478 | Updated: 2026-11-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -90,6 +90,7 @@ alert.shop-bell.com
 *.anoeses.com
 *.anonimshop.com
 *.aphroditi.gr
+*.arhook.com
 *.armonishop.com
 *.arzumshop.com.tr
 *.asexshop.gr
@@ -308,6 +309,7 @@ dkintimates.commercesuite.com.br
 *.dubailovetoys.com
 *.dubaiplasticfun.com
 *.dublintown.ie
+duisburg.city-map.de
 *.dulcegatita.com.co
 *.dulceshop.cl
 *.dulcespecados.com
@@ -364,6 +366,7 @@ dkintimates.commercesuite.com.br
 *.eroticfeel.com
 *.eroticke-pomucky.cz
 *.erotickepomucky.net
+*.eroticmax.net
 *.eroticnow.gr
 *.eroticpassion.pl
 *.eroticpoint.pl
@@ -588,6 +591,8 @@ kirov.fooby.ru
 *.ladybox.kr
 *.ladyjane.co.za
 *.ladykonfidential.com
+*.ladypleasure.nl
+*.laetitia.ch
 *.lamagiahot.com
 *.lamor.nl
 *.lamora.online
@@ -610,6 +615,7 @@ kirov.fooby.ru
 *.lextase.be
 *.liberatorshop.eu
 *.libidi.com.br
+*.libidinous.de
 *.librerialuces.com
 *.liebenswert.at
 *.lilashop.com.tr
@@ -633,6 +639,7 @@ kirov.fooby.ru
 *.lolatoys.com
 *.lolipop.com.mx
 *.lolitashop.com.tr
+*.lolla.com.br
 *.loma-store.com
 *.losplaceresdelola.com
 *.loungerie.com.br
@@ -794,6 +801,7 @@ modernhouse.elandmall.co.kr
 *.ms-online.co.jp
 *.mshop.se
 msk.ros-spravka.ru
+*.msxdistribution.com
 *.mundoerotico.es
 *.musiccognition.science
 *.mybasic.pl
@@ -830,6 +838,7 @@ nightmall.linkstory.co.kr
 *.nikkidarling.biz
 *.nodex.ie
 *.noktashop.com.tr
+*.nontabu.com
 *.nontan-mobusagi.com
 *.nooitmeersaai.nl
 nordfriesland.city-map.de
@@ -919,6 +928,7 @@ otona.howcollect.jp
 *.playful2night.com
 *.pleasist.com
 *.pleasurebetter.com
+*.pleasurecart.in
 *.pleasurechest.com.au
 *.pleasurechestphilly.com
 *.pleasureeroticshop.se
@@ -982,6 +992,7 @@ prinz-eisenherz.buchkatalog.de
 *.regalatelo.cl
 *.regulation.co.uk
 *.reignboutique.com
+*.renahandmade.pl
 *.resolver.co.uk
 *.ripcurl.com
 *.rocks-off.com
@@ -1248,6 +1259,7 @@ shhhsexshop.kyte.site
 *.sitereview.ro
 *.sjoyful.com
 *.skintwo.com
+*.sklep-bdsm.com
 *.sklep-intymny.pl
 *.sklep-strefaintymna.pl
 *.sklepeuforia.pl

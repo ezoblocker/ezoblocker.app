@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Security, ct
-! Domains: 84,462 | Updated: 2026-11-17
+! Domains: 84,422 | Updated: 2026-11-17
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -362,7 +362,6 @@
 ||a-krakenlogin.pages.dev^
 ||a-l-whatsapp.com.cn^
 ||a-pps-ledgrlive-en-us.pages.dev^
-||a-s-x-whatsapp.com.cn^
 |a-us-paypal.carbonaxiom.com^
 |a-us-paypal.itservicemiami.co^
 ||a-v-whatsapp.com.cn^
@@ -2029,6 +2028,8 @@
 ||akbank-data.pages.dev^
 ||akbank-direktkredim.pages.dev^
 ||akbank-interface.com^
+||akbank-tr.live^
+||akbank-tr.pro^
 |akbank.hemenbasvur.com^
 |akbank63.flexode.me^
 |akbank81.flexode.me^
@@ -5661,16 +5662,13 @@
 ||azuractivedirectorylogmicrosoftonline365applicationportals.pages.dev^
 ||b-1-whats-app.com.cn^
 ||b-d-f-whatsapp.com.cn^
-||b-e-n-whatsapp.com.cn^
 ||b-er-whatsapp.com.cn^
 ||b-i-v-whatsapp.com.cn^
 ||b-i-whatsapp.com.cn^
 ||b-live-huya.com.cn^
 ||b-lockdagnetwork.pages.dev^
-||b-t-h-whatsapp.com.cn^
 ||b-u-whatsapp.com.cn^
 ||b-v-whatsapp.com.cn^
-||b-w-hatsapp.com.cn^
 ||b-wh-atsapp.com.cn^
 ||b-wha-tsapp.com.cn^
 ||b-what-sapp.com.cn^
@@ -5928,7 +5926,6 @@
 ||bc0eede2-fc71-4b59-a19e-29c9f18c8bb1-netflix-clone.pages.dev^
 ||bca-cetak-kupon.pages.dev^
 ||bcswap-airdrop-claim.pages.dev^
-||bde-whatsapp.com.cn^
 ||bdfmrz-whatsapp.hk.cn^
 ||bdo-applesupport-deutschebank.com.ph^
 ||bdo-customer-service-application-333f5-0803.pages.dev^
@@ -9728,7 +9725,6 @@
 ||cibc-online-signin.com^
 ||cie-ledger-live.pages.dev^
 ||cim-whats-app.com.cn^
-||cim-whatsapp.com.cn^
 ||cimecapitange.com^
 ||cimurexa-zolunexi.pages.dev^
 ||cinbase-chrome-extension.pages.dev^
@@ -13754,7 +13750,6 @@
 ||databases-login-leedger.pages.dev^
 ||datarockvalnex-engine-com.pages.dev^
 ||daten-29-kleinanzeigen.site^
-||daten-compliance-now.de^
 ||dating-whatsapp.pages.dev^
 ||dating-whatsappme.pages.dev^
 ||datingmoom-whatsapp.pages.dev^
@@ -13946,7 +13941,6 @@
 ||depop-verif.help^
 ||depop-verif.info^
 ||depop-verification-help727472.help^
-||depop-verificationpage891581.click^
 ||depop-verify-order.info^
 ||depop-verify-part.com^
 ||depop-verify.shop^
@@ -14942,7 +14936,6 @@
 ||digital-en-upholld.pages.dev^
 ||digital-help-trzoer.pages.dev^
 ||digital-infrastructure-governance-hub.pages.dev^
-||digital-joinzoom.us^
 ||digital-kraken-login.pages.dev^
 ||digital-ledgrr-start.pages.dev^
 ||digital-leger-login.pages.dev^
@@ -20311,7 +20304,6 @@
 ||eo-trust-waletd.pages.dev^
 ||eo-trust-walllet.pages.dev^
 ||eobuwie-vip.shop^
-||eoh-whatsapp.com.cn^
 ||eon-ledjer-com-strt.pages.dev^
 ||eotrezr-suite.pages.dev^
 ||eous-trez-start.pages.dev^
@@ -20369,7 +20361,6 @@
 ||ethena-fi-88y.pages.dev^
 ||ethena-fi-airdrop.pages.dev^
 ||ethena-first.pages.dev^
-||ethenafi-appmultiplier.top^
 ||ethenafil.pages.dev^
 ||ethenafinance-ejn.pages.dev^
 ||ethenafix.pages.dev^
@@ -21623,13 +21614,11 @@
 ||f-op-whatsapp.com.cn^
 ||f-p-b-whatsapp.com.cn^
 ||f-p-w-whatsapp.com.cn^
-||f-w-hatsapp.com.cn^
 ||f-wh-atsapp.com.cn^
 ||f-wha-tsapp.com.cn^
 ||f-what-sapp.com.cn^
 ||f-whats-app.hl.cn^
 ||f-whats-app.sh.cn^
-||f-whatsa-pp.com.cn^
 ||f0rmywhatsapp.pages.dev^
 ||f1mypersonal-whatsappnumber.pages.dev^
 ||f2-w-hatsapp.com.cn^
@@ -23590,7 +23579,6 @@
 ||g-ou-whatsapp.com.cn^
 ||g-q-w-whatsapp.com.cn^
 ||g-sougou-com-cn.pages.dev^
-||g-x-whatsapp.com.cn^
 ||g5whatsappsex.pages.dev^
 ||gadget-trzor.pages.dev^
 ||gaemini-login.pages.dev^
@@ -23658,7 +23646,6 @@
 ||gb-whatsapp-apk.pages.dev^
 ||gb-whatsapp.in^
 ||gb-whatsapp.pages.dev^
-||gbh-whatsapp.cn^
 ||gbn-trezor-suite.pages.dev^
 ||gbwhatsap.app^
 ||gbwhatsapp-3cq.pages.dev^
@@ -25395,7 +25382,6 @@
 ||gtim-whatapp.com.cn^
 ||gtmaintenancegroup.co.uk^
 ||gu-ide-io-trezo-en.pages.dev^
-||guard-coinbase.com^
 ||guard-trezoiostart.pages.dev^
 ||guard-trezosuite.pages.dev^
 ||guede-io-trezo-en.pages.dev^
@@ -26031,7 +26017,6 @@
 ||h-p-z-whatsapp.com.cn^
 ||h-roobin-hoood-logn.pages.dev^
 ||h-v-whatsapp.com.cn^
-||h-w-hatsapp.com.cn^
 ||h-wh-atsapp.com.cn^
 ||h-wha-tsapp.com.cn^
 ||h-what-sapp.com.cn^
@@ -30197,7 +30182,6 @@
 ||hrdwre-wallet-treezr.pages.dev^
 ||hrdwre-wallet-trezar.pages.dev^
 ||hrj-whatsapp.com.cn^
-||hrk-whatsapp.com.cn^
 ||hrlp-update-ledgeer.pages.dev^
 ||hs-binance.com.cn^
 ||hsbc-id-verification.pages.dev^
@@ -31754,7 +31738,6 @@
 ||instagramlooker.pages.dev^
 ||instagramly.com^
 ||instagramreward.ph^
-||instagramsupport.email^
 ||instagramsupporthelp.com.ph^
 ||instagramverification.ph^
 ||instagramverificationhelpcentersupport.com.ph^
@@ -34469,12 +34452,10 @@
 ||j-q-whatsapp.com.cn^
 ||j-v-whats-app.com.cn^
 ||j-w-hatsapp.com.cn^
-||j-w-whatsapp.com.cn^
 ||j-wh-atsapp.com.cn^
 ||j-wha-tsapp.com.cn^
 ||j-what-sapp.com.cn^
 ||j-whats-app.hl.cn^
-||j-whatsa-pp.com.cn^
 ||j-whatsap-p.com.cn^
 ||j1whatsappsex.pages.dev^
 ||j5whatsappsex.pages.dev^
@@ -34941,7 +34922,6 @@
 ||jtexpress-yw.top^
 ||jtexpress-yx.cc^
 ||jtexpress-yz.cc^
-||jtj-whatsapp.com.cn^
 ||jtst-4-aliexpress-c1z.pages.dev^
 ||jtu-whatsapp.com.cn^
 ||jtv-w-hatsapp.hl.cn^
@@ -35005,7 +34985,6 @@
 ||jynareth16-1vault.pages.dev^
 ||jyq4vmxz.pages.dev^
 ||jz-whatsapp.com.cn^
-||jzk-whatsapp.com.cn^
 ||k-1-whats-app.com.cn^
 ||k-c-whats-app.com.cn^
 ||k-coin-lgin.pages.dev^
@@ -35027,7 +35006,6 @@
 ||k-wha-tsapp.com.cn^
 ||k-what-sapp.com.cn^
 ||k-whats-app.hl.cn^
-||k-whatsa-pp.com.cn^
 ||k-whatsap-p.com.cn^
 ||k3-w-hatsapp.com.cn^
 ||k3hwitnh-teiegarm.pages.dev^
@@ -47357,7 +47335,6 @@
 |m-us-paypal.tatapowertradingcompany.net^
 |m-us-paypal.trupacs.com^
 |m-us-paypal.womenintransit.us^
-||m-v-j-whatsapp.com.cn^
 ||m-whatapp-chat.com.cn^
 ||m-worldlibertyfinancial.pages.dev^
 ||m0krqmxw-teiegarm.pages.dev^
@@ -50283,7 +50260,6 @@
 ||mpw-whatsapp.com.cn^
 ||mrf-w-hatsapp.hl.cn^
 ||mrjhonfrewhatsapp2.pages.dev^
-||mrk-whatsapp.com.cn^
 ||mrobin--hood-loginn.pages.dev^
 |mrprince-sharepoint.mrprince-d8b.workers.dev^
 |ms-hero.lamarr.masmovil.tecalis.dev^
@@ -50626,6 +50602,7 @@
 ||mytimocomge.com^
 ||mytrexora.com^
 ||mytrezorhardware-recovery.pages.dev^
+||mytrezorsuite.com^
 ||mytrixhalogpt.live^
 ||mytrust-wallet.workers.dev^
 ||mywebwave.com^
@@ -50729,7 +50706,6 @@
 ||n-daxloging.pages.dev^
 ||n-dex-login.pages.dev^
 ||n-er-whatsapp.com.cn^
-||n-i-whatsapp.com.cn^
 ||n-im-whatsapp.com.cn^
 ||n-j-whats-app.com.cn^
 ||n-l-e-whatsapp.com.cn^
@@ -54153,7 +54129,6 @@
 ||optharvex-krenthivor.pages.dev^
 ||option--xoinbse-walt-extn.pages.dev^
 ||optrivon-qentrixa.pages.dev^
-||opu-whatsapp.com.cn^
 ||opucik-whatsapp.hk.cn^
 ||opulatrix-italy.top^
 ||opz-whats-app.com.cn^
@@ -57664,7 +57639,6 @@
 ||psn-gift-card-codes.pages.dev^
 ||pssygir17mywhatsapp212.pages.dev^
 ||psv9muqs-appleid.pages.dev^
-||ptk-whatsapp.com.cn^
 ||pttavmwhatsapp.pages.dev^
 ||ptv-w-hatsapp.hl.cn^
 ||pub-coinbase-extnsion.pages.dev^
@@ -58278,7 +58252,6 @@
 ||r-obinhoodlogins.pages.dev^
 ||r-q-whats-app.hl.cn^
 ||r-roobinhood-login.pages.dev^
-||r-s-t-whatsapp.com.cn^
 ||r1whatsappsex.pages.dev^
 ||r34whatsappsex.pages.dev^
 ||r60qsooe-teiegarm.pages.dev^
@@ -59334,7 +59307,6 @@
 ||rwdsuilend.pages.dev^
 ||rweenergyplatform-com.pages.dev^
 ||rweenergyplatform-digital.pages.dev^
-||rwi-whatsapp.com.cn^
 ||rwsuilend.pages.dev^
 ||rythavel16-1vault.pages.dev^
 ||rzu-whats-app.com.cn^
@@ -59357,7 +59329,6 @@
 ||s-trzr-suit.pages.dev^
 ||s-trzr.pages.dev^
 ||s-uiwalet-io.pages.dev^
-||s-x-whatsapp.com.cn^
 ||s002-ma-airwallex-01-3bg.pages.dev^
 ||s002-ma-airwallex-01.pages.dev^
 ||s002-mg-xin-poshmark-6pw.pages.dev^
@@ -61508,7 +61479,6 @@
 ||solvfinanceapp.pages.dev^
 ||solviamodernsolutionsinc.digital^
 ||solyra-vault.pages.dev^
-||som-whatsapp.com.cn^
 ||some-started--trezz-login.pages.dev^
 ||some-started--trezzer.pages.dev^
 ||some-started-trezzer.pages.dev^
@@ -68930,7 +68900,6 @@
 ||tejeqtutbd.yachts^
 ||tejequantuml.wiki^
 ||tejevividgri.work^
-||tejevkwuzd.yachts^
 ||tejexenonweb.wiki^
 ||tejor-io-strt.pages.dev^
 ||tejrr-bridge-begin.pages.dev^
@@ -69058,7 +69027,6 @@
 ||telegrrram.pages.dev^
 ||telegxxsab.bond^
 ||telegxxsab.cyou^
-||telejorlds.club^
 ||telejunmyo.wiki^
 ||telekom-billing-invoice-agent.pages.dev^
 ||telekom-invoice-checker-it.pages.dev^
@@ -69545,7 +69513,6 @@
 ||tivo-whatapt.hl.cn^
 ||tivonare-polumita.pages.dev^
 ||tivron-biz-kenqor-27226.pages.dev^
-||tix-whatsapp.com.cn^
 ||tiyanrobloxtshirt.pages.dev^
 ||tiyupindaozhibocctv5zhibo5.lol^
 ||tizor-wallet-io.pages.dev^
@@ -75545,7 +75512,6 @@
 ||trustwallet-akv.pages.dev^
 ||trustwallet-allocation.pages.dev^
 ||trustwallet-aml.org^
-||trustwallet-aml.report^
 ||trustwallet-assetsprotection.com^
 ||trustwallet-browser--extension.pages.dev^
 ||trustwallet-card-app.pages.dev^
@@ -76685,7 +76651,6 @@
 ||u-phntom.pages.dev^
 ||u-v-w-whatsapp.com.cn^
 ||u-v-whats-app.hl.cn^
-||u-w-hatsapp.com.cn^
 ||u-wh-atsapp.com.cn^
 ||u-wha-tsapp.com.cn^
 ||u-what-sapp.com.cn^
@@ -78825,7 +78790,6 @@
 ||v-what-sapp.com.cn^
 ||v-whats-app.hl.cn^
 ||v-whats-app.sh.cn^
-||v-whatsa-pp.com.cn^
 ||v-whatsap-p.com.cn^
 ||v-whatsapp.hk^
 ||v11whatsappsex.pages.dev^
@@ -83749,7 +83713,6 @@
 ||x-login-uphold-web.pages.dev^
 ||x-metamask-loginn.pages.dev^
 ||x-mtamask-app.pages.dev^
-||x-q-j-whatsapp.com.cn^
 ||x-start-tezor-io.pages.dev^
 ||x-start-trezr-us.pages.dev^
 ||x-suite-trzor-app.pages.dev^
@@ -83769,7 +83732,6 @@
 ||x-what-sapp.com.cn^
 ||x-whats-app.hl.cn^
 ||x-whats-app.sh.cn^
-||x-whatsa-pp.com.cn^
 ||x-whatsap-p.com.cn^
 ||x-y-z-whatsapp.com.cn^
 ||x11whatsappsex.pages.dev^
@@ -83951,7 +83913,6 @@
 ||xsergfdsfd.pages.dev^
 ||xsh-whatsapp.com.cn^
 ||xsupp0rt.workers.dev^
-||xte-whatsapp.com.cn^
 ||xtension-coinbase.pages.dev^
 ||xtension-coinbse-cloud.pages.dev^
 ||xtensions-metm-ask-loginz-sso.pages.dev^
@@ -83993,7 +83954,6 @@
 ||y-ib-whatsapp.com.cn^
 ||y-im-whatsapp.com.cn^
 ||y-iostart-trezer.pages.dev^
-||y-m-c-whatsapp.com.cn^
 ||y-ou-whatsapp.com.cn^
 ||y-z-whats-app.hl.cn^
 ||y11whatsappsex.pages.dev^

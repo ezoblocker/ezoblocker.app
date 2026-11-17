@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, South Africa (za)
-# Domains: 57 | Updated: 2026-11-17
+# Domains: 59 | Updated: 2026-11-17
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -51,6 +51,8 @@
 0.0.0.0 soap2days.ac
 0.0.0.0 sportsurges.st
 0.0.0.0 staging.elkford.ca
+0.0.0.0 streameast.uno
+0.0.0.0 streameastapp.club
 0.0.0.0 streameastmirror.com
 0.0.0.0 streameasttop.com
 0.0.0.0 streameastv2.buzz
