@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 577 | Updated: 2026-11-18
+# Domains: 581 | Updated: 2026-11-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -51,6 +51,7 @@
 0.0.0.0 altyazilihubxt17.cfd
 0.0.0.0 altyazilihubxt18.click
 0.0.0.0 altyazilihubxt7.lat
+0.0.0.0 altyazilipornofilmi.info
 0.0.0.0 altyzhub30.site
 0.0.0.0 altyzhub34.site
 0.0.0.0 amlaks5.shop
@@ -130,6 +131,7 @@
 0.0.0.0 cimcime173.live
 0.0.0.0 cimcime174.live
 0.0.0.0 cimcime178.live
+0.0.0.0 cimcime179.live
 0.0.0.0 cimcime180.live
 0.0.0.0 cinselmobilsohbet.com
 0.0.0.0 cinselsohbet.com
@@ -143,6 +145,7 @@
 0.0.0.0 daavli.best
 0.0.0.0 dahahizli160.live
 0.0.0.0 dahahizli162.live
+0.0.0.0 dahahizli166.live
 0.0.0.0 dahahizli167.live
 0.0.0.0 dahahizli170.live
 0.0.0.0 dame.com
@@ -568,6 +571,7 @@
 0.0.0.0 yavasgir171.live
 0.0.0.0 yavasgir174.live
 0.0.0.0 yavasgir175.live
+0.0.0.0 yavasgir176.live
 0.0.0.0 yavasgir177.live
 0.0.0.0 yerelsohbet.net
 0.0.0.0 yetiskin.org

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,254 | Updated: 2026-11-18
+# Domains: 1,256 | Updated: 2026-11-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -192,6 +192,7 @@
 0.0.0.0 crackstreams.mx
 0.0.0.0 crackstreams1.cx
 0.0.0.0 crackstreamsmax.site
+0.0.0.0 cratosroyalbet-2026-girisiniz.com
 0.0.0.0 cricfree.beer
 0.0.0.0 crichd.lol
 0.0.0.0 cricketworld.com
@@ -422,6 +423,7 @@
 0.0.0.0 gogoanimez.online
 0.0.0.0 gomovieshd.today
 0.0.0.0 google-play.en.softmany.com
+0.0.0.0 grandpashabet-2026-giris.com
 0.0.0.0 grandpashabet7567.com
 0.0.0.0 grantorrent.foo
 0.0.0.0 grantorrent.fyi
@@ -514,6 +516,7 @@
 0.0.0.0 isportsurge.ws
 0.0.0.0 istreameast.work
 0.0.0.0 it-ord.computersweden.se
+0.0.0.0 izlemac629.sbs
 0.0.0.0 izlemac636.sbs
 0.0.0.0 izlemac649.sbs
 0.0.0.0 jateng.bulat.co.id
@@ -655,7 +658,6 @@
 0.0.0.0 lordfilm-hd11.lat
 0.0.0.0 lordfilm-ru0.cc
 0.0.0.0 lordfilm.fi
-0.0.0.0 lordfilm26-kino25.lat
 0.0.0.0 lordfilms.pub
 0.0.0.0 lordfilms.pw
 0.0.0.0 lxmovie-8d4.pages.dev

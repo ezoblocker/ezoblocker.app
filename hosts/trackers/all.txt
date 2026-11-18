@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 763 | Updated: 2026-11-18
+# Domains: 764 | Updated: 2026-11-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 168dns168.com
 0.0.0.0 1p-data.co
 0.0.0.0 207.net
 0.0.0.0 250analytics.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 840,125 | Updated: 2026-11-18
+# Domains: 839,904 | Updated: 2026-11-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -357,6 +357,7 @@
 *.05xbetbet.com
 *.05xbets.com
 *.05xbetvip.com
+*.0600betbets.com
 *.0600betoo.com
 *.0657betfb.com
 *.0657casino.com
@@ -723,7 +724,6 @@
 *.1-pound-minimum-deposit-casino-co-uk.pages.dev
 *.1-pound-minimum-deposit-casino.co.uk
 *.1-pound-minimum-deposit-casinos-co-uk.pages.dev
-*.1-pound-minimum-deposit-casinos.co.uk
 *.1-radiohotel-ovoslot88.pages.dev
 *.1-red-bet-casino.com
 *.1-red-bet.cl
@@ -3288,7 +3288,6 @@
 *.14casinoapp.com
 *.14icecasino.com
 *.14jilipark.com
-*.14masterjudibola.com
 *.14masterjudibola.pages.dev
 *.14merhabet.com
 *.14merhabet508.com
@@ -3515,8 +3514,6 @@
 *.160bets10.com
 *.160betvn.com
 *.160betway.com
-*.1611casino.buzz
-*.1611casino.top
 *.1615betapps.com
 *.161bet-casino.sa.com
 *.161betaposta.com
@@ -3746,18 +3743,6 @@
 *.16betwinvip.com
 *.16bvipbet.com
 *.16captainmarlin.online
-*.16casino-13.buzz
-*.16casino-14.buzz
-*.16casino-15.buzz
-*.16casino-16.buzz
-*.16casino-17.buzz
-*.16casino-18.buzz
-*.16casino-19.buzz
-*.16casino-20.buzz
-*.16casino-21.buzz
-*.16casino-22.buzz
-*.16casino-23.buzz
-*.16casino-24.buzz
 *.16casino-o.com
 *.16casino7.site
 *.16hibajee.net
@@ -4185,6 +4170,7 @@
 *.188macauslotcom-sbobet-cuan.pages.dev
 *.188maxslot.com
 *.188maxslot.org
+*.188mixparlay.com
 *.188pgbet-8.com
 *.188pgbet-9.com
 *.188pgbet.org
@@ -4781,8 +4767,10 @@
 *.1casino.se
 *.1casino.vip
 *.1casino.website
+*.1casino11.buzz
 *.1casino2.com
 *.1casino288.org
+*.1casino288.today
 *.1casino3.com
 *.1casino4u.com
 *.1casino5.buzz
@@ -7409,7 +7397,6 @@
 *.1xbet-6utu.buzz
 *.1xbet-777casino.com
 *.1xbet-7hrt.top
-*.1xbet-7rz.team
 *.1xbet-81bp.top
 *.1xbet-8ut.pages.dev
 *.1xbet-8vip.top
@@ -8494,7 +8481,6 @@
 *.1xbet-zplh.top
 *.1xbet1x-bet.pages.dev
 *.1xbet2026zerkalo.ru
-*.1xbet8gb.team
 *.1xbetaap.ws
 *.1xbetaccount.net
 *.1xbetaccountopen.com
@@ -9389,7 +9375,6 @@
 *.1xbett.ws
 *.1xbett1-kz.com
 *.1xbett1.com
-*.1xbett1xbett.com
 *.1xbettaiwan.tw
 *.1xbettajikistan.com
 *.1xbettikish.com
@@ -12428,8 +12413,6 @@
 *.227betsport.com
 *.227casibom.com.tr
 *.227truvabet.com
-*.228322casino.buzz
-*.228322casino.top
 *.2288bet-oficial.com
 *.2288betapostas.com
 *.2288betbrl.com
@@ -13046,6 +13029,7 @@
 *.22riobet.com
 *.22riobet.org
 *.22riobeta.com
+*.22riobets.com
 *.22riobett.com
 *.22scommesse.com
 *.22slotgokil.com
@@ -13123,7 +13107,6 @@
 *.230truvabet.com
 *.231bets10.com
 *.231mrbet.com
-*.231truvabet.com
 *.232058.xyz
 *.23209619.com
 *.2322betslot.com
@@ -13875,9 +13858,6 @@
 *.24pokiesmobile.com
 *.24pokiesonline.com
 *.24racetanplay.com
-*.24riobet-login.ru
-*.24riobet-vhod.ru
-*.24riobet-zercalo.ru
 *.24robocat.org
 *.24royalreels-com.pages.dev
 *.24royalreels.com
@@ -14517,6 +14497,7 @@
 *.29-fridayroll-31.com
 *.29-r7casino.casino
 *.29-wealthengine-ratumacau.pages.dev
+*.2900betbets.com
 *.290bets10.com
 *.290tumbet.com
 *.291betslot.com
@@ -14695,6 +14676,7 @@
 *.2casino-x.top
 *.2casino.de
 *.2casino.site
+*.2casino11.buzz
 *.2casino5.buzz
 *.2casino6.buzz
 *.2casino8g.buzz
@@ -17217,9 +17199,9 @@
 *.3casino.cfd
 *.3casino.com.br
 *.3casino.de
-*.3casino.fun
 *.3casino.org
 *.3casino1.com
+*.3casino11.buzz
 *.3casino5.buzz
 *.3casino6.buzz
 *.3casinoapp.com
@@ -18532,7 +18514,7 @@
 *.4bilder-1wort.de
 *.4bluechipcasino.io
 *.4cardpoker.com
-*.4casino.fun
+*.4casino11.buzz
 *.4casino5.buzz
 *.4casino9dr.buzz
 *.4casinogamblingonline.com
@@ -19536,7 +19518,6 @@
 *.50freespinsnodeposituk.co.uk
 *.50freesweepscasino.com
 *.50freesweepscasino.net
-*.50freesweepscasino.org
 *.50freispieleohneeinzahlung.casino
 *.50freispieleohneeinzahlung.com
 *.50freispieleohneeinzahlung.help
@@ -20945,7 +20926,6 @@
 *.585betslot1.com
 *.585betsport.com
 *.585betss.com
-*.585casino.team
 *.585tumbet.com
 *.58611719.com
 *.5866winbetmp.com
@@ -20956,7 +20936,6 @@
 *.586bets10.com
 *.586betslots.com
 *.586betss.com
-*.586casino.team
 *.5877betcasino.com
 *.587betbets.com
 *.587betbig.com
@@ -21083,6 +21062,7 @@
 *.59-betbrazil-bet.pages.dev
 *.59-buddyspin-8.com
 *.59-fridayroll-44.com
+*.5900betbets.com
 *.5900betoo.com
 *.59052242.com
 *.5905betfb.com
@@ -21248,6 +21228,7 @@
 *.5bzbetvip.com
 *.5bzbetw.com
 *.5casino-o.com
+*.5casino11.buzz
 *.5casino5.buzz
 *.5casinobezdepozita.com
 *.5casinobonus-ru.com
@@ -22718,6 +22699,7 @@
 *.6666betvn.com
 *.6666mbbet.com
 *.6666pnalobet.com
+*.6666winbets.com
 *.666acasino.com
 *.666acasino.com.br
 *.666bet-oficial.com
@@ -23505,6 +23487,7 @@
 *.688betsorte.com
 *.688betsport.com
 *.688betsports.com
+*.688betss.com
 *.688betsx.com
 *.688brlbet.com
 *.688fcasino.com.br
@@ -25180,7 +25163,6 @@
 *.76betsports.com
 *.76betway.com
 *.76brcasino.com
-*.76casino.net
 *.76casinoa.com
 *.76casinopg.com
 *.76casinos.com
@@ -26022,6 +26004,7 @@
 *.777houseslots.com
 *.777icecasino.com
 *.777iibet.com.br
+*.777iibets.com
 *.777iibett.com
 *.777ilelebet.com
 *.777jackpotslots.com
@@ -30083,6 +30066,7 @@
 *.85xbetwin.com
 *.85xcasino.com
 *.85xcasino.com.br
+*.8600betbets.com
 *.86085667.com
 *.860bets10.com
 *.86123801.com
@@ -34204,7 +34188,6 @@
 *.97betslots.com
 *.97betway.com
 *.97casino.com.br
-*.97casino16.buzz
 *.97casino9.com
 *.97casino97.com
 *.97edwinslot-4d.xyz
@@ -34334,7 +34317,6 @@
 *.98brl-jogo.com
 *.98brlbet.com
 *.98brlbet.com.br
-*.98casino16.top
 *.98gacorhoras88.xyz
 *.98hibajee.bet
 *.98hibajee.games
@@ -34727,7 +34709,6 @@
 *.99cashslot.org
 *.99casino.app
 *.99casino.net
-*.99casino16.fun
 *.99casinobonus.ru
 *.99casinologin.com
 *.99casinologinph.com
@@ -35497,6 +35478,7 @@
 *.9solidpanalo.cc
 *.9speed.be
 *.9sportsbook.com
+*.9sssbets.com
 *.9tayabet.com
 *.9tayaph.com
 *.9tr88homebet.com
@@ -39725,7 +39707,6 @@
 *.aerobet-cz.com
 *.aerobet-de.com.de
 *.aerobet-de.de
-*.aerobet-enligne.fr
 *.aerobet-erfahrungen-casino.pages.dev
 *.aerobet-erfahrungen.pages.dev
 *.aerobet-es-org-124796-2px.pages.dev
@@ -41202,7 +41183,6 @@
 *.agengacorind.store
 *.agengacorindo.pages.dev
 *.agengacorindstore.pages.dev
-*.agengacorjp.pro
 *.agengacormenang.pages.dev
 *.agengacorpalingkuatdisemestaketujuh.pages.dev
 *.agengacorr.pages.dev
@@ -42519,7 +42499,6 @@
 *.aipoker.co.il
 *.aipoker.pages.dev
 *.aipoker.ru
-*.aipoker.si
 *.aipoker777.com
 *.aipokerbench.com
 *.aipokercoach.net
@@ -46819,7 +46798,6 @@
 *.allpkcasino.com.pk
 *.allpkrcasino.pk
 *.allpkrslots.online
-*.allpkrslots777.net
 *.allplayers-admire-casino.com
 *.allpoker-casino.com
 *.allpoker-tournaments.com
@@ -48479,7 +48457,6 @@
 *.alpinocasino-online.net
 *.alpinocasino-online.org
 *.alpinocasino.app
-*.alpinocasino.bet
 *.alpinocasino.co.it
 *.alpinocasino.com.es
 *.alpinocasino.de
@@ -48798,7 +48775,6 @@
 *.alterspincasino.org
 *.alterspincasino.pl
 *.alterspincasino.uk
-*.alterspincasino.world
 *.alterspinscasino.com
 *.alterspinspielbank.de
 *.altervista-slotgacor.pages.dev
@@ -56579,7 +56555,6 @@
 *.angkabet-amp-la-korywakefield.pages.dev
 *.angkabet-amp.pages.dev
 *.angkabet-amp75.com
-*.angkabet-amp77.com
 *.angkabet-ampproject-esxi01-marvec.pages.dev
 *.angkabet-gacor01.pages.dev
 *.angkabet-gacurr.pages.dev
@@ -65626,7 +65601,6 @@
 *.arlequinncasino.com
 *.arlequinocasino.com
 *.arlequinocasinos.com
-*.arlequinocasinos.top
 *.arlesfrance.ca
 *.arlivecasino.net
 *.arm-tvtoto.pages.dev
@@ -66116,6 +66090,7 @@
 *.artucuapuesta.com
 *.artucuapuestas.com
 *.arturbuchholz-pictures.de
+*.arturocasino.com
 *.arturovidal-casino-cl.com
 *.arturovidalcasino.com
 *.aruba-bet-casino.com
@@ -71526,8 +71501,6 @@
 *.aussieonlinecasino.net
 *.aussieonlinecasino.org
 *.aussieonlinecasinoau.com
-*.aussieonlinecasinofinder.org
-*.aussieonlinecasinoreviews.org
 *.aussieonlinecasinos-co-com.pages.dev
 *.aussieonlinecasinos.gr.com
 *.aussieonlinecasinos.io
@@ -71891,7 +71864,6 @@
 *.australianonlinecasino.us.com
 *.australianonlinecasino.vip
 *.australianonlinecasino1.com
-*.australianonlinecasinocompare.org
 *.australianonlinecasinogames.com
 *.australianonlinecasinoguide.com
 *.australianonlinecasinopokiestrustindex.com
@@ -73375,6 +73347,7 @@
 *.avrupabetguncelgiris.link
 *.avrupabetim.com
 *.avrupabetmax.com
+*.avrupabetpoker.com
 *.avrupabetr.com
 *.avrupabett.com
 *.avrupabett.net
@@ -77205,7 +77178,6 @@
 *.bahiscasinogirisim.com
 *.bahiscasinogirisyap.com
 *.bahiscasinoguia.xyz
-*.bahiscasinoguncel.link
 *.bahiscasinoguncel.lol
 *.bahiscasinoguncel.org
 *.bahiscasinoguncelgiris-blog.pages.dev
@@ -77824,7 +77796,6 @@
 *.balislotxbalitoto.pages.dev
 *.balislotxsbobet.pages.dev
 *.balislotzeus.com
-*.balitacasino.top
 *.balitatoto.com
 *.balitatoto.net
 *.balitatoto.org
@@ -78617,7 +78588,6 @@
 *.bandacasinoo.net.ru
 *.bandacasinoo.website
 *.bandacasinoofficial.cc
-*.bandacasinoonline.buzz
 *.bandacasinoonline.cc
 *.bandacasinoquebecs.com
 *.bandacasinoquebecs.pages.dev
@@ -80168,7 +80138,6 @@
 *.bandartogelterpercaya-paitohk.pages.dev
 *.bandartogelterpercaya.online
 *.bandartogelterpercaya.pages.dev
-*.bandartogelterpercaya.store
 *.bandartogelterpercaya.website
 *.bandartogelterpercaya.xyz
 *.bandartogelterpercaya10.com
@@ -84066,7 +84035,6 @@
 *.batmantoto-link-macau-resmi.pages.dev
 *.batmantoto-login.pages.dev
 *.batmantoto-mupsat.pages.dev
-*.batmantoto-poker.net
 *.batmantoto-sampurase.pages.dev
 *.batmantoto-selalumantap.pages.dev
 *.batmantoto-serve.pages.dev
@@ -84803,6 +84771,7 @@
 *.bb-props.de
 *.bb-rajabandot32.pages.dev
 *.bb178-slotwarrior.pages.dev
+*.bb22slots.com
 *.bb303slot.xyz
 *.bb3yw8-anlagebetrugde-7608.site.rb-hosting.io
 *.bb3yw8-wwwanlagebetrugde-8277.site.rb-hosting.io
@@ -88689,7 +88658,6 @@
 *.becekwin-truhlarstvistrubl.pages.dev
 *.becekwin-vio.pages.dev
 *.becekwin.best
-*.becekwin.info
 *.becekwin.ink
 *.becekwin.online
 *.becekwin.site
@@ -93477,6 +93445,7 @@
 *.bestencasinoohnelizenz.com
 *.bestencasinos.info
 *.bestencasinos.online
+*.bestencasinosohneoasis.ing
 *.bestencasinospiele.com
 *.bestencasinowebsite.de
 *.bestencryptocasinos.com
@@ -99363,7 +99332,6 @@
 *.betarcocasino.com.mx
 *.betarctica-casino-co-uk.pages.dev
 *.betarctica-casino.co.uk
-*.betarctica-casino.fr
 *.betarctica-casino.pages.dev
 *.betarctica-it.pages.dev
 *.betarctica.it
@@ -103119,7 +103087,6 @@
 *.betfred-ie.ie
 *.betfred-it.com
 *.betfred-jol-casino-d1c6e306.pages.dev
-*.betfred-online.com
 *.betfred-online.de
 *.betfred-sistersites-com-ca3d7247.pages.dev
 *.betfred-south-africa.app
@@ -103848,6 +103815,7 @@
 *.betgit68.com
 *.betgitapp.com
 *.betgitbahis.org
+*.betgitcasino.com
 *.betgitduyuru.com
 *.betgite.com
 *.betgitgiris.cam
@@ -114510,6 +114478,7 @@
 *.betsathizligiris.com
 *.betsatim.com
 *.betsation.com
+*.betsatisfaction.com
 *.betsatka.com
 *.betsatmail.com
 *.betsatmobiladres.com
@@ -115145,7 +115114,6 @@
 *.betsilin.net
 *.betsilin.xyz
 *.betsilin1000.com
-*.betsilin806.com
 *.betsilin958.com
 *.betsilin959.com
 *.betsilinbahis.com
@@ -115178,6 +115146,7 @@
 *.betsilintv67.live
 *.betsilintv68.live
 *.betsilintv69.live
+*.betsilinvip.online
 *.betsilinx.com
 *.betsilinyeniadresi.com
 *.betsin.bet
@@ -115803,6 +115772,7 @@
 *.betsmovekampanya.com
 *.betsmovepace.com
 *.betsmoveport.com
+*.betsmoveresmi.blog
 *.betsmoveresmigirisi.com
 *.betsmovevibe.com
 *.betsmovewave.com
@@ -117224,7 +117194,6 @@
 *.bettigrinho.com.br
 *.bettigrinho.net
 *.bettiicasino.com
-*.bettiicasino.top
 *.bettilt-2025.live
 *.bettilt-365-cevrimici.site
 *.bettilt-adresi.online
@@ -121699,7 +121668,6 @@
 *.betwinity24.com
 *.betwinity7.com
 *.betwinity77.com
-*.betwinitycasinos.uk
 *.betwinityy.uk
 *.betwinlivewetten.de
 *.betwinner-19335.pages.dev
@@ -122924,7 +122892,6 @@
 *.betzillo8.one
 *.betzillo8casino.com
 *.betzillo9.bet
-*.betzillo9.casino
 *.betzillo9.com
 *.betzilloapp.casino
 *.betzilloau.app
@@ -124460,6 +124427,7 @@
 *.bg002-slot-gacor.pages.dev
 *.bg333casino.com
 *.bg4djitu.com
+*.bg888bets.com
 *.bg888casino.com
 *.bg88bettingbet.com
 *.bg88casinobet.com
@@ -125687,7 +125655,6 @@
 *.bigboostcasinoindia-com.pages.dev
 *.bigboostcasinoindia.com
 *.bigboostcasinono.com
-*.bigboostcasinono.org
 *.bigboostcasinonorway.shop
 *.bigboostcasinoonline-com-5116aa60.pages.dev
 *.bigboostcasinos-ca.com
@@ -137581,6 +137548,7 @@
 *.bocoranslotgacor.com
 *.bocoranslotgacor.pages.dev
 *.bocoranslotgacor1.pages.dev
+*.bocoranslotgacor88.com
 *.bocoranslotgacoran.com
 *.bocoranslotgacorhariiniadminriki.pages.dev
 *.bocoranslotgacorjarwo.pages.dev
@@ -142274,7 +142242,6 @@
 *.boombetcasino.nl
 *.boombetcasino.nz
 *.boombetcasino.online
-*.boombetcasino.org
 *.boombetcasino.shop
 *.boombetcasino.win
 *.boombetcasino5.com
@@ -149121,7 +149088,6 @@
 *.brunocasinode-com.pages.dev
 *.brunocasinode-de.pages.dev
 *.brunocasinode.de
-*.brunocasinode.org
 *.brunocasinode1-de.pages.dev
 *.brunocasinode1.de
 *.brunocasinodeutschland-com.pages.dev
@@ -154141,7 +154107,6 @@
 *.cafe-casino.nz
 *.cafe-casino.site
 *.cafe-casino.vip
-*.cafe-casino.win
 *.cafeabyssinia.co.nz
 *.cafeandreeputman.com
 *.cafebetbets.com
@@ -154150,6 +154115,7 @@
 *.cafebetkk.com
 *.cafebetmax.com
 *.cafebetoo.com
+*.cafebetslot.com
 *.cafebetslot.com.br
 *.cafebetslots.com
 *.cafebetsorte.com
@@ -155405,11 +155371,8 @@
 *.canadaonlinecasino.ink
 *.canadaonlinecasino.net
 *.canadaonlinecasino.site
-*.canadaonlinecasinoradar.org
-*.canadaonlinecasinoratings.org
 *.canadaonlinecasinoreview.com
 *.canadaonlinecasinos.eu.com
-*.canadaonlinecasinoselector.org
 *.canadaonlinecasinoslots.co.com
 *.canadaonlineslots.ca
 *.canadapincocasino.bet
@@ -155515,14 +155478,11 @@
 *.canadianonlinecasino.today
 *.canadianonlinecasino.work
 *.canadianonlinecasino.yachts
-*.canadianonlinecasinofilter.org
 *.canadianonlinecasinopayouts.com
 *.canadianonlinecasinorealmoney.com
-*.canadianonlinecasinoreport.org
 *.canadianonlinecasinoreviews.ca
 *.canadianonlinecasinoreviews.com
 *.canadianonlinecasinos.us.com
-*.canadianonlinecasinoscanner.org
 *.canadianonlinecasinosrank.com
 *.canadianonlinegambling.net
 *.canadianonlineslots.com
@@ -155648,6 +155608,7 @@
 *.candra777-slot-gacor-9l0.pages.dev
 *.candra777-slot-gacor.pages.dev
 *.candrikacasino.com
+*.candu123slotgacor.com
 *.candu123slotgacor.pages.dev
 *.candutotomacau4d.pages.dev
 *.candy-96-casino-com.pages.dev
@@ -157422,6 +157383,7 @@
 *.cariwin-winjitu.pages.dev
 *.carjournaluae.com
 *.carlcasino.com
+*.carlinhoscasino.com
 *.carlo-spin-casinos.nl
 *.carlo-spin-casinos.pages.dev
 *.carlo-spincasino-nl.pages.dev
@@ -162058,7 +162020,6 @@
 *.casino-148.win
 *.casino-150-tour-gratuit-sans-depot.com
 *.casino-15c.top
-*.casino-1611.online
 *.casino-17i.pages.dev
 *.casino-18.com.ua
 *.casino-18.net.ua
@@ -169603,7 +169564,6 @@
 *.casino-litecoin.com.ar
 *.casino-lithuania-online.com
 *.casino-litoral.com
-*.casino-littleriver.live
 *.casino-live-2024.pages.dev
 *.casino-live-cnu.pages.dev
 *.casino-live-cvf.pages.dev
@@ -172303,7 +172263,6 @@
 *.casino-one.org
 *.casino-one.ro
 *.casino-one.uk
-*.casino-one.vip
 *.casino-onedun-com.pages.dev
 *.casino-onedun.com
 *.casino-onered-com-296.pages.dev
@@ -173943,7 +173902,6 @@
 *.casino-raging-bull-canada.com
 *.casino-ragingbull.com
 *.casino-ragingbull.net
-*.casino-ragingbull.online
 *.casino-ragingbull.org
 *.casino-ragingbull.se
 *.casino-ragnaro.co.no
@@ -174322,8 +174280,6 @@
 *.casino-riverbelle-ca.com
 *.casino-riverbelle.ca
 *.casino-rivercree.ca
-*.casino-riverwind.live
-*.casino-riverwind.space
 *.casino-riviera.co.uk
 *.casino-riviera.com
 *.casino-rivista.it
@@ -177586,7 +177542,6 @@
 *.casino-vodka-ru.website
 *.casino-vodka-ru.world
 *.casino-vodka-sqp7.online
-*.casino-vodka.guru
 *.casino-vodka.online
 *.casino-vogel.com
 *.casino-volcano-pl.pl
@@ -179018,6 +178973,7 @@
 *.casino07i.buzz
 *.casino08.pages.dev
 *.casino0808xa.buzz
+*.casino086mnyhi.buzz
 *.casino0907j.buzz
 *.casino0910.lol
 *.casino0910.team
@@ -179189,6 +179145,7 @@
 *.casino13.org
 *.casino13.pages.dev
 *.casino13.se
+*.casino1310.top
 *.casino132.club
 *.casino133p.online
 *.casino138.co
@@ -179249,10 +179206,6 @@
 *.casino168daftar.com
 *.casino169.net
 *.casino169.org
-*.casino16ka1.buzz
-*.casino16ka2.buzz
-*.casino16ka3.buzz
-*.casino17.email
 *.casino17.se
 *.casino170-com.pages.dev
 *.casino1702.team
@@ -179357,7 +179310,6 @@
 *.casino1win-peru.com
 *.casino1win-portugal.top
 *.casino1win.ca
-*.casino1win.casino
 *.casino1win.co.com
 *.casino1win.co.it
 *.casino1win.co.uk
@@ -179409,7 +179361,6 @@
 *.casino2.bet
 *.casino2.buzz
 *.casino2.co.uk
-*.casino2.online
 *.casino2.pages.dev
 *.casino20.pages.dev
 *.casino2000.lu
@@ -180018,7 +179969,6 @@
 *.casino444.net
 *.casino444.org
 *.casino444.pages.dev
-*.casino444superwin.team
 *.casino4478.team
 *.casino44aces.com
 *.casino44k.top
@@ -180576,6 +180526,7 @@
 *.casino777chile.com
 *.casino777club.org
 *.casino777davos.ch
+*.casino777dk.net
 *.casino777echtgeld.de
 *.casino777echtgeld.nl
 *.casino777erfahrungen.de
@@ -183070,7 +183021,6 @@
 *.casinobeepbeep.org
 *.casinobeepbeep.sk
 *.casinobeepbeepde.com
-*.casinobeepbeepde.org
 *.casinobeew.com
 *.casinobeez.com
 *.casinobef.ru
@@ -184070,7 +184020,6 @@
 *.casinobigbola-com-mx.pages.dev
 *.casinobigbola.com
 *.casinobigboostno.com
-*.casinobigboostno.org
 *.casinobigbunny.com
 *.casinobigbunny.net
 *.casinobigbunny.org
@@ -184952,7 +184901,6 @@
 *.casinobonuscanada.ca
 *.casinobonuscart.com
 *.casinobonuscasinod-fit.pages.dev
-*.casinobonuscasinod.fit
 *.casinobonuscasinos.co.uk
 *.casinobonuscatch.com
 *.casinobonuscav.com
@@ -185892,7 +185840,6 @@
 *.casinobruno.sk
 *.casinobruno.top
 *.casinobrunode.com
-*.casinobrunode.org
 *.casinobrunoit.com
 *.casinobrutal-fr2-com.pages.dev
 *.casinobrutal.fr
@@ -186125,6 +186072,7 @@
 *.casinobwin.nl
 *.casinobwin.uk
 *.casinobwin777.com
+*.casinobwinbr.com
 *.casinobwinit-com-c4047b85.pages.dev
 *.casinobwinuk.com
 *.casinoby.com
@@ -190902,7 +190850,6 @@
 *.casinofaro.click
 *.casinofaro.lol
 *.casinofaro.sbs
-*.casinofaro.site
 *.casinofaro.skin
 *.casinofarsan.se
 *.casinofashion.ch
@@ -192926,7 +192873,6 @@
 *.casinogogiris.com
 *.casinogogo-se.com
 *.casinogogo.co.uk
-*.casinogogo.se
 *.casinogogo.uk
 *.casinogogrid.us
 *.casinogohub.us
@@ -193572,7 +193518,6 @@
 *.casinoguestpost.com
 *.casinoguestpostwriteforus.pages.dev
 *.casinoguia-online.com
-*.casinoguia.live
 *.casinoguiaperu.com
 *.casinoguiaperu.pages.dev
 *.casinoguiapro.com
@@ -193626,6 +193571,7 @@
 *.casinoguideoasisfrei.com
 *.casinoguideph.com
 *.casinoguidepro.co.uk
+*.casinoguidepro.com
 *.casinoguider.se
 *.casinoguides.ca
 *.casinoguidesa.co.za
@@ -194251,7 +194197,6 @@
 *.casinohollywin.com.de
 *.casinohollywin.net
 *.casinohollywinde.com
-*.casinohollywinde.org
 *.casinohollywinde.pages.dev
 *.casinohollywinonline.ca
 *.casinohollywoodbets.co.za
@@ -195708,7 +195653,6 @@
 *.casinoiwild1.com
 *.casinoiwildch-com-d26dba2d.pages.dev
 *.casinoiwildde.com
-*.casinoiwildde.org
 *.casinoiwinfortune.com
 *.casinoiwna.buzz
 *.casinoiyau.buzz
@@ -196428,7 +196372,6 @@
 *.casinok-casino-uk.com
 *.casinok-casino.co.uk
 *.casinok-casino.com
-*.casinok-casino.com.de
 *.casinok-casino.io
 *.casinok-casino.it
 *.casinok-casino.net
@@ -196696,7 +196639,6 @@
 *.casinokiengiang.uk.com
 *.casinokiezer.be
 *.casinokiing.com
-*.casinokiing.top
 *.casinokijker.com
 *.casinokiki-net-78bc0f.pages.dev
 *.casinokiki.casino
@@ -197011,6 +196953,7 @@
 *.casinoknokke.com
 *.casinoknossi.de
 *.casinoknow.com
+*.casinoknowhow.com
 *.casinoknowledge.co.uk
 *.casinoknz-com-0a6db37a.pages.dev
 *.casinoko.com
@@ -198370,7 +198313,6 @@
 *.casinolexat.at
 *.casinolexcasino.at
 *.casinolexch.com
-*.casinolexde.org
 *.casinolexgermany.com
 *.casinolexicon.co.uk
 *.casinolexlogin.com
@@ -198624,7 +198566,6 @@
 *.casinolisteleri.cam
 *.casinolisten.com
 *.casinolisten.dk
-*.casinolistenorge.org
 *.casinolistens-dk-46175.pages.dev
 *.casinolisteonline.com
 *.casinolister.dk
@@ -199067,7 +199008,6 @@
 *.casinolooker.com
 *.casinoloom.pro
 *.casinoloonie.com
-*.casinoloonlinecasino.de
 *.casinolooots.com
 *.casinoloots-at-55026.pages.dev
 *.casinoloots-bet.pages.dev
@@ -203850,6 +203790,7 @@
 *.casinomoneydaily.com
 *.casinomoneydaily.pages.dev
 *.casinomoneygames.com
+*.casinomoneymoon.com
 *.casinomoneymoon.pl
 *.casinomoneyoptions.com
 *.casinomoneypay.ru
@@ -205176,7 +205117,6 @@
 *.casinonisse-cfd.pages.dev
 *.casinonisse-co.pages.dev
 *.casinonisse-live.pages.dev
-*.casinonisse.live
 *.casinonitra.sk
 *.casinonitro.co
 *.casinonitro.co.com
@@ -205514,7 +205454,6 @@
 *.casinonostalgia.org
 *.casinonotebook.com
 *.casinonoticias.com
-*.casinonotongam.co
 *.casinonotongamstop.co.uk
 *.casinonotongamstop.uk
 *.casinonotongamstopuk.co.uk
@@ -205979,7 +205918,6 @@
 *.casinoohne-pause.de
 *.casinoohne.at
 *.casinoohne.de
-*.casinoohne.icu
 *.casinoohne.pages.dev
 *.casinoohne1000eurolimit.online
 *.casinoohne1eurolimit.org
@@ -206152,7 +206090,6 @@
 *.casinoohneoasisbonusvergleich24.ink
 *.casinoohneoasiscasino.pages.dev
 *.casinoohneoasiscasinod-fit.pages.dev
-*.casinoohneoasiscasinod.fit
 *.casinoohneoasischeck.com
 *.casinoohneoasischeckde.com
 *.casinoohneoasisde.com
@@ -206869,7 +206806,6 @@
 *.casinoonlinelegalne-pl.pages.dev
 *.casinoonlinelegalne.pl
 *.casinoonlinelegit.com
-*.casinoonlinelegit.ph
 *.casinoonlinelisboa.com
 *.casinoonlinelist.com
 *.casinoonlineliste.fr
@@ -207451,6 +207387,7 @@
 *.casinop.onl
 *.casinop.pages.dev
 *.casinop3.com
+*.casinop8.com
 *.casinopa.app
 *.casinopa.bet
 *.casinopa.biz
@@ -207475,6 +207412,7 @@
 *.casinopacngo.co.uk
 *.casinopact.com
 *.casinopad.life
+*.casinopad.org
 *.casinopaf.ax
 *.casinopaf.com
 *.casinopaf.com.es
@@ -208571,6 +208509,7 @@
 *.casinoplayamo.pl
 *.casinoplayamo.sk
 *.casinoplayamo.uk
+*.casinoplayatlas.com
 *.casinoplaybaze.com
 *.casinoplaybet.de
 *.casinoplaybet.net
@@ -210461,6 +210400,7 @@
 *.casinoreelpopulaires.com
 *.casinoreelpopulaires.net
 *.casinoreelsofjoy.com
+*.casinoreelwolves.com
 *.casinoreelz.com
 *.casinoreeperbahn.net
 *.casinorefercodes.com
@@ -211006,7 +210946,6 @@
 *.casinoriobet.space
 *.casinoriobet.store
 *.casinoriobet.world
-*.casinoriobet322.top
 *.casinoriobetcasino.online
 *.casinoriobetcasino.ru
 *.casinoriobogota-com.pages.dev
@@ -211621,6 +211560,7 @@
 *.casinoroyal-tryeni.icu
 *.casinoroyal.asia
 *.casinoroyal.best
+*.casinoroyal.blog
 *.casinoroyal.click
 *.casinoroyal.co.at
 *.casinoroyal.cz
@@ -211729,7 +211669,6 @@
 *.casinoroyaleonline.it
 *.casinoroyaleonline02.com
 *.casinoroyaleparty.com
-*.casinoroyalepiano.nl
 *.casinoroyalepoker.org
 *.casinoroyalese.com
 *.casinoroyalevegas.com
@@ -211766,6 +211705,7 @@
 *.casinoroyalreelsaustralia.com
 *.casinoroyalro-com.pages.dev
 *.casinoroyalro.com
+*.casinoroyalrook.com
 *.casinoroyals.ch
 *.casinoroyals.de
 *.casinoroyalsea-ch.pages.dev
@@ -212431,7 +212371,6 @@
 *.casinos-liechtenstein.li
 *.casinos-like-bitstarz.com
 *.casinos-list.com
-*.casinos-lizaro.org
 *.casinos-locowin-com-353c6a.pages.dev
 *.casinos-locowin-es-0dc112.pages.dev
 *.casinos-locowin-fr.com
@@ -213284,8 +213223,6 @@
 *.casinos999.lat
 *.casinosa-org.pages.dev
 *.casinosa.org
-*.casinosa10.fun
-*.casinosa2.fun
 *.casinosa235.buzz
 *.casinosa239.buzz
 *.casinosa240.buzz
@@ -213299,11 +213236,12 @@
 *.casinosa293.buzz
 *.casinosa295.buzz
 *.casinosa306.buzz
+*.casinosa320.buzz
+*.casinosa322.buzz
+*.casinosa323.buzz
+*.casinosa324.buzz
 *.casinosa332-buzz.pages.dev
 *.casinosa332.buzz
-*.casinosa4.fun
-*.casinosa6.fun
-*.casinosa8.fun
 *.casinosaalyzer.com
 *.casinosaarbruecken.de
 *.casinosacceptingcreditcard.gr.com
@@ -214691,6 +214629,7 @@
 *.casinosgames.com
 *.casinosgames.net
 *.casinosgamesguides.com
+*.casinosgameslots.com
 *.casinosgamesonline.co.uk
 *.casinosgamez.com
 *.casinosganancianet.one
@@ -215716,6 +215655,7 @@
 *.casinoslotneo.de
 *.casinoslotnite.co.uk
 *.casinoslotnuts.com
+*.casinosloto.com
 *.casinoslotobit.de
 *.casinoslotobit.es
 *.casinoslotocash.org
@@ -215759,6 +215699,7 @@
 *.casinoslotplanet.com
 *.casinoslotplanet.org
 *.casinoslotpoker.com
+*.casinoslotpokers.com
 *.casinoslotpony.se
 *.casinoslotpro.com
 *.casinoslotr.com
@@ -215996,6 +215937,7 @@
 *.casinoslotsvader.org
 *.casinoslotsvader.se
 *.casinoslotsvegas.com
+*.casinoslotsvip.com
 *.casinoslotsweb.com
 *.casinoslotswin.net
 *.casinoslotsyy.com
@@ -219238,7 +219180,6 @@
 *.casinoswift.de
 *.casinoswift.de.com
 *.casinoswift.fi
-*.casinoswift.site
 *.casinoswift.uk
 *.casinoswifty.com
 *.casinoswildzy.com
@@ -219664,7 +219605,6 @@
 *.casinothai.biz
 *.casinothai.ink
 *.casinothai.it.com
-*.casinothai.live
 *.casinothai.uk.com
 *.casinothai888.com
 *.casinothai99.com
@@ -220308,7 +220248,6 @@
 *.casinotower.org
 *.casinotower.pages.dev
 *.casinotowerde.com
-*.casinotowerde.org
 *.casinotowerrush.fr
 *.casinotown.de
 *.casinotown.info
@@ -223768,7 +223707,6 @@
 *.casinowingaga.org
 *.casinowingagach.com
 *.casinowingagade.com
-*.casinowingagade.org
 *.casinowingeldonline.nl
 *.casinowinghotshot.com
 *.casinowingmen.uk
@@ -224997,7 +224935,6 @@
 *.casinoybets.org
 *.casinoybets.uk
 *.casinoybetsde.com
-*.casinoybetsde.org
 *.casinoye7.com
 *.casinoyeah.com
 *.casinoyear.com
@@ -225663,7 +225600,6 @@
 *.casinozoccer1-com.pages.dev
 *.casinozoccer1.com
 *.casinozoccerde.com
-*.casinozoccerde.org
 *.casinozocker.com
 *.casinozodiac-australia.com
 *.casinozodiac-fr.com
@@ -228110,7 +228046,6 @@
 *.casumo-casino.uk.com
 *.casumo-casino.uk.net
 *.casumo-casino.us
-*.casumo-casino.vip
 *.casumo-casino.win
 *.casumo-casino0-nz.com
 *.casumo-casino1-uk.com
@@ -230030,7 +229965,6 @@
 *.catcasino008.com
 *.catcasino01.cc
 *.catcasino010.com
-*.catcasino016.fun
 *.catcasino1.at
 *.catcasino1.nl
 *.catcasino1265.top
@@ -240084,6 +240018,7 @@
 *.cloverdalecasino.ca
 *.cloverleafcasino.de
 *.clovermagiccasino.us
+*.clovernclubcasino.com
 *.cloverpgslot.com
 *.cloverscasino.com
 *.cloverslotgame.com
@@ -245414,6 +245349,7 @@
 *.coolbets.cl
 *.coolbets.co.no
 *.coolbets.no
+*.coolbets.org
 *.coolbetscasino.eu
 *.coolbetschile-cl.pages.dev
 *.coolbetschile.cl
@@ -257191,6 +257127,7 @@
 *.daftarbocoranslotgacor.com
 *.daftarbolagilabet88.pages.dev
 *.daftarcasinosbobet.co
+*.daftarcasinosicbo.com
 *.daftarcasinovip.com
 *.daftarcuanbet88.pages.dev
 *.daftarcuanwin77.pages.dev
@@ -258322,6 +258259,7 @@
 *.danielleyeager-livitotoslot.pages.dev
 *.danielleyeager-mainslotgacor77.pages.dev
 *.danielleyeager-situsslot17.pages.dev
+*.danielmartinezcasino.com
 *.danielpilowskymd.com
 *.danielpoker.com
 *.danimal-sports-betting-briefing.pages.dev
@@ -261027,6 +260965,7 @@
 *.dealcasino.com
 *.dealcuansumo4d.pages.dev
 *.dealer-poker-table.pages.dev
+*.dealercasinolive.com
 *.dealermarblecasino.com
 *.dealerr.net
 *.dealers-choice-poker.pages.dev
@@ -261193,7 +261132,6 @@
 *.decodecasino.es
 *.decodecasino.it
 *.decodecasino.org
-*.decodecasino1.com
 *.decodecasinobet-com.pages.dev
 *.decodecasinobet.com
 *.decodecasinof.com
@@ -264403,8 +264341,6 @@
 *.devpoker.io
 *.devqalyo-vikingbet88.pages.dev
 *.devulkanvegascasino.com
-*.dew4poker4sia.net
-*.dew4pokers.net
 *.dewa-234-maxwin-gacor.pages.dev
 *.dewa-casino-8h5.pages.dev
 *.dewa-casino.com
@@ -269650,7 +269586,6 @@
 *.donbet-casino-si.site
 *.donbet-casino-site.pages.dev
 *.donbet-casino-uk.com
-*.donbet-casino-uk.net
 *.donbet-casino.app
 *.donbet-casino.click
 *.donbet-casino.cn.com
@@ -281760,6 +281695,7 @@
 *.elmagroup-ru-slot-gacor.pages.dev
 *.elmalpensado-olxslot.pages.dev
 *.elmanalobet.com
+*.elmcasinoalchemy.com
 *.elmejorcasino.mx
 *.elmejorcasino.pages.dev
 *.elmejorcasinoonline.com
@@ -286002,7 +285938,6 @@
 *.etnicaradio.it
 *.etobeton-store.ru
 *.etoilecasino-club.pages.dev
-*.etoilecasino.club
 *.etomiho-malukutoto.pages.dev
 *.etorobet.xyz
 *.etoto-casino-pl.com
@@ -287392,7 +287327,6 @@
 *.evacasino26.xyz
 *.evacasino3.top
 *.evacasino365.buzz
-*.evacasino365.vip
 *.evacasino4.top
 *.evacasino5.top
 *.evacasino69.top
@@ -287437,7 +287371,6 @@
 *.evacasinos.online
 *.evacasinos.ru
 *.evacasinoslots.bet
-*.evacasinoslots.casino
 *.evacasinoslots.top
 *.evacasinossi.net.ru
 *.evacasinot.ru
@@ -287678,6 +287611,7 @@
 *.everygameonlinecasino.com
 *.everygamescasino.com
 *.everygamingsolutions.com
+*.everyhandpoker.com
 *.everyone-jepangbet.pages.dev
 *.everyonepoker.com
 *.everythingaboutonlinecasino.co.uk
@@ -292946,7 +292880,6 @@
 *.farocasino444.fun
 *.farocasino445.fun
 *.farocasino5.art
-*.farocasino545.fun
 *.farocasino55.online
 *.farocasino6.fun
 *.farocasino704.fun
@@ -300242,7 +300175,6 @@
 *.fontancasinologin.pl
 *.fontancasinopl.pl
 *.fontancasinopoland.com
-*.fontancasinopoland.top
 *.fontancasinopolska-com.pages.dev
 *.fontancasinopolska.com
 *.fontancasinos-net-pl.pages.dev
@@ -316310,6 +316242,7 @@
 *.gamesph18.com
 *.gamesphfun.com
 *.gamesphspin.com
+*.gamespinspotcasino.com
 *.gamesplay.live
 *.gamespokercasino.com
 *.gamespokernet.pages.dev
@@ -320074,6 +320007,7 @@
 *.germancasino.top
 *.germancasinoevents.com
 *.germancasinos.org
+*.germangarmendiacasino.com
 *.germania-casino.de
 *.germania-casino.uk.net
 *.germaniacasino-ca.com
@@ -323521,7 +323455,6 @@
 *.glampingtabio.com
 *.glanceslots.com
 *.glantus.com
-*.glanzbet-de.com
 *.glanzbet.de
 *.glanzbets.de
 *.glasgow-casino.pages.dev
@@ -343744,7 +343677,6 @@
 *.happytogel.net
 *.happytogel.org
 *.happytotodaftar.com
-*.happyvalleycasino.net
 *.happyvegascasino-org.pages.dev
 *.happyvegascasino.co.uk
 *.happyvegascasino.com
@@ -348968,7 +348900,6 @@
 *.high5-casino.pl
 *.high5-casino.ro
 *.high5-casino.uy
-*.high5-casino.vip
 *.high5casino-ca.com
 *.high5casino-canada.com
 *.high5casino-eu-com.pages.dev
@@ -350030,7 +349961,6 @@
 *.hillocasino1.com
 *.hillocasinofi.com
 *.hillocasinofin.com
-*.hillocasinofin.top
 *.hillocasinofinland.com
 *.hillocasinologin.com
 *.hillocasinoy.com
@@ -353383,6 +353313,7 @@
 *.holiganbetyeniadresimiz.com
 *.holiganbetyenilenmis-giris.com
 *.holiganbetyuksekgiris.com
+*.holigancasino.vip
 *.holigangunceladres.vip
 *.holiganmobilgiris.cam
 *.holiganmobilgiris.vip
@@ -353583,6 +353514,7 @@
 *.hollytogel-meluncur.pages.dev
 *.hollytogel.org
 *.hollytreeclub-mixparlay.pages.dev
+*.hollyvvoodcasino.com
 *.hollywin-3.pages.dev
 *.hollywin-anmelden.pages.dev
 *.hollywin-at.com
@@ -353700,7 +353632,6 @@
 *.hollywincasino.pages.dev
 *.hollywincasino.pl
 *.hollywincasinoaustralia.com
-*.hollywincasinode.org
 *.hollywincasinoonline.com
 *.hollywincasinos.de
 *.hollywinde-casino.com
@@ -367740,7 +367671,6 @@
 *.ingatholyslot77.store
 *.ingatpoker-alt.pages.dev
 *.ingatpoker-alt.site
-*.ingatpoker-amp3.net
 *.ingatpoker-daftar.site
 *.ingatpoker.lol
 *.ingatpoker.site
@@ -367909,6 +367839,7 @@
 *.inirtptokeslot88space.pages.dev
 *.inishienslot.com
 *.inisitus-slot-gacor.pages.dev
+*.inisitusslot777.org
 *.inisitusslotonline.co.uk
 *.inisitusslotonline.com
 *.inisitusslots.pages.dev
@@ -372471,7 +372402,6 @@
 *.istanacasinovip.com
 *.istanagacor-icp.pages.dev
 *.istanagacorrrr.pages.dev
-*.istanagaming-slot.xyz
 *.istanagoal-cuan.pages.dev
 *.istanaimpian1gameslot.pages.dev
 *.istanaimpian1situsslotterbaik.pages.dev
@@ -373000,7 +372930,6 @@
 *.itcasiniacasino.com
 *.itcasino.it
 *.itcasino.pages.dev
-*.itcasino.vip
 *.itcasino99.com
 *.itcasinobuck.com
 *.itcasinomania-com.pages.dev
@@ -377016,6 +376945,9 @@
 *.jackpotkingscasinop.com
 *.jackpotlandcasino.de
 *.jackpotlandcasinor.com
+*.jackpotlandvegascasinoslots.casino
+*.jackpotlandvegascasinoslots.com
+*.jackpotlandvegascasinoslotscasino.com
 *.jackpotlegacycasino.co.uk
 *.jackpotlinercasino.co.uk
 *.jackpotlinerukcasino.co.uk
@@ -379218,7 +379150,6 @@
 *.jagotogel5.com
 *.jagotogel55.com
 *.jagotogel6.com
-*.jagotogel6.org
 *.jagotogel66.com
 *.jagotogel77.com
 *.jagotogelakun.com
@@ -388344,7 +388275,6 @@
 *.jiliplay-ph.com
 *.jiliplay-slot.com
 *.jiliplay-win.com
-*.jiliplay.quest
 *.jiliplay23.com
 *.jiliplay24.com
 *.jiliplay25.com
@@ -390894,30 +390824,23 @@
 *.jojobet-1j1.pages.dev
 *.jojobet-45q.pages.dev
 *.jojobet-71z.pages.dev
-*.jojobet-adres.tech
 *.jojobet-adresim-tr.org
-*.jojobet-adreslerim.top
 *.jojobet-bqb.pages.dev
-*.jojobet-buradan.tech
 *.jojobet-demo.pages.dev
 *.jojobet-directgir-com-7fj.pages.dev
 *.jojobet-directgir-com.pages.dev
 *.jojobet-giris-online.pages.dev
-*.jojobet-giris.tech
-*.jojobet-girisleri.tech
 *.jojobet-giriss.com
 *.jojobet-hizligir-tr.online
 *.jojobet-lisansli-girisiniz-com.pages.dev
 *.jojobet-official.com
 *.jojobet-orijinal-adres.com
-*.jojobet-resmi-adresileri.icu
 *.jojobet-resmi-girisi-com.pages.dev
 *.jojobet-resmitrgiris.com
 *.jojobet-situs-slot.pages.dev
 *.jojobet-sonadresix.icu
 *.jojobet-tr.com
 *.jojobet-tr.org
-*.jojobet-turkiye.ink
 *.jojobet-turkiyeadresi-com.pages.dev
 *.jojobet.asia
 *.jojobet.cc
@@ -390927,7 +390850,6 @@
 *.jojobet.ml
 *.jojobet.pw
 *.jojobet.site
-*.jojobet.studio
 *.jojobet.world
 *.jojobet2.tv
 *.jojobet2026x.com
@@ -390944,8 +390866,6 @@
 *.jojobetbra.com.br
 *.jojobetbrand.com
 *.jojobetci.vip
-*.jojobete-girisi.cam
-*.jojobete-qiris.icu
 *.jojobetegirisyap.com
 *.jojobetes.shop
 *.jojobetespana.shop
@@ -392196,7 +392116,6 @@
 *.jokersjewelsslot-com.pages.dev
 *.jokersjewelsslot.com
 *.jokerslot-8im.pages.dev
-*.jokerslot-apk.xyz
 *.jokerslot999thai.com
 *.jokerslotai.com
 *.jokerslotamp.pages.dev
@@ -393325,7 +393244,6 @@
 *.jotuntoto-x-slotgacor1.pages.dev
 *.jotuntoto-x-slotgacor4.pages.dev
 *.jotuntotoid.com
-*.joucasino.top
 *.jouea-casino777-com.pages.dev
 *.jouea-goldbet-com.pages.dev
 *.jouea-luckycasino-com.pages.dev
@@ -394654,7 +394572,6 @@
 *.joycasino.si
 *.joycasino.uk.com
 *.joycasino.uk.net
-*.joycasino012.fun
 *.joycasino1.de
 *.joycasino10.site
 *.joycasino1038.top
@@ -394713,7 +394630,6 @@
 *.joycasino33.com
 *.joycasino345i.ru
 *.joycasino365.top
-*.joycasino381.sbs
 *.joycasino4.live
 *.joycasino4.org
 *.joycasino4.site
@@ -394723,7 +394639,6 @@
 *.joycasino6.site
 *.joycasino609.top
 *.joycasino77.com
-*.joycasino776.fun
 *.joycasino777slot.pages.dev
 *.joycasino8.site
 *.joycasino83.sbs
@@ -396457,7 +396372,6 @@
 *.judibolahoki.pages.dev
 *.judibolaid.pages.dev
 *.judibolaindobet365.pages.dev
-*.judibolaindobettors.net
 *.judibolaindobettors.pages.dev
 *.judibolaindonesia.me
 *.judibolaindonesias.com
@@ -396520,6 +396434,7 @@
 *.judibolaworldcup.net
 *.judibolaworldcup.org
 *.judibolax1aji.site
+*.judicasino88.com
 *.judicasino88.pages.dev
 *.judicasinoasia.pages.dev
 *.judicasinobonusid-ceri123.pages.dev
@@ -399047,7 +398962,6 @@
 *.jutawanbet-agen-slot-gacor.pages.dev
 *.jutawanbet-amp-eyeglassesadmin-kylir.pages.dev
 *.jutawanbet-amp-project-epicprintservice-vividhelix.pages.dev
-*.jutawanbet-amp163.com
 *.jutawanbet-amp59.com
 *.jutawanbet-arenadiskon.pages.dev
 *.jutawanbet-bandar-anti-blokir.pages.dev
@@ -400087,7 +400001,6 @@
 *.kaasinoscasino.uk
 *.kab-punting.pages.dev
 *.kabakok.com
-*.kabancasino.net
 *.kabar-pintutogel-hariini.pages.dev
 *.kabar-terbaru-dunia-slot.pages.dev
 *.kabar-toto-online.pages.dev
@@ -402137,7 +402050,6 @@
 *.kaptenslota.com
 *.kaptenslotlogin.club
 *.kaptenslots.com
-*.kaptenslotx.com
 *.kaptentotoslot.com
 *.kaptenvipslot.site
 *.kaptenwin88w.com
@@ -404033,8 +403945,6 @@
 *.kavbet-duckguncelgiris.icu
 *.kavbet-giris.com
 *.kavbet-pl.pages.dev
-*.kavbet-resmiadresgir.icu
-*.kavbet-tekadresorijinal.icu
 *.kavbet-tr.top
 *.kavbet.bar
 *.kavbet.best
@@ -404373,6 +404283,7 @@
 *.kazeenocasino.org.uk
 *.kazeenocasino.pages.dev
 *.kazeenocasino.pl
+*.kazeenocasinobet.com
 *.kazeenocasinocasino.pages.dev
 *.kazeenocasinode.pages.dev
 *.kazeenocasinoitalia.pages.dev
@@ -419696,6 +419607,7 @@
 *.kumpulaninfoslotgacor-pastibayar.pages.dev
 *.kumpulaninfoslotgacor.com
 *.kumpulansitusbandarq-wak-togel.pages.dev
+*.kumpulansituscasino.com
 *.kumpulansitusjudibola.com
 *.kumpulansitusjudibolas.com
 *.kumpulansitusslot.com
@@ -419971,7 +419883,6 @@
 *.kushcasino-ykk.ru
 *.kushcasino.de
 *.kushcasino.org
-*.kushcasino.team
 *.kushcasino0432.buzz
 *.kushcasino104.top
 *.kushcasino176.buzz
@@ -422135,6 +422046,7 @@
 *.lajubetstar-xyz.pages.dev
 *.lajucasino-dev.pages.dev
 *.lajucasino.com
+*.lajugadacasino.com
 *.lajupoker.org
 *.lajutotomaxwin.pages.dev
 *.lakawin.com
@@ -425791,7 +425703,6 @@
 *.leebetcasino-cazino.top
 *.leebetcasino-fun.ru
 *.leebetcasino-leebetcasino.top
-*.leebetcasino-new.win
 *.leebetcasino-official.top
 *.leebetcasino-ru.pages.dev
 *.leebetcasino-ru.top
@@ -428149,7 +428060,6 @@
 *.lemon-casino-online.com.pl
 *.lemon-casino-online.info.pl
 *.lemon-casino-online.ink
-*.lemon-casino-online.net
 *.lemon-casino-online.net.pl
 *.lemon-casino-online.org
 *.lemon-casino-online.org.pl
@@ -430174,7 +430084,6 @@
 *.leovegascasino.ro
 *.leovegascasino.se.net
 *.leovegascasino.sk
-*.leovegascasino.stream
 *.leovegascasino.uk.com
 *.leovegascasino.uk.net
 *.leovegascasino.us
@@ -430537,7 +430446,6 @@
 *.lets-lucky-casino.org
 *.lets-lucky-casino1.com
 *.lets-luckycasino.com
-*.lets-play-grey-eagle-casino.site
 *.lets-play-poker.com
 *.lets-play-poker369.pages.dev
 *.letsbet-au.com
@@ -430712,7 +430620,6 @@
 *.letspokies.site
 *.letspokies.store
 *.letspokies3.vip
-*.letsslot-th.online
 *.letstalkstudio.com
 *.letsvibe.ca
 *.letswinbet.com
@@ -437684,6 +437591,7 @@
 *.livecasinosgame.com
 *.livecasinosguide.com
 *.livecasinoshyc.com
+*.livecasinosicbo.com
 *.livecasinosideal.nl
 *.livecasinosider.dk
 *.livecasinosingapore.com
@@ -439264,7 +439172,6 @@
 *.lizaromagyar.com
 *.lizaronederland-nl.pages.dev
 *.lizaronederland.nl
-*.lizaronl-casino.net
 *.lizaronl-casino.nl
 *.lizaronl.app
 *.lizaronl.co.nl
@@ -445795,7 +445702,6 @@
 *.ltccasino-at.at
 *.ltccasino-at.com
 *.ltccasino-at.eu.com
-*.ltccasino-au.com
 *.ltccasino-aus.com
 *.ltccasino-aussie.com
 *.ltccasino-australia.com
@@ -445936,6 +445842,7 @@
 *.lucabetking.com
 *.lucabetmacau.com
 *.lucabetplay99.com
+*.lucabianchicasino.com
 *.lucabianchicasino.it
 *.lucac4slot.co
 *.lucas777casino.com
@@ -446412,7 +446319,6 @@
 *.luckiacasino.co
 *.luckiacasino.co.com
 *.luckiacasino.com.mx
-*.luckiacasino.download
 *.luckiacasino.eu
 *.luckiacasino.io
 *.luckiacasino.it.com
@@ -446762,12 +446668,10 @@
 *.lucky-bear-kazino.pages.dev
 *.lucky-bear-kazino.shop
 *.lucky-bearcasino-pro.pages.dev
-*.lucky-bearcasino.info
 *.lucky-bearcasino.pro
 *.lucky-bearcasino.top
 *.lucky-bearcasino.uno
 *.lucky-bearcasinos100.top
-*.lucky-bearcasinozerkalo.info
 *.lucky-bingo.cfd
 *.lucky-bird-casino-nz.com
 *.lucky-bird-casino-pl.com
@@ -447978,10 +447882,7 @@
 *.luckybear-bonusy.online
 *.luckybear-casino-24.ru
 *.luckybear-casino-bet.ru
-*.luckybear-casino-bonus.click
 *.luckybear-casino-click.pages.dev
-*.luckybear-casino-club.site
-*.luckybear-casino-game.info
 *.luckybear-casino-go72b.top
 *.luckybear-casino-go7mf.top
 *.luckybear-casino-goayw.top
@@ -447990,16 +447891,8 @@
 *.luckybear-casino-gor6m.top
 *.luckybear-casino-goylq.top
 *.luckybear-casino-gozzz.top
-*.luckybear-casino-official.click
 *.luckybear-casino-online.ru
-*.luckybear-casino-play.online
-*.luckybear-casino-pro.click
-*.luckybear-casino-ru.site
 *.luckybear-casino-site.ru
-*.luckybear-casino-top.online
-*.luckybear-casino-vhod.site
-*.luckybear-casino-win.info
-*.luckybear-casino-zerkalo.online
 *.luckybear-casino.click
 *.luckybear-casino.lt
 *.luckybear-casino324.online
@@ -448215,26 +448108,17 @@
 *.luckybearcasino.wtf
 *.luckybearcasino1.moscow
 *.luckybearcasino155.buzz
-*.luckybearcasino24.info
-*.luckybearcasinobet.online
 *.luckybearcasinobonus.ru
-*.luckybearcasinoclub.click
 *.luckybearcasinogame.ru
 *.luckybearcasinonline.pro
 *.luckybearcasinonline.world
 *.luckybearcasinoofficial.ru
 *.luckybearcasinoonline.top
-*.luckybearcasinoplay.site
 *.luckybearcasinopro.ru
-*.luckybearcasinoru.click
 *.luckybearcasinoru.pages.dev
 *.luckybearcasinos.pro
-*.luckybearcasinosite.online
 *.luckybearcasinoslots.ru
-*.luckybearcasinotop.site
-*.luckybearcasinovhod.click
 *.luckybearcasinowin.ru
-*.luckybearcasinozerkalo.site
 *.luckybearcasplay.ru
 *.luckybearcasru.info
 *.luckybearcastop.ru
@@ -455122,7 +455006,6 @@
 *.luzdocasino.com
 *.luzernpokerleague.ch
 *.luzocasinos.pt
-*.luzoncasino.top
 *.luzslot.win
 *.luzslotcasino.click
 *.lv-bet-casino-com-pl.pages.dev
@@ -464986,7 +464869,6 @@
 *.mamipoker.net
 *.mamislot-november.pages.dev
 *.mamislot.app
-*.mamislot.lol
 *.mamislot.org
 *.mamislot.pages.dev
 *.mamislot.site
@@ -467078,7 +466960,6 @@
 *.mariobetgiris.site
 *.mariobetgirisi.org
 *.mariobetguncel.org
-*.mariobetguncel.site
 *.mariobetit.shop
 *.mariobetkayit-com.pages.dev
 *.mariobettella.com
@@ -468977,8 +468858,6 @@
 *.matbetcasino.de
 *.matbetcasino.pl
 *.matbetgiris.org
-*.matbetguncel.link
-*.matbetguncel.site
 *.matbetpro.com
 *.matbets.net
 *.matbett.me
@@ -469057,8 +468936,6 @@
 *.mate-slots-net.pages.dev
 *.mate-slots-org.pages.dev
 *.mate-slots.de
-*.mate-slots.site
-*.mate-slots.website
 *.matecasino-au1-com.pages.dev
 *.matecasino-aus.com
 *.matecasino-aus1-com.pages.dev
@@ -470270,6 +470147,7 @@
 *.maxbetsport.co.uk
 *.maxbetsport.dk
 *.maxbetsportwetten.de
+*.maxbetsslotonline.com
 *.maxbett.app
 *.maxbett.io
 *.maxbett.one
@@ -470713,6 +470591,7 @@
 *.maxroyalcasino475.com
 *.maxroyalcasino476.com
 *.maxroyalcasino478.com
+*.maxroyalcasino480.com
 *.maxroyalcasinoadres.com
 *.maxroyalcasinoadres.xyz
 *.maxroyalcasinogiris.net
@@ -473038,7 +472917,6 @@
 *.mazatzalcasino.com
 *.mazatzalcasinop.com
 *.mazatzalcasinosportsbook.net
-*.mazawin-game.com
 *.mazawinbet.com
 *.mazdabetlogin.pages.dev
 *.mazettoseguros-bandar-lae.pages.dev
@@ -474796,7 +474674,6 @@
 *.megablockslot-sbs.pages.dev
 *.megablockslot.sbs
 *.megabonanza-casino-vip.pages.dev
-*.megabonanza-casino.vip
 *.megabonanzacasino.com
 *.megabonanzacasinos.com
 *.megabonuscasino.com
@@ -481837,7 +481714,6 @@
 *.mellgameslots.com
 *.mellkazino.com
 *.mellocasino.games
-*.mellscasino.site
 *.mellscasinos.com
 *.mellslots.bet
 *.mellstoycasino-zerkalo-com.pages.dev
@@ -482396,6 +482272,7 @@
 *.mellstroycasinos.com
 *.mellstroycasinos.cz
 *.mellstroycasinos.es
+*.mellstroycasinoslots.com
 *.mellstroycasinow21.com
 *.mellstroycazino.com
 *.mellstroyclub.games
@@ -484237,6 +484114,7 @@
 *.meritlimancasino.online
 *.meritlimancasino476.com
 *.meritlimancasinom.org
+*.meritlimancasinosu.com
 *.meritparkcasino2.com
 *.meritparkcasinogiris.com
 *.meritpoker.com
@@ -484870,7 +484748,6 @@
 *.mesportesdasorte.com
 *.mesquitestatelinecasino.com
 *.mesrapoker1.com
-*.mesrapokerku.org
 *.mesrapokerku.pages.dev
 *.mess-hall.co.uk
 *.messi-casino-net.pages.dev
@@ -488913,7 +488790,6 @@
 *.minionlinecasino.com
 *.minionslot123.com
 *.minionslot8.net
-*.minionslot88-1.com
 *.minionslot88-rtp.pages.dev
 *.minionslot88-rtp2.pages.dev
 *.minionslot88-rtp3.pages.dev
@@ -492682,7 +492558,6 @@
 *.modelpgslot.com
 *.modeltcasino.com
 *.modeoff-slottoto.pages.dev
-*.modern-casino.org
 *.modern-togel178join.pages.dev
 *.modernaposta.sk
 *.modernatlantis.com
@@ -496748,7 +496623,6 @@
 *.mostbet-39.pages.dev
 *.mostbet-3iv6.buzz
 *.mostbet-3s1e.buzz
-*.mostbet-3yv.team
 *.mostbet-42.online
 *.mostbet-42.pages.dev
 *.mostbet-42.ru
@@ -497427,7 +497301,6 @@
 *.mostbet-casino-lkg1.ru
 *.mostbet-casino-lkg2.ru
 *.mostbet-casino-login.com
-*.mostbet-casino-login.global
 *.mostbet-casino-logowanie.com
 *.mostbet-casino-ma7.ru
 *.mostbet-casino-magyar.com
@@ -498466,7 +498339,6 @@
 *.mostbet-mur-amp.top
 *.mostbet-mwongozo.co.ke
 *.mostbet-mx-app.com
-*.mostbet-mx.casino
 *.mostbet-mx.com.mx
 *.mostbet-mx.pages.dev
 *.mostbet-mxax.top
@@ -499112,7 +498984,6 @@
 *.mostbet-slots-casino.com
 *.mostbet-slots-pt.com
 *.mostbet-slots-turkiye.pro
-*.mostbet-slots.cc
 *.mostbet-slots.net
 *.mostbet-slots1.com
 *.mostbet-slots1.com.kz
@@ -499159,7 +499030,6 @@
 *.mostbet-stavk1.ru
 *.mostbet-stavka.ru
 *.mostbet-stavki-na-sport.com
-*.mostbet-stavki.online
 *.mostbet-stawki-graj.pl
 *.mostbet-store.com
 *.mostbet-story.com
@@ -503932,7 +503802,6 @@
 *.mrgreencasino.uk.com
 *.mrgreencasino.uk.net
 *.mrgreencasino.us.com
-*.mrgreencasino.win
 *.mrgreencasinoapp.online
 *.mrgreencasinoau.com
 *.mrgreencasinocanada-com-bln.pages.dev
@@ -503973,7 +503842,6 @@
 *.mrgreenlv.com
 *.mrgreenlv.lv
 *.mrgreenncasino.com
-*.mrgreenncasino.top
 *.mrgreennn.com
 *.mrgreenofficial.com
 *.mrgreenoy.com
@@ -506932,6 +506800,7 @@
 *.mx999casino.com
 *.mx99casino.com
 *.mx9bet.com
+*.mx9casino.com
 *.mxa360casino.com
 *.mxa7xcasino.com
 *.mxaaa7casino.com
@@ -509991,7 +509860,6 @@
 *.n78betxok88.pages.dev
 *.n78betxslot88.pages.dev
 *.n78slot-amp-gacor.pages.dev
-*.n79-casino.bet
 *.n7appslot.com
 *.n7clubcasino.com
 *.n7gamebet.com
@@ -522425,7 +522293,6 @@
 *.ninecasinoportugal-net-cu7.pages.dev
 *.ninecasinoportugal-net.pages.dev
 *.ninecasinoportugal.app
-*.ninecasinoportugal.click
 *.ninecasinoportugal.com
 *.ninecasinoportugal.net
 *.ninecasinoportugal.pages.dev
@@ -522506,7 +522373,6 @@
 *.ninecasinos1.es
 *.ninecasinos1.fr
 *.ninecasinos1.pl
-*.ninecasinos1.top
 *.ninecasinos1.uk
 *.ninecasinos2.com
 *.ninecasinos7.es
@@ -523824,7 +523690,6 @@
 *.nl-casino-b7-com.pages.dev
 *.nl-casino-b7.com
 *.nl-casino-buitenlandse.org
-*.nl-casino-igo.bet
 *.nl-casino-zonder-cruk-ink-fffbefcc.pages.dev
 *.nl-casino-zonder-cruk.ink
 *.nl-casino-zonder-cruks-brand-table-build-0e12768f.pages.dev
@@ -524018,7 +523883,6 @@
 *.nl-casino-zonder-cruks.nl
 *.nl-casino.org
 *.nl-casinob7-nl.pages.dev
-*.nl-casinoigo.bet
 *.nl-casinolab.com
 *.nl-casoola.nl
 *.nl-casoolacasino-org-1160.pages.dev
@@ -524152,7 +524016,6 @@
 *.nl-hommerson-casino.com
 *.nl-i24slotss.com
 *.nl-igobet.app
-*.nl-igobet.casino
 *.nl-igobet.com
 *.nl-impressario-casino.com
 *.nl-inkybet-com-3946-etc.pages.dev
@@ -529012,7 +528875,6 @@
 *.normcasino7.run
 *.normcasino7432.site
 *.normcasino8007.com
-*.normcasino8yn.team
 *.normcasinoo.online
 *.normcasinoru1.com
 *.normcasinoru24.com
@@ -530980,7 +530842,6 @@
 *.nuevos-casinos-online.es
 *.nuevos-casinos.es
 *.nuevos-casinosonline.com
-*.nuevoscasinoonline.org
 *.nuevoscasinos-ar.com
 *.nuevoscasinos-mx.com
 *.nuevoscasinos-xyz.pages.dev
@@ -537331,7 +537192,6 @@
 *.okfun-casino.de
 *.okfun-casino.ink
 *.okfun-casino.net
-*.okfun-casino.org
 *.okfun-casino.pages.dev
 *.okfun-casino.ph
 *.okfun899.com
@@ -540469,7 +540329,6 @@
 *.omotogel2.org
 *.omotogel2.xyz
 *.omotogellogin-format.pages.dev
-*.omotogellogin.com
 *.omototo-gaming.pages.dev
 *.omototo.club
 *.omototo.org
@@ -541728,7 +541587,6 @@
 *.onecasinos.org
 *.onecasinos.pl
 *.onecasinos1.com
-*.onecasinos1.top
 *.onecasinosbe.com
 *.onecasinoscanada.com
 *.onecasinose.com
@@ -541846,7 +541704,6 @@
 *.onepointdiagnostics-casino.pages.dev
 *.onepoker.ru
 *.onepoker.team
-*.onepokerclub.ru
 *.onepropainting-game-live-rtp.pages.dev
 *.onered-casino-co-uk-220.pages.dev
 *.onered-casino.co.uk
@@ -543755,7 +543612,6 @@
 *.online-slots-casino-gambling.com
 *.online-slots-casino.net
 *.online-slots-fast-payout-co-uk.pages.dev
-*.online-slots-fast-payout.co.uk
 *.online-slots-fast-withdrawal-co-uk.pages.dev
 *.online-slots-fast-withdrawal.co.uk
 *.online-slots-for-free.co.uk
@@ -544406,6 +544262,7 @@
 *.onlinecasino5sekstopfrei.de
 *.onlinecasino66.org
 *.onlinecasino666.com
+*.onlinecasino673.space
 *.onlinecasino777-australia.com
 *.onlinecasino7777.com
 *.onlinecasino777l.com
@@ -544745,7 +544602,6 @@
 *.onlinecasinocasino.pages.dev
 *.onlinecasinocasinod-fit.pages.dev
 *.onlinecasinocasinod.casino
-*.onlinecasinocasinod.fit
 *.onlinecasinocasinos.co.uk
 *.onlinecasinocasinosguide.com
 *.onlinecasinocasinoshub.com
@@ -545317,7 +545173,6 @@
 *.onlinecasinolegends.nl
 *.onlinecasinolegionbet.uk
 *.onlinecasinolegit.click
-*.onlinecasinolegit.ph
 *.onlinecasinolesson.com
 *.onlinecasinolessons.com
 *.onlinecasinoliberia.com
@@ -545693,7 +545548,6 @@
 *.onlinecasinoohneverifizierung24.de
 *.onlinecasinoohneverifizierungbonus.de
 *.onlinecasinoohneverifizierungcasinod-fit.pages.dev
-*.onlinecasinoohneverifizierungcasinod.fit
 *.onlinecasinoohneverifizierungexperte.de
 *.onlinecasinoohneverifizierungfree.de
 *.onlinecasinoohneverifizierunggewinn.de
@@ -546185,7 +546039,6 @@
 *.onlinecasinoscanadian.ca
 *.onlinecasinoscanadian.com
 *.onlinecasinoscasinod-fit.pages.dev
-*.onlinecasinoscasinod.fit
 *.onlinecasinoschamp.com
 *.onlinecasinoscheck.com
 *.onlinecasinoschnelleauszahlung.at
@@ -550194,7 +550047,6 @@
 *.oricasino3.xyz
 *.oricasino4.com
 *.oricasino88.net
-*.oricasinoads.com
 *.oricasinoku.com
 *.oricasinospin.com
 *.orient-express-casino.de
@@ -551688,7 +551540,6 @@
 *.ottocasino.online
 *.ottocasino.se.net
 *.ottocasino1.com
-*.ottocasino1.top
 *.ottocasinofi.com
 *.ottocasinofin.com
 *.ottocasinoonline.com
@@ -552681,7 +552532,6 @@
 *.ozwin777-au.pages.dev
 *.ozwin96-au.com
 *.ozwinaucasino.com
-*.ozwinaucasino.top
 *.ozwinaustraliacasino.com
 *.ozwinbet-net.pages.dev
 *.ozwinbet.com
@@ -556095,6 +555945,7 @@
 *.pandacasinoonline.com
 *.pandacasinoq.ru
 *.pandacasinor.top
+*.pandacasinoru.com
 *.pandacasinos.top
 *.pandacasinoslot.bet
 *.pandacasinoslots.buzz
@@ -559094,7 +558945,6 @@
 *.partouchecasino.one
 *.partouchecasinoclub.com
 *.partouchecasinos.be
-*.partouchecasinos.net
 *.partoucheonline-casino-fr.com
 *.partoucheonlinecasino-fr.com
 *.partouchesport-casino-fr.com
@@ -559135,7 +558985,6 @@
 *.party-casino.irish
 *.party-casino.nz
 *.party-casino.online
-*.party-casino.org
 *.party-casino.ro
 *.party-casino.uk
 *.party-casino362.com
@@ -559495,6 +559344,7 @@
 *.pasacasinomain.com
 *.pasacasinomobil.app
 *.pasacasinomobil2026.cam
+*.pasacasinomobilgiris.com
 *.pasacasinoresmi2026.cam
 *.pasacasinoresmigiris.icu
 *.pasacasinos.info
@@ -565986,6 +565836,7 @@
 *.pgslotgameeasy.pages.dev
 *.pgslotgameonline.co
 *.pgslotgamer.co
+*.pgslotgamer.com
 *.pgslotgames.asia
 *.pgslotgames.co
 *.pgslotgames.pages.dev
@@ -567009,6 +566860,7 @@
 *.ph8cashcom.com
 *.ph8casino.com
 *.ph8casino.com.ph
+*.ph8casino.onl
 *.ph8casino.org
 *.ph8casino.ph
 *.ph8k8slotcasino.ph
@@ -569571,6 +569423,7 @@
 *.piabellacasinogir.net
 *.piabellacasinogir.org
 *.piabellacasinogiris.site
+*.piabellacasinogirisi.com
 *.piabellacasinogirisi.online
 *.piabellacasinogunceladres-2026.icu
 *.piabellacasinoguncelegir-2026.icu
@@ -572142,7 +571995,6 @@
 *.pinco-casino1.it.com
 *.pinco-casino1.net
 *.pinco-casino121.com
-*.pinco-casino1611sa.fun
 *.pinco-casino2025.link
 *.pinco-casino2025.ru
 *.pinco-casino2026-azerbaijan.com
@@ -572194,7 +572046,6 @@
 *.pinco-casinos.ink
 *.pinco-casinos.org.kz
 *.pinco-casinos2026.com
-*.pinco-casinosa.fun
 *.pinco-casinotr.com
 *.pinco-casinouz.top
 *.pinco-casinouzbekistan.top
@@ -573608,7 +573459,6 @@
 *.pinco79v.win
 *.pinco8.ca
 *.pinco8.ink
-*.pinco808.casino
 *.pinco808.win
 *.pinco809.com
 *.pinco809.win
@@ -573983,7 +573833,6 @@
 *.pincocasinos.ru
 *.pincocasinos.tj
 *.pincocasinos2026.com
-*.pincocasinosa.fun
 *.pincocasinosite.com
 *.pincocasinosite.ru
 *.pincocasinoskachat.com
@@ -578814,6 +578663,7 @@
 *.pix992bet.com
 *.pix996bet.com
 *.pix999bet.com.br
+*.pix999bets.com
 *.pix9bet99.com
 *.pixbet-9.com
 *.pixbet-al.com
@@ -580633,7 +580483,6 @@
 *.platincasino-at.eu.com
 *.platincasino-aud.com
 *.platincasino-auszahlung.de
-*.platincasino-bonus.de
 *.platincasino-ca.com
 *.platincasino-canada.com
 *.platincasino-casino-nz.com
@@ -583832,6 +583681,7 @@
 *.playerzcasino.uk.com
 *.playethereumcasino.com
 *.playeuropacasino.net
+*.playevocasino.app
 *.playexch.bet
 *.playexch.co.in
 *.playexch.com.co
@@ -584172,7 +584022,6 @@
 *.playfortunacasinorub.buzz
 *.playfortunacasinos.net
 *.playfortunacasinos.ru
-*.playfortunacasinos.top
 *.playfortunacasinotop.pro
 *.playfortunacasinowow.ru
 *.playfortunacazino.su
@@ -585193,7 +585042,6 @@
 *.playmorospin.de
 *.playmorospin.it
 *.playmorospin.pl
-*.playmostbet.casino
 *.playmotorcasino.website
 *.playmozartcasino-com.pages.dev
 *.playmozartcasino.com
@@ -585418,6 +585266,7 @@
 *.playonlinecasinos.co.nz
 *.playonlinecasinos.com
 *.playonlinecasinos.us.com
+*.playonlinecasinoww.com
 *.playonlinecasinoww.pages.dev
 *.playonlinefreepokernow.com
 *.playonlinegoldcasino.com
@@ -586501,7 +586350,6 @@
 *.playuzus.com
 *.playuzutiradas-com-mx.pages.dev
 *.playuzutiradas.com.mx
-*.playvavada.casino
 *.playvavada.com
 *.playvavada.net
 *.playvegazcasino.com
@@ -590503,7 +590351,6 @@
 *.pokerdomcasino-dk.eu.com
 *.pokerdomcasino-kz-com.pages.dev
 *.pokerdomcasino-kz.com
-*.pokerdomcasino-login.global
 *.pokerdomcasino-login.run
 *.pokerdomcasino-opp.online
 *.pokerdomcasino-opp.ru
@@ -591306,6 +591153,7 @@
 *.pokerkiu.net
 *.pokerkiukiu.top
 *.pokerkiukiu9.com
+*.pokerklas-2026.vip
 *.pokerklas-giris.homes
 *.pokerklas-gunceladres.co
 *.pokerklas-hizli-tr-giris.icu
@@ -591361,6 +591209,7 @@
 *.pokerklasrehber.com
 *.pokerklass-resmigiris.icu
 *.pokerklass.net
+*.pokerklassgiris.site
 *.pokerklastr.org
 *.pokerklastv.com
 *.pokerklasx.com
@@ -602554,7 +602403,6 @@
 *.prismcasino.org.mx
 *.prismcasino.uk
 *.prismcasino.uy
-*.prismcasino1.com
 *.prismcasino7.com
 *.prismcasinoaus.com
 *.prismcasinobonus.com
@@ -602623,6 +602471,7 @@
 *.privatecasino.co.uk
 *.privatecasino.fr
 *.privatecasino.me.uk
+*.privatecasinojogos.com
 *.privatelabelcasinoparty.com
 *.privatepoker.club
 *.privatepokerproject.com
@@ -613139,7 +612988,6 @@
 *.rajabandot.ws
 *.rajabandot.xyz
 *.rajabandot000.com
-*.rajabandot005jp.lol
 *.rajabandot008jepe.site
 *.rajabandot009jepe.site
 *.rajabandot01.pages.dev
@@ -613626,7 +613474,6 @@
 *.rajabandott.net
 *.rajabandottergacor.pages.dev
 *.rajabandotthegioibilliards.pages.dev
-*.rajabandottm.sbs
 *.rajabandottn.website
 *.rajabandottogel.app
 *.rajabandottogel.bet
@@ -618372,7 +618219,6 @@
 *.rbslotcc.sbs
 *.rbslotgacor.pages.dev
 *.rbt88-gacor-pasti-maxwin88.pages.dev
-*.rbtcasino.org
 *.rbtvtoto.org
 *.rbwinbuz11.vip
 *.rbxbet.net
@@ -624490,7 +624336,6 @@
 *.richardcasinogermany.com
 *.richardcasinolegit.com
 *.richardcasinologin.com
-*.richardcasinologinapp.com
 *.richardcasinologinapp.pages.dev
 *.richardcasinoofficial.net
 *.richardcasinoofficial.org
@@ -626054,7 +625899,6 @@
 *.riobet-10.net
 *.riobet-10.top
 *.riobet-10.world
-*.riobet-100zone.ru
 *.riobet-141.ru
 *.riobet-142.top
 *.riobet-15.co
@@ -626094,7 +625938,6 @@
 *.riobet-244.top
 *.riobet-246.top
 *.riobet-24allow.com
-*.riobet-24link.ru
 *.riobet-250.buzz
 *.riobet-250.today
 *.riobet-251.com
@@ -626113,14 +625956,10 @@
 *.riobet-620.top
 *.riobet-654.top
 *.riobet-750.top
-*.riobet-777-key.ru
-*.riobet-777key.ru
 *.riobet-781.top
 *.riobet-7k-7k-13-buzz.pages.dev
 *.riobet-808.top
 *.riobet-869.top
-*.riobet-888-key.ru
-*.riobet-888link.ru
 *.riobet-934.top
 *.riobet-9700-buzz.pages.dev
 *.riobet-aa195.top
@@ -626579,7 +626418,6 @@
 *.riobet-gcp.top
 *.riobet-ggh.top
 *.riobet-gina.run
-*.riobet-goc.top
 *.riobet-gpc.top
 *.riobet-gru300.top
 *.riobet-gts.top
@@ -626679,7 +626517,6 @@
 *.riobet-play8.online
 *.riobet-play9.top
 *.riobet-promocod.icu
-*.riobet-pulse.ru
 *.riobet-qao.top
 *.riobet-qik.top
 *.riobet-qju.online
@@ -626689,7 +626526,6 @@
 *.riobet-rdh.top
 *.riobet-review.online
 *.riobet-rmb.top
-*.riobet-royal.ru
 *.riobet-rue.top
 *.riobet-ruk.top
 *.riobet-rwf.top
@@ -626729,7 +626565,6 @@
 *.riobet-top-kasino.online
 *.riobet-top.fun
 *.riobet-topplay.ru
-*.riobet-tut.ru
 *.riobet-twp.top
 *.riobet-u1.top
 *.riobet-ugy.top
@@ -626768,7 +626603,6 @@
 *.riobet-zerkalo.biz
 *.riobet-zerkalo.run
 *.riobet-zerkalo.world
-*.riobet-zone24.ru
 *.riobet-zqd.top
 *.riobet.baby
 *.riobet.ca
@@ -626864,8 +626698,6 @@
 *.riobet230.org
 *.riobet230.today
 *.riobet230.world
-*.riobet24-login.ru
-*.riobet24-vhod.ru
 *.riobet250.top
 *.riobet26casino.online
 *.riobet26casino.ru
@@ -628665,7 +628497,6 @@
 *.ritzo-casino-at.at
 *.ritzo-casino-at.com
 *.ritzo-casino-at.eu.com
-*.ritzo-casino-au.com
 *.ritzo-casino-bet.gr
 *.ritzo-casino-bonus-ceska.com
 *.ritzo-casino-bonus-cz.com
@@ -629062,7 +628893,6 @@
 *.riverratspokerclub.com
 *.riverrockcasino-canada.com
 *.riverrockcasino.ca
-*.riverrockcasino.guru
 *.riverrockcasino.net
 *.riverrockcasino.us.com
 *.riverrockcasinoresort.ca
@@ -633436,7 +633266,6 @@
 *.rollacasino.fi
 *.rollacasino.uk
 *.rollacasino.us.com
-*.rollacasino.vip
 *.rollacasino1.ca
 *.rollacasinocanada.com
 *.rollacasinok.com
@@ -635696,7 +635525,6 @@
 *.roobet-casino-pe.com
 *.roobet-casino-us.pages.dev
 *.roobet-casino.at
-*.roobet-casino.bond
 *.roobet-casino.ch
 *.roobet-casino.cl
 *.roobet-casino.co
@@ -638286,6 +638114,7 @@
 *.rosecasino.nl
 *.rosecasino.nz
 *.rosecasino.online
+*.rosecasino.org
 *.rosecasino.si
 *.rosecasino.uk
 *.rosecasino.uk.com
@@ -639731,6 +639560,7 @@
 *.royalbetzone.us
 *.royalblackjackcrewmax.com
 *.royalbolacasino88.com
+*.royalbreezecasino.com
 *.royalbritcasino.com
 *.royalcashbet.com
 *.royalcasino-1-biz-0ac106ae.pages.dev
@@ -639897,7 +639727,6 @@
 *.royalcasinogaming.com
 *.royalcasinogdansk-com.pages.dev
 *.royalcasinogdansk.com
-*.royalcasinogiris.net
 *.royalcasinoguide.com
 *.royalcasinohire.co.uk
 *.royalcasinohotel.de.com
@@ -644859,7 +644688,6 @@
 *.rtpking22.com
 *.rtpkingarta.xyz
 *.rtpkingdomtoto1.pages.dev
-*.rtpkingdomtotogame.info
 *.rtpkingkoi88.best
 *.rtpkings128.sbs
 *.rtpkings128.xyz
@@ -645905,7 +645733,6 @@
 *.rtpslotmedalitogel.pages.dev
 *.rtpslotmegahoki88.xyz
 *.rtpslotmejahoki.cfd
-*.rtpslotmitosbet88.net
 *.rtpslotmix.pages.dev
 *.rtpslotmonggowin714.com
 *.rtpslotmonperanew.site
@@ -651507,7 +651334,6 @@
 *.sari4d-linkslotgacor.pages.dev
 *.sari4d-situs-slotmain.pages.dev
 *.saribet-info.pages.dev
-*.saricasino.top
 *.sarilingcasinologin.com
 *.sarimitogeljuxp.pages.dev
 *.sarjana33-slotmagicx.pages.dev
@@ -659394,6 +659220,7 @@
 *.shakes-bet-nl.pages.dev
 *.shakespeare-casinos.pages.dev
 *.shakespearecasino.com
+*.shakiracasino.com
 *.shakysky.life
 *.shalanovcasinogr.com
 *.shalecasino.com
@@ -664453,7 +664280,6 @@
 *.situs-slot-4d-gacor-gampang-menang.pages.dev
 *.situs-slot-777-gacor.pages.dev
 *.situs-slot-aman-zototonet.pages.dev
-*.situs-slot-aman.net
 *.situs-slot-amanah.pages.dev
 *.situs-slot-amerika.pages.dev
 *.situs-slot-bandartogel.pages.dev
@@ -664649,7 +664475,6 @@
 *.situs-slot-mudah-maxwin-di-jamin-anti-rungkad-terbaik-2024.pages.dev
 *.situs-slot-mudah-maxwin-minimal-depo-5000-terbaik-2024.pages.dev
 *.situs-slot-mudah-maxwin-minimal-depo-5000.pages.dev
-*.situs-slot-nusantara.com
 *.situs-slot-online-gacor-coloksgp.pages.dev
 *.situs-slot-online-gacor-hari-ini.pages.dev
 *.situs-slot-online-gacor.pages.dev
@@ -664683,7 +664508,6 @@
 *.situs-slot-sultan.pages.dev
 *.situs-slot-terbaik-vs6.pages.dev
 *.situs-slot-terbaru-gacor.pages.dev
-*.situs-slot-terbaru.net
 *.situs-slot-terbaru.pages.dev
 *.situs-slot-terpercaya-bigwin889org.pages.dev
 *.situs-slot-thailand-d8z.pages.dev
@@ -665080,11 +664904,13 @@
 *.situscasino88.pages.dev
 *.situscasino99.com
 *.situscasinocuan.co
+*.situscasinofavorit.com
 *.situscasinoindonesia.pages.dev
 *.situscasinolengkap.com
 *.situscasinomurah.pages.dev
 *.situscasinoo.pages.dev
 *.situscasinoonline.net
+*.situscasinoresmi.com
 *.situscasinoterbaik-pausslot.pages.dev
 *.situscasinoterbaik.com
 *.situscasinoterpercaya.co
@@ -666284,7 +666110,7 @@
 *.situsslotsonline.com
 *.situsslotspaceman.com
 *.situsslotspaceman.pages.dev
-*.situsslotstars77.club
+*.situsslotspingratis.com
 *.situsslott-loginego.pages.dev
 *.situsslott-onlinelogin.pages.dev
 *.situsslott.com
@@ -686781,7 +686607,6 @@
 *.slotrtp138.net
 *.slotrtp138.org
 *.slotrtp138.pages.dev
-*.slotrtp24jam.com
 *.slotrtp2amp.pages.dev
 *.slotrtp3amp.pages.dev
 *.slotrtp4amp.pages.dev
@@ -689121,6 +688946,7 @@
 *.slotsgemspielen.de
 *.slotsgemspl.pl
 *.slotsgemsweden.com
+*.slotsgemsweden.org
 *.slotsgemviptransfer.com
 *.slotsgemz.es
 *.slotsgemz.pl
@@ -690082,6 +689908,7 @@
 *.slotsonlinesite.com
 *.slotsonlinesites.com
 *.slotsonlineslots.com
+*.slotsonlinesolutions.com
 *.slotsonlinespelen.nl
 *.slotsonlinespielen.at
 *.slotsonlineterpercaya.pages.dev
@@ -707398,7 +707225,6 @@
 *.spindogcasinoofficial.com
 *.spindogcasinoonline.com
 *.spindogcasinoonline.nl
-*.spindogcasinoonline.uk
 *.spindogcasinos-uk.com
 *.spindogcasinos.de
 *.spindogcasinos.net
@@ -707924,7 +707750,6 @@
 *.spinformulacasino-me-uk.pages.dev
 *.spinformulacasino.co.uk
 *.spinformulacasino.me.uk
-*.spinformulacasino.onl
 *.spinformulacasino.org
 *.spinformulacasino.org.uk
 *.spinformulacasino.uk.com
@@ -709275,7 +709100,6 @@
 *.spinit-casinopl-com.pages.dev
 *.spinit-casinos-au.com
 *.spinit-casinos-cz.com
-*.spinit-casinos.com
 *.spinit-de-casino.com
 *.spinit-kasino.com
 *.spinit-kasinos.com
@@ -722297,7 +722121,6 @@
 *.stars138slot-sylven-zone.pages.dev
 *.stars138slotmegaprime.pages.dev
 *.stars33-slotpremium.pages.dev
-*.stars77-maxwin.xyz
 *.stars77777win.site
 *.stars7778824win.site
 *.stars7778825win.site
@@ -732014,6 +731837,7 @@
 *.swisscasinohex.com
 *.swisscasinolegal.com
 *.swisscasinoliste.com
+*.swisscasinonline.com
 *.swisscasinoonline.eu
 *.swisscasinoonline.net
 *.swisscasinos-ch.com
@@ -733616,8 +733440,6 @@
 *.taka999bet.app
 *.taka999bet.pro
 *.takaalliancecasino.com
-*.takabajicasino.online
-*.takabajicasino.site
 *.takabet-casino-bd.com
 *.takabet.bar
 *.takabet.best
@@ -735369,9 +735191,6 @@
 *.tb777game.pro
 *.tb777games.com
 *.tba0.com
-*.tbajeecasino.online
-*.tbajeecasino.site
-*.tbajeecasino.space
 *.tbankcasino.ru
 *.tbdgenc-cukongbetlo.pages.dev
 *.tbet-casino.com
@@ -738088,7 +737907,6 @@
 *.testrtpug.pages.dev
 *.tests-desicasinos-net.pages.dev
 *.testsiegercasino.pages.dev
-*.testsiegercasino.sbs
 *.testtesttest.fun
 *.testtogelonline.site
 *.tesuz.cz
@@ -739817,7 +739635,6 @@
 *.thecasinov.com
 *.thecasinova.es
 *.thecasinovauk.com
-*.thecasinowatch.top
 *.thecasinowin.com
 *.thecasinowin.pages.dev
 *.thecasinowinners.com
@@ -741626,7 +741443,6 @@
 *.theroyalcasino.com.pk
 *.theroyalecasino.co.uk
 *.theroyalreelscasino.com
-*.theroyalreelscasino.top
 *.theroyalreelsplay.com
 *.theroyalxcasino.com.pk
 *.theroyalxcasino.net.pk
@@ -743013,8 +742829,6 @@
 *.thunderstruck2casino.ca
 *.thunderstruckslots.co.uk
 *.thunderstruckslotsreview.com
-*.thundervalley-casino.live
-*.thundervalley-casino.top
 *.thunderwincasino.com
 *.thunderwinholdandwin-com-b9be7a7f.pages.dev
 *.thunderwinholdandwin.com
@@ -746946,7 +746760,6 @@
 *.togelcasino.blog
 *.togelcasino.org
 *.togelcasino.site
-*.togelcasino138.com
 *.togelcasino2.pages.dev
 *.togelcasino2431.pages.dev
 *.togelcasinoampweb.pages.dev
@@ -747095,7 +746908,6 @@
 *.togeljpwin.com
 *.togeljudi4d.com
 *.togeljudionline.com
-*.togeljupiter.com
 *.togeljuragan.pages.dev
 *.togelkilat.com
 *.togelkilatcomcom-taman-scatter.pages.dev
@@ -747125,7 +746937,6 @@
 *.togelon-situs-resmi.pages.dev
 *.togelon139org-aplikasi-casino.pages.dev
 *.togelonline-totoslot4d.pages.dev
-*.togelonline77slotgacor.homes
 *.togelonline77slots.cyou
 *.togelonline88casino.com
 *.togelonline88jekpot-15-seokambeng.pages.dev
@@ -751587,6 +751398,7 @@
 *.topdanmarkcasinoson.com
 *.topdanskcasinos.com
 *.topdata-macau.pages.dev
+*.topdawgcasino.top
 *.topdeckcasino.com
 *.topdemncasino.com
 *.topdemncasinos.com
@@ -753465,7 +753277,6 @@
 *.totecasino.uk.com
 *.totecasino.uk.net
 *.totecasino.us.com
-*.totecasino.vip
 *.totecasino1.com
 *.totecasinoonline.co.uk
 *.totecasinos-uk.com
@@ -756251,7 +756062,6 @@
 *.towercasino1.com
 *.towercasino1.fr
 *.towercasino2.nl
-*.towercasinode.org
 *.towercasinos-at-88ed00a0.pages.dev
 *.towercasinos-de-962b59f0.pages.dev
 *.towercasinos-it-c5972600.pages.dev
@@ -756420,7 +756230,6 @@
 *.toxi-casino.com
 *.toxi-casino.net
 *.toxi-casino.nl
-*.toxi-casino.org
 *.toxi-casino1-toxicasino1-de-com-5f70248f.pages.dev
 *.toxi-casino2-toxicasinoonline-de-3a9c9aac.pages.dev
 *.toxi-casino4-toxicasino-ink-9ce3b1e9.pages.dev
@@ -761423,7 +761232,6 @@
 *.turbo-casino142.gg
 *.turbo-casinobet.buzz
 *.turbo-casinoha.top
-*.turbo-casinoi.top
 *.turbo-casinopot.top
 *.turbo-casinos.buzz
 *.turbo-casinos.top
@@ -761520,7 +761328,6 @@
 *.turbocasino.org.pl
 *.turbocasino.org.ru
 *.turbocasino.pl
-*.turbocasino.team
 *.turbocasino.tech
 *.turbocasino.website
 *.turbocasino1.nl
@@ -766031,7 +765838,6 @@
 *.ukcasinocompare.site
 *.ukcasinocompares.com
 *.ukcasinocompass.co.uk
-*.ukcasinodigest.co
 *.ukcasinodirect.com
 *.ukcasinoexperts.site
 *.ukcasinofeed.site
@@ -770159,7 +769965,6 @@
 *.usahalaundry-svip.pages.dev
 *.usahapoker10.com
 *.usahaprediksi-angkajitu.pages.dev
-*.usahaprediksi-angkajitu.sbs
 *.usahaprediksi-hklotto.org
 *.usahaprediksi-hklotto.pages.dev
 *.usahaprediksi-magnum4d.com
@@ -770168,7 +769973,6 @@
 *.usahaprediksi-sdylottoxyz.pages.dev
 *.usahaprediksi-sgp.com
 *.usahaprediksi-sgpjitu.com
-*.usahaprediksi-syairjitu.cfd
 *.usahaprediksi-toto.forum
 *.usahaprediksi.pages.dev
 *.usahaprediksi188-josschristmas.pages.dev
@@ -770361,6 +770165,7 @@
 *.usdtethercasinos.com
 *.usdtscasino.com
 *.usdttethercasino.com
+*.usdttethercasinos.com
 *.usdtxcasino.com
 *.use-jakartabetting69.pages.dev
 *.use-my-wallet-casino.com
@@ -773599,7 +773404,6 @@
 *.vavada-casino-officiall.com
 *.vavada-casino-oficcial-site.com
 *.vavada-casino-oficcial-site.net
-*.vavada-casino-oficcial-site.org
 *.vavada-casino-oficjalny.pl
 *.vavada-casino-on1.ru
 *.vavada-casino-online.co
@@ -773825,7 +773629,6 @@
 *.vavada-casino14.xyz
 *.vavada-casino16.buzz
 *.vavada-casino16.site
-*.vavada-casino1611sa.fun
 *.vavada-casino17.pages.dev
 *.vavada-casino17.site
 *.vavada-casino18.site
@@ -773879,7 +773682,6 @@
 *.vavada-casinos.net
 *.vavada-casinos.net.pl
 *.vavada-casinos.org.pl
-*.vavada-casinosa.fun
 *.vavada-casinovip-com.pages.dev
 *.vavada-cassino-amp.one
 *.vavada-cassino.com
@@ -777143,7 +776945,6 @@
 *.vavadaa-1-ink-41e98116.pages.dev
 *.vavadaa-amp-casino.com
 *.vavadaa-casino-pl.radio.fm
-*.vavadaa-casino.casino
 *.vavadaa-casino.cc
 *.vavadaa-casino.it.com
 *.vavadaa-click-3b06457f.pages.dev
@@ -777686,7 +777487,6 @@
 *.vavadacasinos.de
 *.vavadacasinos.info.pl
 *.vavadacasinos.pl
-*.vavadacasinosa.fun
 *.vavadacasinose.com
 *.vavadacasinosite.com
 *.vavadacasinosite.ru
@@ -779362,7 +779162,6 @@
 *.vavadatren.com
 *.vavadatrg48.top
 *.vavadatrk.com
-*.vavadatrp.com
 *.vavadatru.com
 *.vavadatrx.com
 *.vavadatrx7.com
@@ -781100,6 +780899,7 @@
 *.vegas79vip.com
 *.vegas79win.com
 *.vegas7casino.co.uk
+*.vegas7gamecasino.com
 *.vegas7gamescasino.com
 *.vegas805slot.com
 *.vegas805slot.net
@@ -781182,7 +780982,6 @@
 *.vegascasino.com.ro
 *.vegascasino.com.se
 *.vegascasino.com.ua
-*.vegascasino.cx
 *.vegascasino.de.com
 *.vegascasino.dk
 *.vegascasino.es
@@ -781622,7 +781421,6 @@
 *.vegasherocasinohubnl.com
 *.vegasherocasinoitalia.it
 *.vegasherocasinokasyno.pages.dev
-*.vegasherocasinologin.com
 *.vegasherocasinologin.pages.dev
 *.vegasherocasinonederland-com.pages.dev
 *.vegasherocasinonederland.com
@@ -782489,6 +782287,7 @@
 *.vegasnovacasino-de.com
 *.vegasnovacasino-de.de
 *.vegasnovacasino.at
+*.vegasnovacasino.bet
 *.vegasnovacasino.co.com
 *.vegasnovacasino.co.uk
 *.vegasnovacasino.com
@@ -784562,7 +784361,6 @@
 *.venusbetnews.com
 *.venusbets.org
 *.venusbetslot.net
-*.venusbettoto.online
 *.venusbettvzirvestr.pages.dev
 *.venusbetwap.net
 *.venusbetyek.com
@@ -785394,7 +785192,6 @@
 *.verdecasinode.eu.com
 *.verdecasinode.net
 *.verdecasinode.org
-*.verdecasinode.top
 *.verdecasinodecom.pages.dev
 *.verdecasinodeutsch-de-b68ad629.pages.dev
 *.verdecasinodeutsch.de
@@ -788263,7 +788060,6 @@
 *.vindercasino.net
 *.vindercasino.org
 *.vindercasino1.com
-*.vindercasino1.top
 *.vindercasinocasino.co.uk
 *.vindercasinos.com
 *.vindercasinose.com
@@ -789100,6 +788896,7 @@
 *.vip555slotterbaik.pages.dev
 *.vip55betfirst.cc
 *.vip567casino.com
+*.vip599bets.com
 *.vip666casinovip.com
 *.vip666kubet.com
 *.vip66casinobet.com
@@ -793010,7 +792807,6 @@
 *.vodka-casino-yd0.ru
 *.vodka-casino-zerkalo2.com
 *.vodka-casino-zm37.online
-*.vodka-casino.biz
 *.vodka-casino.bond
 *.vodka-casino.buzz
 *.vodka-casino.cc
@@ -793231,7 +793027,6 @@
 *.vodka-winrf.cc
 *.vodka.icu
 *.vodka128net-rtp-maxwin.pages.dev
-*.vodka16casino2.buzz
 *.vodka188-laksana-slot.pages.dev
 *.vodka188slotstellar.pages.dev
 *.vodka189-elit-vip-akses.pages.dev
@@ -793411,6 +793206,7 @@
 *.vodkacasino852.cc
 *.vodkacasino871.online
 *.vodkacasino8e3.click
+*.vodkacasino8ef.com
 *.vodkacasino9.skin
 *.vodkacasino9136.casino
 *.vodkacasino936.cc
@@ -793991,7 +793787,6 @@
 *.voltcasinos.de
 *.voltcasinos.net
 *.voltcasinoutansvensklicens.com
-*.volto789-bet.org
 *.voltrixcasino.cz
 *.voltrixcasino.de
 *.voltrixcasino.fr
@@ -794403,7 +794198,6 @@
 *.vot-germany-rokokbet.pages.dev
 *.vot-germany-waktogel.pages.dev
 *.vot-germany-ziatogel.pages.dev
-*.votdkacasino.casino
 *.votdkacasino.com
 *.vote-casinocoin.com
 *.votecasino.com
@@ -796498,7 +796292,6 @@
 *.vulkanbetcasino.ca
 *.vulkanbetcasino.co.at
 *.vulkanbetcasino.co.uk
-*.vulkanbetcasino.gr
 *.vulkanbetcasino.net
 *.vulkanbetcasino.org
 *.vulkanbetcasino.pe
@@ -796655,7 +796448,6 @@
 *.vulkanplatinum-casino.pages.dev
 *.vulkanplatinum-casino.today
 *.vulkanplatinum-casino.world
-*.vulkanplatinum-casinos.top
 *.vulkanplatinum-site.com
 *.vulkanplatinum-slots.net
 *.vulkanplatinum-slots.org
@@ -798737,9 +798529,6 @@
 *.wagibet-casino-win.pages.dev
 *.wagibet-casino.bet
 *.wagibet-casino.win
-*.wagibet-online.icu
-*.wagibet-online.lat
-*.wagibet-online.rest
 *.wagibet-partners-1cn.pages.dev
 *.wagibet-partners-stage-31o.pages.dev
 *.wagibet.bet
@@ -801939,6 +801728,7 @@
 *.websiteinfo.ch
 *.websitejudibolaonlineterpercay.com
 *.websitejudicasino.com
+*.websitejudionline.net
 *.websitekudaemas88.com
 *.websitenewslot88.com
 *.websiteoperatoto.pages.dev
@@ -809499,6 +809289,7 @@
 *.winbaykazino-gr.com
 *.winbayscasino.com
 *.winbaywin.es
+*.winbcasino.com
 *.winbdbet.casino
 *.winbdbet.org
 *.winbdbet.pro
@@ -811852,7 +811643,6 @@
 *.wincleo-casino.pages.dev
 *.wincleo-casino.uk
 *.wincleo-nl-org-6531.pages.dev
-*.wincleo-nl.org
 *.wincleo.blog
 *.wincleo.casino
 *.wincleo.co.nl
@@ -812450,7 +812240,6 @@
 *.wingagacasinocz.com
 *.wingagacasinode-com.pages.dev
 *.wingagacasinode.com
-*.wingagacasinode.org
 *.wingagacasinoes-com.pages.dev
 *.wingagacasinoes.com
 *.wingagacasinofi-com.pages.dev
@@ -824287,6 +824076,7 @@
 *.woocasinosau.org
 *.woocasinose.com
 *.woocasinoslots.com
+*.woocasinosonline.com
 *.woocasinoswiss-net.pages.dev
 *.woocasinoswiss.net
 *.woocasinowin.com
@@ -824504,7 +824294,6 @@
 *.world-casino-sk.com
 *.world-casino.ca
 *.world-casino.co.za
-*.world-casino.ink
 *.world-casino.pages.dev
 *.world-cup-apigacor88.pages.dev
 *.world-cup-betting.pages.dev
@@ -825434,8 +825223,6 @@
 *.wtobet-partner.pages.dev
 *.wtobet-situs-favorit-slot-gacor-hari-ini.pages.dev
 *.wtobet-situs-slot88-dan-slot777-pasti-menang.pages.dev
-*.wtobet.bar
-*.wtobet.bid
 *.wtobet.buzz
 *.wtobet.com.co
 *.wtobet.ltd
@@ -825475,15 +825262,11 @@
 *.wtobet9.pages.dev
 *.wtobetalternatif.club
 *.wtobetaxix.lol
-*.wtobetbet.cam
 *.wtobetbet.chat
 *.wtobetbet.cheap
 *.wtobetbet.cool
 *.wtobetbet.credit
-*.wtobetbet.gold
 *.wtobetbet.ing
-*.wtobetbet.kim
-*.wtobetbet.vin
 *.wtobetbet.wine
 *.wtobetbonusan30k.cyou
 *.wtobetbonuss30ribu.cyou
@@ -828186,7 +827969,6 @@
 *.xbet-games.vip
 *.xbet-ios.com
 *.xbet-kz.com
-*.xbet-loto.site
 *.xbet-partner.com
 *.xbet-philippines.com
 *.xbet-registration.com
@@ -830909,7 +830691,6 @@
 *.yapokercasino.co.uk
 *.yapsodycasino.com
 *.yard-casino.buzz
-*.yard-casino.casino
 *.yard-casino.top
 *.yard-cazino.skin
 *.yard-cazino.xyz
@@ -831227,7 +831008,6 @@
 *.ybetscasino.uk.com
 *.ybetscasino1.de
 *.ybetscasino1.nl
-*.ybetscasinode.org
 *.ybetscasinofr.shop
 *.ybetscasinohubde.com
 *.ybetscasinologin.pl
@@ -831308,7 +831088,6 @@
 *.yebocasino.de
 *.yebocasino.es
 *.yebocasino.kiwi
-*.yebocasino.live
 *.yebocasino.mx
 *.yebocasino.net.za
 *.yebocasino.nl
@@ -833525,6 +833304,7 @@
 *.yp4casino.com
 *.ypcibalikpapan.org
 *.ypcijakarta-pusat.org
+*.yppbets.com
 *.yppslot.com
 *.yrityksestamixslotnew.pages.dev
 *.yrlcasino.com
@@ -837130,7 +836910,6 @@
 *.zoccer-casino.es
 *.zoccer-casino.fi
 *.zoccer-casino.fr
-*.zoccer-casino.gr
 *.zoccer-casino.hu.net
 *.zoccer-casino.it
 *.zoccer-casino.nl
@@ -837395,7 +837174,6 @@
 *.zoccercasino3-it.pages.dev
 *.zoccercasinoca.com
 *.zoccercasinode.com
-*.zoccercasinode.org
 *.zoccercasinoonline.it
 *.zoccercasinos-at-at-55cd08a8.pages.dev
 *.zoccercasinos-at-c154a27c.pages.dev
@@ -838521,6 +838299,7 @@
 *.zoomacasino356.buzz
 *.zoomacasino491.sbs
 *.zoomacasino5.tech
+*.zoomacasino6bz.com
 *.zoomacasino72.pro
 *.zoomacasino77.ru
 *.zoomacasino8nw.com
