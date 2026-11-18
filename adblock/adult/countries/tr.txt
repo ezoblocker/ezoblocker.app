@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Türkiye (tr)
-! Domains: 504 | Updated: 2026-11-18
+! Domains: 577 | Updated: 2026-11-18
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 |0hfagy5-css-import.run-transport.re^
 |0jilqa.kurt-mechanik.ch^
 ||112sexshop.com^
+||18seslimobil.net^
 |2mrdqfz9ht76.nettoyagereunion.re^
 ||31keyifliseyirler32.shop^
 ||31keyifliseyirler37.shop^
@@ -23,6 +24,7 @@
 ||31vqkticx18.site^
 ||31vqkticx21.cfd^
 ||31vqkticx21.site^
+||31vqkticx22.click^
 ||31vqkticx7.cfd^
 ||31vqkticx7.click^
 ||444shop.com.tr^
@@ -33,6 +35,7 @@
 ||abuse.fit^
 ||adamandeva.shop^
 ||adanaceyhanescort.xyz^
+||adanaxkizlar.site^
 ||adapazari-escort.xyz^
 ||adiyamanescortbayanda.xyz^
 ||adulttoybox.biz^
@@ -46,16 +49,22 @@
 ||altyazilihubxt15.click^
 ||altyazilihubxt15.cyou^
 ||altyazilihubxt17.cfd^
+||altyazilihubxt18.click^
 ||altyazilihubxt7.lat^
 ||altyzhub30.site^
 ||altyzhub34.site^
 ||amlaks5.shop^
 ||ankara-escort1.sbs^
+||ankaraescort11.com^
 ||ankaraescortbayanx.com^
+||ankaraescorthatun.mom^
 ||ankaragrand.com^
 ||ankarasexshop.net^
 ||ankaraxescortbayan.net^
 ||ankaraxxescort.com^
+||anne46364421.shop^
+||anne82521355.shop^
+||antalya-escort8.lol^
 ||antalyabodensee.com^
 ||antalyahotescort.com^
 ||antalyamood.com^
@@ -73,6 +82,7 @@
 ||askimyavas206.live^
 ||askimyavas210.live^
 |atakent.papkam.com^
+||atasehir-escort2.lol^
 ||atasehiraktif.click^
 ||atasehirescort8.uno^
 ||atasehirescortlari.com^
@@ -87,16 +97,19 @@
 ||bestturks24.com^
 ||bestturks25.com^
 ||bestturks29.com^
+||bestturks3.xyz^
 ||bestturks31.com^
 ||bestturks34.com^
 ||bestturks38.com^
 ||bestturks39.com^
 ||bestturks40.com^
+||bestturks42.com^
 ||bestturksgiris.com^
 ||bestturksgiris1.com^
 ||beykentsexshop.com^
 ||beylikduzuesc.uno^
 ||beylikduzuescort.com^
+||beylikduzuescortbayan.org^
 ||beylikduzuescortkadin.com^
 ||beylikduzuescortlari.xyz^
 ||bibi10.site^
@@ -110,6 +123,7 @@
 ||bursa-escortlar.com^
 ||bursabayanescortlar.xyz^
 ||bursaelite.com^
+||bursavitrin.com^
 ||canlisex.org^
 ||canlisexsohbethatti.net^
 |certification.ntop.com^
@@ -125,17 +139,22 @@
 ||colakyapitrabzon.com^
 ||corner69.hr^
 ||corumescortred.xyz^
+||cosescortmos.com^
 ||daavli.best^
 ||dahahizli160.live^
 ||dahahizli162.live^
 ||dahahizli167.live^
+||dahahizli170.live^
 ||dame.com^
 ||danaporn.best^
+||danaporn2.best^
 ||darica-escort.lol^
+||denizlisiteleri.xyz^
 ||derinceservisi.site^
 ||dialogistanbul.com^
 ||dijitalask.com^
 ||discreetlife.ca^
+||diyarbakir-escort2.lol^
 ||diyarbakirescortkuz.xyz^
 ||diyarbakirescortnokta.xyz^
 ||diyarbakirescorts.org^
@@ -147,6 +166,8 @@
 ||doeda109.click^
 ||doeda114.click^
 ||doeda115.click^
+||doeda26.pro^
+||doedag322.shop^
 ||doedahd.com^
 ||doedayeni.xyz^
 ||dolores1.skin^
@@ -166,8 +187,11 @@
 ||erox.com.tr^
 ||escburda.com^
 ||escort-bayan.com^
+||escortbatumi.net^
+||escortbayanlar.pro^
 ||escortbursam.com^
 ||escortizmirkiz.info^
+||escortkizlarr.com^
 ||escortlar251.xyz^
 ||escortlar254.xyz^
 ||escortlar69.xyz^
@@ -175,10 +199,15 @@
 ||escortnews.info^
 ||escortsdates.com^
 ||escortshello.online^
+||escortsilan.com^
 ||escortsinpakistan.online^
 ||escortsite.biz^
 ||escortsites.org^
 ||escortstacey.com^
+||eskisehir-escort5.lol^
+||eskisehir-escort6.lol^
+||eskisehir-escort7.lol^
+||eskisehirescortzz.com^
 ||eskort.news^
 ||eskortadresi.com^
 ||eskortpro2.world^
@@ -187,6 +216,7 @@
 |fantastik-seks-hikayeleri-6.yeahh.com^
 ||fantasygiftsnj.com^
 ||fanteziescort.fun^
+||fatih-escort4.lol^
 ||fcampmodels.online^
 ||fethiyeescorts1.site^
 ||filmcusxhamster.com^
@@ -195,8 +225,11 @@
 |foms.skamil.pl^
 ||fullerotiksite5.blog^
 ||fulyaescortum.site^
+||gaziantepbayan.xyz^
 ||gaziantepbayanlar.com^
+||gaziantepxkizlar.site^
 ||gecekutusu.com^
+||gecelikbayanlar.site^
 ||getxh.blog^
 ||gizemlisexshop.com^
 ||gizliyanim.com^
@@ -241,8 +274,11 @@
 ||istanbularkadasilan.com^
 ||istanbuldur.com^
 ||istanbulescort.app^
+||istanbulescort.dev^
 ||istanbulescortfinest.xyz^
 ||istanbulescortgrand.click^
+||istanbuleskort5.world^
+||istanbuleskortpro9.world^
 ||istanbulhotescorts.com^
 ||istanbulilanbul.com^
 ||istanbulmasozbayan.site^
@@ -253,9 +289,12 @@
 ||izmirescortnumarasi.com^
 ||jadekusadasi.com^
 ||javdunyasi.net^
+||jestescort7.org^
 ||jiglyescorts.com^
 ||jokershop.com.tr^
+||kadikoy-escort3.lol^
 ||kadikoyescort1.world^
+||kadikoyescort15.uno^
 ||kadikoyescort9.uno^
 ||kadrajtr.cfd^
 ||kamababa20.com^
@@ -264,6 +303,7 @@
 ||kayseriescort.one^
 ||kayseriescortun.shop^
 ||kayserimerkez-escort.site^
+||kayserixkizlar.site^
 ||kefcededeescorts10.xyz^
 |kibana.compactorstore.com^
 ||kirmizicadde.com^
@@ -298,7 +338,9 @@
 ||mobilcinselsohbet.com^
 ||mobilerotik.net^
 ||mobilexh.life^
+||moguotv.xyz^
 ||movieshark.com^
+||muglaescortilan.xyz^
 ||mutva.com^
 ||nazira1.wtf^
 ||newseskort.site^
@@ -323,14 +365,17 @@
 ||porno80cc.site^
 ||porno80cm.site^
 ||porno80cn.site^
+||porno80cx.site^
 ||porno900.click^
 ||pornobat.life^
 ||pornocu15.shop^
+||pornocu16.shop^
 ||pornocu16.site^
 ||pornocudayi50.com^
 ||pornocukkk.com^
 ||pornodoeda45.shop^
 ||pornodoeda45.site^
+||pornodoeda46.shop^
 ||pornoiz18.shop^
 ||pornoizlehane.com^
 ||pornojan1.skin^
@@ -340,17 +385,22 @@
 ||pornolou.skin^
 ||pornozaz86.online^
 ||pornozaz86.site^
+||pornozaz87.online^
 ||pornozaz87.shop^
 ||pornozaz87.site^
 ||positive-vibrations.hr^
+|pujcovna.wachal.cz^
 ||pureloveshop.com.tr^
 ||rainvipxescort.net^
+||regularescort.com^
 ||reit-hentai.com^
 ||rocks-off.com^
 ||romanorth.lol^
 ||romp.toys^
+||russiansexyladies.com^
 ||sakaryaescortfiyat.net^
 ||sakaryaescortkrali.com^
+||sakinpurnaizle1.store^
 ||saklikeyf.com^
 ||saklimarket.com^
 ||samsun.website^
@@ -373,9 +423,13 @@
 ||sexshopankara.com^
 ||sexshopist.com^
 ||sexsohbet.site^
+||sexvideos.directory^
 ||sexwell.bg^
 ||shibariturk.com^
 ||siirtescortbayanda.xyz^
+||sisli-escort3.lol^
+||sisli-escort4.lol^
+||sisli-escort5.lol^
 ||sisliescort.site^
 ||sisliescort0312.uno^
 ||sisliescortara1.site^
@@ -390,10 +444,12 @@
 ||taksimsexshop.com^
 ||tayf.ist^
 ||telefondasexhatti.com^
+||telegramgruplar.org^
 ||telegramifsagruplari.com^
 ||temptingescorts.com^
 ||terbiyesizzler.com^
 ||terresaintezarlor.re^
+||tgturkifsa10.lat^
 ||tgturkifsa6.lat^
 ||tgturkifsa8.lat^
 ||theeskisehir.com^
@@ -402,6 +458,9 @@
 ||turkaltyazilixx.site^
 ||turkaltyaziporno.info^
 ||turkceerotikfilmcx.cfd^
+||turkceporna12.shop^
+||turkceporna13.cfd^
+||turkceporna13.cyou^
 ||turkceporna13.shop^
 ||turkceporna7.shop^
 ||turkceporna8.cfd^
@@ -411,6 +470,7 @@
 ||turkcesex.com^
 ||turkhub150.cfd^
 ||turkhub155.cfd^
+||turkhub7.lat^
 ||turkhub8.lat^
 ||turkifsa.blog^
 ||turkifsa.cc^
@@ -418,11 +478,13 @@
 ||turkifsa105.com^
 ||turkifsa18.best^
 ||turkifsa21.best^
+||turkifsa23.best^
 ||turkifsa34.lat^
 ||turkifsa37.lat^
 ||turkifsa42.lat^
 ||turkifsa43.lat^
 ||turkifsa44.lat^
+||turkifsa47.lat^
 ||turkifsa7.best^
 ||turkifsa93.com^
 ||turkifsa98.com^
@@ -437,6 +499,7 @@
 ||turkifsaclub226.sbs^
 ||turkifsaclub228.sbs^
 ||turkifsaclub229.sbs^
+||turkifsaclub232.sbs^
 ||turkifsago18.site^
 ||turkifsago19.site^
 ||turkifsago20.site^
@@ -444,8 +507,12 @@
 ||turkifsago23.site^
 ||turkifsago24.site^
 ||turkifsago25.site^
+||turkifsago26.site^
+||turkifsago27.site^
+||turkifsago28.site^
 ||turkifsahane.com^
 ||turkifsalarii.store^
+||turkifsalarrizle.store^
 ||turkifsalife70.lat^
 ||turkifsalifenl.site^
 ||turkifsalifenl2.site^
@@ -459,12 +526,14 @@
 ||turkifsatube28.xyz^
 ||turkifsatube31.xyz^
 ||turkifsatube34.xyz^
+||turkifsatube36.xyz^
 ||turkifsazone.sbs^
 ||turkisherotica.com^
 ||turkporno61.lat^
 ||turkporno65.lat^
 ||turkporno67.lat^
 ||turkporno68.lat^
+||turkporno70.lat^
 ||turktelegramifsalar.com^
 ||turkzzers.net^
 ||umraniyeescort11.uno^
@@ -479,6 +548,7 @@
 ||viperotikfilm4.skin^
 ||viperotikfilm6.skin^
 ||viperotikfilm7.skin^
+||vipescortpro2.world^
 ||vipifsa33.lat^
 ||vipsa.com^
 ||vipumraniyeescort.com.tr^
@@ -489,7 +559,9 @@
 ||wescort.co.uk^
 |wvw.betim-guncelgiris.live^
 ||xaprilsex.lol^
+||xhamster2.tv^
 ||xnovix.com^
+||xxxprn.xyz^
 ||yasakelmam.com^
 ||yavasgir168.live^
 ||yavasgir170.live^
@@ -508,3 +580,4 @@
 ||zevkdolu42.com^
 ||zevkdolu44.com^
 ||zevkdolu45.com^
+||zevkdolu49.com^

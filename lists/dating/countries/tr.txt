@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Türkiye (tr)
-# Domains: 121 | Updated: 2026-11-18
+# Domains: 123 | Updated: 2026-11-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -38,6 +38,7 @@ anonim.samyeli.net
 *.esohbet.net.tr
 *.esohbet.org
 *.eurocupid.com
+*.evlenmekisteyenbayanlar.net
 *.evlenmekisteyenerkekler.com
 *.evlilikilan.com
 *.evlilikilani.com
@@ -115,6 +116,7 @@ sohbet.mobildetek.com
 *.tinder.com
 *.tinderprofile.ai
 *.trmirc.net
+*.turkchat.nl
 *.turkchat.tc
 *.turkchatfm.com
 *.turkirc.com

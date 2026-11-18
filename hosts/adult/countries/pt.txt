@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Portugal (pt)
-# Domains: 57 | Updated: 2026-11-18
+# Domains: 58 | Updated: 2026-11-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/pt.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -27,6 +27,7 @@
 0.0.0.0 hentaimania.net
 0.0.0.0 hotsexshop.com.br
 0.0.0.0 lasantinimodaintima.com.br
+0.0.0.0 lisboa.classificadosgratis.com.pt
 0.0.0.0 lojaafrodite.com.br
 0.0.0.0 lojadiscretinha.com.br
 0.0.0.0 lojadodesejo.com.br

@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Piracy, Türkiye (tr)
-# Domains: 105 | Updated: 2026-11-18
+# Domains: 108 | Updated: 2026-11-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 apkdayi.com
+0.0.0.0 canlifilmizle.com
 0.0.0.0 canlimacizlet.altervista.org
 0.0.0.0 ddizibox.com
 0.0.0.0 ddizibox.net
@@ -31,6 +32,7 @@
 0.0.0.0 filmiwebteizle.blogspot.com
 0.0.0.0 filmizlebabam.com
 0.0.0.0 filmizlebabam.icu
+0.0.0.0 filmizlech.nl
 0.0.0.0 filmizledim.com
 0.0.0.0 filmmakinesi.to
 0.0.0.0 fullfilmizle.fit
@@ -96,6 +98,7 @@
 0.0.0.0 taraftarium24-zeustv18.live
 0.0.0.0 taraftarium24-zeustv95.live
 0.0.0.0 taraftarium24.sx
+0.0.0.0 taraftarium24bjk29.com
 0.0.0.0 taraftarium24soturkiye.org
 0.0.0.0 taraftarium24turkiyetv.net
 0.0.0.0 torrentdevi.org

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Czechia (cz)
-# Domains: 41 | Updated: 2026-11-18
+# Domains: 42 | Updated: 2026-11-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/cz.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -19,6 +19,7 @@
 0.0.0.0 escort-side.dk
 0.0.0.0 escort.directory
 0.0.0.0 escort46.se
+0.0.0.0 escort69.lu
 0.0.0.0 escortdirectory.xxx
 0.0.0.0 escortface.com
 0.0.0.0 escortfans.com

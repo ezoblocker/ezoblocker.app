@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Bypass
-! Domains: 190 | Updated: 2026-11-18
+! Domains: 193 | Updated: 2026-11-18
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/bypass/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -46,6 +46,7 @@
 |gdjj.handyunduhrenwelt.de^
 ||getunicorn.app^
 |gpedit.tplant.com.au^
+||greentunnelvpn.com^
 |guide.v2fly.org^
 |helpcenter.trendlife.com^
 |helpdesk.iupat.org^
@@ -73,6 +74,7 @@
 |learn.totem-project.org^
 |lifestyle.assist-all.co.jp^
 ||lightningproxies.net^
+||livaproxy.com^
 |m.3smedi.co.kr^
 |maturita.cermat.cz^
 |mirror.dkm.cz^
@@ -147,6 +149,7 @@
 |tracker.prohacking77.me^
 ||tradeproxy.vn^
 |tunnelbear.ar.softmany.com^
+|tunnelbear.en.softmany.com^
 ||tunnelbearvipn.com^
 ||tunproxy.com^
 |turbo-vpn.androidapks.com^

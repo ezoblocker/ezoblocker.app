@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,246 | Updated: 2026-11-18
+# Domains: 1,254 | Updated: 2026-11-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -36,6 +36,7 @@
 0.0.0.0 9anime.or.at
 0.0.0.0 9anime.org.ng
 0.0.0.0 9animepro.com
+0.0.0.0 9animes.casa
 0.0.0.0 9animes.ro
 0.0.0.0 9animetv.pics
 0.0.0.0 9animetv.vg
@@ -155,6 +156,7 @@
 0.0.0.0 cakhiazbm.tv
 0.0.0.0 cakhiazbp.tv
 0.0.0.0 cakhiazcw.tv
+0.0.0.0 canlifilmizle.com
 0.0.0.0 canlimacizlet.altervista.org
 0.0.0.0 cb01.channel
 0.0.0.0 cb01official.uno
@@ -301,6 +303,7 @@
 0.0.0.0 filmizle.ink
 0.0.0.0 filmizlebabam.com
 0.0.0.0 filmizlebabam.icu
+0.0.0.0 filmizlech.nl
 0.0.0.0 filmizledim.com
 0.0.0.0 filmmakinesi.to
 0.0.0.0 filmora.wondershare.kr
@@ -415,6 +418,7 @@
 0.0.0.0 gogoanimes.dk
 0.0.0.0 gogoanimes.watch
 0.0.0.0 gogoanimez.buzz
+0.0.0.0 gogoanimez.live
 0.0.0.0 gogoanimez.online
 0.0.0.0 gomovieshd.today
 0.0.0.0 google-play.en.softmany.com
@@ -469,6 +473,7 @@
 0.0.0.0 icuevana3.mobi
 0.0.0.0 ikinogo.io
 0.0.0.0 image.schrack.com
+0.0.0.0 indoxxidlix.vip
 0.0.0.0 info.rugbypass.tv
 0.0.0.0 inpiad60.inpiad.co.kr
 0.0.0.0 iptv-abonnement-france.youcan.store
@@ -647,8 +652,10 @@
 0.0.0.0 lockoora.top
 0.0.0.0 locopelis.com
 0.0.0.0 lordfilm-hd.mirfilm.net
+0.0.0.0 lordfilm-hd11.lat
 0.0.0.0 lordfilm-ru0.cc
 0.0.0.0 lordfilm.fi
+0.0.0.0 lordfilm26-kino25.lat
 0.0.0.0 lordfilms.pub
 0.0.0.0 lordfilms.pw
 0.0.0.0 lxmovie-8d4.pages.dev
@@ -917,7 +924,6 @@
 0.0.0.0 rojadirecta.cloud
 0.0.0.0 rojadirecta.com.co
 0.0.0.0 rojadirectaatv.hair
-0.0.0.0 rojadirectaenhd.live
 0.0.0.0 rojadirectaes.cloud
 0.0.0.0 rojadirectafullhd.net
 0.0.0.0 rojadirectafulltv.org
@@ -943,6 +949,7 @@
 0.0.0.0 samehadaku.li
 0.0.0.0 scoreman123.com
 0.0.0.0 search.yaman.com
+0.0.0.0 seasonvar.net
 0.0.0.0 selcuksportshd.is
 0.0.0.0 seriestreaming.live
 0.0.0.0 sflix.org
@@ -1052,6 +1059,7 @@
 0.0.0.0 taraftarium24-zeustv18.live
 0.0.0.0 taraftarium24-zeustv95.live
 0.0.0.0 taraftarium24.sx
+0.0.0.0 taraftarium24bjk29.com
 0.0.0.0 taraftarium24soturkiye.org
 0.0.0.0 taraftarium24turkiyetv.net
 0.0.0.0 tarjeta-roja.live

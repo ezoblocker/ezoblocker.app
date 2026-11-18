@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Canada (ca)
-# Domains: 36 | Updated: 2026-11-18
+# Domains: 38 | Updated: 2026-11-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/countries/ca.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,12 +9,14 @@
 *.9anime.co.nl
 *.9anime.direct
 *.9animepro.com
+*.9animes.casa
 *.9animetv.vg
 *.animepahe.net
 cityofsurrey.perfectmind.com
 *.crackstreams.in
 *.gogoanime.biz.in
 *.gogoanime.co.ke
+*.gogoanimez.live
 *.iptvcanada.cc
 *.iptvcanada.io
 *.iptvcanada.tv

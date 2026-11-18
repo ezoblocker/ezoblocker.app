@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Australia (au)
-# Domains: 29 | Updated: 2026-11-18
+# Domains: 30 | Updated: 2026-11-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/au.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 au.escortsaffair.com
 0.0.0.0 au.escortsliaison.com
 0.0.0.0 au.langtrees.com
+0.0.0.0 aussieescorts.com.au
 0.0.0.0 brisbane.flymetoyouescorts.com.au
 0.0.0.0 eliteescortsaustralia.au
 0.0.0.0 escortsandbabes.com.au

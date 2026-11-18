@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 190 | Updated: 2026-11-18
+# Domains: 193 | Updated: 2026-11-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -46,6 +46,7 @@
 0.0.0.0 gdjj.handyunduhrenwelt.de
 0.0.0.0 getunicorn.app
 0.0.0.0 gpedit.tplant.com.au
+0.0.0.0 greentunnelvpn.com
 0.0.0.0 guide.v2fly.org
 0.0.0.0 helpcenter.trendlife.com
 0.0.0.0 helpdesk.iupat.org
@@ -73,6 +74,7 @@
 0.0.0.0 learn.totem-project.org
 0.0.0.0 lifestyle.assist-all.co.jp
 0.0.0.0 lightningproxies.net
+0.0.0.0 livaproxy.com
 0.0.0.0 m.3smedi.co.kr
 0.0.0.0 maturita.cermat.cz
 0.0.0.0 mirror.dkm.cz
@@ -147,6 +149,7 @@
 0.0.0.0 tracker.prohacking77.me
 0.0.0.0 tradeproxy.vn
 0.0.0.0 tunnelbear.ar.softmany.com
+0.0.0.0 tunnelbear.en.softmany.com
 0.0.0.0 tunnelbearvipn.com
 0.0.0.0 tunproxy.com
 0.0.0.0 turbo-vpn.androidapks.com

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating
-! Domains: 1,346 | Updated: 2026-11-18
+! Domains: 1,350 | Updated: 2026-11-18
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -68,6 +68,7 @@
 |au.langtrees.com^
 ||aura-escort.de^
 ||aurahookups.com^
+||aussieescorts.com.au^
 ||austriaescort.at^
 |auth.adultforce.com^
 ||azarlive.com^
@@ -390,6 +391,7 @@
 ||escort.com.ua^
 ||escort.directory^
 ||escort46.se^
+||escort69.lu^
 ||escorta.com^
 |escortathens.webnode.gr^
 ||escortbkk.com^
@@ -438,6 +440,7 @@
 ||europescortguide.com^
 |events.canberra.com.au^
 ||evinsohbet.com^
+||evlenmekisteyenbayanlar.net^
 ||evlenmekisteyenerkekler.com^
 ||evlilikilan.com^
 ||evlilikilani.com^
@@ -1244,6 +1247,7 @@
 ||tube-arabe.org^
 |tulsa.bonepage.com^
 ||turkchat.com^
+||turkchat.nl^
 ||turkchat.tc^
 ||turkchatfm.com^
 ||turkirc.com^

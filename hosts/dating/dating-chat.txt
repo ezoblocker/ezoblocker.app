@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 409 | Updated: 2026-11-18
+# Domains: 411 | Updated: 2026-11-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -182,6 +182,7 @@
 0.0.0.0 gelchat.net
 0.0.0.0 gen5diy.valuecom.com
 0.0.0.0 geveze.org
+0.0.0.0 gevezesohbet.com
 0.0.0.0 gevezeyeri.com
 0.0.0.0 giant-stoixima-apg.aestheticon.gr
 0.0.0.0 google-play-services.apk.gold
@@ -380,6 +381,7 @@
 0.0.0.0 trende.com.tr
 0.0.0.0 trmirc.net
 0.0.0.0 trsohbet.com
+0.0.0.0 turkchat.nl
 0.0.0.0 turkchat.tc
 0.0.0.0 turkchatfm.com
 0.0.0.0 turkishchat.net

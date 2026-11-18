@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Ukraine (ua)
-# Domains: 31 | Updated: 2026-11-18
+# Domains: 34 | Updated: 2026-11-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/countries/ua.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -26,9 +26,12 @@ kinokrad.world
 kinokrads.com
 livetv.life
 lordfilm-hd.mirfilm.net
+lordfilm-hd11.lat
 lordfilm-ru0.cc
 lordfilm.fi
+lordfilm26-kino25.lat
 m.acestream.net
+seasonvar.net
 sportstream365.com.w3snoop.com
 streameast.to
 tv.makeevka.com

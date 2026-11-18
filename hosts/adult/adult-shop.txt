@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,478 | Updated: 2026-11-18
+# Domains: 1,479 | Updated: 2026-11-18
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -967,6 +967,7 @@
 0.0.0.0 proximosiglo.com.ar
 0.0.0.0 ptlojas.net
 0.0.0.0 puissante.co
+0.0.0.0 pujcovna.wachal.cz
 0.0.0.0 puntosexshop.com.ar
 0.0.0.0 pureloveshop.com.tr
 0.0.0.0 purelust.com

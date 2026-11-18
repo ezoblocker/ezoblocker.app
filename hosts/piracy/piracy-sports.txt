@@ -294,7 +294,6 @@
 0.0.0.0 rojadirecta.cloud
 0.0.0.0 rojadirecta.com.co
 0.0.0.0 rojadirectaatv.hair
-0.0.0.0 rojadirectaenhd.live
 0.0.0.0 rojadirectaes.cloud
 0.0.0.0 rojadirectafullhd.net
 0.0.0.0 rojadirectafulltv.org
@@ -391,6 +390,7 @@
 0.0.0.0 taraftarium24-zeustv18.live
 0.0.0.0 taraftarium24-zeustv95.live
 0.0.0.0 taraftarium24.sx
+0.0.0.0 taraftarium24bjk29.com
 0.0.0.0 taraftarium24soturkiye.org
 0.0.0.0 taraftarium24turkiyetv.net
 0.0.0.0 tarjeta-roja.live
