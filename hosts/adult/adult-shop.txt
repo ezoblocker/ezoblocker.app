@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,479 | Updated: 2026-11-19
+# Domains: 1,483 | Updated: 2026-11-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -237,6 +237,7 @@
 0.0.0.0 cosettes.co.za
 0.0.0.0 couplestoythailand.family.blog
 0.0.0.0 criteria-white-label.novadata.com.br
+0.0.0.0 crunchlabs.com
 0.0.0.0 cultura.cartagena.es
 0.0.0.0 cumshopsextoy.com
 0.0.0.0 cupidbaba.com
@@ -475,6 +476,7 @@
 0.0.0.0 gutscheine.at
 0.0.0.0 gw-corp.com
 0.0.0.0 harmonystore.co.uk
+0.0.0.0 hatar.ro
 0.0.0.0 hazoosexshop.com.br
 0.0.0.0 hello-nancy.tenereteam.com
 0.0.0.0 hellonancy.com
@@ -1280,6 +1282,7 @@
 0.0.0.0 speeltjes.nl
 0.0.0.0 spexter.com
 0.0.0.0 spicerack.market
+0.0.0.0 spicylove.ca
 0.0.0.0 stagimu.com
 0.0.0.0 stagshop.com
 0.0.0.0 stay-on.co
@@ -1332,6 +1335,7 @@
 0.0.0.0 thenairastore.com
 0.0.0.0 thepleasurechest.com
 0.0.0.0 thetoyslut.com
+0.0.0.0 thevelvetangel.com
 0.0.0.0 thevibeadultshop.com.au
 0.0.0.0 thistleandspire.com
 0.0.0.0 thomasmorehs.nl

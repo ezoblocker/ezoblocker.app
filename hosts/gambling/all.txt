@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 841,440 | Updated: 2026-11-19
+# Domains: 841,459 | Updated: 2026-11-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1078,6 +1078,7 @@
 0.0.0.0 10045bets10.com
 0.0.0.0 10046bets10.com
 0.0.0.0 10047bets10.com
+0.0.0.0 10048bets10.com
 0.0.0.0 10054jojobet.com
 0.0.0.0 1008-royal-reels-casino-australia-site.pages.dev
 0.0.0.0 1009-the-pokies-casino-site.pages.dev
@@ -85673,6 +85674,7 @@
 0.0.0.0 bcasino.com.pl
 0.0.0.0 bcasino.de.com
 0.0.0.0 bcasino.fi
+0.0.0.0 bcasino.foxstoriesnow.com
 0.0.0.0 bcasino.ie
 0.0.0.0 bcasino.io
 0.0.0.0 bcasino.irish
@@ -130226,6 +130228,7 @@
 0.0.0.0 bioskop88slot-slot-bioskop-seru.pages.dev
 0.0.0.0 bioskopkkslot777.org
 0.0.0.0 bioskopwinplus.com
+0.0.0.0 biosure.co.uk
 0.0.0.0 bioteamvikingbet88.pages.dev
 0.0.0.0 biotechlights-selamatbet.pages.dev
 0.0.0.0 biotexmedical-indo-sloto.pages.dev
@@ -141163,6 +141166,7 @@
 0.0.0.0 bonusdepot-10-euros-com-bdd5248b.pages.dev
 0.0.0.0 bonusdescasinos.com
 0.0.0.0 bonusdominoqq.net
+0.0.0.0 bonusekran.com
 0.0.0.0 bonusembercasino.pages.dev
 0.0.0.0 bonusenterslotsrtp.buzz
 0.0.0.0 bonuseria-casino-it.pages.dev
@@ -157128,6 +157132,7 @@
 0.0.0.0 captain-cooks-casino.sk
 0.0.0.0 captain-cooks-casino.uk
 0.0.0.0 captain-cooks-casinos-canada.com
+0.0.0.0 captain-corona.nl
 0.0.0.0 captain-jack-casino-at.at
 0.0.0.0 captain-jack-casino-at.com
 0.0.0.0 captain-jack-casino-be.com
@@ -200471,6 +200476,7 @@
 0.0.0.0 casinom.fr
 0.0.0.0 casinom.fun
 0.0.0.0 casinom.im
+0.0.0.0 casinom.io
 0.0.0.0 casinom.onl
 0.0.0.0 casinom.online
 0.0.0.0 casinom.pro
@@ -228070,10 +228076,8 @@
 0.0.0.0 casoolas-fi-1e2e3167.pages.dev
 0.0.0.0 casoolas-it-ffdb4498.pages.dev
 0.0.0.0 casoolas-net.pages.dev
-0.0.0.0 casoolas-netherlands.nl
 0.0.0.0 casoolas-nl-com.pages.dev
 0.0.0.0 casoolas-org.pages.dev
-0.0.0.0 casoolas.at
 0.0.0.0 casoolas.es
 0.0.0.0 casoolas.fi
 0.0.0.0 casoolas.it
@@ -228087,26 +228091,17 @@
 0.0.0.0 casoolasi-live-4c49c8a9.pages.dev
 0.0.0.0 casoolasi-pro-0816f546.pages.dev
 0.0.0.0 casoolasi-site-4b178007.pages.dev
-0.0.0.0 casoolasi.live
-0.0.0.0 casoolasi.pro
-0.0.0.0 casoolasi.site
 0.0.0.0 casoolask-fun-184da2b1.pages.dev
 0.0.0.0 casoolask-pro-32d56ad2.pages.dev
 0.0.0.0 casoolask-top-9b34bd05.pages.dev
 0.0.0.0 casoolask.com
-0.0.0.0 casoolask.fun
-0.0.0.0 casoolask.pro
 0.0.0.0 casoolask.sk
-0.0.0.0 casoolask.top
 0.0.0.0 casoolaslot.com
 0.0.0.0 casoolaslots.co.uk
 0.0.0.0 casoolaslovenia-com.pages.dev
-0.0.0.0 casoolaslovenia.com
-0.0.0.0 casoolasnl.nl
 0.0.0.0 casoolaspielen.de
 0.0.0.0 casoolaspielothek.de
 0.0.0.0 casoolaspin-au.com
-0.0.0.0 casoolasuomi.fi
 0.0.0.0 casoolauk.co.uk
 0.0.0.0 casoolaukcasino.co.uk
 0.0.0.0 casoolawelt-de.pages.dev
@@ -238835,6 +238830,7 @@
 0.0.0.0 claims-cryptocasino.pages.dev
 0.0.0.0 claimscasino.com
 0.0.0.0 claimtgcasino.pages.dev
+0.0.0.0 clairedouthwaite.co.uk
 0.0.0.0 claizbonuspage.pages.dev
 0.0.0.0 clan178slotmania.pages.dev
 0.0.0.0 clan4dmegajp.com
@@ -258819,6 +258815,7 @@
 0.0.0.0 danielmartinezcasino.com
 0.0.0.0 danielpilowskymd.com
 0.0.0.0 danielpoker.com
+0.0.0.0 danielsgebaeudedienste.de
 0.0.0.0 danimal-sports-betting-briefing.pages.dev
 0.0.0.0 danish-bestratedslots.com
 0.0.0.0 danish-superliga-apuestas.pages.dev
@@ -289665,6 +289662,7 @@
 0.0.0.0 eyecon-bets-bd0.pages.dev
 0.0.0.0 eyecon-bets-bdy.pages.dev
 0.0.0.0 eyecon-scommesse.pages.dev
+0.0.0.0 eyen.fr
 0.0.0.0 eyeofhorus-casino-slot.top
 0.0.0.0 eyeofhorus-casino.com
 0.0.0.0 eyeofhorus-casinogame.top
@@ -290872,6 +290870,7 @@
 0.0.0.0 f8betv2.onl
 0.0.0.0 f8betv2.pro
 0.0.0.0 f8betv3.net
+0.0.0.0 f8betv31.win
 0.0.0.0 f8betv36.win
 0.0.0.0 f8betv8.net
 0.0.0.0 f8betviet.com
@@ -300029,6 +300028,7 @@
 0.0.0.0 flora123org-pasang-betting.pages.dev
 0.0.0.0 flora77-slot-gacor.pages.dev
 0.0.0.0 flora89org-casino-unggulan.pages.dev
+0.0.0.0 florabarnyc.com
 0.0.0.0 floralessentialoils-sofabet88.pages.dev
 0.0.0.0 florence-mendez.com
 0.0.0.0 florentinos.pt
@@ -308962,6 +308962,7 @@
 0.0.0.0 fugucasino100.de
 0.0.0.0 fugucasino24.de
 0.0.0.0 fugucasino5000.com
+0.0.0.0 fugucasino533.buzz
 0.0.0.0 fugucasinobet.cc
 0.0.0.0 fugucasinoc.online
 0.0.0.0 fugucasinoc.ru
@@ -320269,6 +320270,7 @@
 0.0.0.0 gennerasitogel.com
 0.0.0.0 gennerasitogel.online
 0.0.0.0 gennerasitogel.org
+0.0.0.0 genomicscases.net
 0.0.0.0 genonlineslotsgame0429160951.pages.dev
 0.0.0.0 genonlineslotsgame0430123051.pages.dev
 0.0.0.0 genpokernet-amp.pages.dev
@@ -334893,6 +334895,7 @@
 0.0.0.0 gospincasino.pl
 0.0.0.0 gospincasino.uy
 0.0.0.0 gospinph.org
+0.0.0.0 gosportdrivinginstructor.co.uk
 0.0.0.0 gosportsbetting.net
 0.0.0.0 gosreg-flokitoto.pages.dev
 0.0.0.0 gossipbingocasino.co.uk
@@ -346212,6 +346215,7 @@
 0.0.0.0 heartbingocasino.uk.net
 0.0.0.0 heartfeltclub.com
 0.0.0.0 hearthmarblecasino.com
+0.0.0.0 heartlandhealthyneighborhoods.org
 0.0.0.0 heartmatters.ch
 0.0.0.0 heartofcasino.co.uk
 0.0.0.0 heartofcasino.me.uk
@@ -346227,6 +346231,7 @@
 0.0.0.0 heat-casino.com
 0.0.0.0 heatercasino.com
 0.0.0.0 heathcasinoenligne.com
+0.0.0.0 heatherleeokeefe.com
 0.0.0.0 heatonplay.com
 0.0.0.0 heats-casino-net.pages.dev
 0.0.0.0 heats-casino.ca
@@ -358455,6 +358460,7 @@
 0.0.0.0 hunationalcasino.com
 0.0.0.0 hundebetting.dk
 0.0.0.0 hundephysiotherapieberlin.de
+0.0.0.0 hundesalon-bianca.ch
 0.0.0.0 hundesalon-gerlindeade.de
 0.0.0.0 hundetraining-danielwitt.de
 0.0.0.0 hundewetten.de
@@ -372025,6 +372031,7 @@
 0.0.0.0 iqjililogin.net
 0.0.0.0 iqjilivip.com
 0.0.0.0 iqosiluma.tr
+0.0.0.0 iqplaypartners.com
 0.0.0.0 iqsportsbetting.com
 0.0.0.0 iquattromori.it
 0.0.0.0 ir-win-casino-de.com
@@ -395395,6 +395402,7 @@
 0.0.0.0 joycasino8.site
 0.0.0.0 joycasino83.sbs
 0.0.0.0 joycasino877r.buzz
+0.0.0.0 joycasino880.buzz
 0.0.0.0 joycasino89.online
 0.0.0.0 joycasino9.site
 0.0.0.0 joycasino92pqp2l.fun
@@ -433254,6 +433262,7 @@
 0.0.0.0 liebewunschfee.com
 0.0.0.0 liechtenstein-casinos.com
 0.0.0.0 liechtenstein-onlinecasino.com
+0.0.0.0 liechttraeum.ch
 0.0.0.0 liefdevollehanden-jabartotodaftar.pages.dev
 0.0.0.0 lielsunmazs.lv
 0.0.0.0 liem.com.tr
@@ -482961,6 +482970,7 @@
 0.0.0.0 mellstroy.wine
 0.0.0.0 mellstroy.xxx
 0.0.0.0 mellstroy0310.today
+0.0.0.0 mellstroy0735.casino
 0.0.0.0 mellstroy1.at
 0.0.0.0 mellstroy1.com
 0.0.0.0 mellstroy1.live
@@ -519911,6 +519921,7 @@
 0.0.0.0 newonlinecasinosites.ca
 0.0.0.0 newonlinecasinosites.games
 0.0.0.0 newonlinecasinoslist.com
+0.0.0.0 newonlinecasinoslots.org
 0.0.0.0 newonlinecasinosnz.net
 0.0.0.0 newonlinecasinossouthafrica.co.za
 0.0.0.0 newonlinecasinosuk.co.uk
@@ -536449,6 +536460,7 @@
 0.0.0.0 ocnlogisticallampindrabet.pages.dev
 0.0.0.0 ocon-com-ar-jutawantoto-vip.pages.dev
 0.0.0.0 ocoslots.cfd
+0.0.0.0 ocpiph.ro
 0.0.0.0 ocramnatuurproducten.nl
 0.0.0.0 oct-ugh-ufa.ru
 0.0.0.0 octasl07-vip.biz
@@ -555580,6 +555592,7 @@
 0.0.0.0 paketslot.net
 0.0.0.0 pakgamecasino.com
 0.0.0.0 pakhoki-blackjack.pages.dev
+0.0.0.0 pakhuisroermond.nl
 0.0.0.0 paki2awslot777.pages.dev
 0.0.0.0 pakiawslot777.pages.dev
 0.0.0.0 pakiprovbabel-totomaniac.pages.dev
@@ -619407,6 +619420,7 @@
 0.0.0.0 rc88homebet.com
 0.0.0.0 rca1688slots.pages.dev
 0.0.0.0 rca77-casino.com
+0.0.0.0 rcala.com
 0.0.0.0 rcaoffice-nadimtogel.pages.dev
 0.0.0.0 rcasino-co-at.pages.dev
 0.0.0.0 rcasino-co-uk-83.pages.dev
@@ -695693,6 +695707,7 @@
 0.0.0.0 smartgamblers.club
 0.0.0.0 smartgamblezone.com
 0.0.0.0 smartgroupslot77.pages.dev
+0.0.0.0 smartlaw-solicitors.co.uk
 0.0.0.0 smartlivebetting.com
 0.0.0.0 smartlivecasino.com
 0.0.0.0 smartmatchedbetting.co.uk
@@ -788502,6 +788517,7 @@
 0.0.0.0 viewpilihtogel-com.pages.dev
 0.0.0.0 viewroyalcasinovictoria.ca
 0.0.0.0 viewsfest-mg4d-link-slot777-slotgacor-payment-kilat.pages.dev
+0.0.0.0 viewsfromthegods.co.uk
 0.0.0.0 viewtalaymarina.com
 0.0.0.0 viewtogel-istana-slot.pages.dev
 0.0.0.0 viezdnoe-kazino.ru
@@ -800676,6 +800692,7 @@
 0.0.0.0 wanejobets.co.za
 0.0.0.0 wanejobetscasino.co.uk
 0.0.0.0 wanejobetscasino.uk
+0.0.0.0 waneyedgecitylumber.co.uk
 0.0.0.0 wang368.net
 0.0.0.0 wangi-787-slot88.pages.dev
 0.0.0.0 wangi777-slot.pages.dev
@@ -803063,6 +803080,7 @@
 0.0.0.0 webdesignstore.ca
 0.0.0.0 webdominoqq.com
 0.0.0.0 webecasino.com
+0.0.0.0 webecome.co.uk
 0.0.0.0 webeduslotgacor.pages.dev
 0.0.0.0 webet188rtp.com
 0.0.0.0 webet333casino.co.uk
@@ -828228,6 +828246,7 @@
 0.0.0.0 wwwcasinoly.com
 0.0.0.0 wwwcasinomaxx.com
 0.0.0.0 wwwcasinomnl777.com
+0.0.0.0 wwwcasinoper690.com
 0.0.0.0 wwwcasinopinupradiofeyalegrianoticiasnet371.top
 0.0.0.0 wwwcasinoplus8.com
 0.0.0.0 wwwcasinopluscomph.com

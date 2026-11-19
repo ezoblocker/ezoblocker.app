@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,256 | Updated: 2026-11-19
+# Domains: 1,258 | Updated: 2026-11-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -978,6 +978,7 @@ sismrae.sead.pi.gov.br
 *.socolive-tv.quest
 *.socolive1.nl
 *.socolive18.com
+*.socolive55.net
 *.socolive74.tv
 *.socolive75.tv
 *.socolivef.cc
@@ -1215,6 +1216,7 @@ www.mae.gov.bi
 www.openjournals.ijaar.org
 www.shop.lppa.org
 www.tosho3704.tokyo-bousai.or.jp
+www1.gill-line.com
 www2.gema.org
 *.xoilac1.help
 *.xoilac3.cc

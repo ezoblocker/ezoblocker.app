@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Australia (au)
-# Domains: 50 | Updated: 2026-11-19
+# Domains: 54 | Updated: 2026-11-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/countries/au.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,7 +22,11 @@ casino-max-online-casino-fre.adelaidebeanbags.com.au
 *.fairgo-casinoaus.com
 *.fairgocasinoaus.com
 *.fairgocasinoreviews.com
+*.florabarnyc.com
+*.genomicscases.net
 *.greenwingaudio.com
+*.heartlandhealthyneighborhoods.org
+*.heatherleeokeefe.com
 *.joefortune.co.nz
 *.joefortuneonlinepokies.club
 *.laccrc2021.org

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,350 | Updated: 2026-11-19
+# Domains: 1,351 | Updated: 2026-11-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1089,6 +1089,7 @@
 0.0.0.0 singleboerse.at
 0.0.0.0 singleboerse.de
 0.0.0.0 singleboersen-aktuell.de
+0.0.0.0 singleboersen-vergleich.ch
 0.0.0.0 singleboersen-vergleich.de
 0.0.0.0 sioux-city-ia.bonepage.com
 0.0.0.0 sioux-falls.bonepage.com

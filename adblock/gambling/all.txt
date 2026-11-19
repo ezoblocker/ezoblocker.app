@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling
-! Domains: 841,440 | Updated: 2026-11-19
+! Domains: 841,459 | Updated: 2026-11-19
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1078,6 +1078,7 @@
 ||10045bets10.com^
 ||10046bets10.com^
 ||10047bets10.com^
+||10048bets10.com^
 ||10054jojobet.com^
 ||1008-royal-reels-casino-australia-site.pages.dev^
 ||1009-the-pokies-casino-site.pages.dev^
@@ -85673,6 +85674,7 @@
 ||bcasino.com.pl^
 ||bcasino.de.com^
 ||bcasino.fi^
+|bcasino.foxstoriesnow.com^
 ||bcasino.ie^
 ||bcasino.io^
 ||bcasino.irish^
@@ -130226,6 +130228,7 @@
 ||bioskop88slot-slot-bioskop-seru.pages.dev^
 ||bioskopkkslot777.org^
 ||bioskopwinplus.com^
+||biosure.co.uk^
 ||bioteamvikingbet88.pages.dev^
 ||biotechlights-selamatbet.pages.dev^
 ||biotexmedical-indo-sloto.pages.dev^
@@ -141163,6 +141166,7 @@
 ||bonusdepot-10-euros-com-bdd5248b.pages.dev^
 ||bonusdescasinos.com^
 ||bonusdominoqq.net^
+||bonusekran.com^
 ||bonusembercasino.pages.dev^
 ||bonusenterslotsrtp.buzz^
 ||bonuseria-casino-it.pages.dev^
@@ -157128,6 +157132,7 @@
 ||captain-cooks-casino.sk^
 ||captain-cooks-casino.uk^
 ||captain-cooks-casinos-canada.com^
+||captain-corona.nl^
 ||captain-jack-casino-at.at^
 ||captain-jack-casino-at.com^
 ||captain-jack-casino-be.com^
@@ -200471,6 +200476,7 @@
 ||casinom.fr^
 ||casinom.fun^
 ||casinom.im^
+||casinom.io^
 ||casinom.onl^
 ||casinom.online^
 ||casinom.pro^
@@ -228070,10 +228076,8 @@
 ||casoolas-fi-1e2e3167.pages.dev^
 ||casoolas-it-ffdb4498.pages.dev^
 ||casoolas-net.pages.dev^
-||casoolas-netherlands.nl^
 ||casoolas-nl-com.pages.dev^
 ||casoolas-org.pages.dev^
-||casoolas.at^
 ||casoolas.es^
 ||casoolas.fi^
 ||casoolas.it^
@@ -228087,26 +228091,17 @@
 ||casoolasi-live-4c49c8a9.pages.dev^
 ||casoolasi-pro-0816f546.pages.dev^
 ||casoolasi-site-4b178007.pages.dev^
-||casoolasi.live^
-||casoolasi.pro^
-||casoolasi.site^
 ||casoolask-fun-184da2b1.pages.dev^
 ||casoolask-pro-32d56ad2.pages.dev^
 ||casoolask-top-9b34bd05.pages.dev^
 ||casoolask.com^
-||casoolask.fun^
-||casoolask.pro^
 ||casoolask.sk^
-||casoolask.top^
 ||casoolaslot.com^
 ||casoolaslots.co.uk^
 ||casoolaslovenia-com.pages.dev^
-||casoolaslovenia.com^
-||casoolasnl.nl^
 ||casoolaspielen.de^
 ||casoolaspielothek.de^
 ||casoolaspin-au.com^
-||casoolasuomi.fi^
 ||casoolauk.co.uk^
 ||casoolaukcasino.co.uk^
 ||casoolawelt-de.pages.dev^
@@ -238835,6 +238830,7 @@
 ||claims-cryptocasino.pages.dev^
 ||claimscasino.com^
 ||claimtgcasino.pages.dev^
+||clairedouthwaite.co.uk^
 ||claizbonuspage.pages.dev^
 ||clan178slotmania.pages.dev^
 ||clan4dmegajp.com^
@@ -258819,6 +258815,7 @@
 ||danielmartinezcasino.com^
 ||danielpilowskymd.com^
 ||danielpoker.com^
+||danielsgebaeudedienste.de^
 ||danimal-sports-betting-briefing.pages.dev^
 ||danish-bestratedslots.com^
 ||danish-superliga-apuestas.pages.dev^
@@ -289665,6 +289662,7 @@
 ||eyecon-bets-bd0.pages.dev^
 ||eyecon-bets-bdy.pages.dev^
 ||eyecon-scommesse.pages.dev^
+||eyen.fr^
 ||eyeofhorus-casino-slot.top^
 ||eyeofhorus-casino.com^
 ||eyeofhorus-casinogame.top^
@@ -290872,6 +290870,7 @@
 ||f8betv2.onl^
 ||f8betv2.pro^
 ||f8betv3.net^
+||f8betv31.win^
 ||f8betv36.win^
 ||f8betv8.net^
 ||f8betviet.com^
@@ -300029,6 +300028,7 @@
 ||flora123org-pasang-betting.pages.dev^
 ||flora77-slot-gacor.pages.dev^
 ||flora89org-casino-unggulan.pages.dev^
+||florabarnyc.com^
 ||floralessentialoils-sofabet88.pages.dev^
 ||florence-mendez.com^
 ||florentinos.pt^
@@ -308962,6 +308962,7 @@
 ||fugucasino100.de^
 ||fugucasino24.de^
 ||fugucasino5000.com^
+||fugucasino533.buzz^
 ||fugucasinobet.cc^
 ||fugucasinoc.online^
 ||fugucasinoc.ru^
@@ -320269,6 +320270,7 @@
 ||gennerasitogel.com^
 ||gennerasitogel.online^
 ||gennerasitogel.org^
+||genomicscases.net^
 ||genonlineslotsgame0429160951.pages.dev^
 ||genonlineslotsgame0430123051.pages.dev^
 ||genpokernet-amp.pages.dev^
@@ -334893,6 +334895,7 @@
 ||gospincasino.pl^
 ||gospincasino.uy^
 ||gospinph.org^
+||gosportdrivinginstructor.co.uk^
 ||gosportsbetting.net^
 ||gosreg-flokitoto.pages.dev^
 ||gossipbingocasino.co.uk^
@@ -346212,6 +346215,7 @@
 ||heartbingocasino.uk.net^
 ||heartfeltclub.com^
 ||hearthmarblecasino.com^
+||heartlandhealthyneighborhoods.org^
 ||heartmatters.ch^
 ||heartofcasino.co.uk^
 ||heartofcasino.me.uk^
@@ -346227,6 +346231,7 @@
 ||heat-casino.com^
 ||heatercasino.com^
 ||heathcasinoenligne.com^
+||heatherleeokeefe.com^
 ||heatonplay.com^
 ||heats-casino-net.pages.dev^
 ||heats-casino.ca^
@@ -358455,6 +358460,7 @@
 ||hunationalcasino.com^
 ||hundebetting.dk^
 ||hundephysiotherapieberlin.de^
+||hundesalon-bianca.ch^
 ||hundesalon-gerlindeade.de^
 ||hundetraining-danielwitt.de^
 ||hundewetten.de^
@@ -372025,6 +372031,7 @@
 ||iqjililogin.net^
 ||iqjilivip.com^
 ||iqosiluma.tr^
+||iqplaypartners.com^
 ||iqsportsbetting.com^
 ||iquattromori.it^
 ||ir-win-casino-de.com^
@@ -395395,6 +395402,7 @@
 ||joycasino8.site^
 ||joycasino83.sbs^
 ||joycasino877r.buzz^
+||joycasino880.buzz^
 ||joycasino89.online^
 ||joycasino9.site^
 ||joycasino92pqp2l.fun^
@@ -433254,6 +433262,7 @@
 ||liebewunschfee.com^
 ||liechtenstein-casinos.com^
 ||liechtenstein-onlinecasino.com^
+||liechttraeum.ch^
 ||liefdevollehanden-jabartotodaftar.pages.dev^
 ||lielsunmazs.lv^
 ||liem.com.tr^
@@ -482961,6 +482970,7 @@
 ||mellstroy.wine^
 ||mellstroy.xxx^
 ||mellstroy0310.today^
+||mellstroy0735.casino^
 ||mellstroy1.at^
 ||mellstroy1.com^
 ||mellstroy1.live^
@@ -519911,6 +519921,7 @@
 ||newonlinecasinosites.ca^
 ||newonlinecasinosites.games^
 ||newonlinecasinoslist.com^
+||newonlinecasinoslots.org^
 ||newonlinecasinosnz.net^
 ||newonlinecasinossouthafrica.co.za^
 ||newonlinecasinosuk.co.uk^
@@ -536449,6 +536460,7 @@
 ||ocnlogisticallampindrabet.pages.dev^
 ||ocon-com-ar-jutawantoto-vip.pages.dev^
 ||ocoslots.cfd^
+||ocpiph.ro^
 ||ocramnatuurproducten.nl^
 ||oct-ugh-ufa.ru^
 ||octasl07-vip.biz^
@@ -555580,6 +555592,7 @@
 ||paketslot.net^
 ||pakgamecasino.com^
 ||pakhoki-blackjack.pages.dev^
+||pakhuisroermond.nl^
 ||paki2awslot777.pages.dev^
 ||pakiawslot777.pages.dev^
 ||pakiprovbabel-totomaniac.pages.dev^
@@ -619407,6 +619420,7 @@
 ||rc88homebet.com^
 ||rca1688slots.pages.dev^
 ||rca77-casino.com^
+||rcala.com^
 ||rcaoffice-nadimtogel.pages.dev^
 ||rcasino-co-at.pages.dev^
 ||rcasino-co-uk-83.pages.dev^
@@ -695693,6 +695707,7 @@
 ||smartgamblers.club^
 ||smartgamblezone.com^
 ||smartgroupslot77.pages.dev^
+||smartlaw-solicitors.co.uk^
 ||smartlivebetting.com^
 ||smartlivecasino.com^
 ||smartmatchedbetting.co.uk^
@@ -788502,6 +788517,7 @@
 ||viewpilihtogel-com.pages.dev^
 ||viewroyalcasinovictoria.ca^
 ||viewsfest-mg4d-link-slot777-slotgacor-payment-kilat.pages.dev^
+||viewsfromthegods.co.uk^
 ||viewtalaymarina.com^
 ||viewtogel-istana-slot.pages.dev^
 ||viezdnoe-kazino.ru^
@@ -800676,6 +800692,7 @@
 ||wanejobets.co.za^
 ||wanejobetscasino.co.uk^
 ||wanejobetscasino.uk^
+||waneyedgecitylumber.co.uk^
 ||wang368.net^
 ||wangi-787-slot88.pages.dev^
 ||wangi777-slot.pages.dev^
@@ -803063,6 +803080,7 @@
 ||webdesignstore.ca^
 ||webdominoqq.com^
 ||webecasino.com^
+||webecome.co.uk^
 ||webeduslotgacor.pages.dev^
 ||webet188rtp.com^
 ||webet333casino.co.uk^
@@ -828228,6 +828246,7 @@
 ||wwwcasinoly.com^
 ||wwwcasinomaxx.com^
 ||wwwcasinomnl777.com^
+||wwwcasinoper690.com^
 ||wwwcasinopinupradiofeyalegrianoticiasnet371.top^
 ||wwwcasinoplus8.com^
 ||wwwcasinopluscomph.com^

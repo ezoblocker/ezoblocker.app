@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 839,900 | Updated: 2026-11-19
+# Domains: 839,894 | Updated: 2026-11-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -227582,10 +227582,8 @@
 0.0.0.0 casoolas-fi-1e2e3167.pages.dev
 0.0.0.0 casoolas-it-ffdb4498.pages.dev
 0.0.0.0 casoolas-net.pages.dev
-0.0.0.0 casoolas-netherlands.nl
 0.0.0.0 casoolas-nl-com.pages.dev
 0.0.0.0 casoolas-org.pages.dev
-0.0.0.0 casoolas.at
 0.0.0.0 casoolas.es
 0.0.0.0 casoolas.fi
 0.0.0.0 casoolas.it
@@ -227599,26 +227597,17 @@
 0.0.0.0 casoolasi-live-4c49c8a9.pages.dev
 0.0.0.0 casoolasi-pro-0816f546.pages.dev
 0.0.0.0 casoolasi-site-4b178007.pages.dev
-0.0.0.0 casoolasi.live
-0.0.0.0 casoolasi.pro
-0.0.0.0 casoolasi.site
 0.0.0.0 casoolask-fun-184da2b1.pages.dev
 0.0.0.0 casoolask-pro-32d56ad2.pages.dev
 0.0.0.0 casoolask-top-9b34bd05.pages.dev
 0.0.0.0 casoolask.com
-0.0.0.0 casoolask.fun
-0.0.0.0 casoolask.pro
 0.0.0.0 casoolask.sk
-0.0.0.0 casoolask.top
 0.0.0.0 casoolaslot.com
 0.0.0.0 casoolaslots.co.uk
 0.0.0.0 casoolaslovenia-com.pages.dev
-0.0.0.0 casoolaslovenia.com
-0.0.0.0 casoolasnl.nl
 0.0.0.0 casoolaspielen.de
 0.0.0.0 casoolaspielothek.de
 0.0.0.0 casoolaspin-au.com
-0.0.0.0 casoolasuomi.fi
 0.0.0.0 casoolauk.co.uk
 0.0.0.0 casoolaukcasino.co.uk
 0.0.0.0 casoolawelt-de.pages.dev
@@ -290251,6 +290240,7 @@
 0.0.0.0 f8betv2.onl
 0.0.0.0 f8betv2.pro
 0.0.0.0 f8betv3.net
+0.0.0.0 f8betv31.win
 0.0.0.0 f8betv36.win
 0.0.0.0 f8betv8.net
 0.0.0.0 f8betviet.com
@@ -308311,6 +308301,7 @@
 0.0.0.0 fugucasino100.de
 0.0.0.0 fugucasino24.de
 0.0.0.0 fugucasino5000.com
+0.0.0.0 fugucasino533.buzz
 0.0.0.0 fugucasinobet.cc
 0.0.0.0 fugucasinoc.online
 0.0.0.0 fugucasinoc.ru
@@ -394640,6 +394631,7 @@
 0.0.0.0 joycasino8.site
 0.0.0.0 joycasino83.sbs
 0.0.0.0 joycasino877r.buzz
+0.0.0.0 joycasino880.buzz
 0.0.0.0 joycasino89.online
 0.0.0.0 joycasino9.site
 0.0.0.0 joycasino92pqp2l.fun
@@ -482072,6 +482064,7 @@
 0.0.0.0 mellstroy.wine
 0.0.0.0 mellstroy.xxx
 0.0.0.0 mellstroy0310.today
+0.0.0.0 mellstroy0735.casino
 0.0.0.0 mellstroy1.at
 0.0.0.0 mellstroy1.com
 0.0.0.0 mellstroy1.live
@@ -826712,6 +826705,7 @@
 0.0.0.0 wwwcasinoly.com
 0.0.0.0 wwwcasinomaxx.com
 0.0.0.0 wwwcasinomnl777.com
+0.0.0.0 wwwcasinoper690.com
 0.0.0.0 wwwcasinopinupradiofeyalegrianoticiasnet371.top
 0.0.0.0 wwwcasinoplus8.com
 0.0.0.0 wwwcasinopluscomph.com

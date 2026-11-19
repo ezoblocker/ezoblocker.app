@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Czechia (cz)
-# Domains: 44 | Updated: 2026-11-19
+# Domains: 45 | Updated: 2026-11-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/cz.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -26,6 +26,7 @@
 0.0.0.0 hopnato.cz
 0.0.0.0 intimm.cz
 0.0.0.0 kamery.humlnet.cz
+0.0.0.0 kzz.neulannopel.blog
 0.0.0.0 m.flirtkontakt.cz
 0.0.0.0 m.prague.lol
 0.0.0.0 mapy.atlasfirem.info

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Austria (at)
-# Domains: 34 | Updated: 2026-11-19
+# Domains: 37 | Updated: 2026-11-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/at.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -15,6 +15,7 @@
 0.0.0.0 casinooversikt.net
 0.0.0.0 casinopresse.com
 0.0.0.0 ccstpaul.com
+0.0.0.0 danielsgebaeudedienste.de
 0.0.0.0 dolf-win.at
 0.0.0.0 dolfwincasino.at
 0.0.0.0 free-spinsnodeposit.co.uk
@@ -26,11 +27,13 @@
 0.0.0.0 juegaenrabona.com
 0.0.0.0 katsu.bet
 0.0.0.0 kazinobrezlicence.com
+0.0.0.0 liechttraeum.ch
 0.0.0.0 mynecklaze.startupworld.com
 0.0.0.0 newcasino.ai
 0.0.0.0 nodepositninja.com
 0.0.0.0 norgecasino.com
 0.0.0.0 onlinespielcasino.de
+0.0.0.0 rcala.com
 0.0.0.0 schwesterseiten.de
 0.0.0.0 stargames.de
 0.0.0.0 teamdov-americanapparel.net

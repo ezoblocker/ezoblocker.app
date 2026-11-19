@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, United Kingdom (gb)
-# Domains: 73 | Updated: 2026-11-19
+# Domains: 80 | Updated: 2026-11-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 *.avenuemanagement.co.uk
 *.bestgamstopcompare.net
 *.betrating.org
+*.biosure.co.uk
 *.brightontreesurgeon.co.uk
 *.casino-apps.net
 *.casino80.com
@@ -20,6 +21,7 @@
 *.casinouknotongam.co
 *.cheventing.co.uk
 *.cinnamon-lounge.co.uk
+*.clairedouthwaite.co.uk
 *.colden-common-cc.co.uk
 *.community54.com
 *.computerdisposals.co.uk
@@ -32,6 +34,7 @@ emdads.iphasetech.com
 *.firkinalehouse.co.uk
 *.flash-film.co.uk
 *.glassfrogdigital.uk
+*.gosportdrivinginstructor.co.uk
 *.immersionvr.co.uk
 *.j27accountants.co.uk
 *.lolfoundation.co.uk
@@ -61,6 +64,7 @@ emdads.iphasetech.com
 *.reginalddhunter.co.uk
 *.richardhawleyforum.co.uk
 *.rtscenic.co.uk
+*.smartlaw-solicitors.co.uk
 *.songwriteronline.co.uk
 *.staidansprimary.co.uk
 *.stardacasinogb.com
@@ -74,6 +78,9 @@ emdads.iphasetech.com
 *.thevenuedressingcompany.co.uk
 *.unlimitedgamstopfree.com
 *.vavadacasinocz.com
+*.viewsfromthegods.co.uk
 *.vistaroofinglincoln.co.uk
+*.waneyedgecitylumber.co.uk
+*.webecome.co.uk
 *.worldclassarena.org
 *.wsmacademy.co.uk

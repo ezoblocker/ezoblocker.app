@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, ct
-! Domains: 839,900 | Updated: 2026-11-19
+! Domains: 839,894 | Updated: 2026-11-19
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -227582,10 +227582,8 @@
 ||casoolas-fi-1e2e3167.pages.dev^
 ||casoolas-it-ffdb4498.pages.dev^
 ||casoolas-net.pages.dev^
-||casoolas-netherlands.nl^
 ||casoolas-nl-com.pages.dev^
 ||casoolas-org.pages.dev^
-||casoolas.at^
 ||casoolas.es^
 ||casoolas.fi^
 ||casoolas.it^
@@ -227599,26 +227597,17 @@
 ||casoolasi-live-4c49c8a9.pages.dev^
 ||casoolasi-pro-0816f546.pages.dev^
 ||casoolasi-site-4b178007.pages.dev^
-||casoolasi.live^
-||casoolasi.pro^
-||casoolasi.site^
 ||casoolask-fun-184da2b1.pages.dev^
 ||casoolask-pro-32d56ad2.pages.dev^
 ||casoolask-top-9b34bd05.pages.dev^
 ||casoolask.com^
-||casoolask.fun^
-||casoolask.pro^
 ||casoolask.sk^
-||casoolask.top^
 ||casoolaslot.com^
 ||casoolaslots.co.uk^
 ||casoolaslovenia-com.pages.dev^
-||casoolaslovenia.com^
-||casoolasnl.nl^
 ||casoolaspielen.de^
 ||casoolaspielothek.de^
 ||casoolaspin-au.com^
-||casoolasuomi.fi^
 ||casoolauk.co.uk^
 ||casoolaukcasino.co.uk^
 ||casoolawelt-de.pages.dev^
@@ -290251,6 +290240,7 @@
 ||f8betv2.onl^
 ||f8betv2.pro^
 ||f8betv3.net^
+||f8betv31.win^
 ||f8betv36.win^
 ||f8betv8.net^
 ||f8betviet.com^
@@ -308311,6 +308301,7 @@
 ||fugucasino100.de^
 ||fugucasino24.de^
 ||fugucasino5000.com^
+||fugucasino533.buzz^
 ||fugucasinobet.cc^
 ||fugucasinoc.online^
 ||fugucasinoc.ru^
@@ -394640,6 +394631,7 @@
 ||joycasino8.site^
 ||joycasino83.sbs^
 ||joycasino877r.buzz^
+||joycasino880.buzz^
 ||joycasino89.online^
 ||joycasino9.site^
 ||joycasino92pqp2l.fun^
@@ -482072,6 +482064,7 @@
 ||mellstroy.wine^
 ||mellstroy.xxx^
 ||mellstroy0310.today^
+||mellstroy0735.casino^
 ||mellstroy1.at^
 ||mellstroy1.com^
 ||mellstroy1.live^
@@ -826712,6 +826705,7 @@
 ||wwwcasinoly.com^
 ||wwwcasinomaxx.com^
 ||wwwcasinomnl777.com^
+||wwwcasinoper690.com^
 ||wwwcasinopinupradiofeyalegrianoticiasnet371.top^
 ||wwwcasinoplus8.com^
 ||wwwcasinopluscomph.com^
