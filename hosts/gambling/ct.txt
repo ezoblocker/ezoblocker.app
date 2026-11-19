@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 839,904 | Updated: 2026-11-18
+# Domains: 839,900 | Updated: 2026-11-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -102042,7 +102042,6 @@
 0.0.0.0 betfair-ie.com
 0.0.0.0 betfair-ie.net
 0.0.0.0 betfair-italia-bet.pages.dev
-0.0.0.0 betfair-italia.bet
 0.0.0.0 betfair-italiano-com-58da9394.pages.dev
 0.0.0.0 betfair-italiano.com
 0.0.0.0 betfair-login-br.com
@@ -109171,7 +109170,6 @@
 0.0.0.0 betnjet-eu-21218.pages.dev
 0.0.0.0 betnjet-eu.nl
 0.0.0.0 betnjet-fi-21055.pages.dev
-0.0.0.0 betnjet-fr.online
 0.0.0.0 betnjet-fr.pages.dev
 0.0.0.0 betnjet-france.com
 0.0.0.0 betnjet-gb.co.uk
@@ -219180,6 +219178,7 @@
 0.0.0.0 casinoswift.de
 0.0.0.0 casinoswift.de.com
 0.0.0.0 casinoswift.fi
+0.0.0.0 casinoswift.site
 0.0.0.0 casinoswift.uk
 0.0.0.0 casinoswifty.com
 0.0.0.0 casinoswildzy.com
@@ -324887,7 +324886,6 @@
 0.0.0.0 glorycasinoonlinebolivia.com
 0.0.0.0 glorycasinoonlinelogin.com
 0.0.0.0 glorycasinop.com
-0.0.0.0 glorycasinopkr.com
 0.0.0.0 glorycasinoplay.com
 0.0.0.0 glorycasinoplus.com
 0.0.0.0 glorycasinopromocode-com-d79f6d35.pages.dev
@@ -325183,7 +325181,6 @@
 0.0.0.0 go-betboostwin.xyz
 0.0.0.0 go-betclic.com
 0.0.0.0 go-betfury.com
-0.0.0.0 go-betnacional-br.com
 0.0.0.0 go-betsson.com
 0.0.0.0 go-bizzo-casino.com
 0.0.0.0 go-boost-winonline.click
@@ -466960,6 +466957,7 @@
 0.0.0.0 mariobetgiris.site
 0.0.0.0 mariobetgirisi.org
 0.0.0.0 mariobetguncel.org
+0.0.0.0 mariobetguncel.site
 0.0.0.0 mariobetit.shop
 0.0.0.0 mariobetkayit-com.pages.dev
 0.0.0.0 mariobettella.com
@@ -498418,7 +498416,6 @@
 0.0.0.0 mostbet-official.bet
 0.0.0.0 mostbet-official.co.in
 0.0.0.0 mostbet-official.com
-0.0.0.0 mostbet-official.help
 0.0.0.0 mostbet-official.one
 0.0.0.0 mostbet-official.run
 0.0.0.0 mostbet-official.se
@@ -499030,6 +499027,7 @@
 0.0.0.0 mostbet-stavk1.ru
 0.0.0.0 mostbet-stavka.ru
 0.0.0.0 mostbet-stavki-na-sport.com
+0.0.0.0 mostbet-stavki.online
 0.0.0.0 mostbet-stawki-graj.pl
 0.0.0.0 mostbet-store.com
 0.0.0.0 mostbet-story.com
@@ -612405,7 +612403,6 @@
 0.0.0.0 rainbetapp.net
 0.0.0.0 rainbetapp.ph
 0.0.0.0 rainbetappcanada.com
-0.0.0.0 rainbetapps.com
 0.0.0.0 rainbetau1.com
 0.0.0.0 rainbetbettingca.com
 0.0.0.0 rainbetblackjack.ca
@@ -654035,7 +654032,6 @@
 0.0.0.0 scarawins-casino.nl
 0.0.0.0 scarawins1-casino.com
 0.0.0.0 scarawinscasino.click
-0.0.0.0 scarborough-casino.com
 0.0.0.0 scarborough-casino.pages.dev
 0.0.0.0 scaresandbeyondhalloweenmasks.com
 0.0.0.0 scarestage-gurutoto.pages.dev

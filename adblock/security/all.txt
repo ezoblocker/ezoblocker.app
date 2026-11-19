@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Security
-! Domains: 81,722 | Updated: 2026-11-18
+! Domains: 81,548 | Updated: 2026-11-19
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -450,7 +450,6 @@
 ||abra-xaswallet-cdn.pages.dev^
 ||abrx-wallet-access.pages.dev^
 ||absaonlinebanking.pages.dev^
-||abv-gbg131.top^
 ||abv-gbg141.top^
 ||abybitapp.com^
 |ac-posteitaliane.imagicle.cloud^
@@ -1124,11 +1123,9 @@
 ||acess-trezzo-en-us.pages.dev^
 ||acess-trzorio.pages.dev^
 ||acess-trzr-io--start.pages.dev^
-||acessenetempresa.app^
 |acesso-bancoctt-digital.billing-verification.click^
 |acesso.web-gov-online.co^
 ||acessogarantido.it.com^
-||acessosantander.com^
 ||ackyaewt-appleid.pages.dev^
 ||acnor4-1qorin.pages.dev^
 ||acnor4-1vexil.pages.dev^
@@ -1969,7 +1966,6 @@
 ||akbank-direktkredim.pages.dev^
 ||akbank-interface.com^
 ||akbank-tr.biz^
-||akbank-tr.info^
 ||akbank-tr.live^
 ||akbank-tr.pro^
 |akbank.hemenbasvur.com^
@@ -4112,7 +4108,6 @@
 |aramex.shyp.ai^
 |aramex.trackbridge.com^
 |aramex.tremenzo.com^
-||aramexbusiness.com^
 ||aramexcourierlimited.online^
 ||arc-ledger-com-start.pages.dev^
 |archer.westeurope.cloudapp.azure.com^
@@ -5197,7 +5192,6 @@
 |auth.amazon-com-ap-account-signin-openid.50-6-21-253.cpanel.site^
 |auth.microsoft-online-com-common-sign-openid.48-214-144-196.cpanel.site^
 |auth.microsotfonline.cloud-auths.com^
-||auth4576-arviall.info^
 ||authcaptcha-metasuite.com^
 ||authd-coin-basecom-docs.pages.dev^
 ||authd-crypto-com-a.pages.dev^
@@ -5459,7 +5453,6 @@
 ||averidexai.sbs^
 ||aveswaper.pages.dev^
 ||aveswaps-apd.pages.dev^
-|avito.paypal-caseid986.netflixdxb.com^
 ||avoralis-crystalhollow.click^
 ||avsfilom.net^
 ||avvs-api-mcsf-onilne.workers.dev^
@@ -6354,7 +6347,6 @@
 ||bhs-links-wraith.website^
 ||bhs-links-wyvern.website^
 ||bhu-whats-app.com.cn^
-||bia-atualiza.digital^
 ||bibuy-login.pages.dev^
 |biedronka-ekod-barcode.0007734.xyz^
 ||bieng-en-ledgr.pages.dev^
@@ -6766,7 +6758,6 @@
 ||bjhjhjkj.workers.dev^
 ||bjs8xr8r-appleid.pages.dev^
 ||bl-whatssapp.com.cn^
-|blablacar.paypal-caseid986.netflixdxb.com^
 ||black-fii-login.pages.dev^
 ||blackanimehairrobloxid.pages.dev^
 ||blackrosefinbitnex-crypto.com^
@@ -7086,7 +7077,6 @@
 ||booking-confirm921.com^
 ||booking-confirmation082026app.com^
 ||booking-confirmation170728app.com^
-||booking-confirmation178368app.com^
 ||booking-confirmation179426app.com^
 ||booking-confirmation180826app.com^
 ||booking-confirmation190826app.com^
@@ -7189,7 +7179,6 @@
 ||bredge-ttreazor.pages.dev^
 ||brelqant-biz-xenvor-4n03t26.pages.dev^
 ||brelviontaxis-morquendila.live^
-||brenqassure.com^
 ||brgde-io-en-trzo.pages.dev^
 ||brgde-io-tezor.pages.dev^
 ||brickken.pages.dev^
@@ -8834,7 +8823,6 @@
 |carousell-parser.91208274.xyz^
 ||carousell-paysafety.cc^
 ||carousell-verif.my^
-||carousellbuyorder.com^
 ||carouselle.co.uk^
 ||carousellmydeal.com^
 ||carousellorder.com^
@@ -8908,7 +8896,6 @@
 ||cctv8zhibozaixianguankan.lol^
 ||cctvtiyupindaonbazhiboshijian.lol^
 ||cctvtiyupindaozhibozaixianguankan.lol^
-|cdek.paypal-caseid986.netflixdxb.com^
 ||cdn--coinbasewllet-extnsun.pages.dev^
 ||cdn--koinbasepro-logn.pages.dev^
 ||cdn--met-msk-walets-ask-en.pages.dev^
@@ -14590,7 +14577,6 @@
 ||dmartflash.pages.dev^
 ||dme-whatsapp.com.cn^
 ||dng-whatsapp.com.cn^
-||dns-anycast-lax1-authoritative-node07.life^
 ||do-download-trezur-bridgee.pages.dev^
 ||do-en-trezorrio.pages.dev^
 ||do-exdus-web.pages.dev^
@@ -20907,7 +20893,6 @@
 ||faceb00k.pages.dev^
 ||facebkauth.pages.dev^
 ||facebkclaim.pages.dev^
-|facebok.comook.com^
 ||facebok24.pages.dev^
 ||facebokhelpcenterse.pages.dev^
 ||facebokhelpcnter.pages.dev^
@@ -21185,7 +21170,6 @@
 ||faceboook-reels938y487u.pages.dev^
 ||faceboook.dev^
 |faceboook.sarani.online^
-||faceit-approve.pro^
 ||faceit-verify-account.com^
 ||faceit-verify-cs.com^
 ||faceitverify-clubs.com^
@@ -22523,7 +22507,6 @@
 ||flux-ridge.pages.dev^
 ||fluxrecehh.pages.dev^
 ||fluxrefund.space^
-||fluxrepository.cc^
 ||fluxrungkad.pages.dev^
 ||flxedfloat.pages.dev^
 ||flxedfloat.us^
@@ -24392,7 +24375,6 @@
 ||google-hydro-air-blower-gift.net.ph^
 ||google-hydro-air-blower-support.net.ph^
 ||google-isupport.info^
-||google-k12-alert.com^
 ||google-meet-room.pages.dev^
 ||google-meet-room1.pages.dev^
 |google-meets-password.winmill.workers.dev^
@@ -24503,7 +24485,6 @@
 ||grailedprocess.com^
 ||grandpashabetgirisleri.net^
 ||grannyrobloxhackspeed.pages.dev^
-||granvex-holdings.com^
 ||gratefulrobloxid.pages.dev^
 ||gravo-lenct-biz-nokta-derin-sp8ct12.pages.dev^
 ||graybeardhyperthermia.autos^
@@ -29055,9 +29036,7 @@
 ||hot-vidios-on-my-whatsapp-ah4.pages.dev^
 ||hot-vidios-on-my-whatsapp69.pages.dev^
 ||hoteelfres-botuqesa24.com^
-||hoteelres-botuqesa5512.com^
 ||hoteelres-botuqesa9235.com^
-||hoteeslres-botuqesa18654.com^
 ||hotel-conflrmreservatlon.com^
 ||hotelservce-relayroom41.com^
 |hotmaiil.timenew.workers.dev^
@@ -29661,7 +29640,6 @@
 ||i-rustcapital-log.pages.dev^
 ||i-signin-trustcapital.pages.dev^
 ||i-starttezor.pages.dev^
-||i-taupontosxja.com^
 ||i-trast-wallet-login.pages.dev^
 ||i-trastt-login.pages.dev^
 ||i-trezorwallet.pages.dev^
@@ -30473,7 +30451,6 @@
 ||ingbanksupport.ph^
 ||ingbankunlocked.ph^
 ||ingdirect-consultas-soporte.com^
-||ingdirect-portal-inicio.com^
 ||ingenieriavirtual.online^
 ||inicio-traderepublic.com^
 ||iniciodesesionroblox.pages.dev^
@@ -33616,39 +33593,9 @@
 ||js-whatapp.hl.cn^
 ||jsmetas-bussine-suppot.pages.dev^
 |jt-express-brazil.asmontech.online^
-||jtexpress-ca.top^
-||jtexpress-cd.top^
-||jtexpress-cg.top^
-||jtexpress-ch.top^
-||jtexpress-cl.top^
-||jtexpress-cv.top^
-||jtexpress-cz.top^
-||jtexpress-ds.top^
-||jtexpress-ea.top^
-||jtexpress-eb.top^
-||jtexpress-ec.top^
-||jtexpress-ef.top^
-||jtexpress-ej.top^
-||jtexpress-el.top^
-||jtexpress-en.top^
-||jtexpress-eq.top^
-||jtexpress-er.top^
-||jtexpress-es.top^
-||jtexpress-et.top^
-||jtexpress-eu.top^
-||jtexpress-ev.top^
-||jtexpress-ew.top^
-||jtexpress-ex.top^
-||jtexpress-ey.top^
-||jtexpress-ez.top^
 ||jtexpress-gtg.top^
-||jtexpress-iac.top^
 ||jtexpress-iaf.top^
 ||jtexpress-iaj.top^
-||jtexpress-iak.top^
-||jtexpress-iam.top^
-||jtexpress-iat.top^
-||jtexpress-iaz.top^
 ||jtexpress-ida.top^
 ||jtexpress-idb.top^
 ||jtexpress-idc.top^
@@ -33676,11 +33623,8 @@
 ||jtexpress-isq.top^
 ||jtexpress-isr.top^
 ||jtexpress-ist.top^
-||jtexpress-isv.top^
 ||jtexpress-isw.top^
-||jtexpress-isx.top^
 ||jtexpress-isy.top^
-||jtexpress-isz.top^
 ||jtexpress-jta.top^
 ||jtexpress-jtb.top^
 ||jtexpress-jtc.top^
@@ -33690,47 +33634,6 @@
 ||jtexpress-jth.top^
 ||jtexpress-jts.top^
 ||jtexpress-jtx.top^
-||jtexpress-ka.top^
-||jtexpress-kb.top^
-||jtexpress-kc.top^
-||jtexpress-ke.top^
-||jtexpress-kn.top^
-||jtexpress-kr.top^
-||jtexpress-ks.top^
-||jtexpress-kv.top^
-||jtexpress-kw.top^
-||jtexpress-kx.top^
-||jtexpress-kyq.top^
-||jtexpress-kyt.top^
-||jtexpress-kz.top^
-||jtexpress-po.top^
-||jtexpress-pq.top^
-||jtexpress-pr.top^
-||jtexpress-pt.top^
-||jtexpress-pw.top^
-||jtexpress-ra.top^
-||jtexpress-rb.top^
-||jtexpress-rc.top^
-||jtexpress-rd.top^
-||jtexpress-re.top^
-||jtexpress-rf.top^
-||jtexpress-rg.top^
-||jtexpress-rh.top^
-||jtexpress-rn.top^
-||jtexpress-rq.top^
-||jtexpress-rs.top^
-||jtexpress-rt.top^
-||jtexpress-ru.top^
-||jtexpress-rv.top^
-||jtexpress-rw.top^
-||jtexpress-rx.top^
-||jtexpress-ry.top^
-||jtexpress-rz.top^
-||jtexpress-sge.top^
-||jtexpress-sgq.top^
-||jtexpress-sgr.top^
-||jtexpress-sgu.top^
-||jtexpress-sgw.top^
 ||jtexpress-sna.top^
 ||jtexpress-snb.top^
 ||jtexpress-snc.top^
@@ -33739,48 +33642,12 @@
 ||jtexpress-snv.top^
 ||jtexpress-snx.top^
 ||jtexpress-snz.top^
-||jtexpress-tb.top^
-||jtexpress-tc.top^
-||jtexpress-tj.top^
-||jtexpress-tk.top^
-||jtexpress-tky.top^
-||jtexpress-tl.top^
-||jtexpress-tm.top^
 ||jtexpress-tn.top^
-||jtexpress-to.top^
-||jtexpress-tp.top^
-||jtexpress-tv.top^
-||jtexpress-tx.top^
 ||jtexpress-tya.top^
 ||jtexpress-tyf.top^
 ||jtexpress-tyh.top^
 ||jtexpress-tys.top^
-||jtexpress-tyu.top^
-||jtexpress-tyw.top^
-||jtexpress-tz.top^
-||jtexpress-xb.top^
-||jtexpress-xc.top^
-||jtexpress-xf.top^
-||jtexpress-xg.top^
-||jtexpress-xh.top^
-||jtexpress-xj.top^
-||jtexpress-xl.top^
-||jtexpress-xm.top^
-||jtexpress-xn.top^
-||jtexpress-xv.top^
-||jtexpress-xz.top^
-||jtexpress-ya.top^
-||jtexpress-yd.top^
-||jtexpress-ye.top^
-||jtexpress-yg.top^
 ||jtexpress-yj.cc^
-||jtexpress-yke.top^
-||jtexpress-ykq.top^
-||jtexpress-ykr.top^
-||jtexpress-ykt.top^
-||jtexpress-yq.top^
-||jtexpress-ys.top^
-||jtexpress-yw.top^
 ||jtexpress-yx.cc^
 ||jtexpress-yz.cc^
 ||jtst-4-aliexpress-c1z.pages.dev^
@@ -33922,6 +33789,7 @@
 ||kasyno-min-depozyt-10zl-skrill-com-pl.pages.dev^
 ||kasyno-online-skrill-pl-com.pages.dev^
 ||kasyno-paypal-pl.pages.dev^
+||kasynobezweryfikacji.cfd^
 ||kasynobezweryfikacji.lol^
 ||kasynominimalnydepozyt10zlskrill-com-pl.pages.dev^
 |katespade.delivery-info.net^
@@ -35291,6 +35159,7 @@
 ||larn-trzr-strt.pages.dev^
 ||larnixo-biz-kelvex-5126.pages.dev^
 ||lasportivasale.us^
+||lasportivausalife.com^
 ||latest-krkenn-io-en-us.pages.dev^
 ||latest-marathi-movies-on-amazon-prime.pages.dev^
 ||launch-app-ldgre-live.pages.dev^
@@ -45154,7 +45023,6 @@
 |login.microsftonline.kfca-sa.com^
 |login.microsoftonline-sharepoint.zelvantaaa.world^
 |login.microsotfonline.cloud-auths.com^
-|login.onuris-my-sharepiont.com^
 |login.robinhood4good.online^
 |login.samsung-mobile.it^
 |login.secure.microsoftonlline.officexyv.work^
@@ -48885,7 +48753,6 @@
 ||myhouseprojects.pages.dev^
 ||myhouseprojecttt.pages.dev^
 ||myicloud.support^
-||myjcb-j-point-login.com^
 ||myledgerdiagnostics.com^
 ||myledgerhardware-recovery.pages.dev^
 ||myledgerhelphub.com^
@@ -49874,7 +49741,6 @@
 ||netcouin-login.pages.dev^
 ||netcxoin-login.pages.dev^
 ||netempresarialacesso.digital^
-||netempresasapp.digital^
 ||netempresaspj.net^
 ||netfilx-clone.pages.dev^
 ||netfilx-invoice.com^
@@ -50487,7 +50353,6 @@
 ||ninewestshoes.co.uk^
 ||ningbankverify-securereport.com.ph^
 ||ninja-slushi-recovery.pages.dev^
-||ninjavan-logi.top^
 ||niofibragenciavirtual.online^
 |niscybau.bill-netfilx-dashboardapps.161-35-102-243.cpanel.site^
 ||nit-kucoin-login.pages.dev^
@@ -54053,7 +53918,6 @@
 ||paypal-banking.org.ph^
 ||paypal-bhft7f76s82e5of.pages.dev^
 ||paypal-build.pages.dev^
-|paypal-caseid986.netflixdxb.com^
 ||paypal-com-17w5w8wg5fp6yv4jidbku5r5rv3s9imq.pages.dev^
 ||paypal-com-3nb896pjsklo2tgo7w02sxofse01vt6u.pages.dev^
 ||paypal-com-4mhyp1dtsueay39lxgd92ongd0ac96xw.pages.dev^
@@ -54567,7 +54431,6 @@
 ||pinterestdew.pages.dev^
 ||pinterestdl.pages.dev^
 ||pinterestdrop.pages.dev^
-|pinuseferro-zoro.lapakcuan.shop^
 ||pio-nexx-echnge-lgn-hlp-web.pages.dev^
 ||pionex-app.pages.dev^
 ||pionex-es-us-exchange.pages.dev^
@@ -54583,7 +54446,6 @@
 ||piraeus-green-banking.ph^
 ||pitviperussale.com^
 ||pizzaparavoce.com.br^
-||pjbradescoatendimento.com^
 ||pjc-whatsapp.com.cn^
 ||pjlska-bitradex.top^
 ||pjnetempresa.cfd^
@@ -54597,9 +54459,6 @@
 ||pl-oferta1929283884.shop^
 ||pl-oferta4585126.cyou^
 ||pl-oferta55659.sbs^
-||pl-oferta7193174.cfd^
-||pl-oferta82584281.shop^
-||pl-oferta82921505.shop^
 ||pl-oferta875fg56f.click^
 ||pl-oferta902784.click^
 ||pl-ogloszenia901.shop^
@@ -54661,7 +54520,6 @@
 ||poik-whatsapp.com.cn^
 ||poin-fstvl-co-id.pages.dev^
 ||poin-fstvl-com.pages.dev^
-||point-whatsapp.com^
 ||poiuytrewqasdfghjklmnbvcxzqwe.pages.dev^
 ||pojct-xndax-auths.pages.dev^
 ||polaro-biz-zenqil-27126.pages.dev^
@@ -55171,7 +55029,6 @@
 ||poshmark-id84589.pages.dev^
 ||poshmark-ofers.sbs^
 ||poshmark-order187473.cfd^
-||poshmark-procedure.repair^
 ||poshmark-project.com^
 ||poshmark-s.info^
 ||poshmark-safeform.com^
@@ -55200,7 +55057,6 @@
 ||poshmarkp.help^
 ||poshmarkproceed.icu^
 ||poshmarks-usa.com^
-||poshmarksale.click^
 ||poshmarkself.com^
 ||poshmarkseller.info^
 ||poshmarksells.com^
@@ -56771,7 +56627,6 @@
 ||revolut-web-verify.ph^
 ||revolutonlinebanking.co.uk^
 ||revoluts.pages.dev^
-||revolutsupport.net^
 ||revolutsupport.pages.dev^
 ||revprobit.pages.dev^
 ||revs-stonks.pages.dev^
@@ -57164,7 +57019,6 @@
 ||robinhood-x-login-en-us.pages.dev^
 ||robinhoodaccessprofileverify.pages.dev^
 ||robinhoodai69.pages.dev^
-||robinhoodalert.com^
 ||robinhoodassetrecoverygroupllc.com^
 ||robinhoodassetsrecovery.com^
 ||robinhoodatlas.pages.dev^
@@ -57336,7 +57190,6 @@
 ||room-for-dating.pages.dev^
 ||roomdatewhatsappprivate.pages.dev^
 ||roomdatewhatsappsoecial.pages.dev^
-||roosfbotuque-homesa75124.com^
 ||root-main-bridge-trezor.pages.dev^
 ||rootluxerisq.pro^
 ||roshmark-payments.com^
@@ -57375,7 +57228,6 @@
 ||rrobinhood-logiin.pages.dev^
 ||rrovinhood-login.pages.dev^
 ||rsrvasid-botuqqe701.com^
-||rsrvasid-botuqqe761.com^
 ||rsxfan-whatsapp.hk.cn^
 ||rt-letsvpn.com.cn^
 ||rtewadsfgfhguoytrew4wetrytuyiukhgf2kuytrdfgchfgjuyft2.pages.dev^
@@ -65032,7 +64884,6 @@
 ||support-appledgr-learn.pages.dev^
 ||support-appleid-apple-secure-identity.ph^
 ||support-apps-liveledgr.pages.dev^
-||support-auspost-au.info^
 ||support-bdo.cc^
 ||support-binance.exchange^
 ||support-binance.finance^
@@ -66056,15 +65907,11 @@
 |support.apple.es.find-device.online^
 |support.broadview-engie.com^
 |support.com-microsoft-onedrive-auth.com^
-|support.dashboard.alpha.bankom.su^
-|support.grab-cash-now.com^
 |support.llydsbank.com^
 |support.nbg.wirth.digital^
-|support.ns2.alpha.bankom.su^
 |support.om.neodos.gr^
 |support.pbm-paymaya-com.workers.dev^
 |support.play-delta-track.xyz^
-|support.superset.alpha.bankom.su^
 |support.tng-apps.sbs^
 ||supportauth-io-web.pages.dev^
 ||supportbinancemail.com^
@@ -66529,7 +66376,6 @@
 ||tejegbnydq.work^
 ||tejegbqjtn.work^
 ||tejegbtrnso.fit^
-||tejegckfap.fit^
 ||tejegckfap.work^
 ||tejegcrjtw.click^
 ||tejegcrjtw.club^
@@ -66715,8 +66561,6 @@
 ||telagraim.xyz^
 ||telagrams.org^
 ||telagrarn.org^
-||telagrdam.xyz^
-||telagrfam.xyz^
 ||telcelrewards.com^
 ||telcelrewards.net^
 ||telcoins-bank-com.pages.dev^
@@ -66730,7 +66574,6 @@
 ||telegarma.org^
 ||telegarmeapp.pages.dev^
 ||telegdata.click^
-||teleghtnin.work^
 ||teleghtprw.beer^
 ||teleghtprw.luxe^
 |telegiftstest.i.yaklovn.xyz^
@@ -66830,7 +66673,6 @@
 ||telegrrram.pages.dev^
 ||telegxxsab.bond^
 ||telegxxsab.cyou^
-||telejunmyo.wiki^
 ||telekom-billing-invoice-agent.pages.dev^
 ||telekom-invoice-checker-it.pages.dev^
 ||telenor-mne-jxsul.icu^
@@ -66838,7 +66680,6 @@
 ||teleproogr.club^
 ||teleproogu.click^
 ||teleproogu.shop^
-||teleroxrea.club^
 ||teleroxrea.shop^
 ||teleroxroc.bond^
 ||teleroxroc.cyou^
@@ -67026,7 +66867,6 @@
 ||tevecoria.work^
 ||tevehyzel.top^
 ||tew-whatsapp.com.cn^
-||texequicks.club^
 ||texequicks.xyz^
 ||texolura-janorive.pages.dev^
 ||text-esl-org-fraud.cfd^
@@ -67255,7 +67095,6 @@
 ||tiktok88-4np.pages.dev^
 ||tiktok96-zsrz.pages.dev^
 ||tiktokads.ai^
-||tiktokapikkk.top^
 ||tiktokapk.info^
 ||tiktokapp-9ob.pages.dev^
 ||tiktokappiailianintrouvable.click^
@@ -72604,7 +72443,6 @@
 ||trionexishoje.online^
 ||trivexon-myrkal-com.pages.dev^
 ||trivone.gifts^
-||trivonet.top^
 ||triz-or-suites.pages.dev^
 ||trizo-r-suites.pages.dev^
 ||trizoor-suiits.pages.dev^
@@ -76316,7 +76154,6 @@
 ||velodromefi.xyz^
 ||velora-facilitate.pages.dev^
 ||velorafundsaiv2-pro.pages.dev^
-||velorianmesh.cc^
 ||velorix.top^
 ||velro-hyxen-tino.pages.dev^
 ||veltharion-thryphexon.pages.dev^
@@ -80337,7 +80174,6 @@
 ||workwithstartttrezz.pages.dev^
 |world-broad-outlookweb.c1ou-d-o-storage.workers.dev^
 |world-still-outlookwebapp.c-1ou-d-o-storage.workers.dev^
-||world-verification.com^
 ||world-wide-recovery-center.cfd^
 ||world-zksyncio.pages.dev^
 |world2.verify-store-pickup-item-api.mirage.stin.cc^
@@ -80643,7 +80479,6 @@
 |www.cib-next-icici-banking-in.ewiisolutions.com^
 |www.coinb376ase-support-6724system.alldapps.info^
 |www.commbank.com.au-deviceid401101.tashabridals.com^
-|www.community.support.superset.alpha.bankom.su^
 |www.confirm-airbnb.listing-rooms-29500.homes^
 |www.confirm-airbnb.listing-rooms-750183.homes^
 |www.confirm-airbnb.rooms-listing-594177.homes^
@@ -80692,7 +80527,6 @@
 |www.ezpass.csc.patumpike.com^
 |www.ezzpass-billing-pay.135-237-99-191.cpanel.site^
 |www.facebook-live.login-ken.com^
-|www.faceboook.comook.com^
 |www.fedex-delivery-tracking.aiianc.com^
 |www.gestion-vignette-verification.com.ipcm-ucc.cd^
 |www.gestion-vignette-verification.ipcm-ucc.cd^
@@ -80868,13 +80702,11 @@
 |www.paypai-security.service-online-david.com^
 |www.paypal-env.getstaylo.com^
 |www.paypal-helpcenter.boutiquemane.com^
-|www.paypal-security-center.com.christchapel.org.ng^
 |www.paypal-tracking-pvt-app.theprimecoders.com^
 |www.paypal-www.pwreset.com^
 |www.paypal.auth-security-verify.com^
 |www.paypal.item-illo.click^
 |www.pdbkohfg.medicare-benefit-verification-portal.161-35-102-243.cpanel.site^
-|www.pinuseferro-zoro.lapakcuan.shop^
 |www.portal-neflix-agrement-support.3-130-3-227.cpanel.site^
 |www.primetask.savorcode.site^
 |www.pusat-bantuan-tokopedia.magr.web.id^
@@ -80909,10 +80741,6 @@
 |www.stericycle.appleid-support-security-verify.212-227-255-11.cpanel.site^
 |www.stl.acct-microsoft-0nline-c0m-sign-3secvl.48-214-144-196.cpanel.site^
 |www.subscription-netflix-id49875.comfreestorelink.me.66-96-84-66.cpanel.site^
-|www.support.dashboard.alpha.bankom.su^
-|www.support.ns.superset.alpha.bankom.su^
-|www.support.ns2.alpha.bankom.su^
-|www.support.superset.alpha.bankom.su^
 |www.surokkha.gov.bd-verify-check.ssonline.site^
 |www.telegram-notification.ethiokeradionconstruction.org^
 |www.ththpgzc.medicare-benefit-verification-portal.161-35-102-243.cpanel.site^
@@ -81508,7 +81336,6 @@
 ||zenitdexeris-platform-com.pages.dev^
 ||zenloraventra.org^
 ||zeno-whatapt.hl.cn^
-||zentrixa.top^
 ||zenvathoralia.org^
 ||zephorixlunavex.site^
 ||zeralith-haven.pages.dev^
@@ -81710,7 +81537,6 @@
 |ztyvmkvc.medicare-benefit-verification-portal.161-35-102-243.cpanel.site^
 ||zulvoriax-click.pages.dev^
 ||zun-whatsapp.com.cn^
-||zunavelqorixymetaspud.com^
 ||zunfuri-mpt-qalveno-r5x7me86.pages.dev^
 ||zuprelvixor.shop^
 ||zuqiuappxiazaiguanwangxiazai.lol^

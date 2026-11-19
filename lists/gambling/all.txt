@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 841,444 | Updated: 2026-11-18
+# Domains: 841,440 | Updated: 2026-11-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -102253,7 +102253,6 @@ betboo.jogo.com.br
 *.betfair-ie.com
 *.betfair-ie.net
 *.betfair-italia-bet.pages.dev
-*.betfair-italia.bet
 *.betfair-italiano-com-58da9394.pages.dev
 *.betfair-italiano.com
 *.betfair-login-br.com
@@ -109429,7 +109428,6 @@ betboo.jogo.com.br
 *.betnjet-eu-21218.pages.dev
 *.betnjet-eu.nl
 *.betnjet-fi-21055.pages.dev
-*.betnjet-fr.online
 *.betnjet-fr.pages.dev
 *.betnjet-france.com
 *.betnjet-gb.co.uk
@@ -219660,6 +219658,7 @@ casinorutoponlinetop9.xn--80afwrr.xn--p1ai
 *.casinoswift.de
 *.casinoswift.de.com
 *.casinoswift.fi
+*.casinoswift.site
 *.casinoswift.uk
 *.casinoswifty.com
 *.casinoswildzy.com
@@ -325562,7 +325561,6 @@ ggbet-casino-4-ywf.tervarinne.fi
 *.glorycasinoonlinebolivia.com
 *.glorycasinoonlinelogin.com
 *.glorycasinop.com
-*.glorycasinopkr.com
 *.glorycasinoplay.com
 *.glorycasinoplus.com
 *.glorycasinopromocode-com-d79f6d35.pages.dev
@@ -325858,7 +325856,6 @@ ggbet-casino-4-ywf.tervarinne.fi
 *.go-betboostwin.xyz
 *.go-betclic.com
 *.go-betfury.com
-*.go-betnacional-br.com
 *.go-betsson.com
 *.go-bizzo-casino.com
 *.go-boost-winonline.click
@@ -467817,6 +467814,7 @@ makati-city.infoisinfo-ph.com
 *.mariobetgiris.site
 *.mariobetgirisi.org
 *.mariobetguncel.org
+*.mariobetguncel.site
 *.mariobetit.shop
 *.mariobetkayit-com.pages.dev
 *.mariobettella.com
@@ -499355,7 +499353,6 @@ mkzc.sorrelhorse.pl
 *.mostbet-official.bet
 *.mostbet-official.co.in
 *.mostbet-official.com
-*.mostbet-official.help
 *.mostbet-official.one
 *.mostbet-official.run
 *.mostbet-official.se
@@ -499968,6 +499965,7 @@ mkzc.sorrelhorse.pl
 *.mostbet-stavk1.ru
 *.mostbet-stavka.ru
 *.mostbet-stavki-na-sport.com
+*.mostbet-stavki.online
 *.mostbet-stawki-graj.pl
 *.mostbet-store.com
 *.mostbet-story.com
@@ -613584,7 +613582,6 @@ rabet-botswana.trunkt.org
 *.rainbetapp.net
 *.rainbetapp.ph
 *.rainbetappcanada.com
-*.rainbetapps.com
 *.rainbetau1.com
 *.rainbetbettingca.com
 *.rainbetblackjack.ca
@@ -655274,7 +655271,6 @@ sbfplay.www.visioncodigo.com
 *.scarawins-casino.nl
 *.scarawins1-casino.com
 *.scarawinscasino.click
-*.scarborough-casino.com
 *.scarborough-casino.pages.dev
 *.scaresandbeyondhalloweenmasks.com
 *.scarestage-gurutoto.pages.dev
