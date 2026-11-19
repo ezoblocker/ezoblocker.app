@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 242 | Updated: 2026-11-19
+# Domains: 243 | Updated: 2026-11-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -55,6 +55,7 @@
 0.0.0.0 betsmoveplus.com
 0.0.0.0 betsmoveresmi.blog
 0.0.0.0 betsmoveresmi.bond
+0.0.0.0 betsmoves210.com
 0.0.0.0 betticketbet.com
 0.0.0.0 bettilt.partners
 0.0.0.0 bettiltlogin.com

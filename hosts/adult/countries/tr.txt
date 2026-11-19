@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 621 | Updated: 2026-11-19
+# Domains: 625 | Updated: 2026-11-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,6 +17,7 @@
 0.0.0.0 31vaktixc6.lat
 0.0.0.0 31vkti.sbs
 0.0.0.0 31vktialtyazili.cyou
+0.0.0.0 31vktialtyaziliporno.sbs
 0.0.0.0 31vktialtyazilizx9.cfd
 0.0.0.0 31vqkticx13.click
 0.0.0.0 31vqkticx14.click
@@ -119,6 +120,7 @@
 0.0.0.0 bestturksgiris.com
 0.0.0.0 bestturksgiris1.com
 0.0.0.0 beykentsexshop.com
+0.0.0.0 beylikduzubayan1.com
 0.0.0.0 beylikduzuesc.uno
 0.0.0.0 beylikduzuescort.com
 0.0.0.0 beylikduzuescortbayan.org
@@ -225,6 +227,7 @@
 0.0.0.0 escortsinpakistan.online
 0.0.0.0 escortsite.biz
 0.0.0.0 escortsites.org
+0.0.0.0 escortssonia.com
 0.0.0.0 escortstacey.com
 0.0.0.0 eskisehir-escort5.lol
 0.0.0.0 eskisehir-escort6.lol
@@ -302,6 +305,7 @@
 0.0.0.0 istanbulescort.app
 0.0.0.0 istanbulescort.dev
 0.0.0.0 istanbulescortfinest.xyz
+0.0.0.0 istanbulescortglow.click
 0.0.0.0 istanbulescortgrand.click
 0.0.0.0 istanbuleskort5.world
 0.0.0.0 istanbuleskortpro9.world
@@ -398,7 +402,6 @@
 0.0.0.0 porno80cn.site
 0.0.0.0 porno80cx.site
 0.0.0.0 porno900.click
-0.0.0.0 pornoaltyazilihd.online
 0.0.0.0 pornobat.life
 0.0.0.0 pornocu15.shop
 0.0.0.0 pornocu16.shop
@@ -462,6 +465,7 @@
 0.0.0.0 sexwell.bg
 0.0.0.0 shibariturk.com
 0.0.0.0 siirtescortbayanda.xyz
+0.0.0.0 sirinevlerescortara.site
 0.0.0.0 sisli-escort3.lol
 0.0.0.0 sisli-escort4.lol
 0.0.0.0 sisli-escort5.lol

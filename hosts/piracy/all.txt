@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,258 | Updated: 2026-11-19
+# Domains: 1,256 | Updated: 2026-11-19
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,7 +8,6 @@
 0.0.0.0 0jb7na1ub3-amphtml.sear.lu
 0.0.0.0 123movieputlockers.com
 0.0.0.0 123moviesflix.me
-0.0.0.0 123moviesgo.cc
 0.0.0.0 123putlockers.me
 0.0.0.0 1337x.com.im
 0.0.0.0 1kuttymovies.pro
@@ -655,7 +654,6 @@
 0.0.0.0 lockoora.top
 0.0.0.0 locopelis.com
 0.0.0.0 lordfilm-hd.mirfilm.net
-0.0.0.0 lordfilm-hd11.lat
 0.0.0.0 lordfilm-ru0.cc
 0.0.0.0 lordfilm.fi
 0.0.0.0 lordfilms.pub
