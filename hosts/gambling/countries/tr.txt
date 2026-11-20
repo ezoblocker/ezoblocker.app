@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 243 | Updated: 2026-11-20
+# Domains: 244 | Updated: 2026-11-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -230,6 +230,7 @@
 0.0.0.0 venombet346.com
 0.0.0.0 venombet348.com
 0.0.0.0 venombet349.com
+0.0.0.0 venombet398.com
 0.0.0.0 venombetgiris.org
 0.0.0.0 verabet.com
 0.0.0.0 vipre.pohado.top

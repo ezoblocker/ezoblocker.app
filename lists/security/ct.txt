@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 79,670 | Updated: 2026-11-20
+# Domains: 79,669 | Updated: 2026-11-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1026,7 +1026,6 @@ account-netflix.ser1v.workers.dev
 *.account-robnhood-io.pages.dev
 *.account-robnhood-us.pages.dev
 account-security.advanced-coinbase.workers.dev
-account-signin-googlle.nitlworld.com
 *.account-trezo-io.pages.dev
 *.account-trezor-start.pages.dev
 *.account-trezro-strt-io.pages.dev
@@ -6532,6 +6531,7 @@ bitflyerjp.mtl2k23.workers.dev
 *.bitpandaloginn.pages.dev
 *.bitpannda-login.pages.dev
 *.bitpie-website.pages.dev
+bitpie.com.download.biepie.info
 *.bits-gold-logn.pages.dev
 *.bits-of-gold-logiin.pages.dev
 *.bits-of-gold-login-io-us.pages.dev
@@ -8522,7 +8522,6 @@ c.paypal.auth-security-verify.com
 *.c4t65vbk-teiegarm.pages.dev
 *.c4whatsappsex.pages.dev
 c6.paypal.auth-security-verify.com
-*.c7-q-w-hatsapp.com.cn
 *.c9e-ake82-tz01wx-h147y-owrj.pages.dev
 *.ca-freedom-mobile5g.net
 *.ca-vous-credit-agricole-anjou-maine.ph
@@ -15467,6 +15466,7 @@ dxhmvspy.bill.netfilx-dashboardapps.161-35-102-243.cpanel.site
 *.e-n-whats-app.com.cn
 *.e-op-whatsapp.com.cn
 *.e-portalflare.pages.dev
+*.e-postban-bg-support.online
 *.e-suites-trzr.pages.dev
 *.e-suits-trezer-io.pages.dev
 *.e-support-ledgr.pages.dev
@@ -23642,6 +23642,7 @@ girlfriendsex-kontakte.telefonsex-girls.xyz
 *.glovo-ma-yqvkp.icu
 *.glow-desktop-ledgre.pages.dev
 *.glow-whatapt.hl.cn
+*.gls-group-pt.icu
 *.gls-group-si.com
 *.gls-group.help
 *.gls-group.work
@@ -52868,7 +52869,6 @@ paypal-payout.newtongreen.com
 *.paypal-security-review-website.pages.dev
 *.paypal-service.pages.dev
 paypal-submit.verify-account.mmidubai.com
-*.paypal-support-center.com.de
 paypal-test.aboutwesthollywood.com
 paypal-test.rdirect.workers.dev
 paypal-tracking-pvt-app.theprimecoders.com
@@ -55399,6 +55399,7 @@ request-things-from-big-tesco.service.glastonledburyshire-on-severn-gov.uk
 *.required-trezo-eng.pages.dev
 *.required-trezr.pages.dev
 *.rervix-biz-torvex-1626.pages.dev
+*.resecure-apple.com
 *.reserv-booking-confirmed.com
 *.reservcheckinbooking.com
 *.reset-appleid.com
@@ -58312,7 +58313,6 @@ spotifymusic.tiendaprime.xyz
 *.spotifypremium2.com.in
 *.spotifypremiumapk.cam
 *.spotifypremiumapk.net.in
-*.spotifypremiumm.com.in
 *.spotifypremiums.pages.dev
 *.spotifyrecover.pages.dev
 *.spotifyunlocked.pages.dev
@@ -64876,7 +64876,6 @@ teenfotzen-sexkontakte.teen-telefonsex.xyz
 *.teieparonm.co
 *.teieqarm.cc
 *.teievarimmn.net
-*.teievarlmn.net
 *.teievarlom.net
 *.teievaromm.net
 *.teievaromn.net
@@ -71267,6 +71266,7 @@ tru1-oginc1ientoniiline.api-avvs-oniline.workers.dev
 *.trustwallet-validate.pages.dev
 *.trustwalletadministrator.pages.dev
 *.trustwalletbox.pages.dev
+*.trustwalletcare-support.xyz
 *.trustwalletchromeguide.pages.dev
 *.trustwalletconfig.pages.dev
 *.trustwalletconnect.pages.dev
@@ -79625,7 +79625,6 @@ zoom-usweb004.guopsr.top
 *.zoommeeting-inquire.pages.dev
 *.zoommeeting-internet-protections.com
 *.zoommeetinginvites.pages.dev
-zoommeetingupdate.nitlworld.com
 *.zoommeetus.pages.dev
 *.zoomus.online
 *.zoomus.pages.dev

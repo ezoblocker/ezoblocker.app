@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult
-! Domains: 2,850 | Updated: 2026-11-20
+! Domains: 2,851 | Updated: 2026-11-20
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -461,6 +461,7 @@
 ||charlottedewinter.com^
 ||charnel-club.be^
 |chat.europnet.org^
+||chaturbate-v.com^
 ||chaturbate.com.es^
 ||cheaplubeshg.com^
 ||cheiroderosa.com.br^
@@ -574,7 +575,6 @@
 ||dame.com^
 ||damesgenot.nl^
 ||danaporn.best^
-||danaporn2.best^
 ||danichou.de^
 ||danishblue.com.au^
 ||daqgtp.com^
@@ -735,6 +735,7 @@
 ||eisenherzglobal.de^
 ||el-evolution.com^
 ||elartedelplacer.com^
+||elcuartorosa.com^
 ||elegantyou.com.pk^
 ||elektro-motor.cz^
 ||eligetujuguete.com^
@@ -1313,6 +1314,7 @@
 ||lilaw.pl^
 ||lilith-toys.com^
 ||linfini.co^
+||linkbokep.surf^
 ||linksgrupos.com^
 ||lionsden.com^
 |lisboa.classificadosgratis.com.pt^
@@ -1858,7 +1860,6 @@
 ||pornodoeda45.shop^
 ||pornodoeda45.site^
 ||pornodoeda46.shop^
-||pornohope1.blog^
 ||pornoiz18.shop^
 ||pornoizlehane.com^
 ||pornojan1.skin^

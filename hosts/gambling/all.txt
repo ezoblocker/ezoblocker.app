@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 867,220 | Updated: 2026-11-20
+# Domains: 867,224 | Updated: 2026-11-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1103,6 +1103,7 @@
 0.0.0.0 10046bets10.com
 0.0.0.0 10047bets10.com
 0.0.0.0 10048bets10.com
+0.0.0.0 10049bets10.com
 0.0.0.0 10054jojobet.com
 0.0.0.0 1008-royal-reels-casino-australia-site.pages.dev
 0.0.0.0 1008-royal-reels-pandaoshop-com.pages.dev
@@ -15576,6 +15577,7 @@
 0.0.0.0 307tumbet.com
 0.0.0.0 3080betfb.com
 0.0.0.0 30849007.com
+0.0.0.0 3087marsbahis.com
 0.0.0.0 3088marsbahis.com
 0.0.0.0 308abe.bet
 0.0.0.0 309bets10.com
@@ -34992,6 +34994,7 @@
 0.0.0.0 950tumbet.com
 0.0.0.0 951-coolzino.com
 0.0.0.0 951casibom.cam
+0.0.0.0 951hilbet.com
 0.0.0.0 952betfb.com
 0.0.0.0 952betoo.com
 0.0.0.0 952bets10.com
@@ -47661,7 +47664,6 @@
 0.0.0.0 alibet99.org
 0.0.0.0 alicantecasino.es
 0.0.0.0 alicasino.com
-0.0.0.0 alicasino.sbs
 0.0.0.0 alicasinocc.sbs
 0.0.0.0 alice-springs-casino-au-com.pages.dev
 0.0.0.0 alice-springs-casino-official-au-com.pages.dev
@@ -104846,7 +104848,6 @@
 0.0.0.0 betcris.fun
 0.0.0.0 betcris.io
 0.0.0.0 betcris.net.do
-0.0.0.0 betcris.nl
 0.0.0.0 betcris.one
 0.0.0.0 betcris.org.mx
 0.0.0.0 betcris.org.pl
@@ -106251,7 +106252,6 @@
 0.0.0.0 betflix67899.click
 0.0.0.0 betflix68.bet
 0.0.0.0 betflix69.org
-0.0.0.0 betflix7777s.com
 0.0.0.0 betflix789-dvt.pages.dev
 0.0.0.0 betflix789.co
 0.0.0.0 betflix789.live
@@ -110163,6 +110163,7 @@
 0.0.0.0 betkom945.com
 0.0.0.0 betkom946.com
 0.0.0.0 betkom947.com
+0.0.0.0 betkom961.com
 0.0.0.0 betkomadres.com
 0.0.0.0 betkomadres1.com
 0.0.0.0 betkomadresi.com
@@ -111335,7 +111336,6 @@
 0.0.0.0 betmatch-io.com
 0.0.0.0 betmatch-jatekok-com.pages.dev
 0.0.0.0 betmatch-jatekok.com
-0.0.0.0 betmatch-online.com
 0.0.0.0 betmatch-online.de
 0.0.0.0 betmatch-online.net
 0.0.0.0 betmatch-online24.com
@@ -115810,7 +115810,6 @@
 0.0.0.0 betpascasino.co.uk
 0.0.0.0 betpasgiris.co
 0.0.0.0 betpasgiris.info
-0.0.0.0 betpasgiris2026.com
 0.0.0.0 betpasgiris2026.top
 0.0.0.0 betpasgirisin.com
 0.0.0.0 betpasguncelgir.icu
@@ -135990,7 +135989,6 @@
 0.0.0.0 bitstarzcasino-se.com
 0.0.0.0 bitstarzcasino.bet
 0.0.0.0 bitstarzcasino.co.cz
-0.0.0.0 bitstarzcasino.co.it
 0.0.0.0 bitstarzcasino.co.uk
 0.0.0.0 bitstarzcasino.com.co
 0.0.0.0 bitstarzcasino.com.de
@@ -184985,6 +184983,7 @@
 0.0.0.0 casino0910.lol
 0.0.0.0 casino0910.team
 0.0.0.0 casino094.com
+0.0.0.0 casino0f0.top
 0.0.0.0 casino0game.cc
 0.0.0.0 casino0i0.buzz
 0.0.0.0 casino0ix.buzz
@@ -185864,6 +185863,7 @@
 0.0.0.0 casino356.sbs
 0.0.0.0 casino3566x.team
 0.0.0.0 casino358.com
+0.0.0.0 casino35win.top
 0.0.0.0 casino360.club
 0.0.0.0 casino360.com.de
 0.0.0.0 casino360.de.com
@@ -284634,6 +284634,7 @@
 0.0.0.0 duelbits-casino.uk
 0.0.0.0 duelbits-casinos.com
 0.0.0.0 duelbits-promo-code-casino.pages.dev
+0.0.0.0 duelbitsalternative.com
 0.0.0.0 duelbitscasino-at-58698.pages.dev
 0.0.0.0 duelbitscasino-ca.com
 0.0.0.0 duelbitscasino-de.com
@@ -288441,6 +288442,7 @@
 0.0.0.0 eidnslot.com
 0.0.0.0 eiffelpgslot.com
 0.0.0.0 eight-spinwin.pages.dev
+0.0.0.0 eijssink-all-round.nl
 0.0.0.0 eikonikokazino.com
 0.0.0.0 eimpuls-paktoto-bkv.pages.dev
 0.0.0.0 eimsig-smarthome.com
@@ -407340,6 +407342,7 @@
 0.0.0.0 joycasino5017.top
 0.0.0.0 joycasino6.site
 0.0.0.0 joycasino609.top
+0.0.0.0 joycasino706.buzz
 0.0.0.0 joycasino721.fun
 0.0.0.0 joycasino77.com
 0.0.0.0 joycasino777slot.pages.dev
@@ -500010,7 +500013,6 @@
 0.0.0.0 meritbetcasino-ca.pages.dev
 0.0.0.0 meritbetcasino.ca
 0.0.0.0 meritbetgiris2.com
-0.0.0.0 meritbetgiris2026.com
 0.0.0.0 meritbetguncelturkiyeadres.com
 0.0.0.0 meritbetguncelturkiyegiris.com
 0.0.0.0 meritbetllogin.pages.dev
@@ -517952,6 +517954,7 @@
 0.0.0.0 mostbetslotuz.top
 0.0.0.0 mostbetslovenske.com
 0.0.0.0 mostbetsnepal.com
+0.0.0.0 mostbetsng.online
 0.0.0.0 mostbetsonline.pk
 0.0.0.0 mostbetspakistan.com
 0.0.0.0 mostbetspartners.com
@@ -577940,6 +577943,7 @@
 0.0.0.0 pasti-wede-indoslot.pages.dev
 0.0.0.0 pasti-win-belo4d.pages.dev
 0.0.0.0 pasti-win138.pages.dev
+0.0.0.0 pasti77.vip
 0.0.0.0 pastiadajalanmenujutotomacau.pages.dev
 0.0.0.0 pastiakurat-bayutoto.pages.dev
 0.0.0.0 pastiamp-bighoki288.pages.dev
@@ -619174,7 +619178,6 @@
 0.0.0.0 pragmaticplay-casino.games
 0.0.0.0 pragmaticplay-casino.net
 0.0.0.0 pragmaticplay-casino.org
-0.0.0.0 pragmaticplay-casino.se
 0.0.0.0 pragmaticplay.com
 0.0.0.0 pragmaticplaybwin.pages.dev
 0.0.0.0 pragmaticplaybwin.site
@@ -739948,6 +739951,7 @@
 0.0.0.0 sportcryptobetting.com
 0.0.0.0 sportebet77.com
 0.0.0.0 sportecasino.com
+0.0.0.0 sportfysioadvies.nl
 0.0.0.0 sportgate.online
 0.0.0.0 sportgolf-slotgacor.pages.dev
 0.0.0.0 sportifbet.biz
@@ -746307,7 +746311,6 @@
 0.0.0.0 starzbet-uk.com
 0.0.0.0 starzbet.at
 0.0.0.0 starzbet.bio
-0.0.0.0 starzbet.cc
 0.0.0.0 starzbet.ch
 0.0.0.0 starzbet.com
 0.0.0.0 starzbet.com.de
@@ -760153,6 +760156,7 @@
 0.0.0.0 technogiq-blogs-olxslot-gacor-2025.pages.dev
 0.0.0.0 technology-services-topslotbos.pages.dev
 0.0.0.0 technomat-spielautomaten.de
+0.0.0.0 technostuc.nl
 0.0.0.0 techpartscasino.com
 0.0.0.0 techpioneers-totoslot.pages.dev
 0.0.0.0 techslotgames.com
@@ -810082,6 +810086,7 @@
 0.0.0.0 venombet346.com
 0.0.0.0 venombet348.com
 0.0.0.0 venombet349.com
+0.0.0.0 venombet398.com
 0.0.0.0 venombetcanlitv7.com
 0.0.0.0 venombetgir.com
 0.0.0.0 venombetgiris.com
@@ -860686,7 +860691,6 @@
 0.0.0.0 yukoncasinosi.com
 0.0.0.0 yukongold-casino-ca.com
 0.0.0.0 yukongold-casino.at
-0.0.0.0 yukongold-casino.ch
 0.0.0.0 yukongold-casino.co.com
 0.0.0.0 yukongold-casino.co.cz
 0.0.0.0 yukongold-casino.co.nz

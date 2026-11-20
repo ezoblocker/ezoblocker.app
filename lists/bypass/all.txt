@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 193 | Updated: 2026-11-20
+# Domains: 196 | Updated: 2026-11-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,7 @@ anisopstal.rora-desszertmuhely.hu
 app.cyberyozh.com
 *.aproxy.com
 apt.izzysoft.de
+*.banovano.space
 bbs.clashhub.net
 *.bestproxy.com
 *.betternet.be
@@ -29,6 +30,7 @@ cloud.up4.cz
 cloudsupport.sequentum.com
 corp.omake.co.jp
 *.ctunnel.com
+demo.technophoria.co.id
 denseabuchsvit.webmill.hu
 discuss.privacyguides.net
 doc.alvao.com
@@ -78,6 +80,7 @@ lifestyle.assist-all.co.jp
 m.3smedi.co.kr
 maturita.cermat.cz
 mirror.dkm.cz
+mjlb.praxis-book.de
 *.momoproxy.com
 msk.ezak.cz
 *.muaproxyvietnam.com

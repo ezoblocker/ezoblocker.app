@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Malaysia (my)
-# Domains: 14 | Updated: 2026-11-20
+# Domains: 15 | Updated: 2026-11-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/my.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 mega888group1.com
 0.0.0.0 mymega888.net
 0.0.0.0 online.mobissue.com
+0.0.0.0 pasti77.vip
 0.0.0.0 pussy888.co
 0.0.0.0 pussy888.mobi
 0.0.0.0 pussy888.tv

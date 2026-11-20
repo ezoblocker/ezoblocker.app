@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 2,185 | Updated: 2026-11-20
+# Domains: 2,188 | Updated: 2026-11-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -595,6 +595,7 @@ escortathens.webnode.gr
 *.escortcuritiba.info
 *.escortdirectory.com
 *.escortdirectory.xxx
+*.escorte.com
 *.escorteantwerpen.be
 *.escortemature.com
 *.escorteurolatin.it
@@ -833,8 +834,10 @@ fuse.jukujoya.jp
 *.gabile.net
 *.gabilesohbet.net
 *.gaigoi.date
+*.gaigoi3.vc
 *.gaigoihaiphong.xyz
 gaigoihanoivip2.vncns.com
+gaigoihanoivip7.vncns.com
 *.gaigoihuekiemdinh.pro
 *.gaigoiquynhon6.net
 *.gaigoitv5.net

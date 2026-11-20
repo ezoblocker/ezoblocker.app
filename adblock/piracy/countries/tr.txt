@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy, Türkiye (tr)
-! Domains: 108 | Updated: 2026-11-20
+! Domains: 110 | Updated: 2026-11-20
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -78,6 +78,7 @@
 ||netspor.co^
 ||netsporhd10.cc^
 ||netsportv34.pro^
+||okfilmizle.com^
 ||oyunindir.cafe^
 ||oyunindir.club^
 ||oyunindir.vip^
@@ -101,6 +102,7 @@
 ||taraftarium24bjk29.com^
 ||taraftarium24soturkiye.org^
 ||taraftarium24turkiyetv.net^
+||tikfilmizle.com^
 ||torrentdevi.org^
 ||torrentoyunindir.co^
 ||trdiziizle.tv^

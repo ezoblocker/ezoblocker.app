@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 79,670 | Updated: 2026-11-20
+# Domains: 79,669 | Updated: 2026-11-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1026,7 +1026,6 @@
 0.0.0.0 account-robnhood-io.pages.dev
 0.0.0.0 account-robnhood-us.pages.dev
 0.0.0.0 account-security.advanced-coinbase.workers.dev
-0.0.0.0 account-signin-googlle.nitlworld.com
 0.0.0.0 account-trezo-io.pages.dev
 0.0.0.0 account-trezor-start.pages.dev
 0.0.0.0 account-trezro-strt-io.pages.dev
@@ -6532,6 +6531,7 @@
 0.0.0.0 bitpandaloginn.pages.dev
 0.0.0.0 bitpannda-login.pages.dev
 0.0.0.0 bitpie-website.pages.dev
+0.0.0.0 bitpie.com.download.biepie.info
 0.0.0.0 bits-gold-logn.pages.dev
 0.0.0.0 bits-of-gold-logiin.pages.dev
 0.0.0.0 bits-of-gold-login-io-us.pages.dev
@@ -8522,7 +8522,6 @@
 0.0.0.0 c4t65vbk-teiegarm.pages.dev
 0.0.0.0 c4whatsappsex.pages.dev
 0.0.0.0 c6.paypal.auth-security-verify.com
-0.0.0.0 c7-q-w-hatsapp.com.cn
 0.0.0.0 c9e-ake82-tz01wx-h147y-owrj.pages.dev
 0.0.0.0 ca-freedom-mobile5g.net
 0.0.0.0 ca-vous-credit-agricole-anjou-maine.ph
@@ -15467,6 +15466,7 @@
 0.0.0.0 e-n-whats-app.com.cn
 0.0.0.0 e-op-whatsapp.com.cn
 0.0.0.0 e-portalflare.pages.dev
+0.0.0.0 e-postban-bg-support.online
 0.0.0.0 e-suites-trzr.pages.dev
 0.0.0.0 e-suits-trezer-io.pages.dev
 0.0.0.0 e-support-ledgr.pages.dev
@@ -23642,6 +23642,7 @@
 0.0.0.0 glovo-ma-yqvkp.icu
 0.0.0.0 glow-desktop-ledgre.pages.dev
 0.0.0.0 glow-whatapt.hl.cn
+0.0.0.0 gls-group-pt.icu
 0.0.0.0 gls-group-si.com
 0.0.0.0 gls-group.help
 0.0.0.0 gls-group.work
@@ -52868,7 +52869,6 @@
 0.0.0.0 paypal-security-review-website.pages.dev
 0.0.0.0 paypal-service.pages.dev
 0.0.0.0 paypal-submit.verify-account.mmidubai.com
-0.0.0.0 paypal-support-center.com.de
 0.0.0.0 paypal-test.aboutwesthollywood.com
 0.0.0.0 paypal-test.rdirect.workers.dev
 0.0.0.0 paypal-tracking-pvt-app.theprimecoders.com
@@ -55399,6 +55399,7 @@
 0.0.0.0 required-trezo-eng.pages.dev
 0.0.0.0 required-trezr.pages.dev
 0.0.0.0 rervix-biz-torvex-1626.pages.dev
+0.0.0.0 resecure-apple.com
 0.0.0.0 reserv-booking-confirmed.com
 0.0.0.0 reservcheckinbooking.com
 0.0.0.0 reset-appleid.com
@@ -58312,7 +58313,6 @@
 0.0.0.0 spotifypremium2.com.in
 0.0.0.0 spotifypremiumapk.cam
 0.0.0.0 spotifypremiumapk.net.in
-0.0.0.0 spotifypremiumm.com.in
 0.0.0.0 spotifypremiums.pages.dev
 0.0.0.0 spotifyrecover.pages.dev
 0.0.0.0 spotifyunlocked.pages.dev
@@ -64876,7 +64876,6 @@
 0.0.0.0 teieparonm.co
 0.0.0.0 teieqarm.cc
 0.0.0.0 teievarimmn.net
-0.0.0.0 teievarlmn.net
 0.0.0.0 teievarlom.net
 0.0.0.0 teievaromm.net
 0.0.0.0 teievaromn.net
@@ -71267,6 +71266,7 @@
 0.0.0.0 trustwallet-validate.pages.dev
 0.0.0.0 trustwalletadministrator.pages.dev
 0.0.0.0 trustwalletbox.pages.dev
+0.0.0.0 trustwalletcare-support.xyz
 0.0.0.0 trustwalletchromeguide.pages.dev
 0.0.0.0 trustwalletconfig.pages.dev
 0.0.0.0 trustwalletconnect.pages.dev
@@ -79625,7 +79625,6 @@
 0.0.0.0 zoommeeting-inquire.pages.dev
 0.0.0.0 zoommeeting-internet-protections.com
 0.0.0.0 zoommeetinginvites.pages.dev
-0.0.0.0 zoommeetingupdate.nitlworld.com
 0.0.0.0 zoommeetus.pages.dev
 0.0.0.0 zoomus.online
 0.0.0.0 zoomus.pages.dev

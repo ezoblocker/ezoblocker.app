@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 625 | Updated: 2026-11-20
+# Domains: 623 | Updated: 2026-11-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -166,7 +166,6 @@ certification.ntop.com
 *.dahahizli170.live
 *.dame.com
 *.danaporn.best
-*.danaporn2.best
 *.darica-escort.lol
 *.denizlisiteleri.xyz
 *.derinceservisi.site
@@ -411,7 +410,6 @@ pht64mnpy-object-data.nettoyagereunion.re
 *.pornodoeda45.shop
 *.pornodoeda45.site
 *.pornodoeda46.shop
-*.pornohope1.blog
 *.pornoiz18.shop
 *.pornoizlehane.com
 *.pornojan1.skin

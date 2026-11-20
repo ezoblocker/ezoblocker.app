@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 2,850 | Updated: 2026-11-20
+# Domains: 2,851 | Updated: 2026-11-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -461,6 +461,7 @@
 0.0.0.0 charlottedewinter.com
 0.0.0.0 charnel-club.be
 0.0.0.0 chat.europnet.org
+0.0.0.0 chaturbate-v.com
 0.0.0.0 chaturbate.com.es
 0.0.0.0 cheaplubeshg.com
 0.0.0.0 cheiroderosa.com.br
@@ -574,7 +575,6 @@
 0.0.0.0 dame.com
 0.0.0.0 damesgenot.nl
 0.0.0.0 danaporn.best
-0.0.0.0 danaporn2.best
 0.0.0.0 danichou.de
 0.0.0.0 danishblue.com.au
 0.0.0.0 daqgtp.com
@@ -735,6 +735,7 @@
 0.0.0.0 eisenherzglobal.de
 0.0.0.0 el-evolution.com
 0.0.0.0 elartedelplacer.com
+0.0.0.0 elcuartorosa.com
 0.0.0.0 elegantyou.com.pk
 0.0.0.0 elektro-motor.cz
 0.0.0.0 eligetujuguete.com
@@ -1313,6 +1314,7 @@
 0.0.0.0 lilaw.pl
 0.0.0.0 lilith-toys.com
 0.0.0.0 linfini.co
+0.0.0.0 linkbokep.surf
 0.0.0.0 linksgrupos.com
 0.0.0.0 lionsden.com
 0.0.0.0 lisboa.classificadosgratis.com.pt
@@ -1858,7 +1860,6 @@
 0.0.0.0 pornodoeda45.shop
 0.0.0.0 pornodoeda45.site
 0.0.0.0 pornodoeda46.shop
-0.0.0.0 pornohope1.blog
 0.0.0.0 pornoiz18.shop
 0.0.0.0 pornoizlehane.com
 0.0.0.0 pornojan1.skin

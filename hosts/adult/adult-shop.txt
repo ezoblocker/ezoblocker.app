@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,483 | Updated: 2026-11-20
+# Domains: 1,484 | Updated: 2026-11-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -336,6 +336,7 @@
 0.0.0.0 eisenherzglobal.de
 0.0.0.0 el-evolution.com
 0.0.0.0 elartedelplacer.com
+0.0.0.0 elcuartorosa.com
 0.0.0.0 elegantyou.com.pk
 0.0.0.0 elektro-motor.cz
 0.0.0.0 eligetujuguete.com

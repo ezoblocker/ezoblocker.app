@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,256 | Updated: 2026-11-20
+# Domains: 1,258 | Updated: 2026-11-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -761,6 +761,7 @@ nontonfilm.fc2.net
 *.nungfree4k.com
 nyc-dsp1.kavanga.com
 ocss.luebitutin.blog
+*.okfilmizle.com
 old.babybjorn.com.hk
 online.tainiothiki.gr
 *.onlydebrid.com
@@ -1094,6 +1095,7 @@ task.joby.com
 *.thenetnaija.com.ng
 *.thenetnaija.ng
 *.thstreameast.xyz
+*.tikfilmizle.com
 tipperary.gaa.ie
 *.tirexo.al
 *.today-yalla-shoot.com
