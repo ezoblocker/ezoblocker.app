@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, International (intl)
-! Domains: 107 | Updated: 2026-11-20
+! Domains: 104 | Updated: 2026-11-20
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/intl.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -29,7 +29,6 @@
 ||betsafe.ee^
 ||betss.com^
 ||betsson.cm^
-||betsson.dk^
 ||bettabets.co.za^
 ||betting.co.mw^
 ||betting.co.zm^
@@ -46,7 +45,6 @@
 ||codere.pa^
 ||comeon.pl^
 ||cwinz.com^
-||dafabet.es^
 ||daznbet.es^
 ||expekt.dk^
 ||firstbet.co.za^
@@ -77,7 +75,6 @@
 ||mrbit.ba^
 ||mybc.game^
 ||netbet.gr^
-||netbet.it^
 ||novibet.fi^
 ||novibet.it^
 ||olimpkz.com^

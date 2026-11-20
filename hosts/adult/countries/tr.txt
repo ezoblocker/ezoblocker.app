@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 623 | Updated: 2026-11-20
+# Domains: 622 | Updated: 2026-11-20
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -92,6 +92,7 @@
 0.0.0.0 askimyavas204.live
 0.0.0.0 askimyavas206.live
 0.0.0.0 askimyavas210.live
+0.0.0.0 askimyavas211.live
 0.0.0.0 askimyavas214.live
 0.0.0.0 atakent.papkam.com
 0.0.0.0 atasehir-escort2.lol
@@ -123,7 +124,6 @@
 0.0.0.0 beylikduzubayan1.com
 0.0.0.0 beylikduzuesc.uno
 0.0.0.0 beylikduzuescort.com
-0.0.0.0 beylikduzuescortbayan.org
 0.0.0.0 beylikduzuescortkadin.com
 0.0.0.0 beylikduzuescortlari.xyz
 0.0.0.0 bibi10.site
@@ -215,7 +215,6 @@
 0.0.0.0 escortkizlarr.com
 0.0.0.0 escortlar251.xyz
 0.0.0.0 escortlar254.xyz
-0.0.0.0 escortlar380.xyz
 0.0.0.0 escortlar432.xyz
 0.0.0.0 escortlar69.xyz
 0.0.0.0 escortnews.com
@@ -311,7 +310,6 @@
 0.0.0.0 istanbulhotescorts.com
 0.0.0.0 istanbulilanbul.com
 0.0.0.0 istanbulmasozbayan.site
-0.0.0.0 istanbulrealescort.com
 0.0.0.0 istanbulseksshop.com
 0.0.0.0 isvicresohbet.gen.tr
 0.0.0.0 izmirescort.info
@@ -423,7 +421,9 @@
 0.0.0.0 pornozaz87.online
 0.0.0.0 pornozaz87.shop
 0.0.0.0 pornozaz87.site
+0.0.0.0 pornza.homes
 0.0.0.0 positive-vibrations.hr
+0.0.0.0 prnvide.help
 0.0.0.0 pujcovna.wachal.cz
 0.0.0.0 pureloveshop.com.tr
 0.0.0.0 rainvipxescort.net
@@ -432,7 +432,6 @@
 0.0.0.0 rocks-off.com
 0.0.0.0 romanorth.lol
 0.0.0.0 romp.toys
-0.0.0.0 russiansexyladies.com
 0.0.0.0 sakaryaescortfiyat.net
 0.0.0.0 sakaryaescortkrali.com
 0.0.0.0 sakinpurnaizle1.store
