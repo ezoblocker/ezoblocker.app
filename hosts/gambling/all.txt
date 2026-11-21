@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 884,948 | Updated: 2026-11-20
+# Domains: 884,971 | Updated: 2026-11-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -35623,6 +35623,7 @@
 0.0.0.0 952betfb.com
 0.0.0.0 952betoo.com
 0.0.0.0 952bets10.com
+0.0.0.0 952hilbet.com
 0.0.0.0 953merhabet14.com
 0.0.0.0 954tumbet.com
 0.0.0.0 9552betapps.com
@@ -69017,6 +69018,7 @@
 0.0.0.0 arkansascasinos.net
 0.0.0.0 arkcasinok.com
 0.0.0.0 arkd-bestcasino-online.it.com
+0.0.0.0 arkinbasisggz.nl
 0.0.0.0 arkincasino.com
 0.0.0.0 arkincasino180.com
 0.0.0.0 arkincasino213.com
@@ -72117,6 +72119,7 @@
 0.0.0.0 aswaja-panenslot.pages.dev
 0.0.0.0 aswinbet61.pages.dev
 0.0.0.0 asyabahis-canli-top.pages.dev
+0.0.0.0 asyabahis1308.com
 0.0.0.0 asyabahisbedava.com
 0.0.0.0 asyabahisbedavakupon.com
 0.0.0.0 asyabahisdogrugiris.com
@@ -106382,6 +106385,7 @@
 0.0.0.0 betcio1483.com
 0.0.0.0 betcio1487.cam
 0.0.0.0 betcio1487.com
+0.0.0.0 betcio1490.com
 0.0.0.0 betcio1533.com
 0.0.0.0 betcio1540.com
 0.0.0.0 betcio1545.com
@@ -167439,6 +167443,7 @@
 0.0.0.0 casebattlecasino.de
 0.0.0.0 casebattlecasino.pl
 0.0.0.0 casedepariuri.online
+0.0.0.0 caseintv.it
 0.0.0.0 caseno.cc
 0.0.0.0 casesggcasino.com
 0.0.0.0 cash-bet.net
@@ -168589,6 +168594,7 @@
 0.0.0.0 cashwin1111.com
 0.0.0.0 cashwin1112.com
 0.0.0.0 cashwin1113.com
+0.0.0.0 cashwin1115.com
 0.0.0.0 cashwin1201.com
 0.0.0.0 cashwin1221.com
 0.0.0.0 cashwin22.ru
@@ -219084,7 +219090,6 @@
 0.0.0.0 casinoplayuzu.net
 0.0.0.0 casinoplayuzu.org
 0.0.0.0 casinoplaywins.co.uk
-0.0.0.0 casinoplaywins.ru
 0.0.0.0 casinoplayzee-nz.com
 0.0.0.0 casinoplayzee.com
 0.0.0.0 casinoplayzilla-de-2613.pages.dev
@@ -244064,6 +244069,7 @@
 0.0.0.0 cemeslotzone.xyz
 0.0.0.0 cemetoto-id.pages.dev
 0.0.0.0 cemetotoslot.pages.dev
+0.0.0.0 cemf.ca
 0.0.0.0 cempaka777slot.com
 0.0.0.0 cempaka78-win.pages.dev
 0.0.0.0 cempakabet-manic.pages.dev
@@ -293923,6 +293929,7 @@
 0.0.0.0 ekpanalobet.org
 0.0.0.0 ekplorasi-berjayatogel.pages.dev
 0.0.0.0 ekpmpakogianni.gr
+0.0.0.0 ekranbonus.com
 0.0.0.0 eks-jackpot168.pages.dev
 0.0.0.0 eksekutor-slot-gacor.pages.dev
 0.0.0.0 eksklusifsitustoto.com
@@ -303408,6 +303415,7 @@
 0.0.0.0 eyecon-bets-bd0.pages.dev
 0.0.0.0 eyecon-bets-bdy.pages.dev
 0.0.0.0 eyecon-scommesse.pages.dev
+0.0.0.0 eyelashpro.fr
 0.0.0.0 eyen.fr
 0.0.0.0 eyeofhorus-casino-slot.top
 0.0.0.0 eyeofhorus-casino.com
@@ -307434,6 +307442,7 @@
 0.0.0.0 farocasino3.casino
 0.0.0.0 farocasino33.online
 0.0.0.0 farocasino337.fun
+0.0.0.0 farocasino353.fun
 0.0.0.0 farocasino38.fun
 0.0.0.0 farocasino44.online
 0.0.0.0 farocasino444.fun
@@ -310707,6 +310716,7 @@
 0.0.0.0 fenixcasinotartu.com
 0.0.0.0 fenixslots-com.pages.dev
 0.0.0.0 fennicagaming.com
+0.0.0.0 fenobicho.com
 0.0.0.0 fenomen-moda.cz
 0.0.0.0 fenomena-bosswin168.pages.dev
 0.0.0.0 fenomena-slot.pages.dev
@@ -333265,6 +333275,7 @@
 0.0.0.0 gapacasino.net
 0.0.0.0 gapacasino.org
 0.0.0.0 gapapa-dancing-yangpenting-slotgacor.pages.dev
+0.0.0.0 gapfirenze.it
 0.0.0.0 gaple123org-bos-win.pages.dev
 0.0.0.0 gaple77org-bos-win.pages.dev
 0.0.0.0 gaplepokerorg-akses.pages.dev
@@ -374859,7 +374870,6 @@
 0.0.0.0 hubbetslot.co
 0.0.0.0 hubbicycleshop.com
 0.0.0.0 hubcasinos.co.uk
-0.0.0.0 hubcasinovip.com
 0.0.0.0 huberthitsmachineasous.com
 0.0.0.0 hubet-bangla.com
 0.0.0.0 hubet-br.com
@@ -394206,6 +394216,7 @@
 0.0.0.0 izinwin-slot-gacor.pages.dev
 0.0.0.0 izinya-dikitaja.pages.dev
 0.0.0.0 izlemex.org
+0.0.0.0 izmee.com
 0.0.0.0 izmircasino148.com
 0.0.0.0 izmircasino150.com
 0.0.0.0 izmirescortbayrakli.com
@@ -415168,6 +415179,7 @@
 0.0.0.0 joycasino.si
 0.0.0.0 joycasino.uk.com
 0.0.0.0 joycasino.uk.net
+0.0.0.0 joycasino027.buzz
 0.0.0.0 joycasino1.de
 0.0.0.0 joycasino10.site
 0.0.0.0 joycasino1038.top
@@ -415222,6 +415234,7 @@
 0.0.0.0 joycasino2019.com
 0.0.0.0 joycasino2025.ru
 0.0.0.0 joycasino24.ru
+0.0.0.0 joycasino279.buzz
 0.0.0.0 joycasino28nt.top
 0.0.0.0 joycasino3.com.ua
 0.0.0.0 joycasino3.site
@@ -447372,6 +447385,7 @@
 0.0.0.0 lavivabettr.com
 0.0.0.0 lavivabettr.org
 0.0.0.0 lavoine-slot-thailand.pages.dev
+0.0.0.0 lavoixdespremieresnations.ca
 0.0.0.0 lavorare.net
 0.0.0.0 lavorareascuola.it
 0.0.0.0 lavoslot.com
@@ -448162,6 +448176,7 @@
 0.0.0.0 learncasinosonline.com
 0.0.0.0 learnhashslot.com
 0.0.0.0 learningcasino.com
+0.0.0.0 learningfoundations.com
 0.0.0.0 learningtoplaypoker.com
 0.0.0.0 learningufabet.net
 0.0.0.0 learnlhueduvnseigenlogincuanwin77.pages.dev
@@ -453417,6 +453432,7 @@
 0.0.0.0 lesothocasino.online
 0.0.0.0 lesothogov-home-company-rebelbet.pages.dev
 0.0.0.0 lespagescasinos.com
+0.0.0.0 lespetitescreabycathy.com
 0.0.0.0 lespokepoland.com
 0.0.0.0 lesrecettesdemaud.fr
 0.0.0.0 lesscasino233.com
@@ -482737,6 +482753,7 @@
 0.0.0.0 madonnatoto-slotsafir.pages.dev
 0.0.0.0 madou47.ru
 0.0.0.0 madou6klgd.ru
+0.0.0.0 madpdirect.fr
 0.0.0.0 madrasah-slot-gacor.pages.dev
 0.0.0.0 madrasbookcricbetid.com
 0.0.0.0 madresdecasinord.org
@@ -507657,6 +507674,7 @@
 0.0.0.0 melincuecasino.com
 0.0.0.0 melincuecasinoar.com
 0.0.0.0 melitime-com-slot-gacor-html.pages.dev
+0.0.0.0 melkersson.se
 0.0.0.0 mell-casino.com
 0.0.0.0 mell-casino.live
 0.0.0.0 mell-casino.top
@@ -508120,6 +508138,7 @@
 0.0.0.0 mellstroy2.casino
 0.0.0.0 mellstroy2148.online
 0.0.0.0 mellstroy237.com
+0.0.0.0 mellstroy2466.casino
 0.0.0.0 mellstroy2471.click
 0.0.0.0 mellstroy2476.site
 0.0.0.0 mellstroy2488.top
@@ -673196,7 +673215,6 @@
 0.0.0.0 royal-casino.kz
 0.0.0.0 royal-casino.net.pk
 0.0.0.0 royal-casino.nz
-0.0.0.0 royal-casino.online
 0.0.0.0 royal-casino.org.pl
 0.0.0.0 royal-casino.ph
 0.0.0.0 royal-casino.pt
@@ -689380,6 +689398,7 @@
 0.0.0.0 scalewithignite-slot-gacor-com.pages.dev
 0.0.0.0 scalptattoo-calme.com
 0.0.0.0 scam-casino.ru
+0.0.0.0 scamander14.com
 0.0.0.0 scamcasino.com
 0.0.0.0 scamcasino.org
 0.0.0.0 scams.love
@@ -779307,6 +779326,7 @@
 0.0.0.0 thebdmbet.com
 0.0.0.0 thebdmbetcasino.com
 0.0.0.0 thebdmbetcasino.fr
+0.0.0.0 thebedframe.com
 0.0.0.0 thebeechtreepub.co.uk
 0.0.0.0 thebes-casino-australia.com
 0.0.0.0 thebes-casino.co.za
@@ -812248,6 +812268,7 @@
 0.0.0.0 ushindibet.site
 0.0.0.0 ushuaiacasinoar.com
 0.0.0.0 usiad.net
+0.0.0.0 usiko.ru
 0.0.0.0 usjackpotacasino-com.pages.dev
 0.0.0.0 usjackpotacasino.com
 0.0.0.0 usjoyjili.org
@@ -822667,6 +822688,7 @@
 0.0.0.0 vebetcasino.com
 0.0.0.0 vecernispacir.cz
 0.0.0.0 veciprokone.cz
+0.0.0.0 vector-polska.pl
 0.0.0.0 vector128slotcastle.pages.dev
 0.0.0.0 vectorbetsgalaxy.com
 0.0.0.0 vectorblackjack.com
@@ -879202,6 +879224,7 @@
 0.0.0.0 zebrawinscasino.top
 0.0.0.0 zebrawinscasino.uk
 0.0.0.0 zebrawinscasino.uk.net
+0.0.0.0 zedbake.com
 0.0.0.0 zeddamswijnhuis.nl
 0.0.0.0 zedexbet.com
 0.0.0.0 zeedijk202.be

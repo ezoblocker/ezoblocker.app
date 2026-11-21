@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, Brazil (br)
-! Domains: 55 | Updated: 2026-11-20
+! Domains: 56 | Updated: 2026-11-21
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/br.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -33,6 +33,7 @@
 ||eojogodobicho.com^
 |espaco.aviator.com.br^
 |eventos.duquedecaxias.rj.gov.br^
+||fenobicho.com^
 ||fortunetiger.org^
 |gda.maceio.al.gov.br^
 ||guiacasinos.mx^

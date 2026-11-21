@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,484 | Updated: 2026-11-20
+# Domains: 1,486 | Updated: 2026-11-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -429,6 +429,7 @@
 0.0.0.0 fleshlighttoy.pk
 0.0.0.0 fleshtoys.pk
 0.0.0.0 flirtadultstore.com.au
+0.0.0.0 flirtshop.kz
 0.0.0.0 fogododesejo.pt
 0.0.0.0 folsomeurope.berlin
 0.0.0.0 foxietoy.com
@@ -1016,6 +1017,7 @@
 0.0.0.0 saaclothing.com
 0.0.0.0 saadatcom.com
 0.0.0.0 sabora.ro
+0.0.0.0 saintsandsinners.com
 0.0.0.0 saklikeyf.com
 0.0.0.0 saklimarket.com
 0.0.0.0 saleone.pk

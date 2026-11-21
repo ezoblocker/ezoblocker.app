@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, ct
-! Domains: 883,376 | Updated: 2026-11-20
+! Domains: 883,377 | Updated: 2026-11-21
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -218603,7 +218603,6 @@
 ||casinoplayuzu.net^
 ||casinoplayuzu.org^
 ||casinoplaywins.co.uk^
-||casinoplaywins.ru^
 ||casinoplayzee-nz.com^
 ||casinoplayzee.com^
 ||casinoplayzilla-de-2613.pages.dev^
@@ -306795,6 +306794,7 @@
 ||farocasino3.casino^
 ||farocasino33.online^
 ||farocasino337.fun^
+||farocasino353.fun^
 ||farocasino38.fun^
 ||farocasino44.online^
 ||farocasino444.fun^
@@ -374126,7 +374126,6 @@
 ||hubbetslot.co^
 ||hubbicycleshop.com^
 ||hubcasinos.co.uk^
-||hubcasinovip.com^
 ||huberthitsmachineasous.com^
 ||hubet-bangla.com^
 ||hubet-br.com^
@@ -414392,6 +414391,7 @@
 ||joycasino.si^
 ||joycasino.uk.com^
 ||joycasino.uk.net^
+||joycasino027.buzz^
 ||joycasino1.de^
 ||joycasino10.site^
 ||joycasino1038.top^
@@ -414446,6 +414446,7 @@
 ||joycasino2019.com^
 ||joycasino2025.ru^
 ||joycasino24.ru^
+||joycasino279.buzz^
 ||joycasino28nt.top^
 ||joycasino3.com.ua^
 ||joycasino3.site^
@@ -507209,6 +507210,7 @@
 ||mellstroy2.casino^
 ||mellstroy2148.online^
 ||mellstroy237.com^
+||mellstroy2466.casino^
 ||mellstroy2471.click^
 ||mellstroy2476.site^
 ||mellstroy2488.top^
@@ -671951,7 +671953,6 @@
 ||royal-casino.kz^
 ||royal-casino.net.pk^
 ||royal-casino.nz^
-||royal-casino.online^
 ||royal-casino.org.pl^
 ||royal-casino.ph^
 ||royal-casino.pt^

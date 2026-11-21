@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling
-! Domains: 884,948 | Updated: 2026-11-20
+! Domains: 884,971 | Updated: 2026-11-21
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -35623,6 +35623,7 @@
 ||952betfb.com^
 ||952betoo.com^
 ||952bets10.com^
+||952hilbet.com^
 ||953merhabet14.com^
 ||954tumbet.com^
 ||9552betapps.com^
@@ -69017,6 +69018,7 @@
 ||arkansascasinos.net^
 ||arkcasinok.com^
 ||arkd-bestcasino-online.it.com^
+||arkinbasisggz.nl^
 ||arkincasino.com^
 ||arkincasino180.com^
 ||arkincasino213.com^
@@ -72117,6 +72119,7 @@
 ||aswaja-panenslot.pages.dev^
 ||aswinbet61.pages.dev^
 ||asyabahis-canli-top.pages.dev^
+||asyabahis1308.com^
 ||asyabahisbedava.com^
 ||asyabahisbedavakupon.com^
 ||asyabahisdogrugiris.com^
@@ -106382,6 +106385,7 @@
 ||betcio1483.com^
 ||betcio1487.cam^
 ||betcio1487.com^
+||betcio1490.com^
 ||betcio1533.com^
 ||betcio1540.com^
 ||betcio1545.com^
@@ -167439,6 +167443,7 @@
 ||casebattlecasino.de^
 ||casebattlecasino.pl^
 ||casedepariuri.online^
+||caseintv.it^
 ||caseno.cc^
 ||casesggcasino.com^
 ||cash-bet.net^
@@ -168589,6 +168594,7 @@
 ||cashwin1111.com^
 ||cashwin1112.com^
 ||cashwin1113.com^
+||cashwin1115.com^
 ||cashwin1201.com^
 ||cashwin1221.com^
 ||cashwin22.ru^
@@ -219084,7 +219090,6 @@
 ||casinoplayuzu.net^
 ||casinoplayuzu.org^
 ||casinoplaywins.co.uk^
-||casinoplaywins.ru^
 ||casinoplayzee-nz.com^
 ||casinoplayzee.com^
 ||casinoplayzilla-de-2613.pages.dev^
@@ -244064,6 +244069,7 @@
 ||cemeslotzone.xyz^
 ||cemetoto-id.pages.dev^
 ||cemetotoslot.pages.dev^
+||cemf.ca^
 ||cempaka777slot.com^
 ||cempaka78-win.pages.dev^
 ||cempakabet-manic.pages.dev^
@@ -293923,6 +293929,7 @@
 ||ekpanalobet.org^
 ||ekplorasi-berjayatogel.pages.dev^
 ||ekpmpakogianni.gr^
+||ekranbonus.com^
 ||eks-jackpot168.pages.dev^
 ||eksekutor-slot-gacor.pages.dev^
 ||eksklusifsitustoto.com^
@@ -303408,6 +303415,7 @@
 ||eyecon-bets-bd0.pages.dev^
 ||eyecon-bets-bdy.pages.dev^
 ||eyecon-scommesse.pages.dev^
+||eyelashpro.fr^
 ||eyen.fr^
 ||eyeofhorus-casino-slot.top^
 ||eyeofhorus-casino.com^
@@ -307434,6 +307442,7 @@
 ||farocasino3.casino^
 ||farocasino33.online^
 ||farocasino337.fun^
+||farocasino353.fun^
 ||farocasino38.fun^
 ||farocasino44.online^
 ||farocasino444.fun^
@@ -310707,6 +310716,7 @@
 ||fenixcasinotartu.com^
 ||fenixslots-com.pages.dev^
 ||fennicagaming.com^
+||fenobicho.com^
 ||fenomen-moda.cz^
 ||fenomena-bosswin168.pages.dev^
 ||fenomena-slot.pages.dev^
@@ -333265,6 +333275,7 @@
 ||gapacasino.net^
 ||gapacasino.org^
 ||gapapa-dancing-yangpenting-slotgacor.pages.dev^
+||gapfirenze.it^
 ||gaple123org-bos-win.pages.dev^
 ||gaple77org-bos-win.pages.dev^
 ||gaplepokerorg-akses.pages.dev^
@@ -374859,7 +374870,6 @@
 ||hubbetslot.co^
 ||hubbicycleshop.com^
 ||hubcasinos.co.uk^
-||hubcasinovip.com^
 ||huberthitsmachineasous.com^
 ||hubet-bangla.com^
 ||hubet-br.com^
@@ -394206,6 +394216,7 @@
 ||izinwin-slot-gacor.pages.dev^
 ||izinya-dikitaja.pages.dev^
 ||izlemex.org^
+||izmee.com^
 ||izmircasino148.com^
 ||izmircasino150.com^
 ||izmirescortbayrakli.com^
@@ -415168,6 +415179,7 @@
 ||joycasino.si^
 ||joycasino.uk.com^
 ||joycasino.uk.net^
+||joycasino027.buzz^
 ||joycasino1.de^
 ||joycasino10.site^
 ||joycasino1038.top^
@@ -415222,6 +415234,7 @@
 ||joycasino2019.com^
 ||joycasino2025.ru^
 ||joycasino24.ru^
+||joycasino279.buzz^
 ||joycasino28nt.top^
 ||joycasino3.com.ua^
 ||joycasino3.site^
@@ -447372,6 +447385,7 @@
 ||lavivabettr.com^
 ||lavivabettr.org^
 ||lavoine-slot-thailand.pages.dev^
+||lavoixdespremieresnations.ca^
 ||lavorare.net^
 ||lavorareascuola.it^
 ||lavoslot.com^
@@ -448162,6 +448176,7 @@
 ||learncasinosonline.com^
 ||learnhashslot.com^
 ||learningcasino.com^
+||learningfoundations.com^
 ||learningtoplaypoker.com^
 ||learningufabet.net^
 ||learnlhueduvnseigenlogincuanwin77.pages.dev^
@@ -453417,6 +453432,7 @@
 ||lesothocasino.online^
 ||lesothogov-home-company-rebelbet.pages.dev^
 ||lespagescasinos.com^
+||lespetitescreabycathy.com^
 ||lespokepoland.com^
 ||lesrecettesdemaud.fr^
 ||lesscasino233.com^
@@ -482737,6 +482753,7 @@
 ||madonnatoto-slotsafir.pages.dev^
 ||madou47.ru^
 ||madou6klgd.ru^
+||madpdirect.fr^
 ||madrasah-slot-gacor.pages.dev^
 ||madrasbookcricbetid.com^
 ||madresdecasinord.org^
@@ -507657,6 +507674,7 @@
 ||melincuecasino.com^
 ||melincuecasinoar.com^
 ||melitime-com-slot-gacor-html.pages.dev^
+||melkersson.se^
 ||mell-casino.com^
 ||mell-casino.live^
 ||mell-casino.top^
@@ -508120,6 +508138,7 @@
 ||mellstroy2.casino^
 ||mellstroy2148.online^
 ||mellstroy237.com^
+||mellstroy2466.casino^
 ||mellstroy2471.click^
 ||mellstroy2476.site^
 ||mellstroy2488.top^
@@ -673196,7 +673215,6 @@
 ||royal-casino.kz^
 ||royal-casino.net.pk^
 ||royal-casino.nz^
-||royal-casino.online^
 ||royal-casino.org.pl^
 ||royal-casino.ph^
 ||royal-casino.pt^
@@ -689380,6 +689398,7 @@
 ||scalewithignite-slot-gacor-com.pages.dev^
 ||scalptattoo-calme.com^
 ||scam-casino.ru^
+||scamander14.com^
 ||scamcasino.com^
 ||scamcasino.org^
 ||scams.love^
@@ -779307,6 +779326,7 @@
 ||thebdmbet.com^
 ||thebdmbetcasino.com^
 ||thebdmbetcasino.fr^
+||thebedframe.com^
 ||thebeechtreepub.co.uk^
 ||thebes-casino-australia.com^
 ||thebes-casino.co.za^
@@ -812248,6 +812268,7 @@
 ||ushindibet.site^
 ||ushuaiacasinoar.com^
 ||usiad.net^
+||usiko.ru^
 ||usjackpotacasino-com.pages.dev^
 ||usjackpotacasino.com^
 ||usjoyjili.org^
@@ -822667,6 +822688,7 @@
 ||vebetcasino.com^
 ||vecernispacir.cz^
 ||veciprokone.cz^
+||vector-polska.pl^
 ||vector128slotcastle.pages.dev^
 ||vectorbetsgalaxy.com^
 ||vectorblackjack.com^
@@ -879202,6 +879224,7 @@
 ||zebrawinscasino.top^
 ||zebrawinscasino.uk^
 ||zebrawinscasino.uk.net^
+||zedbake.com^
 ||zeddamswijnhuis.nl^
 ||zedexbet.com^
 ||zeedijk202.be^

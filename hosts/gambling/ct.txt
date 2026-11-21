@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 883,376 | Updated: 2026-11-20
+# Domains: 883,377 | Updated: 2026-11-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -218603,7 +218603,6 @@
 0.0.0.0 casinoplayuzu.net
 0.0.0.0 casinoplayuzu.org
 0.0.0.0 casinoplaywins.co.uk
-0.0.0.0 casinoplaywins.ru
 0.0.0.0 casinoplayzee-nz.com
 0.0.0.0 casinoplayzee.com
 0.0.0.0 casinoplayzilla-de-2613.pages.dev
@@ -306795,6 +306794,7 @@
 0.0.0.0 farocasino3.casino
 0.0.0.0 farocasino33.online
 0.0.0.0 farocasino337.fun
+0.0.0.0 farocasino353.fun
 0.0.0.0 farocasino38.fun
 0.0.0.0 farocasino44.online
 0.0.0.0 farocasino444.fun
@@ -374126,7 +374126,6 @@
 0.0.0.0 hubbetslot.co
 0.0.0.0 hubbicycleshop.com
 0.0.0.0 hubcasinos.co.uk
-0.0.0.0 hubcasinovip.com
 0.0.0.0 huberthitsmachineasous.com
 0.0.0.0 hubet-bangla.com
 0.0.0.0 hubet-br.com
@@ -414392,6 +414391,7 @@
 0.0.0.0 joycasino.si
 0.0.0.0 joycasino.uk.com
 0.0.0.0 joycasino.uk.net
+0.0.0.0 joycasino027.buzz
 0.0.0.0 joycasino1.de
 0.0.0.0 joycasino10.site
 0.0.0.0 joycasino1038.top
@@ -414446,6 +414446,7 @@
 0.0.0.0 joycasino2019.com
 0.0.0.0 joycasino2025.ru
 0.0.0.0 joycasino24.ru
+0.0.0.0 joycasino279.buzz
 0.0.0.0 joycasino28nt.top
 0.0.0.0 joycasino3.com.ua
 0.0.0.0 joycasino3.site
@@ -507209,6 +507210,7 @@
 0.0.0.0 mellstroy2.casino
 0.0.0.0 mellstroy2148.online
 0.0.0.0 mellstroy237.com
+0.0.0.0 mellstroy2466.casino
 0.0.0.0 mellstroy2471.click
 0.0.0.0 mellstroy2476.site
 0.0.0.0 mellstroy2488.top
@@ -671951,7 +671953,6 @@
 0.0.0.0 royal-casino.kz
 0.0.0.0 royal-casino.net.pk
 0.0.0.0 royal-casino.nz
-0.0.0.0 royal-casino.online
 0.0.0.0 royal-casino.org.pl
 0.0.0.0 royal-casino.ph
 0.0.0.0 royal-casino.pt

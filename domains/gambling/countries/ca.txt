@@ -1,15 +1,17 @@
 # Title: EZOBLOCKER Gambling, Canada (ca)
-# Domains: 16 | Updated: 2026-11-20
+# Domains: 19 | Updated: 2026-11-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/gambling/countries/ca.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+cemf.ca
 comeon.pl
 comeoncasino.com
 compare-bet.fr
 coolbet.co
 fabuplusmagazine.com
 jeux.com
+lavoixdespremieresnations.ca
 lebonparisportif.com
 leovegas.co.uk
 leovegasaffiliates.com
@@ -17,6 +19,7 @@ madbixen.dk
 mejorcasinoonlineenvivo.com
 mightytips.net
 norskecasinosider.org
+simeb.ca
 thefestival.com
 unibetopen.com
 vestjyllandvognogkran.dk

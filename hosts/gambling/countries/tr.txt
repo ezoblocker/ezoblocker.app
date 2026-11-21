@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 244 | Updated: 2026-11-20
+# Domains: 247 | Updated: 2026-11-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -101,6 +101,7 @@
 0.0.0.0 dpselectricalmkltd.co.uk
 0.0.0.0 dumanbetgiris.cc
 0.0.0.0 ejovoc.org
+0.0.0.0 ekranbonus.com
 0.0.0.0 elexbet20.com
 0.0.0.0 eniyibahisforum3.com
 0.0.0.0 favorisitesi.com
@@ -127,6 +128,7 @@
 0.0.0.0 kralbet.com
 0.0.0.0 kralbetgunceltr.com
 0.0.0.0 kumarbazsitesi.com
+0.0.0.0 learningfoundations.com
 0.0.0.0 legacy.dillonheraldonline.com
 0.0.0.0 lordcasino.com.tr
 0.0.0.0 lordcasino.org
@@ -248,3 +250,4 @@
 0.0.0.0 wz.mythosnyc.com
 0.0.0.0 xn--3067marsbahs-pfb.com
 0.0.0.0 xn--holganbet7722-59b.com
+0.0.0.0 zedbake.com

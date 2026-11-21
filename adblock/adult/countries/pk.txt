@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, PK (pk)
-! Domains: 61 | Updated: 2026-11-20
+! Domains: 62 | Updated: 2026-11-21
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/pk.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -19,11 +19,11 @@
 ||fleshtoys.pk^
 ||fsiblog6.com^
 ||fsiblogx4.guru^
+||fsiblogx7.guru^
 ||intimate.pk^
 ||intimatefashions.pk^
 ||kamababa15.com^
 ||kamababa17.com^
-||kamababa19.com^
 ||lelo.com.pk^
 ||loveabletoys.com^
 ||lovenest.pk^
@@ -38,6 +38,7 @@
 ||mmsdude.com^
 ||mydesi.co.im^
 ||mydesi18.com^
+||mydesix4.guru^
 ||noroz.pk^
 ||officialtoys.pk^
 ||pakistansextoys.com^
