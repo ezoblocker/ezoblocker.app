@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads, adtech
-# Domains: 311 | Updated: 2026-11-21
+# Domains: 316 | Updated: 2026-11-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/adtech.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -122,10 +122,12 @@
 0.0.0.0 cdn.wearevyde.com
 0.0.0.0 cdn3.rezonence.com
 0.0.0.0 cdnwebcloud.com
+0.0.0.0 cdnyeah.com
 0.0.0.0 cgnl.io
 0.0.0.0 clickhubs.com
 0.0.0.0 cloud-cdn.co
 0.0.0.0 cloud.aderserve.com
+0.0.0.0 cloud.adjust-digital.com
 0.0.0.0 cmm.poppin.com
 0.0.0.0 coadvertise.cubecdn.net
 0.0.0.0 codevelop.network
@@ -246,6 +248,7 @@
 0.0.0.0 revjet.com
 0.0.0.0 rtb.buy-ad.com
 0.0.0.0 rtb.buzz
+0.0.0.0 rtb.cmngrp.com
 0.0.0.0 rtb.iageengineering.net
 0.0.0.0 rtb.segmint.net
 0.0.0.0 rtb.servicesadmedia.com
@@ -263,6 +266,7 @@
 0.0.0.0 srtb.madisondsp.com
 0.0.0.0 srv.clrgns.com
 0.0.0.0 srv.springtime-sun.com
+0.0.0.0 srv.tmcadptr.com
 0.0.0.0 srv.yadore-targeting.com
 0.0.0.0 srv.yadoretargeting.com
 0.0.0.0 srvagm.de
@@ -309,6 +313,7 @@
 0.0.0.0 vondos04.com
 0.0.0.0 vondos05.com
 0.0.0.0 vondosadsrv.com
+0.0.0.0 vsrv.tmvsrv.com
 0.0.0.0 warp90.com
 0.0.0.0 webmedia.chicos.com
 0.0.0.0 webmedia.johnvarvatos.com

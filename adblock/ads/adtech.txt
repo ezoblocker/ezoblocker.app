@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Ads, adtech
-! Domains: 311 | Updated: 2026-11-21
+! Domains: 316 | Updated: 2026-11-21
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/ads/adtech.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -122,10 +122,12 @@
 ||cdn.wearevyde.com^
 ||cdn3.rezonence.com^
 ||cdnwebcloud.com^
+||cdnyeah.com^
 ||cgnl.io^
 ||clickhubs.com^
 ||cloud-cdn.co^
 ||cloud.aderserve.com^
+||cloud.adjust-digital.com^
 ||cmm.poppin.com^
 ||coadvertise.cubecdn.net^
 ||codevelop.network^
@@ -246,6 +248,7 @@
 ||revjet.com^
 ||rtb.buy-ad.com^
 ||rtb.buzz^
+||rtb.cmngrp.com^
 ||rtb.iageengineering.net^
 ||rtb.segmint.net^
 ||rtb.servicesadmedia.com^
@@ -263,6 +266,7 @@
 ||srtb.madisondsp.com^
 ||srv.clrgns.com^
 ||srv.springtime-sun.com^
+||srv.tmcadptr.com^
 ||srv.yadore-targeting.com^
 ||srv.yadoretargeting.com^
 ||srvagm.de^
@@ -309,6 +313,7 @@
 ||vondos04.com^
 ||vondos05.com^
 ||vondosadsrv.com^
+||vsrv.tmvsrv.com^
 ||warp90.com^
 ||webmedia.chicos.com^
 ||webmedia.johnvarvatos.com^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 578 | Updated: 2026-11-21
+# Domains: 583 | Updated: 2026-11-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -209,6 +209,7 @@ cdn.wearevyde.com
 cdn3.rezonence.com
 cdn3.richaudience.com
 cdnwebcloud.com
+cdnyeah.com
 cds.connatix.com
 cgnl.io
 cittamatra.com
@@ -216,6 +217,7 @@ clickhubs.com
 client-api.apptimism.com
 cloud-cdn.co
 cloud.aderserve.com
+cloud.adjust-digital.com
 cm.anyrtb.com
 cmm.poppin.com
 coadvertise.cubecdn.net
@@ -454,6 +456,7 @@ rtb.aniview.com
 rtb.boldwin.live
 rtb.buy-ad.com
 rtb.buzz
+rtb.cmngrp.com
 rtb.connektai.live
 rtb.dexerto.media
 rtb.dochaseadx.com
@@ -488,6 +491,7 @@ srtb.madisondsp.com
 srv.adklip.net
 srv.clrgns.com
 srv.springtime-sun.com
+srv.tmcadptr.com
 srv.yadore-targeting.com
 srv.yadoretargeting.com
 srvagm.de
@@ -569,6 +573,7 @@ vondos05.com
 vondosadsrv.com
 voodoo-adn.com
 vpb-server.jwplayer.com
+vsrv.tmvsrv.com
 warp90.com
 web-rtb.anyrtb.com
 web.hb.ad.cpe.dotomi.com

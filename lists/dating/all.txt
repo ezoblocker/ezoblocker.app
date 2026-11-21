@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 2,186 | Updated: 2026-11-21
+# Domains: 2,187 | Updated: 2026-11-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1623,6 +1623,7 @@ regina.bonepage.com
 *.rencontres-cougar.com
 *.rescorts.in
 *.reservescortagency.com
+*.resmi-vaycasino.space
 *.rheinescort.de
 *.richsugardaddy.com
 *.rishikeshcallgirl.com

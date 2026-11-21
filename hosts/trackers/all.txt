@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers
-# Domains: 764 | Updated: 2026-11-21
+# Domains: 765 | Updated: 2026-11-21
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -223,6 +223,7 @@
 0.0.0.0 ew3.io
 0.0.0.0 experiments-prod.smartcasttv.com
 0.0.0.0 external.simpleanalytics.com
+0.0.0.0 ezcustomers.org
 0.0.0.0 f0analytics.com
 0.0.0.0 fallback.capiplatform.com
 0.0.0.0 fashr.io
