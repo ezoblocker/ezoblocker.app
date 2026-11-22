@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 2,193 | Updated: 2026-11-22
+# Domains: 2,194 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -909,6 +909,7 @@
 0.0.0.0 halifax.5escorts.ca
 0.0.0.0 hamburgescort.de
 0.0.0.0 hampton-roads.bonepage.com
+0.0.0.0 hamstercasino.com
 0.0.0.0 hanysescorts.com.au
 0.0.0.0 happn.com
 0.0.0.0 happyend-bansko.com

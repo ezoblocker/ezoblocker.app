@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 632 | Updated: 2026-11-22
+# Domains: 633 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -46,7 +46,6 @@
 0.0.0.0 adanaxkizlari.xyz
 0.0.0.0 adapazari-escort.xyz
 0.0.0.0 adiyamanescortbayanda.xyz
-0.0.0.0 adulttoybox.biz
 0.0.0.0 agenresmi.lol
 0.0.0.0 agorshop.com
 0.0.0.0 alanya-escort1.lol
@@ -420,6 +419,7 @@
 0.0.0.0 pornojan1.skin
 0.0.0.0 pornokase18.click
 0.0.0.0 pornokase21.cyou
+0.0.0.0 pornolara4.blog
 0.0.0.0 pornolara5.blog
 0.0.0.0 pornoliana1.skin
 0.0.0.0 pornolou.skin
@@ -595,6 +595,7 @@
 0.0.0.0 vanescort.baby
 0.0.0.0 vetusti.com
 0.0.0.0 violetboutique.net
+0.0.0.0 vip-escorts.co.uk
 0.0.0.0 viperotikfilm2.skin
 0.0.0.0 viperotikfilm4.skin
 0.0.0.0 viperotikfilm6.skin

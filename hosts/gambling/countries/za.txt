@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, South Africa (za)
-# Domains: 23 | Updated: 2026-11-22
+# Domains: 22 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -26,4 +26,3 @@
 0.0.0.0 siat.maceio.al.gov.br
 0.0.0.0 theluxecasino.com
 0.0.0.0 topbettingapps.in
-0.0.0.0 ukverifiedcasinos.uk

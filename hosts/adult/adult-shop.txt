@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,488 | Updated: 2026-11-22
+# Domains: 1,487 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -48,7 +48,6 @@
 0.0.0.0 adultsource.ca
 0.0.0.0 adultstore.ro
 0.0.0.0 adultstoyoutlet.com
-0.0.0.0 adulttoybox.biz
 0.0.0.0 adulttoymegastore.valuecom.com
 0.0.0.0 adulttoys-india.com
 0.0.0.0 adulttoys.jp
