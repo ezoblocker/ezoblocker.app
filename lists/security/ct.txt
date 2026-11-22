@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 76,012 | Updated: 2026-11-22
+# Domains: 76,011 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -5804,6 +5804,7 @@ bbvacompass.spend-net-navigator.com
 *.bestwestern-id-hi14nvs.com
 *.bestwestern-id-hx57ios.com
 *.bestwestern-id-kj17tfs.com
+*.bestwestern-id-mi33uqj.com
 *.bestwestern-id-ow89koz.com
 *.bestwestern-id-pd29fyw.com
 *.bestwestern-id-pg72vas.com
@@ -6127,7 +6128,6 @@ birkenstock-titkok.discount-ttk.shop
 *.bitfinexplatformai.com
 bitflyerjapan.mtl2k23.workers.dev
 bitflyerjp.mtl2k23.workers.dev
-*.bitflyery.com
 *.bitget-auth.pages.dev
 *.bitget-c2v.pages.dev
 *.bitget-en.pages.dev
@@ -22838,7 +22838,6 @@ girlfriendsex-kontakte.telefonsex-girls.xyz
 *.go-com-ldgr-strt.pages.dev
 *.go-com-ldgr-strts.pages.dev
 *.go-fifaclub-web.com
-*.go-googleservices.com
 *.go-io-strt-trezer.pages.dev
 *.go-kraken.pages.dev
 *.go-kucoin-app.pages.dev
@@ -27313,7 +27312,6 @@ how-to-delete-winzir-account.pko888vip.com
 *.hpme-kraken-en-pro.pages.dev
 *.hpq-whatsapp.com.cn
 *.hpx-whats-app.com.cn
-*.hqu-whatsapp.com.cn
 *.hr-migros.pages.dev
 *.hr-whats-app-web.com.cn
 *.hrd--in-logn-trezr-ng.pages.dev
@@ -46619,7 +46617,6 @@ netflixhom-secur.5997.workers.dev
 *.netflixtv-cancellation.pages.dev
 *.netflixv76cr86v.pages.dev
 *.netflixvip-generator.pages.dev
-*.netfllix-verify-noline.sbs
 *.netflx-aide.com
 *.netflx.pages.dev
 *.netflxservice.workers.dev
@@ -61706,11 +61703,14 @@ support.amzaon.workers.dev
 support.apple.es.find-device.online
 support.broadview-engie.com
 support.com-microsoft-onedrive-auth.com
+support.dashboard.alpha.bankom.su
 support.grab-cash-now.com
 support.llydsbank.com
 support.nbg.wirth.digital
+support.ns2.alpha.bankom.su
 support.om.neodos.gr
 support.play-delta-track.xyz
+support.superset.alpha.bankom.su
 support.tng-apps.sbs
 *.supportauth-io-web.pages.dev
 *.supportbinancemail.com
@@ -61904,7 +61904,6 @@ svb-edl-abrechnung.device.service.q-sam.de
 *.t-en-whatsapp.com.cn
 *.t-im-whatsapp.com.cn
 *.t-o-m-whatsapp.com.cn
-*.t-ob-whatsapp.com.cn
 *.t-rejor-start--io-dso.pages.dev
 *.t-rejor-start--io.pages.dev
 *.t-rejor-start-io.pages.dev
@@ -62197,7 +62196,6 @@ teenfotzen-sexkontakte.teen-telefonsex.xyz
 *.tejegnaovld.ink
 *.tejegnhpxco.fit
 *.tejegnhpxco.wiki
-*.tejegnhpxco.work
 *.tejegnpbxo.top
 *.tejegnpbxo.wiki
 *.tejegnqszuf.ink
@@ -62457,7 +62455,6 @@ telegramzc.redirecionar.online
 *.teleusfrig.luxe
 *.televroxxs.luxe
 *.televroxxs.yoga
-*.telexxsbri.shop
 *.telexxsbrw.beer
 *.telexxsbrw.luxe
 *.telexxsbrw.yoga
@@ -69097,7 +69094,6 @@ ts3-paypal.chicagoorthopedicspineinstitute.org
 *.tve-admin-episode-output-configs-prd.pages.dev
 *.tvu-whats-app.com.cn
 *.tvxrw3sr-appleid.pages.dev
-*.tw-binance.cn
 *.twallet-help.pages.dev
 *.twint-payment.rest
 *.twint-sicher-bezahlung.shop
@@ -71292,7 +71288,6 @@ verification002-rapid-bonus-b4b7.sharedisc.workers.dev
 *.verificationpage-seller.click
 *.verificationpage.life
 *.verificationpage.net
-*.verificationpage.shop
 *.verificationpage3.shop
 *.verificationpage3121.pro
 verificationpaypal.cotesud33.org
@@ -74212,7 +74207,6 @@ whatsapp-fabrica-fioterapia.oflcial.site
 *.whatsapp-jkhkg.pages.dev
 whatsapp-jonas.gfsolucoes.online
 *.whatsapp-jt.com.cn
-*.whatsapp-jv.com
 *.whatsapp-ks.com.cn
 *.whatsapp-livecamera-join1.pages.dev
 *.whatsapp-livecamera-join2.pages.dev
@@ -75204,6 +75198,7 @@ www.bank-islami.pstd.online
 www.cib-next-icici-banking-in.ewiisolutions.com
 www.coinb376ase-support-6724system.alldapps.info
 www.commbank.com.au-deviceid401101.tashabridals.com
+www.community.support.superset.alpha.bankom.su
 www.confirm-airbnb.listing-rooms-29500.homes
 www.confirm-airbnb.listing-rooms-750183.homes
 www.confirm-airbnb.rooms-listing-594177.homes
@@ -75282,6 +75277,10 @@ www.signin.icloud-map.us
 www.soporte-apple.lbf-i.com
 www.spotifymodapks.net.in.pikashowapk.stream
 www.spotifymusic.tiendaprime.xyz
+www.support.dashboard.alpha.bankom.su
+www.support.ns.superset.alpha.bankom.su
+www.support.ns2.alpha.bankom.su
+www.support.superset.alpha.bankom.su
 www.surokkha.gov.bd-verify-check.ssonline.site
 www.telegram-notification.ethiokeradionconstruction.org
 www.touchngo-nm.tng-giveaway.my.id

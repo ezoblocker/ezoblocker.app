@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 903,898 | Updated: 2026-11-22
+# Domains: 903,854 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -2794,7 +2794,6 @@
 0.0.0.0 123pgbet.app
 0.0.0.0 123ph-casino.org
 0.0.0.0 123phdream.com
-0.0.0.0 123poker.life
 0.0.0.0 123pokerroom.com
 0.0.0.0 123rajatoto.pages.dev
 0.0.0.0 123riobet.com
@@ -46145,7 +46144,6 @@
 0.0.0.0 akakcasino.com.br
 0.0.0.0 akang123.org
 0.0.0.0 akang69gacor.com
-0.0.0.0 akang69slots.com
 0.0.0.0 akang79net-letusan-maxwin.pages.dev
 0.0.0.0 akangbet.com
 0.0.0.0 akangbet.net
@@ -52663,7 +52661,6 @@
 0.0.0.0 amarillodatasafe.com
 0.0.0.0 amarinfraspaceslot.pages.dev
 0.0.0.0 amarobetcasino.com
-0.0.0.0 amarobetgiris.com
 0.0.0.0 amartaslot-the1.pages.dev
 0.0.0.0 amartaslot.org
 0.0.0.0 amartoto-rtpantirungkat.pages.dev
@@ -180463,7 +180460,6 @@
 0.0.0.0 casino-gslot.com
 0.0.0.0 casino-gslot.net
 0.0.0.0 casino-gt-bet-nl.nl
-0.0.0.0 casino-gta-6.com
 0.0.0.0 casino-gta.com
 0.0.0.0 casino-gtbet-casino.pages.dev
 0.0.0.0 casino-gtbet-com-7f90add3.pages.dev
@@ -184800,6 +184796,7 @@
 0.0.0.0 casino-noverif.net.ua
 0.0.0.0 casino-noverif.org.ua
 0.0.0.0 casino-noverification.com
+0.0.0.0 casino-noverification.top
 0.0.0.0 casino-novibet-gr.com
 0.0.0.0 casino-novibet.com
 0.0.0.0 casino-now-canada.com
@@ -214907,6 +214904,7 @@
 0.0.0.0 casinomate-casino-au.com
 0.0.0.0 casinomate-casino.com
 0.0.0.0 casinomate-de.de
+0.0.0.0 casinomate-online.com
 0.0.0.0 casinomate-online.net
 0.0.0.0 casinomate-play-com.pages.dev
 0.0.0.0 casinomate-pokies.com
@@ -254945,6 +254943,7 @@
 0.0.0.0 cleobetra-fra.com
 0.0.0.0 cleobetra-games.com
 0.0.0.0 cleobetra-germany.de
+0.0.0.0 cleobetra-gr.bet
 0.0.0.0 cleobetra-gr.com
 0.0.0.0 cleobetra-gr.gr
 0.0.0.0 cleobetra-gr.net
@@ -280300,7 +280299,6 @@
 0.0.0.0 demoslotrupiah.com
 0.0.0.0 demoslotrupiah.jp.net
 0.0.0.0 demoslots.at
-0.0.0.0 demoslots.bar
 0.0.0.0 demoslots.best
 0.0.0.0 demoslots.bet
 0.0.0.0 demoslots.biz
@@ -313980,7 +313978,6 @@
 0.0.0.0 faststonecasino.com
 0.0.0.0 fastukcasinos.org
 0.0.0.0 fastwin-casino.co.uk
-0.0.0.0 fastwin77bets.com
 0.0.0.0 fastwin77rtpambyar.com
 0.0.0.0 fastwin77rtpcuan.com
 0.0.0.0 fastwin77rtpgames.com
@@ -351600,6 +351597,7 @@
 0.0.0.0 goldbets-casino-it-com.pages.dev
 0.0.0.0 goldbets-casino-z6d.pages.dev
 0.0.0.0 goldbets-casino.com.de
+0.0.0.0 goldbets-casino.de
 0.0.0.0 goldbets-casino.it.com
 0.0.0.0 goldbets-casino.pages.dev
 0.0.0.0 goldbets-casino.pl
@@ -383840,7 +383838,6 @@
 0.0.0.0 ibc138-situsresmi-amp.pages.dev
 0.0.0.0 ibc138-situsresmi.pages.dev
 0.0.0.0 ibc138-slot-gacor.pages.dev
-0.0.0.0 ibc22casino.com
 0.0.0.0 ibcbet-88-indonesia.pages.dev
 0.0.0.0 ibcbet-88-link-mobile-gaming.pages.dev
 0.0.0.0 ibcbet-88-link.pages.dev
@@ -385679,6 +385676,7 @@
 0.0.0.0 icecrystalsslots.net
 0.0.0.0 icedacusa-rajatogel.pages.dev
 0.0.0.0 icee-casino-ink-5e421ebb.pages.dev
+0.0.0.0 icee-casino.com
 0.0.0.0 icee-casino.de
 0.0.0.0 iceecasino-de-5c071bbb.pages.dev
 0.0.0.0 iceecasino.com
@@ -415664,7 +415662,6 @@
 0.0.0.0 jililive.co
 0.0.0.0 jililive.com
 0.0.0.0 jililive.company
-0.0.0.0 jililive.ec.cc
 0.0.0.0 jililive.eu.cc
 0.0.0.0 jililive.fun
 0.0.0.0 jililive.gg
@@ -419370,6 +419367,7 @@
 0.0.0.0 jojobet777-org.pages.dev
 0.0.0.0 jojobet777-phantasia.pages.dev
 0.0.0.0 jojobet777.org
+0.0.0.0 jojobetaktif.com
 0.0.0.0 jojobetapp.com.br
 0.0.0.0 jojobetbra.com.br
 0.0.0.0 jojobetbrand.com
@@ -509726,7 +509724,6 @@
 0.0.0.0 me88casino-online.com
 0.0.0.0 me88casino.app
 0.0.0.0 me88casino.asia
-0.0.0.0 me88casino.bet
 0.0.0.0 me88casino.fun
 0.0.0.0 me88casino.games
 0.0.0.0 me88casino.onl
@@ -574838,7 +574835,6 @@
 0.0.0.0 oasisslots.de
 0.0.0.0 oasisumgehencasino.com
 0.0.0.0 oasiswin-casino-com.pages.dev
-0.0.0.0 ob9casino.com
 0.0.0.0 ob9mycasino.co.uk
 0.0.0.0 obabet-brasilia-com-5408c76f.pages.dev
 0.0.0.0 obabet-brazil.com
@@ -586156,7 +586152,6 @@
 0.0.0.0 onlinecasinometlicentie.net
 0.0.0.0 onlinecasinometpaypal-co-nl.pages.dev
 0.0.0.0 onlinecasinometpaypal-nl.pages.dev
-0.0.0.0 onlinecasinometpaypal.co.nl
 0.0.0.0 onlinecasinometpaysafecard.com.de
 0.0.0.0 onlinecasinometroulette.nl
 0.0.0.0 onlinecasinometsofort.com
@@ -668848,46 +668843,6 @@
 0.0.0.0 rejekislots.win
 0.0.0.0 rejekislots.work
 0.0.0.0 rejekislots.xyz
-0.0.0.0 rejekislots100.com
-0.0.0.0 rejekislots61.com
-0.0.0.0 rejekislots62.com
-0.0.0.0 rejekislots63.com
-0.0.0.0 rejekislots64.com
-0.0.0.0 rejekislots65.com
-0.0.0.0 rejekislots66.com
-0.0.0.0 rejekislots67.com
-0.0.0.0 rejekislots68.com
-0.0.0.0 rejekislots69.com
-0.0.0.0 rejekislots70.com
-0.0.0.0 rejekislots71.com
-0.0.0.0 rejekislots72.com
-0.0.0.0 rejekislots73.com
-0.0.0.0 rejekislots74.com
-0.0.0.0 rejekislots75.com
-0.0.0.0 rejekislots76.com
-0.0.0.0 rejekislots77.com
-0.0.0.0 rejekislots78.com
-0.0.0.0 rejekislots79.com
-0.0.0.0 rejekislots80.com
-0.0.0.0 rejekislots81.com
-0.0.0.0 rejekislots82.com
-0.0.0.0 rejekislots83.com
-0.0.0.0 rejekislots84.com
-0.0.0.0 rejekislots85.com
-0.0.0.0 rejekislots86.com
-0.0.0.0 rejekislots87.com
-0.0.0.0 rejekislots88.com
-0.0.0.0 rejekislots89.com
-0.0.0.0 rejekislots90.com
-0.0.0.0 rejekislots91.com
-0.0.0.0 rejekislots92.com
-0.0.0.0 rejekislots93.com
-0.0.0.0 rejekislots94.com
-0.0.0.0 rejekislots95.com
-0.0.0.0 rejekislots96.com
-0.0.0.0 rejekislots97.com
-0.0.0.0 rejekislots98.com
-0.0.0.0 rejekislots99.com
 0.0.0.0 rejekisuksesjaya.com
 0.0.0.0 rejekitogeel.pages.dev
 0.0.0.0 rejekitotoslot.com
@@ -682285,6 +682240,7 @@
 0.0.0.0 rollingslots-casinos.at
 0.0.0.0 rollingslots-casinos.it
 0.0.0.0 rollingslots-de-de.pages.dev
+0.0.0.0 rollingslots-de.bet
 0.0.0.0 rollingslots-de.de
 0.0.0.0 rollingslots-deu.com
 0.0.0.0 rollingslots-deutschland-com-97754430.pages.dev
@@ -688135,7 +688091,6 @@
 0.0.0.0 royalcasino535.com
 0.0.0.0 royalcasino77.info
 0.0.0.0 royalcasino77.org
-0.0.0.0 royalcasino777.club
 0.0.0.0 royalcasino789.co
 0.0.0.0 royalcasino88.co
 0.0.0.0 royalcasino88.org
@@ -822085,6 +822040,7 @@
 0.0.0.0 twinvegascasinofr.shop
 0.0.0.0 twinvegascasinos-at-25116.pages.dev
 0.0.0.0 twinwingames.com
+0.0.0.0 twinx-official.cfd
 0.0.0.0 twinxcasino.co.com
 0.0.0.0 twinxcasino.com
 0.0.0.0 twist-casino.ru

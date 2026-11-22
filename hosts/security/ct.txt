@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 76,012 | Updated: 2026-11-22
+# Domains: 76,011 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -5804,6 +5804,7 @@
 0.0.0.0 bestwestern-id-hi14nvs.com
 0.0.0.0 bestwestern-id-hx57ios.com
 0.0.0.0 bestwestern-id-kj17tfs.com
+0.0.0.0 bestwestern-id-mi33uqj.com
 0.0.0.0 bestwestern-id-ow89koz.com
 0.0.0.0 bestwestern-id-pd29fyw.com
 0.0.0.0 bestwestern-id-pg72vas.com
@@ -6127,7 +6128,6 @@
 0.0.0.0 bitfinexplatformai.com
 0.0.0.0 bitflyerjapan.mtl2k23.workers.dev
 0.0.0.0 bitflyerjp.mtl2k23.workers.dev
-0.0.0.0 bitflyery.com
 0.0.0.0 bitget-auth.pages.dev
 0.0.0.0 bitget-c2v.pages.dev
 0.0.0.0 bitget-en.pages.dev
@@ -22838,7 +22838,6 @@
 0.0.0.0 go-com-ldgr-strt.pages.dev
 0.0.0.0 go-com-ldgr-strts.pages.dev
 0.0.0.0 go-fifaclub-web.com
-0.0.0.0 go-googleservices.com
 0.0.0.0 go-io-strt-trezer.pages.dev
 0.0.0.0 go-kraken.pages.dev
 0.0.0.0 go-kucoin-app.pages.dev
@@ -27313,7 +27312,6 @@
 0.0.0.0 hpme-kraken-en-pro.pages.dev
 0.0.0.0 hpq-whatsapp.com.cn
 0.0.0.0 hpx-whats-app.com.cn
-0.0.0.0 hqu-whatsapp.com.cn
 0.0.0.0 hr-migros.pages.dev
 0.0.0.0 hr-whats-app-web.com.cn
 0.0.0.0 hrd--in-logn-trezr-ng.pages.dev
@@ -46619,7 +46617,6 @@
 0.0.0.0 netflixtv-cancellation.pages.dev
 0.0.0.0 netflixv76cr86v.pages.dev
 0.0.0.0 netflixvip-generator.pages.dev
-0.0.0.0 netfllix-verify-noline.sbs
 0.0.0.0 netflx-aide.com
 0.0.0.0 netflx.pages.dev
 0.0.0.0 netflxservice.workers.dev
@@ -61706,11 +61703,14 @@
 0.0.0.0 support.apple.es.find-device.online
 0.0.0.0 support.broadview-engie.com
 0.0.0.0 support.com-microsoft-onedrive-auth.com
+0.0.0.0 support.dashboard.alpha.bankom.su
 0.0.0.0 support.grab-cash-now.com
 0.0.0.0 support.llydsbank.com
 0.0.0.0 support.nbg.wirth.digital
+0.0.0.0 support.ns2.alpha.bankom.su
 0.0.0.0 support.om.neodos.gr
 0.0.0.0 support.play-delta-track.xyz
+0.0.0.0 support.superset.alpha.bankom.su
 0.0.0.0 support.tng-apps.sbs
 0.0.0.0 supportauth-io-web.pages.dev
 0.0.0.0 supportbinancemail.com
@@ -61904,7 +61904,6 @@
 0.0.0.0 t-en-whatsapp.com.cn
 0.0.0.0 t-im-whatsapp.com.cn
 0.0.0.0 t-o-m-whatsapp.com.cn
-0.0.0.0 t-ob-whatsapp.com.cn
 0.0.0.0 t-rejor-start--io-dso.pages.dev
 0.0.0.0 t-rejor-start--io.pages.dev
 0.0.0.0 t-rejor-start-io.pages.dev
@@ -62197,7 +62196,6 @@
 0.0.0.0 tejegnaovld.ink
 0.0.0.0 tejegnhpxco.fit
 0.0.0.0 tejegnhpxco.wiki
-0.0.0.0 tejegnhpxco.work
 0.0.0.0 tejegnpbxo.top
 0.0.0.0 tejegnpbxo.wiki
 0.0.0.0 tejegnqszuf.ink
@@ -62457,7 +62455,6 @@
 0.0.0.0 teleusfrig.luxe
 0.0.0.0 televroxxs.luxe
 0.0.0.0 televroxxs.yoga
-0.0.0.0 telexxsbri.shop
 0.0.0.0 telexxsbrw.beer
 0.0.0.0 telexxsbrw.luxe
 0.0.0.0 telexxsbrw.yoga
@@ -69097,7 +69094,6 @@
 0.0.0.0 tve-admin-episode-output-configs-prd.pages.dev
 0.0.0.0 tvu-whats-app.com.cn
 0.0.0.0 tvxrw3sr-appleid.pages.dev
-0.0.0.0 tw-binance.cn
 0.0.0.0 twallet-help.pages.dev
 0.0.0.0 twint-payment.rest
 0.0.0.0 twint-sicher-bezahlung.shop
@@ -71292,7 +71288,6 @@
 0.0.0.0 verificationpage-seller.click
 0.0.0.0 verificationpage.life
 0.0.0.0 verificationpage.net
-0.0.0.0 verificationpage.shop
 0.0.0.0 verificationpage3.shop
 0.0.0.0 verificationpage3121.pro
 0.0.0.0 verificationpaypal.cotesud33.org
@@ -74212,7 +74207,6 @@
 0.0.0.0 whatsapp-jkhkg.pages.dev
 0.0.0.0 whatsapp-jonas.gfsolucoes.online
 0.0.0.0 whatsapp-jt.com.cn
-0.0.0.0 whatsapp-jv.com
 0.0.0.0 whatsapp-ks.com.cn
 0.0.0.0 whatsapp-livecamera-join1.pages.dev
 0.0.0.0 whatsapp-livecamera-join2.pages.dev
@@ -75204,6 +75198,7 @@
 0.0.0.0 www.cib-next-icici-banking-in.ewiisolutions.com
 0.0.0.0 www.coinb376ase-support-6724system.alldapps.info
 0.0.0.0 www.commbank.com.au-deviceid401101.tashabridals.com
+0.0.0.0 www.community.support.superset.alpha.bankom.su
 0.0.0.0 www.confirm-airbnb.listing-rooms-29500.homes
 0.0.0.0 www.confirm-airbnb.listing-rooms-750183.homes
 0.0.0.0 www.confirm-airbnb.rooms-listing-594177.homes
@@ -75282,6 +75277,10 @@
 0.0.0.0 www.soporte-apple.lbf-i.com
 0.0.0.0 www.spotifymodapks.net.in.pikashowapk.stream
 0.0.0.0 www.spotifymusic.tiendaprime.xyz
+0.0.0.0 www.support.dashboard.alpha.bankom.su
+0.0.0.0 www.support.ns.superset.alpha.bankom.su
+0.0.0.0 www.support.ns2.alpha.bankom.su
+0.0.0.0 www.support.superset.alpha.bankom.su
 0.0.0.0 www.surokkha.gov.bd-verify-check.ssonline.site
 0.0.0.0 www.telegram-notification.ethiokeradionconstruction.org
 0.0.0.0 www.touchngo-nm.tng-giveaway.my.id
