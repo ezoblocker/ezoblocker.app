@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Portugal (pt)
-# Domains: 58 | Updated: 2026-11-21
+# Domains: 59 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/pt.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -59,6 +59,7 @@
 0.0.0.0 sexshoppimenta.com.br
 0.0.0.0 sexshopsexy.com
 0.0.0.0 sotugas.net
+0.0.0.0 thehentaiteca.lat
 0.0.0.0 vibrolandia.com
 0.0.0.0 vivelavita.com
 0.0.0.0 welcomelover.com

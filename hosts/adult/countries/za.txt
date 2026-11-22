@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, South Africa (za)
-# Domains: 48 | Updated: 2026-11-21
+# Domains: 49 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/za.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -35,6 +35,7 @@
 0.0.0.0 lovehoney.net
 0.0.0.0 lovehoneygroup.com
 0.0.0.0 luvland.co.za
+0.0.0.0 matchboxbros.com
 0.0.0.0 matildas.co.za
 0.0.0.0 mirror.kumi.systems
 0.0.0.0 moodtime.co.za

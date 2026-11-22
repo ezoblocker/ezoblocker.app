@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 498 | Updated: 2026-11-21
+# Domains: 512 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -63,6 +63,7 @@
 0.0.0.0 crackstreams.mx
 0.0.0.0 crackstreams1.cx
 0.0.0.0 crackstreamsmax.site
+0.0.0.0 crazykoora.online
 0.0.0.0 cricfree.beer
 0.0.0.0 crichd.lol
 0.0.0.0 cricketworld.com
@@ -75,6 +76,7 @@
 0.0.0.0 direttagoal.it
 0.0.0.0 djmattdaddy.com
 0.0.0.0 dooball99.top
+0.0.0.0 dooballhere.com
 0.0.0.0 dooballleague.com
 0.0.0.0 drecov.pandaoffice.com
 0.0.0.0 edu.gebbs.com
@@ -135,6 +137,7 @@
 0.0.0.0 futemax.rodeo
 0.0.0.0 futemax.ventures
 0.0.0.0 futemax99.shop
+0.0.0.0 futemaxtv.fun
 0.0.0.0 geoikp.operandum-project.eu
 0.0.0.0 getlive.pcb.com.pk
 0.0.0.0 hdlivehd7.live
@@ -157,6 +160,7 @@
 0.0.0.0 info.rugbypass.tv
 0.0.0.0 iptv-new-york.lionott.vu
 0.0.0.0 isportsurge.ws
+0.0.0.0 istreameast.uno
 0.0.0.0 istreameast.work
 0.0.0.0 jestyayin.org
 0.0.0.0 jestyayingiris11.xyz
@@ -239,6 +243,7 @@
 0.0.0.0 m.goalddlive.com
 0.0.0.0 m.snrtbotola.ma
 0.0.0.0 macizletv.net
+0.0.0.0 matches.arriyadiyah.com
 0.0.0.0 mecze24.pl
 0.0.0.0 methstreams.digital
 0.0.0.0 mlbbite.plus
@@ -257,6 +262,7 @@
 0.0.0.0 nflbite.is
 0.0.0.0 nflbites.today
 0.0.0.0 nyc-dsp1.kavanga.com
+0.0.0.0 offsoccer.thezill.com
 0.0.0.0 ostoralivehd7.com
 0.0.0.0 pacman.live
 0.0.0.0 pelotalibre.today
@@ -278,9 +284,11 @@
 0.0.0.0 pirlotv.team
 0.0.0.0 pirlotv.tools
 0.0.0.0 pirlotv.win
+0.0.0.0 pirlotv.works
 0.0.0.0 pirlotv1.live
 0.0.0.0 pirlotvapk.net
 0.0.0.0 pirlotvenhd.club
+0.0.0.0 pirlotvenvivo.biz
 0.0.0.0 pirlotvhd.asia
 0.0.0.0 pirlotvhd.kim
 0.0.0.0 pirlotvhd.shop
@@ -298,6 +306,7 @@
 0.0.0.0 rojadirectaes.cloud
 0.0.0.0 rojadirectafullhd.net
 0.0.0.0 rojadirectafulltv.org
+0.0.0.0 rojadirectago.org
 0.0.0.0 rojadirectaliga.me
 0.0.0.0 rojadirectaone.org
 0.0.0.0 rojadirectaonline.me
@@ -306,10 +315,13 @@
 0.0.0.0 rojadirectatv.asia
 0.0.0.0 rojadirectatv.city
 0.0.0.0 rojadirectatv.skin
+0.0.0.0 rojadirectatvgo.net
 0.0.0.0 rojadirectatvmas.org
+0.0.0.0 rojadirectatvonline.org
 0.0.0.0 rojadirectatvplay.com
 0.0.0.0 rojadirectatvplay.net
 0.0.0.0 rojadirectatvplay.org
+0.0.0.0 rojadirectaweb.online
 0.0.0.0 rojadirectaya.com
 0.0.0.0 s1s.designq.kr
 0.0.0.0 saas.spochak.com
@@ -357,6 +369,7 @@
 0.0.0.0 staging.elkford.ca
 0.0.0.0 start.sportdigital.de
 0.0.0.0 streamcode.fit
+0.0.0.0 streameast-xyz.live
 0.0.0.0 streameast.beauty
 0.0.0.0 streameast.com.se
 0.0.0.0 streameast.gold
@@ -502,3 +515,4 @@
 0.0.0.0 yallashoot.id
 0.0.0.0 yallashoot.study
 0.0.0.0 yallashootstudio.com
+0.0.0.0 yallashotx.live

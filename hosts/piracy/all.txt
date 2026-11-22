@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,261 | Updated: 2026-11-21
+# Domains: 1,283 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -183,6 +183,7 @@
 0.0.0.0 compucalitv.lol
 0.0.0.0 compucalitv.tv
 0.0.0.0 coronavirus.natal.rn.gov.br
+0.0.0.0 cpasmieux.lifestyle
 0.0.0.0 cpasmieux.team
 0.0.0.0 crackstreams.ch
 0.0.0.0 crackstreams.gdn
@@ -193,6 +194,7 @@
 0.0.0.0 crackstreams1.cx
 0.0.0.0 crackstreamsmax.site
 0.0.0.0 cratosroyalbet-2026-girisiniz.com
+0.0.0.0 crazykoora.online
 0.0.0.0 cricfree.beer
 0.0.0.0 crichd.lol
 0.0.0.0 cricketworld.com
@@ -249,6 +251,7 @@
 0.0.0.0 dontorrent.blog
 0.0.0.0 dontorrent.club
 0.0.0.0 dooball99.top
+0.0.0.0 dooballhere.com
 0.0.0.0 dooballleague.com
 0.0.0.0 doonung2u.blogspot.com
 0.0.0.0 doonungfree.com
@@ -280,6 +283,7 @@
 0.0.0.0 eliteboxing.com.ph
 0.0.0.0 elitetorrent.org
 0.0.0.0 elitetorrent.world
+0.0.0.0 en9fyn9b0-amphtml.mutterspracheleilaberg.de
 0.0.0.0 enpelisplus.com
 0.0.0.0 entertainment.iid.co.jp
 0.0.0.0 estonia.klaudiasimiot.pl
@@ -321,6 +325,7 @@
 0.0.0.0 flixmovie.online
 0.0.0.0 flixmovie.xyz
 0.0.0.0 fmoviee.app
+0.0.0.0 fmoviesz2.xyz
 0.0.0.0 fmoviezs.top
 0.0.0.0 fmyflixer.com
 0.0.0.0 footballbet.gr
@@ -382,6 +387,7 @@
 0.0.0.0 futemax.rodeo
 0.0.0.0 futemax.ventures
 0.0.0.0 futemax99.shop
+0.0.0.0 futemaxtv.fun
 0.0.0.0 fzmovies.live
 0.0.0.0 fzmovies.ng
 0.0.0.0 fztvseries.live
@@ -479,6 +485,7 @@
 0.0.0.0 indoxxidlix.vip
 0.0.0.0 info.rugbypass.tv
 0.0.0.0 inpiad60.inpiad.co.kr
+0.0.0.0 inxvpm.menstotuivir.blog
 0.0.0.0 iptv-abonnement-france.youcan.store
 0.0.0.0 iptv-new-york.lionott.vu
 0.0.0.0 iptv-portugal.youcan.store
@@ -515,6 +522,7 @@
 0.0.0.0 isaiminimoviesda.com
 0.0.0.0 isaiminix.com
 0.0.0.0 isportsurge.ws
+0.0.0.0 istreameast.uno
 0.0.0.0 istreameast.work
 0.0.0.0 it-ord.computersweden.se
 0.0.0.0 izlemac629.sbs
@@ -678,6 +686,7 @@
 0.0.0.0 mangakakalot-manga-webtoon.softonic.jp
 0.0.0.0 mangakakalot.to
 0.0.0.0 mangathaiplus.com
+0.0.0.0 matches.arriyadiyah.com
 0.0.0.0 maxcine.com.br
 0.0.0.0 mecze24.pl
 0.0.0.0 med.nippon-shinyaku.co.jp
@@ -722,6 +731,7 @@
 0.0.0.0 moviesflixdl.com
 0.0.0.0 moviesflixdl.org
 0.0.0.0 moviesflixzip.xyz
+0.0.0.0 movizland.app
 0.0.0.0 mp3indirdur.com.tr
 0.0.0.0 mp3indirdur.pro
 0.0.0.0 muave.hanoifc.com.vn
@@ -756,13 +766,16 @@
 0.0.0.0 nflbite.is
 0.0.0.0 nflbites.today
 0.0.0.0 ngb.to.dewebc.com
+0.0.0.0 nodrakorfilm.live
 0.0.0.0 nollywood.naijaremix.com
 0.0.0.0 nontonfilm.fc2.net
 0.0.0.0 northiptv.com
 0.0.0.0 nung2hdd.com
 0.0.0.0 nungfree4k.com
+0.0.0.0 nuth.neubocegan.blog
 0.0.0.0 nyc-dsp1.kavanga.com
 0.0.0.0 ocss.luebitutin.blog
+0.0.0.0 offsoccer.thezill.com
 0.0.0.0 okfilmizle.com
 0.0.0.0 old.babybjorn.com.hk
 0.0.0.0 online.tainiothiki.gr
@@ -841,9 +854,11 @@
 0.0.0.0 pirlotv.team
 0.0.0.0 pirlotv.tools
 0.0.0.0 pirlotv.win
+0.0.0.0 pirlotv.works
 0.0.0.0 pirlotv1.live
 0.0.0.0 pirlotvapk.net
 0.0.0.0 pirlotvenhd.club
+0.0.0.0 pirlotvenvivo.biz
 0.0.0.0 pirlotvhd.asia
 0.0.0.0 pirlotvhd.kim
 0.0.0.0 pirlotvhd.shop
@@ -930,6 +945,7 @@
 0.0.0.0 rojadirectaes.cloud
 0.0.0.0 rojadirectafullhd.net
 0.0.0.0 rojadirectafulltv.org
+0.0.0.0 rojadirectago.org
 0.0.0.0 rojadirectaliga.me
 0.0.0.0 rojadirectaone.org
 0.0.0.0 rojadirectaonline.me
@@ -938,10 +954,13 @@
 0.0.0.0 rojadirectatv.asia
 0.0.0.0 rojadirectatv.city
 0.0.0.0 rojadirectatv.skin
+0.0.0.0 rojadirectatvgo.net
 0.0.0.0 rojadirectatvmas.org
+0.0.0.0 rojadirectatvonline.org
 0.0.0.0 rojadirectatvplay.com
 0.0.0.0 rojadirectatvplay.net
 0.0.0.0 rojadirectatvplay.org
+0.0.0.0 rojadirectaweb.online
 0.0.0.0 rojadirectaya.com
 0.0.0.0 rutracker-net.ru
 0.0.0.0 s1s.designq.kr
@@ -1020,6 +1039,7 @@
 0.0.0.0 staging.elkford.ca
 0.0.0.0 start.sportdigital.de
 0.0.0.0 streamcode.fit
+0.0.0.0 streameast-xyz.live
 0.0.0.0 streameast.beauty
 0.0.0.0 streameast.com.se
 0.0.0.0 streameast.gold
@@ -1261,7 +1281,9 @@
 0.0.0.0 yallashoot.id
 0.0.0.0 yallashoot.study
 0.0.0.0 yallashootstudio.com
+0.0.0.0 yallashotx.live
 0.0.0.0 yozm.wishket.com
 0.0.0.0 zalukajx.pl
 0.0.0.0 zfilmizle.com
 0.0.0.0 zgwntql.saltandsolo.de
+0.0.0.0 zone-annuaire.latino

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,486 | Updated: 2026-11-21
+# Domains: 1,488 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -391,6 +391,7 @@
 0.0.0.0 erotikwelt.org
 0.0.0.0 erotiquepink.com
 0.0.0.0 erovibes.es
+0.0.0.0 erovita.ru
 0.0.0.0 erox.com.tr
 0.0.0.0 erozkosz.pl
 0.0.0.0 esexshop.com.ua
@@ -760,6 +761,7 @@
 0.0.0.0 martshop.pk
 0.0.0.0 massage123.ch
 0.0.0.0 masturbadoreshombre.com
+0.0.0.0 matchboxbros.com
 0.0.0.0 matildas.co.za
 0.0.0.0 maziona.online
 0.0.0.0 meaculpa.ch

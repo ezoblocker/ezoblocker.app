@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Indonesia (id)
-# Domains: 34 | Updated: 2026-11-21
+# Domains: 35 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/id.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -38,3 +38,4 @@
 0.0.0.0 sbobet88.is
 0.0.0.0 smritipatra.com
 0.0.0.0 soap2days.id
+0.0.0.0 wallsproductions.com

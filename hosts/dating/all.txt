@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 2,187 | Updated: 2026-11-21
+# Domains: 2,193 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -240,6 +240,7 @@
 0.0.0.0 busohbet.com
 0.0.0.0 buyuksohbet.com
 0.0.0.0 buzau.abcescorte.com
+0.0.0.0 c06.aygonet.org
 0.0.0.0 cagayandeoroph.assortlist.com
 0.0.0.0 calgary.5escorts.ca
 0.0.0.0 calgary.bonepage.com
@@ -345,6 +346,7 @@
 0.0.0.0 chatplanet-random-video-chat.softonic.nl
 0.0.0.0 chatrandom.com
 0.0.0.0 chatrandom.net
+0.0.0.0 chatromana.com
 0.0.0.0 chatroom.j471n.in
 0.0.0.0 chatroom.nl
 0.0.0.0 chatroom2000.de
@@ -899,6 +901,7 @@
 0.0.0.0 grindr.com
 0.0.0.0 growlr.com
 0.0.0.0 guaranteedsexdate.com
+0.0.0.0 guflfoiht26-stylesheet.owocesuszone.com.pl
 0.0.0.0 guiadeacompanhantes.com.br
 0.0.0.0 guidetolasvegasescorts.com
 0.0.0.0 gulfdate.com
@@ -1394,6 +1397,7 @@
 0.0.0.0 navan.kubuchet.ru
 0.0.0.0 nazfm.net
 0.0.0.0 nearbyhookups.co.uk
+0.0.0.0 nehcfky.idqueverdis.blog
 0.0.0.0 nelspruit.dfs05.ru
 0.0.0.0 neskortes.is
 0.0.0.0 netcasino-life-hisshoho.jp
@@ -1483,6 +1487,7 @@
 0.0.0.0 paak.adwento.com
 0.0.0.0 pakichatrooms.com
 0.0.0.0 pakistan.videocall.network
+0.0.0.0 pakistanichatroom.com.pk
 0.0.0.0 pakistanichatrooms.com
 0.0.0.0 pakistanichatrooms.com.pk
 0.0.0.0 pakistanichatrooms.enic.pk
@@ -2185,6 +2190,7 @@
 0.0.0.0 zcheckerviet.com
 0.0.0.0 zcheckerviet.net
 0.0.0.0 zcheckerviet.vip
+0.0.0.0 zcheckerviet.xyz
 0.0.0.0 zipcodeswingers.com
 0.0.0.0 znakomstva.ru
 0.0.0.0 znamost.cz

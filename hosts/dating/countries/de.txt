@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Dating, Germany (de)
-# Domains: 33 | Updated: 2026-11-21
+# Domains: 34 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/countries/de.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 c06.aygonet.org
 0.0.0.0 chatcity.com
 0.0.0.0 chatcity.de
 0.0.0.0 chatroom2000.de

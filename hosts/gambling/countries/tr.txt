@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 246 | Updated: 2026-11-21
+# Domains: 250 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -94,6 +94,7 @@
 0.0.0.0 cmd368super.com
 0.0.0.0 crashking.co.uk
 0.0.0.0 croatia-bonusesfinder.com
+0.0.0.0 crybonus.com
 0.0.0.0 cybetic.com
 0.0.0.0 denemebonuslari.yachts
 0.0.0.0 dogrugiris5.pro
@@ -144,6 +145,7 @@
 0.0.0.0 marsbahis-relax.vip
 0.0.0.0 marsbahis01.com
 0.0.0.0 marsbahiscasinoburada.com
+0.0.0.0 mas-de-tourel.fr
 0.0.0.0 matadorbet.com
 0.0.0.0 matadorbet.net
 0.0.0.0 maxwin.cx
@@ -174,6 +176,7 @@
 0.0.0.0 padisahbet-lisans.vip
 0.0.0.0 padisahbet-logins.vip
 0.0.0.0 paribahis.com
+0.0.0.0 parkbonusu.com
 0.0.0.0 parsecawards.com
 0.0.0.0 perabet-giris.net
 0.0.0.0 perabet1324.com
@@ -244,6 +247,7 @@
 0.0.0.0 wo.friendshipfordlenoir.com
 0.0.0.0 wonderscope.com
 0.0.0.0 ws.christostogo.com
+0.0.0.0 ws.elmntlounge.com
 0.0.0.0 ws.glenfloors.com
 0.0.0.0 wu.borderlandsbrewing.com
 0.0.0.0 wz.mythosnyc.com

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Bypass
-! Domains: 196 | Updated: 2026-11-21
+! Domains: 201 | Updated: 2026-11-22
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/bypass/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -45,6 +45,7 @@
 ||freegate.ee^
 ||freeproxy.win^
 ||freevpn.edu.pl^
+||freevpn.pk^
 |gdjj.handyunduhrenwelt.de^
 ||getunicorn.app^
 |gpedit.tplant.com.au^
@@ -116,6 +117,7 @@
 |psiphon.alsindibad.com^
 |psiphon.ar.softmany.com^
 ||psiphon.com^
+|psiphon.en.softmany.com^
 |psiphon.jp.softmany.com^
 |psiphon.kr.softmany.com^
 |psiphon.sooftware.com^
@@ -175,6 +177,7 @@
 ||v2ray-macos-arm64-v8a.zip^
 |versilama.budaya-indonesia.org^
 |vip-proxy-server-ff-1.modapkgood.com^
+|vkgleyxu.quietvoyager.world^
 |vpn-colombia-free-vpn-proxy-and-secure-vpn-unblock.apkgold.es^
 |vpn-proxy-master.en.softmany.com^
 |vpn.365finds.com^
@@ -197,6 +200,8 @@
 |yrf.ipsf.org^
 |zakazky.ceproas.cz^
 |zakazky.eagri.cz^
+|zakazky.muml.cz^
+|zakazky.praha6.cz^
 |zakazky.usti.cz^
 ||zapret.vercel.app^
 |zend2.rwiki.jp^

@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating, chat rooms and random video chat
-! Domains: 411 | Updated: 2026-11-21
+! Domains: 416 | Updated: 2026-11-22
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/dating-chat.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -47,6 +47,7 @@
 |bumpmatch.jetboy.jp^
 ||busohbet.com^
 ||buyuksohbet.com^
+|c06.aygonet.org^
 ||camchat.today^
 ||camgo.com^
 ||camruletka.com^
@@ -108,6 +109,7 @@
 |chatplanet-random-video-chat.softonic.nl^
 ||chatrandom.com^
 ||chatrandom.net^
+||chatromana.com^
 |chatroom.j471n.in^
 ||chatroom.nl^
 ||chatroom2000.de^
@@ -189,6 +191,7 @@
 ||greekchat.com^
 ||greekchat.eu^
 ||greekschat.com^
+|guflfoiht26-stylesheet.owocesuszone.com.pl^
 |gupshupzone.chatovod.com^
 ||harbiyiz.org^
 ||harikasohbet.com^
@@ -255,6 +258,7 @@
 ||naijachat.com^
 |naronameso.meletstevewedding.fr^
 ||nazfm.net^
+|nehcfky.idqueverdis.blog^
 ||newomegle.live^
 |ntu.ff.or.kr^
 |old.coacha.com^
@@ -285,6 +289,7 @@
 ||oudevrouwenchat.nl^
 ||pakichatrooms.com^
 |pakistan.videocall.network^
+||pakistanichatroom.com.pk^
 ||pakistanichatrooms.com^
 ||pakistanichatrooms.com.pk^
 |pakistanichatrooms.enic.pk^

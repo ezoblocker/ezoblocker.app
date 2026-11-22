@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 621 | Updated: 2026-11-21
+# Domains: 632 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -19,6 +19,8 @@
 0.0.0.0 31vktialtyazili.cyou
 0.0.0.0 31vktialtyaziliporno.sbs
 0.0.0.0 31vktialtyazilizx9.cfd
+0.0.0.0 31vktivideolar.lat
+0.0.0.0 31vktixxvid.lat
 0.0.0.0 31vqkticx13.click
 0.0.0.0 31vqkticx14.click
 0.0.0.0 31vqkticx16.cfd
@@ -59,10 +61,12 @@
 0.0.0.0 altyazilihubxt17.cfd
 0.0.0.0 altyazilihubxt18.click
 0.0.0.0 altyazilihubxt19.cyou
+0.0.0.0 altyazilihubxt20.lat
 0.0.0.0 altyazilihubxt7.lat
 0.0.0.0 altyazilipornofilmi.info
 0.0.0.0 altyzhub30.site
 0.0.0.0 altyzhub34.site
+0.0.0.0 altyzhub36.site
 0.0.0.0 amlaks5.shop
 0.0.0.0 ankara-escort1.sbs
 0.0.0.0 ankaraescort11.com
@@ -212,6 +216,7 @@
 0.0.0.0 escortgoruklede.com
 0.0.0.0 escortizmirkiz.info
 0.0.0.0 escortkizlarr.com
+0.0.0.0 escortlar225.xyz
 0.0.0.0 escortlar251.xyz
 0.0.0.0 escortlar254.xyz
 0.0.0.0 escortlar432.xyz
@@ -261,7 +266,9 @@
 0.0.0.0 hdabla76.click
 0.0.0.0 hdabla87.click
 0.0.0.0 hdalemi.com
+0.0.0.0 hdxaltyazi10.shop
 0.0.0.0 hentaiadam.com
+0.0.0.0 hentairead.io
 0.0.0.0 honeybirdette.com
 0.0.0.0 honora2.skin
 0.0.0.0 honora3.skin
@@ -407,6 +414,7 @@
 0.0.0.0 pornodoeda45.shop
 0.0.0.0 pornodoeda45.site
 0.0.0.0 pornodoeda46.shop
+0.0.0.0 pornoholly5.best
 0.0.0.0 pornoiz18.shop
 0.0.0.0 pornoizlehane.com
 0.0.0.0 pornojan1.skin
@@ -420,6 +428,7 @@
 0.0.0.0 pornozaz87.online
 0.0.0.0 pornozaz87.shop
 0.0.0.0 pornozaz87.site
+0.0.0.0 pornozaz88.shop
 0.0.0.0 pornza.homes
 0.0.0.0 positive-vibrations.hr
 0.0.0.0 prnvide.help
@@ -495,6 +504,7 @@
 0.0.0.0 turkaltyazilittu.sbs
 0.0.0.0 turkaltyazilixx.site
 0.0.0.0 turkaltyaziporno.info
+0.0.0.0 turkcealtyazilizzx.cfd
 0.0.0.0 turkceerotikfilmcx.cfd
 0.0.0.0 turkceporna12.shop
 0.0.0.0 turkceporna13.cfd
@@ -589,6 +599,7 @@
 0.0.0.0 viperotikfilm4.skin
 0.0.0.0 viperotikfilm6.skin
 0.0.0.0 viperotikfilm7.skin
+0.0.0.0 vipescortbeylikduzu.net
 0.0.0.0 vipescortpro2.world
 0.0.0.0 vipifsa33.lat
 0.0.0.0 vipsa.com

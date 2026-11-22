@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass, Malaysia (my)
-# Domains: 9 | Updated: 2026-11-21
+# Domains: 10 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/bypass/countries/my.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 0.0.0.0 guide.v2fly.org
 0.0.0.0 mjlb.praxis-book.de
 0.0.0.0 psiphon.com
+0.0.0.0 psiphon.en.softmany.com
 0.0.0.0 psiphon2.net
 0.0.0.0 ultrasurf.en.softmany.com
 0.0.0.0 versilama.budaya-indonesia.org

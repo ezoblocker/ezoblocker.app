@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 621 | Updated: 2026-11-21
+# Domains: 632 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -19,6 +19,8 @@
 *.31vktialtyazili.cyou
 *.31vktialtyaziliporno.sbs
 *.31vktialtyazilizx9.cfd
+*.31vktivideolar.lat
+*.31vktixxvid.lat
 *.31vqkticx13.click
 *.31vqkticx14.click
 *.31vqkticx16.cfd
@@ -59,10 +61,12 @@
 *.altyazilihubxt17.cfd
 *.altyazilihubxt18.click
 *.altyazilihubxt19.cyou
+*.altyazilihubxt20.lat
 *.altyazilihubxt7.lat
 *.altyazilipornofilmi.info
 *.altyzhub30.site
 *.altyzhub34.site
+*.altyzhub36.site
 *.amlaks5.shop
 *.ankara-escort1.sbs
 *.ankaraescort11.com
@@ -212,6 +216,7 @@ certification.ntop.com
 *.escortgoruklede.com
 *.escortizmirkiz.info
 *.escortkizlarr.com
+*.escortlar225.xyz
 *.escortlar251.xyz
 *.escortlar254.xyz
 *.escortlar432.xyz
@@ -261,7 +266,9 @@ foms.skamil.pl
 *.hdabla76.click
 *.hdabla87.click
 *.hdalemi.com
+*.hdxaltyazi10.shop
 *.hentaiadam.com
+*.hentairead.io
 *.honeybirdette.com
 *.honora2.skin
 *.honora3.skin
@@ -407,6 +414,7 @@ pht64mnpy-object-data.nettoyagereunion.re
 *.pornodoeda45.shop
 *.pornodoeda45.site
 *.pornodoeda46.shop
+*.pornoholly5.best
 *.pornoiz18.shop
 *.pornoizlehane.com
 *.pornojan1.skin
@@ -420,6 +428,7 @@ pht64mnpy-object-data.nettoyagereunion.re
 *.pornozaz87.online
 *.pornozaz87.shop
 *.pornozaz87.site
+*.pornozaz88.shop
 *.pornza.homes
 *.positive-vibrations.hr
 *.prnvide.help
@@ -495,6 +504,7 @@ pujcovna.wachal.cz
 *.turkaltyazilittu.sbs
 *.turkaltyazilixx.site
 *.turkaltyaziporno.info
+*.turkcealtyazilizzx.cfd
 *.turkceerotikfilmcx.cfd
 *.turkceporna12.shop
 *.turkceporna13.cfd
@@ -589,6 +599,7 @@ v2olntq0.nettoyagereunion.re
 *.viperotikfilm4.skin
 *.viperotikfilm6.skin
 *.viperotikfilm7.skin
+*.vipescortbeylikduzu.net
 *.vipescortpro2.world
 *.vipifsa33.lat
 *.vipsa.com

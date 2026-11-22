@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, United Kingdom (gb)
-# Domains: 51 | Updated: 2026-11-21
+# Domains: 52 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/gb.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -20,6 +20,7 @@
 0.0.0.0 bflix.mx
 0.0.0.0 british.milarch.org
 0.0.0.0 eyasflix.com
+0.0.0.0 fmoviesz2.xyz
 0.0.0.0 fmyflixer.com
 0.0.0.0 footybite.com.co
 0.0.0.0 footybite.futbol

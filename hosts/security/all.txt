@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 77,048 | Updated: 2026-11-21
+# Domains: 77,017 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1084,7 +1084,6 @@
 0.0.0.0 acess-trzorio.pages.dev
 0.0.0.0 acess-trzr-io--start.pages.dev
 0.0.0.0 acesso-bancoctt-digital.billing-verification.click
-0.0.0.0 acesso.web-gov-online.co
 0.0.0.0 acessogarantido.it.com
 0.0.0.0 acessosantander.com
 0.0.0.0 acnor4-1qorin.pages.dev
@@ -2230,7 +2229,6 @@
 0.0.0.0 apk-suitetrz.pages.dev
 0.0.0.0 apk-us-coin-base.pages.dev
 0.0.0.0 apkmody-spotify-premium.pages.dev
-0.0.0.0 apm-zhifeiji.com.cn
 0.0.0.0 apo-kundenanpassungservice20268492742123.com
 0.0.0.0 apobankd.de
 0.0.0.0 apostille.mygov.bd.applications-details.shop
@@ -3302,7 +3300,6 @@
 0.0.0.0 apple-support-critical-action-needed.pages.dev
 0.0.0.0 apple-support-customer-service.marketplace-mastery-guides.com
 0.0.0.0 apple-support-desk.pages.dev
-0.0.0.0 apple-support-help.us
 0.0.0.0 apple-support-number.com.ph
 0.0.0.0 apple-support-verify.ph
 0.0.0.0 apple-support.pages.dev
@@ -12228,7 +12225,6 @@
 0.0.0.0 d-e-f-whatsapp.com.cn
 0.0.0.0 d-er-whatsapp.com.cn
 0.0.0.0 d-ocexodusweb.pages.dev
-0.0.0.0 d-u-whatsapp.com.cn
 0.0.0.0 d1rtq8s9-web-telegram-org.pages.dev
 0.0.0.0 d22whatsappsex.pages.dev
 0.0.0.0 d3e7a323-9e81-4bab-aa98-c762640535f0-netflix-clone.pages.dev
@@ -14812,7 +14808,6 @@
 0.0.0.0 dune-vaultmere-shop.pages.dev
 0.0.0.0 duplicador-de-whatsapp.pages.dev
 0.0.0.0 duroneta-vexolire.pages.dev
-0.0.0.0 dust-whatapp.com.cn
 0.0.0.0 dutimarol-qovirexan.pages.dev
 0.0.0.0 dutsche-bank.de
 0.0.0.0 dv8l9x72-teiegarm.pages.dev
@@ -14868,7 +14863,6 @@
 0.0.0.0 e-n-i-trezro.pages.dev
 0.0.0.0 e-n-phantomwales.pages.dev
 0.0.0.0 e-n-whats-app.com.cn
-0.0.0.0 e-op-whatsapp.com.cn
 0.0.0.0 e-portalflare.pages.dev
 0.0.0.0 e-postban-bg-support.online
 0.0.0.0 e-suites-trzr.pages.dev
@@ -25391,7 +25385,6 @@
 0.0.0.0 hk-whatsaspp-yfd.hk.cn
 0.0.0.0 hk-whatsaspp-zsu.hk.cn
 0.0.0.0 hkim-whatapp.hl.cn
-0.0.0.0 hkseek-whatapp.com.cn
 0.0.0.0 hlep-ledgre-en.pages.dev
 0.0.0.0 hlksaglkrhber.cfd
 0.0.0.0 hlp--desktop-ledgr.pages.dev
@@ -28137,7 +28130,6 @@
 0.0.0.0 i-rustcapital-log.pages.dev
 0.0.0.0 i-signin-trustcapital.pages.dev
 0.0.0.0 i-starttezor.pages.dev
-0.0.0.0 i-taupontosxja.com
 0.0.0.0 i-trast-wallet-login.pages.dev
 0.0.0.0 i-trastt-login.pages.dev
 0.0.0.0 i-trezorwallet.pages.dev
@@ -28917,7 +28909,6 @@
 0.0.0.0 ingbanksupport.ph
 0.0.0.0 ingbankunlocked.ph
 0.0.0.0 ingdirect-consultas-soporte.com
-0.0.0.0 ingdirect-portal-inicio.com
 0.0.0.0 ingenieriavirtual.online
 0.0.0.0 iniciodesesionroblox.pages.dev
 0.0.0.0 init-hub-trezr.pages.dev
@@ -31785,7 +31776,6 @@
 0.0.0.0 join-worldlibertyfinancecom.pages.dev
 0.0.0.0 join-xrpl.xyz
 0.0.0.0 join-zerolend.pages.dev
-0.0.0.0 join-zoom.online
 0.0.0.0 join-zoomeeting-invitations.pages.dev
 0.0.0.0 join.microsoft-teams-meetup.workers.dev
 0.0.0.0 joindatewhatsappme.pages.dev
@@ -34504,7 +34494,6 @@
 0.0.0.0 leajore-live-auth.pages.dev
 0.0.0.0 lean-trezor-io-bridge.pages.dev
 0.0.0.0 leanrn-liveledgr.pages.dev
-0.0.0.0 leap-whatapp.hl.cn
 0.0.0.0 lear-ledger-com-start.pages.dev
 0.0.0.0 lear-ledgercomstart.pages.dev
 0.0.0.0 lear-ledgr-dkstop-eng.pages.dev
@@ -46155,7 +46144,6 @@
 0.0.0.0 mygovsnetlify.pages.dev
 0.0.0.0 myguest-reservation.com
 0.0.0.0 myhardwaretrezor-recovery.pages.dev
-0.0.0.0 myhermes-verfolgen.com
 0.0.0.0 myhermes.3eyer.de
 0.0.0.0 myhermes.ryftcustomers.ir
 0.0.0.0 myhome-ldxzr-logis.pages.dev
@@ -50082,7 +50070,6 @@
 0.0.0.0 page-us-trzrsuite.pages.dev
 0.0.0.0 page-use-exo-dus.pages.dev
 0.0.0.0 page-v-ndax-login.pages.dev
-0.0.0.0 page-w-hatsapp.com.cn
 0.0.0.0 page-wallet-leddger-cloud.pages.dev
 0.0.0.0 page-web-ex-odus.pages.dev
 0.0.0.0 page-web-exo-dus.pages.dev
@@ -51124,7 +51111,6 @@
 0.0.0.0 paypall-support.pages.dev
 0.0.0.0 paypall.com-support.workers.dev
 0.0.0.0 paypall.com.pl
-0.0.0.0 paypall.shop
 0.0.0.0 paypalloans.pages.dev
 0.0.0.0 paypalme.pages.dev
 0.0.0.0 paypalpay.nerver.cc
@@ -51562,7 +51548,6 @@
 0.0.0.0 pitviperussale.com
 0.0.0.0 pivaro-meta-qantir-business-28126.pages.dev
 0.0.0.0 pizzaparavoce.com.br
-0.0.0.0 pjbradescoatendimento.com
 0.0.0.0 pjc-whatsapp.com.cn
 0.0.0.0 pjlska-bitradex.top
 0.0.0.0 pjnetempresa.cfd
@@ -51676,7 +51661,6 @@
 0.0.0.0 polymarket-blog.pages.dev
 0.0.0.0 polymarket-board.pages.dev
 0.0.0.0 polymarket-bot-marketing-51j.pages.dev
-0.0.0.0 polymarket-ca.ca
 0.0.0.0 polymarket-check.com
 0.0.0.0 polymarket-checker.pages.dev
 0.0.0.0 polymarket-snapshot.pages.dev
@@ -52114,7 +52098,6 @@
 0.0.0.0 poshmark-id84589.pages.dev
 0.0.0.0 poshmark-ofers.sbs
 0.0.0.0 poshmark-order187473.cfd
-0.0.0.0 poshmark-procedure.repair
 0.0.0.0 poshmark-project.com
 0.0.0.0 poshmark-s.info
 0.0.0.0 poshmark-safeform.com
@@ -54219,7 +54202,6 @@
 0.0.0.0 rsrvasid-botuqqe701.com
 0.0.0.0 rsrvasid-botuqqe761.com
 0.0.0.0 rsxfan-whatsapp.hk.cn
-0.0.0.0 rt-apss-whatapp.com.cn
 0.0.0.0 rt-letsvpn.com.cn
 0.0.0.0 rt-whats-app.com.cn
 0.0.0.0 rtewadsfgfhguoytrew4wetrytuyiukhgf2kuytrdfgchfgjuyft2.pages.dev
@@ -56117,7 +56099,6 @@
 0.0.0.0 simple-download-ledgr.pages.dev
 0.0.0.0 simple-ledgr-eng.pages.dev
 0.0.0.0 simple-light-safe-active.pages.dev
-0.0.0.0 simpleswap-exchange.to
 0.0.0.0 simtor-valnex-biz-hentor-galrin-sp10ct12.pages.dev
 0.0.0.0 simulanangrobloxid.pages.dev
 0.0.0.0 sinasports-cn-fifa.com
@@ -60316,7 +60297,6 @@
 0.0.0.0 stroberi4d-solvexacrown-aku-kamu.pages.dev
 0.0.0.0 stromdexerispro-com.pages.dev
 0.0.0.0 strongerrobloxid.pages.dev
-0.0.0.0 strongholdxrlusd.co
 0.0.0.0 strrt-en-ledg-us.pages.dev
 0.0.0.0 strrt-ldger-lives.pages.dev
 0.0.0.0 strrt-ledger-en.pages.dev
@@ -62510,14 +62490,11 @@
 0.0.0.0 support.apple.es.find-device.online
 0.0.0.0 support.broadview-engie.com
 0.0.0.0 support.com-microsoft-onedrive-auth.com
-0.0.0.0 support.dashboard.alpha.bankom.su
 0.0.0.0 support.grab-cash-now.com
 0.0.0.0 support.llydsbank.com
 0.0.0.0 support.nbg.wirth.digital
-0.0.0.0 support.ns2.alpha.bankom.su
 0.0.0.0 support.om.neodos.gr
 0.0.0.0 support.play-delta-track.xyz
-0.0.0.0 support.superset.alpha.bankom.su
 0.0.0.0 support.tng-apps.sbs
 0.0.0.0 supportauth-io-web.pages.dev
 0.0.0.0 supportbinancemail.com
@@ -63624,6 +63601,7 @@
 0.0.0.0 tiktok-ads-lp.pages.dev
 0.0.0.0 tiktok-ads-online-v2.pages.dev
 0.0.0.0 tiktok-ads-online.pages.dev
+0.0.0.0 tiktok-app-us.com
 0.0.0.0 tiktok-bulk.pages.dev
 0.0.0.0 tiktok-buy.newseventpubgmobile.workers.dev
 0.0.0.0 tiktok-daitou.pages.dev
@@ -70147,7 +70125,6 @@
 0.0.0.0 ucoin-login.pages.dev
 0.0.0.0 uder-legorlive.pages.dev
 0.0.0.0 ue-letsvpn.com.cn
-0.0.0.0 ufx-whatsapp.com.cn
 0.0.0.0 ugjqkes2-teiegarm.pages.dev
 0.0.0.0 uhold-logii.pages.dev
 0.0.0.0 uholdd-login.pages.dev
@@ -70227,7 +70204,6 @@
 0.0.0.0 unicredit.atlas.app
 0.0.0.0 unicredit.hilio.com
 0.0.0.0 unicreditapp.cc
-0.0.0.0 unicreditgroup-investmentsaustria.com
 0.0.0.0 unicreditsanpaolo.com
 0.0.0.0 union-core-bank.capital
 0.0.0.0 unionbank-manila-metro-ave.ph
@@ -72067,7 +72043,6 @@
 0.0.0.0 v-bucks-k-snfk-d6v.pages.dev
 0.0.0.0 v-bucks-v7y.pages.dev
 0.0.0.0 v-f-whatsapp.com.cn
-0.0.0.0 v-j-b-whatsapp.com.cn
 0.0.0.0 v-j-whatsapp.com.cn
 0.0.0.0 v-live-ldgr-us.pages.dev
 0.0.0.0 v-tu-whatsapp.com.cn
@@ -72777,7 +72752,6 @@
 0.0.0.0 w-whatsap-p.com.cn
 0.0.0.0 w-x-whats-app.hl.cn
 0.0.0.0 w1-web-whatsapp.com
-0.0.0.0 w1-whatsapp.com.cn
 0.0.0.0 w1-whatsapp.hl.cn
 0.0.0.0 w12whatsappsex.pages.dev
 0.0.0.0 w13whatsappsex-38s.pages.dev
@@ -76230,7 +76204,6 @@
 0.0.0.0 www.cib-next-icici-banking-in.ewiisolutions.com
 0.0.0.0 www.coinb376ase-support-6724system.alldapps.info
 0.0.0.0 www.commbank.com.au-deviceid401101.tashabridals.com
-0.0.0.0 www.community.support.superset.alpha.bankom.su
 0.0.0.0 www.confirm-airbnb.listing-rooms-29500.homes
 0.0.0.0 www.confirm-airbnb.listing-rooms-750183.homes
 0.0.0.0 www.confirm-airbnb.rooms-listing-594177.homes
@@ -76309,10 +76282,6 @@
 0.0.0.0 www.soporte-apple.lbf-i.com
 0.0.0.0 www.spotifymodapks.net.in.pikashowapk.stream
 0.0.0.0 www.spotifymusic.tiendaprime.xyz
-0.0.0.0 www.support.dashboard.alpha.bankom.su
-0.0.0.0 www.support.ns.superset.alpha.bankom.su
-0.0.0.0 www.support.ns2.alpha.bankom.su
-0.0.0.0 www.support.superset.alpha.bankom.su
 0.0.0.0 www.surokkha.gov.bd-verify-check.ssonline.site
 0.0.0.0 www.telegram-notification.ethiokeradionconstruction.org
 0.0.0.0 www.touchngo-nm.tng-giveaway.my.id
@@ -76947,6 +76916,7 @@
 0.0.0.0 zoom-meetings-deploy.pages.dev
 0.0.0.0 zoom-meetings-groups.pages.dev
 0.0.0.0 zoom-metmicoft.pages.dev
+0.0.0.0 zoom-schedule-meeting.click
 0.0.0.0 zoom-trezre-en.pages.dev
 0.0.0.0 zoom-us.pages.dev
 0.0.0.0 zoom-usweb004.guopsr.top
@@ -77034,7 +77004,6 @@
 0.0.0.0 ztv-w-hatsapp.hl.cn
 0.0.0.0 zulvoriax-click.pages.dev
 0.0.0.0 zun-whatsapp.com.cn
-0.0.0.0 zunavelqorixymetaspud.com
 0.0.0.0 zunfuri-mpt-qalveno-r5x7me86.pages.dev
 0.0.0.0 zuprelvixor.shop
 0.0.0.0 zuqiuappxiazaiguanwangxiazai.lol

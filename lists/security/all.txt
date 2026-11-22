@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 77,048 | Updated: 2026-11-21
+# Domains: 77,017 | Updated: 2026-11-22
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1084,7 +1084,6 @@ acct-t3am-micr0-s0ft-6ount.greeli1t3rs.workers.dev
 *.acess-trzorio.pages.dev
 *.acess-trzr-io--start.pages.dev
 acesso-bancoctt-digital.billing-verification.click
-acesso.web-gov-online.co
 *.acessogarantido.it.com
 *.acessosantander.com
 *.acnor4-1qorin.pages.dev
@@ -2230,7 +2229,6 @@ api.gamma.springbig-wallet-3.click
 *.apk-suitetrz.pages.dev
 *.apk-us-coin-base.pages.dev
 *.apkmody-spotify-premium.pages.dev
-*.apm-zhifeiji.com.cn
 *.apo-kundenanpassungservice20268492742123.com
 *.apobankd.de
 apostille.mygov.bd.applications-details.shop
@@ -3302,7 +3300,6 @@ apple-security-check.wpazing.com
 *.apple-support-critical-action-needed.pages.dev
 apple-support-customer-service.marketplace-mastery-guides.com
 *.apple-support-desk.pages.dev
-*.apple-support-help.us
 *.apple-support-number.com.ph
 *.apple-support-verify.ph
 *.apple-support.pages.dev
@@ -12228,7 +12225,6 @@ currently-yahoo-att.yaatsbame2023.workers.dev
 *.d-e-f-whatsapp.com.cn
 *.d-er-whatsapp.com.cn
 *.d-ocexodusweb.pages.dev
-*.d-u-whatsapp.com.cn
 *.d1rtq8s9-web-telegram-org.pages.dev
 *.d22whatsappsex.pages.dev
 *.d3e7a323-9e81-4bab-aa98-c762640535f0-netflix-clone.pages.dev
@@ -14812,7 +14808,6 @@ dsdgsdgsdfgdfgfdvcb.oijdsfodnlkxvxcuivhxdfiukfhndx.workers.dev
 *.dune-vaultmere-shop.pages.dev
 *.duplicador-de-whatsapp.pages.dev
 *.duroneta-vexolire.pages.dev
-*.dust-whatapp.com.cn
 *.dutimarol-qovirexan.pages.dev
 *.dutsche-bank.de
 *.dv8l9x72-teiegarm.pages.dev
@@ -14868,7 +14863,6 @@ dsdgsdgsdfgdfgfdvcb.oijdsfodnlkxvxcuivhxdfiukfhndx.workers.dev
 *.e-n-i-trezro.pages.dev
 *.e-n-phantomwales.pages.dev
 *.e-n-whats-app.com.cn
-*.e-op-whatsapp.com.cn
 *.e-portalflare.pages.dev
 *.e-postban-bg-support.online
 *.e-suites-trzr.pages.dev
@@ -25391,7 +25385,6 @@ hjhjhj.hjkkjjk.workers.dev
 *.hk-whatsaspp-yfd.hk.cn
 *.hk-whatsaspp-zsu.hk.cn
 *.hkim-whatapp.hl.cn
-*.hkseek-whatapp.com.cn
 *.hlep-ledgre-en.pages.dev
 *.hlksaglkrhber.cfd
 *.hlp--desktop-ledgr.pages.dev
@@ -28137,7 +28130,6 @@ humantekartclientpaypal.webportfolio.live
 *.i-rustcapital-log.pages.dev
 *.i-signin-trustcapital.pages.dev
 *.i-starttezor.pages.dev
-*.i-taupontosxja.com
 *.i-trast-wallet-login.pages.dev
 *.i-trastt-login.pages.dev
 *.i-trezorwallet.pages.dev
@@ -28917,7 +28909,6 @@ index-docsends.cluster-jwomf2l0tn8z.org-miren-club-djwhunl15a5n.miren.systems
 *.ingbanksupport.ph
 *.ingbankunlocked.ph
 *.ingdirect-consultas-soporte.com
-*.ingdirect-portal-inicio.com
 *.ingenieriavirtual.online
 *.iniciodesesionroblox.pages.dev
 *.init-hub-trezr.pages.dev
@@ -31785,7 +31776,6 @@ jhjhjhj.outloook.workers.dev
 *.join-worldlibertyfinancecom.pages.dev
 *.join-xrpl.xyz
 *.join-zerolend.pages.dev
-*.join-zoom.online
 *.join-zoomeeting-invitations.pages.dev
 join.microsoft-teams-meetup.workers.dev
 *.joindatewhatsappme.pages.dev
@@ -34504,7 +34494,6 @@ layanan.garuda88llc.shop
 *.leajore-live-auth.pages.dev
 *.lean-trezor-io-bridge.pages.dev
 *.leanrn-liveledgr.pages.dev
-*.leap-whatapp.hl.cn
 *.lear-ledger-com-start.pages.dev
 *.lear-ledgercomstart.pages.dev
 *.lear-ledgr-dkstop-eng.pages.dev
@@ -46155,7 +46144,6 @@ myciti-serv-onl1ne.rxlwuvktuxkh.workers.dev
 *.mygovsnetlify.pages.dev
 *.myguest-reservation.com
 *.myhardwaretrezor-recovery.pages.dev
-*.myhermes-verfolgen.com
 myhermes.3eyer.de
 myhermes.ryftcustomers.ir
 *.myhome-ldxzr-logis.pages.dev
@@ -50082,7 +50070,6 @@ ovo-indonesia.dompet-aktivasi.my.id
 *.page-us-trzrsuite.pages.dev
 *.page-use-exo-dus.pages.dev
 *.page-v-ndax-login.pages.dev
-*.page-w-hatsapp.com.cn
 *.page-wallet-leddger-cloud.pages.dev
 *.page-web-ex-odus.pages.dev
 *.page-web-exo-dus.pages.dev
@@ -51124,7 +51111,6 @@ paypalinterrupted.testasion.online
 *.paypall-support.pages.dev
 paypall.com-support.workers.dev
 *.paypall.com.pl
-*.paypall.shop
 *.paypalloans.pages.dev
 *.paypalme.pages.dev
 paypalpay.nerver.cc
@@ -51562,7 +51548,6 @@ pipeline-linkedin.cespimpress.link
 *.pitviperussale.com
 *.pivaro-meta-qantir-business-28126.pages.dev
 *.pizzaparavoce.com.br
-*.pjbradescoatendimento.com
 *.pjc-whatsapp.com.cn
 *.pjlska-bitradex.top
 *.pjnetempresa.cfd
@@ -51676,7 +51661,6 @@ policies-google-com.300723.xyz
 *.polymarket-blog.pages.dev
 *.polymarket-board.pages.dev
 *.polymarket-bot-marketing-51j.pages.dev
-*.polymarket-ca.ca
 *.polymarket-check.com
 *.polymarket-checker.pages.dev
 *.polymarket-snapshot.pages.dev
@@ -52114,7 +52098,6 @@ portal-us-paypal.sunflowernsa.net
 *.poshmark-id84589.pages.dev
 *.poshmark-ofers.sbs
 *.poshmark-order187473.cfd
-*.poshmark-procedure.repair
 *.poshmark-project.com
 *.poshmark-s.info
 *.poshmark-safeform.com
@@ -54219,7 +54202,6 @@ rough-union-outlookwebapps.c-1-ou-d-o-storage.workers.dev
 *.rsrvasid-botuqqe701.com
 *.rsrvasid-botuqqe761.com
 *.rsxfan-whatsapp.hk.cn
-*.rt-apss-whatapp.com.cn
 *.rt-letsvpn.com.cn
 *.rt-whats-app.com.cn
 *.rtewadsfgfhguoytrew4wetrytuyiukhgf2kuytrdfgchfgjuyft2.pages.dev
@@ -56117,7 +56099,6 @@ silicon-ioi-cloud-api.v16.ioi.online
 *.simple-download-ledgr.pages.dev
 *.simple-ledgr-eng.pages.dev
 *.simple-light-safe-active.pages.dev
-*.simpleswap-exchange.to
 *.simtor-valnex-biz-hentor-galrin-sp10ct12.pages.dev
 *.simulanangrobloxid.pages.dev
 *.sinasports-cn-fifa.com
@@ -60316,7 +60297,6 @@ stats-dashboard.gfun.top
 *.stroberi4d-solvexacrown-aku-kamu.pages.dev
 *.stromdexerispro-com.pages.dev
 *.strongerrobloxid.pages.dev
-*.strongholdxrlusd.co
 *.strrt-en-ledg-us.pages.dev
 *.strrt-ldger-lives.pages.dev
 *.strrt-ledger-en.pages.dev
@@ -62510,14 +62490,11 @@ support.amzaon.workers.dev
 support.apple.es.find-device.online
 support.broadview-engie.com
 support.com-microsoft-onedrive-auth.com
-support.dashboard.alpha.bankom.su
 support.grab-cash-now.com
 support.llydsbank.com
 support.nbg.wirth.digital
-support.ns2.alpha.bankom.su
 support.om.neodos.gr
 support.play-delta-track.xyz
-support.superset.alpha.bankom.su
 support.tng-apps.sbs
 *.supportauth-io-web.pages.dev
 *.supportbinancemail.com
@@ -63624,6 +63601,7 @@ ticket.xn--trkcell-n2a.com
 *.tiktok-ads-lp.pages.dev
 *.tiktok-ads-online-v2.pages.dev
 *.tiktok-ads-online.pages.dev
+*.tiktok-app-us.com
 *.tiktok-bulk.pages.dev
 tiktok-buy.newseventpubgmobile.workers.dev
 *.tiktok-daitou.pages.dev
@@ -70147,7 +70125,6 @@ twitch-sign-in.kurfun.store
 *.ucoin-login.pages.dev
 *.uder-legorlive.pages.dev
 *.ue-letsvpn.com.cn
-*.ufx-whatsapp.com.cn
 *.ugjqkes2-teiegarm.pages.dev
 *.uhold-logii.pages.dev
 *.uholdd-login.pages.dev
@@ -70227,7 +70204,6 @@ unicredit.360accesscontrol.com
 unicredit.atlas.app
 unicredit.hilio.com
 *.unicreditapp.cc
-*.unicreditgroup-investmentsaustria.com
 *.unicreditsanpaolo.com
 *.union-core-bank.capital
 *.unionbank-manila-metro-ave.ph
@@ -72067,7 +72043,6 @@ usw2-us-paypal.prosperityprivateinvestments.org
 *.v-bucks-k-snfk-d6v.pages.dev
 *.v-bucks-v7y.pages.dev
 *.v-f-whatsapp.com.cn
-*.v-j-b-whatsapp.com.cn
 *.v-j-whatsapp.com.cn
 *.v-live-ldgr-us.pages.dev
 *.v-tu-whatsapp.com.cn
@@ -72777,7 +72752,6 @@ vuelingsupport.veuling.com
 *.w-whatsap-p.com.cn
 *.w-x-whats-app.hl.cn
 *.w1-web-whatsapp.com
-*.w1-whatsapp.com.cn
 *.w1-whatsapp.hl.cn
 *.w12whatsappsex.pages.dev
 *.w13whatsappsex-38s.pages.dev
@@ -76230,7 +76204,6 @@ www.bank-islami.pstd.online
 www.cib-next-icici-banking-in.ewiisolutions.com
 www.coinb376ase-support-6724system.alldapps.info
 www.commbank.com.au-deviceid401101.tashabridals.com
-www.community.support.superset.alpha.bankom.su
 www.confirm-airbnb.listing-rooms-29500.homes
 www.confirm-airbnb.listing-rooms-750183.homes
 www.confirm-airbnb.rooms-listing-594177.homes
@@ -76309,10 +76282,6 @@ www.signin.icloud-map.us
 www.soporte-apple.lbf-i.com
 www.spotifymodapks.net.in.pikashowapk.stream
 www.spotifymusic.tiendaprime.xyz
-www.support.dashboard.alpha.bankom.su
-www.support.ns.superset.alpha.bankom.su
-www.support.ns2.alpha.bankom.su
-www.support.superset.alpha.bankom.su
 www.surokkha.gov.bd-verify-check.ssonline.site
 www.telegram-notification.ethiokeradionconstruction.org
 www.touchngo-nm.tng-giveaway.my.id
@@ -76947,6 +76916,7 @@ zoom-meeting.msautha.workers.dev
 *.zoom-meetings-deploy.pages.dev
 *.zoom-meetings-groups.pages.dev
 *.zoom-metmicoft.pages.dev
+*.zoom-schedule-meeting.click
 *.zoom-trezre-en.pages.dev
 *.zoom-us.pages.dev
 zoom-usweb004.guopsr.top
@@ -77034,7 +77004,6 @@ zoom-usweb004.guopsr.top
 *.ztv-w-hatsapp.hl.cn
 *.zulvoriax-click.pages.dev
 *.zun-whatsapp.com.cn
-*.zunavelqorixymetaspud.com
 *.zunfuri-mpt-qalveno-r5x7me86.pages.dev
 *.zuprelvixor.shop
 *.zuqiuappxiazaiguanwangxiazai.lol
