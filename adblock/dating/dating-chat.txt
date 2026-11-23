@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating, chat rooms and random video chat
-! Domains: 416 | Updated: 2026-11-22
+! Domains: 418 | Updated: 2026-11-23
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/dating-chat.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -133,6 +133,7 @@
 ||chatvideo.fun^
 ||chatville.com^
 ||chatza.co.za^
+|cloud.invantive.com^
 |cname.minical.io^
 |coomeet.apkgold.ae^
 ||coomeet.bitbucket.io^
@@ -203,6 +204,7 @@
 ||irishchat.net^
 ||islamisohbet.com^
 ||isvicresohbet.gen.tr^
+||iyisesli.net^
 |jilo.softonic.nl^
 |juso.2ver.com^
 ||kalbim.net^

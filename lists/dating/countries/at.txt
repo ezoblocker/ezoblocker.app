@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Dating, Austria (at)
-# Domains: 13 | Updated: 2026-11-22
+# Domains: 14 | Updated: 2026-11-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/countries/at.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 at.loquovip.com
 *.austriaescort.at
+cloud.invantive.com
 erotik.markt.ch
 *.kaufmich-poppen.de
 new-york.ondate.com

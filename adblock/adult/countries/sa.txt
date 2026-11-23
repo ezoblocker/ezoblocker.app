@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Saudi Arabia (sa)
-! Domains: 42 | Updated: 2026-11-22
+! Domains: 45 | Updated: 2026-11-23
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/sa.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,9 +10,12 @@
 |ae.gulf-5hop.com^
 ||alarabx5.best^
 ||all-arabs.online^
+||alpornarab.com^
 ||alxnxx.net^
 ||arabsex.lat^
 ||arabsex1.blog^
+||arabsex4.lat^
+||arabsex4d.lol^
 ||arabsexcams.com^
 |ci1w3y.rathgeb-rechtsanwalt.de^
 |czg5a8vw1vsm.inriprete.blog^

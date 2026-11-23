@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Piracy, PK (pk)
-# Domains: 26 | Updated: 2026-11-22
+# Domains: 27 | Updated: 2026-11-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/countries/pk.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+9xmovies.here
 9xmovies.watch
 cricstream.mom
 dnsrepo.noc.org

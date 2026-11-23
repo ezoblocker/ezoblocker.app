@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 2,194 | Updated: 2026-11-22
+# Domains: 2,201 | Updated: 2026-11-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -112,6 +112,7 @@
 0.0.0.0 aramis-london-escorts.co.uk
 0.0.0.0 argentina.zonacitas.com
 0.0.0.0 arges.abcescorte.com
+0.0.0.0 arkansas.bonepage.com
 0.0.0.0 ashleymadison.com
 0.0.0.0 ashoplady.com
 0.0.0.0 asian-escorts-london.com
@@ -394,6 +395,7 @@
 0.0.0.0 cl.tablago.com
 0.0.0.0 cleopatraescorts.co.uk
 0.0.0.0 clonmel.level-web.ru
+0.0.0.0 cloud.invantive.com
 0.0.0.0 clover.co
 0.0.0.0 clubacompanhantes.com.br
 0.0.0.0 cluj-napoca.escortes.ro
@@ -1048,6 +1050,7 @@
 0.0.0.0 italysugardaddy.com
 0.0.0.0 itescorts.com
 0.0.0.0 ivana-models-escortservice.de
+0.0.0.0 iyisesli.net
 0.0.0.0 jackd.com
 0.0.0.0 jackson-tn.bonepage.com
 0.0.0.0 jacksonville.bonepage.com
@@ -1062,6 +1065,7 @@
 0.0.0.0 jodohkristen.com
 0.0.0.0 joyclub.com
 0.0.0.0 joyclub.de
+0.0.0.0 joyclub.gutschein.pro
 0.0.0.0 juso.2ver.com
 0.0.0.0 just-sugardaddy.com
 0.0.0.0 kalbim.net
@@ -1975,6 +1979,7 @@
 0.0.0.0 tamsohbet.com.tr
 0.0.0.0 tamsohbet.gen.tr
 0.0.0.0 tamsohbet.net
+0.0.0.0 tamsohbet.org
 0.0.0.0 tamsohbet.tr
 0.0.0.0 tantan.com
 0.0.0.0 tantramassage-hamburg.de
@@ -2133,7 +2138,9 @@
 0.0.0.0 vvip-escorts.com
 0.0.0.0 w5sha47-css-import.nettoyagereunion.re
 0.0.0.0 wakuwaku-communications.com
+0.0.0.0 wakuwaku-link.jp
 0.0.0.0 wakuwakufm.net
+0.0.0.0 wakuwakufudousan.com
 0.0.0.0 washingtondcgaymaleescorts.com
 0.0.0.0 waterford.swiftweb.ru
 0.0.0.0 web-bazoocam.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,283 | Updated: 2026-11-22
+# Domains: 1,293 | Updated: 2026-11-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -44,6 +44,7 @@
 0.0.0.0 9jaflaver.com
 0.0.0.0 9jaflavergo.com
 0.0.0.0 9tsu.vip
+0.0.0.0 9xmovies.here
 0.0.0.0 9xmovies.watch
 0.0.0.0 a.ezhp.co.kr
 0.0.0.0 a.happydouga.jp
@@ -120,6 +121,8 @@
 0.0.0.0 bestiptv-ireland.irish
 0.0.0.0 bestiptvireland.net
 0.0.0.0 bestiptvireland.store
+0.0.0.0 beststreameast.cfd
+0.0.0.0 beststreameast.site
 0.0.0.0 betteranime.com
 0.0.0.0 betteranime.io
 0.0.0.0 bflix.gold
@@ -138,6 +141,7 @@
 0.0.0.0 buffstreams24.org
 0.0.0.0 buffstreamsapp.com
 0.0.0.0 buffstreamz.fun
+0.0.0.0 business.sky.at
 0.0.0.0 cakhia-10-link.art
 0.0.0.0 cakhia14.com
 0.0.0.0 cakhia21.tv
@@ -205,6 +209,7 @@
 0.0.0.0 cuevana3.re
 0.0.0.0 cuevana3.sc
 0.0.0.0 cuevana3ai.top
+0.0.0.0 cuevana3t.lat
 0.0.0.0 cuevanaa1.pro
 0.0.0.0 cuevanaserie.pro
 0.0.0.0 cuevanatv.vip
@@ -614,6 +619,7 @@
 0.0.0.0 layarkaca21.monster
 0.0.0.0 layarkaca21bank.com
 0.0.0.0 layarkaca21sweet.com
+0.0.0.0 layartancap21film.shop
 0.0.0.0 lec.medilink-study.com
 0.0.0.0 leisure.harianjogja.com
 0.0.0.0 library.sunshinecoast.qld.gov.au
@@ -779,6 +785,7 @@
 0.0.0.0 okfilmizle.com
 0.0.0.0 old.babybjorn.com.hk
 0.0.0.0 online.tainiothiki.gr
+0.0.0.0 onlinefilmy.cz
 0.0.0.0 onlydebrid.com
 0.0.0.0 oploverz.ch
 0.0.0.0 oploverz.site
@@ -960,6 +967,7 @@
 0.0.0.0 rojadirectatvplay.com
 0.0.0.0 rojadirectatvplay.net
 0.0.0.0 rojadirectatvplay.org
+0.0.0.0 rojadirectavivo.org
 0.0.0.0 rojadirectaweb.online
 0.0.0.0 rojadirectaya.com
 0.0.0.0 rutracker-net.ru
@@ -1045,12 +1053,14 @@
 0.0.0.0 streameast.gold
 0.0.0.0 streameast.to
 0.0.0.0 streameast.uno
+0.0.0.0 streameast24.online
 0.0.0.0 streameastapp.club
 0.0.0.0 streameasti.site
 0.0.0.0 streameastmirror.com
 0.0.0.0 streameastonline.com
 0.0.0.0 streameastpro.pro
 0.0.0.0 streameasts.live
+0.0.0.0 streameastt.live
 0.0.0.0 streameasttop.com
 0.0.0.0 streameastv2.buzz
 0.0.0.0 streameastv2.click

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Türkiye (tr)
-# Domains: 249 | Updated: 2026-11-22
+# Domains: 252 | Updated: 2026-11-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -25,6 +25,7 @@
 0.0.0.0 auf-gelsenkirchen.de
 0.0.0.0 australia-bigbassbonanza.com
 0.0.0.0 bahisbonusu.com
+0.0.0.0 bahissorgula4.com
 0.0.0.0 bahsegelgir.org
 0.0.0.0 barona.com
 0.0.0.0 baywin.org
@@ -62,6 +63,7 @@
 0.0.0.0 betturkey.ws
 0.0.0.0 betturkeygir.com
 0.0.0.0 betwoongiris.org
+0.0.0.0 betwoonguncelgiris.org
 0.0.0.0 bonusambari.com
 0.0.0.0 bonusametist.com
 0.0.0.0 bonusekran.com
@@ -220,6 +222,7 @@
 0.0.0.0 tektikla.net
 0.0.0.0 tempobetde.com
 0.0.0.0 theallergyfreewife.com
+0.0.0.0 theguardiansofdemocracy.com
 0.0.0.0 tktkishkinda.org
 0.0.0.0 tr-marsbahis-2025.vip
 0.0.0.0 trbet908.com

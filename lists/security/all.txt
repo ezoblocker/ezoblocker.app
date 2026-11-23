@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 76,022 | Updated: 2026-11-22
+# Domains: 76,002 | Updated: 2026-11-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -5806,7 +5806,6 @@ bd-mainserver.herokuapp.com
 *.bestwestern-id-hi14nvs.com
 *.bestwestern-id-hx57ios.com
 *.bestwestern-id-kj17tfs.com
-*.bestwestern-id-mi33uqj.com
 *.bestwestern-id-ow89koz.com
 *.bestwestern-id-pd29fyw.com
 *.bestwestern-id-pg72vas.com
@@ -8119,7 +8118,6 @@ buchhaltung-vitaup.gorillacrm.cc
 *.byy-bitt-login-en.pages.dev
 *.byybittlogin.pages.dev
 *.bzc-whats-app.com.cn
-*.c-ar-whatsapp.com.cn
 *.c-coin-login.pages.dev
 *.c-enter-trezo-io-en.pages.dev
 *.c-im-whatsapp.com.cn
@@ -13558,7 +13556,6 @@ discount-moba.codashp.top
 *.dmartflash.pages.dev
 *.dme-whatsapp.com.cn
 *.dng-whatsapp.com.cn
-*.dns-anycast-lax1-authoritative-node07.life
 *.do-download-trezur-bridgee.pages.dev
 *.do-en-trezorrio.pages.dev
 *.do-exdus-web.pages.dev
@@ -18461,8 +18458,10 @@ ethereum-wallet-token-approval-review.revokecash.store
 *.evoolipxnelzo.shop
 *.evoolipxngwjo.shop
 *.evoolipxnhcei.shop
+*.evoolipxnhfxc.shop
 *.evoolipxnhjii.shop
 *.evoolipxnhqhv.shop
+*.evoolipxnjjnz.shop
 *.evoolipxnjrbq.shop
 *.evoolipxnkhoz.shop
 *.evoolipxnlgmb.shop
@@ -21070,7 +21069,6 @@ flpkart.sale-start.live
 *.flux-ridge.pages.dev
 *.fluxrecehh.pages.dev
 *.fluxrefund.space
-*.fluxrepository.cc
 *.fluxrungkad.pages.dev
 *.flxedfloat.pages.dev
 *.flxedfloat.us
@@ -22998,7 +22996,6 @@ googleshy-paper-bf97.7h04a016.workers.dev
 *.goolge.net
 *.goolgee.cc
 *.gooogle-onelink.pages.dev
-gooqle-mapes.1-3ca.com
 gooqle-meet-join.0-a3.com
 gopay-bantuan.laporan1.web.id
 gopay-bantuan.official1-pusatcaree.web.id
@@ -27368,7 +27365,6 @@ how-to-delete-winzir-account.pko888vip.com
 *.hsbcgate.pages.dev
 *.hse-whats-app.com.cn
 *.ht-binance.com.cn
-*.ht-whatapp.com.cn
 *.http-whattsapp.com.cn
 *.https-m-facebook-com-home-php-rdr-log-out.pages.dev
 *.https-m-facebook-com-home-php-rdr-log-out20250710.pages.dev
@@ -35533,6 +35529,7 @@ layanan.garuda88llc.shop
 *.ledg-er-desktop.pages.dev
 *.ledg-er-live-aep.pages.dev
 *.ledg-er-live-app.pages.dev
+*.ledg-er-live-app.wasmer.app
 *.ledg-er-live-c4i.pages.dev
 *.ledg-er-live-ddg.pages.dev
 *.ledg-er-live-desk-top.pages.dev
@@ -39431,7 +39428,6 @@ layanan.garuda88llc.shop
 *.legder-siteus.pages.dev
 *.legder-start-en.pages.dev
 *.legder-wallet-com-es.pages.dev
-legder.xobin.online
 *.legdercom.pages.dev
 *.legderlight.pages.dev
 *.legderr-com-start.pages.dev
@@ -40185,7 +40181,6 @@ linkedin.com-verification.link
 *.live-io-ledgr.pages.dev
 *.live-io-ledgrs.pages.dev
 *.live-ioledgr.pages.dev
-live-join-gooqle-meet.1-3ca.com
 live-join-gooqle-meet.1-l0.com
 live-join-gooqle-meet.2-8a.com
 live-join-gooqle-meet.3-d4.com
@@ -50331,7 +50326,6 @@ panel-us-paypal.patricioslim.net
 *.pay-pals-customers-help-centers.pages.dev
 pay.cryptomus.com.3894347.link
 pay.cryptomus.com.4758291.link
-pay.cryptomus.com.9182736.link
 pay.trata-de-personas.org
 *.pay1pals-customer-service-helps-centre.pages.dev
 *.pay1pals-helps-center.pages.dev
@@ -52563,7 +52557,6 @@ qrwhastapp.voob-ai.online
 *.quantiumwaletfsq.info
 *.quantrexarvion-click.pages.dev
 *.quantum-ai-best.pages.dev
-*.quantumledgerxsec.com
 *.quantunix-ai.info
 *.quantunixai.cfd
 *.quantylica.pages.dev
@@ -55658,7 +55651,6 @@ smusxath.microsoftonline.office365.file-sharepoint.keflextabs.online
 *.soj-whats-app.com.cn
 *.sol-flare.pages.dev
 *.sol-incinerators.pages.dev
-sol.cryptomus.com.9182736.link
 *.solanaxbinanceairdrop.pages.dev
 *.solarith-haven-eri.pages.dev
 *.solarith-vault-bby.pages.dev
@@ -59477,7 +59469,6 @@ stats-dashboard.gfun.top
 *.steam-giftcards.pages.dev
 *.steamcommunlty.pages.dev
 *.steamgame.pages.dev
-*.steampowered-verification.com
 *.steenluxeris.com
 *.stellantixai.com
 *.step-by-metamask-extension.pages.dev
@@ -61913,7 +61904,6 @@ svb-edl-abrechnung.device.service.q-sam.de
 *.system-start-trzor.pages.dev
 *.t-e-whats-app.com.cn
 *.t-en-whatsapp.com.cn
-*.t-im-whatsapp.com.cn
 *.t-o-m-whatsapp.com.cn
 *.t-rejor-start--io-dso.pages.dev
 *.t-rejor-start--io.pages.dev
@@ -62422,7 +62412,6 @@ telegram-org.yyab.workers.dev
 *.telegramngentod.pages.dev
 *.telegramngesex.pages.dev
 *.telegramnumber.pages.dev
-*.telegramorg.vip
 telegramsessionsstorage.o.yaklovn.xyz
 *.telegramsex-55t.pages.dev
 *.telegramsex23.pages.dev
@@ -62441,7 +62430,6 @@ telegramzc.redirecionar.online
 *.telegramzhongwen-com-cn.pages.dev
 *.telegran.top
 *.telegrarn.pages.dev
-*.telegrem.uk
 *.telegrmx.pages.dev
 *.telegroxxs.luxe
 *.telegrrram.com
@@ -62799,7 +62787,6 @@ ticket.xn--trkcell-n2a.com
 *.tienrseurn-juwlise82ctpa-796.pages.dev
 *.tiger-777-login.com
 *.tij-whatsapp.com.cn
-*.tik-tok-18-app-4.top
 *.tiket-200-login.pages.dev
 *.tiket-kupon.pages.dev
 *.tiket-lotre-online-hadiah-300-juta.pages.dev
@@ -62906,7 +62893,6 @@ tkmalldown.corssmall.xyz
 *.tktok8.bid
 *.tlj-whatsapp.com.cn
 *.tlktokshop.top
-*.tm-whatapp.com.cn
 *.tmobile-0nline-support-d.pages.dev
 *.tmp-whatapp.hl.cn
 *.tmr-whats-app.com.cn
@@ -67774,7 +67760,6 @@ trade.grup.store
 *.trionexishoje.online
 *.trivexon-myrkal-com.pages.dev
 *.trivone.gifts
-*.trivonet.top
 *.triz-or-suites.pages.dev
 *.trizo-r-suites.pages.dev
 *.trizoor-suiits.pages.dev
@@ -71222,7 +71207,6 @@ valtrionbk.com.inter-loan.com
 *.velodromefi.xyz
 *.velora-facilitate.pages.dev
 *.velorafundsaiv2-pro.pages.dev
-*.velorianmesh.cc
 *.velro-hyxen-tino.pages.dev
 *.veltharion-thryphexon.pages.dev
 *.velthorix-klyveron.pages.dev
@@ -72078,7 +72062,6 @@ wallet-google-com.300723.xyz
 *.wallet-metamask-in.pages.dev
 *.wallet-metamask-us.pages.dev
 *.wallet-metamask-x.pages.dev
-*.wallet-metamask.io
 *.wallet-metamask.pages.dev
 *.wallet-metamaskio-us.pages.dev
 *.wallet-metamaskio.pages.dev
@@ -72688,7 +72671,6 @@ wealthsimple.jayanetwork.in
 *.web-itrustcapital-sign-in-io.pages.dev
 *.web-itrustcapital-sign-in.pages.dev
 *.web-itursstcapital-login-en-nav.pages.dev
-*.web-j-w-hatsapp.com.cn
 *.web-k-w-hatsapp.com.cn
 *.web-kraken-bitcoin-login-eng.pages.dev
 *.web-krakken-auth.pages.dev
@@ -75018,7 +75000,6 @@ worldpingtelegramchannel.jeris34891.workers.dev
 *.would-trezirr-io-start.pages.dev
 *.wouldmetamst.pages.dev
 *.wowrobloxid.pages.dev
-*.wp-whatapp.com.cn
 *.wpf-whats-app.com.cn
 *.wps-office-offline-installer.pages.dev
 *.wps-officecloud-qatevvay.workers.dev
@@ -75815,7 +75796,6 @@ youtubepremium.fuxionportv.xyz
 *.zenlin-korvex-biz17-selmon-haspor-sp18ct12.pages.dev
 *.zenloraventra.org
 *.zeno-whatapt.hl.cn
-*.zentrixa.top
 *.zenvathoralia.org
 *.zephorixlunavex.site
 *.zeralith-haven.pages.dev

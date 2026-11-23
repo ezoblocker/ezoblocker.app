@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Japan (jp)
-# Domains: 62 | Updated: 2026-11-22
+# Domains: 64 | Updated: 2026-11-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/dating/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -60,7 +60,9 @@ tapple.co.jp
 tapple.me
 toyohashi.merst.com
 wakuwaku-communications.com
+wakuwaku-link.jp
 wakuwakufm.net
+wakuwakufudousan.com
 west.love-life.jp
 www1.daysnavi.info
 yk.okasan.net

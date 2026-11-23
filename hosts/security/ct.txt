@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 76,011 | Updated: 2026-11-22
+# Domains: 75,991 | Updated: 2026-11-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -5804,7 +5804,6 @@
 0.0.0.0 bestwestern-id-hi14nvs.com
 0.0.0.0 bestwestern-id-hx57ios.com
 0.0.0.0 bestwestern-id-kj17tfs.com
-0.0.0.0 bestwestern-id-mi33uqj.com
 0.0.0.0 bestwestern-id-ow89koz.com
 0.0.0.0 bestwestern-id-pd29fyw.com
 0.0.0.0 bestwestern-id-pg72vas.com
@@ -8117,7 +8116,6 @@
 0.0.0.0 byy-bitt-login-en.pages.dev
 0.0.0.0 byybittlogin.pages.dev
 0.0.0.0 bzc-whats-app.com.cn
-0.0.0.0 c-ar-whatsapp.com.cn
 0.0.0.0 c-coin-login.pages.dev
 0.0.0.0 c-enter-trezo-io-en.pages.dev
 0.0.0.0 c-im-whatsapp.com.cn
@@ -13556,7 +13554,6 @@
 0.0.0.0 dmartflash.pages.dev
 0.0.0.0 dme-whatsapp.com.cn
 0.0.0.0 dng-whatsapp.com.cn
-0.0.0.0 dns-anycast-lax1-authoritative-node07.life
 0.0.0.0 do-download-trezur-bridgee.pages.dev
 0.0.0.0 do-en-trezorrio.pages.dev
 0.0.0.0 do-exdus-web.pages.dev
@@ -18459,8 +18456,10 @@
 0.0.0.0 evoolipxnelzo.shop
 0.0.0.0 evoolipxngwjo.shop
 0.0.0.0 evoolipxnhcei.shop
+0.0.0.0 evoolipxnhfxc.shop
 0.0.0.0 evoolipxnhjii.shop
 0.0.0.0 evoolipxnhqhv.shop
+0.0.0.0 evoolipxnjjnz.shop
 0.0.0.0 evoolipxnjrbq.shop
 0.0.0.0 evoolipxnkhoz.shop
 0.0.0.0 evoolipxnlgmb.shop
@@ -21067,7 +21066,6 @@
 0.0.0.0 flux-ridge.pages.dev
 0.0.0.0 fluxrecehh.pages.dev
 0.0.0.0 fluxrefund.space
-0.0.0.0 fluxrepository.cc
 0.0.0.0 fluxrungkad.pages.dev
 0.0.0.0 flxedfloat.pages.dev
 0.0.0.0 flxedfloat.us
@@ -22995,7 +22993,6 @@
 0.0.0.0 goolge.net
 0.0.0.0 goolgee.cc
 0.0.0.0 gooogle-onelink.pages.dev
-0.0.0.0 gooqle-mapes.1-3ca.com
 0.0.0.0 gooqle-meet-join.0-a3.com
 0.0.0.0 gopay-bantuan.laporan1.web.id
 0.0.0.0 gopay-bantuan.official1-pusatcaree.web.id
@@ -27365,7 +27362,6 @@
 0.0.0.0 hsbcgate.pages.dev
 0.0.0.0 hse-whats-app.com.cn
 0.0.0.0 ht-binance.com.cn
-0.0.0.0 ht-whatapp.com.cn
 0.0.0.0 http-whattsapp.com.cn
 0.0.0.0 https-m-facebook-com-home-php-rdr-log-out.pages.dev
 0.0.0.0 https-m-facebook-com-home-php-rdr-log-out20250710.pages.dev
@@ -35527,6 +35523,7 @@
 0.0.0.0 ledg-er-desktop.pages.dev
 0.0.0.0 ledg-er-live-aep.pages.dev
 0.0.0.0 ledg-er-live-app.pages.dev
+0.0.0.0 ledg-er-live-app.wasmer.app
 0.0.0.0 ledg-er-live-c4i.pages.dev
 0.0.0.0 ledg-er-live-ddg.pages.dev
 0.0.0.0 ledg-er-live-desk-top.pages.dev
@@ -39425,7 +39422,6 @@
 0.0.0.0 legder-siteus.pages.dev
 0.0.0.0 legder-start-en.pages.dev
 0.0.0.0 legder-wallet-com-es.pages.dev
-0.0.0.0 legder.xobin.online
 0.0.0.0 legdercom.pages.dev
 0.0.0.0 legderlight.pages.dev
 0.0.0.0 legderr-com-start.pages.dev
@@ -40179,7 +40175,6 @@
 0.0.0.0 live-io-ledgr.pages.dev
 0.0.0.0 live-io-ledgrs.pages.dev
 0.0.0.0 live-ioledgr.pages.dev
-0.0.0.0 live-join-gooqle-meet.1-3ca.com
 0.0.0.0 live-join-gooqle-meet.1-l0.com
 0.0.0.0 live-join-gooqle-meet.2-8a.com
 0.0.0.0 live-join-gooqle-meet.3-d4.com
@@ -50324,7 +50319,6 @@
 0.0.0.0 pay-pals-customers-help-centers.pages.dev
 0.0.0.0 pay.cryptomus.com.3894347.link
 0.0.0.0 pay.cryptomus.com.4758291.link
-0.0.0.0 pay.cryptomus.com.9182736.link
 0.0.0.0 pay.trata-de-personas.org
 0.0.0.0 pay1pals-customer-service-helps-centre.pages.dev
 0.0.0.0 pay1pals-helps-center.pages.dev
@@ -52555,7 +52549,6 @@
 0.0.0.0 quantiumwaletfsq.info
 0.0.0.0 quantrexarvion-click.pages.dev
 0.0.0.0 quantum-ai-best.pages.dev
-0.0.0.0 quantumledgerxsec.com
 0.0.0.0 quantunix-ai.info
 0.0.0.0 quantunixai.cfd
 0.0.0.0 quantylica.pages.dev
@@ -55648,7 +55641,6 @@
 0.0.0.0 soj-whats-app.com.cn
 0.0.0.0 sol-flare.pages.dev
 0.0.0.0 sol-incinerators.pages.dev
-0.0.0.0 sol.cryptomus.com.9182736.link
 0.0.0.0 solanaxbinanceairdrop.pages.dev
 0.0.0.0 solarith-haven-eri.pages.dev
 0.0.0.0 solarith-vault-bby.pages.dev
@@ -59467,7 +59459,6 @@
 0.0.0.0 steam-giftcards.pages.dev
 0.0.0.0 steamcommunlty.pages.dev
 0.0.0.0 steamgame.pages.dev
-0.0.0.0 steampowered-verification.com
 0.0.0.0 steenluxeris.com
 0.0.0.0 stellantixai.com
 0.0.0.0 step-by-metamask-extension.pages.dev
@@ -61902,7 +61893,6 @@
 0.0.0.0 system-start-trzor.pages.dev
 0.0.0.0 t-e-whats-app.com.cn
 0.0.0.0 t-en-whatsapp.com.cn
-0.0.0.0 t-im-whatsapp.com.cn
 0.0.0.0 t-o-m-whatsapp.com.cn
 0.0.0.0 t-rejor-start--io-dso.pages.dev
 0.0.0.0 t-rejor-start--io.pages.dev
@@ -62411,7 +62401,6 @@
 0.0.0.0 telegramngentod.pages.dev
 0.0.0.0 telegramngesex.pages.dev
 0.0.0.0 telegramnumber.pages.dev
-0.0.0.0 telegramorg.vip
 0.0.0.0 telegramsessionsstorage.o.yaklovn.xyz
 0.0.0.0 telegramsex-55t.pages.dev
 0.0.0.0 telegramsex23.pages.dev
@@ -62430,7 +62419,6 @@
 0.0.0.0 telegramzhongwen-com-cn.pages.dev
 0.0.0.0 telegran.top
 0.0.0.0 telegrarn.pages.dev
-0.0.0.0 telegrem.uk
 0.0.0.0 telegrmx.pages.dev
 0.0.0.0 telegroxxs.luxe
 0.0.0.0 telegrrram.com
@@ -62788,7 +62776,6 @@
 0.0.0.0 tienrseurn-juwlise82ctpa-796.pages.dev
 0.0.0.0 tiger-777-login.com
 0.0.0.0 tij-whatsapp.com.cn
-0.0.0.0 tik-tok-18-app-4.top
 0.0.0.0 tiket-200-login.pages.dev
 0.0.0.0 tiket-kupon.pages.dev
 0.0.0.0 tiket-lotre-online-hadiah-300-juta.pages.dev
@@ -62895,7 +62882,6 @@
 0.0.0.0 tktok8.bid
 0.0.0.0 tlj-whatsapp.com.cn
 0.0.0.0 tlktokshop.top
-0.0.0.0 tm-whatapp.com.cn
 0.0.0.0 tmobile-0nline-support-d.pages.dev
 0.0.0.0 tmp-whatapp.hl.cn
 0.0.0.0 tmr-whats-app.com.cn
@@ -67763,7 +67749,6 @@
 0.0.0.0 trionexishoje.online
 0.0.0.0 trivexon-myrkal-com.pages.dev
 0.0.0.0 trivone.gifts
-0.0.0.0 trivonet.top
 0.0.0.0 triz-or-suites.pages.dev
 0.0.0.0 trizo-r-suites.pages.dev
 0.0.0.0 trizoor-suiits.pages.dev
@@ -71211,7 +71196,6 @@
 0.0.0.0 velodromefi.xyz
 0.0.0.0 velora-facilitate.pages.dev
 0.0.0.0 velorafundsaiv2-pro.pages.dev
-0.0.0.0 velorianmesh.cc
 0.0.0.0 velro-hyxen-tino.pages.dev
 0.0.0.0 veltharion-thryphexon.pages.dev
 0.0.0.0 velthorix-klyveron.pages.dev
@@ -72067,7 +72051,6 @@
 0.0.0.0 wallet-metamask-in.pages.dev
 0.0.0.0 wallet-metamask-us.pages.dev
 0.0.0.0 wallet-metamask-x.pages.dev
-0.0.0.0 wallet-metamask.io
 0.0.0.0 wallet-metamask.pages.dev
 0.0.0.0 wallet-metamaskio-us.pages.dev
 0.0.0.0 wallet-metamaskio.pages.dev
@@ -72677,7 +72660,6 @@
 0.0.0.0 web-itrustcapital-sign-in-io.pages.dev
 0.0.0.0 web-itrustcapital-sign-in.pages.dev
 0.0.0.0 web-itursstcapital-login-en-nav.pages.dev
-0.0.0.0 web-j-w-hatsapp.com.cn
 0.0.0.0 web-k-w-hatsapp.com.cn
 0.0.0.0 web-kraken-bitcoin-login-eng.pages.dev
 0.0.0.0 web-krakken-auth.pages.dev
@@ -75007,7 +74989,6 @@
 0.0.0.0 would-trezirr-io-start.pages.dev
 0.0.0.0 wouldmetamst.pages.dev
 0.0.0.0 wowrobloxid.pages.dev
-0.0.0.0 wp-whatapp.com.cn
 0.0.0.0 wpf-whats-app.com.cn
 0.0.0.0 wps-office-offline-installer.pages.dev
 0.0.0.0 wps-officecloud-qatevvay.workers.dev
@@ -75804,7 +75785,6 @@
 0.0.0.0 zenlin-korvex-biz17-selmon-haspor-sp18ct12.pages.dev
 0.0.0.0 zenloraventra.org
 0.0.0.0 zeno-whatapt.hl.cn
-0.0.0.0 zentrixa.top
 0.0.0.0 zenvathoralia.org
 0.0.0.0 zephorixlunavex.site
 0.0.0.0 zeralith-haven.pages.dev

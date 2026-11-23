@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 513 | Updated: 2026-11-22
+# Domains: 519 | Updated: 2026-11-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -25,6 +25,8 @@ api.sap.ce.gov.br
 ballzaa.com
 beinsports.satellite-tv.tv
 bestfreestreaming.org
+beststreameast.cfd
+beststreameast.site
 bola365.today
 bongdatv.me
 british.milarch.org
@@ -33,6 +35,7 @@ buffstreams.ch
 buffstreams24.org
 buffstreamsapp.com
 buffstreamz.fun
+business.sky.at
 cakhia-10-link.art
 cakhia14.com
 cakhia21.tv
@@ -322,6 +325,7 @@ rojadirectatvonline.org
 rojadirectatvplay.com
 rojadirectatvplay.net
 rojadirectatvplay.org
+rojadirectavivo.org
 rojadirectaweb.online
 rojadirectaya.com
 s1s.designq.kr
@@ -376,12 +380,14 @@ streameast.com.se
 streameast.gold
 streameast.to
 streameast.uno
+streameast24.online
 streameastapp.club
 streameasti.site
 streameastmirror.com
 streameastonline.com
 streameastpro.pro
 streameasts.live
+streameastt.live
 streameasttop.com
 streameastv2.buzz
 streameastv2.click
