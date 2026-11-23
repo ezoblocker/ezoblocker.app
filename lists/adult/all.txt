@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 2,939 | Updated: 2026-11-23
+# Domains: 2,947 | Updated: 2026-11-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -82,6 +82,7 @@
 9y4ghgsp6lv.nettoyagereunion.re
 *.aaaa.in.ua
 *.aashop.co.kr
+*.abctelefonerotik.de
 *.absolutube.com
 *.abuse.fit
 academy.sormas.org
@@ -139,6 +140,8 @@ agec6n43redns.nenetorir.blog
 *.agenresmi.lol
 *.agorshop.com
 *.aiobokep.com
+*.aiporn.now
+*.aiporntalk.com
 *.alanya-escort1.lol
 *.alanyaa.com
 *.alanyaescort.org
@@ -162,6 +165,7 @@ alert.shop-bell.com
 *.altyazilihubxt20.lat
 *.altyazilihubxt7.lat
 *.altyazilipornofilmi.info
+*.altyazilipornofilmler.info
 *.altyzhub30.site
 *.altyzhub34.site
 *.altyzhub36.site
@@ -836,6 +840,7 @@ erotik.markt.ch
 *.erotikshop-bottrop.de
 *.erotikshop.com.tr
 *.erotikshopankara.org
+*.erotikshopnews.de
 *.erotikwelt.org
 *.erotiquepink.com
 *.erotyczka.pl
@@ -969,6 +974,7 @@ frutoproibido.pai.pt
 *.fsiblogx.org.im
 *.fsiblogx4.guru
 *.fsiblogx7.guru
+*.fuckinawesome.com
 *.fuckingmy.xyz
 *.fuegosexshop.com.co
 *.fullerotiksite5.blog
@@ -1918,6 +1924,8 @@ pokoyuface.cerdenergy.it
 *.pornodoeda45.site
 *.pornodoeda46.shop
 *.pornoevooli31.cfd
+*.pornoevooli33.cfd
+*.pornoevooli34.lat
 *.pornofan.de
 *.pornoholly5.best
 *.pornoiz18.shop
@@ -1928,7 +1936,6 @@ pokoyuface.cerdenergy.it
 *.pornoklub.com
 *.pornolara4.blog
 *.pornolara5.blog
-*.pornoliana1.skin
 *.pornolik.pl
 *.pornoload.com
 *.pornolou.skin
@@ -1944,6 +1951,7 @@ pornoromania.3xforum.ro
 *.pornozaz87.online
 *.pornozaz87.shop
 *.pornozaz87.site
+*.pornozaz88.online
 *.pornozaz88.shop
 *.pornstar.pl
 *.pornvideos.rest

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 2,939 | Updated: 2026-11-23
+# Domains: 2,947 | Updated: 2026-11-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -82,6 +82,7 @@
 0.0.0.0 9y4ghgsp6lv.nettoyagereunion.re
 0.0.0.0 aaaa.in.ua
 0.0.0.0 aashop.co.kr
+0.0.0.0 abctelefonerotik.de
 0.0.0.0 absolutube.com
 0.0.0.0 abuse.fit
 0.0.0.0 academy.sormas.org
@@ -139,6 +140,8 @@
 0.0.0.0 agenresmi.lol
 0.0.0.0 agorshop.com
 0.0.0.0 aiobokep.com
+0.0.0.0 aiporn.now
+0.0.0.0 aiporntalk.com
 0.0.0.0 alanya-escort1.lol
 0.0.0.0 alanyaa.com
 0.0.0.0 alanyaescort.org
@@ -162,6 +165,7 @@
 0.0.0.0 altyazilihubxt20.lat
 0.0.0.0 altyazilihubxt7.lat
 0.0.0.0 altyazilipornofilmi.info
+0.0.0.0 altyazilipornofilmler.info
 0.0.0.0 altyzhub30.site
 0.0.0.0 altyzhub34.site
 0.0.0.0 altyzhub36.site
@@ -836,6 +840,7 @@
 0.0.0.0 erotikshop-bottrop.de
 0.0.0.0 erotikshop.com.tr
 0.0.0.0 erotikshopankara.org
+0.0.0.0 erotikshopnews.de
 0.0.0.0 erotikwelt.org
 0.0.0.0 erotiquepink.com
 0.0.0.0 erotyczka.pl
@@ -969,6 +974,7 @@
 0.0.0.0 fsiblogx.org.im
 0.0.0.0 fsiblogx4.guru
 0.0.0.0 fsiblogx7.guru
+0.0.0.0 fuckinawesome.com
 0.0.0.0 fuckingmy.xyz
 0.0.0.0 fuegosexshop.com.co
 0.0.0.0 fullerotiksite5.blog
@@ -1918,6 +1924,8 @@
 0.0.0.0 pornodoeda45.site
 0.0.0.0 pornodoeda46.shop
 0.0.0.0 pornoevooli31.cfd
+0.0.0.0 pornoevooli33.cfd
+0.0.0.0 pornoevooli34.lat
 0.0.0.0 pornofan.de
 0.0.0.0 pornoholly5.best
 0.0.0.0 pornoiz18.shop
@@ -1928,7 +1936,6 @@
 0.0.0.0 pornoklub.com
 0.0.0.0 pornolara4.blog
 0.0.0.0 pornolara5.blog
-0.0.0.0 pornoliana1.skin
 0.0.0.0 pornolik.pl
 0.0.0.0 pornoload.com
 0.0.0.0 pornolou.skin
@@ -1944,6 +1951,7 @@
 0.0.0.0 pornozaz87.online
 0.0.0.0 pornozaz87.shop
 0.0.0.0 pornozaz87.site
+0.0.0.0 pornozaz88.online
 0.0.0.0 pornozaz88.shop
 0.0.0.0 pornstar.pl
 0.0.0.0 pornvideos.rest

@@ -1,13 +1,18 @@
 # Title: EZOBLOCKER Adult, ct
-# Domains: 25 | Updated: 2026-11-23
+# Domains: 30 | Updated: 2026-11-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 18hotporn.click
+0.0.0.0 abctelefonerotik.de
+0.0.0.0 aiporn.now
+0.0.0.0 aiporntalk.com
 0.0.0.0 bestporns.site
 0.0.0.0 boletinerotico.com
 0.0.0.0 chentaichibrisbane.com
+0.0.0.0 erotikshopnews.de
+0.0.0.0 fuckinawesome.com
 0.0.0.0 fuckingmy.xyz
 0.0.0.0 hentai44.mobi
 0.0.0.0 hentai88.app

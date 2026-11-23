@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 2,201 | Updated: 2026-11-23
+# Domains: 2,202 | Updated: 2026-11-23
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -828,6 +828,7 @@
 0.0.0.0 fruzo.com
 0.0.0.0 fruzo.expedigit.net
 0.0.0.0 ft-myers-sw-florida.bonepage.com
+0.0.0.0 fuckmeio.top
 0.0.0.0 fuerthescort.de
 0.0.0.0 fujoho.jp
 0.0.0.0 funcallgirls.co.in

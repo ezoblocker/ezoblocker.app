@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Türkiye (tr)
-! Domains: 648 | Updated: 2026-11-23
+! Domains: 651 | Updated: 2026-11-23
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -63,6 +63,7 @@
 ||altyazilihubxt20.lat^
 ||altyazilihubxt7.lat^
 ||altyazilipornofilmi.info^
+||altyazilipornofilmler.info^
 ||altyzhub30.site^
 ||altyzhub34.site^
 ||altyzhub36.site^
@@ -428,6 +429,8 @@
 ||pornodoeda45.site^
 ||pornodoeda46.shop^
 ||pornoevooli31.cfd^
+||pornoevooli33.cfd^
+||pornoevooli34.lat^
 ||pornoholly5.best^
 ||pornoiz18.shop^
 ||pornoizlehane.com^
@@ -436,13 +439,13 @@
 ||pornokase21.cyou^
 ||pornolara4.blog^
 ||pornolara5.blog^
-||pornoliana1.skin^
 ||pornolou.skin^
 ||pornozaz86.online^
 ||pornozaz86.site^
 ||pornozaz87.online^
 ||pornozaz87.shop^
 ||pornozaz87.site^
+||pornozaz88.online^
 ||pornozaz88.shop^
 ||pornza.homes^
 ||positive-vibrations.hr^
