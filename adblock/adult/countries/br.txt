@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Brazil (br)
-! Domains: 56 | Updated: 2026-11-23
+! Domains: 59 | Updated: 2026-11-24
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/br.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,12 +22,14 @@
 ||donacoelha.com^
 ||donadoprazer.com.br^
 ||exclusivasex.com.br^
+||fascinaremodaintima.com.br^
 ||ferramentas.pt^
 ||gall.com.br^
 ||gemaonlinestore.com^
 ||goodvibres.com.br^
 ||gruposdeputaria.net^
 ||hazoosexshop.com.br^
+||hotdaysexyshop.com.br^
 ||inspirese.com.br^
 ||julingerie.com.br^
 ||libidi.com.br^
@@ -47,6 +49,7 @@
 ||quiosquesexshop.com.br^
 ||satisfeel.com.br^
 |secretboxsexshop.brbelacupom.com^
+|sexshopatacadao.brbrcupom.com^
 ||sexshopcampos.com.br^
 ||sexshopouvidor.com.br^
 ||sexuhlala.com.br^

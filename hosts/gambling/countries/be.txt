@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Belgium (be)
-# Domains: 36 | Updated: 2026-11-23
+# Domains: 37 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/be.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -23,6 +23,7 @@
 0.0.0.0 licentievrijcasinokeuze.com
 0.0.0.0 licentievrijcasinonu.com
 0.0.0.0 licentievrijcasinoplus.com
+0.0.0.0 mejorcomparativa.com
 0.0.0.0 mostbet-deposit.xyz
 0.0.0.0 mostbetcanada.com
 0.0.0.0 nlbizzocasino.com

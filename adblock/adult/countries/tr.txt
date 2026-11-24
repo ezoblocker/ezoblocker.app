@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Türkiye (tr)
-! Domains: 651 | Updated: 2026-11-23
+! Domains: 653 | Updated: 2026-11-24
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -180,6 +180,7 @@
 ||dijitalask.com^
 ||discreetlife.ca^
 ||diyarbakir-escort2.lol^
+||diyarbakir-escort3.lol^
 ||diyarbakirescortkuz.xyz^
 ||diyarbakirescortnokta.xyz^
 ||diyarbakirescorts.org^
@@ -222,6 +223,7 @@
 ||escortlar225.xyz^
 ||escortlar251.xyz^
 ||escortlar254.xyz^
+||escortlar255.xyz^
 ||escortlar432.xyz^
 ||escortlar69.xyz^
 ||escortnews.com^

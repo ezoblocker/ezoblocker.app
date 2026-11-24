@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Austria (at)
-# Domains: 7 | Updated: 2026-11-23
+# Domains: 8 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/at.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,6 +7,7 @@
 0.0.0.0 business.sky.at
 0.0.0.0 cgboard.raysworld.ch
 0.0.0.0 image.schrack.com
+0.0.0.0 media.frag-den-staat.de
 0.0.0.0 members.cocoleech.com
 0.0.0.0 ngb.to.dewebc.com
 0.0.0.0 sport.sky.ch

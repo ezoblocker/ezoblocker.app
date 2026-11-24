@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Security
-! Domains: 75,087 | Updated: 2026-11-23
+! Domains: 75,059 | Updated: 2026-11-24
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -4832,7 +4832,6 @@
 |auth.cybertek-login.revers.io^
 |auth.microsoftonline.office365.file-sharepoint.keflextabs.online^
 |auth.microsotfonline.cloud-auths.com^
-||authcaptcha-metasuite.com^
 ||authd-coin-basecom-docs.pages.dev^
 ||authd-crypto-com-a.pages.dev^
 ||authd-docs-kraken-logg.pages.dev^
@@ -5755,7 +5754,6 @@
 ||beta-tezor-io.pages.dev^
 ||beta-whatsapp-contac-center.pages.dev^
 ||beta77-mainkan-ataugaskandisini.pages.dev^
-||betalingsgaranti.com^
 ||betanoappdownload-org.pages.dev^
 ||betanoappdownload-vip.pages.dev^
 ||betcio-adresi2026.com^
@@ -7426,6 +7424,7 @@
 ||btc-drevola72-ai.com^
 ||btc-theorian-q365.com^
 ||btcaurallonv15-digital.pages.dev^
+||btcaurallonv15.org^
 ||btcnexivolt760.pro^
 ||btconbase-ai.pages.dev^
 ||btcregalix-v9.com^
@@ -11721,7 +11720,6 @@
 ||crashrobloxid.pages.dev^
 ||cratos-cratosroyalbetgirs.com^
 ||cratosroyalbet-gir.vip^
-||cratosroyalbet-girisimiz.icu^
 ||crcyptocom-login.pages.dev^
 ||cre-ate-robinhod-login.pages.dev^
 ||creat--trezer-iostart.pages.dev^
@@ -13231,6 +13229,7 @@
 ||digitzenloria-vandertix.cfd^
 ||dijitalgiris-ziraatbireyselmobil.sbs^
 ||dijitalmobilislemleriniz-ziraatbireyselweb.sbs^
+||dijitalweb-ziraatbireysel.sbs^
 ||dinamic-ourtime.workers.dev^
 ||dinamitarobloxid.pages.dev^
 ||dinheiro-aqui-para-voce1.pages.dev^
@@ -23399,7 +23398,6 @@
 ||h--ome--en-ledgr.pages.dev^
 ||h-at-whatsapp.com.cn^
 ||h-core-sso-stag.herokuapp.com^
-||h-ec-whatsapp.com.cn^
 ||h-in-whatsapp.com.cn^
 ||h-j-whatsapp.com.cn^
 ||h-ob-whatsapp.com.cn^
@@ -23412,7 +23410,6 @@
 ||h-v-whatsapp.com.cn^
 ||h-wh-atsapp.com.cn^
 ||h-wha-tsapp.com.cn^
-||h-what-sapp.com.cn^
 ||h-whatsa-pp.com.cn^
 ||h-whatsap-p.com.cn^
 ||h2sindrm.pages.dev^
@@ -30579,8 +30576,6 @@
 ||issue-login-netcoins.pages.dev^
 ||issues-ledgrr-live.pages.dev^
 ||istana139-link-platform-mudah.pages.dev^
-||istanbulbegimlcan.com^
-||istanbulbelgim.uk^
 ||istanbulbelgimbasvur.lol^
 ||isthory20-1vault.pages.dev^
 ||isupport-help.info^
@@ -30860,7 +30855,6 @@
 ||j-wha-tsapp.com.cn^
 ||j-what-sapp.com.cn^
 ||j-whats-app.hl.cn^
-||j-whatsap-p.com.cn^
 ||j1whatsappsex.pages.dev^
 |jabber-paypal.chicagoorthopedicspineinstitute.org^
 ||jadwal-pertandingan-ezi77org.pages.dev^
@@ -31293,7 +31287,6 @@
 ||k-wha-tsapp.com.cn^
 ||k-what-sapp.com.cn^
 ||k-whats-app.hl.cn^
-||k-whatsap-p.com.cn^
 ||k3hwitnh-teiegarm.pages.dev^
 ||k5whatsappsex.pages.dev^
 ||k7p2wm6d-appleid.pages.dev^
@@ -32017,7 +32010,6 @@
 ||ks-binance.com.cn^
 ||kspa-wallt-en.pages.dev^
 ||kspa-wallt-eng.pages.dev^
-||kt-binance.cn^
 ||ktrewertyuytrdsxcghjioijhgfdfguytrewsghjkopkjhvcxswszxcghj.pages.dev^
 ||ku-coin--login.pages.dev^
 ||ku-coin-auth.pages.dev^
@@ -41472,6 +41464,7 @@
 ||login-netcoins-how.pages.dev^
 ||login-netcoins-ott.pages.dev^
 ||login-netcoinss-sso.pages.dev^
+||login-netfilx.com^
 ||login-olxtoto-resmi.pages.dev^
 ||login-on-trezurs-eng.pages.dev^
 ||login-opensea-account.pages.dev^
@@ -44346,7 +44339,6 @@
 ||mflowthaiis.bond^
 ||mgabantasakamatayanrobloxid.pages.dev^
 ||mgmntss-appsec.com^
-||mgou-lodgassenment.live^
 ||mhrsrandevual.com^
 ||mhrsrandevumtr.com^
 ||mhrsrandevumtr.net^
@@ -44581,7 +44573,6 @@
 ||mizunoshopsuruguay.com^
 ||mizunosneakers.co.uk^
 ||mj-whatssapp.com.cn^
-||mk74login.bet^
 ||mlcro-out-look-verify.pages.dev^
 ||mlcro-softteam.vu^
 ||mlcros0ft.com^
@@ -44595,7 +44586,6 @@
 ||mmetamaskwallet-9as.pages.dev^
 ||mmk11login.bet^
 ||mmk33login.bet^
-||mmk77login.bet^
 ||mn-apss-whatapp.com.cn^
 ||mnbvcxz-3y0.pages.dev^
 ||mnbvcxzfghjk.pages.dev^
@@ -44615,7 +44605,6 @@
 ||mobile-solaxy.pages.dev^
 ||mobilepay-glsgroup.com.ph^
 ||mobilesecure-chase.com^
-||modabet-girisler-adresi1.icu^
 ||model-exorex-100.site^
 ||model-hardware-trezors.pages.dev^
 ||modulopjnetempresa.online^
@@ -44653,7 +44642,6 @@
 ||moonbirds-9g2.pages.dev^
 ||moonbirds-nft-al4.pages.dev^
 ||moonbirds-rpcdebug.pages.dev^
-||moonbirds.my^
 ||moonbirds.pages.dev^
 ||moonpay-helio-sale-58a.pages.dev^
 ||moonpay-helio-sale.pages.dev^
@@ -46048,7 +46036,6 @@
 ||netflixmianfeikmjwz-96o.pages.dev^
 ||netflixmianfeikmjwz.pages.dev^
 ||netflixmirrorapk.com.in^
-||netflixmod.com.in^
 ||netflixpaymentupdate.com^
 ||netflixpcui.pages.dev^
 ||netflixplus.pages.dev^
@@ -50335,7 +50322,6 @@
 ||pl-oferta875fg56f.click^
 ||pl-oferta902784.click^
 ||pl-oferta983892.sbs^
-||pl-oferta983893.sbs^
 ||pl-ogloszenia901.shop^
 ||pl-ogloszenie12392521-dla-ciebie.sbs^
 ||place-extension-coinbase.pages.dev^
@@ -51727,6 +51713,7 @@
 ||pump-fun-coin.pages.dev^
 ||pump-fun-en.pages.dev^
 ||pump-fun-io.pages.dev^
+||pump-fun-livestream.fun^
 ||pump-fun-stream.fun^
 ||pump-funs.pages.dev^
 ||pumpairdrop-claim.pages.dev^
@@ -53922,6 +53909,7 @@
 ||secure-us-robinhhood.pages.dev^
 ||secure-verify-amazon9401763285.pages.dev^
 ||secure-verify-guardian5839201764.pages.dev^
+||secure-wallet-binance.com^
 ||secure-wallet-coiinbase.pages.dev^
 ||secure-wallet-exoddus.pages.dev^
 ||secure-wallet-trezor-auth.pages.dev^
@@ -59946,10 +59934,8 @@
 ||superbetin-grsleri2026.vip^
 ||superbetin-guncel2026.icu^
 ||superbetin2026giris.icu^
-||superbetingiris-yeni.com^
 ||superbetingiris728.vip^
 ||superbetingirisadresin.vip^
-||superbetingirisimiz.com^
 ||superbetinguncel2026.icu^
 ||supercorehelpdaap.pages.dev^
 ||superformfoundation.pages.dev^
@@ -67409,7 +67395,6 @@
 ||trustwallete-com.pages.dev^
 ||trustwallete-in.pages.dev^
 ||trustwalleteu.pages.dev^
-||trustwalletextension.at^
 ||trustwalletextension.net^
 ||trustwalletglobal.com^
 ||trustwalletglobal.pages.dev^
@@ -68340,15 +68325,12 @@
 ||u-k-whatsapp.com.cn^
 ||u-live-ledgr-app.pages.dev^
 ||u-op-whatsapp.com.cn^
-||u-ou-whatsapp.com.cn^
 ||u-phntom.pages.dev^
 ||u-v-w-whatsapp.com.cn^
 ||u-v-whats-app.hl.cn^
-||u-wh-atsapp.com.cn^
 ||u-wha-tsapp.com.cn^
 ||u-what-sapp.com.cn^
 ||u-whats-app.hl.cn^
-||u-whatsap-p.com.cn^
 ||u5f15q32-appleid.pages.dev^
 ||u9efg16t-appleid.pages.dev^
 ||ua-whatssapp.com.cn^
@@ -70239,7 +70221,6 @@
 ||v-what-sapp.com.cn^
 ||v-whats-app.hl.cn^
 ||v-whats-app.sh.cn^
-||v-whatsap-p.com.cn^
 ||v-whatsapp.hk^
 ||v11whatsappsex.pages.dev^
 ||v1d5exwh4tsappme2.pages.dev^
@@ -70911,11 +70892,9 @@
 ||w-op-whatsapp.com.cn^
 ||w-public-metamsk.pages.dev^
 ||w-trezr-en-us.pages.dev^
-||w-wh-atsapp.com.cn^
 ||w-wha-tsapp.com.cn^
 ||w-what-sapp.com.cn^
 ||w-whats-app.hl.cn^
-||w-whatsap-p.com.cn^
 ||w-x-whats-app.hl.cn^
 ||w1-web-whatsapp.com^
 ||w12whatsappsex.pages.dev^
@@ -73301,7 +73280,6 @@
 ||whatsapp-in-privat.pages.dev^
 ||whatsapp-jkhkg.pages.dev^
 |whatsapp-jonas.gfsolucoes.online^
-||whatsapp-jt.com.cn^
 ||whatsapp-kf.vip^
 ||whatsapp-ks.com.cn^
 ||whatsapp-livecamera-join1.pages.dev^
@@ -73841,7 +73819,6 @@
 ||whatssapp-a.com.cn^
 ||whatssapp-a.pages.dev^
 ||whatssapp-c.com.cn^
-||whatssapp-e.com.cn^
 ||whatssapp-f.com.cn^
 ||whatssapp-h.com.cn^
 ||whatssapp-i.com.cn^
@@ -73923,7 +73900,6 @@
 ||willhaben-at-post.info^
 ||wim-whatsapp.com.cn^
 ||win-dows-erros-notifcat-ions.pages.dev^
-||win-whatapp.com^
 ||window--apps---extension.pages.dev^
 ||window--download-live-wallet.pages.dev^
 ||window-desktop-ledgr.pages.dev^
@@ -74429,10 +74405,8 @@
 ||x-wallet-trezord.pages.dev^
 ||x-wh-atsapp.com.cn^
 ||x-wha-tsapp.com.cn^
-||x-what-sapp.com.cn^
 ||x-whats-app.hl.cn^
 ||x-whats-app.sh.cn^
-||x-whatsap-p.com.cn^
 ||x-y-z-whatsapp.com.cn^
 ||x11whatsappsex.pages.dev^
 ||x3-web-exodus.pages.dev^
@@ -74590,7 +74564,6 @@
 ||xorlax-biz-qentir-4n03t26.pages.dev^
 ||xornivexis-qyntharion.pages.dev^
 ||xowkracc.pages.dev^
-||xqbk-whatsapp.com.cn^
 ||xra-whats-app.com.cn^
 ||xrp-flaregovernance.xyz^
 ||xrp-giveaway.net^
@@ -74802,7 +74775,6 @@
 ||yukon-gold.co.uk^
 ||yukongold-ca.org^
 ||yukongold-play.ca^
-||yukongoldbet-nz.com^
 ||yukongoldontario.ca^
 ||yuno-whatapt.hl.cn^
 ||yupp-trzorx.pages.dev^

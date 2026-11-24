@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Piracy
-! Domains: 1,293 | Updated: 2026-11-23
+! Domains: 1,321 | Updated: 2026-11-24
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/piracy/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -115,6 +115,7 @@
 ||baskino.inc^
 ||baskino.my^
 ||baskino.website^
+|bbs.viva-la-vita.org^
 |beinsports.satellite-tv.tv^
 ||beoutq.tv^
 ||bestfreestreaming.org^
@@ -128,6 +129,7 @@
 ||bflix.gold^
 ||bflix.mx^
 ||bioskop-keren.com^
+|blueassist.bluecard.com.ec^
 ||bola365.today^
 ||bolly4uz.com^
 ||bombuj.si^
@@ -194,7 +196,9 @@
 ||crackstreams.gold^
 ||crackstreams.guru^
 ||crackstreams.in^
+||crackstreams.mobile^
 ||crackstreams.mx^
+||crackstreams.onl^
 ||crackstreams1.cx^
 ||crackstreamsmax.site^
 ||cratosroyalbet-2026-girisiniz.com^
@@ -205,6 +209,7 @@
 ||cricstream.mom^
 ||crictime.com^
 ||crictime.is^
+||cuevana10.pro^
 ||cuevana3.boo^
 ||cuevana3.re^
 ||cuevana3.sc^
@@ -245,6 +250,7 @@
 ||dizigom.li^
 ||diziizle.click^
 ||diziizle.wiki^
+||diziizle2.icu^
 ||dizilab.cc^
 ||dizilab.to^
 ||dizipaliptv.com.tr^
@@ -277,11 +283,14 @@
 ||egybesstt.rest^
 ||egybesstt.space^
 ||egybesstt.today^
+||egybesstt1.bond^
+||egybesstt1.live^
 ||egybest-real.bitbucket.io^
 |egybest.appsmith.com^
 ||egybest.co.in^
 ||egybest.si^
 ||egybestv.cam^
+|eiec.kdi.re.kr^
 |ekino-tv.sugester.pl^
 ||ekitapindir.net^
 ||elbotola.com^
@@ -418,7 +427,9 @@
 ||gnulahd.casa^
 ||gnulahd.space^
 ||gnulahd.watch^
+||gnulahd.ws^
 ||gnulas.lat^
+|go.flocollege.com^
 |gogo.anime.com.ro^
 ||gogoanime.biz.in^
 ||gogoanime.by^
@@ -663,6 +674,7 @@
 ||livetv.life^
 |livetv.tv-vlaanderen.be^
 ||liveyallashot0.xyz^
+||lk21-layarkaca21.com^
 ||lk21layarkaca21.online^
 ||lk21layarkaca21.shop^
 ||lk21layarkaca21.xyz^
@@ -696,6 +708,7 @@
 ||maxcine.com.br^
 ||mecze24.pl^
 |med.nippon-shinyaku.co.jp^
+|media.frag-den-staat.de^
 ||megafilmeseserieshd.vip^
 ||megafilmeshd.asia^
 ||megafilmeshd.help^
@@ -751,14 +764,17 @@
 ||mycima.watch^
 ||mycimaa.cc^
 ||myflixer.com.co^
+||myflixertv.io^
 ||myflixertv.pw^
 ||mynetnaija.ng^
 ||mysportsurge.fit^
 ||mystreameast.fun^
+||mystreameast.link^
 ||myvipbox.com^
 ||naijaloaded.com.ng^
 ||naijaprey.org^
 ||naijaprey.tv^
+||nbabite.gd^
 ||nbabite.info^
 ||nbabite.net^
 ||neizlemeliyiz.cc^
@@ -808,6 +824,7 @@
 ||pdfkitapoku.org^
 ||pelispedia.mov^
 ||pelisplus-3.lat^
+||pelisplus-tv.lat^
 ||pelisplus.company^
 ||pelisplus.garden^
 ||pelisplus.living^
@@ -903,10 +920,13 @@
 ||rawdevart.art^
 ||rbdflix.com^
 ||rebahinfilm.bar^
+||rebahinfilm.fit^
 |rebahinfilm.myr.id^
 ||rebahingg.com^
 ||rebahinxxi3.mom^
 ||redecanais.company^
+||redecanais.deals^
+||redecanais.guru^
 ||redecanais.host^
 ||redecanais.in^
 ||redecanais.locker^
@@ -955,6 +975,7 @@
 ||rojadirectago.org^
 ||rojadirectaliga.me^
 ||rojadirectaone.org^
+||rojadirectaonline.cc^
 ||rojadirectaonline.me^
 ||rojadirectas.business^
 ||rojadirectas.cc^
@@ -963,6 +984,7 @@
 ||rojadirectatv.skin^
 ||rojadirectatvgo.net^
 ||rojadirectatvmas.org^
+||rojadirectatvonline.click^
 ||rojadirectatvonline.org^
 ||rojadirectatvplay.com^
 ||rojadirectatvplay.net^
@@ -1010,6 +1032,7 @@
 ||socolive55y.top^
 ||socolive74.tv^
 ||socolive75.tv^
+||socoliveb.io^
 ||socolivef.cc^
 ||socolivei.cc^
 ||socolivept.top^
@@ -1114,6 +1137,7 @@
 ||tarjetarojaonlineinfo.site^
 ||tarjetarojatv.boats^
 ||tarjetarojatv.cam^
+||tarjetarojatv.fun^
 ||tarjetarojatv.mobi^
 ||tarjetarojatvenvivo.me^
 ||tarjetarojatvhd.live^
@@ -1251,6 +1275,7 @@
 |www.tosho3704.tokyo-bousai.or.jp^
 |www1.gill-line.com^
 |www2.gema.org^
+||xoilac-tv1.org^
 ||xoilac1.help^
 ||xoilac3.cc^
 ||xoilac365xb.cc^
@@ -1262,6 +1287,7 @@
 ||xoilaclivettbdz.tv^
 ||xoilactvbm.cc^
 ||xoilactvttbdg.tv^
+||xoilacvay.tv^
 ||xoilacvba.tv^
 ||xoilacvbb.tv^
 ||xoilacvbc.tv^
@@ -1269,6 +1295,7 @@
 ||xoilacvbi.tv^
 ||xoilacvbm.tv^
 ||xoilacvbq.tv^
+||xoilacvck.tv^
 ||xoilacvn.app^
 ||xoilacvn.net^
 ||xoilacxbk.tv^
@@ -1288,6 +1315,7 @@
 |yallakora.misrlinks.com^
 ||yallalives.net^
 ||yallas.store^
+||yallashooota.com^
 ||yallashoot.id^
 ||yallashoot.study^
 ||yallashootstudio.com^

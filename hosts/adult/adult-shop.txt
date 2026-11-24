@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,487 | Updated: 2026-11-23
+# Domains: 1,501 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -53,6 +53,7 @@
 0.0.0.0 adulttoys.jp
 0.0.0.0 adulttoysspot.com
 0.0.0.0 adulttoystore.com.au
+0.0.0.0 adulttoysuae.com
 0.0.0.0 adulttoysuperstore.com.au
 0.0.0.0 adultworld.ai
 0.0.0.0 adultworld.co.za
@@ -140,6 +141,7 @@
 0.0.0.0 besame.com
 0.0.0.0 bestlovesexdoll.com
 0.0.0.0 bestofeugene.com
+0.0.0.0 bestsexstores.com
 0.0.0.0 bestvibe.pk
 0.0.0.0 beus.com.br
 0.0.0.0 beykentsexshop.com
@@ -390,6 +392,7 @@
 0.0.0.0 erotikwelt.org
 0.0.0.0 erotiquepink.com
 0.0.0.0 erovibes.es
+0.0.0.0 erovibes.nl
 0.0.0.0 erovita.ru
 0.0.0.0 erox.com.tr
 0.0.0.0 erozkosz.pl
@@ -413,6 +416,7 @@
 0.0.0.0 fantezie.ro
 0.0.0.0 farmamia.net
 0.0.0.0 farmamix.com.ar
+0.0.0.0 fascinaremodaintima.com.br
 0.0.0.0 fascinations.net
 0.0.0.0 fashionboutix.ch
 0.0.0.0 fashionloversboutique.com
@@ -483,10 +487,12 @@
 0.0.0.0 hello-nancy.tenereteam.com
 0.0.0.0 hellonancy.com
 0.0.0.0 herotica.ro
+0.0.0.0 hickorypark.com
 0.0.0.0 high-tide.com.au
 0.0.0.0 himmelriket.se
 0.0.0.0 honeybirdette.com
 0.0.0.0 hopnato.cz
+0.0.0.0 hotdaysexyshop.com.br
 0.0.0.0 hotfrog.ie
 0.0.0.0 hotmilklingerie.com
 0.0.0.0 hotpowers.jp
@@ -836,6 +842,7 @@
 0.0.0.0 naughtynorth.ca
 0.0.0.0 netu.ro
 0.0.0.0 newfinearts.com
+0.0.0.0 nicaerotic.com
 0.0.0.0 nicennaughty.co.uk
 0.0.0.0 niegrzeczny.sklep.pl
 0.0.0.0 nightmall.co.kr
@@ -893,6 +900,7 @@
 0.0.0.0 pabo.nl
 0.0.0.0 pakistansextoys.com
 0.0.0.0 pantynova.com
+0.0.0.0 paprika.it
 0.0.0.0 papyonshop.com
 0.0.0.0 parisloversboutique.com
 0.0.0.0 parlamourshop.com
@@ -947,6 +955,7 @@
 0.0.0.0 pluralsexshop.com.br
 0.0.0.0 plushshop.com
 0.0.0.0 pocztakubkowa.pl
+0.0.0.0 podkoronka.pl
 0.0.0.0 polunichka.ua
 0.0.0.0 ponchik.com.ua
 0.0.0.0 pontoerotico.com.br
@@ -1129,6 +1138,7 @@
 0.0.0.0 sexshopamatista.com
 0.0.0.0 sexshopankara.com
 0.0.0.0 sexshopargentino.com.ar
+0.0.0.0 sexshopatacadao.brbrcupom.com
 0.0.0.0 sexshopatacadao.com.br
 0.0.0.0 sexshopberlin.com
 0.0.0.0 sexshopcampos.com.br
@@ -1244,6 +1254,7 @@
 0.0.0.0 shyman.co.kr
 0.0.0.0 siamsextoys.com
 0.0.0.0 siamtenga.com
+0.0.0.0 sidus.alessandrostella.it
 0.0.0.0 sieuthinguoilon.com
 0.0.0.0 siliconehousein.com
 0.0.0.0 siliconelovers.com
@@ -1280,6 +1291,7 @@
 0.0.0.0 soblazn-store.ru
 0.0.0.0 socksescort.online
 0.0.0.0 sohosoriginaladultstore.com
+0.0.0.0 solarscooters.co.uk
 0.0.0.0 solenashop.ch
 0.0.0.0 sophiestoys.nl
 0.0.0.0 sopigalle.com
@@ -1368,6 +1380,7 @@
 0.0.0.0 toy31.ru
 0.0.0.0 toy4joy.ro
 0.0.0.0 toykingdom.com.ph
+0.0.0.0 toynk.com
 0.0.0.0 toypakistan.pk
 0.0.0.0 toys-hub.nl
 0.0.0.0 toysatfoys.com
@@ -1475,6 +1488,7 @@
 0.0.0.0 xtoyshub.pk
 0.0.0.0 xtoyvietnam.com
 0.0.0.0 xtremeliege.be
+0.0.0.0 xtt172m-amphtml.dreamkids974.re
 0.0.0.0 xxcup.com
 0.0.0.0 yasakelmam.com
 0.0.0.0 yesboss.pl

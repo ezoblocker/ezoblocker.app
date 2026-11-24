@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating, chat rooms and random video chat
-! Domains: 418 | Updated: 2026-11-23
+! Domains: 423 | Updated: 2026-11-24
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/dating-chat.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -51,6 +51,7 @@
 ||camchat.today^
 ||camgo.com^
 ||camruletka.com^
+||camspinchat.com^
 ||camsurf.chat^
 ||camsurf.com^
 ||camsurf.tv^
@@ -92,6 +93,7 @@
 ||chathubapp.com^
 ||chatib.buzz^
 ||chatib.us^
+||chatike.ru^
 ||chatikfm.ru^
 ||chatindonesia.com^
 ||chatindonesia.org^
@@ -220,6 +222,7 @@
 ||kolaychat.org^
 ||kolaysohbet.com^
 ||koyusohbet.com.tr^
+|kyojapfb.imarkuba.blog^
 ||lablue.de^
 ||laflamak.com^
 ||lavinsta.com^
@@ -416,9 +419,11 @@
 |www.bucuresti.romaniachat.eu^
 |www.chatting.chatkaro.in^
 |www.chis.regionstockholm.se^
+|xy1j6ymihi-amphtml.dreamkids974.re^
 ||yazgulu.net^
 |yb9buvbt.nettoyagereunion.re^
 |yozm.wishket.com^
 |zap.struckd.com^
 |zaporojskiy-chat.fosite.ru^
+|zkjuwubp7-prefetch.trattoriavoltone.it^
 ||zurna.net^

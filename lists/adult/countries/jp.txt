@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Japan (jp)
-# Domains: 48 | Updated: 2026-11-23
+# Domains: 49 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/jp.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -51,4 +51,5 @@ otona.howcollect.jp
 *.thebadpeach.com
 *.usagi-shop.com
 *.usagi-ya.co.jp
+xtt172m-amphtml.dreamkids974.re
 *.zipang-motomachi.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 519 | Updated: 2026-11-23
+# Domains: 532 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -63,7 +63,9 @@
 0.0.0.0 crackstreams.gold
 0.0.0.0 crackstreams.guru
 0.0.0.0 crackstreams.in
+0.0.0.0 crackstreams.mobile
 0.0.0.0 crackstreams.mx
+0.0.0.0 crackstreams.onl
 0.0.0.0 crackstreams1.cx
 0.0.0.0 crackstreamsmax.site
 0.0.0.0 crazykoora.online
@@ -144,6 +146,7 @@
 0.0.0.0 futemaxtv.fun
 0.0.0.0 geoikp.operandum-project.eu
 0.0.0.0 getlive.pcb.com.pk
+0.0.0.0 go.flocollege.com
 0.0.0.0 hdlivehd7.live
 0.0.0.0 hesgoal.co.uk
 0.0.0.0 hesgoal.download
@@ -256,7 +259,9 @@
 0.0.0.0 multicanaishdtv.com.br
 0.0.0.0 mysportsurge.fit
 0.0.0.0 mystreameast.fun
+0.0.0.0 mystreameast.link
 0.0.0.0 myvipbox.com
+0.0.0.0 nbabite.gd
 0.0.0.0 nbabite.info
 0.0.0.0 nbabite.net
 0.0.0.0 netspor.co
@@ -313,6 +318,7 @@
 0.0.0.0 rojadirectago.org
 0.0.0.0 rojadirectaliga.me
 0.0.0.0 rojadirectaone.org
+0.0.0.0 rojadirectaonline.cc
 0.0.0.0 rojadirectaonline.me
 0.0.0.0 rojadirectas.business
 0.0.0.0 rojadirectas.cc
@@ -321,6 +327,7 @@
 0.0.0.0 rojadirectatv.skin
 0.0.0.0 rojadirectatvgo.net
 0.0.0.0 rojadirectatvmas.org
+0.0.0.0 rojadirectatvonline.click
 0.0.0.0 rojadirectatvonline.org
 0.0.0.0 rojadirectatvplay.com
 0.0.0.0 rojadirectatvplay.net
@@ -343,6 +350,7 @@
 0.0.0.0 socolive55y.top
 0.0.0.0 socolive74.tv
 0.0.0.0 socolive75.tv
+0.0.0.0 socoliveb.io
 0.0.0.0 socolivef.cc
 0.0.0.0 socolivei.cc
 0.0.0.0 socolivept.top
@@ -433,6 +441,7 @@
 0.0.0.0 tarjetarojaonlineinfo.site
 0.0.0.0 tarjetarojatv.boats
 0.0.0.0 tarjetarojatv.cam
+0.0.0.0 tarjetarojatv.fun
 0.0.0.0 tarjetarojatv.mobi
 0.0.0.0 tarjetarojatvenvivo.me
 0.0.0.0 tarjetarojatvhd.live
@@ -485,6 +494,7 @@
 0.0.0.0 watch.onesoccer.ca
 0.0.0.0 welcome.blasttv.ph
 0.0.0.0 www.mae.gov.bi
+0.0.0.0 xoilac-tv1.org
 0.0.0.0 xoilac1.help
 0.0.0.0 xoilac3.cc
 0.0.0.0 xoilac365xb.cc
@@ -496,6 +506,7 @@
 0.0.0.0 xoilaclivettbdz.tv
 0.0.0.0 xoilactvbm.cc
 0.0.0.0 xoilactvttbdg.tv
+0.0.0.0 xoilacvay.tv
 0.0.0.0 xoilacvba.tv
 0.0.0.0 xoilacvbb.tv
 0.0.0.0 xoilacvbc.tv
@@ -503,6 +514,7 @@
 0.0.0.0 xoilacvbi.tv
 0.0.0.0 xoilacvbm.tv
 0.0.0.0 xoilacvbq.tv
+0.0.0.0 xoilacvck.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv
@@ -519,6 +531,7 @@
 0.0.0.0 yallakora.misrlinks.com
 0.0.0.0 yallalives.net
 0.0.0.0 yallas.store
+0.0.0.0 yallashooota.com
 0.0.0.0 yallashoot.id
 0.0.0.0 yallashoot.study
 0.0.0.0 yallashootstudio.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,293 | Updated: 2026-11-23
+# Domains: 1,321 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -115,6 +115,7 @@
 0.0.0.0 baskino.inc
 0.0.0.0 baskino.my
 0.0.0.0 baskino.website
+0.0.0.0 bbs.viva-la-vita.org
 0.0.0.0 beinsports.satellite-tv.tv
 0.0.0.0 beoutq.tv
 0.0.0.0 bestfreestreaming.org
@@ -128,6 +129,7 @@
 0.0.0.0 bflix.gold
 0.0.0.0 bflix.mx
 0.0.0.0 bioskop-keren.com
+0.0.0.0 blueassist.bluecard.com.ec
 0.0.0.0 bola365.today
 0.0.0.0 bolly4uz.com
 0.0.0.0 bombuj.si
@@ -194,7 +196,9 @@
 0.0.0.0 crackstreams.gold
 0.0.0.0 crackstreams.guru
 0.0.0.0 crackstreams.in
+0.0.0.0 crackstreams.mobile
 0.0.0.0 crackstreams.mx
+0.0.0.0 crackstreams.onl
 0.0.0.0 crackstreams1.cx
 0.0.0.0 crackstreamsmax.site
 0.0.0.0 cratosroyalbet-2026-girisiniz.com
@@ -205,6 +209,7 @@
 0.0.0.0 cricstream.mom
 0.0.0.0 crictime.com
 0.0.0.0 crictime.is
+0.0.0.0 cuevana10.pro
 0.0.0.0 cuevana3.boo
 0.0.0.0 cuevana3.re
 0.0.0.0 cuevana3.sc
@@ -245,6 +250,7 @@
 0.0.0.0 dizigom.li
 0.0.0.0 diziizle.click
 0.0.0.0 diziizle.wiki
+0.0.0.0 diziizle2.icu
 0.0.0.0 dizilab.cc
 0.0.0.0 dizilab.to
 0.0.0.0 dizipaliptv.com.tr
@@ -277,11 +283,14 @@
 0.0.0.0 egybesstt.rest
 0.0.0.0 egybesstt.space
 0.0.0.0 egybesstt.today
+0.0.0.0 egybesstt1.bond
+0.0.0.0 egybesstt1.live
 0.0.0.0 egybest-real.bitbucket.io
 0.0.0.0 egybest.appsmith.com
 0.0.0.0 egybest.co.in
 0.0.0.0 egybest.si
 0.0.0.0 egybestv.cam
+0.0.0.0 eiec.kdi.re.kr
 0.0.0.0 ekino-tv.sugester.pl
 0.0.0.0 ekitapindir.net
 0.0.0.0 elbotola.com
@@ -418,7 +427,9 @@
 0.0.0.0 gnulahd.casa
 0.0.0.0 gnulahd.space
 0.0.0.0 gnulahd.watch
+0.0.0.0 gnulahd.ws
 0.0.0.0 gnulas.lat
+0.0.0.0 go.flocollege.com
 0.0.0.0 gogo.anime.com.ro
 0.0.0.0 gogoanime.biz.in
 0.0.0.0 gogoanime.by
@@ -663,6 +674,7 @@
 0.0.0.0 livetv.life
 0.0.0.0 livetv.tv-vlaanderen.be
 0.0.0.0 liveyallashot0.xyz
+0.0.0.0 lk21-layarkaca21.com
 0.0.0.0 lk21layarkaca21.online
 0.0.0.0 lk21layarkaca21.shop
 0.0.0.0 lk21layarkaca21.xyz
@@ -696,6 +708,7 @@
 0.0.0.0 maxcine.com.br
 0.0.0.0 mecze24.pl
 0.0.0.0 med.nippon-shinyaku.co.jp
+0.0.0.0 media.frag-den-staat.de
 0.0.0.0 megafilmeseserieshd.vip
 0.0.0.0 megafilmeshd.asia
 0.0.0.0 megafilmeshd.help
@@ -751,14 +764,17 @@
 0.0.0.0 mycima.watch
 0.0.0.0 mycimaa.cc
 0.0.0.0 myflixer.com.co
+0.0.0.0 myflixertv.io
 0.0.0.0 myflixertv.pw
 0.0.0.0 mynetnaija.ng
 0.0.0.0 mysportsurge.fit
 0.0.0.0 mystreameast.fun
+0.0.0.0 mystreameast.link
 0.0.0.0 myvipbox.com
 0.0.0.0 naijaloaded.com.ng
 0.0.0.0 naijaprey.org
 0.0.0.0 naijaprey.tv
+0.0.0.0 nbabite.gd
 0.0.0.0 nbabite.info
 0.0.0.0 nbabite.net
 0.0.0.0 neizlemeliyiz.cc
@@ -808,6 +824,7 @@
 0.0.0.0 pdfkitapoku.org
 0.0.0.0 pelispedia.mov
 0.0.0.0 pelisplus-3.lat
+0.0.0.0 pelisplus-tv.lat
 0.0.0.0 pelisplus.company
 0.0.0.0 pelisplus.garden
 0.0.0.0 pelisplus.living
@@ -903,10 +920,13 @@
 0.0.0.0 rawdevart.art
 0.0.0.0 rbdflix.com
 0.0.0.0 rebahinfilm.bar
+0.0.0.0 rebahinfilm.fit
 0.0.0.0 rebahinfilm.myr.id
 0.0.0.0 rebahingg.com
 0.0.0.0 rebahinxxi3.mom
 0.0.0.0 redecanais.company
+0.0.0.0 redecanais.deals
+0.0.0.0 redecanais.guru
 0.0.0.0 redecanais.host
 0.0.0.0 redecanais.in
 0.0.0.0 redecanais.locker
@@ -955,6 +975,7 @@
 0.0.0.0 rojadirectago.org
 0.0.0.0 rojadirectaliga.me
 0.0.0.0 rojadirectaone.org
+0.0.0.0 rojadirectaonline.cc
 0.0.0.0 rojadirectaonline.me
 0.0.0.0 rojadirectas.business
 0.0.0.0 rojadirectas.cc
@@ -963,6 +984,7 @@
 0.0.0.0 rojadirectatv.skin
 0.0.0.0 rojadirectatvgo.net
 0.0.0.0 rojadirectatvmas.org
+0.0.0.0 rojadirectatvonline.click
 0.0.0.0 rojadirectatvonline.org
 0.0.0.0 rojadirectatvplay.com
 0.0.0.0 rojadirectatvplay.net
@@ -1010,6 +1032,7 @@
 0.0.0.0 socolive55y.top
 0.0.0.0 socolive74.tv
 0.0.0.0 socolive75.tv
+0.0.0.0 socoliveb.io
 0.0.0.0 socolivef.cc
 0.0.0.0 socolivei.cc
 0.0.0.0 socolivept.top
@@ -1114,6 +1137,7 @@
 0.0.0.0 tarjetarojaonlineinfo.site
 0.0.0.0 tarjetarojatv.boats
 0.0.0.0 tarjetarojatv.cam
+0.0.0.0 tarjetarojatv.fun
 0.0.0.0 tarjetarojatv.mobi
 0.0.0.0 tarjetarojatvenvivo.me
 0.0.0.0 tarjetarojatvhd.live
@@ -1251,6 +1275,7 @@
 0.0.0.0 www.tosho3704.tokyo-bousai.or.jp
 0.0.0.0 www1.gill-line.com
 0.0.0.0 www2.gema.org
+0.0.0.0 xoilac-tv1.org
 0.0.0.0 xoilac1.help
 0.0.0.0 xoilac3.cc
 0.0.0.0 xoilac365xb.cc
@@ -1262,6 +1287,7 @@
 0.0.0.0 xoilaclivettbdz.tv
 0.0.0.0 xoilactvbm.cc
 0.0.0.0 xoilactvttbdg.tv
+0.0.0.0 xoilacvay.tv
 0.0.0.0 xoilacvba.tv
 0.0.0.0 xoilacvbb.tv
 0.0.0.0 xoilacvbc.tv
@@ -1269,6 +1295,7 @@
 0.0.0.0 xoilacvbi.tv
 0.0.0.0 xoilacvbm.tv
 0.0.0.0 xoilacvbq.tv
+0.0.0.0 xoilacvck.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv
@@ -1288,6 +1315,7 @@
 0.0.0.0 yallakora.misrlinks.com
 0.0.0.0 yallalives.net
 0.0.0.0 yallas.store
+0.0.0.0 yallashooota.com
 0.0.0.0 yallashoot.id
 0.0.0.0 yallashoot.study
 0.0.0.0 yallashootstudio.com

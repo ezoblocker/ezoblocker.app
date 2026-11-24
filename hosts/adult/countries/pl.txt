@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Poland (pl)
-# Domains: 74 | Updated: 2026-11-23
+# Domains: 75 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/pl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -43,6 +43,7 @@
 0.0.0.0 party-cams.com
 0.0.0.0 pinkshop.pl
 0.0.0.0 pocztakubkowa.pl
+0.0.0.0 podkoronka.pl
 0.0.0.0 polskie-pornole.pl
 0.0.0.0 polskieof.pl
 0.0.0.0 pornolik.pl

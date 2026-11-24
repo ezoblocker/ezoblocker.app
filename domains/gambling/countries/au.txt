@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Australia (au)
-# Domains: 54 | Updated: 2026-11-23
+# Domains: 55 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/gambling/countries/au.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -46,6 +46,7 @@ prismext.com
 redstag.pro
 redstagcasino-au.net
 redstagscasinos.com
+repton.seen4trading.com
 rich-casino.biz
 sfpark.org
 sistersite.com

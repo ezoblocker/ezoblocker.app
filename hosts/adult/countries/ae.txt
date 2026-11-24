@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, United Arab Emirates (ae)
-# Domains: 45 | Updated: 2026-11-23
+# Domains: 46 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ae.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -11,6 +11,7 @@
 0.0.0.0 adultshop61.my.canva.site
 0.0.0.0 adultshopsouth.com
 0.0.0.0 adultsmart.com.au
+0.0.0.0 adulttoysuae.com
 0.0.0.0 adultworldx.com
 0.0.0.0 amorana.ch
 0.0.0.0 arabporn.com.es

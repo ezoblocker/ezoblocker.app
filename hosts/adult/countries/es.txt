@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Spain (es)
-# Domains: 45 | Updated: 2026-11-23
+# Domains: 46 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/es.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -30,6 +30,7 @@
 0.0.0.0 melopasogoma.com
 0.0.0.0 metalshop.es
 0.0.0.0 mundoerotico.es
+0.0.0.0 nicaerotic.com
 0.0.0.0 nontabu.com
 0.0.0.0 onlyfansapi.com
 0.0.0.0 pasensaciones.com

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 75,087 | Updated: 2026-11-23
+# Domains: 75,059 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -4832,7 +4832,6 @@
 0.0.0.0 auth.cybertek-login.revers.io
 0.0.0.0 auth.microsoftonline.office365.file-sharepoint.keflextabs.online
 0.0.0.0 auth.microsotfonline.cloud-auths.com
-0.0.0.0 authcaptcha-metasuite.com
 0.0.0.0 authd-coin-basecom-docs.pages.dev
 0.0.0.0 authd-crypto-com-a.pages.dev
 0.0.0.0 authd-docs-kraken-logg.pages.dev
@@ -5755,7 +5754,6 @@
 0.0.0.0 beta-tezor-io.pages.dev
 0.0.0.0 beta-whatsapp-contac-center.pages.dev
 0.0.0.0 beta77-mainkan-ataugaskandisini.pages.dev
-0.0.0.0 betalingsgaranti.com
 0.0.0.0 betanoappdownload-org.pages.dev
 0.0.0.0 betanoappdownload-vip.pages.dev
 0.0.0.0 betcio-adresi2026.com
@@ -7426,6 +7424,7 @@
 0.0.0.0 btc-drevola72-ai.com
 0.0.0.0 btc-theorian-q365.com
 0.0.0.0 btcaurallonv15-digital.pages.dev
+0.0.0.0 btcaurallonv15.org
 0.0.0.0 btcnexivolt760.pro
 0.0.0.0 btconbase-ai.pages.dev
 0.0.0.0 btcregalix-v9.com
@@ -11721,7 +11720,6 @@
 0.0.0.0 crashrobloxid.pages.dev
 0.0.0.0 cratos-cratosroyalbetgirs.com
 0.0.0.0 cratosroyalbet-gir.vip
-0.0.0.0 cratosroyalbet-girisimiz.icu
 0.0.0.0 crcyptocom-login.pages.dev
 0.0.0.0 cre-ate-robinhod-login.pages.dev
 0.0.0.0 creat--trezer-iostart.pages.dev
@@ -13231,6 +13229,7 @@
 0.0.0.0 digitzenloria-vandertix.cfd
 0.0.0.0 dijitalgiris-ziraatbireyselmobil.sbs
 0.0.0.0 dijitalmobilislemleriniz-ziraatbireyselweb.sbs
+0.0.0.0 dijitalweb-ziraatbireysel.sbs
 0.0.0.0 dinamic-ourtime.workers.dev
 0.0.0.0 dinamitarobloxid.pages.dev
 0.0.0.0 dinheiro-aqui-para-voce1.pages.dev
@@ -23399,7 +23398,6 @@
 0.0.0.0 h--ome--en-ledgr.pages.dev
 0.0.0.0 h-at-whatsapp.com.cn
 0.0.0.0 h-core-sso-stag.herokuapp.com
-0.0.0.0 h-ec-whatsapp.com.cn
 0.0.0.0 h-in-whatsapp.com.cn
 0.0.0.0 h-j-whatsapp.com.cn
 0.0.0.0 h-ob-whatsapp.com.cn
@@ -23412,7 +23410,6 @@
 0.0.0.0 h-v-whatsapp.com.cn
 0.0.0.0 h-wh-atsapp.com.cn
 0.0.0.0 h-wha-tsapp.com.cn
-0.0.0.0 h-what-sapp.com.cn
 0.0.0.0 h-whatsa-pp.com.cn
 0.0.0.0 h-whatsap-p.com.cn
 0.0.0.0 h2sindrm.pages.dev
@@ -30579,8 +30576,6 @@
 0.0.0.0 issue-login-netcoins.pages.dev
 0.0.0.0 issues-ledgrr-live.pages.dev
 0.0.0.0 istana139-link-platform-mudah.pages.dev
-0.0.0.0 istanbulbegimlcan.com
-0.0.0.0 istanbulbelgim.uk
 0.0.0.0 istanbulbelgimbasvur.lol
 0.0.0.0 isthory20-1vault.pages.dev
 0.0.0.0 isupport-help.info
@@ -30860,7 +30855,6 @@
 0.0.0.0 j-wha-tsapp.com.cn
 0.0.0.0 j-what-sapp.com.cn
 0.0.0.0 j-whats-app.hl.cn
-0.0.0.0 j-whatsap-p.com.cn
 0.0.0.0 j1whatsappsex.pages.dev
 0.0.0.0 jabber-paypal.chicagoorthopedicspineinstitute.org
 0.0.0.0 jadwal-pertandingan-ezi77org.pages.dev
@@ -31293,7 +31287,6 @@
 0.0.0.0 k-wha-tsapp.com.cn
 0.0.0.0 k-what-sapp.com.cn
 0.0.0.0 k-whats-app.hl.cn
-0.0.0.0 k-whatsap-p.com.cn
 0.0.0.0 k3hwitnh-teiegarm.pages.dev
 0.0.0.0 k5whatsappsex.pages.dev
 0.0.0.0 k7p2wm6d-appleid.pages.dev
@@ -32017,7 +32010,6 @@
 0.0.0.0 ks-binance.com.cn
 0.0.0.0 kspa-wallt-en.pages.dev
 0.0.0.0 kspa-wallt-eng.pages.dev
-0.0.0.0 kt-binance.cn
 0.0.0.0 ktrewertyuytrdsxcghjioijhgfdfguytrewsghjkopkjhvcxswszxcghj.pages.dev
 0.0.0.0 ku-coin--login.pages.dev
 0.0.0.0 ku-coin-auth.pages.dev
@@ -41472,6 +41464,7 @@
 0.0.0.0 login-netcoins-how.pages.dev
 0.0.0.0 login-netcoins-ott.pages.dev
 0.0.0.0 login-netcoinss-sso.pages.dev
+0.0.0.0 login-netfilx.com
 0.0.0.0 login-olxtoto-resmi.pages.dev
 0.0.0.0 login-on-trezurs-eng.pages.dev
 0.0.0.0 login-opensea-account.pages.dev
@@ -44346,7 +44339,6 @@
 0.0.0.0 mflowthaiis.bond
 0.0.0.0 mgabantasakamatayanrobloxid.pages.dev
 0.0.0.0 mgmntss-appsec.com
-0.0.0.0 mgou-lodgassenment.live
 0.0.0.0 mhrsrandevual.com
 0.0.0.0 mhrsrandevumtr.com
 0.0.0.0 mhrsrandevumtr.net
@@ -44581,7 +44573,6 @@
 0.0.0.0 mizunoshopsuruguay.com
 0.0.0.0 mizunosneakers.co.uk
 0.0.0.0 mj-whatssapp.com.cn
-0.0.0.0 mk74login.bet
 0.0.0.0 mlcro-out-look-verify.pages.dev
 0.0.0.0 mlcro-softteam.vu
 0.0.0.0 mlcros0ft.com
@@ -44595,7 +44586,6 @@
 0.0.0.0 mmetamaskwallet-9as.pages.dev
 0.0.0.0 mmk11login.bet
 0.0.0.0 mmk33login.bet
-0.0.0.0 mmk77login.bet
 0.0.0.0 mn-apss-whatapp.com.cn
 0.0.0.0 mnbvcxz-3y0.pages.dev
 0.0.0.0 mnbvcxzfghjk.pages.dev
@@ -44615,7 +44605,6 @@
 0.0.0.0 mobile-solaxy.pages.dev
 0.0.0.0 mobilepay-glsgroup.com.ph
 0.0.0.0 mobilesecure-chase.com
-0.0.0.0 modabet-girisler-adresi1.icu
 0.0.0.0 model-exorex-100.site
 0.0.0.0 model-hardware-trezors.pages.dev
 0.0.0.0 modulopjnetempresa.online
@@ -44653,7 +44642,6 @@
 0.0.0.0 moonbirds-9g2.pages.dev
 0.0.0.0 moonbirds-nft-al4.pages.dev
 0.0.0.0 moonbirds-rpcdebug.pages.dev
-0.0.0.0 moonbirds.my
 0.0.0.0 moonbirds.pages.dev
 0.0.0.0 moonpay-helio-sale-58a.pages.dev
 0.0.0.0 moonpay-helio-sale.pages.dev
@@ -46048,7 +46036,6 @@
 0.0.0.0 netflixmianfeikmjwz-96o.pages.dev
 0.0.0.0 netflixmianfeikmjwz.pages.dev
 0.0.0.0 netflixmirrorapk.com.in
-0.0.0.0 netflixmod.com.in
 0.0.0.0 netflixpaymentupdate.com
 0.0.0.0 netflixpcui.pages.dev
 0.0.0.0 netflixplus.pages.dev
@@ -50335,7 +50322,6 @@
 0.0.0.0 pl-oferta875fg56f.click
 0.0.0.0 pl-oferta902784.click
 0.0.0.0 pl-oferta983892.sbs
-0.0.0.0 pl-oferta983893.sbs
 0.0.0.0 pl-ogloszenia901.shop
 0.0.0.0 pl-ogloszenie12392521-dla-ciebie.sbs
 0.0.0.0 place-extension-coinbase.pages.dev
@@ -51727,6 +51713,7 @@
 0.0.0.0 pump-fun-coin.pages.dev
 0.0.0.0 pump-fun-en.pages.dev
 0.0.0.0 pump-fun-io.pages.dev
+0.0.0.0 pump-fun-livestream.fun
 0.0.0.0 pump-fun-stream.fun
 0.0.0.0 pump-funs.pages.dev
 0.0.0.0 pumpairdrop-claim.pages.dev
@@ -53922,6 +53909,7 @@
 0.0.0.0 secure-us-robinhhood.pages.dev
 0.0.0.0 secure-verify-amazon9401763285.pages.dev
 0.0.0.0 secure-verify-guardian5839201764.pages.dev
+0.0.0.0 secure-wallet-binance.com
 0.0.0.0 secure-wallet-coiinbase.pages.dev
 0.0.0.0 secure-wallet-exoddus.pages.dev
 0.0.0.0 secure-wallet-trezor-auth.pages.dev
@@ -59946,10 +59934,8 @@
 0.0.0.0 superbetin-grsleri2026.vip
 0.0.0.0 superbetin-guncel2026.icu
 0.0.0.0 superbetin2026giris.icu
-0.0.0.0 superbetingiris-yeni.com
 0.0.0.0 superbetingiris728.vip
 0.0.0.0 superbetingirisadresin.vip
-0.0.0.0 superbetingirisimiz.com
 0.0.0.0 superbetinguncel2026.icu
 0.0.0.0 supercorehelpdaap.pages.dev
 0.0.0.0 superformfoundation.pages.dev
@@ -67409,7 +67395,6 @@
 0.0.0.0 trustwallete-com.pages.dev
 0.0.0.0 trustwallete-in.pages.dev
 0.0.0.0 trustwalleteu.pages.dev
-0.0.0.0 trustwalletextension.at
 0.0.0.0 trustwalletextension.net
 0.0.0.0 trustwalletglobal.com
 0.0.0.0 trustwalletglobal.pages.dev
@@ -68340,15 +68325,12 @@
 0.0.0.0 u-k-whatsapp.com.cn
 0.0.0.0 u-live-ledgr-app.pages.dev
 0.0.0.0 u-op-whatsapp.com.cn
-0.0.0.0 u-ou-whatsapp.com.cn
 0.0.0.0 u-phntom.pages.dev
 0.0.0.0 u-v-w-whatsapp.com.cn
 0.0.0.0 u-v-whats-app.hl.cn
-0.0.0.0 u-wh-atsapp.com.cn
 0.0.0.0 u-wha-tsapp.com.cn
 0.0.0.0 u-what-sapp.com.cn
 0.0.0.0 u-whats-app.hl.cn
-0.0.0.0 u-whatsap-p.com.cn
 0.0.0.0 u5f15q32-appleid.pages.dev
 0.0.0.0 u9efg16t-appleid.pages.dev
 0.0.0.0 ua-whatssapp.com.cn
@@ -70239,7 +70221,6 @@
 0.0.0.0 v-what-sapp.com.cn
 0.0.0.0 v-whats-app.hl.cn
 0.0.0.0 v-whats-app.sh.cn
-0.0.0.0 v-whatsap-p.com.cn
 0.0.0.0 v-whatsapp.hk
 0.0.0.0 v11whatsappsex.pages.dev
 0.0.0.0 v1d5exwh4tsappme2.pages.dev
@@ -70911,11 +70892,9 @@
 0.0.0.0 w-op-whatsapp.com.cn
 0.0.0.0 w-public-metamsk.pages.dev
 0.0.0.0 w-trezr-en-us.pages.dev
-0.0.0.0 w-wh-atsapp.com.cn
 0.0.0.0 w-wha-tsapp.com.cn
 0.0.0.0 w-what-sapp.com.cn
 0.0.0.0 w-whats-app.hl.cn
-0.0.0.0 w-whatsap-p.com.cn
 0.0.0.0 w-x-whats-app.hl.cn
 0.0.0.0 w1-web-whatsapp.com
 0.0.0.0 w12whatsappsex.pages.dev
@@ -73301,7 +73280,6 @@
 0.0.0.0 whatsapp-in-privat.pages.dev
 0.0.0.0 whatsapp-jkhkg.pages.dev
 0.0.0.0 whatsapp-jonas.gfsolucoes.online
-0.0.0.0 whatsapp-jt.com.cn
 0.0.0.0 whatsapp-kf.vip
 0.0.0.0 whatsapp-ks.com.cn
 0.0.0.0 whatsapp-livecamera-join1.pages.dev
@@ -73841,7 +73819,6 @@
 0.0.0.0 whatssapp-a.com.cn
 0.0.0.0 whatssapp-a.pages.dev
 0.0.0.0 whatssapp-c.com.cn
-0.0.0.0 whatssapp-e.com.cn
 0.0.0.0 whatssapp-f.com.cn
 0.0.0.0 whatssapp-h.com.cn
 0.0.0.0 whatssapp-i.com.cn
@@ -73923,7 +73900,6 @@
 0.0.0.0 willhaben-at-post.info
 0.0.0.0 wim-whatsapp.com.cn
 0.0.0.0 win-dows-erros-notifcat-ions.pages.dev
-0.0.0.0 win-whatapp.com
 0.0.0.0 window--apps---extension.pages.dev
 0.0.0.0 window--download-live-wallet.pages.dev
 0.0.0.0 window-desktop-ledgr.pages.dev
@@ -74429,10 +74405,8 @@
 0.0.0.0 x-wallet-trezord.pages.dev
 0.0.0.0 x-wh-atsapp.com.cn
 0.0.0.0 x-wha-tsapp.com.cn
-0.0.0.0 x-what-sapp.com.cn
 0.0.0.0 x-whats-app.hl.cn
 0.0.0.0 x-whats-app.sh.cn
-0.0.0.0 x-whatsap-p.com.cn
 0.0.0.0 x-y-z-whatsapp.com.cn
 0.0.0.0 x11whatsappsex.pages.dev
 0.0.0.0 x3-web-exodus.pages.dev
@@ -74590,7 +74564,6 @@
 0.0.0.0 xorlax-biz-qentir-4n03t26.pages.dev
 0.0.0.0 xornivexis-qyntharion.pages.dev
 0.0.0.0 xowkracc.pages.dev
-0.0.0.0 xqbk-whatsapp.com.cn
 0.0.0.0 xra-whats-app.com.cn
 0.0.0.0 xrp-flaregovernance.xyz
 0.0.0.0 xrp-giveaway.net
@@ -74802,7 +74775,6 @@
 0.0.0.0 yukon-gold.co.uk
 0.0.0.0 yukongold-ca.org
 0.0.0.0 yukongold-play.ca
-0.0.0.0 yukongoldbet-nz.com
 0.0.0.0 yukongoldontario.ca
 0.0.0.0 yuno-whatapt.hl.cn
 0.0.0.0 yupp-trzorx.pages.dev

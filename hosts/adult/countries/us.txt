@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, United States (us)
-# Domains: 50 | Updated: 2026-11-23
+# Domains: 52 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -33,6 +33,7 @@
 0.0.0.0 lionsden.com
 0.0.0.0 lovehoneyforum.com
 0.0.0.0 loversplayground.com
+0.0.0.0 moannest.com
 0.0.0.0 modelcenter.lj.com
 0.0.0.0 mysterypleasurebox.com
 0.0.0.0 newfinearts.com
@@ -52,5 +53,6 @@
 0.0.0.0 stcamsjapan.com
 0.0.0.0 thepleasurechest.com
 0.0.0.0 tokenhandbook.com
+0.0.0.0 toynk.com
 0.0.0.0 useprivly.com
 0.0.0.0 x1z3.asacasa.eu

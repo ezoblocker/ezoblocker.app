@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Colombia (co)
-# Domains: 48 | Updated: 2026-11-23
+# Domains: 50 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/co.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -35,6 +35,7 @@
 0.0.0.0 repelisplus.casa
 0.0.0.0 repelistv.lat
 0.0.0.0 rojadirectafulltv.org
+0.0.0.0 rojadirectaonline.cc
 0.0.0.0 rojadirectaonline.me
 0.0.0.0 tarjeta-roja.live
 0.0.0.0 tarjetaroja.love
@@ -44,6 +45,7 @@
 0.0.0.0 tarjetarojaonline.info
 0.0.0.0 tarjetarojaonline.pro
 0.0.0.0 tarjetarojaonlineinfo.site
+0.0.0.0 tarjetarojatv.fun
 0.0.0.0 tarjetarojatv.mobi
 0.0.0.0 tarjetarojatvenvivo.me
 0.0.0.0 tarjetarojatvhd.me

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Saudi Arabia (sa)
-# Domains: 49 | Updated: 2026-11-23
+# Domains: 52 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/sa.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -22,6 +22,8 @@
 0.0.0.0 egybesstt.rest
 0.0.0.0 egybesstt.space
 0.0.0.0 egybesstt.today
+0.0.0.0 egybesstt1.bond
+0.0.0.0 egybesstt1.live
 0.0.0.0 faselhd.beer
 0.0.0.0 faselhd.energy
 0.0.0.0 faselhd.ws
@@ -51,5 +53,6 @@
 0.0.0.0 web.topcinema.io
 0.0.0.0 yallakora.cam
 0.0.0.0 yallakora.com
+0.0.0.0 yallashooota.com
 0.0.0.0 yallashoot.study
 0.0.0.0 yallashotx.live
