@@ -1,9 +1,10 @@
 ! Title: EZOBLOCKER Security
-! Domains: 75,059 | Updated: 2026-11-24
+! Domains: 75,074 | Updated: 2026-11-24
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
+|00-sec-secure-chase-personal-christine.chaseonline00.eu.cc^
 ||0020vurq-appleid.pages.dev^
 ||00whatsappsexx.pages.dev^
 ||01whatsappsex.pages.dev^
@@ -976,6 +977,7 @@
 ||account-l-edger-desktop.pages.dev^
 ||account-lcloud.com^
 ||account-ledger-logi.pages.dev^
+||account-login-google.com^
 ||account-login-robin-hood.pages.dev^
 ||account-login-robinhod.pages.dev^
 ||account-login-trezrwallet.pages.dev^
@@ -2033,6 +2035,10 @@
 ||amazonshopv.cc^
 ||ambiencerobloxid.pages.dev^
 ||ambil-hadiah10jtresmi4dana.pages.dev^
+|amendes.justice.gov-dh.eu.cc^
+|amendes.justice.gov-ma-i.eu.cc^
+|amendes.justice.gov-mail.eu.cc^
+|amendes.justice.gov-mao.eu.cc^
 ||america-first-credit.pages.dev^
 ||americanexpress-card.it^
 ||americanexpress-sales.biz^
@@ -5732,10 +5738,12 @@
 ||bestwallettoken.pages.dev^
 ||bestwalletvalidate.pages.dev^
 ||bestwalletverification.pages.dev^
+||bestwestern-id-el20mbt.com^
 ||bestwestern-id-hi14nvs.com^
 ||bestwestern-id-hx57ios.com^
 ||bestwestern-id-kj17tfs.com^
 ||bestwestern-id-la95msl.com^
+||bestwestern-id-mi33uqj.com^
 ||bestwestern-id-ow89koz.com^
 ||bestwestern-id-pd29fyw.com^
 ||bestwestern-id-pg72vas.com^
@@ -13191,7 +13199,6 @@
 ||dhlcou.cc^
 ||dhldelivery.pages.dev^
 ||dhlexpresscr.pages.dev^
-||dhlexpressindonesia.my.id^
 ||dhlloginupdated.workers.dev^
 ||dhlserve.pages.dev^
 ||di-scover-start-io.pages.dev^
@@ -13393,6 +13400,7 @@
 ||dmartflash.pages.dev^
 ||dme-whatsapp.com.cn^
 ||dng-whatsapp.com.cn^
+||dns-anycast-lax1-authoritative-node07.life^
 ||do-download-trezur-bridgee.pages.dev^
 ||do-en-trezorrio.pages.dev^
 ||do-exdus-web.pages.dev^
@@ -19294,7 +19302,6 @@
 ||f-op-whatsapp.com.cn^
 ||f-p-b-whatsapp.com.cn^
 ||f-p-w-whatsapp.com.cn^
-||f-wh-atsapp.com.cn^
 ||f-wha-tsapp.com.cn^
 ||f-what-sapp.com.cn^
 ||f-whats-app.hl.cn^
@@ -23598,6 +23605,7 @@
 ||hashkeymarkets.com^
 ||hashpackwallet-en.pages.dev^
 ||hashpackwallet-es.pages.dev^
+||hasil-gov-my.shop^
 ||haspack-wallt.pages.dev^
 ||hausfrauen-sexkontakte-finden.de^
 ||havaiasan.shop^
@@ -24806,6 +24814,7 @@
 ||hk-whatsaspp-yfd.hk.cn^
 ||hk-whatsaspp-zsu.hk.cn^
 ||hkim-whatapp.hl.cn^
+||hkwhatsapp.eu.cc^
 ||hlep-ledgre-en.pages.dev^
 ||hlksaglkrhber.cfd^
 ||hlp--desktop-ledgr.pages.dev^
@@ -30852,7 +30861,6 @@
 ||j-i-whats-app.hl.cn^
 ||j-q-whatsapp.com.cn^
 ||j-wh-atsapp.com.cn^
-||j-wha-tsapp.com.cn^
 ||j-what-sapp.com.cn^
 ||j-whats-app.hl.cn^
 ||j1whatsappsex.pages.dev^
@@ -31192,6 +31200,7 @@
 ||jtexpress-tya.top^
 ||jtexpress-tyf.top^
 ||jtexpress-tyh.top^
+||jtexpress-tyr.top^
 ||jtexpress-tys.top^
 ||jtexpress-tyu.top^
 ||jtexpress-tyw.top^
@@ -38950,6 +38959,7 @@
 ||legder-siteus.pages.dev^
 ||legder-start-en.pages.dev^
 ||legder-wallet-com-es.pages.dev^
+|legder.xobin.online^
 ||legdercom.pages.dev^
 ||legderlight.pages.dev^
 ||legderr-com-start.pages.dev^
@@ -41000,6 +41010,7 @@
 ||login-cdn-trezor-ccnn.pages.dev^
 ||login-cdn-trezor.pages.dev^
 ||login-charleschwab.pages.dev^
+||login-chasebank.online^
 |login-checkpoint.xfinity-bill.workers.dev^
 ||login-coiin-base-pro-us.pages.dev^
 ||login-coin-base-web.pages.dev^
@@ -42367,6 +42378,7 @@
 ||m1whatsappsex.pages.dev^
 ||m2cashph.com^
 ||m8kenofe.pages.dev^
+||ma-amendes-justilce-gov.eu.cc^
 ||mabar138play.com^
 ||mabar89play.com^
 ||mac-worldcup-fifa.com.cn^
@@ -44586,6 +44598,7 @@
 ||mmetamaskwallet-9as.pages.dev^
 ||mmk11login.bet^
 ||mmk33login.bet^
+||mmk77login.bet^
 ||mn-apss-whatapp.com.cn^
 ||mnbvcxz-3y0.pages.dev^
 ||mnbvcxzfghjk.pages.dev^
@@ -44605,6 +44618,7 @@
 ||mobile-solaxy.pages.dev^
 ||mobilepay-glsgroup.com.ph^
 ||mobilesecure-chase.com^
+||modabet-girisler-adresi1.icu^
 ||model-exorex-100.site^
 ||model-hardware-trezors.pages.dev^
 ||modulopjnetempresa.online^
@@ -51820,7 +51834,6 @@
 ||q-ledger.pages.dev^
 ||q-r-v-whatsapp.com.cn^
 ||q-v-whatsapp.com.cn^
-||q-wh-atsapp.com.cn^
 ||q-wha-tsapp.com.cn^
 ||q-what-sapp.com.cn^
 ||q-whats-app.hl.cn^
@@ -51947,6 +51960,7 @@
 ||quantiumwaletfsq.info^
 ||quantrexarvion-click.pages.dev^
 ||quantum-ai-best.pages.dev^
+||quantumledgerxsec.com^
 ||quantunix-ai.info^
 ||quantunixai.cfd^
 ||quantylica.pages.dev^
@@ -58816,6 +58830,7 @@
 ||store-trezr.pages.dev^
 ||store-trezrsbridge.pages.dev^
 ||store-web3-exodus.pages.dev^
+||stpmex.us.com^
 ||str-io-trezu-r.pages.dev^
 ||strart-kraken-login-io.pages.dev^
 ||strat-coinbsepro-sos-run.pages.dev^
@@ -61349,7 +61364,6 @@
 ||teiegralomnn.net^
 ||teiegrann.email^
 ||teiegrimax.net^
-||teiegrolann.net^
 ||teieparm.co^
 ||teieparomn.co^
 ||teievarimmn.net^
@@ -61680,6 +61694,7 @@
 ||telegramzhongwen-com-cn.pages.dev^
 ||telegran.top^
 ||telegrarn.pages.dev^
+||telegrem.uk^
 ||telegrmx.pages.dev^
 ||telegroxxs.luxe^
 ||telegrrram.com^
@@ -70180,6 +70195,7 @@
 ||ustrzorcrypt.pages.dev^
 ||ustrzr-strt.pages.dev^
 |usw2-us-paypal.prosperityprivateinvestments.org^
+|uswebzoomcall.pacon.eu.cc^
 ||uszoom.pages.dev^
 ||uszoom01web.pages.dev^
 ||uszoom06.pages.dev^
@@ -70892,7 +70908,6 @@
 ||w-op-whatsapp.com.cn^
 ||w-public-metamsk.pages.dev^
 ||w-trezr-en-us.pages.dev^
-||w-wha-tsapp.com.cn^
 ||w-what-sapp.com.cn^
 ||w-whats-app.hl.cn^
 ||w-x-whats-app.hl.cn^
@@ -74239,6 +74254,7 @@
 |www-us-paypal.visitbaltimoremd.net^
 |www-us-paypal.visitbaltimoremd.org^
 |www-us-paypal.webbdelvam-dev.com^
+|www.00-sec-secure-chase-personal-christine.chaseonline00.eu.cc^
 |www.abnamro-meespierson-event10.abnamro-event.com.ph^
 |www.abnamro-meespierson-event12.abnamro-event.com.ph^
 |www.account.postbank.de.firstcom2u.com^
@@ -74404,7 +74420,6 @@
 ||x-w-whats-app.hl.cn^
 ||x-wallet-trezord.pages.dev^
 ||x-wh-atsapp.com.cn^
-||x-wha-tsapp.com.cn^
 ||x-whats-app.hl.cn^
 ||x-whats-app.sh.cn^
 ||x-y-z-whatsapp.com.cn^

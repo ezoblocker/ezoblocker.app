@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Ads
-# Domains: 585 | Updated: 2026-11-24
+# Domains: 584 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -64,7 +64,6 @@
 0.0.0.0 ads.purelocalmedia.de
 0.0.0.0 ads.surveymachine.io
 0.0.0.0 ads.theagenticx.ai
-0.0.0.0 ads.thenexusengine.com
 0.0.0.0 ads.use.madsense.io
 0.0.0.0 ads2.innovativeadserver.com
 0.0.0.0 adserver.axelspringer.ad

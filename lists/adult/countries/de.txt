@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Germany (de)
-# Domains: 88 | Updated: 2026-11-24
+# Domains: 87 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/de.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -30,7 +30,6 @@ berlin.city-map.de
 *.erotikwelt.org
 *.eufory.de
 *.fanfindgermany.com
-*.faphab.com
 *.filzlaus.com
 *.freefans.de
 *.gapedk.com

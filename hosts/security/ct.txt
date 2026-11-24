@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 75,048 | Updated: 2026-11-24
+# Domains: 75,063 | Updated: 2026-11-24
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 00-sec-secure-chase-personal-christine.chaseonline00.eu.cc
 0.0.0.0 0020vurq-appleid.pages.dev
 0.0.0.0 00whatsappsexx.pages.dev
 0.0.0.0 01whatsappsex.pages.dev
@@ -976,6 +977,7 @@
 0.0.0.0 account-l-edger-desktop.pages.dev
 0.0.0.0 account-lcloud.com
 0.0.0.0 account-ledger-logi.pages.dev
+0.0.0.0 account-login-google.com
 0.0.0.0 account-login-robin-hood.pages.dev
 0.0.0.0 account-login-robinhod.pages.dev
 0.0.0.0 account-login-trezrwallet.pages.dev
@@ -2033,6 +2035,10 @@
 0.0.0.0 amazonshopv.cc
 0.0.0.0 ambiencerobloxid.pages.dev
 0.0.0.0 ambil-hadiah10jtresmi4dana.pages.dev
+0.0.0.0 amendes.justice.gov-dh.eu.cc
+0.0.0.0 amendes.justice.gov-ma-i.eu.cc
+0.0.0.0 amendes.justice.gov-mail.eu.cc
+0.0.0.0 amendes.justice.gov-mao.eu.cc
 0.0.0.0 america-first-credit.pages.dev
 0.0.0.0 americanexpress-card.it
 0.0.0.0 americanexpress-sales.biz
@@ -5730,10 +5736,12 @@
 0.0.0.0 bestwallettoken.pages.dev
 0.0.0.0 bestwalletvalidate.pages.dev
 0.0.0.0 bestwalletverification.pages.dev
+0.0.0.0 bestwestern-id-el20mbt.com
 0.0.0.0 bestwestern-id-hi14nvs.com
 0.0.0.0 bestwestern-id-hx57ios.com
 0.0.0.0 bestwestern-id-kj17tfs.com
 0.0.0.0 bestwestern-id-la95msl.com
+0.0.0.0 bestwestern-id-mi33uqj.com
 0.0.0.0 bestwestern-id-ow89koz.com
 0.0.0.0 bestwestern-id-pd29fyw.com
 0.0.0.0 bestwestern-id-pg72vas.com
@@ -13189,7 +13197,6 @@
 0.0.0.0 dhlcou.cc
 0.0.0.0 dhldelivery.pages.dev
 0.0.0.0 dhlexpresscr.pages.dev
-0.0.0.0 dhlexpressindonesia.my.id
 0.0.0.0 dhlloginupdated.workers.dev
 0.0.0.0 dhlserve.pages.dev
 0.0.0.0 di-scover-start-io.pages.dev
@@ -13391,6 +13398,7 @@
 0.0.0.0 dmartflash.pages.dev
 0.0.0.0 dme-whatsapp.com.cn
 0.0.0.0 dng-whatsapp.com.cn
+0.0.0.0 dns-anycast-lax1-authoritative-node07.life
 0.0.0.0 do-download-trezur-bridgee.pages.dev
 0.0.0.0 do-en-trezorrio.pages.dev
 0.0.0.0 do-exdus-web.pages.dev
@@ -19292,7 +19300,6 @@
 0.0.0.0 f-op-whatsapp.com.cn
 0.0.0.0 f-p-b-whatsapp.com.cn
 0.0.0.0 f-p-w-whatsapp.com.cn
-0.0.0.0 f-wh-atsapp.com.cn
 0.0.0.0 f-wha-tsapp.com.cn
 0.0.0.0 f-what-sapp.com.cn
 0.0.0.0 f-whats-app.hl.cn
@@ -23595,6 +23602,7 @@
 0.0.0.0 hashkeymarkets.com
 0.0.0.0 hashpackwallet-en.pages.dev
 0.0.0.0 hashpackwallet-es.pages.dev
+0.0.0.0 hasil-gov-my.shop
 0.0.0.0 haspack-wallt.pages.dev
 0.0.0.0 hausfrauen-sexkontakte-finden.de
 0.0.0.0 havaiasan.shop
@@ -24803,6 +24811,7 @@
 0.0.0.0 hk-whatsaspp-yfd.hk.cn
 0.0.0.0 hk-whatsaspp-zsu.hk.cn
 0.0.0.0 hkim-whatapp.hl.cn
+0.0.0.0 hkwhatsapp.eu.cc
 0.0.0.0 hlep-ledgre-en.pages.dev
 0.0.0.0 hlksaglkrhber.cfd
 0.0.0.0 hlp--desktop-ledgr.pages.dev
@@ -30847,7 +30856,6 @@
 0.0.0.0 j-i-whats-app.hl.cn
 0.0.0.0 j-q-whatsapp.com.cn
 0.0.0.0 j-wh-atsapp.com.cn
-0.0.0.0 j-wha-tsapp.com.cn
 0.0.0.0 j-what-sapp.com.cn
 0.0.0.0 j-whats-app.hl.cn
 0.0.0.0 j1whatsappsex.pages.dev
@@ -31187,6 +31195,7 @@
 0.0.0.0 jtexpress-tya.top
 0.0.0.0 jtexpress-tyf.top
 0.0.0.0 jtexpress-tyh.top
+0.0.0.0 jtexpress-tyr.top
 0.0.0.0 jtexpress-tys.top
 0.0.0.0 jtexpress-tyu.top
 0.0.0.0 jtexpress-tyw.top
@@ -38944,6 +38953,7 @@
 0.0.0.0 legder-siteus.pages.dev
 0.0.0.0 legder-start-en.pages.dev
 0.0.0.0 legder-wallet-com-es.pages.dev
+0.0.0.0 legder.xobin.online
 0.0.0.0 legdercom.pages.dev
 0.0.0.0 legderlight.pages.dev
 0.0.0.0 legderr-com-start.pages.dev
@@ -40994,6 +41004,7 @@
 0.0.0.0 login-cdn-trezor-ccnn.pages.dev
 0.0.0.0 login-cdn-trezor.pages.dev
 0.0.0.0 login-charleschwab.pages.dev
+0.0.0.0 login-chasebank.online
 0.0.0.0 login-checkpoint.xfinity-bill.workers.dev
 0.0.0.0 login-coiin-base-pro-us.pages.dev
 0.0.0.0 login-coin-base-web.pages.dev
@@ -42361,6 +42372,7 @@
 0.0.0.0 m1whatsappsex.pages.dev
 0.0.0.0 m2cashph.com
 0.0.0.0 m8kenofe.pages.dev
+0.0.0.0 ma-amendes-justilce-gov.eu.cc
 0.0.0.0 mabar138play.com
 0.0.0.0 mabar89play.com
 0.0.0.0 mac-worldcup-fifa.com.cn
@@ -44580,6 +44592,7 @@
 0.0.0.0 mmetamaskwallet-9as.pages.dev
 0.0.0.0 mmk11login.bet
 0.0.0.0 mmk33login.bet
+0.0.0.0 mmk77login.bet
 0.0.0.0 mn-apss-whatapp.com.cn
 0.0.0.0 mnbvcxz-3y0.pages.dev
 0.0.0.0 mnbvcxzfghjk.pages.dev
@@ -44599,6 +44612,7 @@
 0.0.0.0 mobile-solaxy.pages.dev
 0.0.0.0 mobilepay-glsgroup.com.ph
 0.0.0.0 mobilesecure-chase.com
+0.0.0.0 modabet-girisler-adresi1.icu
 0.0.0.0 model-exorex-100.site
 0.0.0.0 model-hardware-trezors.pages.dev
 0.0.0.0 modulopjnetempresa.online
@@ -51812,7 +51826,6 @@
 0.0.0.0 q-ledger.pages.dev
 0.0.0.0 q-r-v-whatsapp.com.cn
 0.0.0.0 q-v-whatsapp.com.cn
-0.0.0.0 q-wh-atsapp.com.cn
 0.0.0.0 q-wha-tsapp.com.cn
 0.0.0.0 q-what-sapp.com.cn
 0.0.0.0 q-whats-app.hl.cn
@@ -51939,6 +51952,7 @@
 0.0.0.0 quantiumwaletfsq.info
 0.0.0.0 quantrexarvion-click.pages.dev
 0.0.0.0 quantum-ai-best.pages.dev
+0.0.0.0 quantumledgerxsec.com
 0.0.0.0 quantunix-ai.info
 0.0.0.0 quantunixai.cfd
 0.0.0.0 quantylica.pages.dev
@@ -58806,6 +58820,7 @@
 0.0.0.0 store-trezr.pages.dev
 0.0.0.0 store-trezrsbridge.pages.dev
 0.0.0.0 store-web3-exodus.pages.dev
+0.0.0.0 stpmex.us.com
 0.0.0.0 str-io-trezu-r.pages.dev
 0.0.0.0 strart-kraken-login-io.pages.dev
 0.0.0.0 strat-coinbsepro-sos-run.pages.dev
@@ -61338,7 +61353,6 @@
 0.0.0.0 teiegralomnn.net
 0.0.0.0 teiegrann.email
 0.0.0.0 teiegrimax.net
-0.0.0.0 teiegrolann.net
 0.0.0.0 teieparm.co
 0.0.0.0 teieparomn.co
 0.0.0.0 teievarimmn.net
@@ -61669,6 +61683,7 @@
 0.0.0.0 telegramzhongwen-com-cn.pages.dev
 0.0.0.0 telegran.top
 0.0.0.0 telegrarn.pages.dev
+0.0.0.0 telegrem.uk
 0.0.0.0 telegrmx.pages.dev
 0.0.0.0 telegroxxs.luxe
 0.0.0.0 telegrrram.com
@@ -70169,6 +70184,7 @@
 0.0.0.0 ustrzorcrypt.pages.dev
 0.0.0.0 ustrzr-strt.pages.dev
 0.0.0.0 usw2-us-paypal.prosperityprivateinvestments.org
+0.0.0.0 uswebzoomcall.pacon.eu.cc
 0.0.0.0 uszoom.pages.dev
 0.0.0.0 uszoom01web.pages.dev
 0.0.0.0 uszoom06.pages.dev
@@ -70881,7 +70897,6 @@
 0.0.0.0 w-op-whatsapp.com.cn
 0.0.0.0 w-public-metamsk.pages.dev
 0.0.0.0 w-trezr-en-us.pages.dev
-0.0.0.0 w-wha-tsapp.com.cn
 0.0.0.0 w-what-sapp.com.cn
 0.0.0.0 w-whats-app.hl.cn
 0.0.0.0 w-x-whats-app.hl.cn
@@ -74228,6 +74243,7 @@
 0.0.0.0 www-us-paypal.visitbaltimoremd.net
 0.0.0.0 www-us-paypal.visitbaltimoremd.org
 0.0.0.0 www-us-paypal.webbdelvam-dev.com
+0.0.0.0 www.00-sec-secure-chase-personal-christine.chaseonline00.eu.cc
 0.0.0.0 www.abnamro-meespierson-event10.abnamro-event.com.ph
 0.0.0.0 www.abnamro-meespierson-event12.abnamro-event.com.ph
 0.0.0.0 www.account.postbank.de.firstcom2u.com
@@ -74393,7 +74409,6 @@
 0.0.0.0 x-w-whats-app.hl.cn
 0.0.0.0 x-wallet-trezord.pages.dev
 0.0.0.0 x-wh-atsapp.com.cn
-0.0.0.0 x-wha-tsapp.com.cn
 0.0.0.0 x-whats-app.hl.cn
 0.0.0.0 x-whats-app.sh.cn
 0.0.0.0 x-y-z-whatsapp.com.cn
