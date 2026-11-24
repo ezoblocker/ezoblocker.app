@@ -6,7 +6,7 @@
 
 [Website](https://ezoblocker.app) · [Google Play](https://play.google.com/store/apps/details?id=com.mrs.blckr) · [App Store](https://apps.apple.com/app/id6816853206) (coming soon)
 
-`1,000,587` domains · updated 2026-11-24 · refreshed every 6 hours
+`1,000,674` domains · updated 2026-11-24 · refreshed every 6 hours
 
 </div>
 
@@ -29,7 +29,7 @@ We pay for the search and model APIs ourselves and give the result away. 💚
 
 | Category | What's inside | Domains | Download |
 |---|---|---:|---|
-| 🛡️ **Security** | Phishing, scams, fake government and bank pages, malware. | 75,074 | [wildcard](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/all.txt) · [adblock](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/all.txt) · [hosts](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt) · [domains](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/security/all.txt) |
+| 🛡️ **Security** | Phishing, scams, fake government and bank pages, malware. | 75,161 | [wildcard](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/all.txt) · [adblock](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/all.txt) · [hosts](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt) · [domains](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/security/all.txt) |
 | 👣 **Trackers** | Analytics and tracking endpoints, SDK telemetry. | 765 | [wildcard](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/trackers/all.txt) · [adblock](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/trackers/all.txt) · [hosts](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/all.txt) · [domains](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/trackers/all.txt) |
 | 📢 **Ads** | Ad servers, ad exchanges and bidders. | 584 | [wildcard](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/ads/all.txt) · [adblock](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/ads/all.txt) · [hosts](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/ads/all.txt) · [domains](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/ads/all.txt) |
 | 🎰 **Gambling** | Betting and casino sites, their mirror domains. | 917,291 | [wildcard](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/all.txt) · [adblock](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/all.txt) · [hosts](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt) · [domains](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/gambling/all.txt) |
@@ -43,7 +43,7 @@ We pay for the search and model APIs ourselves and give the result away. 💚
 
 **🛡️ Security**
 
-- ct: 75,063 · [adblock](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/ct.txt) · [hosts](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt) · [domains](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/security/ct.txt)
+- ct: 75,150 · [adblock](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/ct.txt) · [hosts](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt) · [domains](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/security/ct.txt)
 - adint: 11 · [adblock](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/adint.txt) · [hosts](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/adint.txt) · [domains](https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/security/adint.txt)
 
 **👣 Trackers**
