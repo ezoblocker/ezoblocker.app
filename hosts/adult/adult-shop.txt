@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,501 | Updated: 2026-11-24
+# Domains: 1,506 | Updated: 2026-11-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -346,8 +346,10 @@
 0.0.0.0 elmazen.com
 0.0.0.0 elsexshop.gr
 0.0.0.0 epoptavka.cz
+0.0.0.0 erectus.com
 0.0.0.0 erocraves.com
 0.0.0.0 erolaif.ru
+0.0.0.0 eroliveshop.pl
 0.0.0.0 eromega.com
 0.0.0.0 eros.com.ua
 0.0.0.0 eros.fo
@@ -449,6 +451,7 @@
 0.0.0.0 funsexyshop.pt
 0.0.0.0 funstasy.at
 0.0.0.0 gadzetydladoroslych.pl
+0.0.0.0 galaxus.be
 0.0.0.0 gall.com.br
 0.0.0.0 gaymap.es
 0.0.0.0 gayout.com
@@ -1016,6 +1019,7 @@
 0.0.0.0 romanticdepot.com
 0.0.0.0 romantix.com
 0.0.0.0 romp.toys
+0.0.0.0 roremoge.blog
 0.0.0.0 rosetoys.pk
 0.0.0.0 rosetoyshop.bentoweb.com
 0.0.0.0 ruedesplaisirs.com
@@ -1321,6 +1325,7 @@
 0.0.0.0 talcasexshop.cl
 0.0.0.0 talla.ua
 0.0.0.0 tayf.ist
+0.0.0.0 taylorswift-store.fr
 0.0.0.0 teeny29.ch
 0.0.0.0 temptations.dk
 0.0.0.0 tenga.co.uk

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Mexico (mx)
-# Domains: 66 | Updated: 2026-11-24
+# Domains: 67 | Updated: 2026-11-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/mx.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -36,6 +36,7 @@
 0.0.0.0 pelisplusapkmax.com
 0.0.0.0 pelisplushd.mx
 0.0.0.0 pelisplushd.one
+0.0.0.0 pirlotv.bike
 0.0.0.0 pirlotv.team
 0.0.0.0 pirlotv.works
 0.0.0.0 pirlotvenvivo.biz

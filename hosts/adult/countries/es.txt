@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Spain (es)
-# Domains: 46 | Updated: 2026-11-24
+# Domains: 47 | Updated: 2026-11-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/es.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -9,6 +9,7 @@
 0.0.0.0 comparar.net
 0.0.0.0 condonesmix.com
 0.0.0.0 dulcespecados.com
+0.0.0.0 erectus.com
 0.0.0.0 eroticmax.net
 0.0.0.0 erovibes.es
 0.0.0.0 eurovisex.com

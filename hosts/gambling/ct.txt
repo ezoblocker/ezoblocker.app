@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 915,618 | Updated: 2026-11-24
+# Domains: 915,615 | Updated: 2026-11-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -30645,7 +30645,6 @@
 0.0.0.0 7k-casino71.top
 0.0.0.0 7k-casino75.xyz
 0.0.0.0 7k-casino76.top
-0.0.0.0 7k-casino77.com
 0.0.0.0 7k-casino77.site
 0.0.0.0 7k-casino777.site
 0.0.0.0 7k-casino8.best
@@ -117723,6 +117722,7 @@
 0.0.0.0 betmatch-casino-22.pages.dev
 0.0.0.0 betmatch-casino-eu-com.pages.dev
 0.0.0.0 betmatch-casino-hu.pages.dev
+0.0.0.0 betmatch-casino.bet
 0.0.0.0 betmatch-casino.click
 0.0.0.0 betmatch-casino.eu.com
 0.0.0.0 betmatch-casinohu.com
@@ -236574,7 +236574,6 @@
 0.0.0.0 casinosulweb.it
 0.0.0.0 casinosummit.de
 0.0.0.0 casinosuncityza-com.pages.dev
-0.0.0.0 casinosuncityza.com
 0.0.0.0 casinosuncoast-com.pages.dev
 0.0.0.0 casinosuncoast.com
 0.0.0.0 casinosundslots.de
@@ -237441,6 +237440,7 @@
 0.0.0.0 casinotikitaka.net
 0.0.0.0 casinotikitaka.nl
 0.0.0.0 casinotikitaka.org
+0.0.0.0 casinotikitaka.pl
 0.0.0.0 casinotikitaka.pt
 0.0.0.0 casinotikitaka.si
 0.0.0.0 casinotikitakaenligne.fr
@@ -379014,7 +379014,6 @@
 0.0.0.0 hilarionbet.forum
 0.0.0.0 hilarionbet.info
 0.0.0.0 hilarionbet.net
-0.0.0.0 hilarionbet.poker
 0.0.0.0 hilarionbet.pro
 0.0.0.0 hilarionbet567.com
 0.0.0.0 hilarionbet569.com
@@ -572318,7 +572317,6 @@
 0.0.0.0 noidverificationcasinocanada.org
 0.0.0.0 noidverificationcasinos.co.uk
 0.0.0.0 noidxxbewokwin.click
-0.0.0.0 noirroyalecasino.com
 0.0.0.0 noirslot-kinggame789.pages.dev
 0.0.0.0 noisiamopoker-web.pages.dev
 0.0.0.0 noisycasino-au.com
@@ -600988,7 +600986,6 @@
 0.0.0.0 oxbet-casino-nl.com
 0.0.0.0 oxbet-casino.io
 0.0.0.0 oxbet-casino.ph
-0.0.0.0 oxbet-casino.top
 0.0.0.0 oxbet-dangnhap.com
 0.0.0.0 oxbet-link1.com
 0.0.0.0 oxbet-vip.com
@@ -640548,6 +640545,7 @@
 0.0.0.0 poker-club.duckdns.org
 0.0.0.0 poker-club.pages.dev
 0.0.0.0 poker-club.ro
+0.0.0.0 poker-clubkk.online
 0.0.0.0 poker-coach-7vg.pages.dev
 0.0.0.0 poker-coach-c5p.pages.dev
 0.0.0.0 poker-coach-eqf.pages.dev
@@ -677200,6 +677198,7 @@
 0.0.0.0 regentpoker.com
 0.0.0.0 regevson.com
 0.0.0.0 regfg777casino.com
+0.0.0.0 regina-casino.win
 0.0.0.0 regina-slot.store
 0.0.0.0 reginacasino-app.pages.dev
 0.0.0.0 reginacasino-canada.com
@@ -750316,7 +750315,6 @@
 0.0.0.0 slotsargentinaya.com
 0.0.0.0 slotsarjana.org
 0.0.0.0 slotsarthi.com
-0.0.0.0 slotsasialive88.com
 0.0.0.0 slotsatria123.com
 0.0.0.0 slotsatria123.shop
 0.0.0.0 slotsatsea.com
@@ -776268,7 +776266,6 @@
 0.0.0.0 spinpandacasino-online.nl
 0.0.0.0 spinpandacasino-uk-net-10138.pages.dev
 0.0.0.0 spinpandacasino.app
-0.0.0.0 spinpandacasino.bet
 0.0.0.0 spinpandacasino.biz
 0.0.0.0 spinpandacasino.co.nl
 0.0.0.0 spinpandacasino.co.uk

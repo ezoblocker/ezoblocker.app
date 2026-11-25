@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 2,217 | Updated: 2026-11-24
+# Domains: 2,220 | Updated: 2026-11-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -306,6 +306,7 @@
 0.0.0.0 chat.one.th
 0.0.0.0 chat.ptnet.org
 0.0.0.0 chat.romi.ai
+0.0.0.0 chat.teenterapie.cz
 0.0.0.0 chat.vinbazar.com
 0.0.0.0 chatalya.com
 0.0.0.0 chatarab.chat
@@ -332,6 +333,7 @@
 0.0.0.0 chathubapp.com
 0.0.0.0 chatib.buzz
 0.0.0.0 chatib.us
+0.0.0.0 chatibcam.com
 0.0.0.0 chatike.ru
 0.0.0.0 chatikfm.ru
 0.0.0.0 chatindonesia.com
@@ -1787,6 +1789,7 @@
 0.0.0.0 sloescort.top
 0.0.0.0 sloeskort.top
 0.0.0.0 slotpingunceladres.com
+0.0.0.0 smooci.tenereteam.com
 0.0.0.0 smssexdates.nl
 0.0.0.0 sohbet.love
 0.0.0.0 sohbet.mobildetek.com

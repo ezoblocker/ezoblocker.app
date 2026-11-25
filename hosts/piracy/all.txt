@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,321 | Updated: 2026-11-24
+# Domains: 1,334 | Updated: 2026-11-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -26,6 +26,7 @@
 0.0.0.0 90phutzat.tv
 0.0.0.0 90phutzax.tv
 0.0.0.0 90phutzbb.tv
+0.0.0.0 90phutzbk.tv
 0.0.0.0 9anime-tv.co
 0.0.0.0 9anime.apk.cafe
 0.0.0.0 9anime.asn.lv
@@ -228,6 +229,7 @@
 0.0.0.0 ddizibox.net
 0.0.0.0 ddownloads.org
 0.0.0.0 dekoora.store
+0.0.0.0 deportes.cartagena.es
 0.0.0.0 descargardixmax.com
 0.0.0.0 dev-forms-engine-api.brisbane.qld.gov.au
 0.0.0.0 directory.acci.gr
@@ -316,6 +318,7 @@
 0.0.0.0 filmiwebteizle.blogspot.com
 0.0.0.0 filmix.ac
 0.0.0.0 filmix.gg
+0.0.0.0 filmix.la
 0.0.0.0 filmix.moe
 0.0.0.0 filmix.my
 0.0.0.0 filmix.pw
@@ -493,6 +496,7 @@
 0.0.0.0 hesgoaltv.biz
 0.0.0.0 hesgoaltv.quest
 0.0.0.0 hintfilmizle.com
+0.0.0.0 homepage.nusens.net
 0.0.0.0 icc-cricket.com
 0.0.0.0 icuevana3.cam
 0.0.0.0 icuevana3.mobi
@@ -597,6 +601,7 @@
 0.0.0.0 kooora4live.quest
 0.0.0.0 kooora4live.website
 0.0.0.0 kooora4lives.one
+0.0.0.0 koooratv.quest
 0.0.0.0 koora.com
 0.0.0.0 koora4ever.net
 0.0.0.0 koora4live.today
@@ -657,6 +662,7 @@
 0.0.0.0 livehd77.space
 0.0.0.0 livehd7live.site
 0.0.0.0 livehd7matche.com
+0.0.0.0 livehd7now.live
 0.0.0.0 livehd7pro.xyz
 0.0.0.0 livehd7watch.com
 0.0.0.0 livekoora.com
@@ -701,6 +707,7 @@
 0.0.0.0 mangadex.one
 0.0.0.0 mangadex.org.uk
 0.0.0.0 mangaeden.org
+0.0.0.0 mangagoku.com
 0.0.0.0 mangakakalot-manga-webtoon.softonic.jp
 0.0.0.0 mangakakalot.to
 0.0.0.0 mangathaiplus.com
@@ -867,6 +874,7 @@
 0.0.0.0 pirlotv-futbol-en-vivo-directo.apps112.com
 0.0.0.0 pirlotv-hd.asia
 0.0.0.0 pirlotv.bar
+0.0.0.0 pirlotv.bike
 0.0.0.0 pirlotv.dog
 0.0.0.0 pirlotv.download
 0.0.0.0 pirlotv.guru
@@ -949,6 +957,7 @@
 0.0.0.0 repelis24.nz
 0.0.0.0 repelis24.shop
 0.0.0.0 repelis24.watch
+0.0.0.0 repelishd.xin
 0.0.0.0 repelishd.yt
 0.0.0.0 repelisplus.autos
 0.0.0.0 repelisplus.beauty
@@ -1004,6 +1013,7 @@
 0.0.0.0 seasonvar.net
 0.0.0.0 selcuksportshd.is
 0.0.0.0 seriestreaming.live
+0.0.0.0 seupoceu-toto-junggye-qf.natty.co.kr
 0.0.0.0 sflix.org
 0.0.0.0 sflixline.com
 0.0.0.0 sgo-qa.institutoedison.com.br
@@ -1079,6 +1089,8 @@
 0.0.0.0 streameast24.online
 0.0.0.0 streameastapp.club
 0.0.0.0 streameasti.site
+0.0.0.0 streameastis.cfd
+0.0.0.0 streameastl.live
 0.0.0.0 streameastmirror.com
 0.0.0.0 streameastonline.com
 0.0.0.0 streameastpro.pro
@@ -1286,6 +1298,7 @@
 0.0.0.0 xoilaclivettbdy.tv
 0.0.0.0 xoilaclivettbdz.tv
 0.0.0.0 xoilactvbm.cc
+0.0.0.0 xoilactvpp.live
 0.0.0.0 xoilactvttbdg.tv
 0.0.0.0 xoilacvay.tv
 0.0.0.0 xoilacvba.tv

@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Adult, Egypt (eg)
-# Domains: 14 | Updated: 2026-11-24
+# Domains: 16 | Updated: 2026-11-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/eg.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 arab44xnxxsex.co.uk
 0.0.0.0 arabicporn.net
 0.0.0.0 arabsex2.lat
 0.0.0.0 arabsex3.lat
@@ -11,6 +12,7 @@
 0.0.0.0 dxcovws.ramveticoe.blog
 0.0.0.0 gekso.mobi
 0.0.0.0 lamora.online
+0.0.0.0 oc68gyml8v-amphtml.rodolfocorsato.it
 0.0.0.0 pornlinks18.com
 0.0.0.0 prmi.trorxecunse.blog
 0.0.0.0 saadatcom.com

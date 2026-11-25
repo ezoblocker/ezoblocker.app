@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Russia (ru)
-# Domains: 16 | Updated: 2026-11-24
+# Domains: 17 | Updated: 2026-11-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/countries/ru.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -18,5 +18,6 @@ casinorutoponlinetop9.xn--80afwrr.xn--p1ai
 *.mostbetpl.radio.fm
 *.novye-casino1.ru
 *.overbetting.by
+*.safarisheregesh.ru
 *.usiko.ru
 *.xn--24-1lcx.xn--p1ai

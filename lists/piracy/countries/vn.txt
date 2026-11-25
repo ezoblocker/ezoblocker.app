@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Vietnam (vn)
-# Domains: 103 | Updated: 2026-11-24
+# Domains: 105 | Updated: 2026-11-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -14,6 +14,7 @@
 *.90phutzat.tv
 *.90phutzax.tv
 *.90phutzbb.tv
+*.90phutzbk.tv
 *.bongdatv.me
 *.cakhia-10-link.art
 *.cakhia14.com
@@ -88,6 +89,7 @@ trace.icheck.vn
 *.xoilaclivettbdy.tv
 *.xoilaclivettbdz.tv
 *.xoilactvbm.cc
+*.xoilactvpp.live
 *.xoilactvttbdg.tv
 *.xoilacvay.tv
 *.xoilacvba.tv
