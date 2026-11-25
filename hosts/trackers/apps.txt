@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, apps
-# Domains: 34 | Updated: 2026-11-25
+# Domains: 42 | Updated: 2026-11-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/trackers/apps.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,15 +7,20 @@
 0.0.0.0 a.engageminds.ai
 0.0.0.0 api.rudderlabs.com
 0.0.0.0 api.segment.io
+0.0.0.0 api2.openinstall.io
 0.0.0.0 attr.af-sdk.net
+0.0.0.0 attr.appsflyer-cn.com
 0.0.0.0 attribution.costcenter.net
 0.0.0.0 buusjcvujpo-pwt.donlgx.net
 0.0.0.0 cdn-settings.af-sdk.net
+0.0.0.0 cdn-settings.appsflyer-cn.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 collect.saas.castbox.fm
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 conversions.af-sdk.net
+0.0.0.0 conversions.appsflyer-cn.com
 0.0.0.0 cookapps-receiver.thinkingai.io
+0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 e5log1.fineboost.com
 0.0.0.0 e5log1.topgoe.com
 0.0.0.0 engagements.appsflyer.com
@@ -23,10 +28,13 @@
 0.0.0.0 fyywngzynts-tax.pareci.net
 0.0.0.0 gator.uba.ap-southeast-1.volces.com
 0.0.0.0 gcdsdk.af-sdk.net
+0.0.0.0 gcdsdk.appsflyer-cn.com
 0.0.0.0 hb-fwfou.donlgx.net
 0.0.0.0 inapps.af-sdk.net
+0.0.0.0 inapps.appsflyer-cn.com
 0.0.0.0 jajsy.pareci.net
 0.0.0.0 launches.af-sdk.net
+0.0.0.0 launches.appsflyer-cn.com
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 pia.af-sdk.net
 0.0.0.0 prodregistryv2.org

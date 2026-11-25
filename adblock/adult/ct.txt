@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, ct
-! Domains: 30 | Updated: 2026-11-25
+! Domains: 45 | Updated: 2026-11-25
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/ct.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 ||abctelefonerotik.de^
 ||aiporn.now^
 ||aiporntalk.com^
+||akademiabudowaniaodpornosci.pl^
 ||bestporns.site^
 ||boletinerotico.com^
 ||chentaichibrisbane.com^
@@ -17,13 +18,21 @@
 ||hentai44.mobi^
 ||hentai88.app^
 ||hentaicord.net^
+||hentaikai.blog^
 ||infoporno.ru^
+||iporner.pages.dev^
+||jejsing-sexshop.dk^
 ||landofhentai.com^
+||negronlyfans.com^
 ||nothentai-github-io.pages.dev^
+||onlyfansremoval.com^
 ||porn300.mobi^
+||pornhub-viral.pages.dev^
 ||porno-sumpf.de^
+||pornococtel.com^
 ||pornofan.de^
 ||pornotube.site^
+||pornstream.site^
 ||sannhetenompornografi.no^
 ||sexcamfree.de^
 ||sexcamplanet.com^
@@ -33,4 +42,10 @@
 ||sexting-site.top^
 ||sextoysenbois.com^
 ||sextoysgt.com^
+||sexy-hausfrauen.de^
+||sexygame.asia^
+||sexygame168.pages.dev^
+||sexygame1688.live^
 ||sexygame992a.com^
+||sexygamenan.co^
+||webcamgirl-werden.com^

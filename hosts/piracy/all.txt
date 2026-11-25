@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,334 | Updated: 2026-11-25
+# Domains: 1,336 | Updated: 2026-11-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -164,6 +164,7 @@
 0.0.0.0 cakhiazbp.tv
 0.0.0.0 cakhiazcw.tv
 0.0.0.0 canlifilmizle.com
+0.0.0.0 canlimacizlemax565.top
 0.0.0.0 canlimacizlet.altervista.org
 0.0.0.0 cb01.channel
 0.0.0.0 cb01official.uno
@@ -190,6 +191,7 @@
 0.0.0.0 compucalitv.lol
 0.0.0.0 compucalitv.tv
 0.0.0.0 coronavirus.natal.rn.gov.br
+0.0.0.0 corychasefullmovies.pages.dev
 0.0.0.0 cpasmieux.lifestyle
 0.0.0.0 cpasmieux.team
 0.0.0.0 crackstreams.ch

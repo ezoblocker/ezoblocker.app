@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Trackers, apps
-# Domains: 34 | Updated: 2026-11-25
+# Domains: 42 | Updated: 2026-11-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/trackers/apps.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,15 +7,20 @@
 a.engageminds.ai
 api.rudderlabs.com
 api.segment.io
+api2.openinstall.io
 attr.af-sdk.net
+attr.appsflyer-cn.com
 attribution.costcenter.net
 buusjcvujpo-pwt.donlgx.net
 cdn-settings.af-sdk.net
+cdn-settings.appsflyer-cn.com
 cdp.cloud.unity3d.com
 collect.saas.castbox.fm
 config.uca.cloud.unity3d.com
 conversions.af-sdk.net
+conversions.appsflyer-cn.com
 cookapps-receiver.thinkingai.io
+dt.adsafeprotected.com
 e5log1.fineboost.com
 e5log1.topgoe.com
 engagements.appsflyer.com
@@ -23,10 +28,13 @@ fwfou.donlgx.net
 fyywngzynts-tax.pareci.net
 gator.uba.ap-southeast-1.volces.com
 gcdsdk.af-sdk.net
+gcdsdk.appsflyer-cn.com
 hb-fwfou.donlgx.net
 inapps.af-sdk.net
+inapps.appsflyer-cn.com
 jajsy.pareci.net
 launches.af-sdk.net
+launches.appsflyer-cn.com
 metrics.sdkbox.com
 pia.af-sdk.net
 prodregistryv2.org

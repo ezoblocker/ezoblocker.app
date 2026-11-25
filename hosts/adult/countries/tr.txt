@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Türkiye (tr)
-# Domains: 653 | Updated: 2026-11-25
+# Domains: 659 | Updated: 2026-11-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -130,6 +130,7 @@
 0.0.0.0 beylikduzubayan1.com
 0.0.0.0 beylikduzuesc.uno
 0.0.0.0 beylikduzuescort.com
+0.0.0.0 beylikduzuescortbayan.org
 0.0.0.0 beylikduzuescortkadin.com
 0.0.0.0 beylikduzuescortlari.xyz
 0.0.0.0 bibi10.site
@@ -173,6 +174,7 @@
 0.0.0.0 dame.com
 0.0.0.0 danaporn.best
 0.0.0.0 danaporn1.best
+0.0.0.0 danaporn2.best
 0.0.0.0 darica-escort.lol
 0.0.0.0 denizlisiteleri.xyz
 0.0.0.0 derinceservisi.site
@@ -215,7 +217,6 @@
 0.0.0.0 erox.com.tr
 0.0.0.0 escburda.com
 0.0.0.0 escort-bayan.com
-0.0.0.0 escortbatumi.net
 0.0.0.0 escortbayanlar.pro
 0.0.0.0 escortbursam.com
 0.0.0.0 escortgoruklede.com
@@ -357,6 +358,7 @@
 0.0.0.0 kocaeliescortix.com
 0.0.0.0 konyaeskortlar.com
 0.0.0.0 kusadasiindeks.com
+0.0.0.0 kusadasiteksex.com
 0.0.0.0 lcwaikiki.de
 0.0.0.0 lelu.xxx
 0.0.0.0 lilashop.com.tr
@@ -434,9 +436,11 @@
 0.0.0.0 pornoevooli33.cfd
 0.0.0.0 pornoevooli34.lat
 0.0.0.0 pornoholly5.best
+0.0.0.0 pornohope1.blog
 0.0.0.0 pornoiz18.shop
 0.0.0.0 pornoizlehane.com
 0.0.0.0 pornojan1.skin
+0.0.0.0 pornojan2.skin
 0.0.0.0 pornokase18.click
 0.0.0.0 pornokase21.cyou
 0.0.0.0 pornolara4.blog
@@ -512,6 +516,7 @@
 0.0.0.0 telefondasexhatti.com
 0.0.0.0 telegramgruplar.org
 0.0.0.0 telegramifsagruplari.com
+0.0.0.0 temptingescorts.com
 0.0.0.0 terbiyesizzler.com
 0.0.0.0 terresaintezarlor.re
 0.0.0.0 tgturkifsa10.lat
@@ -524,6 +529,7 @@
 0.0.0.0 turkaltyazilittu.sbs
 0.0.0.0 turkaltyazilixx.site
 0.0.0.0 turkaltyaziporno.info
+0.0.0.0 turkcealtyaziliopornom.info
 0.0.0.0 turkcealtyazilizzx.cfd
 0.0.0.0 turkceerotikfilmcx.cfd
 0.0.0.0 turkceporna12.shop

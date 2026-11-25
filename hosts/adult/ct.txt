@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, ct
-# Domains: 30 | Updated: 2026-11-25
+# Domains: 45 | Updated: 2026-11-25
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 0.0.0.0 abctelefonerotik.de
 0.0.0.0 aiporn.now
 0.0.0.0 aiporntalk.com
+0.0.0.0 akademiabudowaniaodpornosci.pl
 0.0.0.0 bestporns.site
 0.0.0.0 boletinerotico.com
 0.0.0.0 chentaichibrisbane.com
@@ -17,13 +18,21 @@
 0.0.0.0 hentai44.mobi
 0.0.0.0 hentai88.app
 0.0.0.0 hentaicord.net
+0.0.0.0 hentaikai.blog
 0.0.0.0 infoporno.ru
+0.0.0.0 iporner.pages.dev
+0.0.0.0 jejsing-sexshop.dk
 0.0.0.0 landofhentai.com
+0.0.0.0 negronlyfans.com
 0.0.0.0 nothentai-github-io.pages.dev
+0.0.0.0 onlyfansremoval.com
 0.0.0.0 porn300.mobi
+0.0.0.0 pornhub-viral.pages.dev
 0.0.0.0 porno-sumpf.de
+0.0.0.0 pornococtel.com
 0.0.0.0 pornofan.de
 0.0.0.0 pornotube.site
+0.0.0.0 pornstream.site
 0.0.0.0 sannhetenompornografi.no
 0.0.0.0 sexcamfree.de
 0.0.0.0 sexcamplanet.com
@@ -33,4 +42,10 @@
 0.0.0.0 sexting-site.top
 0.0.0.0 sextoysenbois.com
 0.0.0.0 sextoysgt.com
+0.0.0.0 sexy-hausfrauen.de
+0.0.0.0 sexygame.asia
+0.0.0.0 sexygame168.pages.dev
+0.0.0.0 sexygame1688.live
 0.0.0.0 sexygame992a.com
+0.0.0.0 sexygamenan.co
+0.0.0.0 webcamgirl-werden.com

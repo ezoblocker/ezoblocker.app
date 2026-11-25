@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Trackers
-! Domains: 765 | Updated: 2026-11-25
+! Domains: 773 | Updated: 2026-11-25
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/trackers/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -89,6 +89,7 @@
 |api.rudderlabs.com^
 |api.segment.io^
 ||api.webgains.io^
+|api2.openinstall.io^
 ||app-whitelabel.usermaven.com^
 ||artefact.paul-hewitt.com^
 ||arttrk.com^
@@ -97,6 +98,7 @@
 ||at-o.net^
 ||attntags.com^
 |attr.af-sdk.net^
+|attr.appsflyer-cn.com^
 ||attr.zattoo.com^
 |attribution.costcenter.net^
 ||attribution.keds.com^
@@ -144,6 +146,7 @@
 ||capig.usehardal.com^
 ||capisearchlaboratory.com^
 |cdn-settings.af-sdk.net^
+|cdn-settings.appsflyer-cn.com^
 ||cdn.adtriba.com^
 ||cdn.exactag.com^
 ||cdn.kawaitrack.com^
@@ -176,6 +179,7 @@
 ||context-api.brainnordic.com^
 ||controlium.net^
 |conversions.af-sdk.net^
+|conversions.appsflyer-cn.com^
 |cookapps-receiver.thinkingai.io^
 ||cookie-sync.xyz^
 ||cookiesync-is.com^
@@ -201,6 +205,7 @@
 ||domain.vibetrack.com^
 ||dot.dm-io.com^
 ||dot.visitordatainc.com^
+|dt.adsafeprotected.com^
 ||e.truedata.co^
 |e5log1.fineboost.com^
 |e5log1.topgoe.com^
@@ -239,6 +244,7 @@
 ||gateway.tracklabs.com.br^
 |gator.uba.ap-southeast-1.volces.com^
 |gcdsdk.af-sdk.net^
+|gcdsdk.appsflyer-cn.com^
 ||getclicky.com^
 ||gnetworks.xyz^
 ||goatcounter.com^
@@ -255,6 +261,7 @@
 ||impptk.com^
 ||impression-proxy-prod.smartcasttv.com^
 |inapps.af-sdk.net^
+|inapps.appsflyer-cn.com^
 ||inistrack.net^
 ||initxa.com^
 ||innocraft.cloud^
@@ -268,6 +275,7 @@
 ||koalametrics.com^
 ||kueez.website^
 |launches.af-sdk.net^
+|launches.appsflyer-cn.com^
 ||lgad.cjpowercast.com.edgesuite.net^
 ||lgtvcommon.com^
 ||m.exactag.com^
