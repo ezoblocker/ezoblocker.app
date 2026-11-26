@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 205 | Updated: 2026-11-25
+# Domains: 206 | Updated: 2026-11-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -199,6 +199,7 @@
 0.0.0.0 www.openjournals.ijaar.org
 0.0.0.0 www.shop.lppa.org
 0.0.0.0 www1.gill-line.com
+0.0.0.0 yasaksiteleregiris.com
 0.0.0.0 yasaksiteleregiris.org
 0.0.0.0 yozm.wishket.com
 0.0.0.0 yrf.ipsf.org

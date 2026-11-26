@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, Türkiye (tr)
-! Domains: 255 | Updated: 2026-11-25
+! Domains: 258 | Updated: 2026-11-26
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/tr.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -98,6 +98,8 @@
 ||croatia-bonusesfinder.com^
 ||crybonus.com^
 ||cybetic.com^
+||dbvsbonus.com^
+||debonusu.com^
 ||denemebonuslari.yachts^
 ||dogrugiris5.pro^
 ||dpselectricalmkltd.co.uk^
@@ -115,6 +117,7 @@
 ||grandcasinoadmiral.rs^
 ||grandpashabet-logins.vip^
 ||great.com^
+||happybonusu.com^
 ||hgbonusu.com^
 ||highestcasinobonus.net^
 ||hilbetim.net^

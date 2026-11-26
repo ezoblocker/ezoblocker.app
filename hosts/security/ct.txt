@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 73,965 | Updated: 2026-11-25
+# Domains: 73,940 | Updated: 2026-11-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1808,6 +1808,7 @@
 0.0.0.0 akbank-data.pages.dev
 0.0.0.0 akbank-interface.com
 0.0.0.0 akbank-tr.biz
+0.0.0.0 akbank-tr.info
 0.0.0.0 akbank-tr.live
 0.0.0.0 akbank-tr.pro
 0.0.0.0 akbank.hemenbasvur.com
@@ -1980,7 +1981,6 @@
 0.0.0.0 amazonmakeup.pages.dev
 0.0.0.0 amazonodi462.exooolj.email
 0.0.0.0 amazonoffers.pages.dev
-0.0.0.0 amazononline.pro
 0.0.0.0 amazonotp.pages.dev
 0.0.0.0 amazonpro.pages.dev
 0.0.0.0 amazonproject-ck7.pages.dev
@@ -2136,7 +2136,6 @@
 0.0.0.0 apk-suitetrz.pages.dev
 0.0.0.0 apk-us-coin-base.pages.dev
 0.0.0.0 apkmody-spotify-premium.pages.dev
-0.0.0.0 apm-zhifeiji.com.cn
 0.0.0.0 apo-kundenanpassungservice20268492742123.com
 0.0.0.0 apobankd.de
 0.0.0.0 apostille.mygov.bd.applications-details.shop
@@ -7293,7 +7292,6 @@
 0.0.0.0 btc-drevola72-ai.com
 0.0.0.0 btc-theorian-q365.com
 0.0.0.0 btcaurallonv15.org
-0.0.0.0 btchyperlivee.online
 0.0.0.0 btcnexivolt760.pro
 0.0.0.0 btconbase-ai.pages.dev
 0.0.0.0 btcregalix-v9.com
@@ -14264,7 +14262,6 @@
 0.0.0.0 dumorexi-lenivaro.pages.dev
 0.0.0.0 duplicador-de-whatsapp.pages.dev
 0.0.0.0 duroneta-vexolire.pages.dev
-0.0.0.0 dust-whatapp.com.cn
 0.0.0.0 dutimarol-qovirexan.pages.dev
 0.0.0.0 dutsche-bank.de
 0.0.0.0 dv8l9x72-teiegarm.pages.dev
@@ -19358,7 +19355,6 @@
 0.0.0.0 facebookweb-11008broswervideosaccidentiacase.pages.dev
 0.0.0.0 faceboook-reels938y487u.pages.dev
 0.0.0.0 faceboook.dev
-0.0.0.0 faceboook.sarani.online
 0.0.0.0 faceit-approve.pro
 0.0.0.0 faceit-verify-account.com
 0.0.0.0 faceit-verify-cs.com
@@ -20299,7 +20295,6 @@
 0.0.0.0 feloriva-walexiro.pages.dev
 0.0.0.0 fenavo-meta-qantor-business-28126.pages.dev
 0.0.0.0 fenixo-meta-qantir-business-28126.pages.dev
-0.0.0.0 feno-whatapt.hl.cn
 0.0.0.0 fenolura-moxarive.pages.dev
 0.0.0.0 fenoriva-xanupite.pages.dev
 0.0.0.0 fenorix.space
@@ -20508,6 +20503,7 @@
 0.0.0.0 fjordvaultix.org
 0.0.0.0 fk-gateio.com.cn
 0.0.0.0 flank-whatsapp.com.cn
+0.0.0.0 flare-ecosystem.icu
 0.0.0.0 flare-ecosystem.pages.dev
 0.0.0.0 flare-foundations.live
 0.0.0.0 flare-sync.pages.dev
@@ -20562,7 +20558,6 @@
 0.0.0.0 flux-ridge.pages.dev
 0.0.0.0 fluxaro.es
 0.0.0.0 fluxrefund.space
-0.0.0.0 fluxrepository.cc
 0.0.0.0 fluxrungkad.pages.dev
 0.0.0.0 flxedfloat.pages.dev
 0.0.0.0 flxedfloat.us
@@ -21071,13 +21066,11 @@
 0.0.0.0 generalmotorscareernetwork.com
 0.0.0.0 generalmotorscareerportal.com
 0.0.0.0 generalmotorsconnect.com
-0.0.0.0 generalmotorsconnectagent.com
 0.0.0.0 generalmotorsemployment.com
 0.0.0.0 generalmotorsfuturecareers.com
 0.0.0.0 generalmotorsglobalcareers.com
 0.0.0.0 generalmotorsglobaljobs.com
 0.0.0.0 generalmotorshirehub.com
-0.0.0.0 generalmotorshiring.com
 0.0.0.0 generalmotorshiringportal.com
 0.0.0.0 generalmotorshiringteam.com
 0.0.0.0 generalmotorsjobboard.com
@@ -21088,7 +21081,6 @@
 0.0.0.0 generalmotorsnextcareer.com
 0.0.0.0 generalmotorspeople.com
 0.0.0.0 generalmotorspeopleteam.com
-0.0.0.0 generalmotorsrecruit.com
 0.0.0.0 generalmotorsrecruiting.com
 0.0.0.0 generalmotorsstaffhub.com
 0.0.0.0 generalmotorstalent.com
@@ -23283,7 +23275,6 @@
 0.0.0.0 hashkeymarkets.com
 0.0.0.0 hashpackwallet-en.pages.dev
 0.0.0.0 hashpackwallet-es.pages.dev
-0.0.0.0 hasil-gov-my.shop
 0.0.0.0 haspack-wallt.pages.dev
 0.0.0.0 hausfrauen-sexkontakte-finden.de
 0.0.0.0 havaiasan.shop
@@ -26977,7 +26968,6 @@
 0.0.0.0 hub-trzrrio-start.pages.dev
 0.0.0.0 hub-uphold-com.pages.dev
 0.0.0.0 hub-uphold-docs.pages.dev
-0.0.0.0 hub-whotsaapp.hl.cn
 0.0.0.0 hubb-trezerr-io-j.pages.dev
 0.0.0.0 hubb-trezerr-io-p.pages.dev
 0.0.0.0 hubb-trezerr-io.pages.dev
@@ -33334,7 +33324,6 @@
 0.0.0.0 leajore-live-auth.pages.dev
 0.0.0.0 lean-trezor-io-bridge.pages.dev
 0.0.0.0 leanrn-liveledgr.pages.dev
-0.0.0.0 leap-whatapp.hl.cn
 0.0.0.0 lear-ledger-com-start.pages.dev
 0.0.0.0 lear-ledgercomstart.pages.dev
 0.0.0.0 lear-ledgr-dkstop-eng.pages.dev
@@ -38485,7 +38474,6 @@
 0.0.0.0 legder-siteus.pages.dev
 0.0.0.0 legder-start-en.pages.dev
 0.0.0.0 legder-wallet-com-es.pages.dev
-0.0.0.0 legder.xobin.online
 0.0.0.0 legdercom.pages.dev
 0.0.0.0 legderlight.pages.dev
 0.0.0.0 legderr-com-start.pages.dev
@@ -41705,7 +41693,6 @@
 0.0.0.0 loxin-geminii-authstart.pages.dev
 0.0.0.0 loyal-whatsapp.com.cn
 0.0.0.0 lp-alfa-pinjaman-475-979-6142.pages.dev
-0.0.0.0 lpu-whats-app.com.cn
 0.0.0.0 lqdger-live-apps.pages.dev
 0.0.0.0 lrf-io-ledgrlive-en.pages.dev
 0.0.0.0 lrgrlive-destop-org.pages.dev
@@ -43914,7 +43901,6 @@
 0.0.0.0 migratependle.pages.dev
 0.0.0.0 migros-digitalinsert-dev.aplimax.dev
 0.0.0.0 migros-digitalinsert.aplimax.dev
-0.0.0.0 migros-shops.click
 0.0.0.0 migros-zuerich.app.couponplus.ch
 0.0.0.0 migros-zuerich.app.messageplus.ch
 0.0.0.0 migros-zuerich.app.ticketplus.ch
@@ -43970,6 +43956,7 @@
 0.0.0.0 mitamassk-logi.pages.dev
 0.0.0.0 mivo-whatapt.hl.cn
 0.0.0.0 mivoluren-fonarexal.pages.dev
+0.0.0.0 mix-whatsapp.com
 0.0.0.0 mixa-lenop.pages.dev
 0.0.0.0 mizunoshopsuruguay.com
 0.0.0.0 mizunosneakers.co.uk
@@ -51687,7 +51674,6 @@
 0.0.0.0 rg-openai-chat.pages.dev
 0.0.0.0 rg-whatssapp.com.cn
 0.0.0.0 rh-kuailian.com.cn
-0.0.0.0 rhb-whats-app.com.cn
 0.0.0.0 rhevoniscapital.de
 0.0.0.0 rhexavorn-vault.pages.dev
 0.0.0.0 rhw-whatsapp.com.cn
@@ -52006,7 +51992,6 @@
 0.0.0.0 robinhoodaccessprofileverify.pages.dev
 0.0.0.0 robinhoodai69.pages.dev
 0.0.0.0 robinhoodalert.com
-0.0.0.0 robinhoodassetrecoverygroupllc.com
 0.0.0.0 robinhoodassetsrecovery.com
 0.0.0.0 robinhoodatlas.pages.dev
 0.0.0.0 robinhoodl-se-ogin.pages.dev
@@ -52186,7 +52171,6 @@
 0.0.0.0 rsrvasid-botuqqe701.com
 0.0.0.0 rsrvasid-botuqqe761.com
 0.0.0.0 rsxfan-whatsapp.hk.cn
-0.0.0.0 rt-apss-whatapp.com.cn
 0.0.0.0 rt-whats-app.com.cn
 0.0.0.0 rtewadsfgfhguoytrew4wetrytuyiukhgf2kuytrdfgchfgjuyft2.pages.dev
 0.0.0.0 rubby-wallet-feq.pages.dev
@@ -52396,7 +52380,6 @@
 0.0.0.0 samtaomodemiinzx.ammyd1.workers.dev
 0.0.0.0 sandesh-clipzo-facebook-contect-us.pages.dev
 0.0.0.0 sanicrobloxid.pages.dev
-0.0.0.0 santander-client.com
 0.0.0.0 santander-info.com.mx
 0.0.0.0 santander-inicio.com
 0.0.0.0 santander-netbanco.digital
@@ -53995,6 +53978,7 @@
 0.0.0.0 signincoinbase.pages.dev
 0.0.0.0 signinsamsungkey.com
 0.0.0.0 signintrack-zerion.pages.dev
+0.0.0.0 signinwith-microsoft.sbs
 0.0.0.0 signn-coin-base.pages.dev
 0.0.0.0 signnincoinbse-us.pages.dev
 0.0.0.0 signon.microsoftonline.office365.file-sharepoint.keflextabs.online
@@ -60382,7 +60366,6 @@
 0.0.0.0 teaprotocol.pages.dev
 0.0.0.0 teaser-hrdwere-walet-x-us.pages.dev
 0.0.0.0 teazor-strt-en.pages.dev
-0.0.0.0 teb-whats-app.com.cn
 0.0.0.0 tech--ledgr-desktop-li.pages.dev
 0.0.0.0 tech-download-ledge.pages.dev
 0.0.0.0 tech-exoduse.pages.dev
@@ -61139,7 +61122,6 @@
 0.0.0.0 tienrseurn-juwlise82ctpa-796.pages.dev
 0.0.0.0 tiger-777-login.com
 0.0.0.0 tij-whatsapp.com.cn
-0.0.0.0 tik-tok-18-app-4.top
 0.0.0.0 tiket-200-login.pages.dev
 0.0.0.0 tiket-kupon.pages.dev
 0.0.0.0 tiket-lotre-online-hadiah-300-juta.pages.dev
@@ -61213,7 +61195,6 @@
 0.0.0.0 timocomeu.com
 0.0.0.0 tims-whatapp.com.cn
 0.0.0.0 tinchapvay-mmbonlline.pages.dev
-0.0.0.0 tips-whats-app.com.cn
 0.0.0.0 tipsport-cz-prihlaseni.org
 0.0.0.0 tipsport-official-sk.pages.dev
 0.0.0.0 tipsport-prihlasit-se.org
@@ -65998,7 +65979,6 @@
 0.0.0.0 trionexishoje.online
 0.0.0.0 trivexon-myrkal-com.pages.dev
 0.0.0.0 trivone.gifts
-0.0.0.0 trivonet.top
 0.0.0.0 triz-or-suites.pages.dev
 0.0.0.0 trizer-start-io.pages.dev
 0.0.0.0 trizo-r-suites.pages.dev
@@ -66070,7 +66050,6 @@
 0.0.0.0 tronlink-h5-prod.pages.dev
 0.0.0.0 tronlink-rpc.pages.dev
 0.0.0.0 tronscan.site
-0.0.0.0 tronscantrx.cc
 0.0.0.0 tronwallet-usdt-convertor-trc20.pages.dev
 0.0.0.0 tronwespriceverrifydocsignpagesdevs.pages.dev
 0.0.0.0 tror-suite-start.pages.dev
@@ -66403,7 +66382,6 @@
 0.0.0.0 trustwalet-co.pages.dev
 0.0.0.0 trustwalet-com.pages.dev
 0.0.0.0 trustwalet-tools.pages.dev
-0.0.0.0 trustwaletcard.cc
 0.0.0.0 trustwallet--app.pages.dev
 0.0.0.0 trustwallet--browser--extension.pages.dev
 0.0.0.0 trustwallet--us.pages.dev
@@ -67374,7 +67352,6 @@
 0.0.0.0 u-whats-app.hl.cn
 0.0.0.0 u5f15q32-appleid.pages.dev
 0.0.0.0 u9efg16t-appleid.pages.dev
-0.0.0.0 ua-whatssapp.com.cn
 0.0.0.0 uass-bank-loginn.pages.dev
 0.0.0.0 uaz-whatsapp.cn
 0.0.0.0 ub-ledgrcomstrt.pages.dev
@@ -69341,7 +69318,6 @@
 0.0.0.0 velnix24.online
 0.0.0.0 velodrome-flnance.pages.dev
 0.0.0.0 velora-facilitate.pages.dev
-0.0.0.0 velorianmesh.cc
 0.0.0.0 velro-hyxen-tino.pages.dev
 0.0.0.0 veltharion-thryphexon.pages.dev
 0.0.0.0 velthorix-klyveron.pages.dev
@@ -73766,7 +73742,6 @@
 0.0.0.0 zenlin-korvex-biz17-selmon-haspor-sp18ct12.pages.dev
 0.0.0.0 zenloraventra.org
 0.0.0.0 zeno-whatapt.hl.cn
-0.0.0.0 zentrixa.top
 0.0.0.0 zenvathoralia.org
 0.0.0.0 zephorixlunavex.site
 0.0.0.0 zeralith-haven.pages.dev

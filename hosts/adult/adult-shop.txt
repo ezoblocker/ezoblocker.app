@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,506 | Updated: 2026-11-25
+# Domains: 1,507 | Updated: 2026-11-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1178,6 +1178,7 @@
 0.0.0.0 sexshopzonaroja.com
 0.0.0.0 sexsiopa.ie
 0.0.0.0 sexstore.ie
+0.0.0.0 sexsy.net.au
 0.0.0.0 sexsymbol.com.co
 0.0.0.0 sextech.co.uk
 0.0.0.0 sextosentiido.com

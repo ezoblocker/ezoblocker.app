@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,336 | Updated: 2026-11-25
+# Domains: 1,344 | Updated: 2026-11-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -177,6 +177,7 @@
 0.0.0.0 cima4u-offcial.cyou
 0.0.0.0 cima4u.app
 0.0.0.0 cima4u.college
+0.0.0.0 cima4u.lifestyle
 0.0.0.0 cimaclub.ct.ws
 0.0.0.0 cimaclubb.cam
 0.0.0.0 cimaclubsite.blogspot.com
@@ -194,6 +195,7 @@
 0.0.0.0 corychasefullmovies.pages.dev
 0.0.0.0 cpasmieux.lifestyle
 0.0.0.0 cpasmieux.team
+0.0.0.0 crack-streams.st
 0.0.0.0 crackstreams.ch
 0.0.0.0 crackstreams.gdn
 0.0.0.0 crackstreams.gold
@@ -489,6 +491,7 @@
 0.0.0.0 hesgoal.rocks
 0.0.0.0 hesgoal.si
 0.0.0.0 hesgoal.soccer
+0.0.0.0 hesgoal.wiki
 0.0.0.0 hesgoal.zone
 0.0.0.0 hesgoalhd.com
 0.0.0.0 hesgoallive.quest
@@ -616,6 +619,7 @@
 0.0.0.0 kooralive-koora.live
 0.0.0.0 kooralive.beer
 0.0.0.0 kooralive.diy
+0.0.0.0 kooralive.vu
 0.0.0.0 kooralive07.com
 0.0.0.0 kooralivematch.club
 0.0.0.0 kooramatch.club
@@ -662,6 +666,7 @@
 0.0.0.0 livehd71.top
 0.0.0.0 livehd73.com
 0.0.0.0 livehd77.space
+0.0.0.0 livehd7koora.online
 0.0.0.0 livehd7live.site
 0.0.0.0 livehd7matche.com
 0.0.0.0 livehd7now.live
@@ -690,6 +695,7 @@
 0.0.0.0 lockoora.top
 0.0.0.0 locopelis.com
 0.0.0.0 lordfilm-hd.mirfilm.net
+0.0.0.0 lordfilm-hd82.lat
 0.0.0.0 lordfilm-ru0.cc
 0.0.0.0 lordfilm.fi
 0.0.0.0 lordfilms.pub
@@ -1088,6 +1094,7 @@
 0.0.0.0 streameast.gold
 0.0.0.0 streameast.to
 0.0.0.0 streameast.uno
+0.0.0.0 streameast.wiki
 0.0.0.0 streameast24.online
 0.0.0.0 streameastapp.club
 0.0.0.0 streameasti.site
@@ -1125,6 +1132,7 @@
 0.0.0.0 t.matec.kr
 0.0.0.0 taraftarium.pro
 0.0.0.0 taraftarium24-aslan5.com
+0.0.0.0 taraftarium24-lig15.com
 0.0.0.0 taraftarium24-live3.com
 0.0.0.0 taraftarium24-patron.com
 0.0.0.0 taraftarium24-ps3.com

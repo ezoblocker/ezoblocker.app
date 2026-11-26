@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 945,112 | Updated: 2026-11-25
+# Domains: 945,113 | Updated: 2026-11-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -32180,6 +32180,7 @@
 0.0.0.0 7kcasinolink.ru
 0.0.0.0 7kcasinonew.cc
 0.0.0.0 7kcasinonez.click
+0.0.0.0 7kcasinoofficial.com
 0.0.0.0 7kcasinoplay.ru
 0.0.0.0 7kcasinopsy.com
 0.0.0.0 7kcasinorun.ru
@@ -77488,6 +77489,7 @@
 0.0.0.0 astrozino-casinouk.com
 0.0.0.0 astrozinocasino.com
 0.0.0.0 astrozinocasino.uk
+0.0.0.0 astrozinocasinor.com
 0.0.0.0 astrozinocasinouk-com.pages.dev
 0.0.0.0 astrozinocasinouk.com
 0.0.0.0 astucecasino.org
@@ -121964,6 +121966,7 @@
 0.0.0.0 betmatch.gb.net
 0.0.0.0 betmatch.in.ua
 0.0.0.0 betmatch.pages.dev
+0.0.0.0 betmatch.poker
 0.0.0.0 betmatch.te.ua
 0.0.0.0 betmatch.us.com
 0.0.0.0 betmatch.zone
@@ -123857,6 +123860,7 @@
 0.0.0.0 betoffice.forum
 0.0.0.0 betoffice.fr
 0.0.0.0 betoffice.games
+0.0.0.0 betoffice.gb.net
 0.0.0.0 betoffice.im
 0.0.0.0 betoffice.love
 0.0.0.0 betoffice.mobi
@@ -174785,7 +174789,6 @@
 0.0.0.0 caktengokdulumaxwin88.pages.dev
 0.0.0.0 caktuscazino.ru
 0.0.0.0 caktuskazino.ru
-0.0.0.0 caktuzcasino.ru
 0.0.0.0 cakupan-slot-catatan-tematik-slotkingkongorg.pages.dev
 0.0.0.0 cakupan-slot-cerita-digital-capsa89net.pages.dev
 0.0.0.0 cakupan-slot-rangkuman-editorial-alibaba78net.pages.dev
@@ -207304,7 +207307,6 @@
 0.0.0.0 casinobonuscav.com
 0.0.0.0 casinobonuscenter.net
 0.0.0.0 casinobonuscheck.com
-0.0.0.0 casinobonuscity.net
 0.0.0.0 casinobonusclub.biz
 0.0.0.0 casinobonusco.co.uk
 0.0.0.0 casinobonusco.com
@@ -243109,7 +243111,6 @@
 0.0.0.0 casinostar.ru
 0.0.0.0 casinostar.sk
 0.0.0.0 casinostar24.life
-0.0.0.0 casinostar326.com
 0.0.0.0 casinostaraff.com
 0.0.0.0 casinostarborn.nl
 0.0.0.0 casinostarburst.com
@@ -249563,7 +249564,6 @@
 0.0.0.0 casinoworld.ie
 0.0.0.0 casinoworld.link
 0.0.0.0 casinoworld.mx
-0.0.0.0 casinoworld.news
 0.0.0.0 casinoworld.nz
 0.0.0.0 casinoworld.one
 0.0.0.0 casinoworld.org.ro
@@ -253458,9 +253458,7 @@
 0.0.0.0 castle-casinos.com
 0.0.0.0 castle77-slot-maxwin.pages.dev
 0.0.0.0 castlecasino-be-com.pages.dev
-0.0.0.0 castlecasino-be.com
 0.0.0.0 castlecasino-be1-com.pages.dev
-0.0.0.0 castlecasino-be1.com
 0.0.0.0 castlecasino-ca.com
 0.0.0.0 castlecasino-de.de
 0.0.0.0 castlecasino-es-com.pages.dev
@@ -412198,6 +412196,7 @@
 0.0.0.0 instantbankcasinos.co
 0.0.0.0 instantbankcasinos.com
 0.0.0.0 instantbankingcasino.com
+0.0.0.0 instantbankingcasinon.com.se
 0.0.0.0 instantbankingonlinecasino.com
 0.0.0.0 instantbanktransfercasino.ca
 0.0.0.0 instantbanktransfercasino.com
@@ -437876,9 +437875,11 @@
 0.0.0.0 jojobet-2026turkiye-com.pages.dev
 0.0.0.0 jojobet-45q.pages.dev
 0.0.0.0 jojobet-71z.pages.dev
+0.0.0.0 jojobet-adres.tech
 0.0.0.0 jojobet-adresim-tr.org
 0.0.0.0 jojobet-affgiris-com.pages.dev
 0.0.0.0 jojobet-bqb.pages.dev
+0.0.0.0 jojobet-buradan.tech
 0.0.0.0 jojobet-demo.pages.dev
 0.0.0.0 jojobet-directgir-com-7fj.pages.dev
 0.0.0.0 jojobet-directgir-com.pages.dev
@@ -463806,7 +463807,6 @@
 0.0.0.0 klaver-casino1-com.pages.dev
 0.0.0.0 klavercasino-be-com.pages.dev
 0.0.0.0 klavercasino-belgie-com.pages.dev
-0.0.0.0 klavercasino-belgie.com
 0.0.0.0 klavercasino-fr-com.pages.dev
 0.0.0.0 klavercasino.biz
 0.0.0.0 klavercasino.co.nl
@@ -511593,6 +511593,7 @@
 0.0.0.0 lyracasino.co.cz
 0.0.0.0 lyracasino.co.nl
 0.0.0.0 lyracasino.com.de
+0.0.0.0 lyracasino.com.se
 0.0.0.0 lyracasino.cz
 0.0.0.0 lyracasino.fr
 0.0.0.0 lyracasino.io
@@ -600172,7 +600173,6 @@
 0.0.0.0 nyamuk88-garuda-slot.pages.dev
 0.0.0.0 nyamuktogel.club
 0.0.0.0 nyan-poker-dev.com
-0.0.0.0 nyanatcasinon.se
 0.0.0.0 nyangkutslotgacor.pages.dev
 0.0.0.0 nyans-35.ru
 0.0.0.0 nyans35.ru
@@ -920256,6 +920256,7 @@
 0.0.0.0 winsharkcasinopolska.com
 0.0.0.0 winsharkcasinoportugal.com
 0.0.0.0 winsharkcasinopt.com
+0.0.0.0 winsharkcasinor.com
 0.0.0.0 winsharkcasinorecenzija.com
 0.0.0.0 winsharkcasinoreview.com
 0.0.0.0 winsharkcasinoreviews.com
