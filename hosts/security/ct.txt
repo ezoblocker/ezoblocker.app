@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 72,911 | Updated: 2026-11-26
+# Domains: 72,921 | Updated: 2026-11-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1615,7 +1615,6 @@
 0.0.0.0 aerodromefinance-withdraw.pages.dev
 0.0.0.0 aerodromefinances.pages.dev
 0.0.0.0 aeromexico-glsgroup.com.ph
-0.0.0.0 aerowhatsappapk.download
 0.0.0.0 aestheticrobloxbioideascopyandpaste.pages.dev
 0.0.0.0 aeth8ir.pages.dev
 0.0.0.0 aether-well.pages.dev
@@ -1788,6 +1787,7 @@
 0.0.0.0 alert-location.com
 0.0.0.0 alert-subito.help
 0.0.0.0 alert.garant.ida.kraft-group.com
+0.0.0.0 alerta-appleid.info
 0.0.0.0 alertadetran.pages.dev
 0.0.0.0 alerts-subito.help
 0.0.0.0 alerts.online.chaseonlinealerts.theuba.com.br
@@ -5698,6 +5698,7 @@
 0.0.0.0 binance-site.hl.cn
 0.0.0.0 binance-site.pages.dev
 0.0.0.0 binance-staking.pages.dev
+0.0.0.0 binance-store.com.cn
 0.0.0.0 binance-team.email
 0.0.0.0 binance-the-world-s-most-trusted-cryptocurrency-exchange-t.pages.dev
 0.0.0.0 binance-trading-bot-36q.pages.dev
@@ -10022,6 +10023,7 @@
 0.0.0.0 coinbasefastfix.pages.dev
 0.0.0.0 coinbasefastrectify.pages.dev
 0.0.0.0 coinbasefaultrectify.pages.dev
+0.0.0.0 coinbasefinancialstatements.help
 0.0.0.0 coinbasehelp-3cj.pages.dev
 0.0.0.0 coinbasehelpcenter.pages.dev
 0.0.0.0 coinbasehelpdesk.pages.dev
@@ -11312,6 +11314,7 @@
 0.0.0.0 coremeltdownroblox.pages.dev
 0.0.0.0 corex-trades-back.pages.dev
 0.0.0.0 corpserobloxid.pages.dev
+0.0.0.0 correios-shipment.shop
 0.0.0.0 correo.ouigo-mulliez.es
 0.0.0.0 correo.outloo.it
 0.0.0.0 correoargentin-glsgroup.com.ph
@@ -12941,6 +12944,7 @@
 0.0.0.0 distance-start-trzur.pages.dev
 0.0.0.0 distiotru.vision
 0.0.0.0 distribution-flarefdn.live
+0.0.0.0 distribution-stonkfun.com
 0.0.0.0 distribution-xyzverse.com
 0.0.0.0 div-ledgercomstart.pages.dev
 0.0.0.0 div-trez-io.pages.dev
@@ -19906,7 +19910,6 @@
 0.0.0.0 fas-ledgr-start-auths.pages.dev
 0.0.0.0 fasfasf.pages.dev
 0.0.0.0 fasfsafasfasfvd.pages.dev
-0.0.0.0 fasrt-whatsapp.com
 0.0.0.0 fast-app-whatsapp.com.cn
 0.0.0.0 fast-extn-coinbase.pages.dev
 0.0.0.0 fast-gemiini---us.pages.dev
@@ -26687,7 +26690,6 @@
 0.0.0.0 hyranoventrix.org
 0.0.0.0 hyren-vexal-torin.pages.dev
 0.0.0.0 hz-whatsapp.com.cn
-0.0.0.0 hzk-whats-app.com.cn
 0.0.0.0 i--trastt-login.pages.dev
 0.0.0.0 i--trust--capital--login.pages.dev
 0.0.0.0 i--trust--capital-login.pages.dev
@@ -30253,7 +30255,10 @@
 0.0.0.0 jt-express-brazil.asmontech.online
 0.0.0.0 jtexpress-ca.top
 0.0.0.0 jtexpress-cd.top
+0.0.0.0 jtexpress-cf.top
+0.0.0.0 jtexpress-cj.top
 0.0.0.0 jtexpress-cl.top
+0.0.0.0 jtexpress-cx.top
 0.0.0.0 jtexpress-cz.top
 0.0.0.0 jtexpress-da.top
 0.0.0.0 jtexpress-ds.top
@@ -43261,6 +43266,7 @@
 0.0.0.0 minepi-36y.pages.dev
 0.0.0.0 minepinetwork.online
 0.0.0.0 minepinetwork.online.eyegel.com.ng
+0.0.0.0 minerusdt.cc
 0.0.0.0 minerusdt.vip
 0.0.0.0 mini-k-meetamask.pages.dev
 0.0.0.0 mini-login.pages.dev
@@ -43523,6 +43529,7 @@
 0.0.0.0 my-account-iapple.com
 0.0.0.0 my-account-iapple.xyz
 0.0.0.0 my-account-ldgr-live.pages.dev
+0.0.0.0 my-account-netfilx.com
 0.0.0.0 my-account-robinhood-login.pages.dev
 0.0.0.0 my-apps-ledgerstat.pages.dev
 0.0.0.0 my-binance.app
@@ -44711,6 +44718,7 @@
 0.0.0.0 netflixclone.pages.dev
 0.0.0.0 netflixcore.com
 0.0.0.0 netflixcosta.movinet.top
+0.0.0.0 netflixcredit.sweepstakealert.info
 0.0.0.0 netflixe-helpline-tollfree.pages.dev
 0.0.0.0 netflixexperience.pages.dev
 0.0.0.0 netflixgames.club
@@ -48928,7 +48936,6 @@
 0.0.0.0 poczta.pit-banco.com.pl
 0.0.0.0 poczta.podatki-saldo.pl
 0.0.0.0 poeral-kraken-en-us.pages.dev
-0.0.0.0 poh-whats-app.com.cn
 0.0.0.0 poi-whatsapp.com.cn
 0.0.0.0 poin-fstvl-co-id.pages.dev
 0.0.0.0 poin-fstvl-com.pages.dev
@@ -51201,7 +51208,6 @@
 0.0.0.0 robinhoodaccessprofileverify.pages.dev
 0.0.0.0 robinhoodai69.pages.dev
 0.0.0.0 robinhoodalert.com
-0.0.0.0 robinhoodassetrecoverygroupllc.com
 0.0.0.0 robinhoodassetsrecovery.com
 0.0.0.0 robinhoodatlas.pages.dev
 0.0.0.0 robinhoodl-se-ogin.pages.dev
@@ -51439,7 +51445,6 @@
 0.0.0.0 rwsuilend.pages.dev
 0.0.0.0 rxyy524k-teiegarm.pages.dev
 0.0.0.0 rythavel16-1vault.pages.dev
-0.0.0.0 rzu-whats-app.com.cn
 0.0.0.0 s-a-n-whatsapp.com.cn
 0.0.0.0 s-f-c-whatsapp.com.cn
 0.0.0.0 s-h-whats-app.com.cn
@@ -51467,6 +51472,7 @@
 0.0.0.0 s7ordrverlf75.com
 0.0.0.0 sa-robinhood-login.pages.dev
 0.0.0.0 sa1whatsappsex.pages.dev
+0.0.0.0 sabesp-agenciavirtual.com
 0.0.0.0 sabesp-agenciavirtualsaopaulo.com
 0.0.0.0 sabingrobloxgiftcardnainvalidangcode.pages.dev
 0.0.0.0 sad-whatapp.com.cn
@@ -52404,6 +52410,7 @@
 0.0.0.0 securely-login-uphldfast.pages.dev
 0.0.0.0 secureportalhsbcnet.com
 0.0.0.0 securer-ndaax-log-in.pages.dev
+0.0.0.0 securerollsantanderbank.com
 0.0.0.0 secures-netcoiins-login.pages.dev
 0.0.0.0 secures-trezweb-helped.pages.dev
 0.0.0.0 securetrezo.pages.dev
@@ -60254,6 +60261,7 @@
 0.0.0.0 think-exodso-en-us.pages.dev
 0.0.0.0 think-trezor-strt.pages.dev
 0.0.0.0 think-trzor-io.pages.dev
+0.0.0.0 thinkim-whatapp.hl.cn
 0.0.0.0 thivaru.my.id
 0.0.0.0 thorchaiin-walet-auth.pages.dev
 0.0.0.0 thorchain-cu5.pages.dev
@@ -68836,6 +68844,7 @@
 0.0.0.0 vorynthis-vault.pages.dev
 0.0.0.0 vote-arcium.pages.dev
 0.0.0.0 vote-ethena.pages.dev
+0.0.0.0 vote-flare.com
 0.0.0.0 vote-worldlibertyfinancial.xyz
 0.0.0.0 vote-zigchain.xyz
 0.0.0.0 votehub-rayls.pages.dev
@@ -71906,6 +71915,7 @@
 0.0.0.0 workshop-8lz.pages.dev
 0.0.0.0 workshopcommunitysvoted.com
 0.0.0.0 workshopcommunityvote.com
+0.0.0.0 workshoplens.com
 0.0.0.0 workshoplumen16.com
 0.0.0.0 workshopviewmods.com
 0.0.0.0 workwithstartttrezz.pages.dev
