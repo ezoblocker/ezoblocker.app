@@ -1,10 +1,11 @@
 # Title: EZOBLOCKER Adult, ct
-# Domains: 45 | Updated: 2026-11-26
+# Domains: 55 | Updated: 2026-11-26
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.18hotporn.click
+*.3hentai.app
 *.abctelefonerotik.de
 *.aiporn.now
 *.aiporntalk.com
@@ -12,7 +13,9 @@
 *.bestporns.site
 *.boletinerotico.com
 *.chentaichibrisbane.com
+*.erotika-shop.cz
 *.erotikshopnews.de
+*.flirt4adults.com
 *.fuckinawesome.com
 *.fuckingmy.xyz
 *.hentai44.mobi
@@ -23,26 +26,33 @@
 *.iporner.pages.dev
 *.jejsing-sexshop.dk
 *.landofhentai.com
+*.mobileporno.de
 *.negronlyfans.com
 *.nothentai-github-io.pages.dev
 *.onlyfansremoval.com
 *.porn300.mobi
+*.pornhd4k.app
 *.pornhub-viral.pages.dev
 *.porno-sumpf.de
+*.pornobranche.de
 *.pornococtel.com
 *.pornofan.de
 *.pornotube.site
 *.pornstream.site
 *.sannhetenompornografi.no
+*.secrethentai-club.pages.dev
 *.sexcamfree.de
 *.sexcamplanet.com
 *.sexchat-ohne-anmeldung.de
 *.sexgirl4you.de
+*.sexhay88.vip
 *.sexshopberlin.de
 *.sexting-site.top
 *.sextoysenbois.com
 *.sextoysgt.com
+*.sexviet888.app
 *.sexy-hausfrauen.de
+*.sexygame-betwayth.com
 *.sexygame.asia
 *.sexygame168.pages.dev
 *.sexygame1688.live
