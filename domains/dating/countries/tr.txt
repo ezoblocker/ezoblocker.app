@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, Türkiye (tr)
-# Domains: 123 | Updated: 2026-11-26
+# Domains: 124 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/dating/countries/tr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -102,6 +102,7 @@ sohbetche.net
 sohbetci.com
 sohbetci.com.tr
 sohbetci.net
+sohbetcity.net
 sohbetimsen.net
 sohbetsev.net
 sohbetyeri.com.tr

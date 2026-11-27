@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, Poland (pl)
-# Domains: 58 | Updated: 2026-11-26
+# Domains: 59 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/pl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -49,6 +49,7 @@
 0.0.0.0 polskiekasyno.com
 0.0.0.0 ponadnorme.pl
 0.0.0.0 rankingcasino.pl
+0.0.0.0 rugged-mounts.com
 0.0.0.0 slotsjudge-pl.com
 0.0.0.0 slotticas.net.pl
 0.0.0.0 slotticasite.pl

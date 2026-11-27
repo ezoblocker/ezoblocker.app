@@ -1,11 +1,12 @@
 # Title: EZOBLOCKER Gambling, Malaysia (my)
-# Domains: 16 | Updated: 2026-11-26
+# Domains: 17 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/countries/my.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 88hoki88m.io
 0.0.0.0 blogs.fun88.mx
+0.0.0.0 fury-sportfishing.com
 0.0.0.0 kk918kiss.net
 0.0.0.0 live22mm.com
 0.0.0.0 m-xe88.org

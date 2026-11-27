@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Switzerland (ch)
-# Domains: 70 | Updated: 2026-11-26
+# Domains: 71 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ch.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -47,6 +47,7 @@
 0.0.0.0 massage123.ch
 0.0.0.0 meaculpa.ch
 0.0.0.0 meraki-shop.de
+0.0.0.0 moviejones.de
 0.0.0.0 mrlove.ch
 0.0.0.0 omello.de
 0.0.0.0 orionversand.ch

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult
-# Domains: 3,081 | Updated: 2026-11-26
+# Domains: 3,137 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -34,6 +34,7 @@
 *.31vaktixc17.cyou
 *.31vaktixc18.click
 *.31vaktixc19.cfd
+*.31vaktixc19.lat
 *.31vaktixc4.cyou
 *.31vaktixc6.cyou
 *.31vaktixc6.lat
@@ -56,6 +57,7 @@
 *.31vqkticx22.click
 *.31vqkticx23.click
 *.31vqkticx23.lat
+*.31vqkticx26.cyou
 *.31vqkticx7.cfd
 *.31vqkticx7.click
 *.3hentai.app
@@ -91,6 +93,7 @@
 *.absolutube.com
 *.abuse.fit
 academy.sormas.org
+*.acebokep.com
 *.adamandeva.shop
 *.adamandevefranchise.com
 *.adamevehouston.com
@@ -174,10 +177,12 @@ alert.shop-bell.com
 *.altyazilihubxt19.cyou
 *.altyazilihubxt20.lat
 *.altyazilihubxt22.cyou
+*.altyazilihubxt22.lat
 *.altyazilihubxt7.lat
 *.altyazilipornofilmi.info
 *.altyazilipornofilmler.info
 *.altyazilivideozzx.cfd
+*.altyazilivideozzx.lat
 *.altyzhub30.site
 *.altyzhub34.site
 *.altyzhub36.site
@@ -269,6 +274,7 @@ app.catchtable.co.kr
 *.askimyavas210.live
 *.askimyavas211.live
 *.askimyavas214.live
+*.askimyavas218.live
 *.asosloja.com.br
 *.asoytube.com
 *.associationshotokankarate.co.uk
@@ -304,6 +310,7 @@ atakent.papkam.com
 *.babylonloveshop.be
 *.babylonloveshop.com
 *.bagatelle.sklep.pl
+*.bagcilar-escort8.lol
 *.bakanal.es
 *.balato.shop
 *.balisexstore.com
@@ -365,12 +372,14 @@ berlin.city-map.de
 *.bestturks44.com
 *.bestturks45.com
 *.bestturks46.com
+*.bestturks47.com
 *.bestturksgiris.com
 *.bestturksgiris1.com
 *.bestvibe.pk
 *.beus.com.br
 *.beykentsexshop.com
 *.beylikduzubayan1.com
+*.beylikduzubayans.click
 *.beylikduzuesc.uno
 *.beylikduzuescort.com
 *.beylikduzuescortbayan.org
@@ -418,6 +427,7 @@ bmwlover.forumid.net
 *.bokepjepang.cx
 *.bokepjepang.org
 *.bokepjp.com
+*.bokepmy.in
 *.bokeppijat.net
 *.bokepviral.in
 *.boletinerotico.com
@@ -458,6 +468,7 @@ brox.companyinsider.pl
 *.bursa-escortlar.com
 *.bursabayanescortlar.xyz
 *.bursaelite.com
+*.bursaescortt1.uno
 *.bursavitrin.com
 *.buttman.com.ar
 *.buttplug.io
@@ -621,6 +632,7 @@ czg5a8vw1vsm.inriprete.blog
 *.dahahizli170.live
 *.dahahizli171.live
 *.dahahizli173.live
+*.dahahizli175.live
 *.dallasnovelty.com
 *.damaxbdsm.com
 *.dame.com
@@ -651,6 +663,7 @@ czg5a8vw1vsm.inriprete.blog
 *.deliveryabelgrano.com.ar
 *.deliveryaltopalermo.com.ar
 demo.technophoria.co.id
+*.denizlikent.net
 *.denizlipen.com
 *.denizlisiteleri.xyz
 *.depaarsekeizerin.nl
@@ -660,11 +673,13 @@ demo.technophoria.co.id
 *.desi49.cafe
 *.desi49.chat
 *.desi49.deals
+*.desi49.diy
 *.desi4u.net
 *.desi52.rest
 *.desiaunty.org
 *.desiauntysex.org
 *.desibhabhi.org
+*.desiboobs.org
 *.desibp.guru
 *.desidekho2.watch
 *.desidekho4.watch
@@ -733,6 +748,7 @@ dkintimates.commercesuite.com.br
 *.doeda109.click
 *.doeda114.click
 *.doeda115.click
+*.doeda121.click
 *.doeda18.best
 *.doeda26.pro
 *.doeda3.baby
@@ -891,6 +907,7 @@ erotik.markt.ch
 *.eryamanescorta.com
 *.escburda.com
 *.escort-bayan.com
+*.escortair.xyz
 *.escortbayanlar.pro
 *.escortbursam.com
 *.escortgoruklede.com
@@ -937,6 +954,7 @@ etamo.bsv-coswig.de
 *.eufory.de
 *.eurobattle.net
 *.europescortguide.com
+*.europorn.cz
 *.eurovipescorts.com
 *.eurovisex.com
 *.evenflirten.nl
@@ -1081,6 +1099,7 @@ git.ngtech.co.il
 *.gsdoll.com
 *.guardianbikes.com
 *.guiacereza.com
+*.guncelarsivizle.com
 *.gunshop.vn
 *.gutscheincode.org
 *.gutscheine.at
@@ -1100,6 +1119,7 @@ git.ngtech.co.il
 *.hderotik5.blog
 *.hderotik6.blog
 *.hdxaltyazi10.shop
+*.hdxporno1c.lat
 *.hdxporno1s.lat
 *.heisseanzeigen.at
 hello-nancy.tenereteam.com
@@ -1248,6 +1268,7 @@ i8fmzf4a54wk.nettoyagereunion.re
 *.izmirescort.network
 *.izmirescortburda.com
 *.izmirescortnumarasi.com
+*.izmit-escort6.lol
 *.jacquieetmichel-contacts.com
 *.jacquieetmichelstars.com
 *.jacquieetmichelstore.com
@@ -1312,6 +1333,7 @@ k386fzx.kiwanisturnhout.be
 *.kadikoyescort15.uno
 *.kadikoyescort9.uno
 *.kadrajtr.cfd
+*.kahramanmarasescortiki.xyz
 *.kaldagan.tv
 *.kamababa.digital
 *.kamababa1.watch
@@ -1363,6 +1385,8 @@ kirov.fooby.ru
 *.kisskiss.eu
 *.klantcontact.nl
 *.klinikbondage.com
+*.kocaeli-escort7.lol
+*.kocaeliescortiki.xyz
 *.kocaeliescortix.com
 *.kondom.it
 *.kondomeriet.com
@@ -1410,6 +1434,7 @@ kzz.neulannopel.blog
 *.lejournalintime.com
 *.lelo.com.pk
 *.lelu.xxx
+lenmdrqk.sudabeta.blog
 *.lescapricesdalice.fr
 *.lesfoliesducoeur.com
 *.lextase.be
@@ -1547,6 +1572,7 @@ m.prague.lol
 m.sexywoo.co.kr
 m.xn--h49ak9g3ze6zr01a837a.com
 *.machoalfacolombia.com
+*.madridescort.net
 *.madurasfollando.com
 *.maennerzone.com
 *.magazin-sexshop.ru
@@ -1677,6 +1703,7 @@ modernhouse.elandmall.co.kr
 mooreok.govbuilt.com
 *.morethanlove.se
 *.mountainparkranchrealestate.com
+*.moviejones.de
 *.movieshark.com
 *.mozaka.com
 *.mrlove.ch
@@ -1736,7 +1763,9 @@ msk.ros-spravka.ru
 *.neekflix.net
 nef4u7k2dxv6.dreamkids974.re
 *.negronlyfans.com
+*.nejenhra.cz
 *.netu.ro
+*.nevsehirescorthub.xyz
 *.new-pron.online
 *.new-x.site
 *.newfinearts.com
@@ -1856,6 +1885,7 @@ oztkc.brevranjacla.blog
 *.patxi.es
 *.pavla.guru
 *.pbtoy.co.kr
+pd0kmb.disenubi.blog
 *.peachveilprive.com
 *.peepshowtoys.com
 *.pegginglive.cam
@@ -1888,6 +1918,7 @@ oztkc.brevranjacla.blog
 *.phimsexsuong.blog
 *.phimsextapthe69.com
 *.phimsexvietaa.com
+*.phimsexvietbj.com
 *.phimsexvietsubx.blog
 *.phimsexvietvelo.com
 *.phimsub.blog
@@ -1906,6 +1937,7 @@ pht64mnpy-object-data.nettoyagereunion.re
 *.pinayflix.gy
 *.pinayflix.id
 *.pinayflix.you
+*.pinayflix1.pro
 *.pinayot.org
 *.pinkboxb2b.com
 *.pinkboxshop.com
@@ -1980,6 +2012,7 @@ pokoyuface.cerdenergy.it
 *.porno-turkce.com
 *.porno.surf
 *.porno12.cyou
+*.porno13.cyou
 *.porno14.cyou
 *.porno31hc.cyou
 *.porno31hd.cfd
@@ -1989,6 +2022,7 @@ pokoyuface.cerdenergy.it
 *.porno80cm.site
 *.porno80cn.site
 *.porno80cx.site
+*.porno80te.site
 *.porno80tw.site
 *.porno80zr.org
 *.porno900.click
@@ -2008,6 +2042,7 @@ pokoyuface.cerdenergy.it
 *.pornocukkk.com
 *.pornodoeda45.shop
 *.pornodoeda45.site
+*.pornodoeda46.online
 *.pornodoeda46.shop
 *.pornoevooli31.cfd
 *.pornoevooli33.cfd
@@ -2247,6 +2282,7 @@ server.algeriatimes.net
 *.sexalarab39.life
 *.sexalarab41.life
 *.sexalarab44.life
+*.sexalarab45.life
 *.sexarab.cc
 *.sexarab.icu
 *.sexarab.name
@@ -2265,6 +2301,7 @@ server.algeriatimes.net
 *.sexcindy3.best
 *.sexcindy4.best
 *.sexcordobashop.com.ar
+*.sexdam69.pro
 *.sexealafrancaise.com
 *.sexescorts.net.in
 *.sexgaixinh123.com
@@ -2302,6 +2339,7 @@ server.algeriatimes.net
 *.sexsati11.skin
 *.sexsati12.skin
 *.sexsati14.skin
+*.sexsati16.skin
 *.sexsati8.skin
 *.sexshop-24.gr
 *.sexshop-berceni.ro
@@ -2380,6 +2418,7 @@ sexshopatacadao.brbrcupom.com
 *.sexthich.blog
 *.sexting-site.top
 *.sextop1vn.click
+*.sextop69.net
 *.sextopnet.com
 *.sextosentiido.com
 *.sextoy4u2.com
@@ -2523,6 +2562,7 @@ sidus.alessandrostella.it
 *.sitereview.ro
 *.sititaly.it
 *.sjoyful.com
+*.skandalindo.com.de
 *.skintwo.com
 *.sklep-bdsm.com
 *.sklep-intymny.pl
@@ -2536,6 +2576,7 @@ sidus.alessandrostella.it
 *.smstore.vn
 *.snapshop.vn
 *.snooplay.in
+*.snzk003.sbs
 *.soamazing.com
 *.soblazn-store.ru
 *.socksescort.online
@@ -2665,6 +2706,7 @@ tmscsp.scoripfragin.blog
 *.toadhalltoys.ca
 *.tochka-lubvi.ru
 *.toendi.com
+*.tokatescorthub.xyz
 *.tokenhandbook.com
 *.tolove.mx
 *.tomrockets.com
@@ -2726,6 +2768,7 @@ tulipasexshop.meudesconto.org
 *.turkceporna15.click
 *.turkceporna15.lat
 *.turkceporna16.cyou
+*.turkceporna17.click
 *.turkceporna4.click
 *.turkceporna5.shop
 *.turkceporna7.shop
@@ -2737,6 +2780,7 @@ tulipasexshop.meudesconto.org
 *.turkhub150.cfd
 *.turkhub155.cfd
 *.turkhub6c.lat
+*.turkhub6z.lat
 *.turkhub7.lat
 *.turkhub8.lat
 *.turkifsa.blog
@@ -2752,6 +2796,8 @@ tulipasexshop.meudesconto.org
 *.turkifsa43.lat
 *.turkifsa44.lat
 *.turkifsa47.lat
+*.turkifsa50.lat
+*.turkifsa51.lat
 *.turkifsa7.best
 *.turkifsa93.com
 *.turkifsa98.com
@@ -2768,6 +2814,7 @@ tulipasexshop.meudesconto.org
 *.turkifsaclub228.sbs
 *.turkifsaclub229.sbs
 *.turkifsaclub232.sbs
+*.turkifsaclub236.top
 *.turkifsago18.site
 *.turkifsago19.site
 *.turkifsago20.site
@@ -2787,8 +2834,10 @@ tulipasexshop.meudesconto.org
 *.turkifsalifenl2.site
 *.turkifsalifenl3.site
 *.turkifsalifenl7.site
+*.turkifsalifent.site
 *.turkifsami.net
 *.turkifsamin.org
+*.turkifsatelegram.biz
 *.turkifsatube.dad
 *.turkifsatube20.xyz
 *.turkifsatube24.xyz
@@ -2808,6 +2857,9 @@ tulipasexshop.meudesconto.org
 *.turkporno68.lat
 *.turkporno70.lat
 *.turkporno71.lat
+*.turkporno73.lat
+*.turkporno74.lat
+*.turkporno75.lat
 *.turktelegramifsalar.com
 *.turkzzers.net
 *.tutkusexshop.net
@@ -3043,6 +3095,8 @@ xua94na-amphtml.dreamkids974.re
 *.xxxvideosmax.com
 *.yadong16.com
 *.yadongkorea.app
+*.yalovaescorthub.xyz
+*.yaramazkizlar.com
 *.yasakelmam.com
 *.yavasgir168.live
 *.yavasgir170.live
@@ -3052,6 +3106,8 @@ xua94na-amphtml.dreamkids974.re
 *.yavasgir176.live
 *.yavasgir177.live
 *.yavasgir180.live
+*.yavasgir184.live
+*.yavasgir185.live
 *.yerelsohbet.net
 *.yesboss.pl
 *.yessir.com.br

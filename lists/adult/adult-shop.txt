@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, adult shops
-# Domains: 1,507 | Updated: 2026-11-26
+# Domains: 1,509 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/adult-shop.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -810,6 +810,7 @@ modernhouse.elandmall.co.kr
 *.moodsexshop.co.uk
 *.moodtime.co.za
 *.morethanlove.se
+*.moviejones.de
 *.mrlove.ch
 *.mrtoy.com
 *.ms-online.co.jp
@@ -843,6 +844,7 @@ msk.ros-spravka.ru
 *.nasoloda.ua
 *.naughtynights.in
 *.naughtynorth.ca
+*.nejenhra.cz
 *.netu.ro
 *.newfinearts.com
 *.nicaerotic.com

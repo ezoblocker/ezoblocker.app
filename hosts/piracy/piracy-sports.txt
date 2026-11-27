@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 547 | Updated: 2026-11-26
+# Domains: 555 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+0.0.0.0 123moviesto.cv
 0.0.0.0 4socolive.tv
 0.0.0.0 6stream.net
 0.0.0.0 7msport.com
@@ -28,6 +29,7 @@
 0.0.0.0 bestfreestreaming.org
 0.0.0.0 beststreameast.cfd
 0.0.0.0 beststreameast.site
+0.0.0.0 bola365.cc
 0.0.0.0 bola365.today
 0.0.0.0 bongdatv.me
 0.0.0.0 british.milarch.org
@@ -78,6 +80,7 @@
 0.0.0.0 crictime.com
 0.0.0.0 crictime.is
 0.0.0.0 daddylive.pk
+0.0.0.0 daddylivetv.top
 0.0.0.0 dekoora.store
 0.0.0.0 deportes.cartagena.es
 0.0.0.0 dev-forms-engine-api.brisbane.qld.gov.au
@@ -95,6 +98,7 @@
 0.0.0.0 fankoora.biz
 0.0.0.0 filmdozu.com
 0.0.0.0 filmora.wondershare.kr
+0.0.0.0 firesticktvstream.com
 0.0.0.0 firstrows.net
 0.0.0.0 firstrowsports.be
 0.0.0.0 footballbet.gr
@@ -210,6 +214,7 @@
 0.0.0.0 koorashootnews.com
 0.0.0.0 kooratop.live
 0.0.0.0 kooratv.club
+0.0.0.0 kooratv.life
 0.0.0.0 kora-star.misrlinks.com
 0.0.0.0 kora4live.surf
 0.0.0.0 koraliveivo.com
@@ -436,6 +441,7 @@
 0.0.0.0 taraftarium24-zeustv95.live
 0.0.0.0 taraftarium24.sx
 0.0.0.0 taraftarium24bjk29.com
+0.0.0.0 taraftarium24bjk32.com
 0.0.0.0 taraftarium24soturkiye.org
 0.0.0.0 taraftarium24turkiyetv.net
 0.0.0.0 tarjeta-roja.live
@@ -508,6 +514,7 @@
 0.0.0.0 watch.onesoccer.ca
 0.0.0.0 welcome.blasttv.ph
 0.0.0.0 www.mae.gov.bi
+0.0.0.0 www.smc.panevezys.lm.lt
 0.0.0.0 xoilac-tv1.org
 0.0.0.0 xoilac1.help
 0.0.0.0 xoilac3.cc
@@ -530,6 +537,7 @@
 0.0.0.0 xoilacvbm.tv
 0.0.0.0 xoilacvbq.tv
 0.0.0.0 xoilacvck.tv
+0.0.0.0 xoilacvcm.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv

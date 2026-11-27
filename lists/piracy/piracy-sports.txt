@@ -1,9 +1,10 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 547 | Updated: 2026-11-26
+# Domains: 555 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
+*.123moviesto.cv
 *.4socolive.tv
 *.6stream.net
 *.7msport.com
@@ -28,6 +29,7 @@ beinsports.satellite-tv.tv
 *.bestfreestreaming.org
 *.beststreameast.cfd
 *.beststreameast.site
+*.bola365.cc
 *.bola365.today
 *.bongdatv.me
 british.milarch.org
@@ -78,6 +80,7 @@ clare.gaa.ie
 *.crictime.com
 *.crictime.is
 *.daddylive.pk
+*.daddylivetv.top
 *.dekoora.store
 deportes.cartagena.es
 dev-forms-engine-api.brisbane.qld.gov.au
@@ -95,6 +98,7 @@ estonia.klaudiasimiot.pl
 *.fankoora.biz
 *.filmdozu.com
 filmora.wondershare.kr
+*.firesticktvstream.com
 *.firstrows.net
 *.firstrowsports.be
 *.footballbet.gr
@@ -210,6 +214,7 @@ kooora.misrlinks.com
 *.koorashootnews.com
 *.kooratop.live
 *.kooratv.club
+*.kooratv.life
 kora-star.misrlinks.com
 *.kora4live.surf
 *.koraliveivo.com
@@ -436,6 +441,7 @@ t.matec.kr
 *.taraftarium24-zeustv95.live
 *.taraftarium24.sx
 *.taraftarium24bjk29.com
+*.taraftarium24bjk32.com
 *.taraftarium24soturkiye.org
 *.taraftarium24turkiyetv.net
 *.tarjeta-roja.live
@@ -508,6 +514,7 @@ viet.jajag.me
 watch.onesoccer.ca
 welcome.blasttv.ph
 www.mae.gov.bi
+www.smc.panevezys.lm.lt
 *.xoilac-tv1.org
 *.xoilac1.help
 *.xoilac3.cc
@@ -530,6 +537,7 @@ www.mae.gov.bi
 *.xoilacvbm.tv
 *.xoilacvbq.tv
 *.xoilacvck.tv
+*.xoilacvcm.tv
 *.xoilacvn.app
 *.xoilacvn.net
 *.xoilacxbk.tv

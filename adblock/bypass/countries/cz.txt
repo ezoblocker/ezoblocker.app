@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Bypass, Czechia (cz)
-! Domains: 12 | Updated: 2026-11-26
+! Domains: 13 | Updated: 2026-11-27
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/bypass/countries/cz.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,6 +10,7 @@
 ||hideip.net^
 |maturita.cermat.cz^
 |msk.ezak.cz^
+||smartdnscloud.com^
 |wiki5.ispadmin.eu^
 |zakazky.ceproas.cz^
 |zakazky.eagri.cz^

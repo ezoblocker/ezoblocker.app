@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Bypass
-# Domains: 206 | Updated: 2026-11-26
+# Domains: 207 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/bypass/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -133,6 +133,7 @@ psiphon.sooftware.com
 *.shield-way.com
 shinobi-vpn-gtm-noload.apk.cafe
 *.siamproxy.com
+*.smartdnscloud.com
 *.smartproxy.cn
 *.smartproxy.es
 *.smartproxy.fr

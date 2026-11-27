@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling, Japan (jp)
-! Domains: 36 | Updated: 2026-11-26
+! Domains: 38 | Updated: 2026-11-27
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/countries/jp.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -38,5 +38,7 @@
 ||sportsbetinjapan.com^
 ||verajohn-jp.com^
 ||verajohnglobal.com^
+||vip-rady-e.net^
+||wondercasino.org^
 ||xn--lck0abc6eo1a7f6a80a.jp^
 ||xn--u9jxfraf9dygrh1cc8466k16c.com^

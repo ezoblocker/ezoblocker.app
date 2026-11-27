@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Ireland (ie)
-# Domains: 32 | Updated: 2026-11-26
+# Domains: 34 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/ie.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -16,6 +16,7 @@
 0.0.0.0 bestiptvireland.store
 0.0.0.0 clare.gaa.ie
 0.0.0.0 crackstreamsmax.site
+0.0.0.0 firesticktvstream.com
 0.0.0.0 firstrows.net
 0.0.0.0 firstrowsports.be
 0.0.0.0 info.rugbypass.tv
@@ -26,6 +27,7 @@
 0.0.0.0 iptvsmarter.irish
 0.0.0.0 irishiptv.info
 0.0.0.0 irishiptv.irish
+0.0.0.0 irishiptv.store
 0.0.0.0 mangakakalot.to
 0.0.0.0 smartiptv.irish
 0.0.0.0 sportsstream.us

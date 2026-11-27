@@ -1,13 +1,15 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,343 | Updated: 2026-11-26
+# Domains: 1,376 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.0gomovies.one
 0jb7na1ub3-amphtml.sear.lu
+*.123moviehub.net
 *.123movieputlockers.com
 *.123moviesflix.me
+*.123moviesto.cv
 *.123putlockers.me
 *.1337x.com.im
 *.1kuttymovies.pro
@@ -131,6 +133,7 @@ beinsports.satellite-tv.tv
 *.bflix.mx
 *.bioskop-keren.com
 blueassist.bluecard.com.ec
+*.bola365.cc
 *.bola365.today
 *.bolly4uz.com
 *.bombuj.si
@@ -227,6 +230,7 @@ coronavirus.natal.rn.gov.br
 *.cuevanaz.biz
 cz.opdeb.com
 *.daddylive.pk
+*.daddylivetv.top
 *.darkino.fr
 db.iptv.blog
 *.ddizibox.com
@@ -276,6 +280,8 @@ dovik.ferit.hr
 *.drakorid.co
 *.dreamfilmsw.se
 drecov.pandaoffice.com
+*.duniafilm.cfd
+*.dvdplay.courses
 edu.gebbs.com
 *.egybesstt.asia
 *.egybesstt.baby
@@ -289,6 +295,7 @@ edu.gebbs.com
 *.egybesstt.rest
 *.egybesstt.space
 *.egybesstt.today
+*.egybesstt.work
 *.egybesstt1.bond
 *.egybesstt1.live
 *.egybest-real.bitbucket.io
@@ -335,10 +342,13 @@ farmacia.vilhena.ro.gov.br
 *.filmmakinesi.to
 filmora.wondershare.kr
 *.filmpalast.de
+*.filmywap.moi
 *.filmywap.poker
 *.filmyzilla.holiday
 *.filmyzilla1.in
 *.filmyzilla76.in
+*.filmyzilla90.com.in
+*.firesticktvstream.com
 *.firstrows.net
 *.firstrowsports.be
 fishing.adcomm.kr
@@ -460,6 +470,7 @@ google-play.en.softmany.com
 *.greekddl.gr
 *.greekstream.net
 *.guardaserie.foo
+*.guardoseries.autos
 guest.ovgorskiy.ru
 gwy.contdocagi.blog
 *.happymod.to
@@ -503,9 +514,12 @@ hdfilm-izle.website.org
 *.hintfilmizle.com
 homepage.nusens.net
 *.icc-cricket.com
+*.icuevana3.art
 *.icuevana3.cam
 *.icuevana3.mobi
+*.idlix.za.com
 *.ikinogo.io
+*.ikinogo.one
 image.schrack.com
 *.indoxxidlix.vip
 info.rugbypass.tv
@@ -539,10 +553,13 @@ iptv-portugal.youcan.store
 *.iptvukservice.com
 *.irishiptv.info
 *.irishiptv.irish
+*.irishiptv.store
 *.isaimini.beauty
 *.isaimini.doctor
+*.isaimini.here
 *.isaimini.men
 *.isaimini.poker
+*.isaimini.sale
 *.isaimini.spot
 *.isaiminimoviesda.com
 *.isaiminix.com
@@ -607,6 +624,7 @@ kooora.misrlinks.com
 *.kooora4live.website
 *.kooora4lives.one
 *.koooratv.quest
+*.koora-live.ink
 *.koora.com
 *.koora4ever.net
 *.koora4live.today
@@ -626,6 +644,7 @@ kooora.misrlinks.com
 *.koorashootnews.com
 *.kooratop.live
 *.kooratv.club
+*.kooratv.life
 kora-star.misrlinks.com
 *.kora4live.surf
 *.koraliveivo.com
@@ -688,6 +707,7 @@ live.pcb.com.pk
 livetv.tv-vlaanderen.be
 *.liveyallashot0.xyz
 *.lk21-layarkaca21.com
+*.lk21.living
 *.lk21layarkaca21.online
 *.lk21layarkaca21.shop
 *.lk21layarkaca21.xyz
@@ -699,6 +719,7 @@ lordfilm-hd.mirfilm.net
 *.lordfilm.fi
 *.lordfilms.pub
 *.lordfilms.pw
+*.luffyindex.pages.dev
 *.lxmovie-8d4.pages.dev
 m.3smedi.co.kr
 m.8513.co.kr
@@ -718,6 +739,7 @@ m.snrtbotola.ma
 mangakakalot-manga-webtoon.softonic.jp
 *.mangakakalot.to
 *.mangathaiplus.com
+*.masstamilan.love
 matches.arriyadiyah.com
 *.maxcine.com.br
 *.mecze24.pl
@@ -751,6 +773,7 @@ mooreok.govbuilt.com
 *.mostbet-fit.pages.dev
 *.mostbet.fit
 *.motphimchill.hair
+*.motphimchilll.art
 *.motphimchilll.fun
 *.motphimmoi.org
 *.motphimtv.club
@@ -760,6 +783,7 @@ mooreok.govbuilt.com
 *.movierulz.casa
 *.movierulz.center
 *.movierulzpk.pro
+*.moviesda.plus
 *.moviesflix.com.im
 *.moviesflixdl.com
 *.moviesflixdl.org
@@ -832,6 +856,7 @@ online.tainiothiki.gr
 *.oyunindir.vip
 *.oziptv.com
 *.pacman.live
+*.pagalworld.courses
 *.pandora.net
 *.papystreaming.one
 *.pdfkitapkurdu.blogspot.com
@@ -868,7 +893,9 @@ phimmoi.doraflixvn.com
 *.phimmoic.ws
 *.phimmoichill.autos
 *.phimmoii.bid
+*.phimmoii.mx
 *.phimmoii.my
+*.phimmoii.sale
 *.phimmoiw.to
 phutu.forumvi.com
 *.pinoyanimegroup.com
@@ -877,6 +904,7 @@ phutu.forumvi.com
 *.pinoyflixtambayan.net
 *.pinoymoviepedia.ru
 *.pinoymovieshub.org
+*.pinoystvtambayan.com
 *.piratebayproxylist.github.io
 pirlotv-futbol-en-vivo-directo.apps112.com
 *.pirlotv-hd.asia
@@ -1118,6 +1146,7 @@ streamfab.dvdfab.fr
 *.streamsport.ie
 *.strims.com.pl
 *.strimstv.pl
+*.subindo.co.uk
 suisse.moniptv.ch
 sukebei.nyaa.mom
 *.superfilmizle.org
@@ -1129,6 +1158,7 @@ sukebei.nyaa.mom
 *.swissiptv.online
 *.swissiptv.tv
 t.matec.kr
+*.tamilplay.courses
 *.taraftarium.pro
 *.taraftarium24-aslan5.com
 *.taraftarium24-lig15.com
@@ -1139,6 +1169,7 @@ t.matec.kr
 *.taraftarium24-zeustv95.live
 *.taraftarium24.sx
 *.taraftarium24bjk29.com
+*.taraftarium24bjk32.com
 *.taraftarium24soturkiye.org
 *.taraftarium24turkiyetv.net
 *.tarjeta-roja.live
@@ -1293,6 +1324,7 @@ www.kino.nowytarg.pl
 www.mae.gov.bi
 www.openjournals.ijaar.org
 www.shop.lppa.org
+www.smc.panevezys.lm.lt
 www.tosho3704.tokyo-bousai.or.jp
 www1.gill-line.com
 www2.gema.org
@@ -1318,6 +1350,7 @@ www2.gema.org
 *.xoilacvbm.tv
 *.xoilacvbq.tv
 *.xoilacvck.tv
+*.xoilacvcm.tv
 *.xoilacvn.app
 *.xoilacvn.net
 *.xoilacxbk.tv

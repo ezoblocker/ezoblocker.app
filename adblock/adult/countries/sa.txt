@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Saudi Arabia (sa)
-! Domains: 50 | Updated: 2026-11-26
+! Domains: 54 | Updated: 2026-11-27
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/sa.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -24,11 +24,13 @@
 |fm.milarch.org^
 |geoikp.operandum-project.eu^
 |jth3no15vtk-css-import.nettoyagereunion.re^
+|lenmdrqk.sudabeta.blog^
 ||maziona.online^
 ||neekarabi.com^
 ||neekflix.net^
 |nef4u7k2dxv6.dreamkids974.re^
 ||nikalarab.com^
+|pd0kmb.disenubi.blog^
 |pkybugx7s-amphtml.esswe10.lt^
 ||rajwa.shop^
 ||saudiporn.com^
@@ -38,10 +40,12 @@
 ||sexalarab38.life^
 ||sexalarab39.life^
 ||sexalarab41.life^
+||sexalarab45.life^
 ||sexsati.sex^
 ||sexsati11.skin^
 ||sexsati12.skin^
 ||sexsati14.skin^
+||sexsati16.skin^
 ||sexsati8.skin^
 ||shop-up.online^
 |www.vio.milarch.org^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating, chat rooms and random video chat
-# Domains: 426 | Updated: 2026-11-26
+# Domains: 429 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/dating/dating-chat.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -150,6 +150,7 @@ coomeet.apkgold.ae
 *.dardasha.net
 deai.app-liv.jp
 *.deincamchat.de
+*.desichatclub.com
 dhdjjvoxofo7.nettoyagereunion.re
 djdongdoes.djsch.kr
 *.dostichatroom.com
@@ -354,6 +355,7 @@ sohbet.mobildetek.com
 *.sohbetcenneti.org
 *.sohbetche.net
 *.sohbetci.com
+*.sohbetcity.net
 *.sohbetimsen.net
 *.sohbetlive.com
 *.sohbetse.net
@@ -406,6 +408,7 @@ taay.soniadalka.pl
 uppsala.boj.se
 uppsala.hjarnkoll.se
 urdu.chat.org.in
+v3uwmrli8.rostayasha.blog
 vard.regionstockholm.se
 vard.skane.se
 *.videochatar.com

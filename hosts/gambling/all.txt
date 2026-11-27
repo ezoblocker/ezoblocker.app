@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling
-# Domains: 957,670 | Updated: 2026-11-26
+# Domains: 957,692 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1232,6 +1232,7 @@
 0.0.0.0 10047bets10.com
 0.0.0.0 10048bets10.com
 0.0.0.0 10049bets10.com
+0.0.0.0 10051bets10.com
 0.0.0.0 10054jojobet.com
 0.0.0.0 1008-royal-reels-casino-australia-site.pages.dev
 0.0.0.0 1008-royal-reels-pandaoshop-com.pages.dev
@@ -16951,6 +16952,7 @@
 0.0.0.0 2rbetvip8.com
 0.0.0.0 2reiting-casino.ru
 0.0.0.0 2retrobet.com
+0.0.0.0 2riverswater.com
 0.0.0.0 2royalreels.com
 0.0.0.0 2royalreels.org
 0.0.0.0 2royalreels20.net
@@ -23443,6 +23445,7 @@
 0.0.0.0 55bmwslotcasino55.com
 0.0.0.0 55bmwslotcasinobet.com
 0.0.0.0 55bombeirosbet.com
+0.0.0.0 55bonusu.com
 0.0.0.0 55c-casino.com
 0.0.0.0 55c-casino.sa.com
 0.0.0.0 55casino.net
@@ -39009,6 +39012,7 @@
 0.0.0.0 915tumbet.com
 0.0.0.0 915xslot.com
 0.0.0.0 916bets10.com
+0.0.0.0 916betticket.com
 0.0.0.0 916pokerdepot.com
 0.0.0.0 916tumbet.com
 0.0.0.0 916xslot.com
@@ -46304,6 +46308,7 @@
 0.0.0.0 afbslotgaming.com
 0.0.0.0 afc69-slotfavorit.pages.dev
 0.0.0.0 afc888slot.com
+0.0.0.0 afceamontgomery.org
 0.0.0.0 afcslot.org
 0.0.0.0 afctslottogel.pages.dev
 0.0.0.0 afcwestend-lp-apigacor88.pages.dev
@@ -104540,6 +104545,7 @@
 0.0.0.0 belugabahis-resmiadresi.icu
 0.0.0.0 belugabahis1232.com
 0.0.0.0 belugabahis1235.com
+0.0.0.0 belugabahis1236.com
 0.0.0.0 belugabetting.com
 0.0.0.0 belumpernah-slotgacor.pages.dev
 0.0.0.0 belutjp-slotgacor.pages.dev
@@ -114792,6 +114798,7 @@
 0.0.0.0 betasusgiris.us.com
 0.0.0.0 betasusgiris1.net
 0.0.0.0 betasusgirisi.net
+0.0.0.0 betasusgirisi1.com
 0.0.0.0 betasusgirissitesi.com
 0.0.0.0 betasusgirisyap.it.com
 0.0.0.0 betasusguncel.co
@@ -153564,6 +153571,7 @@
 0.0.0.0 bkktotoplay.shop
 0.0.0.0 bkkwin.bio
 0.0.0.0 bkkwin1.com
+0.0.0.0 bklnk.com
 0.0.0.0 bkmasreg.com
 0.0.0.0 bkmc-slot-gacor.pages.dev
 0.0.0.0 bkolimp.kg
@@ -162195,6 +162203,7 @@
 0.0.0.0 bonusonlinekasino.de
 0.0.0.0 bonusonlinepoker.co.uk
 0.0.0.0 bonusonlinepokies.com
+0.0.0.0 bonusotel.com
 0.0.0.0 bonuspala.com
 0.0.0.0 bonusparisportif.com
 0.0.0.0 bonusparissportifs-ca.pages.dev
@@ -244417,6 +244426,7 @@
 0.0.0.0 casinosnotongamstopsites.co.uk
 0.0.0.0 casinosnotongamstoptips.com
 0.0.0.0 casinosnotongamstopuk.co
+0.0.0.0 casinosnotongamuknokyc.co
 0.0.0.0 casinosnotwithgamstop.com
 0.0.0.0 casinosnova.com
 0.0.0.0 casinosnovatrix.com
@@ -303384,6 +303394,7 @@
 0.0.0.0 dog69slotgacor.pages.dev
 0.0.0.0 dogalgazfatura.com.tr
 0.0.0.0 dogalsifalibitkiler.com.tr
+0.0.0.0 dogandbonecases.com
 0.0.0.0 dogbarpoker.com
 0.0.0.0 doge-casino.ca
 0.0.0.0 dogeau-casino.com
@@ -349677,6 +349688,7 @@
 0.0.0.0 furtunasloturi.ro
 0.0.0.0 fury-casino.net
 0.0.0.0 fury-slots.org
+0.0.0.0 fury-sportfishing.com
 0.0.0.0 fury69-slotfog.pages.dev
 0.0.0.0 fury69-slotgriffin.pages.dev
 0.0.0.0 fury77-slotcosmic.pages.dev
@@ -360136,6 +360148,7 @@
 0.0.0.0 gclubslot.win
 0.0.0.0 gcmannvilleinstitute.com
 0.0.0.0 gcolechin.com
+0.0.0.0 gcplaying234.com
 0.0.0.0 gcplaying239.com
 0.0.0.0 gcpmarket.com
 0.0.0.0 gcr-spinbet99.pages.dev
@@ -403093,6 +403106,7 @@
 0.0.0.0 hoywinregister.pages.dev
 0.0.0.0 hoywins.com
 0.0.0.0 hoywinvip.com
+0.0.0.0 hozchip.org.uk
 0.0.0.0 hp-pandaslot55.xyz
 0.0.0.0 hp777-casino.vip
 0.0.0.0 hp777judionline.com
@@ -472554,6 +472568,7 @@
 0.0.0.0 kombinasi-slot-gacor.pages.dev
 0.0.0.0 kombinasipoker.com
 0.0.0.0 kombinasislotmahjong.pages.dev
+0.0.0.0 kombinebahis.com
 0.0.0.0 kombo-ladang-gacor.pages.dev
 0.0.0.0 kombo888883win.site
 0.0.0.0 kombo888885win.site
@@ -571216,6 +571231,7 @@
 0.0.0.0 motobolapoker.link
 0.0.0.0 motobolaslot-id.pages.dev
 0.0.0.0 motobolaslot-uvtam.pages.dev
+0.0.0.0 motobrixton.fr
 0.0.0.0 motogp-apuestas.pages.dev
 0.0.0.0 motojenik.com.tr
 0.0.0.0 motomerdekatoto.pages.dev
@@ -607574,6 +607590,7 @@
 0.0.0.0 nvccasino.com.pl
 0.0.0.0 nvenlignecasino-com-9b5746.pages.dev
 0.0.0.0 nvenlignecasino-net-fe75ae.pages.dev
+0.0.0.0 nvensemble.nl
 0.0.0.0 nvfrcasino.com
 0.0.0.0 nvg-school-mktjago.pages.dev
 0.0.0.0 nvg-school-pastibayardong.pages.dev
@@ -691178,6 +691195,7 @@
 0.0.0.0 pushkinbet.ru
 0.0.0.0 pushpartycasinos.com
 0.0.0.0 pushpkrok.ru
+0.0.0.0 pushupsforcharity.com
 0.0.0.0 pusing-ya-lawan-togel-macau.pages.dev
 0.0.0.0 puskesmasgacorcok.pages.dev
 0.0.0.0 puskesmasgampanggacor.pages.dev
@@ -738130,6 +738148,7 @@
 0.0.0.0 rugbystaronlineslots.com
 0.0.0.0 rugbyunionbettingodds.com
 0.0.0.0 rugbywinnerslottery.com
+0.0.0.0 rugged-mounts.com
 0.0.0.0 ruggell-casino.ch
 0.0.0.0 ruggellcasino.ch
 0.0.0.0 rugi777com-betting.pages.dev
@@ -752446,6 +752465,7 @@
 0.0.0.0 shambhubetlogin.com
 0.0.0.0 shambobet.com
 0.0.0.0 shambobet.org
+0.0.0.0 shamianatakeaway.co.uk
 0.0.0.0 shammiprasadcasino.co.uk
 0.0.0.0 shamobet.bet
 0.0.0.0 shamobet.com
@@ -900134,6 +900154,7 @@
 0.0.0.0 vip-r7-cazinos.top
 0.0.0.0 vip-r7-cazinos.website
 0.0.0.0 vip-r7-cazinos.world
+0.0.0.0 vip-rady-e.net
 0.0.0.0 vip-rajaslot80.site
 0.0.0.0 vip-restbet-vip-oyun-top.pages.dev
 0.0.0.0 vip-riobetkazino7.life
@@ -902237,6 +902258,7 @@
 0.0.0.0 vipspin-win.pages.dev
 0.0.0.0 vipspin372.com
 0.0.0.0 vipspin379.com
+0.0.0.0 vipspin382.com
 0.0.0.0 vipspincasino.net
 0.0.0.0 vipspinscasino.uk.com
 0.0.0.0 vipsportorg-bos-cuan.pages.dev

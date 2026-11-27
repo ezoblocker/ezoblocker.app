@@ -1,13 +1,15 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,343 | Updated: 2026-11-26
+# Domains: 1,376 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 0gomovies.one
 0.0.0.0 0jb7na1ub3-amphtml.sear.lu
+0.0.0.0 123moviehub.net
 0.0.0.0 123movieputlockers.com
 0.0.0.0 123moviesflix.me
+0.0.0.0 123moviesto.cv
 0.0.0.0 123putlockers.me
 0.0.0.0 1337x.com.im
 0.0.0.0 1kuttymovies.pro
@@ -131,6 +133,7 @@
 0.0.0.0 bflix.mx
 0.0.0.0 bioskop-keren.com
 0.0.0.0 blueassist.bluecard.com.ec
+0.0.0.0 bola365.cc
 0.0.0.0 bola365.today
 0.0.0.0 bolly4uz.com
 0.0.0.0 bombuj.si
@@ -227,6 +230,7 @@
 0.0.0.0 cuevanaz.biz
 0.0.0.0 cz.opdeb.com
 0.0.0.0 daddylive.pk
+0.0.0.0 daddylivetv.top
 0.0.0.0 darkino.fr
 0.0.0.0 db.iptv.blog
 0.0.0.0 ddizibox.com
@@ -276,6 +280,8 @@
 0.0.0.0 drakorid.co
 0.0.0.0 dreamfilmsw.se
 0.0.0.0 drecov.pandaoffice.com
+0.0.0.0 duniafilm.cfd
+0.0.0.0 dvdplay.courses
 0.0.0.0 edu.gebbs.com
 0.0.0.0 egybesstt.asia
 0.0.0.0 egybesstt.baby
@@ -289,6 +295,7 @@
 0.0.0.0 egybesstt.rest
 0.0.0.0 egybesstt.space
 0.0.0.0 egybesstt.today
+0.0.0.0 egybesstt.work
 0.0.0.0 egybesstt1.bond
 0.0.0.0 egybesstt1.live
 0.0.0.0 egybest-real.bitbucket.io
@@ -335,10 +342,13 @@
 0.0.0.0 filmmakinesi.to
 0.0.0.0 filmora.wondershare.kr
 0.0.0.0 filmpalast.de
+0.0.0.0 filmywap.moi
 0.0.0.0 filmywap.poker
 0.0.0.0 filmyzilla.holiday
 0.0.0.0 filmyzilla1.in
 0.0.0.0 filmyzilla76.in
+0.0.0.0 filmyzilla90.com.in
+0.0.0.0 firesticktvstream.com
 0.0.0.0 firstrows.net
 0.0.0.0 firstrowsports.be
 0.0.0.0 fishing.adcomm.kr
@@ -460,6 +470,7 @@
 0.0.0.0 greekddl.gr
 0.0.0.0 greekstream.net
 0.0.0.0 guardaserie.foo
+0.0.0.0 guardoseries.autos
 0.0.0.0 guest.ovgorskiy.ru
 0.0.0.0 gwy.contdocagi.blog
 0.0.0.0 happymod.to
@@ -503,9 +514,12 @@
 0.0.0.0 hintfilmizle.com
 0.0.0.0 homepage.nusens.net
 0.0.0.0 icc-cricket.com
+0.0.0.0 icuevana3.art
 0.0.0.0 icuevana3.cam
 0.0.0.0 icuevana3.mobi
+0.0.0.0 idlix.za.com
 0.0.0.0 ikinogo.io
+0.0.0.0 ikinogo.one
 0.0.0.0 image.schrack.com
 0.0.0.0 indoxxidlix.vip
 0.0.0.0 info.rugbypass.tv
@@ -539,10 +553,13 @@
 0.0.0.0 iptvukservice.com
 0.0.0.0 irishiptv.info
 0.0.0.0 irishiptv.irish
+0.0.0.0 irishiptv.store
 0.0.0.0 isaimini.beauty
 0.0.0.0 isaimini.doctor
+0.0.0.0 isaimini.here
 0.0.0.0 isaimini.men
 0.0.0.0 isaimini.poker
+0.0.0.0 isaimini.sale
 0.0.0.0 isaimini.spot
 0.0.0.0 isaiminimoviesda.com
 0.0.0.0 isaiminix.com
@@ -607,6 +624,7 @@
 0.0.0.0 kooora4live.website
 0.0.0.0 kooora4lives.one
 0.0.0.0 koooratv.quest
+0.0.0.0 koora-live.ink
 0.0.0.0 koora.com
 0.0.0.0 koora4ever.net
 0.0.0.0 koora4live.today
@@ -626,6 +644,7 @@
 0.0.0.0 koorashootnews.com
 0.0.0.0 kooratop.live
 0.0.0.0 kooratv.club
+0.0.0.0 kooratv.life
 0.0.0.0 kora-star.misrlinks.com
 0.0.0.0 kora4live.surf
 0.0.0.0 koraliveivo.com
@@ -688,6 +707,7 @@
 0.0.0.0 livetv.tv-vlaanderen.be
 0.0.0.0 liveyallashot0.xyz
 0.0.0.0 lk21-layarkaca21.com
+0.0.0.0 lk21.living
 0.0.0.0 lk21layarkaca21.online
 0.0.0.0 lk21layarkaca21.shop
 0.0.0.0 lk21layarkaca21.xyz
@@ -699,6 +719,7 @@
 0.0.0.0 lordfilm.fi
 0.0.0.0 lordfilms.pub
 0.0.0.0 lordfilms.pw
+0.0.0.0 luffyindex.pages.dev
 0.0.0.0 lxmovie-8d4.pages.dev
 0.0.0.0 m.3smedi.co.kr
 0.0.0.0 m.8513.co.kr
@@ -718,6 +739,7 @@
 0.0.0.0 mangakakalot-manga-webtoon.softonic.jp
 0.0.0.0 mangakakalot.to
 0.0.0.0 mangathaiplus.com
+0.0.0.0 masstamilan.love
 0.0.0.0 matches.arriyadiyah.com
 0.0.0.0 maxcine.com.br
 0.0.0.0 mecze24.pl
@@ -751,6 +773,7 @@
 0.0.0.0 mostbet-fit.pages.dev
 0.0.0.0 mostbet.fit
 0.0.0.0 motphimchill.hair
+0.0.0.0 motphimchilll.art
 0.0.0.0 motphimchilll.fun
 0.0.0.0 motphimmoi.org
 0.0.0.0 motphimtv.club
@@ -760,6 +783,7 @@
 0.0.0.0 movierulz.casa
 0.0.0.0 movierulz.center
 0.0.0.0 movierulzpk.pro
+0.0.0.0 moviesda.plus
 0.0.0.0 moviesflix.com.im
 0.0.0.0 moviesflixdl.com
 0.0.0.0 moviesflixdl.org
@@ -832,6 +856,7 @@
 0.0.0.0 oyunindir.vip
 0.0.0.0 oziptv.com
 0.0.0.0 pacman.live
+0.0.0.0 pagalworld.courses
 0.0.0.0 pandora.net
 0.0.0.0 papystreaming.one
 0.0.0.0 pdfkitapkurdu.blogspot.com
@@ -868,7 +893,9 @@
 0.0.0.0 phimmoic.ws
 0.0.0.0 phimmoichill.autos
 0.0.0.0 phimmoii.bid
+0.0.0.0 phimmoii.mx
 0.0.0.0 phimmoii.my
+0.0.0.0 phimmoii.sale
 0.0.0.0 phimmoiw.to
 0.0.0.0 phutu.forumvi.com
 0.0.0.0 pinoyanimegroup.com
@@ -877,6 +904,7 @@
 0.0.0.0 pinoyflixtambayan.net
 0.0.0.0 pinoymoviepedia.ru
 0.0.0.0 pinoymovieshub.org
+0.0.0.0 pinoystvtambayan.com
 0.0.0.0 piratebayproxylist.github.io
 0.0.0.0 pirlotv-futbol-en-vivo-directo.apps112.com
 0.0.0.0 pirlotv-hd.asia
@@ -1118,6 +1146,7 @@
 0.0.0.0 streamsport.ie
 0.0.0.0 strims.com.pl
 0.0.0.0 strimstv.pl
+0.0.0.0 subindo.co.uk
 0.0.0.0 suisse.moniptv.ch
 0.0.0.0 sukebei.nyaa.mom
 0.0.0.0 superfilmizle.org
@@ -1129,6 +1158,7 @@
 0.0.0.0 swissiptv.online
 0.0.0.0 swissiptv.tv
 0.0.0.0 t.matec.kr
+0.0.0.0 tamilplay.courses
 0.0.0.0 taraftarium.pro
 0.0.0.0 taraftarium24-aslan5.com
 0.0.0.0 taraftarium24-lig15.com
@@ -1139,6 +1169,7 @@
 0.0.0.0 taraftarium24-zeustv95.live
 0.0.0.0 taraftarium24.sx
 0.0.0.0 taraftarium24bjk29.com
+0.0.0.0 taraftarium24bjk32.com
 0.0.0.0 taraftarium24soturkiye.org
 0.0.0.0 taraftarium24turkiyetv.net
 0.0.0.0 tarjeta-roja.live
@@ -1293,6 +1324,7 @@
 0.0.0.0 www.mae.gov.bi
 0.0.0.0 www.openjournals.ijaar.org
 0.0.0.0 www.shop.lppa.org
+0.0.0.0 www.smc.panevezys.lm.lt
 0.0.0.0 www.tosho3704.tokyo-bousai.or.jp
 0.0.0.0 www1.gill-line.com
 0.0.0.0 www2.gema.org
@@ -1318,6 +1350,7 @@
 0.0.0.0 xoilacvbm.tv
 0.0.0.0 xoilacvbq.tv
 0.0.0.0 xoilacvck.tv
+0.0.0.0 xoilacvcm.tv
 0.0.0.0 xoilacvn.app
 0.0.0.0 xoilacvn.net
 0.0.0.0 xoilacxbk.tv

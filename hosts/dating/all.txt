@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,419 | Updated: 2026-11-26
+# Domains: 1,423 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -306,6 +306,7 @@
 0.0.0.0 delhi.idbf.in
 0.0.0.0 deluxemardinescort.xyz
 0.0.0.0 denver.bonepage.com
+0.0.0.0 desichatclub.com
 0.0.0.0 dev-web.sgrbk.com
 0.0.0.0 dhdjjvoxofo7.nettoyagereunion.re
 0.0.0.0 dialhookups.com
@@ -515,6 +516,7 @@
 0.0.0.0 gabilesohbet.net
 0.0.0.0 gaigoi.date
 0.0.0.0 gaigoi3.vc
+0.0.0.0 gaigoi4.vc
 0.0.0.0 gaigoihaiphong.xyz
 0.0.0.0 gaigoihanoivip2.vncns.com
 0.0.0.0 gaigoihanoivip7.vncns.com
@@ -1170,6 +1172,7 @@
 0.0.0.0 sohbetci.com
 0.0.0.0 sohbetci.com.tr
 0.0.0.0 sohbetci.net
+0.0.0.0 sohbetcity.net
 0.0.0.0 sohbethane.net
 0.0.0.0 sohbetimsen.net
 0.0.0.0 sohbetlive.com
@@ -1337,6 +1340,7 @@
 0.0.0.0 us.ondate.com
 0.0.0.0 usasexguide.nl
 0.0.0.0 uscasualencounters.com
+0.0.0.0 v3uwmrli8.rostayasha.blog
 0.0.0.0 valenzuelaph.assortlist.com
 0.0.0.0 vancouver.bonepage.com
 0.0.0.0 vard.regionstockholm.se

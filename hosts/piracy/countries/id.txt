@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, Indonesia (id)
-# Domains: 47 | Updated: 2026-11-26
+# Domains: 48 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/countries/id.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -8,6 +8,7 @@
 0.0.0.0 anoboy.forum
 0.0.0.0 anoboy.quest
 0.0.0.0 bioskop-keren.com
+0.0.0.0 bola365.cc
 0.0.0.0 bola365.today
 0.0.0.0 drakorid.co
 0.0.0.0 estonia.klaudiasimiot.pl

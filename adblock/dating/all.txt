@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating
-! Domains: 1,419 | Updated: 2026-11-26
+! Domains: 1,423 | Updated: 2026-11-27
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -306,6 +306,7 @@
 |delhi.idbf.in^
 ||deluxemardinescort.xyz^
 |denver.bonepage.com^
+||desichatclub.com^
 |dev-web.sgrbk.com^
 |dhdjjvoxofo7.nettoyagereunion.re^
 ||dialhookups.com^
@@ -515,6 +516,7 @@
 ||gabilesohbet.net^
 ||gaigoi.date^
 ||gaigoi3.vc^
+||gaigoi4.vc^
 ||gaigoihaiphong.xyz^
 |gaigoihanoivip2.vncns.com^
 |gaigoihanoivip7.vncns.com^
@@ -1170,6 +1172,7 @@
 ||sohbetci.com^
 ||sohbetci.com.tr^
 ||sohbetci.net^
+||sohbetcity.net^
 ||sohbethane.net^
 ||sohbetimsen.net^
 ||sohbetlive.com^
@@ -1337,6 +1340,7 @@
 |us.ondate.com^
 ||usasexguide.nl^
 ||uscasualencounters.com^
+|v3uwmrli8.rostayasha.blog^
 |valenzuelaph.assortlist.com^
 |vancouver.bonepage.com^
 |vard.regionstockholm.se^
