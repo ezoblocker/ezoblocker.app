@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Security
-! Domains: 72,272 | Updated: 2026-11-27
+! Domains: 72,275 | Updated: 2026-11-27
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1714,7 +1714,6 @@
 ||akbank-4us.pages.dev^
 ||akbank-data.pages.dev^
 ||akbank-interface.com^
-||akbank-tr.biz^
 ||akbank-tr.info^
 ||akbank-tr.live^
 ||akbank-tr.pro^
@@ -1885,6 +1884,7 @@
 ||amazonmakeup.pages.dev^
 |amazonodi462.exooolj.email^
 ||amazonoffers.pages.dev^
+||amazononline.pro^
 ||amazonotp.pages.dev^
 ||amazonpro.pages.dev^
 ||amazonproject-ck7.pages.dev^
@@ -3655,7 +3655,6 @@
 ||aramexdelivery-glsgroup.com.ph^
 ||arbeitsagentur-jobcenter-erotikjob.de^
 ||arc-ledger-com-start.pages.dev^
-|archer.westeurope.cloudapp.azure.com^
 ||arciumint.pages.dev^
 ||arciumyield.com^
 ||arcticvaltrixai.org^
@@ -7074,6 +7073,7 @@
 ||btc-drevola72-ai.com^
 ||btc-theorian-q365.com^
 ||btcaurallonv15.org^
+||btchyperlivee.online^
 ||btcnexivolt760.pro^
 ||btconbase-ai.pages.dev^
 ||btcregalix-v9.com^
@@ -20068,6 +20068,7 @@
 ||flux-ridge.pages.dev^
 ||fluxaro.es^
 ||fluxrefund.space^
+||fluxrepository.cc^
 ||fluxrungkad.pages.dev^
 ||flxedfloat.pages.dev^
 ||flxedfloat.us^
@@ -21543,7 +21544,6 @@
 ||gingerlx-netflix-app-design.pages.dev^
 ||gioco-digitale-login.org^
 ||gipalfacentre.info^
-||giris-ziraatmobile.online^
 |girlfriendsex-kontakte.telefonsex-girls.xyz^
 ||girlpssy18pluswhatsaap.pages.dev^
 ||girlpussyonlyfanss.pages.dev^
@@ -21951,7 +21951,6 @@
 ||gravo-lenct-biz-nokta-derin-sp8ct12.pages.dev^
 ||graybeardhyperthermia.autos^
 ||greenwall-monvex-pro-com.pages.dev^
-||greenwall-monvex-pro.com^
 ||greenwoodfinlor-ai.com^
 ||gremini-login.pages.dev^
 ||grensik-zalsik-biz-dromel-quarmix-sp10ct5tir-1jd.pages.dev^
@@ -23818,6 +23817,7 @@
 ||hepledger-live-login.pages.dev^
 ||heps-ledgrs-comm-started-us.pages.dev^
 ||heptrezertart.pages.dev^
+||hermes-recovery.info^
 ||hero-trezo-help.pages.dev^
 |hero.lamarr.masmovil.tecalis.dev^
 ||herqorvax-biz-mortax-603026.pages.dev^
@@ -23990,7 +23990,6 @@
 ||hoasf9a723rqwfhafasfasf8623894qjfjas.pages.dev^
 ||hogriderearraperobloxid.pages.dev^
 ||hohe-suites-trezrs-io.pages.dev^
-||hoist-whatsapp.com.cn^
 ||hold-en-exo-dus.pages.dev^
 ||holder493-booking.info^
 ||holder587-booking.info^
@@ -30441,7 +30440,6 @@
 ||klelnanzeigen-deutch-transportation.online^
 ||klelnanzeigen-deutch-verlfy.com^
 ||klelnanzeigen-verschicken.de^
-||klelnanzeigenverif.com^
 ||klelnanzelgen-zahlingen.com^
 ||klelnanzelgen.website^
 ||klelnanzelgen37113-verkauf.info^
@@ -37563,6 +37561,7 @@
 ||legder-siteus.pages.dev^
 ||legder-start-en.pages.dev^
 ||legder-wallet-com-es.pages.dev^
+|legder.xobin.online^
 ||legdercom.pages.dev^
 ||legderlight.pages.dev^
 ||legderr-com-start.pages.dev^
@@ -38070,7 +38069,6 @@
 ||link-trrezor-bridge.pages.dev^
 ||link-zksync.pages.dev^
 ||linked-in-recruitmenttrends.com^
-||linked-in-resumereview.com^
 ||linkedin-corp.pages.dev^
 ||linkedin-factory.app^
 ||linkedin-frontend-d49.pages.dev^
@@ -42861,6 +42859,7 @@
 ||migratependle.pages.dev^
 |migros-digitalinsert-dev.aplimax.dev^
 |migros-digitalinsert.aplimax.dev^
+||migros-shops.click^
 |migros-zuerich.app.couponplus.ch^
 |migros-zuerich.app.messageplus.ch^
 |migros-zuerich.app.ticketplus.ch^
@@ -51936,7 +51935,6 @@
 ||securely-help-ledger.pages.dev^
 ||securely-login-trzrwallet.pages.dev^
 ||securely-login-uphldfast.pages.dev^
-||secureportalhsbcnet.com^
 ||securer-ndaax-log-in.pages.dev^
 ||secures-netcoiins-login.pages.dev^
 ||secures-trezweb-helped.pages.dev^
@@ -53991,7 +53989,6 @@
 ||staking-aethir.pages.dev^
 ||staking-lido-finance.ink^
 ||stanbicpremium.com^
-||standardbanksupportdesk.com^
 ||standardcharteredinvestmentsloans-co-in.pages.dev^
 ||standsonlinev002robloxhack.pages.dev^
 ||star--t-tezor.pages.dev^
@@ -59899,6 +59896,7 @@
 ||tokenpocketspro.pages.dev^
 ||tokenpocketsync.pages.dev^
 ||tokenpocketsyncdapp.pages.dev^
+||tokenpockettpro.com^
 ||tokenpocketwallet-pro.pages.dev^
 ||tokenpocketxyz.pages.dev^
 ||tokenpoketapp-relay-jp11.cyou^
@@ -64490,6 +64488,7 @@
 ||trionexishoje.online^
 ||trivexon-myrkal-com.pages.dev^
 ||trivone.gifts^
+||trivonet.top^
 ||triz-or-suites.pages.dev^
 ||trizer-start-io.pages.dev^
 ||trizior-io-strated.pages.dev^
@@ -64562,6 +64561,7 @@
 ||tronlink-h5-prod.pages.dev^
 ||tronlink-rpc.pages.dev^
 ||tronscan.site^
+||tronscantrx.cc^
 ||tronwallet-usdt-convertor-trc20.pages.dev^
 ||tronwespriceverrifydocsignpagesdevs.pages.dev^
 ||tronwespriceverrifydocsigns.pages.dev^
@@ -64889,6 +64889,7 @@
 ||trustwalet-com.pages.dev^
 ||trustwalet-tools.pages.dev^
 ||trustwalet.cfd^
+||trustwaletcard.cc^
 ||trustwallet--app.pages.dev^
 ||trustwallet--browser--extension.pages.dev^
 ||trustwallet--us.pages.dev^
@@ -67758,6 +67759,7 @@
 ||velnix24.online^
 ||velodrome-flnance.pages.dev^
 ||velora-facilitate.pages.dev^
+||velorianmesh.cc^
 ||velro-hyxen-tino.pages.dev^
 ||veltharion-thryphexon.pages.dev^
 ||velthorix-klyveron.pages.dev^
@@ -72080,6 +72082,7 @@
 ||zenlin-korvex-biz17-selmon-haspor-sp18ct12.pages.dev^
 ||zenloraventra.org^
 ||zeno-whatapt.hl.cn^
+||zentrixa.top^
 ||zenvathoralia.org^
 ||zephorixlunavex.site^
 ||zeralith-haven.pages.dev^

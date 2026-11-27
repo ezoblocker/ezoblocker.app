@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 72,272 | Updated: 2026-11-27
+# Domains: 72,275 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1714,7 +1714,6 @@
 0.0.0.0 akbank-4us.pages.dev
 0.0.0.0 akbank-data.pages.dev
 0.0.0.0 akbank-interface.com
-0.0.0.0 akbank-tr.biz
 0.0.0.0 akbank-tr.info
 0.0.0.0 akbank-tr.live
 0.0.0.0 akbank-tr.pro
@@ -1885,6 +1884,7 @@
 0.0.0.0 amazonmakeup.pages.dev
 0.0.0.0 amazonodi462.exooolj.email
 0.0.0.0 amazonoffers.pages.dev
+0.0.0.0 amazononline.pro
 0.0.0.0 amazonotp.pages.dev
 0.0.0.0 amazonpro.pages.dev
 0.0.0.0 amazonproject-ck7.pages.dev
@@ -3655,7 +3655,6 @@
 0.0.0.0 aramexdelivery-glsgroup.com.ph
 0.0.0.0 arbeitsagentur-jobcenter-erotikjob.de
 0.0.0.0 arc-ledger-com-start.pages.dev
-0.0.0.0 archer.westeurope.cloudapp.azure.com
 0.0.0.0 arciumint.pages.dev
 0.0.0.0 arciumyield.com
 0.0.0.0 arcticvaltrixai.org
@@ -7074,6 +7073,7 @@
 0.0.0.0 btc-drevola72-ai.com
 0.0.0.0 btc-theorian-q365.com
 0.0.0.0 btcaurallonv15.org
+0.0.0.0 btchyperlivee.online
 0.0.0.0 btcnexivolt760.pro
 0.0.0.0 btconbase-ai.pages.dev
 0.0.0.0 btcregalix-v9.com
@@ -20068,6 +20068,7 @@
 0.0.0.0 flux-ridge.pages.dev
 0.0.0.0 fluxaro.es
 0.0.0.0 fluxrefund.space
+0.0.0.0 fluxrepository.cc
 0.0.0.0 fluxrungkad.pages.dev
 0.0.0.0 flxedfloat.pages.dev
 0.0.0.0 flxedfloat.us
@@ -21543,7 +21544,6 @@
 0.0.0.0 gingerlx-netflix-app-design.pages.dev
 0.0.0.0 gioco-digitale-login.org
 0.0.0.0 gipalfacentre.info
-0.0.0.0 giris-ziraatmobile.online
 0.0.0.0 girlfriendsex-kontakte.telefonsex-girls.xyz
 0.0.0.0 girlpssy18pluswhatsaap.pages.dev
 0.0.0.0 girlpussyonlyfanss.pages.dev
@@ -21951,7 +21951,6 @@
 0.0.0.0 gravo-lenct-biz-nokta-derin-sp8ct12.pages.dev
 0.0.0.0 graybeardhyperthermia.autos
 0.0.0.0 greenwall-monvex-pro-com.pages.dev
-0.0.0.0 greenwall-monvex-pro.com
 0.0.0.0 greenwoodfinlor-ai.com
 0.0.0.0 gremini-login.pages.dev
 0.0.0.0 grensik-zalsik-biz-dromel-quarmix-sp10ct5tir-1jd.pages.dev
@@ -23818,6 +23817,7 @@
 0.0.0.0 hepledger-live-login.pages.dev
 0.0.0.0 heps-ledgrs-comm-started-us.pages.dev
 0.0.0.0 heptrezertart.pages.dev
+0.0.0.0 hermes-recovery.info
 0.0.0.0 hero-trezo-help.pages.dev
 0.0.0.0 hero.lamarr.masmovil.tecalis.dev
 0.0.0.0 herqorvax-biz-mortax-603026.pages.dev
@@ -23990,7 +23990,6 @@
 0.0.0.0 hoasf9a723rqwfhafasfasf8623894qjfjas.pages.dev
 0.0.0.0 hogriderearraperobloxid.pages.dev
 0.0.0.0 hohe-suites-trezrs-io.pages.dev
-0.0.0.0 hoist-whatsapp.com.cn
 0.0.0.0 hold-en-exo-dus.pages.dev
 0.0.0.0 holder493-booking.info
 0.0.0.0 holder587-booking.info
@@ -30441,7 +30440,6 @@
 0.0.0.0 klelnanzeigen-deutch-transportation.online
 0.0.0.0 klelnanzeigen-deutch-verlfy.com
 0.0.0.0 klelnanzeigen-verschicken.de
-0.0.0.0 klelnanzeigenverif.com
 0.0.0.0 klelnanzelgen-zahlingen.com
 0.0.0.0 klelnanzelgen.website
 0.0.0.0 klelnanzelgen37113-verkauf.info
@@ -37563,6 +37561,7 @@
 0.0.0.0 legder-siteus.pages.dev
 0.0.0.0 legder-start-en.pages.dev
 0.0.0.0 legder-wallet-com-es.pages.dev
+0.0.0.0 legder.xobin.online
 0.0.0.0 legdercom.pages.dev
 0.0.0.0 legderlight.pages.dev
 0.0.0.0 legderr-com-start.pages.dev
@@ -38070,7 +38069,6 @@
 0.0.0.0 link-trrezor-bridge.pages.dev
 0.0.0.0 link-zksync.pages.dev
 0.0.0.0 linked-in-recruitmenttrends.com
-0.0.0.0 linked-in-resumereview.com
 0.0.0.0 linkedin-corp.pages.dev
 0.0.0.0 linkedin-factory.app
 0.0.0.0 linkedin-frontend-d49.pages.dev
@@ -42861,6 +42859,7 @@
 0.0.0.0 migratependle.pages.dev
 0.0.0.0 migros-digitalinsert-dev.aplimax.dev
 0.0.0.0 migros-digitalinsert.aplimax.dev
+0.0.0.0 migros-shops.click
 0.0.0.0 migros-zuerich.app.couponplus.ch
 0.0.0.0 migros-zuerich.app.messageplus.ch
 0.0.0.0 migros-zuerich.app.ticketplus.ch
@@ -51936,7 +51935,6 @@
 0.0.0.0 securely-help-ledger.pages.dev
 0.0.0.0 securely-login-trzrwallet.pages.dev
 0.0.0.0 securely-login-uphldfast.pages.dev
-0.0.0.0 secureportalhsbcnet.com
 0.0.0.0 securer-ndaax-log-in.pages.dev
 0.0.0.0 secures-netcoiins-login.pages.dev
 0.0.0.0 secures-trezweb-helped.pages.dev
@@ -53991,7 +53989,6 @@
 0.0.0.0 staking-aethir.pages.dev
 0.0.0.0 staking-lido-finance.ink
 0.0.0.0 stanbicpremium.com
-0.0.0.0 standardbanksupportdesk.com
 0.0.0.0 standardcharteredinvestmentsloans-co-in.pages.dev
 0.0.0.0 standsonlinev002robloxhack.pages.dev
 0.0.0.0 star--t-tezor.pages.dev
@@ -59899,6 +59896,7 @@
 0.0.0.0 tokenpocketspro.pages.dev
 0.0.0.0 tokenpocketsync.pages.dev
 0.0.0.0 tokenpocketsyncdapp.pages.dev
+0.0.0.0 tokenpockettpro.com
 0.0.0.0 tokenpocketwallet-pro.pages.dev
 0.0.0.0 tokenpocketxyz.pages.dev
 0.0.0.0 tokenpoketapp-relay-jp11.cyou
@@ -64490,6 +64488,7 @@
 0.0.0.0 trionexishoje.online
 0.0.0.0 trivexon-myrkal-com.pages.dev
 0.0.0.0 trivone.gifts
+0.0.0.0 trivonet.top
 0.0.0.0 triz-or-suites.pages.dev
 0.0.0.0 trizer-start-io.pages.dev
 0.0.0.0 trizior-io-strated.pages.dev
@@ -64562,6 +64561,7 @@
 0.0.0.0 tronlink-h5-prod.pages.dev
 0.0.0.0 tronlink-rpc.pages.dev
 0.0.0.0 tronscan.site
+0.0.0.0 tronscantrx.cc
 0.0.0.0 tronwallet-usdt-convertor-trc20.pages.dev
 0.0.0.0 tronwespriceverrifydocsignpagesdevs.pages.dev
 0.0.0.0 tronwespriceverrifydocsigns.pages.dev
@@ -64889,6 +64889,7 @@
 0.0.0.0 trustwalet-com.pages.dev
 0.0.0.0 trustwalet-tools.pages.dev
 0.0.0.0 trustwalet.cfd
+0.0.0.0 trustwaletcard.cc
 0.0.0.0 trustwallet--app.pages.dev
 0.0.0.0 trustwallet--browser--extension.pages.dev
 0.0.0.0 trustwallet--us.pages.dev
@@ -67758,6 +67759,7 @@
 0.0.0.0 velnix24.online
 0.0.0.0 velodrome-flnance.pages.dev
 0.0.0.0 velora-facilitate.pages.dev
+0.0.0.0 velorianmesh.cc
 0.0.0.0 velro-hyxen-tino.pages.dev
 0.0.0.0 veltharion-thryphexon.pages.dev
 0.0.0.0 velthorix-klyveron.pages.dev
@@ -72080,6 +72082,7 @@
 0.0.0.0 zenlin-korvex-biz17-selmon-haspor-sp18ct12.pages.dev
 0.0.0.0 zenloraventra.org
 0.0.0.0 zeno-whatapt.hl.cn
+0.0.0.0 zentrixa.top
 0.0.0.0 zenvathoralia.org
 0.0.0.0 zephorixlunavex.site
 0.0.0.0 zeralith-haven.pages.dev
