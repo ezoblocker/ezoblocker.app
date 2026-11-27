@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 72,921 | Updated: 2026-11-27
+# Domains: 72,901 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -912,6 +912,7 @@
 0.0.0.0 account-aave-wallet.pages.dev
 0.0.0.0 account-app-ledgrr-live.pages.dev
 0.0.0.0 account-appleid-information.ph
+0.0.0.0 account-binance.us
 0.0.0.0 account-coenbasepro-com.pages.dev
 0.0.0.0 account-coin-logn.pages.dev
 0.0.0.0 account-coinbase-com.pages.dev
@@ -1787,7 +1788,6 @@
 0.0.0.0 alert-location.com
 0.0.0.0 alert-subito.help
 0.0.0.0 alert.garant.ida.kraft-group.com
-0.0.0.0 alerta-appleid.info
 0.0.0.0 alertadetran.pages.dev
 0.0.0.0 alerts-subito.help
 0.0.0.0 alerts.online.chaseonlinealerts.theuba.com.br
@@ -10388,6 +10388,7 @@
 0.0.0.0 coinsquaresignin.pages.dev
 0.0.0.0 coinsqure-login-en.pages.dev
 0.0.0.0 coinsqure-login-io.pages.dev
+0.0.0.0 coinstrezorsuite.com
 0.0.0.0 cointechresolvechain.pages.dev
 0.0.0.0 coix-pros-login-bse-us-auth.pages.dev
 0.0.0.0 coldrobloxid.pages.dev
@@ -18744,7 +18745,6 @@
 0.0.0.0 ez-pass-pa.org
 0.0.0.0 ez-passbiling-payment.pages.dev
 0.0.0.0 ezpass-dsu.pages.dev
-0.0.0.0 ezpass-ma.org
 0.0.0.0 ezpass-paybiak.cc
 0.0.0.0 ezpass-paybuka.cc
 0.0.0.0 ezpass-paydjal.cc
@@ -18813,7 +18813,6 @@
 0.0.0.0 facebook--send-account-locked.ph
 0.0.0.0 facebook--signup-confirm-brf.ph
 0.0.0.0 facebook--signup-confirm-eid.ph
-0.0.0.0 facebook--signup-confirm-exb.ph
 0.0.0.0 facebook--signup-confirm-fmb.ph
 0.0.0.0 facebook--signup-confirm-gbf.ph
 0.0.0.0 facebook--signup-confirm-glc.ph
@@ -20493,7 +20492,6 @@
 0.0.0.0 fynta-vstyk-pdrif-4b93fc-mrkt-krulax.pages.dev
 0.0.0.0 fyral-trevox-kysor.pages.dev
 0.0.0.0 fz-apss-whatapp.com.cn
-0.0.0.0 fzb-whatsapp.com.cn
 0.0.0.0 fzxtla5o-teiegarm.pages.dev
 0.0.0.0 fzzxokok-glsgroup.com.ph
 0.0.0.0 g-at-whatsapp.com.cn
@@ -20534,7 +20532,6 @@
 0.0.0.0 ganeshwhatsapp.nuvielifeinclaude.xyz
 0.0.0.0 gangstasparadiserobloxid2022.pages.dev
 0.0.0.0 gaq-livelgr-auth.pages.dev
-0.0.0.0 garanti-onayli-kredi.cloud
 0.0.0.0 garantiabanking.com
 0.0.0.0 garcellorobloxid.pages.dev
 0.0.0.0 garena-free-fire-africa.pages.dev
@@ -21770,7 +21767,6 @@
 0.0.0.0 glornivex-krenthivor.pages.dev
 0.0.0.0 glornivex-syltharion.pages.dev
 0.0.0.0 glow-whatapt.hl.cn
-0.0.0.0 gls-group-pt.icu
 0.0.0.0 gls-group-si.com
 0.0.0.0 gls-group.work
 0.0.0.0 gls-group53621.com
@@ -26736,7 +26732,6 @@
 0.0.0.0 i-trustt-capital-loggin.pages.dev
 0.0.0.0 i-trusttcapital-loggin.pages.dev
 0.0.0.0 i-uphold-login.pages.dev
-0.0.0.0 i-w-whatsapp.com.cn
 0.0.0.0 i-wh-atsapp.com.cn
 0.0.0.0 i-wha-tsapp.com.cn
 0.0.0.0 i-what-sapp.com.cn
@@ -41116,7 +41111,6 @@
 0.0.0.0 lurex-output.pages.dev
 0.0.0.0 luromenta-xaviroque.pages.dev
 0.0.0.0 luv-whatsapp.com.cn
-0.0.0.0 lux-whatsapp.com
 0.0.0.0 lv-whats-app.com.cn
 0.0.0.0 lvdgre-live.pages.dev
 0.0.0.0 lvi-whats-app.com.cn
@@ -41559,6 +41553,7 @@
 0.0.0.0 matamesk-logn-io.pages.dev
 0.0.0.0 matamesk-logn-teb.pages.dev
 0.0.0.0 matbet-telegramyonlendirmeadresi-info.pages.dev
+0.0.0.0 mate-whatsapp.com
 0.0.0.0 matemsk-logg-in-co-en.pages.dev
 0.0.0.0 matrix-flowx.site
 0.0.0.0 matrix-haven-1gi.pages.dev
@@ -43266,7 +43261,6 @@
 0.0.0.0 minepi-36y.pages.dev
 0.0.0.0 minepinetwork.online
 0.0.0.0 minepinetwork.online.eyegel.com.ng
-0.0.0.0 minerusdt.cc
 0.0.0.0 minerusdt.vip
 0.0.0.0 mini-k-meetamask.pages.dev
 0.0.0.0 mini-login.pages.dev
@@ -43294,7 +43288,6 @@
 0.0.0.0 mitamassk-logi.pages.dev
 0.0.0.0 mivo-whatapt.hl.cn
 0.0.0.0 mivoluren-fonarexal.pages.dev
-0.0.0.0 mix-whatsapp.com
 0.0.0.0 mixa-lenop.pages.dev
 0.0.0.0 mizunoshopsuruguay.com
 0.0.0.0 mizunosneakers.co.uk
@@ -43529,7 +43522,6 @@
 0.0.0.0 my-account-iapple.com
 0.0.0.0 my-account-iapple.xyz
 0.0.0.0 my-account-ldgr-live.pages.dev
-0.0.0.0 my-account-netfilx.com
 0.0.0.0 my-account-robinhood-login.pages.dev
 0.0.0.0 my-apps-ledgerstat.pages.dev
 0.0.0.0 my-binance.app
@@ -44686,7 +44678,6 @@
 0.0.0.0 netflix-mod-for-pc.pages.dev
 0.0.0.0 netflix-most-watched-tv-shows.pages.dev
 0.0.0.0 netflix-pages.pages.dev
-0.0.0.0 netflix-payment-support.ph
 0.0.0.0 netflix-payment.pages.dev
 0.0.0.0 netflix-payments.pages.dev
 0.0.0.0 netflix-project-f16.pages.dev
@@ -45376,7 +45367,6 @@
 0.0.0.0 office-outlook.goggle1.workers.dev
 0.0.0.0 office-outlook.live80.workers.dev
 0.0.0.0 office-outlook.xzhjklljhhg.workers.dev
-0.0.0.0 office-security-verification-identity-decview.cloud
 0.0.0.0 office-security-verification.com
 0.0.0.0 office-sharepoint.workers.dev
 0.0.0.0 office365dropboxtransferproject.pages.dev
@@ -48392,7 +48382,6 @@
 0.0.0.0 paypal-i1yjl5iym4nq4ag.pages.dev
 0.0.0.0 paypal-ivxnbq2g775j090.pages.dev
 0.0.0.0 paypal-konto-sicherheit.com
-0.0.0.0 paypal-konto-status-check.com
 0.0.0.0 paypal-kyrjj8h9k6349z9.pages.dev
 0.0.0.0 paypal-l3ko8wax6h61tc3.pages.dev
 0.0.0.0 paypal-l638kmnrmajuonp.pages.dev
@@ -50832,7 +50821,6 @@
 0.0.0.0 required-trezo-eng.pages.dev
 0.0.0.0 rerqorvax-biz-mortil-603026.pages.dev
 0.0.0.0 rervix-biz-torvex-1626.pages.dev
-0.0.0.0 resecure-apple.com
 0.0.0.0 reserv-booking-confirmed.com
 0.0.0.0 reservcheckinbooking.com
 0.0.0.0 resetyahooemail.pages.dev
@@ -51366,7 +51354,6 @@
 0.0.0.0 rough-union-outlookwebapps.c-1-ou-d-o-storage.workers.dev
 0.0.0.0 roundup-layerzeronetwork.pages.dev
 0.0.0.0 rouvin-hood-login.pages.dev
-0.0.0.0 rov-whats-app.com.cn
 0.0.0.0 rov-zim-biz-pel-tiv-sp3ct4.pages.dev
 0.0.0.0 rovaneliq-mistufaro.pages.dev
 0.0.0.0 rovenhood-login.pages.dev
@@ -52410,7 +52397,6 @@
 0.0.0.0 securely-login-uphldfast.pages.dev
 0.0.0.0 secureportalhsbcnet.com
 0.0.0.0 securer-ndaax-log-in.pages.dev
-0.0.0.0 securerollsantanderbank.com
 0.0.0.0 secures-netcoiins-login.pages.dev
 0.0.0.0 secures-trezweb-helped.pages.dev
 0.0.0.0 securetrezo.pages.dev
@@ -53599,7 +53585,6 @@
 0.0.0.0 sorce-en-ledgerliveapp.pages.dev
 0.0.0.0 sorex1-2qorin.pages.dev
 0.0.0.0 sorex1-2zalra.pages.dev
-0.0.0.0 sorgupaneli.info
 0.0.0.0 soriv-fenon-biz-helur-moril-nd12kt12.pages.dev
 0.0.0.0 soriv-fenor-biz-helan-morax-nd11kt12.pages.dev
 0.0.0.0 sorleq-monter-biz-vilqa-qentor-sp8ct12.pages.dev
@@ -60301,7 +60286,6 @@
 0.0.0.0 tiktok-ads-lp.pages.dev
 0.0.0.0 tiktok-ads-online-v2.pages.dev
 0.0.0.0 tiktok-ads-online.pages.dev
-0.0.0.0 tiktok-app-us.com
 0.0.0.0 tiktok-bulk.pages.dev
 0.0.0.0 tiktok-buy.newseventpubgmobile.workers.dev
 0.0.0.0 tiktok-daitou.pages.dev
@@ -68844,7 +68828,6 @@
 0.0.0.0 vorynthis-vault.pages.dev
 0.0.0.0 vote-arcium.pages.dev
 0.0.0.0 vote-ethena.pages.dev
-0.0.0.0 vote-flare.com
 0.0.0.0 vote-worldlibertyfinancial.xyz
 0.0.0.0 vote-zigchain.xyz
 0.0.0.0 votehub-rayls.pages.dev
@@ -69432,7 +69415,6 @@
 0.0.0.0 watch-jupiter-dex.pages.dev
 0.0.0.0 watch-suiwallet-extension.pages.dev
 0.0.0.0 watchwhat.cc
-0.0.0.0 waterstoraqetanksinc.com
 0.0.0.0 watitoto-daftar-akun-baru-mudah.pages.dev
 0.0.0.0 watsap.my
 0.0.0.0 watsapp-6e2.pages.dev
@@ -71215,7 +71197,6 @@
 0.0.0.0 whatsapp-gym.pages.dev
 0.0.0.0 whatsapp-in-privat.pages.dev
 0.0.0.0 whatsapp-jonas.gfsolucoes.online
-0.0.0.0 whatsapp-kf.vip
 0.0.0.0 whatsapp-ks.com.cn
 0.0.0.0 whatsapp-livecamera-join1.pages.dev
 0.0.0.0 whatsapp-livecamera-join2.pages.dev
@@ -72758,7 +72739,6 @@
 0.0.0.0 zh-fifaclub-fifa-cn.com
 0.0.0.0 zh-fifaclub-fifa.com.cn
 0.0.0.0 zh-fifaclubs-fifa.com.cn
-0.0.0.0 zh-hkweb-whatsapp.com
 0.0.0.0 zh-int-hash3fc-qq.com.cn
 0.0.0.0 zhaevorintrade.net
 0.0.0.0 zhifeiji-bl0.pages.dev

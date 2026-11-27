@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, France (fr)
-# Domains: 61 | Updated: 2026-11-27
+# Domains: 60 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/domains/gambling/countries/fr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -40,7 +40,6 @@ lespetitescreabycathy.com
 lucky8-bet.com
 lucky8-official.fr
 lucky8-online-fr.com
-lucky8.com
 madpdirect.fr
 magicredcasino.io
 midasluckcasinofr.shop

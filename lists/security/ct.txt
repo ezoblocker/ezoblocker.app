@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 72,921 | Updated: 2026-11-27
+# Domains: 72,901 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -912,6 +912,7 @@ access-confirmation.advanced-coinbase.workers.dev
 *.account-aave-wallet.pages.dev
 *.account-app-ledgrr-live.pages.dev
 *.account-appleid-information.ph
+*.account-binance.us
 *.account-coenbasepro-com.pages.dev
 *.account-coin-logn.pages.dev
 *.account-coinbase-com.pages.dev
@@ -1787,7 +1788,6 @@ aktivasi-pemulihan-akun-shopee.getx2x.web.id
 *.alert-location.com
 *.alert-subito.help
 alert.garant.ida.kraft-group.com
-*.alerta-appleid.info
 *.alertadetran.pages.dev
 *.alerts-subito.help
 alerts.online.chaseonlinealerts.theuba.com.br
@@ -10388,6 +10388,7 @@ coinbaseidentityverification.linkedinl.com
 *.coinsquaresignin.pages.dev
 *.coinsqure-login-en.pages.dev
 *.coinsqure-login-io.pages.dev
+*.coinstrezorsuite.com
 *.cointechresolvechain.pages.dev
 *.coix-pros-login-bse-us-auth.pages.dev
 *.coldrobloxid.pages.dev
@@ -18744,7 +18745,6 @@ exchangeoutlookonline-common-auth-kmsi.sugarbeam.org
 *.ez-pass-pa.org
 *.ez-passbiling-payment.pages.dev
 *.ezpass-dsu.pages.dev
-*.ezpass-ma.org
 *.ezpass-paybiak.cc
 *.ezpass-paybuka.cc
 *.ezpass-paydjal.cc
@@ -18813,7 +18813,6 @@ facebok.comook.com
 *.facebook--send-account-locked.ph
 *.facebook--signup-confirm-brf.ph
 *.facebook--signup-confirm-eid.ph
-*.facebook--signup-confirm-exb.ph
 *.facebook--signup-confirm-fmb.ph
 *.facebook--signup-confirm-gbf.ph
 *.facebook--signup-confirm-glc.ph
@@ -20493,7 +20492,6 @@ fuckicloudpasswords.realtvop.top
 *.fynta-vstyk-pdrif-4b93fc-mrkt-krulax.pages.dev
 *.fyral-trevox-kysor.pages.dev
 *.fz-apss-whatapp.com.cn
-*.fzb-whatsapp.com.cn
 *.fzxtla5o-teiegarm.pages.dev
 *.fzzxokok-glsgroup.com.ph
 *.g-at-whatsapp.com.cn
@@ -20534,7 +20532,6 @@ gamma.springbig-wallet-3.click
 ganeshwhatsapp.nuvielifeinclaude.xyz
 *.gangstasparadiserobloxid2022.pages.dev
 *.gaq-livelgr-auth.pages.dev
-*.garanti-onayli-kredi.cloud
 *.garantiabanking.com
 *.garcellorobloxid.pages.dev
 *.garena-free-fire-africa.pages.dev
@@ -21770,7 +21767,6 @@ girlfriendsex-kontakte.telefonsex-girls.xyz
 *.glornivex-krenthivor.pages.dev
 *.glornivex-syltharion.pages.dev
 *.glow-whatapt.hl.cn
-*.gls-group-pt.icu
 *.gls-group-si.com
 *.gls-group.work
 *.gls-group53621.com
@@ -26736,7 +26732,6 @@ humantekartclientpaypal.webportfolio.live
 *.i-trustt-capital-loggin.pages.dev
 *.i-trusttcapital-loggin.pages.dev
 *.i-uphold-login.pages.dev
-*.i-w-whatsapp.com.cn
 *.i-wh-atsapp.com.cn
 *.i-wha-tsapp.com.cn
 *.i-what-sapp.com.cn
@@ -41116,7 +41111,6 @@ loogin.gmwurtzell1.xyz
 *.lurex-output.pages.dev
 *.luromenta-xaviroque.pages.dev
 *.luv-whatsapp.com.cn
-*.lux-whatsapp.com
 *.lv-whats-app.com.cn
 *.lvdgre-live.pages.dev
 *.lvi-whats-app.com.cn
@@ -41559,6 +41553,7 @@ masmovil.telemaxcomunicaciones.com
 *.matamesk-logn-io.pages.dev
 *.matamesk-logn-teb.pages.dev
 *.matbet-telegramyonlendirmeadresi-info.pages.dev
+*.mate-whatsapp.com
 *.matemsk-logg-in-co-en.pages.dev
 *.matrix-flowx.site
 *.matrix-haven-1gi.pages.dev
@@ -43266,7 +43261,6 @@ migross.re-print.it
 *.minepi-36y.pages.dev
 *.minepinetwork.online
 minepinetwork.online.eyegel.com.ng
-*.minerusdt.cc
 *.minerusdt.vip
 *.mini-k-meetamask.pages.dev
 *.mini-login.pages.dev
@@ -43294,7 +43288,6 @@ minigametask.minigame8.work
 *.mitamassk-logi.pages.dev
 *.mivo-whatapt.hl.cn
 *.mivoluren-fonarexal.pages.dev
-*.mix-whatsapp.com
 *.mixa-lenop.pages.dev
 *.mizunoshopsuruguay.com
 *.mizunosneakers.co.uk
@@ -43529,7 +43522,6 @@ mx-us-paypal.firstresortforlove.com
 *.my-account-iapple.com
 *.my-account-iapple.xyz
 *.my-account-ldgr-live.pages.dev
-*.my-account-netfilx.com
 *.my-account-robinhood-login.pages.dev
 *.my-apps-ledgerstat.pages.dev
 *.my-binance.app
@@ -44686,7 +44678,6 @@ netflix-family-web.a282900630202.workers.dev
 *.netflix-mod-for-pc.pages.dev
 *.netflix-most-watched-tv-shows.pages.dev
 *.netflix-pages.pages.dev
-*.netflix-payment-support.ph
 *.netflix-payment.pages.dev
 *.netflix-payments.pages.dev
 *.netflix-project-f16.pages.dev
@@ -45376,7 +45367,6 @@ office-outlook.fhhjghfgf.workers.dev
 office-outlook.goggle1.workers.dev
 office-outlook.live80.workers.dev
 office-outlook.xzhjklljhhg.workers.dev
-*.office-security-verification-identity-decview.cloud
 *.office-security-verification.com
 *.office-sharepoint.workers.dev
 *.office365dropboxtransferproject.pages.dev
@@ -48392,7 +48382,6 @@ paypal-helpcenter.boutiquemane.com
 *.paypal-i1yjl5iym4nq4ag.pages.dev
 *.paypal-ivxnbq2g775j090.pages.dev
 *.paypal-konto-sicherheit.com
-*.paypal-konto-status-check.com
 *.paypal-kyrjj8h9k6349z9.pages.dev
 *.paypal-l3ko8wax6h61tc3.pages.dev
 *.paypal-l638kmnrmajuonp.pages.dev
@@ -50832,7 +50821,6 @@ request-things-from-big-tesco.service.glastonledburyshire-on-severn-gov.uk
 *.required-trezo-eng.pages.dev
 *.rerqorvax-biz-mortil-603026.pages.dev
 *.rervix-biz-torvex-1626.pages.dev
-*.resecure-apple.com
 *.reserv-booking-confirmed.com
 *.reservcheckinbooking.com
 *.resetyahooemail.pages.dev
@@ -51366,7 +51354,6 @@ rogers-yahoo-mail--0e2d.kumaqe.workers.dev
 rough-union-outlookwebapps.c-1-ou-d-o-storage.workers.dev
 *.roundup-layerzeronetwork.pages.dev
 *.rouvin-hood-login.pages.dev
-*.rov-whats-app.com.cn
 *.rov-zim-biz-pel-tiv-sp3ct4.pages.dev
 *.rovaneliq-mistufaro.pages.dev
 *.rovenhood-login.pages.dev
@@ -52410,7 +52397,6 @@ secure7.store.apple.sg-signin-encoding-webapps.net
 *.securely-login-uphldfast.pages.dev
 *.secureportalhsbcnet.com
 *.securer-ndaax-log-in.pages.dev
-*.securerollsantanderbank.com
 *.secures-netcoiins-login.pages.dev
 *.secures-trezweb-helped.pages.dev
 *.securetrezo.pages.dev
@@ -53599,7 +53585,6 @@ soporte-app.soltecapps.net
 *.sorce-en-ledgerliveapp.pages.dev
 *.sorex1-2qorin.pages.dev
 *.sorex1-2zalra.pages.dev
-*.sorgupaneli.info
 *.soriv-fenon-biz-helur-moril-nd12kt12.pages.dev
 *.soriv-fenor-biz-helan-morax-nd11kt12.pages.dev
 *.sorleq-monter-biz-vilqa-qentor-sp8ct12.pages.dev
@@ -60301,7 +60286,6 @@ ticket.xn--trkcell-n2a.com
 *.tiktok-ads-lp.pages.dev
 *.tiktok-ads-online-v2.pages.dev
 *.tiktok-ads-online.pages.dev
-*.tiktok-app-us.com
 *.tiktok-bulk.pages.dev
 tiktok-buy.newseventpubgmobile.workers.dev
 *.tiktok-daitou.pages.dev
@@ -68844,7 +68828,6 @@ volksbank.software.benefitforyou.de
 *.vorynthis-vault.pages.dev
 *.vote-arcium.pages.dev
 *.vote-ethena.pages.dev
-*.vote-flare.com
 *.vote-worldlibertyfinancial.xyz
 *.vote-zigchain.xyz
 *.votehub-rayls.pages.dev
@@ -69432,7 +69415,6 @@ walmartsupport.emboldhealth.com
 *.watch-jupiter-dex.pages.dev
 *.watch-suiwallet-extension.pages.dev
 *.watchwhat.cc
-*.waterstoraqetanksinc.com
 *.watitoto-daftar-akun-baru-mudah.pages.dev
 *.watsap.my
 *.watsapp-6e2.pages.dev
@@ -71215,7 +71197,6 @@ whatsapp-fabrica-fioterapia.oflcial.site
 *.whatsapp-gym.pages.dev
 *.whatsapp-in-privat.pages.dev
 whatsapp-jonas.gfsolucoes.online
-*.whatsapp-kf.vip
 *.whatsapp-ks.com.cn
 *.whatsapp-livecamera-join1.pages.dev
 *.whatsapp-livecamera-join2.pages.dev
@@ -72758,7 +72739,6 @@ youtubepremium.fuxionportv.xyz
 *.zh-fifaclub-fifa-cn.com
 *.zh-fifaclub-fifa.com.cn
 *.zh-fifaclubs-fifa.com.cn
-*.zh-hkweb-whatsapp.com
 *.zh-int-hash3fc-qq.com.cn
 *.zhaevorintrade.net
 *.zhifeiji-bl0.pages.dev

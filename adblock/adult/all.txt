@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult
-! Domains: 3,137 | Updated: 2026-11-27
+! Domains: 3,136 | Updated: 2026-11-27
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1059,7 +1059,6 @@
 ||gaystore.fr^
 ||gaziantepbayan.xyz^
 ||gaziantepbayanlar.com^
-||gaziantepescortsite.com^
 ||gaziantepxkizlar.site^
 |ge.mobilexh.blog^
 ||gearisle.com^
