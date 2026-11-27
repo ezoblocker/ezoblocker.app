@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Dating
-# Domains: 1,423 | Updated: 2026-11-27
+# Domains: 1,404 | Updated: 2026-11-27
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/dating/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,7 +17,6 @@
 0.0.0.0 ab.211.ca
 0.0.0.0 abu-dhabi-new-service.b12sites.com
 0.0.0.0 acheckerviet.bio
-0.0.0.0 acompanhantesnovinhas.com.br
 0.0.0.0 actv.avmspa.it
 0.0.0.0 adultforum.co.nz
 0.0.0.0 adultfriendfinder.ca
@@ -304,7 +303,6 @@
 0.0.0.0 deai.app-liv.jp
 0.0.0.0 deincamchat.de
 0.0.0.0 delhi.idbf.in
-0.0.0.0 deluxemardinescort.xyz
 0.0.0.0 denver.bonepage.com
 0.0.0.0 desichatclub.com
 0.0.0.0 dev-web.sgrbk.com
@@ -364,7 +362,6 @@
 0.0.0.0 econatura-relax-chile.ueniweb.com
 0.0.0.0 edmonton.bonepage.com
 0.0.0.0 eentijuana.catalog.to
-0.0.0.0 eeskorter.cyou
 0.0.0.0 egeveze.com
 0.0.0.0 eharmony.ca
 0.0.0.0 eharmony.co.uk
@@ -424,19 +421,16 @@
 0.0.0.0 escortforum.cz
 0.0.0.0 escortforumgr.com
 0.0.0.0 escortforumit.xxx
-0.0.0.0 escortgermany.de
 0.0.0.0 escorthub.org
 0.0.0.0 escortlistingsnearme.com
 0.0.0.0 escortmanila.com
 0.0.0.0 escortnews.be
 0.0.0.0 escortnews.com
 0.0.0.0 escortnews.eu
-0.0.0.0 escortnrw.de
 0.0.0.0 escortoglasi.com
 0.0.0.0 escortradar.com
 0.0.0.0 escortrankings.uk
 0.0.0.0 escortrscosworth.com
-0.0.0.0 escorts-heidelberg.com
 0.0.0.0 escorts-ie.eu
 0.0.0.0 escorts.cz
 0.0.0.0 escortsandbabes.com.au
@@ -447,7 +441,6 @@
 0.0.0.0 escortsireland.eu
 0.0.0.0 escortsites.org
 0.0.0.0 escortsnearby.com
-0.0.0.0 escortsromeinfo.com
 0.0.0.0 escortsx.com.au
 0.0.0.0 escortutrecht.nl
 0.0.0.0 esmerescortq.com
@@ -623,7 +616,6 @@
 0.0.0.0 hookuptide.com
 0.0.0.0 hookuptrace.com
 0.0.0.0 hossohbet.com
-0.0.0.0 hostessescort.de
 0.0.0.0 hotescortnearme.com
 0.0.0.0 hotgirlsescortsmallorca.com
 0.0.0.0 hub.xcanto.com
@@ -682,7 +674,6 @@
 0.0.0.0 joyclub.de
 0.0.0.0 joyclub.gutschein.pro
 0.0.0.0 juso.2ver.com
-0.0.0.0 just-sugardaddy.com
 0.0.0.0 kalbim.net
 0.0.0.0 kalbiminsesi.net
 0.0.0.0 kaliteliortam.com
@@ -729,7 +720,6 @@
 0.0.0.0 laonhouse.garamcs.com
 0.0.0.0 latamdate.com
 0.0.0.0 latinamericancupid.com
-0.0.0.0 lauraescort.top
 0.0.0.0 lavinsta.com
 0.0.0.0 leolist.ca
 0.0.0.0 leolist.cc
@@ -865,7 +855,6 @@
 0.0.0.0 mynet.bz
 0.0.0.0 mynetsohbetsitesi.com
 0.0.0.0 myrtle-beach.bonepage.com
-0.0.0.0 mysugardaddy.com.br
 0.0.0.0 mysugardaddy.de
 0.0.0.0 mysugardaddy.eu
 0.0.0.0 mysugardaddy.nl
@@ -1209,7 +1198,6 @@
 0.0.0.0 stronyrandkowe.pl
 0.0.0.0 subdomainfinder.c99.nl
 0.0.0.0 subicph.assortlist.com
-0.0.0.0 sugarbaby.fi
 0.0.0.0 sugarbook.com
 0.0.0.0 sugarbookapp.com
 0.0.0.0 sugarbookmy.com
@@ -1218,12 +1206,8 @@
 0.0.0.0 sugardaddy.de
 0.0.0.0 sugardaddy.pl
 0.0.0.0 sugardaddybrazil.com
-0.0.0.0 sugardaddyist.com
 0.0.0.0 sugardaddymanchester.co.uk
-0.0.0.0 sugardaddypayperview.com
 0.0.0.0 sugardaddyplanet.com
-0.0.0.0 sugardaddytr.com.tr
-0.0.0.0 sugardating101.com
 0.0.0.0 supermekan.com
 0.0.0.0 svenskacams.se
 0.0.0.0 sverigedejt.se
@@ -1259,7 +1243,6 @@
 0.0.0.0 tamsohbet.org
 0.0.0.0 tamsohbet.tr
 0.0.0.0 tantan.com
-0.0.0.0 tantramassageberlin.de
 0.0.0.0 tapple.co.jp
 0.0.0.0 tapple.me
 0.0.0.0 tchatche.com
@@ -1275,7 +1258,6 @@
 0.0.0.0 thaitalkforex.com
 0.0.0.0 theeroticreview.com
 0.0.0.0 thescortdirectory.com
-0.0.0.0 theukescortdirectory.co.uk
 0.0.0.0 timbanquanhe.com
 0.0.0.0 timbanvn.com
 0.0.0.0 timis.abcescorte.com
@@ -1285,7 +1267,6 @@
 0.0.0.0 tolyatti.sexysluts24.com
 0.0.0.0 top6partnersuche.at
 0.0.0.0 top6partnersuche.de
-0.0.0.0 topcallgirl.online
 0.0.0.0 topescort.africa
 0.0.0.0 topescort.com
 0.0.0.0 topescort.me
