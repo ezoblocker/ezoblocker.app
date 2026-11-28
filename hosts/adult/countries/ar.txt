@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Argentina (ar)
-# Domains: 38 | Updated: 2026-11-27
+# Domains: 32 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ar.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,15 +7,12 @@
 0.0.0.0 bakanal.es
 0.0.0.0 bangover.com.ar
 0.0.0.0 bellesaimes.com
-0.0.0.0 boutiqueerotica.com.uy
-0.0.0.0 buttman.com.ar
 0.0.0.0 caramelodulce.com.ar
 0.0.0.0 cultura.cartagena.es
 0.0.0.0 deliveryabelgrano.com.ar
 0.0.0.0 deliveryaltopalermo.com.ar
 0.0.0.0 eclipsiasexshop.com
 0.0.0.0 erotiquepink.com
-0.0.0.0 extasy.com.ar
 0.0.0.0 farmamix.com.ar
 0.0.0.0 goota.com.ar
 0.0.0.0 intimelovestore.com.ar
@@ -28,13 +25,10 @@
 0.0.0.0 sexcordobashop.com.ar
 0.0.0.0 sexosentidoav.com
 0.0.0.0 sexshop-othernature.com.ar
-0.0.0.0 sexshopargentino.com.ar
 0.0.0.0 sexshopcordoba.com
 0.0.0.0 sexshoprosario.net
 0.0.0.0 sexshopzonaroja.com
 0.0.0.0 sheer.ar
-0.0.0.0 tabushop.com.ar
-0.0.0.0 tiendaerotica.cl
 0.0.0.0 tiendaeroticavip.com
 0.0.0.0 tracysdog.com
 0.0.0.0 tsmayorista.com.ar

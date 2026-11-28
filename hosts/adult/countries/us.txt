@@ -1,26 +1,20 @@
 # Title: EZOBLOCKER Adult, United States (us)
-# Domains: 52 | Updated: 2026-11-27
+# Domains: 41 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/us.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 adamevehouston.com
-0.0.0.0 adamevestores.com
 0.0.0.0 adultproxy.men
 0.0.0.0 amorstores.myshopify.com
-0.0.0.0 bboutique.co
-0.0.0.0 blueboutique.com
 0.0.0.0 camerinsite.com
 0.0.0.0 camsflow.com
 0.0.0.0 camsodagear.com
 0.0.0.0 chaturbate-v.com
-0.0.0.0 cindies.com
-0.0.0.0 cirillas.com
 0.0.0.0 coomer.org.uk
 0.0.0.0 coomer.tv
 0.0.0.0 coomersu1.com
 0.0.0.0 cupidscloset.com
-0.0.0.0 dallasnovelty.com
 0.0.0.0 doxxes.love
 0.0.0.0 fapradar.com
 0.0.0.0 gfbi-digital.de
@@ -30,19 +24,14 @@
 0.0.0.0 kemono.games
 0.0.0.0 kibana.compactorstore.com
 0.0.0.0 ladykonfidential.com
-0.0.0.0 lionsden.com
-0.0.0.0 lovehoneyforum.com
 0.0.0.0 loversplayground.com
-0.0.0.0 moannest.com
 0.0.0.0 modelcenter.lj.com
 0.0.0.0 mysterypleasurebox.com
 0.0.0.0 newfinearts.com
-0.0.0.0 pinkcherry.com
 0.0.0.0 pixnext.vip
 0.0.0.0 pornochka.com
 0.0.0.0 porrig.se
 0.0.0.0 proxy.gd
-0.0.0.0 pureromance.com
 0.0.0.0 rainbowstation.nyc
 0.0.0.0 rhodos-in-seelow.de
 0.0.0.0 romantix.com
@@ -51,7 +40,7 @@
 0.0.0.0 simpcitydown.com
 0.0.0.0 spicyranked.com
 0.0.0.0 stcamsjapan.com
-0.0.0.0 thepleasurechest.com
+0.0.0.0 stripunion.com
 0.0.0.0 tokenhandbook.com
 0.0.0.0 toynk.com
 0.0.0.0 useprivly.com

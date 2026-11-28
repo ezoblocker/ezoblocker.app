@@ -1,23 +1,15 @@
 # Title: EZOBLOCKER Adult, Netherlands (nl)
-# Domains: 70 | Updated: 2026-11-27
+# Domains: 50 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/nl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
-0.0.0.0 alicemaple.com
 0.0.0.0 bdesired.nl
-0.0.0.0 bdsmking.eu
 0.0.0.0 bestsexstores.com
 0.0.0.0 bornovashop.com
-0.0.0.0 bronx.nl
-0.0.0.0 christineleduc.be
-0.0.0.0 christineleduc.nl
-0.0.0.0 cupido.nl
 0.0.0.0 damesgenot.nl
 0.0.0.0 depaarsekeizerin.nl
-0.0.0.0 easytoys.nl
 0.0.0.0 eromarkt.nl
-0.0.0.0 erotictreasure.nl
 0.0.0.0 erotiek-dates-online.nl
 0.0.0.0 erovibes.nl
 0.0.0.0 evenflirten.nl
@@ -26,18 +18,13 @@
 0.0.0.0 gigi-unknownpleasures.com
 0.0.0.0 hello-nancy.tenereteam.com
 0.0.0.0 kechtube.com
-0.0.0.0 kimholland.nl
-0.0.0.0 kinkytijd.nl
 0.0.0.0 kortingscode.be
 0.0.0.0 kraina-doznan.pl
 0.0.0.0 ladiesnight.nl
 0.0.0.0 ladypleasure.nl
-0.0.0.0 lamor.nl
 0.0.0.0 livestrip.ch
 0.0.0.0 mailfemale.com
 0.0.0.0 maturestarz.com
-0.0.0.0 meidenvanholland.nl
-0.0.0.0 mince.nl
 0.0.0.0 miranda.nl
 0.0.0.0 misssteel.nl
 0.0.0.0 naaktflix.nl
@@ -48,21 +35,15 @@
 0.0.0.0 nooitmeersaai.nl
 0.0.0.0 onlyfansmeiden.nl
 0.0.0.0 onlyfansnederland.nl
-0.0.0.0 onlysense.nl
-0.0.0.0 ontopoflove.nl
-0.0.0.0 pabo.nl
 0.0.0.0 passion.bg
 0.0.0.0 peachveilprive.com
 0.0.0.0 poppers-store.nl
 0.0.0.0 purelust.com
 0.0.0.0 server.algeriatimes.net
-0.0.0.0 sex-chatten.nl
 0.0.0.0 sex-webcams-live.com
-0.0.0.0 sexshopgay.nl
 0.0.0.0 sexvoorgeld.nl
 0.0.0.0 sexy-shop-emmen.nl
 0.0.0.0 shoppie.nl
-0.0.0.0 sinful.nl
 0.0.0.0 sophiestoys.nl
 0.0.0.0 speeltjes.nl
 0.0.0.0 stoutefans.nl
@@ -73,4 +54,3 @@
 0.0.0.0 web-x-cam.nl
 0.0.0.0 webcamsex.deals
 0.0.0.0 webcamsexnu.nl
-0.0.0.0 webxcams.nl

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 969,895 | Updated: 2026-11-27
+# Domains: 969,890 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -72663,6 +72663,7 @@
 0.0.0.0 applepaycasino.io
 0.0.0.0 applepaycasino.monster
 0.0.0.0 applepaycasino.net
+0.0.0.0 applepaycasinoaustralia.com
 0.0.0.0 applepaycasinoer.radio.fm
 0.0.0.0 applepaycasinolist.com
 0.0.0.0 applepaycasinon-com.pages.dev
@@ -72675,6 +72676,7 @@
 0.0.0.0 applepaycasinos.it
 0.0.0.0 applepaycasinos.nl
 0.0.0.0 applepaycasinosau.com
+0.0.0.0 applepaycasinosonline.com
 0.0.0.0 applepaykasino2026.com
 0.0.0.0 applepaykasinot.net
 0.0.0.0 applepayonlinecasino.com
@@ -134691,8 +134693,6 @@
 0.0.0.0 betsilin.net
 0.0.0.0 betsilin.xyz
 0.0.0.0 betsilin1000.com
-0.0.0.0 betsilin773.com
-0.0.0.0 betsilin776.com
 0.0.0.0 betsilin778.com
 0.0.0.0 betsilin787.com
 0.0.0.0 betsilin958.com
@@ -145673,6 +145673,7 @@
 0.0.0.0 big-5-casino.org
 0.0.0.0 big-azart-gambling.ru
 0.0.0.0 big-baazi-casino.in
+0.0.0.0 big-bamboo-casino-slots.ru
 0.0.0.0 big-bamboo-casino.com
 0.0.0.0 big-bamboo-casino.ru
 0.0.0.0 big-bass-bonanza-1000-slot.com
@@ -246380,7 +246381,6 @@
 0.0.0.0 casinoslot297.com
 0.0.0.0 casinoslot351.com
 0.0.0.0 casinoslot42.com
-0.0.0.0 casinoslot505.com
 0.0.0.0 casinoslot66.com
 0.0.0.0 casinoslot7-nl-55aae0.pages.dev
 0.0.0.0 casinoslot7-online.com
@@ -246398,7 +246398,6 @@
 0.0.0.0 casinoslot88.com
 0.0.0.0 casinoslot88.net
 0.0.0.0 casinoslot88.org
-0.0.0.0 casinoslot880.com
 0.0.0.0 casinoslot888.com
 0.0.0.0 casinoslota-at.pages.dev
 0.0.0.0 casinoslota-net.pages.dev
@@ -473326,7 +473325,6 @@
 0.0.0.0 kingmakercasinonz.com
 0.0.0.0 kingmakercasinoo.de
 0.0.0.0 kingmakercasinoo.it
-0.0.0.0 kingmakercasinoofficial.com
 0.0.0.0 kingmakercasinoofficial.eu
 0.0.0.0 kingmakercasinoofficial.it
 0.0.0.0 kingmakercasinoonline.com
@@ -517405,6 +517403,7 @@
 0.0.0.0 luckybirdcasino.uk
 0.0.0.0 luckybirdcasino.win
 0.0.0.0 luckybirdcasino1.de
+0.0.0.0 luckybirdcasino100.com
 0.0.0.0 luckybirdcasino11.pl
 0.0.0.0 luckybirdcasino12.pl
 0.0.0.0 luckybirdcasino13.pl
@@ -597925,7 +597924,6 @@
 0.0.0.0 newlucky-casino.uk
 0.0.0.0 newlucky-casino1-net-44f802.pages.dev
 0.0.0.0 newlucky-casinos-nl.com
-0.0.0.0 newlucky-casinos.com
 0.0.0.0 newlucky-pokies.com
 0.0.0.0 newluckybet-co-nl.pages.dev
 0.0.0.0 newluckycasino-au.com
@@ -662205,7 +662203,6 @@
 0.0.0.0 pincocasino.pe
 0.0.0.0 pincocasino.ru
 0.0.0.0 pincocasino.sbs
-0.0.0.0 pincocasino.store
 0.0.0.0 pincocasino.tj
 0.0.0.0 pincocasino.uy
 0.0.0.0 pincocasino.website
@@ -671666,6 +671663,7 @@
 0.0.0.0 play-store-zoome.casino
 0.0.0.0 play-superbet.org
 0.0.0.0 play-superbetting.pages.dev
+0.0.0.0 play-superslots.com
 0.0.0.0 play-sweet-bonanza-slot.com.ua
 0.0.0.0 play-synottip.org
 0.0.0.0 play-tempobet.pages.dev
@@ -679194,7 +679192,6 @@
 0.0.0.0 poker-zone-guide.com
 0.0.0.0 poker-zone.xyz
 0.0.0.0 poker-zveza.si
-0.0.0.0 poker-zynga.com
 0.0.0.0 poker.fit
 0.0.0.0 poker108-link-hivo.pages.dev
 0.0.0.0 poker108-next-level.pages.dev
@@ -760887,7 +760884,6 @@
 0.0.0.0 sevenslot777apk.com
 0.0.0.0 sevenslotgacor-sdecor.pages.dev
 0.0.0.0 sevenslotk.lol
-0.0.0.0 sevenslots.org
 0.0.0.0 sevenslots.ro
 0.0.0.0 sevenslotsales.com
 0.0.0.0 sevenslotscasino.com
@@ -797959,7 +797955,6 @@
 0.0.0.0 slotspalace-fi.com
 0.0.0.0 slotspalace-fi.eu.com
 0.0.0.0 slotspalace-fi.org
-0.0.0.0 slotspalace-finland.com
 0.0.0.0 slotspalace-fr.casino
 0.0.0.0 slotspalace-fr.com
 0.0.0.0 slotspalace-fr.eu.com

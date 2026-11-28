@@ -1,26 +1,20 @@
 ! Title: EZOBLOCKER Adult, United States (us)
-! Domains: 52 | Updated: 2026-11-27
+! Domains: 41 | Updated: 2026-11-28
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/us.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||adamevehouston.com^
-||adamevestores.com^
 ||adultproxy.men^
 ||amorstores.myshopify.com^
-||bboutique.co^
-||blueboutique.com^
 ||camerinsite.com^
 ||camsflow.com^
 ||camsodagear.com^
 ||chaturbate-v.com^
-||cindies.com^
-||cirillas.com^
 ||coomer.org.uk^
 ||coomer.tv^
 ||coomersu1.com^
 ||cupidscloset.com^
-||dallasnovelty.com^
 ||doxxes.love^
 ||fapradar.com^
 ||gfbi-digital.de^
@@ -30,19 +24,14 @@
 ||kemono.games^
 |kibana.compactorstore.com^
 ||ladykonfidential.com^
-||lionsden.com^
-||lovehoneyforum.com^
 ||loversplayground.com^
-||moannest.com^
 |modelcenter.lj.com^
 ||mysterypleasurebox.com^
 ||newfinearts.com^
-||pinkcherry.com^
 ||pixnext.vip^
 ||pornochka.com^
 ||porrig.se^
 ||proxy.gd^
-||pureromance.com^
 ||rainbowstation.nyc^
 ||rhodos-in-seelow.de^
 ||romantix.com^
@@ -51,7 +40,7 @@
 ||simpcitydown.com^
 ||spicyranked.com^
 ||stcamsjapan.com^
-||thepleasurechest.com^
+||stripunion.com^
 ||tokenhandbook.com^
 ||toynk.com^
 ||useprivly.com^

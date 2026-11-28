@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, Poland (pl)
-! Domains: 76 | Updated: 2026-11-27
+! Domains: 61 | Updated: 2026-11-28
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/pl.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,18 +10,13 @@
 ||bikeever.pl^
 ||boonga.pl^
 ||byann.pl^
-||centrumerotyki.com.pl^
 ||e-marilyn.pl^
 ||easytoys.pl^
 ||eroliveshop.pl^
-||erot.pl^
-||erotic-med.pl^
-||eroticpassion.pl^
 ||eroticpoint.pl^
 ||erotyczka.pl^
 ||erozkosz.pl^
 ||fanfindpoland.com^
-||frixx.pl^
 ||gadzetydladoroslych.pl^
 ||greatstuffy.com^
 ||intimiti.pl^
@@ -29,7 +24,6 @@
 ||intymnosc24.pl^
 ||kinkystore.pl^
 ||lilaw.pl^
-||lovingjoy.com^
 ||lovita.pl^
 ||makeup.pl^
 ||mamuski.de^
@@ -42,26 +36,18 @@
 ||ofpolska.pl^
 ||parlamourshop.com^
 ||party-cams.com^
-||pinkshop.pl^
 ||pocztakubkowa.pl^
 ||podkoronka.pl^
 ||polskie-pornole.pl^
 ||polskieof.pl^
 ||pornolik.pl^
 ||pornstar.pl^
-||redarena.pl^
 ||redshop24.pl^
-||refform.pl^
 ||renahandmade.pl^
 ||roksa.priv.pl^
 ||samanta.pl^
 ||secretdelivery.pl^
 ||secretlover.pl^
-||secretplace.pl^
-||sekrecik.pl^
-||sensu.pl^
-||sexonic.eu^
-||sexshop.com.pl^
 ||sexshop69.pl^
 ||sexshoppink.pl^
 ||sklep-bdsm.com^
@@ -76,7 +62,6 @@
 ||unikat-comp.pl^
 ||venus.net.pl^
 ||wibratorylogopedyczne.pl^
-||xstory.pl^
 ||yesboss.pl^
 ||yourobsession.pl^
 ||zolta.pl^

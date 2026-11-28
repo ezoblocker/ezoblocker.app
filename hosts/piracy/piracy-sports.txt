@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy, illegal sports streams
-# Domains: 555 | Updated: 2026-11-27
+# Domains: 557 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/piracy-sports.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -81,6 +81,7 @@
 0.0.0.0 crictime.is
 0.0.0.0 daddylive.pk
 0.0.0.0 daddylivetv.top
+0.0.0.0 data.j-league.or.jp
 0.0.0.0 dekoora.store
 0.0.0.0 deportes.cartagena.es
 0.0.0.0 dev-forms-engine-api.brisbane.qld.gov.au
@@ -408,6 +409,7 @@
 0.0.0.0 streameastapp.club
 0.0.0.0 streameasti.site
 0.0.0.0 streameastis.cfd
+0.0.0.0 streameastis.live
 0.0.0.0 streameastl.live
 0.0.0.0 streameastmirror.com
 0.0.0.0 streameastonline.com

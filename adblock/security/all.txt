@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Security
-! Domains: 72,275 | Updated: 2026-11-27
+! Domains: 72,273 | Updated: 2026-11-28
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/security/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1178,7 +1178,6 @@
 ||adobedocumentfiles.pages.dev^
 ||adobedocumentit.pages.dev^
 ||adobedocumentpdf2.pages.dev^
-||adobedocviews.app^
 ||adobefile-ced.pages.dev^
 ||adobeflash.pages.dev^
 ||adobeflashdeca.pages.dev^
@@ -1714,6 +1713,7 @@
 ||akbank-4us.pages.dev^
 ||akbank-data.pages.dev^
 ||akbank-interface.com^
+||akbank-tr.biz^
 ||akbank-tr.info^
 ||akbank-tr.live^
 ||akbank-tr.pro^
@@ -3655,6 +3655,7 @@
 ||aramexdelivery-glsgroup.com.ph^
 ||arbeitsagentur-jobcenter-erotikjob.de^
 ||arc-ledger-com-start.pages.dev^
+|archer.westeurope.cloudapp.azure.com^
 ||arciumint.pages.dev^
 ||arciumyield.com^
 ||arcticvaltrixai.org^
@@ -21788,7 +21789,6 @@
 ||go-whatsappk.hl.cn^
 |go.microsotfonline.cloud-auths.com^
 ||go88whatsapp-com.pages.dev^
-||goal-whatsapp.com.cn^
 ||gobold-fblogin.pages.dev^
 ||godim-whatapp.hl.cn^
 ||gogoflifewqw3552sfasfasfasffhdasdas.pages.dev^
@@ -40349,7 +40349,6 @@
 ||loginoutlooknewdirectoryaccesdiravativesasdministrationpan.pages.dev^
 ||loginoutlookonedrivesettingsharepilntcoipilotpaapllication.pages.dev^
 ||loginpage-leedger-usa.pages.dev^
-||loginrevolutsigninacess.com^
 ||loginrobinhood.pages.dev^
 ||loginroblox.pages.dev^
 ||logins-cuenta-google.pages.dev^
@@ -40645,7 +40644,6 @@
 ||lokalna-ofeta091.sbs^
 ||lokalna-ofeta1023xz3y2j032.icu^
 ||lokalna-ofeta102xz5y2j079.icu^
-||lokalna-ofeta12621.sbs^
 ||lokalna-ofeta1554243.shop^
 ||lokalna-ofeta2221.sbs^
 ||lokalna-ofeta275428.shop^
@@ -44686,6 +44684,7 @@
 ||nnet-coin-login.pages.dev^
 ||no-ledgr-starts.pages.dev^
 ||no-reply-alerts.co.uk^
+||noblekapithold.store^
 ||nobodyrobloxid.pages.dev^
 ||nocaptcha-metabusiness.com^
 ||node-connect-walethub.pages.dev^
@@ -59702,6 +59701,7 @@
 ||think-exodso-en-us.pages.dev^
 ||think-trezor-strt.pages.dev^
 ||think-trzor-io.pages.dev^
+||thinkim-whatapp.hl.cn^
 ||thivaru.my.id^
 ||thorchaiin-walet-auth.pages.dev^
 ||thorchain-cu5.pages.dev^
@@ -66016,7 +66016,6 @@
 ||up-verasfasfasfasfbasbfas97fa9sfasfnasbas.pages.dev^
 ||upadate-ledgere-desktop-en.pages.dev^
 ||upancakeswap.pages.dev^
-||upbeat-whatsapp.com.cn^
 ||upcoming-trezo-starts.pages.dev^
 ||updatbooklngprearrlvaldetals.com^
 ||update-account-coinbsehelp.pages.dev^
@@ -72257,7 +72256,6 @@
 ||zoryn-core.pages.dev^
 ||zoryn-hold.pages.dev^
 ||zoryn-vault.pages.dev^
-||zpq-whatsapp.com.cn^
 ||zship-2pendax-admin.pages.dev^
 ||ztgjmq2t.pages.dev^
 ||ztut0wsn-web-telegram-org.pages.dev^

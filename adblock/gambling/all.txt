@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Gambling
-! Domains: 971,658 | Updated: 2026-11-27
+! Domains: 971,667 | Updated: 2026-11-28
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/gambling/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -72796,6 +72796,7 @@
 ||applepaycasino.io^
 ||applepaycasino.monster^
 ||applepaycasino.net^
+||applepaycasinoaustralia.com^
 ||applepaycasinoer.radio.fm^
 ||applepaycasinolist.com^
 ||applepaycasinon-com.pages.dev^
@@ -72808,6 +72809,7 @@
 ||applepaycasinos.it^
 ||applepaycasinos.nl^
 ||applepaycasinosau.com^
+||applepaycasinosonline.com^
 ||applepaykasino2026.com^
 ||applepaykasinot.net^
 ||applepayonlinecasino.com^
@@ -89629,6 +89631,7 @@
 ||bababet22-situs-slot.pages.dev^
 ||bababet22selalu.club^
 ||bababet22selalu.online^
+||bababonusu.com^
 ||babacasino.gr^
 ||babacasino.online^
 ||babacasino.us.com^
@@ -125712,6 +125715,7 @@
 ||betlinetranslator.com^
 ||betlink14.com^
 ||betlink15.com^
+||betlink67.com^
 ||betlinkbolatop.com^
 ||betlinkbolatop1.com^
 ||betlinki2.pro^
@@ -135024,8 +135028,6 @@
 ||betsilin.net^
 ||betsilin.xyz^
 ||betsilin1000.com^
-||betsilin773.com^
-||betsilin776.com^
 ||betsilin778.com^
 ||betsilin787.com^
 ||betsilin958.com^
@@ -146059,6 +146061,7 @@
 ||big-5-casino.org^
 ||big-azart-gambling.ru^
 ||big-baazi-casino.in^
+||big-bamboo-casino-slots.ru^
 ||big-bamboo-casino.com^
 ||big-bamboo-casino.ru^
 ||big-bass-bonanza-1000-slot.com^
@@ -164959,6 +164962,8 @@
 ||bonusrekoru.com^
 ||bonusreviewsgambling.com^
 ||bonusrizkcasino.com^
+||bonusrobin.com^
+||bonusrozeti.com^
 ||bonusrtpmerpatislot88.shop^
 ||bonusrupiahtotoid.com^
 ||bonussambaslots.pages.dev^
@@ -186715,6 +186720,7 @@
 ||cashwin1113.com^
 ||cashwin1115.com^
 ||cashwin1116.com^
+||cashwin1117.com^
 ||cashwin1201.com^
 ||cashwin1221.com^
 ||cashwin22.ru^
@@ -246912,7 +246918,6 @@
 ||casinoslot297.com^
 ||casinoslot351.com^
 ||casinoslot42.com^
-||casinoslot505.com^
 ||casinoslot66.com^
 ||casinoslot7-nl-55aae0.pages.dev^
 ||casinoslot7-online.com^
@@ -246930,7 +246935,6 @@
 ||casinoslot88.com^
 ||casinoslot88.net^
 ||casinoslot88.org^
-||casinoslot880.com^
 ||casinoslot888.com^
 ||casinoslota-at.pages.dev^
 ||casinoslota-net.pages.dev^
@@ -285675,6 +285679,7 @@
 ||criptomatica-kukutoto.pages.dev^
 ||criptomonedascasinos.es^
 ||crisisfundvikingbet88.pages.dev^
+||crisislineandreferralservice.org^
 ||crisp-app.com^
 ||crispcreps-tvtoto.pages.dev^
 ||crispy-casino99.top^
@@ -326809,6 +326814,7 @@
 ||esportsbetting.win^
 ||esportsbettingsitesnotongamstop.it.com^
 ||esportsbitcasino.io^
+||esportsbonus.net^
 ||esportsbook.de^
 ||esportsgamble.com^
 ||esportsgamblingguide.com^
@@ -467335,6 +467341,7 @@
 ||kdbet.is^
 ||kdbet88.com^
 ||kdbetkdslots.us^
+||kdekaro.be^
 ||kdgacor.pages.dev^
 ||kdi88-slot-gacor.pages.dev^
 ||kdjitu.com^
@@ -474226,7 +474233,6 @@
 ||kingmakercasinonz.com^
 ||kingmakercasinoo.de^
 ||kingmakercasinoo.it^
-||kingmakercasinoofficial.com^
 ||kingmakercasinoofficial.eu^
 ||kingmakercasinoofficial.it^
 ||kingmakercasinoonline.com^
@@ -475286,6 +475292,7 @@
 ||kisstotoe.sbs^
 ||kisstotok.lol^
 ||kissy918casino.com^
+||kistabusinessnetwork.se^
 ||kistotoid.com^
 ||kit-anti-tigrinho.pages.dev^
 ||kit-casino.fr^
@@ -518368,6 +518375,7 @@
 ||luckybirdcasino.uk^
 ||luckybirdcasino.win^
 ||luckybirdcasino1.de^
+||luckybirdcasino100.com^
 ||luckybirdcasino11.pl^
 ||luckybirdcasino12.pl^
 ||luckybirdcasino13.pl^
@@ -535027,6 +535035,7 @@
 ||majong777net-slot-maxwin.pages.dev^
 ||majong77org-slot-maxwin.pages.dev^
 ||major-cs2.com^
+||majorbet1145.com^
 ||majorbettingbonuses.com^
 ||majorcasino-slot-gacor.pages.dev^
 ||majorcasino.pages.dev^
@@ -541857,6 +541866,7 @@
 ||matbet.st^
 ||matbet.win^
 ||matbet1.pages.dev^
+||matbet1029.com^
 ||matbet163.com^
 ||matbet2.pages.dev^
 ||matbet3.pages.dev^
@@ -599064,7 +599074,6 @@
 ||newlucky-casino.uk^
 ||newlucky-casino1-net-44f802.pages.dev^
 ||newlucky-casinos-nl.com^
-||newlucky-casinos.com^
 ||newlucky-pokies.com^
 ||newluckybet-co-nl.pages.dev^
 ||newluckycasino-au.com^
@@ -618502,6 +618511,7 @@
 ||oddsringflashcasino.com^
 ||oddstipscasino.co.uk^
 ||oddswizzard.com^
+||oddvora.com^
 ||oddxbet.com^
 ||oddzecasino.de^
 ||oddzecasino.org^
@@ -663463,7 +663473,6 @@
 ||pincocasino.pe^
 ||pincocasino.ru^
 ||pincocasino.sbs^
-||pincocasino.store^
 ||pincocasino.tj^
 ||pincocasino.uy^
 ||pincocasino.website^
@@ -672935,6 +672944,7 @@
 ||play-store-zoome.casino^
 ||play-superbet.org^
 ||play-superbetting.pages.dev^
+||play-superslots.com^
 ||play-sweet-bonanza-slot.com.ua^
 ||play-synottip.org^
 ||play-tempobet.pages.dev^
@@ -680475,7 +680485,6 @@
 ||poker-zone-guide.com^
 ||poker-zone.xyz^
 ||poker-zveza.si^
-||poker-zynga.com^
 ||poker.fit^
 ||poker108-link-hivo.pages.dev^
 ||poker108-next-level.pages.dev^
@@ -697141,6 +697150,7 @@
 ||probet709.com^
 ||probet710.com^
 ||probet711.com^
+||probet713.com^
 ||probet788fox.live^
 ||probet855-gacorpisan.pages.dev^
 ||probet855livertp2024.pages.dev^
@@ -718025,6 +718035,7 @@
 ||redonbetcasino.cz^
 ||redonbetcasino.pl^
 ||redonlinecasinos.com^
+||redorbet389.com^
 ||redpalacecasino.com^
 ||redpalacepoker.com^
 ||redpandacasino.org^
@@ -762320,7 +762331,6 @@
 ||sevenslot777apk.com^
 ||sevenslotgacor-sdecor.pages.dev^
 ||sevenslotk.lol^
-||sevenslots.org^
 ||sevenslots.ro^
 ||sevenslotsales.com^
 ||sevenslotscasino.com^
@@ -799424,7 +799434,6 @@
 ||slotspalace-fi.com^
 ||slotspalace-fi.eu.com^
 ||slotspalace-fi.org^
-||slotspalace-finland.com^
 ||slotspalace-fr.casino^
 ||slotspalace-fr.com^
 ||slotspalace-fr.eu.com^

@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security
-# Domains: 72,275 | Updated: 2026-11-27
+# Domains: 72,273 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1178,7 +1178,6 @@
 0.0.0.0 adobedocumentfiles.pages.dev
 0.0.0.0 adobedocumentit.pages.dev
 0.0.0.0 adobedocumentpdf2.pages.dev
-0.0.0.0 adobedocviews.app
 0.0.0.0 adobefile-ced.pages.dev
 0.0.0.0 adobeflash.pages.dev
 0.0.0.0 adobeflashdeca.pages.dev
@@ -1714,6 +1713,7 @@
 0.0.0.0 akbank-4us.pages.dev
 0.0.0.0 akbank-data.pages.dev
 0.0.0.0 akbank-interface.com
+0.0.0.0 akbank-tr.biz
 0.0.0.0 akbank-tr.info
 0.0.0.0 akbank-tr.live
 0.0.0.0 akbank-tr.pro
@@ -3655,6 +3655,7 @@
 0.0.0.0 aramexdelivery-glsgroup.com.ph
 0.0.0.0 arbeitsagentur-jobcenter-erotikjob.de
 0.0.0.0 arc-ledger-com-start.pages.dev
+0.0.0.0 archer.westeurope.cloudapp.azure.com
 0.0.0.0 arciumint.pages.dev
 0.0.0.0 arciumyield.com
 0.0.0.0 arcticvaltrixai.org
@@ -21788,7 +21789,6 @@
 0.0.0.0 go-whatsappk.hl.cn
 0.0.0.0 go.microsotfonline.cloud-auths.com
 0.0.0.0 go88whatsapp-com.pages.dev
-0.0.0.0 goal-whatsapp.com.cn
 0.0.0.0 gobold-fblogin.pages.dev
 0.0.0.0 godim-whatapp.hl.cn
 0.0.0.0 gogoflifewqw3552sfasfasfasffhdasdas.pages.dev
@@ -40349,7 +40349,6 @@
 0.0.0.0 loginoutlooknewdirectoryaccesdiravativesasdministrationpan.pages.dev
 0.0.0.0 loginoutlookonedrivesettingsharepilntcoipilotpaapllication.pages.dev
 0.0.0.0 loginpage-leedger-usa.pages.dev
-0.0.0.0 loginrevolutsigninacess.com
 0.0.0.0 loginrobinhood.pages.dev
 0.0.0.0 loginroblox.pages.dev
 0.0.0.0 logins-cuenta-google.pages.dev
@@ -40645,7 +40644,6 @@
 0.0.0.0 lokalna-ofeta091.sbs
 0.0.0.0 lokalna-ofeta1023xz3y2j032.icu
 0.0.0.0 lokalna-ofeta102xz5y2j079.icu
-0.0.0.0 lokalna-ofeta12621.sbs
 0.0.0.0 lokalna-ofeta1554243.shop
 0.0.0.0 lokalna-ofeta2221.sbs
 0.0.0.0 lokalna-ofeta275428.shop
@@ -44686,6 +44684,7 @@
 0.0.0.0 nnet-coin-login.pages.dev
 0.0.0.0 no-ledgr-starts.pages.dev
 0.0.0.0 no-reply-alerts.co.uk
+0.0.0.0 noblekapithold.store
 0.0.0.0 nobodyrobloxid.pages.dev
 0.0.0.0 nocaptcha-metabusiness.com
 0.0.0.0 node-connect-walethub.pages.dev
@@ -59702,6 +59701,7 @@
 0.0.0.0 think-exodso-en-us.pages.dev
 0.0.0.0 think-trezor-strt.pages.dev
 0.0.0.0 think-trzor-io.pages.dev
+0.0.0.0 thinkim-whatapp.hl.cn
 0.0.0.0 thivaru.my.id
 0.0.0.0 thorchaiin-walet-auth.pages.dev
 0.0.0.0 thorchain-cu5.pages.dev
@@ -66016,7 +66016,6 @@
 0.0.0.0 up-verasfasfasfasfbasbfas97fa9sfasfnasbas.pages.dev
 0.0.0.0 upadate-ledgere-desktop-en.pages.dev
 0.0.0.0 upancakeswap.pages.dev
-0.0.0.0 upbeat-whatsapp.com.cn
 0.0.0.0 upcoming-trezo-starts.pages.dev
 0.0.0.0 updatbooklngprearrlvaldetals.com
 0.0.0.0 update-account-coinbsehelp.pages.dev
@@ -72257,7 +72256,6 @@
 0.0.0.0 zoryn-core.pages.dev
 0.0.0.0 zoryn-hold.pages.dev
 0.0.0.0 zoryn-vault.pages.dev
-0.0.0.0 zpq-whatsapp.com.cn
 0.0.0.0 zship-2pendax-admin.pages.dev
 0.0.0.0 ztgjmq2t.pages.dev
 0.0.0.0 ztut0wsn-web-telegram-org.pages.dev

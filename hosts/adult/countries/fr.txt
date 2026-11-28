@@ -1,30 +1,20 @@
 # Title: EZOBLOCKER Adult, France (fr)
-# Domains: 65 | Updated: 2026-11-27
+# Domains: 46 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/fr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 absolutube.com
-0.0.0.0 amateurfrancais.fr
-0.0.0.0 avenue-privee.com
-0.0.0.0 babylonloveshop.com
 0.0.0.0 bodyhouse.fr
 0.0.0.0 boutique-erotique.fr
 0.0.0.0 boutiqueduplaisir.fr
-0.0.0.0 boystore.com
 0.0.0.0 calendrierdelavent.com
 0.0.0.0 chat.europnet.org
-0.0.0.0 concordelove.fr
 0.0.0.0 deboutonnees.com
 0.0.0.0 degriffstock.com
 0.0.0.0 desirel.fr
-0.0.0.0 domlust.com
-0.0.0.0 dorcelstore.com
-0.0.0.0 easylove-shop.com
 0.0.0.0 easytoys.fr
-0.0.0.0 escorts69.fr
 0.0.0.0 fera-daemon.com
-0.0.0.0 gaystore.fr
 0.0.0.0 glamourseduction.store
 0.0.0.0 goldcondom.com
 0.0.0.0 hypnoze.fr
@@ -32,11 +22,8 @@
 0.0.0.0 ideedudesir.fr
 0.0.0.0 jacquieetmichel-contacts.com
 0.0.0.0 jacquieetmichelstore.com
-0.0.0.0 jadelingerie.fr
 0.0.0.0 laboutiqueduhard.fr
 0.0.0.0 lafrancecoquine.net
-0.0.0.0 lescapricesdalice.fr
-0.0.0.0 live-show-francais.net
 0.0.0.0 luxure-miam.ch
 0.0.0.0 maison-du-plug.fr
 0.0.0.0 maptiteculotte.com
@@ -55,17 +42,11 @@
 0.0.0.0 poupee-sexuelle.fr
 0.0.0.0 puissante.co
 0.0.0.0 rencontre-une-lesbienne.com
-0.0.0.0 ruedesplaisirs.com
 0.0.0.0 senea.fr
-0.0.0.0 senkys.com
 0.0.0.0 sexealafrancaise.com
 0.0.0.0 sexshop.cm
 0.0.0.0 sextoysunivers.com
-0.0.0.0 sexyavenue.com
-0.0.0.0 sinful.fr
 0.0.0.0 solenashop.ch
 0.0.0.0 sopigalle.com
 0.0.0.0 tumando.co
 0.0.0.0 universpharmacie.fr
-0.0.0.0 vivasexe.com
-0.0.0.0 xpipole.com

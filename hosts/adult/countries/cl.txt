@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Chile (cl)
-# Domains: 33 | Updated: 2026-11-27
+# Domains: 30 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/cl.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,13 +7,11 @@
 0.0.0.0 americasexshop.com.ar
 0.0.0.0 belove.cl
 0.0.0.0 deseovibrante.cl
-0.0.0.0 dominame.cl
 0.0.0.0 dulceshop.cl
 0.0.0.0 duosexshop.cl
 0.0.0.0 japijane.cl
 0.0.0.0 jenylove.cl
 0.0.0.0 moira.cl
-0.0.0.0 ohmylove.cl
 0.0.0.0 ovejanegraboutique.cl
 0.0.0.0 puntosexshop.com.ar
 0.0.0.0 regalatelo.cl
@@ -26,7 +24,6 @@
 0.0.0.0 sexshopadomicilio.cl
 0.0.0.0 sexshopconcepcion.cl
 0.0.0.0 sexshopgallery.cl
-0.0.0.0 sexshopmayorista.cl
 0.0.0.0 sexshopofertas.cl
 0.0.0.0 sexshopsomosplacer.cl
 0.0.0.0 sexshoptouchme.cl

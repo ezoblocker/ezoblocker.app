@@ -1,22 +1,19 @@
 # Title: EZOBLOCKER Adult, Switzerland (ch)
-# Domains: 71 | Updated: 2026-11-27
+# Domains: 60 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ch.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 0.0.0.0 1advd.ch
-0.0.0.0 6navi.ch
 0.0.0.0 amorelie.ch
 0.0.0.0 balkanporn.com
 0.0.0.0 bocola.de
 0.0.0.0 bombengirls.ch
-0.0.0.0 bombshell-shop.ch
 0.0.0.0 bonbonrose.ch
 0.0.0.0 bremen.city-map.de
 0.0.0.0 brigademondaine.fr
 0.0.0.0 cchic-style.com
 0.0.0.0 cdn.siegessaeule.de
-0.0.0.0 cherry.ch
 0.0.0.0 club-echangiste.eu
 0.0.0.0 clubsaint-tropez.ch
 0.0.0.0 eisen-herz.ch
@@ -31,7 +28,6 @@
 0.0.0.0 funline.ch
 0.0.0.0 gaymap.es
 0.0.0.0 heisseanzeigen.at
-0.0.0.0 hottime.ch
 0.0.0.0 iafi.info
 0.0.0.0 inserotik.ch
 0.0.0.0 intimshop.sk
@@ -42,14 +38,11 @@
 0.0.0.0 loveiu.ch
 0.0.0.0 lovers.rs
 0.0.0.0 lovesexshop.no
-0.0.0.0 lust24.ch
 0.0.0.0 maennerzone.com
 0.0.0.0 massage123.ch
-0.0.0.0 meaculpa.ch
 0.0.0.0 meraki-shop.de
 0.0.0.0 moviejones.de
 0.0.0.0 mrlove.ch
-0.0.0.0 omello.de
 0.0.0.0 orionversand.ch
 0.0.0.0 persoenlich.com
 0.0.0.0 petitfute.de
@@ -63,12 +56,8 @@
 0.0.0.0 rollingstone.fr
 0.0.0.0 s-world.at
 0.0.0.0 schweiz.inserate.gratis
-0.0.0.0 sedusia.ch
 0.0.0.0 sexyshopticino.ch
-0.0.0.0 sineros.de
-0.0.0.0 sinful.ch
 0.0.0.0 swisscam.com.br
-0.0.0.0 temptations.dk
 0.0.0.0 thekidsfunfactory.ca
 0.0.0.0 untamed.love
 0.0.0.0 verdener-auktion-online.com

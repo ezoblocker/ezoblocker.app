@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Thailand (th)
-# Domains: 55 | Updated: 2026-11-27
+# Domains: 52 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/th.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -18,11 +18,8 @@ jakxun.cashbackclub.it
 *.love2toy.com
 *.mimixtoy.com
 rosetoyshop.bentoweb.com
-*.sextoy4u2.com
-*.sextoythailand.com
 *.siamsextoys.com
 *.siamtenga.com
-*.siao69.net
 *.thaisextoy.com
 *.tops.co.th
 *.toysrus.co.th

@@ -1,12 +1,11 @@
 # Title: EZOBLOCKER Adult, Nigeria (ng)
-# Domains: 21 | Updated: 2026-11-27
+# Domains: 19 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/ng.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.erocraves.com
 *.fsiblogx.com.im
-*.giggles.com
 *.gw-corp.com
 *.hickorypark.com
 *.jewelcairnstore.com
@@ -19,7 +18,6 @@
 *.ntlingerie.com
 *.oppsystore.com
 *.sexpenditure.com
-*.svakom.com
 *.thebodyshop.ng
 *.thefemalestore.com.ng
 *.thenairastore.com

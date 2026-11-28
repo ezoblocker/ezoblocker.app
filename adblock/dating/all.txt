@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Dating
-! Domains: 1,404 | Updated: 2026-11-27
+! Domains: 1,407 | Updated: 2026-11-28
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/dating/all.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -843,6 +843,7 @@
 ||muhabbetiniz.net^
 |mullingar.level-web.ru^
 |mumbai.selectyourgirls.com^
+|mures.abcescorte.com^
 ||muslima.com^
 |mx.loquovip.com^
 |mx.pander.pro^
@@ -939,6 +940,7 @@
 ||oudevrouwenchat.nl^
 ||ourtime.com^
 |paak.adwento.com^
+|pagox.helpselmode.casa^
 ||pakichatrooms.com^
 |pakistan.videocall.network^
 ||pakistanichatroom.com.pk^
@@ -1398,6 +1400,7 @@
 |za.xtonight.com^
 |zap.struckd.com^
 |zaporojskiy-chat.fosite.ru^
+||zcheckerviet.co^
 ||zcheckerviet.com^
 ||zcheckerviet.net^
 ||zcheckerviet.vip^

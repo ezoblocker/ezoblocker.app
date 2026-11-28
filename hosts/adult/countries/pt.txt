@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Portugal (pt)
-# Domains: 59 | Updated: 2026-11-27
+# Domains: 49 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/pt.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,15 +7,12 @@
 0.0.0.0 1001noites.com
 0.0.0.0 3hentai.net.br
 0.0.0.0 amoredesejo.com
-0.0.0.0 anesidora.net
 0.0.0.0 beus.com.br
 0.0.0.0 boutiqueluxuria.pt
 0.0.0.0 cambabes.fr
 0.0.0.0 compreintt.com.br
 0.0.0.0 control.pt
-0.0.0.0 cupidosshop.com
 0.0.0.0 dreamsptystore.com
-0.0.0.0 erosmania.com.br
 0.0.0.0 essencesexshop.com.br
 0.0.0.0 facebelas.com
 0.0.0.0 fanfindportugal.com
@@ -23,19 +20,14 @@
 0.0.0.0 frutoproibido.com
 0.0.0.0 frutoproibido.pai.pt
 0.0.0.0 funsexyshop.pt
-0.0.0.0 hentaianime.cc
 0.0.0.0 hentaimania.net
 0.0.0.0 hotsexshop.com.br
 0.0.0.0 lasantinimodaintima.com.br
 0.0.0.0 lisboa.classificadosgratis.com.pt
 0.0.0.0 lojaafrodite.com.br
 0.0.0.0 lojadiscretinha.com.br
-0.0.0.0 lojadodesejo.com.br
 0.0.0.0 lojadodesejo.pt
 0.0.0.0 lovely.com.br
-0.0.0.0 loveshop.pt
-0.0.0.0 luxoseroticos.com
-0.0.0.0 lxsexshop.pt
 0.0.0.0 maletavermelha.com
 0.0.0.0 milemocoes.com.br
 0.0.0.0 mistercock.pt
@@ -43,7 +35,6 @@
 0.0.0.0 novitalingerie.com.br
 0.0.0.0 onlinecambabes.com
 0.0.0.0 ooh.enbrevubca.blog
-0.0.0.0 ousadias.pt
 0.0.0.0 perolasexshop.pt
 0.0.0.0 pornocomlegenda.tv
 0.0.0.0 pornotuga.com
@@ -60,6 +51,5 @@
 0.0.0.0 sexshopsexy.com
 0.0.0.0 sotugas.net
 0.0.0.0 thehentaiteca.lat
-0.0.0.0 vibrolandia.com
 0.0.0.0 vivelavita.com
 0.0.0.0 welcomelover.com

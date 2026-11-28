@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, United Arab Emirates (ae)
-# Domains: 46 | Updated: 2026-11-27
+# Domains: 37 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/ae.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,13 +10,10 @@
 0.0.0.0 adultshop.com.au
 0.0.0.0 adultshop61.my.canva.site
 0.0.0.0 adultshopsouth.com
-0.0.0.0 adultsmart.com.au
 0.0.0.0 adulttoysuae.com
 0.0.0.0 adultworldx.com
-0.0.0.0 amorana.ch
 0.0.0.0 arabporn.com.es
 0.0.0.0 arabx77.com
-0.0.0.0 bondara.co.uk
 0.0.0.0 dubailovetoys.com
 0.0.0.0 dubaiplasticfun.com
 0.0.0.0 emiratesleaks.com
@@ -25,7 +22,6 @@
 0.0.0.0 joydivision.de
 0.0.0.0 liuhongzi.com
 0.0.0.0 lovelytoysfactory.com
-0.0.0.0 loversshop.com.au
 0.0.0.0 lovetoyadu.com
 0.0.0.0 lovetoys.com.br
 0.0.0.0 lovetoys.nu
@@ -33,17 +29,12 @@
 0.0.0.0 magic-x.ch
 0.0.0.0 manchesteradultlifestyles.com
 0.0.0.0 oniontoyuae.com
-0.0.0.0 pleasurestore.ie
 0.0.0.0 scandals.love
-0.0.0.0 secretsdubai.com
-0.0.0.0 secretsdubai.net
 0.0.0.0 sexshop365.co.uk
 0.0.0.0 sextoys.cloudns.be
-0.0.0.0 sextoysindubai.com
 0.0.0.0 sextoysuae.com
 0.0.0.0 sextoyuae.store
 0.0.0.0 sjoyful.com
-0.0.0.0 soamazing.com
 0.0.0.0 sohosoriginaladultstore.com
 0.0.0.0 theintimatestore.com
 0.0.0.0 thelovestore.com

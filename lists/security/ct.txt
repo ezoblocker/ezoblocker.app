@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 72,265 | Updated: 2026-11-27
+# Domains: 72,262 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -1178,7 +1178,6 @@ adobedoc-pdf.dillmintol.com
 *.adobedocumentfiles.pages.dev
 *.adobedocumentit.pages.dev
 *.adobedocumentpdf2.pages.dev
-*.adobedocviews.app
 *.adobefile-ced.pages.dev
 *.adobeflash.pages.dev
 *.adobeflashdeca.pages.dev
@@ -1714,6 +1713,7 @@ airbnb-face-verification.codewithsachintha.com
 *.akbank-4us.pages.dev
 *.akbank-data.pages.dev
 *.akbank-interface.com
+*.akbank-tr.biz
 *.akbank-tr.info
 *.akbank-tr.live
 *.akbank-tr.pro
@@ -21786,7 +21786,6 @@ go-us-paypal.atlcco.com
 *.go-whatsappk.hl.cn
 go.microsotfonline.cloud-auths.com
 *.go88whatsapp-com.pages.dev
-*.goal-whatsapp.com.cn
 *.gobold-fblogin.pages.dev
 *.godim-whatapp.hl.cn
 *.gogoflifewqw3552sfasfasfasffhdasdas.pages.dev
@@ -40344,7 +40343,6 @@ loginlive.microsotfonline.cloud-auths.com
 *.loginoutlooknewdirectoryaccesdiravativesasdministrationpan.pages.dev
 *.loginoutlookonedrivesettingsharepilntcoipilotpaapllication.pages.dev
 *.loginpage-leedger-usa.pages.dev
-*.loginrevolutsigninacess.com
 *.loginrobinhood.pages.dev
 *.loginroblox.pages.dev
 *.logins-cuenta-google.pages.dev
@@ -40640,7 +40638,6 @@ logons.microsoftonline.office365.file-sharepoint.keflextabs.online
 *.lokalna-ofeta091.sbs
 *.lokalna-ofeta1023xz3y2j032.icu
 *.lokalna-ofeta102xz5y2j079.icu
-*.lokalna-ofeta12621.sbs
 *.lokalna-ofeta1554243.shop
 *.lokalna-ofeta2221.sbs
 *.lokalna-ofeta275428.shop
@@ -44681,6 +44678,7 @@ nimbus-psd.blackrainbow.dev
 *.nnet-coin-login.pages.dev
 *.no-ledgr-starts.pages.dev
 *.no-reply-alerts.co.uk
+*.noblekapithold.store
 *.nobodyrobloxid.pages.dev
 *.nocaptcha-metabusiness.com
 *.node-connect-walethub.pages.dev
@@ -59692,6 +59690,7 @@ testing-us-paypal.brycon.us
 *.think-exodso-en-us.pages.dev
 *.think-trezor-strt.pages.dev
 *.think-trzor-io.pages.dev
+*.thinkim-whatapp.hl.cn
 *.thivaru.my.id
 *.thorchaiin-walet-auth.pages.dev
 *.thorchain-cu5.pages.dev
@@ -66006,7 +66005,6 @@ up-top-bonus-bet-sign-690.hamdah.shop
 *.up-verasfasfasfasfbasbfas97fa9sfasfnasbas.pages.dev
 *.upadate-ledgere-desktop-en.pages.dev
 *.upancakeswap.pages.dev
-*.upbeat-whatsapp.com.cn
 *.upcoming-trezo-starts.pages.dev
 *.updatbooklngprearrlvaldetals.com
 *.update-account-coinbsehelp.pages.dev
@@ -72247,7 +72245,6 @@ zoom-usweb004.guopsr.top
 *.zoryn-core.pages.dev
 *.zoryn-hold.pages.dev
 *.zoryn-vault.pages.dev
-*.zpq-whatsapp.com.cn
 *.zship-2pendax-admin.pages.dev
 *.ztgjmq2t.pages.dev
 *.ztut0wsn-web-telegram-org.pages.dev

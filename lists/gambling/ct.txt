@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Gambling, ct
-# Domains: 969,895 | Updated: 2026-11-27
+# Domains: 969,890 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/gambling/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -72663,6 +72663,7 @@
 *.applepaycasino.io
 *.applepaycasino.monster
 *.applepaycasino.net
+*.applepaycasinoaustralia.com
 *.applepaycasinoer.radio.fm
 *.applepaycasinolist.com
 *.applepaycasinon-com.pages.dev
@@ -72675,6 +72676,7 @@
 *.applepaycasinos.it
 *.applepaycasinos.nl
 *.applepaycasinosau.com
+*.applepaycasinosonline.com
 *.applepaykasino2026.com
 *.applepaykasinot.net
 *.applepayonlinecasino.com
@@ -134691,8 +134693,6 @@
 *.betsilin.net
 *.betsilin.xyz
 *.betsilin1000.com
-*.betsilin773.com
-*.betsilin776.com
 *.betsilin778.com
 *.betsilin787.com
 *.betsilin958.com
@@ -145673,6 +145673,7 @@
 *.big-5-casino.org
 *.big-azart-gambling.ru
 *.big-baazi-casino.in
+*.big-bamboo-casino-slots.ru
 *.big-bamboo-casino.com
 *.big-bamboo-casino.ru
 *.big-bass-bonanza-1000-slot.com
@@ -246380,7 +246381,6 @@
 *.casinoslot297.com
 *.casinoslot351.com
 *.casinoslot42.com
-*.casinoslot505.com
 *.casinoslot66.com
 *.casinoslot7-nl-55aae0.pages.dev
 *.casinoslot7-online.com
@@ -246398,7 +246398,6 @@
 *.casinoslot88.com
 *.casinoslot88.net
 *.casinoslot88.org
-*.casinoslot880.com
 *.casinoslot888.com
 *.casinoslota-at.pages.dev
 *.casinoslota-net.pages.dev
@@ -473326,7 +473325,6 @@
 *.kingmakercasinonz.com
 *.kingmakercasinoo.de
 *.kingmakercasinoo.it
-*.kingmakercasinoofficial.com
 *.kingmakercasinoofficial.eu
 *.kingmakercasinoofficial.it
 *.kingmakercasinoonline.com
@@ -517405,6 +517403,7 @@
 *.luckybirdcasino.uk
 *.luckybirdcasino.win
 *.luckybirdcasino1.de
+*.luckybirdcasino100.com
 *.luckybirdcasino11.pl
 *.luckybirdcasino12.pl
 *.luckybirdcasino13.pl
@@ -597925,7 +597924,6 @@
 *.newlucky-casino.uk
 *.newlucky-casino1-net-44f802.pages.dev
 *.newlucky-casinos-nl.com
-*.newlucky-casinos.com
 *.newlucky-pokies.com
 *.newluckybet-co-nl.pages.dev
 *.newluckycasino-au.com
@@ -662205,7 +662203,6 @@
 *.pincocasino.pe
 *.pincocasino.ru
 *.pincocasino.sbs
-*.pincocasino.store
 *.pincocasino.tj
 *.pincocasino.uy
 *.pincocasino.website
@@ -671666,6 +671663,7 @@
 *.play-store-zoome.casino
 *.play-superbet.org
 *.play-superbetting.pages.dev
+*.play-superslots.com
 *.play-sweet-bonanza-slot.com.ua
 *.play-synottip.org
 *.play-tempobet.pages.dev
@@ -679194,7 +679192,6 @@
 *.poker-zone-guide.com
 *.poker-zone.xyz
 *.poker-zveza.si
-*.poker-zynga.com
 *.poker.fit
 *.poker108-link-hivo.pages.dev
 *.poker108-next-level.pages.dev
@@ -760887,7 +760884,6 @@
 *.sevenslot777apk.com
 *.sevenslotgacor-sdecor.pages.dev
 *.sevenslotk.lol
-*.sevenslots.org
 *.sevenslots.ro
 *.sevenslotsales.com
 *.sevenslotscasino.com
@@ -797959,7 +797955,6 @@
 *.slotspalace-fi.com
 *.slotspalace-fi.eu.com
 *.slotspalace-fi.org
-*.slotspalace-finland.com
 *.slotspalace-fr.casino
 *.slotspalace-fr.com
 *.slotspalace-fr.eu.com

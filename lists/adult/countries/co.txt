@@ -1,11 +1,10 @@
 # Title: EZOBLOCKER Adult, Colombia (co)
-# Domains: 45 | Updated: 2026-11-27
+# Domains: 39 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/co.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.avenida69.co
-*.balisexstore.com
 *.besame.com
 *.bousens.com
 catalogo.treinta.co
@@ -16,7 +15,6 @@ catalogo.treinta.co
 *.elcuartorosa.com
 *.eligetujuguete.com
 *.ellipselingerie.com
-*.eroticfeel.com
 *.erotikashop.cl
 especiales.soho.co
 *.gigo.com.co
@@ -31,7 +29,6 @@ especiales.soho.co
 *.orionsexshop.com.co
 *.platanomelon.com.co
 *.pornocolombiano.net
-*.salvajesexstore.com
 *.secretos.com.co
 *.senfantasy.com
 *.sensotikashop.com
@@ -43,9 +40,6 @@ especiales.soho.co
 *.sexsymbol.com.co
 *.sextosentiido.com
 *.stay-on.co
-*.tiendacereza.com
-*.tiendaeroticapasiones.com
 *.travesuraseroticas69.com
 *.tudeseosexshop.com
-*.tuerotica.com
 *.zonaerotica.com.co

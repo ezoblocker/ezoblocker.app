@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Australia (au)
-# Domains: 46 | Updated: 2026-11-27
+# Domains: 37 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/au.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,14 +7,11 @@
 *.adulti.com.au
 *.adultmegastore.com.au
 adulttoymegastore.valuecom.com
-*.adulttoystore.com.au
 *.aussieamateurs.com.au
 *.aussiebabes.net.au
 *.aussiecams.com.au
-*.blackknighterotica.com.au
 *.cherrybanana.com.au
 *.cloudblvd.com.au
-*.clubx.com.au
 *.danishblue.com.au
 *.darquepath.com.au
 *.dollsdownunder.com
@@ -29,24 +26,18 @@ adulttoymegastore.valuecom.com
 *.joujou.com.au
 *.katthelabel.com
 *.loveaffairboutique.com.au
-*.lovehoney.com.au
 *.nikkidarling.biz
 *.parisloversboutique.com
 *.passionfruitshop.com.au
 *.pleasurechest.com.au
-*.randyfox.com.au
 *.redlightaustralia.com
 *.reignboutique.com
 *.sexsy.net.au
-*.sextoyserotica.com.au
-*.sexyland.com.au
 *.smokenmirror.co.uk
-*.thehotspot.com.au
 *.thevelvetangel.com
 *.thistleandspire.com
 *.toadhalltoys.ca
 *.varietypleasure.com.au
 *.victoriassecret.com.au
 *.vushstimulation.com
-*.wildsecrets.com.au
 *.wildsecretslingerie.com.au

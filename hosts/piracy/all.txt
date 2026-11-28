@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,376 | Updated: 2026-11-27
+# Domains: 1,380 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -191,6 +191,7 @@
 0.0.0.0 cinecalidadonline.xyz
 0.0.0.0 cityofsurrey.perfectmind.com
 0.0.0.0 clare.gaa.ie
+0.0.0.0 coflix.meme
 0.0.0.0 comprariptv.com
 0.0.0.0 compucalitv.lol
 0.0.0.0 compucalitv.tv
@@ -232,6 +233,7 @@
 0.0.0.0 daddylive.pk
 0.0.0.0 daddylivetv.top
 0.0.0.0 darkino.fr
+0.0.0.0 data.j-league.or.jp
 0.0.0.0 db.iptv.blog
 0.0.0.0 ddizibox.com
 0.0.0.0 ddizibox.net
@@ -264,6 +266,7 @@
 0.0.0.0 dizilab.cc
 0.0.0.0 dizilab.to
 0.0.0.0 dizipaliptv.com.tr
+0.0.0.0 dizipalorjinal23.com
 0.0.0.0 diziyou.info
 0.0.0.0 diziyou.one
 0.0.0.0 diziyou.vip
@@ -1126,6 +1129,7 @@
 0.0.0.0 streameastapp.club
 0.0.0.0 streameasti.site
 0.0.0.0 streameastis.cfd
+0.0.0.0 streameastis.live
 0.0.0.0 streameastl.live
 0.0.0.0 streameastmirror.com
 0.0.0.0 streameastonline.com

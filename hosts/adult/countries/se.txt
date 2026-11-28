@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Sweden (se)
-# Domains: 36 | Updated: 2026-11-27
+# Domains: 25 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/se.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -19,24 +19,13 @@
 0.0.0.0 joyme.se
 0.0.0.0 kondomeriet.com
 0.0.0.0 kondomeriet.se
-0.0.0.0 lovebuddy.se
-0.0.0.0 lovesexshop.se
-0.0.0.0 lovestore.se
 0.0.0.0 lustjakt.com
-0.0.0.0 lustkarlek.se
 0.0.0.0 morethanlove.se
-0.0.0.0 mshop.se
 0.0.0.0 passionerad.se
 0.0.0.0 passionerat.se
-0.0.0.0 porr93.com
-0.0.0.0 porrtube.com
 0.0.0.0 prospektly.se
 0.0.0.0 sexbutiker.se
 0.0.0.0 sexleksakeroutlet.se
 0.0.0.0 sexpunkten.se
-0.0.0.0 sinful.se
 0.0.0.0 svensk-porr.com
-0.0.0.0 taboo.se
-0.0.0.0 vuxen.se
-0.0.0.0 vuxenkul.se
 0.0.0.0 xn--bstvuxenleksaker-vnb.se

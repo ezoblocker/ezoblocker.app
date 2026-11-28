@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Australia (au)
-# Domains: 46 | Updated: 2026-11-27
+# Domains: 37 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/au.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -7,14 +7,11 @@
 0.0.0.0 adulti.com.au
 0.0.0.0 adultmegastore.com.au
 0.0.0.0 adulttoymegastore.valuecom.com
-0.0.0.0 adulttoystore.com.au
 0.0.0.0 aussieamateurs.com.au
 0.0.0.0 aussiebabes.net.au
 0.0.0.0 aussiecams.com.au
-0.0.0.0 blackknighterotica.com.au
 0.0.0.0 cherrybanana.com.au
 0.0.0.0 cloudblvd.com.au
-0.0.0.0 clubx.com.au
 0.0.0.0 danishblue.com.au
 0.0.0.0 darquepath.com.au
 0.0.0.0 dollsdownunder.com
@@ -29,24 +26,18 @@
 0.0.0.0 joujou.com.au
 0.0.0.0 katthelabel.com
 0.0.0.0 loveaffairboutique.com.au
-0.0.0.0 lovehoney.com.au
 0.0.0.0 nikkidarling.biz
 0.0.0.0 parisloversboutique.com
 0.0.0.0 passionfruitshop.com.au
 0.0.0.0 pleasurechest.com.au
-0.0.0.0 randyfox.com.au
 0.0.0.0 redlightaustralia.com
 0.0.0.0 reignboutique.com
 0.0.0.0 sexsy.net.au
-0.0.0.0 sextoyserotica.com.au
-0.0.0.0 sexyland.com.au
 0.0.0.0 smokenmirror.co.uk
-0.0.0.0 thehotspot.com.au
 0.0.0.0 thevelvetangel.com
 0.0.0.0 thistleandspire.com
 0.0.0.0 toadhalltoys.ca
 0.0.0.0 varietypleasure.com.au
 0.0.0.0 victoriassecret.com.au
 0.0.0.0 vushstimulation.com
-0.0.0.0 wildsecrets.com.au
 0.0.0.0 wildsecretslingerie.com.au

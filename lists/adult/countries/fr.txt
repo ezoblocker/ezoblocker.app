@@ -1,30 +1,20 @@
 # Title: EZOBLOCKER Adult, France (fr)
-# Domains: 65 | Updated: 2026-11-27
+# Domains: 46 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/adult/countries/fr.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
 *.absolutube.com
-*.amateurfrancais.fr
-*.avenue-privee.com
-*.babylonloveshop.com
 *.bodyhouse.fr
 *.boutique-erotique.fr
 *.boutiqueduplaisir.fr
-*.boystore.com
 *.calendrierdelavent.com
 chat.europnet.org
-*.concordelove.fr
 *.deboutonnees.com
 *.degriffstock.com
 *.desirel.fr
-*.domlust.com
-*.dorcelstore.com
-*.easylove-shop.com
 *.easytoys.fr
-*.escorts69.fr
 *.fera-daemon.com
-*.gaystore.fr
 *.glamourseduction.store
 *.goldcondom.com
 *.hypnoze.fr
@@ -32,11 +22,8 @@ chat.europnet.org
 *.ideedudesir.fr
 *.jacquieetmichel-contacts.com
 *.jacquieetmichelstore.com
-*.jadelingerie.fr
 *.laboutiqueduhard.fr
 *.lafrancecoquine.net
-*.lescapricesdalice.fr
-*.live-show-francais.net
 *.luxure-miam.ch
 *.maison-du-plug.fr
 *.maptiteculotte.com
@@ -55,17 +42,11 @@ chat.europnet.org
 *.poupee-sexuelle.fr
 *.puissante.co
 *.rencontre-une-lesbienne.com
-*.ruedesplaisirs.com
 *.senea.fr
-*.senkys.com
 *.sexealafrancaise.com
 *.sexshop.cm
 *.sextoysunivers.com
-*.sexyavenue.com
-*.sinful.fr
 *.solenashop.ch
 *.sopigalle.com
 *.tumando.co
 *.universpharmacie.fr
-*.vivasexe.com
-*.xpipole.com

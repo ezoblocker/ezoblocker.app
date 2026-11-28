@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Vietnam (vn)
-# Domains: 169 | Updated: 2026-11-27
+# Domains: 161 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/vn.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -54,7 +54,6 @@
 0.0.0.0 i.clipviet.blog
 0.0.0.0 javcen.net
 0.0.0.0 javchat.blog
-0.0.0.0 javhdvn.org
 0.0.0.0 javnhatban.net
 0.0.0.0 javnhe.tv
 0.0.0.0 javsuong.blog
@@ -70,10 +69,8 @@
 0.0.0.0 mobiblogtvz.club
 0.0.0.0 mobiblogtvz.homes
 0.0.0.0 mupvn.co.uk
-0.0.0.0 mytoyvn.com
 0.0.0.0 nam18.vn
 0.0.0.0 nuhoangkhoaicam.vn
-0.0.0.0 oichin.net
 0.0.0.0 phe69.forum
 0.0.0.0 phe69.guru
 0.0.0.0 phe69.link
@@ -132,15 +129,11 @@
 0.0.0.0 sexvndep.com
 0.0.0.0 sexvnn-tv.blog
 0.0.0.0 shop18cm.com
-0.0.0.0 shopadam.vn
 0.0.0.0 shopbaocaosupro.com
 0.0.0.0 shopdochoi.net
 0.0.0.0 shopdochoinguoilondanang.com
-0.0.0.0 shopdochoitinhyeu.com
 0.0.0.0 shophanhphuc.com
 0.0.0.0 shopkiss.net
-0.0.0.0 shopkiss.vn
-0.0.0.0 shopnguoilon.com.vn
 0.0.0.0 shopsextoy.com.vn
 0.0.0.0 shopthaonguyen-store.com
 0.0.0.0 shoptinhai.org
@@ -152,7 +145,6 @@
 0.0.0.0 sphimsex.net
 0.0.0.0 tmscsp.scoripfragin.blog
 0.0.0.0 trungdochoi.com
-0.0.0.0 viet69.be
 0.0.0.0 viet69hays.live
 0.0.0.0 viet69z.blog
 0.0.0.0 viet69z.de

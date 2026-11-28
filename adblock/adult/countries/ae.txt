@@ -1,5 +1,5 @@
 ! Title: EZOBLOCKER Adult, United Arab Emirates (ae)
-! Domains: 46 | Updated: 2026-11-27
+! Domains: 37 | Updated: 2026-11-28
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/ae.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -10,13 +10,10 @@
 ||adultshop.com.au^
 ||adultshop61.my.canva.site^
 ||adultshopsouth.com^
-||adultsmart.com.au^
 ||adulttoysuae.com^
 ||adultworldx.com^
-||amorana.ch^
 ||arabporn.com.es^
 ||arabx77.com^
-||bondara.co.uk^
 ||dubailovetoys.com^
 ||dubaiplasticfun.com^
 ||emiratesleaks.com^
@@ -25,7 +22,6 @@
 ||joydivision.de^
 ||liuhongzi.com^
 ||lovelytoysfactory.com^
-||loversshop.com.au^
 ||lovetoyadu.com^
 ||lovetoys.com.br^
 ||lovetoys.nu^
@@ -33,17 +29,12 @@
 ||magic-x.ch^
 ||manchesteradultlifestyles.com^
 ||oniontoyuae.com^
-||pleasurestore.ie^
 ||scandals.love^
-||secretsdubai.com^
-||secretsdubai.net^
 ||sexshop365.co.uk^
 ||sextoys.cloudns.be^
-||sextoysindubai.com^
 ||sextoysuae.com^
 ||sextoyuae.store^
 ||sjoyful.com^
-||soamazing.com^
 ||sohosoriginaladultstore.com^
 ||theintimatestore.com^
 ||thelovestore.com^

@@ -1,22 +1,19 @@
 ! Title: EZOBLOCKER Adult, Switzerland (ch)
-! Domains: 71 | Updated: 2026-11-27
+! Domains: 60 | Updated: 2026-11-28
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/ch.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
 ||1advd.ch^
-||6navi.ch^
 ||amorelie.ch^
 ||balkanporn.com^
 ||bocola.de^
 ||bombengirls.ch^
-||bombshell-shop.ch^
 ||bonbonrose.ch^
 |bremen.city-map.de^
 ||brigademondaine.fr^
 ||cchic-style.com^
 |cdn.siegessaeule.de^
-||cherry.ch^
 ||club-echangiste.eu^
 ||clubsaint-tropez.ch^
 ||eisen-herz.ch^
@@ -31,7 +28,6 @@
 ||funline.ch^
 ||gaymap.es^
 ||heisseanzeigen.at^
-||hottime.ch^
 ||iafi.info^
 ||inserotik.ch^
 ||intimshop.sk^
@@ -42,14 +38,11 @@
 ||loveiu.ch^
 ||lovers.rs^
 ||lovesexshop.no^
-||lust24.ch^
 ||maennerzone.com^
 ||massage123.ch^
-||meaculpa.ch^
 ||meraki-shop.de^
 ||moviejones.de^
 ||mrlove.ch^
-||omello.de^
 ||orionversand.ch^
 ||persoenlich.com^
 ||petitfute.de^
@@ -63,12 +56,8 @@
 ||rollingstone.fr^
 ||s-world.at^
 |schweiz.inserate.gratis^
-||sedusia.ch^
 ||sexyshopticino.ch^
-||sineros.de^
-||sinful.ch^
 ||swisscam.com.br^
-||temptations.dk^
 ||thekidsfunfactory.ca^
 ||untamed.love^
 ||verdener-auktion-online.com^

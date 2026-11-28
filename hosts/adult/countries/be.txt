@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Adult, Belgium (be)
-# Domains: 32 | Updated: 2026-11-27
+# Domains: 26 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/adult/countries/be.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -17,21 +17,15 @@
 0.0.0.0 fantasmesecret.be
 0.0.0.0 kempel.nl
 0.0.0.0 klantcontact.nl
-0.0.0.0 lextase.be
-0.0.0.0 lottelust.nl
 0.0.0.0 lovelysecret.be
 0.0.0.0 notino.be
-0.0.0.0 orchidtoys.com
-0.0.0.0 pabo.be
 0.0.0.0 sensationsshop.be
 0.0.0.0 sensdessusdessous.be
 0.0.0.0 sex.vlaanderen
 0.0.0.0 sexchatroom.be
-0.0.0.0 sinful.be
 0.0.0.0 thomasmorehs.nl
 0.0.0.0 trustedshops.nl
 0.0.0.0 viaa.nl
-0.0.0.0 webcam-sex.nl
 0.0.0.0 webcam.vlaanderen
 0.0.0.0 webxcams.eu
 0.0.0.0 willie.be

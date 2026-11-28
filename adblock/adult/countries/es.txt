@@ -1,13 +1,11 @@
 ! Title: EZOBLOCKER Adult, Spain (es)
-! Domains: 47 | Updated: 2026-11-27
+! Domains: 35 | Updated: 2026-11-28
 ! Homepage: https://github.com/ezoblocker/ezoblocker.app
 ! Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/adblock/adult/countries/es.txt
 ! License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 ! App: https://ezoblocker.app
-||belover.es^
 ||campornox.com^
 ||comparar.net^
-||condonesmix.com^
 ||dulcespecados.com^
 ||erectus.com^
 ||eroticmax.net^
@@ -19,35 +17,25 @@
 ||jaloo.es^
 ||lamagiahot.com^
 ||lareinadeparis.com^
-||lasexshopencasa.es^
 ||librerialuces.com^
-||lojaifody.com.br^
-||lolatoys.com^
 ||losplaceresdelola.com^
 ||lovegames.es^
-||lovesexing.com^
 ||madurasfollando.com^
 ||masturbadoreshombre.com^
 ||melopasogoma.com^
 ||metalshop.es^
-||mundoerotico.es^
 ||nicaerotic.com^
 ||nontabu.com^
 ||onlyfansapi.com^
 ||pasensaciones.com^
 ||patxi.es^
-||picansex.com^
 ||privatesexshoppanama.com^
 ||prive.uy^
 ||seductime.es^
 ||sexcenter.tienda^
 ||sexshopamatista.com^
-||sextoyscenter.net^
 ||shopsexmachine.com^
 ||takershop.com^
-||thecoldlady.com^
 ||tiendafetichista.com^
 ||tiendapoppers.com^
-||tu-juguete-erotico.com^
-||vangoren.com^
 |wwued.cantumendio.blog^
