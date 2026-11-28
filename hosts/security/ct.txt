@@ -1,10 +1,9 @@
 # Title: EZOBLOCKER Security, ct
-# Domains: 72,262 | Updated: 2026-11-28
+# Domains: 72,293 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/hosts/security/ct.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
 # App: https://ezoblocker.app
-0.0.0.0 00-sec-secure-chase-personal-christine.chaseonline00.eu.cc
 0.0.0.0 0020vurq-appleid.pages.dev
 0.0.0.0 00whatsappsexx.pages.dev
 0.0.0.0 01whatsappsex.pages.dev
@@ -933,6 +932,7 @@
 0.0.0.0 account-robnhood-io.pages.dev
 0.0.0.0 account-robnhood-us.pages.dev
 0.0.0.0 account-security.advanced-coinbase.workers.dev
+0.0.0.0 account-signin-googlle.nitlworld.com
 0.0.0.0 account-trezo-io.pages.dev
 0.0.0.0 account-trezro-strt-io.pages.dev
 0.0.0.0 account-trrzr-start-us.pages.dev
@@ -996,6 +996,7 @@
 0.0.0.0 acess-trzorio.pages.dev
 0.0.0.0 acess-trzr-io--start.pages.dev
 0.0.0.0 acesso-bancoctt-digital.billing-verification.click
+0.0.0.0 acesso-netemprrsasativar.click
 0.0.0.0 acessogarantido.it.com
 0.0.0.0 acnor4-1qorin.pages.dev
 0.0.0.0 acnor4-1vexil.pages.dev
@@ -1198,6 +1199,7 @@
 0.0.0.0 adobepdf00002.pages.dev
 0.0.0.0 adobepdffiles.pages.dev
 0.0.0.0 adobepdfonline.com
+0.0.0.0 adobepdfsign.com
 0.0.0.0 adobereader-4b3.pages.dev
 0.0.0.0 adobereader-blb.pages.dev
 0.0.0.0 adobereader.es
@@ -1601,7 +1603,6 @@
 0.0.0.0 aethirclouds.pages.dev
 0.0.0.0 aethirrpcnode.pages.dev
 0.0.0.0 af-hana-join-0928.pages.dev
-0.0.0.0 aframe-whatsapp.com.cn
 0.0.0.0 again-legorlive.pages.dev
 0.0.0.0 again-suite-trezorr-cdn.pages.dev
 0.0.0.0 again-trezor-start-us.pages.dev
@@ -1895,7 +1896,6 @@
 0.0.0.0 amazonshopv.cc
 0.0.0.0 amazonstorepage.co
 0.0.0.0 ambil-hadiah10jtresmi4dana.pages.dev
-0.0.0.0 amendes.justice.gov-mail.eu.cc
 0.0.0.0 america-first-credit.pages.dev
 0.0.0.0 americanexpress-card.it
 0.0.0.0 americanexpress-sales.biz
@@ -3066,6 +3066,7 @@
 0.0.0.0 apple-security-ex0.pages.dev
 0.0.0.0 apple-security.es
 0.0.0.0 apple-segiuridad-cuenta.com
+0.0.0.0 apple-service-point.ru
 0.0.0.0 apple-signin-test.pages.dev
 0.0.0.0 apple-support-auth.help
 0.0.0.0 apple-support-critical-action-needed.pages.dev
@@ -3265,6 +3266,7 @@
 0.0.0.0 appofficialtrezorstart.pages.dev
 0.0.0.0 approve-krakn-log.pages.dev
 0.0.0.0 approved-epayments-yajaira-perez-secured-portal.pages.dev
+0.0.0.0 approvesllerrconfrmationppage.shop
 0.0.0.0 apps----trzre----desktop.pages.dev
 0.0.0.0 apps---ldgre-live.pages.dev
 0.0.0.0 apps---live-laedger.pages.dev
@@ -5633,6 +5635,7 @@
 0.0.0.0 binance-site.hl.cn
 0.0.0.0 binance-site.pages.dev
 0.0.0.0 binance-staking.pages.dev
+0.0.0.0 binance-store.com.cn
 0.0.0.0 binance-team.email
 0.0.0.0 binance-the-world-s-most-trusted-cryptocurrency-exchange-t.pages.dev
 0.0.0.0 binance-trading-bot-36q.pages.dev
@@ -5994,6 +5997,7 @@
 0.0.0.0 blockchainsupports.org
 0.0.0.0 blockchainverification.pages.dev
 0.0.0.0 blockchainwallet.pages.dev
+0.0.0.0 blockchainwallets.xyz
 0.0.0.0 blockchainwalletsupport.pages.dev
 0.0.0.0 blockdag---networks.pages.dev
 0.0.0.0 blockdag--networks.pages.dev
@@ -6254,6 +6258,7 @@
 0.0.0.0 bookingveriflcation403775.com
 0.0.0.0 booklng-extranet-panel9801.click
 0.0.0.0 booklng-gudtr.com
+0.0.0.0 booklng-reserve.com
 0.0.0.0 booklng-uptdgustes.com
 0.0.0.0 booklng.info
 0.0.0.0 booklngadmin.help
@@ -6987,6 +6992,7 @@
 0.0.0.0 brimo-festival-hadiah.pages.dev
 0.0.0.0 brimo-fstvl-berlimpah-hadiah.pages.dev
 0.0.0.0 brimzor-quelvik-biz-tramnel-forsiq-sp11ct5.pages.dev
+0.0.0.0 brinelavo.vu
 0.0.0.0 brinexis-haven.pages.dev
 0.0.0.0 brinexis-vault.pages.dev
 0.0.0.0 bring-cadastro-times.pages.dev
@@ -7973,6 +7979,7 @@
 0.0.0.0 ce41bsq7-appleid.pages.dev
 0.0.0.0 ceat-trezue-file.pages.dev
 0.0.0.0 ceifbankstp.com
+0.0.0.0 cekilis-binance.com
 0.0.0.0 celorivaiv92.com
 0.0.0.0 celorix-haven.pages.dev
 0.0.0.0 celorix-vault.pages.dev
@@ -10702,6 +10709,7 @@
 0.0.0.0 conflrmatlon-id209.com
 0.0.0.0 conflrmsoldllsting.shop
 0.0.0.0 conflrrn-reserv-19467280.com
+0.0.0.0 conflrrn-reserv-26074891.com
 0.0.0.0 conflrrn-reserv-38175629.com
 0.0.0.0 conflrrn-reserv-58162943.com
 0.0.0.0 conflrrn-reserv-62790483.com
@@ -11196,6 +11204,7 @@
 0.0.0.0 coreim-whatapp.hl.cn
 0.0.0.0 coremeltdownroblox.pages.dev
 0.0.0.0 corex-trades-back.pages.dev
+0.0.0.0 correios-shipment.shop
 0.0.0.0 correo.ouigo-mulliez.es
 0.0.0.0 correo.outloo.it
 0.0.0.0 correoargentin-glsgroup.com.ph
@@ -11236,8 +11245,10 @@
 0.0.0.0 cranol-biz-pelqir-123zwv26.pages.dev
 0.0.0.0 crashrobloxid.pages.dev
 0.0.0.0 cratos-cratosroyalbetgirs.com
+0.0.0.0 cratosroyalbet-gen-tr.xyz
 0.0.0.0 cratosroyalbet-gir.vip
 0.0.0.0 cratosroyalbet-girisimiz.icu
+0.0.0.0 cratosroyalbetgirisleri.cc
 0.0.0.0 crcyptocom-login.pages.dev
 0.0.0.0 cre-ate-robinhod-login.pages.dev
 0.0.0.0 creat--trezer-iostart.pages.dev
@@ -11660,6 +11671,9 @@
 0.0.0.0 datarockvalnex-engine-com.pages.dev
 0.0.0.0 datemesssxx21.pages.dev
 0.0.0.0 daten-29-kleinanzeigen.site
+0.0.0.0 daten-aktualisierung-jetzt.de
+0.0.0.0 daten-aktualisierungsdienst.de
+0.0.0.0 daten-compliance-now.de
 0.0.0.0 dating-whatsapp.pages.dev
 0.0.0.0 dating-whatsappme.pages.dev
 0.0.0.0 datingmoom-whatsapp.pages.dev
@@ -13486,6 +13500,7 @@
 0.0.0.0 docss-ledgger-us.pages.dev
 0.0.0.0 docstrezzr-wallet.pages.dev
 0.0.0.0 doctormartenscl.com
+0.0.0.0 doctormartensencolombia.com
 0.0.0.0 doctormartensmx.com
 0.0.0.0 docu-onedrive-view.cc
 0.0.0.0 docu-signature-online-doc-service.pages.dev
@@ -18283,6 +18298,7 @@
 0.0.0.0 expedlapartrnercentral.com
 0.0.0.0 expedlapasrtnrcentrsal.com
 0.0.0.0 expedlaprtnercentrail.com
+0.0.0.0 expedlaprtnercentral.com
 0.0.0.0 expedlascentralpartnersl.com
 0.0.0.0 expedlascentralpartnersli.com
 0.0.0.0 expedlascentralpartnerssli.com
@@ -20115,6 +20131,7 @@
 0.0.0.0 forte-rendovale-italy.top
 0.0.0.0 forth-ionos.pages.dev
 0.0.0.0 forti-rendovanz-italy.sbs
+0.0.0.0 forti-rendovanz-italy.top
 0.0.0.0 fortish-federal-oceans-reserve-bk.com
 0.0.0.0 fortnite-refund.info
 0.0.0.0 fortnite-vbucks45.pages.dev
@@ -21875,6 +21892,7 @@
 0.0.0.0 googlemeet08web.pages.dev
 0.0.0.0 googlemeetinvite.pages.dev
 0.0.0.0 googlemeetinviteus02.pages.dev
+0.0.0.0 googlemeets.live
 0.0.0.0 googlemeett.pages.dev
 0.0.0.0 googlemeetus06.pages.dev
 0.0.0.0 googlemeetus07.pages.dev
@@ -23885,7 +23903,6 @@
 0.0.0.0 hk-whatsaspp-zsu.hk.cn
 0.0.0.0 hkim-whatapp.hl.cn
 0.0.0.0 hkseek-whatapp.com.cn
-0.0.0.0 hkwhatsapp.eu.cc
 0.0.0.0 hlep-ledgre-en.pages.dev
 0.0.0.0 hlksaglkrhber.cfd
 0.0.0.0 hlp--desktop-ledgr.pages.dev
@@ -25939,6 +25956,7 @@
 0.0.0.0 hostmaster-us-paypal.goyafoodsuck.biz
 0.0.0.0 hot-vidios-on-my-whatsapp-ah4.pages.dev
 0.0.0.0 hoteelres-botuqesa9235.com
+0.0.0.0 hoteeslres-botuqesa18654.com
 0.0.0.0 hotel-conflrmreservatlon.com
 0.0.0.0 hotel-vfcation-guest.com
 0.0.0.0 hotelservce-relayroom41.com
@@ -26690,7 +26708,6 @@
 0.0.0.0 ie-trust-wallet.pages.dev
 0.0.0.0 ie-xodusweb.pages.dev
 0.0.0.0 iec-entralised-exods.pages.dev
-0.0.0.0 iek-whatsapp.com.cn
 0.0.0.0 ien-live-leddgr.pages.dev
 0.0.0.0 ieo-phantomwala.pages.dev
 0.0.0.0 if-trezrstart.pages.dev
@@ -27410,6 +27427,7 @@
 0.0.0.0 instagramverificationhelpcentersupport.com.ph
 0.0.0.0 instagramverificationloginhelplinenumberonline.ph
 0.0.0.0 instagramverificationsupportlinecontactdesk.com.ph
+0.0.0.0 instagramverify.ir
 0.0.0.0 instagramviral.vidaplenadigital.net
 0.0.0.0 install--ledger-live.pages.dev
 0.0.0.0 install--ledgerlive.pages.dev
@@ -29973,10 +29991,12 @@
 0.0.0.0 jt-express-brazil.asmontech.online
 0.0.0.0 jtexpress-ca.top
 0.0.0.0 jtexpress-cd.top
+0.0.0.0 jtexpress-cf.top
 0.0.0.0 jtexpress-cj.top
 0.0.0.0 jtexpress-cl.top
 0.0.0.0 jtexpress-cx.top
 0.0.0.0 jtexpress-cz.top
+0.0.0.0 jtexpress-da.top
 0.0.0.0 jtexpress-ds.top
 0.0.0.0 jtexpress-ea.top
 0.0.0.0 jtexpress-eb.top
@@ -30350,6 +30370,8 @@
 0.0.0.0 ketos-reward-nft-meta-airdrop-6.cloudflare1602.workers.dev
 0.0.0.0 keuwvc-rddiplomrddiplomrddiplomrddiplomrddiplom-rddiplom.click
 0.0.0.0 kexkra27.vip
+0.0.0.0 kexkra83.vip
+0.0.0.0 kexkra86.vip
 0.0.0.0 key-coinbas-extension--get.pages.dev
 0.0.0.0 key-coinbas-extension-get.pages.dev
 0.0.0.0 key-coinbas-extension-getting.pages.dev
@@ -30541,6 +30563,7 @@
 0.0.0.0 konbase-pro-logn.pages.dev
 0.0.0.0 konbse-pro-loge.pages.dev
 0.0.0.0 konfirmasi-tiktok.pages.dev
+0.0.0.0 konto-daten-aktualisieren.de
 0.0.0.0 konto-twint.info
 0.0.0.0 kontoparibas-digital.pages.dev
 0.0.0.0 kontoparibassoft-click.pages.dev
@@ -40255,7 +40278,6 @@
 0.0.0.0 loginmiccrosoftonlineer7.pages.dev
 0.0.0.0 loginmicroosoftonline365directorycompossettingsdevelopersm.pages.dev
 0.0.0.0 loginmicrosfotonline4.pages.dev
-0.0.0.0 loginmicrosftonline.cc.cd
 0.0.0.0 loginmicrosoftonline-comcommon-auth-client-id-0000002-0000.pages.dev
 0.0.0.0 loginmicrosoftonline.pages.dev
 0.0.0.0 loginmicrosoftonline1.pages.dev
@@ -40843,7 +40865,6 @@
 0.0.0.0 m1qvc1qn-teiegarm.pages.dev
 0.0.0.0 m2cashph.com
 0.0.0.0 m8kenofe.pages.dev
-0.0.0.0 ma-amendes-justilce-gov.eu.cc
 0.0.0.0 mabar138play.com
 0.0.0.0 mabar89play.com
 0.0.0.0 mac-worldcup-fifa.com.cn
@@ -41251,7 +41272,6 @@
 0.0.0.0 medium-bitbuy.pages.dev
 0.0.0.0 medium-trezor-auth.pages.dev
 0.0.0.0 meet-google-com.cc
-0.0.0.0 meet-google-com.pro
 0.0.0.0 meet-google-su24587467567884.pages.dev
 0.0.0.0 meet-google937878777478.pages.dev
 0.0.0.0 meet-googlee4567898089.pages.dev
@@ -41306,6 +41326,7 @@
 0.0.0.0 merge-blockdagnetwork.pages.dev
 0.0.0.0 mergeblockdag-network.pages.dev
 0.0.0.0 mergeblockdag.pages.dev
+0.0.0.0 mergentest13.live
 0.0.0.0 meridiankapithal.store
 0.0.0.0 merlok-savrin-biz-jelvar-torvex-sp7ct12.pages.dev
 0.0.0.0 mern-netflix-clone-frontend.pages.dev
@@ -44020,6 +44041,7 @@
 0.0.0.0 net-coins-logn.pages.dev
 0.0.0.0 net-coins-pro-web.pages.dev
 0.0.0.0 net-coins-pro.pages.dev
+0.0.0.0 net-empresas-acesso.click
 0.0.0.0 net-fix-web.pages.dev
 0.0.0.0 net-google.com
 0.0.0.0 net-io-leedger-live.pages.dev
@@ -44220,6 +44242,7 @@
 0.0.0.0 netcouin-login.pages.dev
 0.0.0.0 netcxoin-login.pages.dev
 0.0.0.0 netempresarialacesso.digital
+0.0.0.0 netempresasapp.digital
 0.0.0.0 netempresaspj.net
 0.0.0.0 netfilx-clone.pages.dev
 0.0.0.0 netfilx-invoice.com
@@ -44242,7 +44265,6 @@
 0.0.0.0 netflix-5hh.pages.dev
 0.0.0.0 netflix-8eq.pages.dev
 0.0.0.0 netflix-app-hr6.pages.dev
-0.0.0.0 netflix-apply.com
 0.0.0.0 netflix-b6e.pages.dev
 0.0.0.0 netflix-be-com.pages.dev
 0.0.0.0 netflix-by-apkmody.pages.dev
@@ -47854,6 +47876,7 @@
 0.0.0.0 pay-for-usdt-trc20-000495.pages.dev
 0.0.0.0 pay-for-usdt-trc20-000499.pages.dev
 0.0.0.0 pay-freedommobile.com
+0.0.0.0 pay-now-sg.shop
 0.0.0.0 pay-pal-24x7-quicksupp0rt-twentyf0uraab.pages.dev
 0.0.0.0 pay-pal-get-helps-number1800.pages.dev
 0.0.0.0 pay-pal-get-helps1800.pages.dev
@@ -50308,6 +50331,7 @@
 0.0.0.0 reeloadn.pages.dev
 0.0.0.0 referees-handballbelgium.be
 0.0.0.0 refphototan.dpdns.org
+0.0.0.0 refund-blockdag.network
 0.0.0.0 refund-kelpdao.info
 0.0.0.0 refund-saldo-dana.pages.dev
 0.0.0.0 reg-eigenlayerxyz.pages.dev
@@ -51122,7 +51146,6 @@
 0.0.0.0 samtaomodemiinzx.ammyd1.workers.dev
 0.0.0.0 sandesh-clipzo-facebook-contect-us.pages.dev
 0.0.0.0 sanicrobloxid.pages.dev
-0.0.0.0 santander-client.com
 0.0.0.0 santander-info.com.mx
 0.0.0.0 santander-inicio.com
 0.0.0.0 santander-netbanco.digital
@@ -57732,12 +57755,14 @@
 0.0.0.0 superbetin-girisyap.com
 0.0.0.0 superbetin-grsleri2026.vip
 0.0.0.0 superbetin-guncel2026.icu
+0.0.0.0 superbetin-guncelerisim.vip
 0.0.0.0 superbetin2026giris.icu
 0.0.0.0 superbetingiris-yeni.com
 0.0.0.0 superbetingiris728.vip
 0.0.0.0 superbetingirisadresin.vip
 0.0.0.0 superbetingirisie.com
 0.0.0.0 superbetingirisimiz.com
+0.0.0.0 superbetinguncel.site
 0.0.0.0 superbetinguncel2026.icu
 0.0.0.0 supercorehelpdaap.pages.dev
 0.0.0.0 superformfoundation.pages.dev
@@ -59143,6 +59168,7 @@
 0.0.0.0 tejegnaovld.ink
 0.0.0.0 tejegnhpxco.fit
 0.0.0.0 tejegnhpxco.wiki
+0.0.0.0 tejegnhpxco.work
 0.0.0.0 tejegnpbxo.top
 0.0.0.0 tejegnpbxo.wiki
 0.0.0.0 tejegnqszuf.ink
@@ -59257,6 +59283,7 @@
 0.0.0.0 tejeqtutbd.yachts
 0.0.0.0 tejequantuml.wiki
 0.0.0.0 tejevividgri.work
+0.0.0.0 tejevkwuzd.yachts
 0.0.0.0 tejor-io-strt.pages.dev
 0.0.0.0 tejrr-bridge-begin.pages.dev
 0.0.0.0 teken168-official.pages.dev
@@ -59364,11 +59391,14 @@
 0.0.0.0 telegrupsxx.pages.dev
 0.0.0.0 telegxxsab.bond
 0.0.0.0 telegxxsab.cyou
+0.0.0.0 telejunmyo.wiki
 0.0.0.0 telekom-invoice-checker-it.pages.dev
 0.0.0.0 telenor-mne-jxsul.icu
 0.0.0.0 teleproogr.click
 0.0.0.0 teleproogr.club
 0.0.0.0 teleproogu.click
+0.0.0.0 teleproogu.club
+0.0.0.0 teleproogu.help
 0.0.0.0 teleproogu.shop
 0.0.0.0 teleroxixw.beer
 0.0.0.0 teleroxroc.bond
@@ -59383,6 +59413,7 @@
 0.0.0.0 telexxsbrw.luxe
 0.0.0.0 telexxsbrw.yoga
 0.0.0.0 telexxskis.shop
+0.0.0.0 telexxslog.shop
 0.0.0.0 telexxsoig.bond
 0.0.0.0 telexxsoig.luxe
 0.0.0.0 teleyprosm.help
@@ -59548,6 +59579,7 @@
 0.0.0.0 testing-us-paypal.brycon.us
 0.0.0.0 tevecoria.work
 0.0.0.0 tevehyzel.top
+0.0.0.0 tevewavix.club
 0.0.0.0 tew-whatsapp.com.cn
 0.0.0.0 texolura-janorive.pages.dev
 0.0.0.0 text-esl-org-fraud.cfd
@@ -67613,7 +67645,6 @@
 0.0.0.0 ustrzorcrypt.pages.dev
 0.0.0.0 ustrzr-strt.pages.dev
 0.0.0.0 usw2-us-paypal.prosperityprivateinvestments.org
-0.0.0.0 uswebzoomcall.pacon.eu.cc
 0.0.0.0 uszoom.pages.dev
 0.0.0.0 uszoom01web.pages.dev
 0.0.0.0 uszoom06.pages.dev
@@ -67819,6 +67850,7 @@
 0.0.0.0 verificationpage-seller.click
 0.0.0.0 verificationpage.life
 0.0.0.0 verificationpage.net
+0.0.0.0 verificationpage.shop
 0.0.0.0 verificationpage3.shop
 0.0.0.0 verificationpage3121.pro
 0.0.0.0 verificationpaypal.cotesud33.org
@@ -70681,7 +70713,6 @@
 0.0.0.0 whatsapp-xxx-naughty17.pages.dev
 0.0.0.0 whatsapp-xxx-naughty18.pages.dev
 0.0.0.0 whatsapp-ye.com.cn
-0.0.0.0 whatsapp-zh.download
 0.0.0.0 whatsapp00x.pages.dev
 0.0.0.0 whatsapp0nly.pages.dev
 0.0.0.0 whatsapp0nlyy.pages.dev
@@ -71481,7 +71512,6 @@
 0.0.0.0 www-us-paypal.visitbaltimoremd.net
 0.0.0.0 www-us-paypal.visitbaltimoremd.org
 0.0.0.0 www-us-paypal.webbdelvam-dev.com
-0.0.0.0 www.00-sec-secure-chase-personal-christine.chaseonline00.eu.cc
 0.0.0.0 www.abnamro-meespierson-event10.abnamro-event.com.ph
 0.0.0.0 www.abnamro-meespierson-event12.abnamro-event.com.ph
 0.0.0.0 www.account.postbank.de.firstcom2u.com
@@ -72217,6 +72247,7 @@
 0.0.0.0 zoommeeting-inquire.pages.dev
 0.0.0.0 zoommeeting-internet-protections.com
 0.0.0.0 zoommeetinginvites.pages.dev
+0.0.0.0 zoommeetingupdate.nitlworld.com
 0.0.0.0 zoommeetus.pages.dev
 0.0.0.0 zoomus.online
 0.0.0.0 zoomus.pages.dev

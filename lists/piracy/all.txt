@@ -1,5 +1,5 @@
 # Title: EZOBLOCKER Piracy
-# Domains: 1,380 | Updated: 2026-11-28
+# Domains: 1,379 | Updated: 2026-11-28
 # Homepage: https://github.com/ezoblocker/ezoblocker.app
 # Source: https://raw.githubusercontent.com/ezoblocker/ezoblocker.app/main/lists/piracy/all.txt
 # License: CC0 1.0, public domain. Use it like your own; a mention makes our day.
@@ -266,7 +266,6 @@ directory.acci.gr
 *.dizilab.cc
 *.dizilab.to
 *.dizipaliptv.com.tr
-*.dizipalorjinal23.com
 *.diziyou.info
 *.diziyou.one
 *.diziyou.vip
